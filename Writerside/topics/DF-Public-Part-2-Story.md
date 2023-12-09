@@ -174,15 +174,15 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ## Session 148 = Saturday 17th December 2022 = Shopping = Truth Teller Part 1.
 
-## Session 149 = Saturday 17th December 2022 = Truth Teller Part 2. Lionfell Keep.
+## Session 149 = Saturday 17th December 2022 = Truth Teller Part 2. Lion fell Keep.
 
-Lionfell Keep.
+Lion fell Keep.
 
 ## Session 150 = Thursday 29th December 2022 = Truth Teller Part 3.
 
-Modwin’s child.
+Modwinn’s child.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d7b0655-4f93-4fd8-91b7-e31f7b149361/Untitled.png)
+![](ModwinnsChild.png)
 
 ## 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping. 13:00.
 
@@ -475,7 +475,7 @@ raw magic flows through
 you died
 clench of fist blood seems to seep through and blood forming into clay orb, orb transfuses into alchemical fire which you toss at the floor
 have some cool extra power - feels good
-tammerhawk says what is really impressive is this - teleports to a beach
+Tammerhawk says what is really impressive is this - teleports to a beach
 tammerhawk says - focus on where we just were see what - visualize it and then raw magic comes from a forgotten time and body feels crush and warped to the cavern - can warp here any time once per day
 corbin takes out bag of holding and puts it on table - xutlieg takes it and is filled with energy
 corbin says there are 3 metal shards
@@ -1783,7 +1783,7 @@ Allissee gets moon sight (sun sight) tattoo on her forehead.
 
 Allissee gets a tattoo of potion of expeditious retreat on her right forearm, this is a trade craft tattoo.
 
-## Session 196 = 2023 November 18th Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 7.
+## Session 196 = 2023 November 18th Saturday+ 4710 AR Erastus 26th + Gaunt-light Part 7.
 
 Office.
 
@@ -1797,7 +1797,7 @@ Magic bath and Magic toilet put in Harrow.
 
 Temple of the Canker.
 
-## Session 197 = 2023 November 25th Saturday+ 4710 AR  Erastus 26th + Gauntlight Part 8.
+## Session 197 = 2023 November 25th Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 8.
 
 13:00
 
@@ -1820,3 +1820,4 @@ Mining room.
 4 wooden pillars.
 
 ## Table of contents.
+
