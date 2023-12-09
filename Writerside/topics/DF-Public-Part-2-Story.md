@@ -10,15 +10,16 @@ This is the 2nd part of the Doomsday Funtime story.
 
 [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
 
-## DF P2 Arc List.
+## DF P2 arc list.
 
 1. Skull Hill Arc.
 2. Collapsing Halls Arc.
 3. Truth Teller Arc.
 4. The Harrow Arc.
-5. Gaunt Light Arc.
+5. Necropolis Arc.
+6. Gaunt Light Arc.
 
-## The Table of Contents.
+## The table of contents.
 
 ## Doomsday Funtime Part 2 = Session Quick Summary.
 
@@ -1797,7 +1798,7 @@ Magic bath and Magic toilet put in Harrow.
 
 Temple of the Canker.
 
-## Session 197 = 2023 November 25th Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 8.
+## Session 197 = 2023 november 25th saturday + 4710 AR erastus 26th + Gaunt-light Part 8.
 
 13:00
 
@@ -1813,11 +1814,33 @@ Cardigan eats human flesh and gains “Sickening Bite”.
 
 30 XP per 12 divine spark books.
 
-## Session 198 = 2023 December 2nd Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 9.
+## Session 198 = 2023 december 2nd saturday+ 4710 AR erastus 26th + Gaunt-light Part 9.
 
 Mining room.
 
 4 wooden pillars.
 
-## Table of contents.
+## Session 199 = 2023 december 9th saturday + 4710 AR erastus 26th + Gaunt-light part 10.
+
+Players in the VC: Laucian, Anthony, Horia, Nam, Simon.
+Back in the mist alien room.
+
+Korlok's room.
+Selenor is trying to convince the devil Korlok to open the door.
+
+Selenor talks to Korlok about the war in heaven, and the 3 bearded devils that Selenor met.
+
+The ghost chef's cooking challenge.
+Allissee gets the Chef-Masters ladle Spoon.
+Zutlieg gets the Brew-Masters Brew-mug.
+
+Selenor asks Korlok how to find the beared devils from the war of heavens.
+Korlok tells Selenor that a Magnimar historian will help find them.
+As Magnimar is a city of history,
+and most likely the bearded devils will be drawn to the past as the devils are beings of this distant past.
+
+**Belcorra's dining room.**
+
+When Cardigan uses the 7-pointed moss book powers, Zutlieg feels a strange anxiety. 
+Selenor says that he only cares about Cardigan and Zutlieg.
 
