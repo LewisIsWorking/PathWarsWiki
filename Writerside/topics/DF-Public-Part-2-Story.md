@@ -2,15 +2,15 @@
 
 Start typing here...
 
-# DF Public P2 = Story.
+## DF Public P2 = Story.
 
 This is the 2nd part of the Doomsday Funtime story.
 
-# DF P1 Story.
+## DF P1 Story.
 
 [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
 
-# DF P2 Arc List.
+## DF P2 Arc List.
 
 1. Skull Hill Arc.
 2. Collapsing Halls Arc.
@@ -18,9 +18,9 @@ This is the 2nd part of the Doomsday Funtime story.
 4. The Harrow Arc.
 5. Gaunt Light Arc.
 
-# The Table of Contents.
+## The Table of Contents.
 
-# Doomsday Funtime Part 2 = Session Quick Summary.
+## Doomsday Funtime Part 2 = Session Quick Summary.
 
 1. 128 = Campaign re-start session.
 2. 129 → 130. The Lotus Sandstorm.
@@ -37,13 +37,13 @@ This is the 2nd part of the Doomsday Funtime story.
 13. 152. Modwinn retires. Alissee gets Sin Reaver.
 14. 153 → 160. 7 Sessions. Harrow Arc.
 
-# Naming Format.
+## Naming Format.
 
 Each session should be named as per this format.
 
 Session # = In Real Life Date = In-game Date = Session Title.
 
-# Session 128 = 7th Erastus 4710 AR = New Heroes.
+## Session 128 = 7th Erastus 4710 AR = New Heroes.
 
 7th Erastus.
 4710 AR.
@@ -82,9 +82,9 @@ Cheliax has reached out to Keleri to inform Keleri that Tywin has been there for
 
 Enkundo.
 
-# Session 129 = The Lotus Sandstorm Part 1.
+## Session 129 = The Lotus Sandstorm Part 1.
 
-# Session 130 = 8th & 9th Erastus. 4710 AR = The Lotus Sandstorm Part 2.
+## Session 130 = 8th & 9th Erastus. 4710 AR = The Lotus Sandstorm Part 2.
 
 ## 8th Erastus. 4710 AR.
 
@@ -118,67 +118,67 @@ Sir Reinhold goes to see Lord Lionfell.
 
 Tavern on the Marsh.
 
-# Session 131 = 9th Erastus. 4710 AR = Sin Reaver and Iron Oath obtained in the Runewild.
+## Session 131 = 9th Erastus. 4710 AR = Sin Reaver and Iron Oath obtained in the Runewild.
 
-# Session 131-1 = 9th Erastus. 4710 AR = Aarlak Helps Tammerhawk explore the Sandstone Temple.
+## Session 131-1 = 9th Erastus. 4710 AR = Aarlak Helps Tammerhawk explore the Sandstone Temple.
 
 Mysterious Osirian temple depicting a war with necromancers.
 
 Selenor gets an onyx dagger and an onyx spear.
 
-# Session 132 = Monday 22nd August 2022 = 9th Erastus. 4710 AR = Story Title.
+## Session 132 = Monday 22nd August 2022 = 9th Erastus. 4710 AR = Story Title.
 
-# Session 133 = Saturday 3rd September 2022 = 9th Erastus. 4710 AR + Moon Bears.
+## Session 133 = Saturday 3rd September 2022 = 9th Erastus. 4710 AR + Moon Bears.
 
 Drekk Val and Korumun talk about the mantle of the moon bears.
 
-# Session 134 = Saturday 10th September 2022 = 9th+10th Erastus. 4710 AR = Skull Hill Part 1.
+## Session 134 = Saturday 10th September 2022 = 9th+10th Erastus. 4710 AR = Skull Hill Part 1.
 
 ## 10th Erastus. 4710 AR. Sandpoint meeting with Amenopheus.
 
 08:00 wake-up time.
 
-# Session 135 = Saturday 24th September 2022 = 10th Erastus. 4710 AR = Skull Hill Part 2.
+## Session 135 = Saturday 24th September 2022 = 10th Erastus. 4710 AR = Skull Hill Part 2.
 
-# Session 136 = Sunday 25th September 2022 = 11th Erastus. 4710 AR = Skull Hill Part 3.
+## Session 136 = Sunday 25th September 2022 = 11th Erastus. 4710 AR = Skull Hill Part 3.
 
 ## 11th Erastus. 4710 AR. Skull Hill.
 
-# Session 137. Saturday 22th October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 4.
+## Session 137. Saturday 22th October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 4.
 
-# Session 138. Saturday 29th October 2022 =  11th Erastus. 4710 AR = Skull Hill Part 5.
+## Session 138. Saturday 29th October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 5.
 
-# Session 139. Saturday 5th November 2022 = 11th Erastus. 4710 AR = Shopping Session #1.
+## Session 139. Saturday 5th November 2022 = 11th Erastus. 4710 AR = Shopping Session #1.
 
-# Session 140 = Sunday 6th November 2022 = 11th Erastus. 4710 AR = Shopping Session #2.
+## Session 140 = Sunday 6th November 2022 = 11th Erastus. 4710 AR = Shopping Session #2.
 
-# Session 141 = Sunday 6th November 2022 = 12th Erastus. 4710 AR = Shopping Session #3.
+## Session 141 = Sunday 6th November 2022 = 12th Erastus. 4710 AR = Shopping Session #3.
 
 ## 12th Erastus. 4710 AR. Shopping Session.
 
-# Session 142. Saturday 19th November 2022  = 12th Erastus. 4710 AR = Collapsing Halls Part 1.
+## Session 142. Saturday 19th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 1.
 
-# Session 143. Sunday 20th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 2.
+## Session 143. Sunday 20th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 2.
 
-# Session 144. Saturday 26th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 3.
+## Session 144. Saturday 26th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 3.
 
-# Session 145. Sunday 27th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 4.
+## Session 145. Sunday 27th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 4.
 
-# Session 146. Saturday 10th December 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 5.
+## Session 146. Saturday 10th December 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 5.
 
 ## 13th Erastus. 4710 AR. Collapsing Halls.
 
-# Session 147. Sunday 11th December 2022 = 13th Erastus. 4710 AR = Shopping.
+## Session 147. Sunday 11th December 2022 = 13th Erastus. 4710 AR = Shopping.
 
 ## 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping.
 
-# Session 148 = Saturday 17th December 2022 = Shopping =  Truth Teller Part 1.
+## Session 148 = Saturday 17th December 2022 = Shopping = Truth Teller Part 1.
 
-# Session 149 = Saturday 17th December 2022 = Truth Teller Part 2. Lionfell Keep.
+## Session 149 = Saturday 17th December 2022 = Truth Teller Part 2. Lionfell Keep.
 
 Lionfell Keep.
 
-# Session 150 = Thursday 29th December 2022 = Truth Teller Part 3.
+## Session 150 = Thursday 29th December 2022 = Truth Teller Part 3.
 
 Modwin’s child.
 
@@ -186,47 +186,47 @@ Modwin’s child.
 
 ## 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping. 13:00.
 
-# Session 150-1 = Thursday 31st December 2022 = Selenor does Bounty #1 and Bounty #2.
+## Session 150-1 = Thursday 31st December 2022 = Selenor does Bounty #1 and Bounty #2.
 
-# Session 150-2 =  2nd December 2022 = Selenor Bounty #3 Part 2.
+## Session 150-2 = 2nd December 2022 = Selenor Bounty #3 Part 2.
 
-# Session 151 = Saturday 11th February 2023 + 13th Erastus, 4710 AR + Selenor Bounty #3 Part 2.
+## Session 151 = Saturday 11th February 2023 + 13th Erastus, 4710 AR + Selenor Bounty #3 Part 2.
 
 Alissee joined the party
 
-# Session 152 = Sunday 12th February 2023 + 14th Erastus, 4710 AR + Keleri Korvosa Update + Selenor & Razorclaw.
+## Session 152 = Sunday 12th February 2023 + 14th Erastus, 4710 AR + Keleri Korvosa Update + Selenor & Razorclaw.
 
 Esther takes a break.
 
-# Session 153 = Sunday 19th February 2023 + 14th Erastus, 4710 AR + Harrow Part 1.
+## Session 153 = Sunday 19th February 2023 + 14th Erastus, 4710 AR + Harrow Part 1.
 
 Go to harrow, meet people
 
-# Session 154 = Monday 20th February 2023 + 14th Erastus, 4710 AR + Harrow Part 2 + Sonnorae Part 1.
+## Session 154 = Monday 20th February 2023 + 14th Erastus, 4710 AR + Harrow Part 2 + Sonnorae Part 1.
 
-# Session 155 = Saturday 4th March 2023 + 14th Erastus, 4710 AR + Harrow Part 3 + Sonnorae Part 2.
+## Session 155 = Saturday 4th March 2023 + 14th Erastus, 4710 AR + Harrow Part 3 + Sonnorae Part 2.
 
-# Session 156 = Sunday 5th March 2023 + 14th Erastus, 4710 AR + Harrow Part 4 + Sonnorae Part 3.
+## Session 156 = Sunday 5th March 2023 + 14th Erastus, 4710 AR + Harrow Part 4 + Sonnorae Part 3.
 
-# Session 157 = Wednesday 8th March 2023 + 14th Erastus, 4710 AR + Harrow Part 5 + Sonnorae Part 4.
+## Session 157 = Wednesday 8th March 2023 + 14th Erastus, 4710 AR + Harrow Part 5 + Sonnorae Part 4.
 
-# Session 158 = Friday 10th March 2023 + 15th Erastus, 4710 AR + Bounty #4.
+## Session 158 = Friday 10th March 2023 + 15th Erastus, 4710 AR + Bounty #4.
 
-# Session 159 = Saturday 11th March 2023 + 15th Erastus, 4710 AR + Harrow Part 6 + Ballio and Balimar Part 1.
+## Session 159 = Saturday 11th March 2023 + 15th Erastus, 4710 AR + Harrow Part 6 + Ballio and Balimar Part 1.
 
-# Session 160 = Saturday 18th March 2023 + 15th Erastus, 4710 AR + Harrow Part 7 + Ballio and Balimar Part 2.
+## Session 160 = Saturday 18th March 2023 + 15th Erastus, 4710 AR + Harrow Part 7 + Ballio and Balimar Part 2.
 
-# Session 161 = Sunday 19th March 2023 + 15th Erastus, 4710 AR + Harrow Part 8 + Ballio and Balimar Part 3.
+## Session 161 = Sunday 19th March 2023 + 15th Erastus, 4710 AR + Harrow Part 8 + Ballio and Balimar Part 3.
 
-# Session 162 = Tuesday 22th March 2023 + 15th Erastus, 4710 AR + Harrow Part 9 + Ballio and Balimar Part 4.
+## Session 162 = Tuesday 22th March 2023 + 15th Erastus, 4710 AR + Harrow Part 9 + Ballio and Balimar Part 4.
 
-# Session 163 = Saturday 25th March 2023 + 15th Erastus, 4710 AR + Harrow Part 10 + Ballio and Balimar Part 5.
+## Session 163 = Saturday 25th March 2023 + 15th Erastus, 4710 AR + Harrow Part 10 + Ballio and Balimar Part 5.
 
-# Session 164 = Sunday 26th March 2023 + 15th Erastus, 4710 AR + Harrow Part 11 + Ballio and Balimar Part 6.
+## Session 164 = Sunday 26th March 2023 + 15th Erastus, 4710 AR + Harrow Part 11 + Ballio and Balimar Part 6.
 
-# Session 165 = Wednesday 27th March 2023 + 15th Erastus, 4710 AR + Harrow Part 12 + Ballio and Balimar Part 7.
+## Session 165 = Wednesday 27th March 2023 + 15th Erastus, 4710 AR + Harrow Part 12 + Ballio and Balimar Part 7.
 
-# Session 166 = Saturday 1st April 2023 + 15th Erastus, 4710 AR + Harrow Part 13 + Ballio and Balimar Part 8.
+## Session 166 = Saturday 1st April 2023 + 15th Erastus, 4710 AR + Harrow Part 13 + Ballio and Balimar Part 8.
 
 Finish barbarian Imron fight
 
@@ -234,9 +234,9 @@ Depetrify amar
 
 Explore LVL2 of Mansion
 
-# Session 167 = Sunday 2nd April 2023 + 15th Erastus, 4710 AR + Harrow Part 14 + Ballio and Balimar Part 9.
+## Session 167 = Sunday 2nd April 2023 + 15th Erastus, 4710 AR + Harrow Part 14 + Ballio and Balimar Part 9.
 
-# Session 168 = Saturday 8th April 2023 + 15th Erastus, 4710 AR + Harrow Part 15 + Ballio and Balimar Part 10.
+## Session 168 = Saturday 8th April 2023 + 15th Erastus, 4710 AR + Harrow Part 15 + Ballio and Balimar Part 10.
 
 Imron The Rake.
 
@@ -254,7 +254,7 @@ Current In-World Time = 17:30.
 
 Isilynor takes 2 Minor sturdy shields from the ball room.
 
-# Session 169 = Sunday 9th April 2023 + 15th Erastus, 4710 AR + Harrow Part 16 + Ballio and Balimar Part 10.
+## Session 169 = Sunday 9th April 2023 + 15th Erastus, 4710 AR + Harrow Part 16 + Ballio and Balimar Part 10.
 
 Outside the dungeon enchanted stone door.
 
@@ -359,7 +359,7 @@ Allissee agrees and Allissee’s left hand turns to shimmer rough brilliantly wh
 
 Drekk-Zal gives Allissee around 950ish gold.
 
-# Session 170 = Saturday 15th April 2023 + 15th Erastus, 4710 AR + Amar Resurrection + New Base + Bounty #5 ROCK STEW.
+## Session 170 = Saturday 15th April 2023 + 15th Erastus, 4710 AR + Amar Resurrection + New Base + Bounty #5 ROCK STEW.
 
 Jyronn was preoccupied with the a potential theft.
 
@@ -457,7 +457,7 @@ Allissee = 3. Nobles.
 
 Selenor = 15/9. Cheliax.
 
-# Zutlieg’s Session 170 = Saturday 15th April 2023 + 15th Erastus, 4710 AR + Amar Resurrection + New Base + Bounty #5 ROCK STEW.
+## Zutlieg’s Session 170 = Saturday 15th April 2023 + 15th Erastus, 4710 AR + Amar Resurrection + New Base + Bounty #5 ROCK STEW.
 
 Session 170 = Saturday 15th April 2023 + 15th Erastus, 4710 AR + Amar Resurrection + New Base + Bounty #5 ROCK STEW.
 
@@ -529,7 +529,7 @@ caldron disabled and the halfling woman appears and tells alisee she's been kept
 everyone gets 4 gold
 prestige point - zutlieg with the cipher mages - guild - prestige lvl 1 now
 
-# Session 171 = Thursday 20th April 2023 + 16th Erastus, 4710 AR + Goblin Mutant Kidnapping + He-Who-Waits.
+## Session 171 = Thursday 20th April 2023 + 16th Erastus, 4710 AR + Goblin Mutant Kidnapping + He-Who-Waits.
 
 10:00.
 
@@ -609,7 +609,7 @@ UNLOCKED: ****STUDENT OF PERFECTION DEDICATION****
 
 UNLOCKED: Rain of Embers Stance
 
-# Session 172 = Thursday 20th April 2023 + 16th Erastus, 4710 AR + The Magnimar Siege Tower Part 1.
+## Session 172 = Thursday 20th April 2023 + 16th Erastus, 4710 AR + The Magnimar Siege Tower Part 1.
 
 Korumun offers a the ring of the lady’s spirit to Selenor.
 
@@ -629,7 +629,7 @@ They find a Raccoon-folk with a lapis lazuli collar that reads ??? in Tiax-Xi.
 
 The collar is worth 5 GP.
 
-# Session 173 = Sunday 30th April 2023 + 16th Erastus, 4710 AR + The Magnimar Siege Tower Part 2.
+## Session 173 = Sunday 30th April 2023 + 16th Erastus, 4710 AR + The Magnimar Siege Tower Part 2.
 
 12:30
 
@@ -733,7 +733,7 @@ Allissee = 8 + 4 = 12/12. Nobles.
 
 Selenor = 2/20 + 4 = 6/24. Cheliax.
 
-# Session 174 = Wednesday 24th May 2023 + 16th Erastus, 4710 AR + Harrow Part 17 + Rabbit Prince 1.
+## Session 174 = Wednesday 24th May 2023 + 16th Erastus, 4710 AR + Harrow Part 17 + Rabbit Prince 1.
 
 15:00
 
@@ -759,7 +759,7 @@ Selenor = 32 + 21 + 33 = 86.
 
 Zutilieg = 33 + 24 = 31 = 64 + 24 = 88.
 
-# Session 175 = Saturday 27th May 2023 + 16th Erastus, 4710 AR + Harrow Part 18 + Rabbit Prince 2.
+## Session 175 = Saturday 27th May 2023 + 16th Erastus, 4710 AR + Harrow Part 18 + Rabbit Prince 2.
 
 Amar wakes up.
 
@@ -943,7 +943,7 @@ Cardigan - Success.
 
 4 minutes.
 
-# Zutlieg’s Session 175 = Saturday 27th May 2023 + 16th Erastus, 4710 AR + Harrow Part 18 + Rabbit Prince 2.
+## Zutlieg’s Session 175 = Saturday 27th May 2023 + 16th Erastus, 4710 AR + Harrow Part 18 + Rabbit Prince 2.
 
 Session 175 = Saturday 27th May 2023 + 16th Erastus, 4710 AR + Harrow Part 18 + Rabbit Prince 2.
 
@@ -1021,7 +1021,7 @@ warp back and help dig superbly, saving everyone just barely, 3 seconds and they
 
 Selenor teleports out with his boots and digs out.
 
-# Session 176 = Sunday 28th May 2023 + 20th Erastus, 4710 AR + Harrow Part 19 + Rabbit Prince 3.
+## Session 176 = Sunday 28th May 2023 + 20th Erastus, 4710 AR + Harrow Part 19 + Rabbit Prince 3.
 
 On the night of the 19th Amar has a dream-vision:
 
@@ -1043,7 +1043,7 @@ Got rod of dancing lights.
 
 Amar got painting from safe, finally.
 
-# Session 177 = Saturday 3rd June 2023 + **Wealday** 20th Erastus, 4710 AR + Harrow Part 20 + Rabbit Prince 4.
+## Session 177 = Saturday 3rd June 2023 + **Wealday** 20th Erastus, 4710 AR + Harrow Part 20 + Rabbit Prince 4.
 
 13:00
 
@@ -1113,7 +1113,8 @@ Ice Forest.
 
 Prison camp.
 
-# Zutlieg’s Session 177 = Saturday 3rd June 2023 +  **Wealday** 20th Erastus, 4710 AR + Harrow Part 20 + Rabbit Prince 4..
+## Zutlieg’s Session 177 = Saturday 3rd June 2023 +  **Wealday
+** 20th Erastus, 4710 AR + Harrow Part 20 + Rabbit Prince 4..
 
 A dying clearing in the forest with brain-tasting soil.
 There seem to be brains infused in the dirt of the area.
@@ -1150,7 +1151,7 @@ an old man tells of a prison being guarded by nature. hot springs, eternal summe
 Zutlieg is priest of Aristil. almost high priest gaining new abilities.
 I can flavour spells with the fluff of the hunt things when inspiring courage and whatnot. fluff it up with a hunting/survival/nature theme.
 
-# Session 178 = Monday 5th June 2023 +  **Wealday** 20th Erastus, 4710 AR + Harrow Part 21 + Rabbit Prince 5.
+## Session 178 = Monday 5th June 2023 +  **Wealday** 20th Erastus, 4710 AR + Harrow Part 21 + Rabbit Prince 5.
 
 They are in a steam cave.
 
@@ -1168,7 +1169,7 @@ Yeti Fight.
 
 23:00
 
-# Session 179 = Saturday 10th June 2023 +  **Wealday** 20th Erastus, 4710 AR + Harrow Part 22 + Rabbit Prince 6.
+## Session 179 = Saturday 10th June 2023 +  **Wealday** 20th Erastus, 4710 AR + Harrow Part 22 + Rabbit Prince 6.
 
 Kidu The Ogre fight.
 
@@ -1270,7 +1271,7 @@ It is 8am.
 
 08:00.
 
-# Session 180 = Saturday 1st July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 1 + Amar in Lilly Vale.
+## Session 180 = Saturday 1st July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 1 + Amar in Lilly Vale.
 
 10:00.
 
@@ -1304,7 +1305,7 @@ For a total of 228 GP.
 
 Selenor buys +2 armour potency rune.
 
-# Session 181 = Sunday 2nd July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 2 + Leshy Side Quest.
+## Session 181 = Sunday 2nd July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 2 + Leshy Side Quest.
 
 11:00am.
 
@@ -1326,7 +1327,7 @@ Allissee’s dad hires the leshys.
 
 Noble woman
 
-# Session 182 = Sunday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady’s Light Moon Flower Ice Dragon.
+## Session 182 = Sunday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady’s Light Moon Flower Ice Dragon.
 
 1 hour spent getting Laucian.
 
@@ -1362,7 +1363,7 @@ Selenor creates Moon Flower Ice Dragon.
 
 Selenor wants to make a shrine of Rovagug for Cardigan.
 
-# Session 183 = 2023 July 15th Tuesday + 4710 AR  Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
+## Session 183 = 2023 July 15th Tuesday + 4710 AR  Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
 
 Keleri takes the flowers from Selenor.
 
@@ -1424,7 +1425,7 @@ Selenor spends 2 days on the beach.
 
 Selenor meets Broderk Quink on the beach.
 
-# Session 184 = 2023 August 5th Saturday + 4710 AR  Erastus 23rd Starday + Necropolis Part 1.
+## Session 184 = 2023 August 5th Saturday + 4710 AR  Erastus 23rd Starday + Necropolis Part 1.
 
 Ok so.
 
@@ -1464,7 +1465,7 @@ Selenor names the table skeleton More-Gore.
 
 Fleshwarped Cultists x 6 killed.
 
-# Session 185 = 2023 August 12th Saturday + 4710 AR  Erastus 23rd Starday + Necropolis Part 2.
+## Session 185 = 2023 August 12th Saturday + 4710 AR  Erastus 23rd Starday + Necropolis Part 2.
 
 17:00.
 
@@ -1512,7 +1513,7 @@ Zutleig suceeds at unlocking door 2, the door doesn’t open, Zutlieg is telepor
 
 Taldor-Osiria Masks are worth 1 Fame Point to the first person to hand it in.
 
-# Session 186 = 2023 August 19th Saturday + 4710 AR  Erastus 23rd Starday + Necropolis Part 3.
+## Session 186 = 2023 August 19th Saturday + 4710 AR  Erastus 23rd Starday + Necropolis Part 3.
 
 20:00.
 
@@ -1540,7 +1541,7 @@ Fight over at 04:32.
 
 1 PP for handing in spears to Taldor.
 
-# Session 187 = 2023 August 20th Sunday + 4710 AR  Erastus 23rd Starday + Necropolis Part 4.
+## Session 187 = 2023 August 20th Sunday + 4710 AR  Erastus 23rd Starday + Necropolis Part 4.
 
 22:00
 
@@ -1588,13 +1589,13 @@ Laucian is no longer becoming mummified.
 
 Amenopheus has absorbed the power of Zuberi.
 
-# Session 187-1 = Selenor becomes a Eternal Warden…?
+## Session 187-1 = Selenor becomes a Eternal Warden…?
 
 Sandpoint.
 
 23:00.
 
-# Session 188 = 2023 August 26th Saturday+ 4710 AR  Erastus 21st/24th + Amar Lilly Vale P2 & Admin Stuff.
+## Session 188 = 2023 August 26th Saturday+ 4710 AR  Erastus 21st/24th + Amar Lilly Vale P2 & Admin Stuff.
 
 Amar Stuff.
 
@@ -1648,7 +1649,7 @@ They do a bounty.
 
 They go to the mushfens, save 2 halflings, Selenor gets his 2nd slave in the form of a wild frog creature.
 
-# Session 189 = 2023 September 16th Saturday+ 4710 AR  Erastus 24th + Amar re-joins the Party as the Harrower.
+## Session 189 = 2023 September 16th Saturday+ 4710 AR  Erastus 24th + Amar re-joins the Party as the Harrower.
 
 11:00.
 
@@ -1658,7 +1659,7 @@ Selenor’s arm is now necrotic.
 
 Selenor’s full plate is not etched with half-finished strange esoteric magical runes, Keleri does not recognise the runes.
 
-# Session 190 = 2023 September 17th Sunday + 4710 AR  Erastus 24th + Gauntlight Part 1.
+## Session 190 = 2023 September 17th Sunday + 4710 AR  Erastus 24th + Gauntlight Part 1.
 
 12:00.
 
@@ -1696,7 +1697,7 @@ Wrin Sivinxi (female elf tiefling cosmic caster) gives Cardigan a cosmic blessin
 
 Wrin tells Allissee & Selenor that the Moon (Allissee) or the Black Hole (Selenor) will be the choice that Cardigan will have to make.
 
-# Session 191 = 2023 September 30th Saturday + 4710 AR  Erastus 25th + Gauntlight Part 2.
+## Session 191 = 2023 September 30th Saturday + 4710 AR  Erastus 25th + Gauntlight Part 2.
 
 Slept in the Harrow.
 
@@ -1716,7 +1717,7 @@ Selenor asks Wrin about “How can I help Cardigan on her quest?” and Wrins th
 
 Goes to Gauntlight.
 
-# Session 192 = 2023 September 31th Sunday + 4710 AR  Erastus 25th + Gauntlight Part 3.
+## Session 192 = 2023 September 31th Sunday + 4710 AR  Erastus 25th + Gauntlight Part 3.
 
 Between sessions we did RP on Telegram.
 
@@ -1736,7 +1737,7 @@ Tangle top tells the Lost Prince about Doomsday.
 
 Selenor destroys the goblin doll, earning a boon from Pharasma.
 
-# Session 193 = 2023 October 8th Sunday + 4710 AR  Erastus 25th + Gauntlight Part 4.
+## Session 193 = 2023 October 8th Sunday + 4710 AR  Erastus 25th + Gauntlight Part 4.
 
 Volluk’s workshop.
 
@@ -1760,7 +1761,7 @@ Selenor collects the first soul stone in the cursed washroom.
 
 Big Z.
 
-# Session 194 = 2023 November 5th Sunday + 4710 AR  Erastus 26th + Gauntlight Part 5.
+## Session 194 = 2023 November 5th Sunday + 4710 AR  Erastus 26th + Gauntlight Part 5.
 
 Guard room.
 
@@ -1768,7 +1769,7 @@ Ritsu joins the party.
 
 UNLOCKED: Skeptic Elixir.
 
-# Session 195 = 2023 November 9th Wednesday + 4710 AR  Erastus 26th + Gauntlight Part 6.
+## Session 195 = 2023 November 9th Wednesday + 4710 AR  Erastus 26th + Gauntlight Part 6.
 
 Floor 3.
 
@@ -1782,7 +1783,7 @@ Allissee gets moon sight (sun sight) tattoo on her forehead.
 
 Allissee gets a tattoo of potion of expeditious retreat on her right forearm, this is a trade craft tattoo.
 
-# Session 196 = 2023 November 18th Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 7.
+## Session 196 = 2023 November 18th Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 7.
 
 Office.
 
@@ -1796,7 +1797,7 @@ Magic bath and Magic toilet put in Harrow.
 
 Temple of the Canker.
 
-# Session 197 = 2023 November 25th Saturday+ 4710 AR  Erastus 26th + Gauntlight Part 8.
+## Session 197 = 2023 November 25th Saturday+ 4710 AR  Erastus 26th + Gauntlight Part 8.
 
 13:00
 
@@ -1812,10 +1813,10 @@ Cardigan eats human flesh and gains “Sickening Bite”.
 
 30 XP per 12 divine spark books.
 
-# Session 198 = 2023 December 2nd Saturday+ 4710 AR  Erastus 26th + Gauntlight Part 9.
+## Session 198 = 2023 December 2nd Saturday+ 4710 AR  Erastus 26th + Gaunt-light Part 9.
 
 Mining room.
 
 4 wooden pillars.
 
-# Table of Contents.
+## Table of contents.
