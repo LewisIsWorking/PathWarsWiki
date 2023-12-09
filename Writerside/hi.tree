@@ -6,5 +6,6 @@
                  name="Help Instance"
                  start-page="Default-topic.md">
 
+    <toc-element topic="DF-Public-Part-2-Story.md"/>
     <toc-element topic="Default-topic.md"/>
 </instance-profile>
