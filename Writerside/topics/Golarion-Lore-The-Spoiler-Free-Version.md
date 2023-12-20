@@ -33,7 +33,7 @@ The Varisians call Giant’s “The Builders” in their language.
 
 ## Deities of Golarion Infographic.
 
-![CoreDeitiesOfGolarion.jpg](CoreDeitiesOfGolarion.jpg)
+![](CoreDeitiesOfGolarion.jpg)
 
 Asmodeus.
 Calistria.
