@@ -33,27 +33,28 @@ The Varisians call Giant’s “The Builders” in their language.
 
 ## Deities of Golarion Infographic.
 
-![Core Deities Of Golarion](../images/CoreDeitiesOfGolarion.jpg)
+![Core 20 Deities Of Golarion](../images/CoreDeitiesOfGolarion.jpg)
 
-Asmodeus.
-Calistria.
-Cayden Cailean.
-Desna.
-Erastil.
-Gorum.
-Gozreh.
-Iomedae.
-Irori.
-Lamashtu.
-Nethys.
-Norgorber.
-Pharasma.
-Rovagug.
-Sarenrae.
-Shelyn.
-Torag.
-Urgathoa.
-Zon-Kuthon.
+1. Abadar.
+2. Asmodeus.
+3. Calistria.
+4. Cayden Cailean.
+5. Desna.
+6. Erastil.
+7. Gorum.
+8. Gozreh.
+9. Iomedae.
+10. Irori.
+11. Lamashtu.
+12. Nethys.
+13. Norgorber.
+14. Pharasma.
+15. Rovagug.
+16. Sarenrae.
+17. Shelyn.
+18. Torag.
+19. Urgathoa.
+20. Zon-Kuthon.
 
 ### Abadar.
 
@@ -82,21 +83,20 @@ Abadar likes expanding built-up areas like cities.
 
 ## Asmodeus.
 
-The
-Archfiend
-Dark Prince
-The First
-God-Fiend
-King of Hell
-Lord of Darkness
-Lord of Hell
-Lord of the Pit
-Master of Witches
-Prince of Darkness
-Prince of Devils
-Prince of Hell
-Prince of Law
-Ruler of Hell
+The Archfiend.
+Dark Prince.
+The First.
+God-Fiend.
+King of Hell.
+Lord of Darkness.
+Lord of Hell.
+Lord of the Pit.
+Master of Witches.
+Prince of Darkness.
+Prince of Devils.
+Prince of Hell.
+Prince of Law.
+Ruler of Hell.
 
 1. Hell
 2. Tyranny
