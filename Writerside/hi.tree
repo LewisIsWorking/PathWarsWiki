@@ -6,6 +6,7 @@
                  name="Help Instance"
                  start-page="Default-topic.md">
 
+    <toc-element topic="PF2e-Character-Lore-Builder.md"/>
     <toc-element topic="DF-Public-Part-2-Story.md"/>
     <toc-element topic="5-The-Grand-Explorers.md"/>
     <toc-element topic="Golarion-Lore-The-Spoiler-Free-Version.md"/>
