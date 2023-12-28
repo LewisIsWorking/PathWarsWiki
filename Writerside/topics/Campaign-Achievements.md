@@ -37,18 +37,18 @@ Successfully affect different targets with charm, compulsion spells or mind cont
 
 ???
 
-## Combat Healer.
+## Combat Healer. Total magical healing that has healed.
 
 Cure a cumulative total number of points of damage for other creatures with healing spells.
 Causing any damage subtracts the progress.
 
-## Lifted spirit.
+## Lifted spirit. Fall damage.
 
 Take so much falling damage on several different occasions and survive.
 
 ## Scarred. Total Damage Taken.
 
-Take a cumulative total of many points of damage, being healed with magical healed subtracts away from this total.
+Take a cumulative total of many points of damage, being healed with magical healing subtracts away from this total.
 
 ## Slave freer.
 Free sentient beings held in unjust captivity.
@@ -63,8 +63,6 @@ Your character’s build contains feats from 12 sources (different races, archet
 A dual-class character will have a minimum of 3 sources.
 
 Two from classes and one from race.
-
-## Total Magical Healing Healed.
 
 ## True Knight.
 
