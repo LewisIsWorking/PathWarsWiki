@@ -27,7 +27,7 @@ Knocked unconscious or killed by fire damage several times.
 
 ## Gnoll Slayer!
 
-Deliver the killing blow to 20 gnolls, hyenas, dire hyenas, were-creatures.
+Deliver the killing blow to gnolls, hyenas, hyenas and/or were-creatures.
 
 ## Mind Controller.
 
