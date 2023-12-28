@@ -167,7 +167,7 @@ Convince four knightly orders and a major mayor to write letters of commendation
 13. The story of the Cursed Love. 
 14. The story of the Damned 
 15. The story of the Dead Inside 
-16. The story of the they who denied the Reaper 
+16. The story of the one who denied the Reaper 
 17. The story of the Dragon-Touched 
 18. The story of the Dynasty Founder 
 19. The story of the Eldritch Researcher 
