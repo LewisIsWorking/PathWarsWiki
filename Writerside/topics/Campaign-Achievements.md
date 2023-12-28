@@ -60,6 +60,42 @@ Free sentient beings held in unjust captivity.
 ## Spell Mastery Forte Achievement
 If you use a spell slot spell a lot, keep track of how many times you use it in combat.
 
+The special spell mastery fortes.
+1. Agitate.
+2. Bane-Bless.
+3. Burning Hands.
+4. Charm.
+5. Command.
+6. Deja Vu.
+7. Disrupting Weapon.
+8. Goblin pox.
+9. Grease.
+10. Grim tendrils.
+11. Gust of wind.
+12. Harm-Heal.
+13. Hydraulic push.
+14. Illusory disguise.
+15. Jump.
+16. Liberating command.
+17. Lock.
+18. Long-strider.
+19. Magic missile.
+20. Mirror image.
+21. Noxious vapour.
+22. Penumbra shroud
+23. Phantom pain.
+24. Pummelling rubble.
+25. Ray of enfeeblement.
+26. Sanctuary.
+27. Shattering Gem.
+28. Shocking grasp.
+29. Shockwave.
+30. Snowball.
+31. Spider string.
+32. Summoning.
+33. Tether.
+34. True strike.
+
 ## Trainer Achievement.
 
 Your character’s build contains feats from 12 sources (different races, archetypes, and classes).
