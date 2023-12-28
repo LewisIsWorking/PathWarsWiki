@@ -108,7 +108,7 @@ Two from classes and one from race.
 
 Convince four knightly orders and a major mayor to write letters of commendation on your behalf to join a knightly order.
 
-## Achievements with Secrets requirements.
+## Archetype achievements with Secrets requirements.
 
 1. Athlete.
 2. Attorney.
@@ -148,4 +148,67 @@ Convince four knightly orders and a major mayor to write letters of commendation
 36. Tea Ceremony Host. Clue = Serve tea.
 37. Trainer.
 38. Treasure Hunter.
-39. Turned Hunter
+39. Turned Hunter.
+
+## Story achievements with secret requirements.
+
+1. The story of the Accursed.
+2. The story of the Apotheosis.
+3. The story of the Arisen.
+4. The story of the Artifact Hunter.
+5. The story of the Ascendant.
+6. The story of the Battlefield Healer.
+7. The story of the Betrayed.
+8. The story of the Blessed.
+9. The story of the Champion.
+10. The story of the Child of Two Worlds, the Surface and the Sea. 
+11. The story of the Conciliator.
+12. The story of the Crisis of Conscience.
+13. The story of the Cursed Love. 
+14. The story of the Damned 
+15. The story of the Dead Inside 
+16. The story of the they who denied the Reaper 
+17. The story of the Dragon-Touched 
+18. The story of the Dynasty Founder 
+19. The story of the Eldritch Researcher 
+20. The story of the Enemy Cult 
+21. The story of the Explorer 
+22. The story of the Fearless Zeal 
+23. The story of the Feral Heart 
+24. The story of the Foe-slayer 
+25. The story of the Forgotten Past 
+26. The story of the Ghost Guide 
+27. The story of the Protector of the People 
+28. The story of the Twisted Love 
+29. The story of the Giant Vendetta 
+30. The story of the Glimpse Beyond 
+31. The story of the Gruesome Butcher 
+32. The story of the Inerrant Justice 
+33. The story of the Infiltrator 
+34. The story of the Innocent Blood 
+35. The story of the Liberator 
+36. The story of the Lost Legacy 
+37. The story of the Magical Enigma 
+38. The story of the Magnum Opus 
+39. The story of the Monument Builder 
+40. The story of the Nation Builder 
+41. The story of the Nemesis 
+42. The story of the Object of Legend 
+43. The story of the Otherworldly Influence
+44. The story of the Overachiever 
+45. The story of the Planar Traveler 
+46. The story of the Prophet 
+47. The story of the Puppet Master 
+48. The story of the Redemption 
+49. The story of the Rival 
+50. The story of the Shamed 
+51. The story of the Stronghold 
+52. The story of the Supernatural Spy 
+53. The story of the Thief of Legend 
+54. The story of the Town's Tamer 
+55. The story of the True Love 
+56. The story of the Truth-Seeker 
+57. The story of the Unforgotten 
+58. The story of the Vengeance 
+59. The story of the Wily Warrior 
+60. The story of the Wretched Curator	
