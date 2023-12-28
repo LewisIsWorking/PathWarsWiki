@@ -1,10 +1,23 @@
 # Campaign-Achievements
 
-## The Archetype Achievements.
+## Achievement rules.
+
+The rules for what counts as an achievement valid enemy and/or enemy encounter.
+1. A group of enemies levels combined must be equal or greater than your level x 5.
+2. The quantity capacity of a single group of enemies is equal to your level, 6 enemies for a level 5 counts only 5 of the enemies as 1 group.
+3. The enemy must be at least your level.
 
 ## Aeon Collector.
 
 Collect a number of aeon stones.
+
+## A lifted spirit. Fall damage.
+
+Take an amount of falling damage on several different occasions and survive.
+
+## Back from the Grave.
+
+???
 
 ## Chronicler.
 
@@ -16,6 +29,11 @@ The reward is the most powerful feat ever.
 
 High-time investment = High reward.
 
+## Combat Healer. Total magical healing that has healed.
+
+Cure a cumulative total number of points of damage for other creatures with healing spells.
+Causing any damage subtracts the progress.
+
 ## Critical Hitter! Total Critical Hits Landed.
 
 Land many critical hits.
@@ -25,30 +43,17 @@ Land many critical hits.
 Face different devils in combat and either take damage or suffer some other sort of injury from each devil. 
 The devil does not count if you fall unconscious, flee, or otherwise become unable to strike back at them.
 
-## Out of the fire.
-
-Knocked unconscious or killed by fire damage several times.
-
 ## Gnoll Slayer!
 
 Deliver the killing blow to gnolls, hyenas, hyenas and/or were-creatures.
 
+## Out of the fire.
+
+Knocked unconscious or killed by fire damage several times.
+
 ## Mind Controller.
 
 Successfully affect different targets with charm, compulsion spells or mind control spells.
-
-## Back from the Grave.
-
-???
-
-## Combat Healer. Total magical healing that has healed.
-
-Cure a cumulative total number of points of damage for other creatures with healing spells.
-Causing any damage subtracts the progress.
-
-## A lifted spirit. Fall damage.
-
-Take an amount of falling damage on several different occasions and survive.
 
 ## Scarred. Total Damage Taken.
 
@@ -133,7 +138,7 @@ Convince four knightly orders and a major mayor to write letters of commendation
 21. Jolly Gambler.
 22. Kluger.
 23. Liaison.
-24. Oathbound.
+24. Oath-bound.
 25. Other.
 26. Pilgrim.
 27. Politician.
@@ -199,7 +204,7 @@ Convince four knightly orders and a major mayor to write letters of commendation
 45. The story of the Planar Traveler 
 46. The story of the Prophet 
 47. The story of the Puppet Master 
-48. The story of the Redemption 
+48. The story of the Redeemed. 
 49. The story of the Rival 
 50. The story of the Shamed 
 51. The story of the Stronghold 
@@ -212,3 +217,47 @@ Convince four knightly orders and a major mayor to write letters of commendation
 58. The story of the Vengeance 
 59. The story of the Wily Warrior 
 60. The story of the Wretched Curator	
+
+## Ultimate Achievements.
+
+1. Armchair General.
+2. Blow this Joint.
+3. Bygone Relic.
+4. Collector.
+5. Conspiracy Theorist.
+6. Crypto-hunter.
+7. Deep Sleeper.
+8. Derring-do.
+9. Embodiment of Vice.
+10. Embodiment of Virtue.
+11. Evil Parent.
+12. Face Your Fear.
+13. Familial Quest.
+14. History Repeats.
+15. Homebody.
+16. Incognito.
+17. Inner Stillness.
+18. Karmic Debt.
+19. King slayer.
+20. Last of Its Kind.
+21. The Long Con.
+22. Mapper of the Unknown.
+23. Marked.
+24. Mentor.
+25. Not My People.
+26. Pauper Prince.
+27. The Peaceful Warrior.
+28. Plague Survivor.
+29. Possessed.
+30. Prodigal Son.
+31. Proof of Innocence.
+32. Rebellion Crusher.
+33. Reclamation.
+34. Something Calls.
+35. Spiritual Twin.
+36. Star-seeker.
+37. Summon a God.
+38. True Independence.
+39. Turning Tables.
+40. Unknown Deity.
+41. Wrong Body.
