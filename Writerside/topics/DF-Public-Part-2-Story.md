@@ -1820,7 +1820,7 @@ Mining room.
 
 4 wooden pillars.
 
-## Session 199 = 2023 december 9th saturday + 4710 AR erastus 26th + Gaunt-light part 10.
+## Session 199 = 2023 december 9th saturday + 4710 AR Erastus 26th + Gaunt-light part 10.
 
 Players in the VC: Laucian, Anthony, Horia, Nam, Simon.
 Back in the mist alien room.
@@ -1837,10 +1837,42 @@ Zutlieg gets the Brew-Masters Brew-mug.
 Selenor asks Korlok how to find the beared devils from the war of heavens.
 Korlok tells Selenor that a Magnimar historian will help find them.
 As Magnimar is a city of history,
-and most likely the bearded devils will be drawn to the past as the devils are beings of this distant past.
+and most likely, the bearded devils will be drawn to the past as the devils are beings of this distant past.
 
 **Belcorra's dining room.**
 
 When Cardigan uses the 7-pointed moss book powers, Zutlieg feels a strange anxiety. 
 Selenor says that he only cares about Cardigan and Zutlieg.
 
+## Session 200! = 2023 December 27th Wednesday + 4710 AR Erastus 26th + Bounty.
+
+We are going to do a bounty because only Anthony and Horia are available to play.
+
+Selenor gets controlled and walks outside the Gaunt light.
+Selenor gets Amar to get Sonorae to do a sending spell to get Keleri to come.
+Keleri and Tammerhawk come.
+Keleri can't read the memories that just happened.
+Selenor tells Keleri about the furnace.
+
+Grave-land.
+
+Selenor asks Tammerhawk about the tea set gift to Teflar.
+Teflar was surprised but loved the gift.
+Teflar told Tammerhawk to tell Selenor that Teflar was looking forward to dinner.
+
+Timitheo Ralovon is an elven knight of the noble house of Tra-umn.
+
+They knock on the shambled house.
+
+Timitheo Ralovon talks to Allisee, Cardigan and Selenor.
+
+Selenor means nothing-ness in psychomomp.
+
+Allisee gets a small crack on her (left arm) moon arm from trying to activate the gray oar by the lake in the Grave-lands.
+
+Undead pirate ship.
+On the ship, 30 minutes pass.
+
+Grey Island.
+
+At Averlace's last stand.
