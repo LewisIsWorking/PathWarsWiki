@@ -42,7 +42,7 @@ Successfully affect different targets with charm, compulsion spells or mind cont
 Cure a cumulative total number of points of damage for other creatures with healing spells.
 Causing any damage subtracts the progress.
 
-## Lifted spirit. Fall damage.
+## A lifted spirit. Fall damage.
 
 Take so much falling damage on several different occasions and survive.
 
@@ -72,20 +72,20 @@ Convince four knightly orders and a major mayor to write letters of commendation
 
 1. Athlete.
 2. Attorney.
-3. Augur.
+3. Augur. Clue = You need to make a prediction with magic, and then keep track of the prediction.
 4. Brew-master.
-5. Chef.
+5. Chef-master.
 6. Chronicler. [Chronicler.](https://www.notion.so/Chronicler-0007866283494ef1b1a7207ac65ec5c1?pvs=21)
 7. Cursed One.
-8. Depicter.
+8. Depicter. Clue = Create art of beings.
 9. Destined One.
 10. Dissembler.
 11. Driver.
-12. Duel Master.
+12. Duel Master. Clue = Win Duels
 13. Dungeoneer.
 14. Enforcer.
 15. Evolved.
-16. Fateweaver.
+16. Fate-weaver.
 17. Fey Friend.
 18. Ghost Hunter (Different from the archetype).
 19. Infiltrator
@@ -97,15 +97,15 @@ Convince four knightly orders and a major mayor to write letters of commendation
 25. Other.
 26. Pilgrim.
 27. Politician.
-28. Researcher.
+28. Researcher. Library-Caster. Clue = Build a library.
 29. Rescuer.
 30. Scourge.
-31. Silver Hammer.
+31. Silver Hammer. An order of hammer-wielding Dwarves and Good Dragons that fight evil dwarves & evil dragons.
 32. Sneak.
 33. Sprinter.
 34. Staff Adept.
 35. Story Tender.
-36. Tea Ceremony Host.
+36. Tea Ceremony Host. Clue = Serve tea.
 37. Trainer.
 38. Treasure Hunter.
 39. Turned Hunter
