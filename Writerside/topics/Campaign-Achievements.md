@@ -44,7 +44,7 @@ Causing any damage subtracts the progress.
 
 ## A lifted spirit. Fall damage.
 
-Take so much falling damage on several different occasions and survive.
+Take an amount of falling damage on several different occasions and survive.
 
 ## Scarred. Total Damage Taken.
 
