@@ -13,6 +13,8 @@ Core.
 
 1. What is your character’s name?
 2. What does your character’s first name mean?
+3. What does your character's last name mean?
+4. Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"
 
 Age.
 
