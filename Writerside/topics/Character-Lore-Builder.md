@@ -1,4 +1,4 @@
-# PF2e-Character-Lore-Builder
+# Character-Lore-Builder
 
 Starting Guide Link (Notion).
 https://www.notion.so/pathwars/The-Starting-Guide-dc6bd3906cb748a0b00aaab437d86874?pvs=4
