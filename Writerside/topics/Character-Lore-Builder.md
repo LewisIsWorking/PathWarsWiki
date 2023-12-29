@@ -23,12 +23,20 @@ For help on days, months and years of the world, click the following link = [Gol
 3. What day is your character’s birthday?
 4. At what age did they become an adventurer?
 
-Class.
+Class #1.
 
 1. What is your character’s class?
 2. Does your character enjoy their class?
 3. How did your character become their class?
 4. Who trained your character in their class?
+
+Class #2.
+(If using dual class)
+Normally dual class is gained during a session via a powerful artifact or a given boon.
+You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.
+
+1. What will/is your character’s 2nd class be?
+2. Does/Will your character enjoy their 2nd class?
 
 Race
 
