@@ -224,7 +224,7 @@ If you have any other questions about this, please contact me on my telegram.
 
 ## Time since level 1.
 
-This is a continuation of the previous section for if you are starting after the first level.
+This is a continuation of the 'Backstory by year' section for if you are starting after the first level.
 This section involves writing what your character has been doing since level 1 aka since their backstory.
 
 To do this, you can decide at what age the character became level 1, and what age they are now.
