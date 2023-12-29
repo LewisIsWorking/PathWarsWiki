@@ -211,6 +211,17 @@ If you have any other questions about this, please contact me on my telegram.
 
 ---
 
+## Beyond the first level.
+
+1. Are you higher than level 1? What level?
+2. What year did your character achieve first level in their class?
+3. How long has it been chronologically since your character was first level?
+4. What has your character been doing since they started adventuring (aka first level)? 
+5. How did you achieve each level? Aka what did you kill to level up?
+6. How long did each level take to achieve?
+
+---
+
 ## Time since level 1.
 
 This is a continuation of the previous section for if you are starting after the first level.
