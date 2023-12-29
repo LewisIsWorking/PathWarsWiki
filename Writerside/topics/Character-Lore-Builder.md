@@ -5,8 +5,6 @@ https://www.notion.so/pathwars/The-Starting-Guide-dc6bd3906cb748a0b00aaab437d868
 
 ## Build YOUR Character’s Life HERE!
 
----
-
 Below is the table to copy and paste into your own notion workspace and fill out.
 
 Core.
