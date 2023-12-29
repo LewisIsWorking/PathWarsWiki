@@ -193,6 +193,43 @@ Finally, what is your character’s backstory?
 
 ---
 
+## Backstory by Year.
+
+Now find out the current campaign's current year.
+For Doomsday Funtime it is currently 4710 AR.
+If your character is 25 years old, then your character was born in 4685 AR.
+
+Take each year, put a colon and write what the character did that year, starting with their birth year.
+In the above example, it would go like this:
+4685 AR, age 0: Born to my parents in Deep-Water.
+4686 AR, age 1: The dragon attack on Deep-Water, parents are dead.
+... (You would fill this in).
+4705 AR, age 20: Achieved first level in rogue.
+4708 AR, age 23: Joined the party.
+
+If you have any other questions about this, please contact me on my telegram.
+
+---
+
+## Time since level 1.
+
+This is a continuation of the previous section for if you are starting after the first level.
+This section involves writing what your character has been doing since level 1 aka since their backstory.
+
+To do this, you can decide at what age the character became level 1, and what age they are now.
+Example: 
+Level 1 at age 20, level 10 at age 25.
+This example would put the character at a progression rate of 6 months to 1 level.
+For a human this is pretty normal, but for an elf you may space levels out over decades, longer for some other races.
+
+Assuming level 1 at age 20, that means they came level 1 in 4705 AR.
+Now we expand out your 'backstory by year' section but including 'level x'
+after the age of our character before the colon.
+
+Example = 4705 AR, age 20, level 2: Killed my first human and drunk their blood, sanity is starting to leave me...
+
+---
+
 ## Changelog.
 
 ## 13/09/2022. Version 3.
