@@ -1590,13 +1590,13 @@ Laucian is no longer becoming mummified.
 
 Amenopheus has absorbed the power of Zuberi.
 
-## Session 187-1 = Selenor becomes a Eternal Warden…?
+## Session 187-1 = Selenor becomes an Eternal Warden…?
 
 Sandpoint.
 
 23:00.
 
-## Session 188 = 2023 August 26th Saturday+ 4710 AR  Erastus 21st/24th + Amar Lilly Vale P2 & Admin Stuff.
+## Session 188 = 2023 August 26th Saturday+ 4710 AR Erastus 21st/24th + Amar Lilly Vale P2 & Admin Stuff.
 
 Amar Stuff.
 
@@ -1650,7 +1650,7 @@ They do a bounty.
 
 They go to the mushfens, save 2 halflings, Selenor gets his 2nd slave in the form of a wild frog creature.
 
-## Session 189 = 2023 September 16th Saturday+ 4710 AR  Erastus 24th + Amar re-joins the Party as the Harrower.
+## Session 189 = 2023 September 16th Saturday+ 4710 AR Erastus 24th + Amar re-joins the Party as the Harrower.
 
 11:00.
 
@@ -1664,7 +1664,7 @@ Selenor’s full plate is not etched with half-finished strange esoteric magical
 
 12:00.
 
-Gauntlight P1.
+Gaunt light P1.
 
 Sandpoint home base.
 
@@ -1866,7 +1866,7 @@ They knock on the shambled house.
 
 Timitheo Ralovon talks to Allisee, Cardigan and Selenor.
 
-Selenor means nothing-ness in psychomomp.
+Selenor means nothing-ness in psycho-pomp.
 
 Allisee gets a small crack on her (left arm) moon arm from trying to activate the gray oar by the lake in the Grave-lands.
 
@@ -1876,3 +1876,50 @@ On the ship, 30 minutes pass.
 Grey Island.
 
 At Averlace's last stand.
+
+Selenor gets a grey-flamed rabbit companion.
+
+Selenor (with the help of the rabbit) cure the knight, return to the Gauntlight, reuniting with the party.
+The party then go to sleep.
+
+## Session 201 = 2023 December 30th Saturday + 4710 AR Erastus 27th + Bounty.
+
+10:00am.
+
+The party are outside the Gaunt light.
+
+Round 1.
+Selenor = 2 + 1 = 3 + 1 = 4 + 2 = 6 + 1 = 7
+Cardigan = 3 + 1 = 4 + 0 = 4 + 1 = 5 + 2 = 7 
+Allisee = 1–1 = 0 + 1 = 1.
+
+Demed = inventor, crystal.
+Deka = soldier, navy, women.
+Demmed = 3 + 2 = 5 + 2 = 7 - 2 = 5 + 1 = 6 + 1 = 7
+Deka = 2 + 1 + 1 + 1 = 5 + 2 = 7
+
+Nireed Wadincoast is the proprietor of Silver Shore's most famous building, the unique Aquaretum building.
+
+Cardigan wins the fishing competition and becomes the Sea Dragon Fishing Champion!
+Cardigan is awarded an angler's worldly fisher fishing rod.
+Cardigan gives it to Allisee so Allisee can fish with it.
+
+RP MOMENT.
+Involving:
+1. Allisee.
+2. Selenor.
+3. Keleri.
+4. Amenphious.
+5. Elisia Tammerhawk.
+6. Carigan.
+
+The two main characters talk about Cardigan getting her new holy book.
+Allisee thinks Cardigan shouldn't have picked it up.
+Tammerhawk agrees and says that Cardigan shouldn't have gotten the book, it's too risky because Cardigan is her friend.
+Keleri thinks Cardigan taking the book is the best wya to learn more about what is going on with Cardigan.
+Selenor agrees with Keleri and says that Cardigan made the decision in her magically induced lucid state and thus was her own choice.
+Tammerhawk disagrees with Selenor as Cardigan is just a nice person, not a smart person.
+
+The bounty took 8 hours, 1 hour of preparation, 6 hours of competition and 1 hour of wrap up plus the RP discussion.
+
+18:00

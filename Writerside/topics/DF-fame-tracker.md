@@ -29,7 +29,7 @@ You can only buy fame awards when you have an amount of fame equal than or great
 
 ### Fame 1.
 
-1. Hero’s Luck = 1 PP = Consumed.
+1. Hero’s Luck = 1 PP = One time, +4 to one roll.
 2. Palm Greaser = 4PP = Title.
 3. Planar Pact = 5 PP = Improved familiar.
 
@@ -70,7 +70,8 @@ Selenor = Total as of 8 awards = 1 + 4 + 5 + 1 + 5 + 1 + 5 + 5 = 27.
 5. Sage of Arcana = 5 PP. 16
 6. Initiate of the Dark Archive = 1 PP. 17
 7. Officer of the Dark Archive = 5 PP. 22
-8. Warden of Magnimar = 5 PP. 27
+8. Favoured terrain: Magnimar = 5 PP. 27
+9. Warden of Magnimar = 5 PP. 32
 
 ## Current Fame.
 
@@ -125,7 +126,7 @@ Selenor buys the Officer title for 5 PP = 7/30.
 
 I made a mistake, I think Selenor is at 3/30.
 
-Selenor buys the Warden title for 5 PP = 3/30.
+Selenor buys the favoured terrain title for 5 PP = 3/30.
 
 Allisee buys a planar pact for 5 PP = 12/17.
 
@@ -139,7 +140,25 @@ The bounty was saving the knight that was once Allisee's bodyguard from a grey-f
 Allisee = 12/17 + 1 = 13/18.
 Selenor = 3/30 + 1 = 4/31.
 
-#### Bank account status.
+#### Bank account status after completion is the grey flame of the grave lands.
 Allisee = 4 + 4 = 8 GP.
 Cardigan = 0 + 4 = 4 GP.
 Selenor = 4 + 4 GP.
+
+### Session 201.
+
+Selenor got the diplomacy one time +2 bonus.
+
+#### Bank account status after completing the fishing competition.
+Allisee = 8 + 4 = 12 GP.
+Cardigan = 4 + 4 = 8 GP.
+Selenor = 8 + 4 = 12 GP.
+
+Allisee = 13/18 + 1 = 14/19.
+Selenor = 4/31 + 1 + 2 (diplomacy award) = 7/34.
+
+Selenor then buys Warden for 5 points.
+
+New Totals.
+Allisee = 14/19.
+Selenor = 2/34.
