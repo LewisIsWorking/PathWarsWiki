@@ -34,63 +34,53 @@ The events of Kingmaker and Wrath of the Righteous take place during 4700 AR as 
 
 Due to the events of Wrath of The Righteous, Nocticula is now the Redeemer, and Shamira, The Demon Lord of Seduction and Lost Dreams, is now the God of Lust and Succubi.
 
-## **4708 AR.**
+## **4707 AR.**
 
-## Crimson Throne #2. 4700 AR.
-
-Campaign #2. Starts and Ends in 4708 AR.
-
-[Campaign #2 = Crimson Throne = 103 Sessions = Complete!](https://www.notion.so/Campaign-2-Crimson-Throne-103-Sessions-Complete-148b705c02f34b89a78c4a1ed0dc3246?pvs=21)
-
-## The Grand Explorers #5. 4700 AR.
+### The Grand Explorers #5. 4707 AR.
+[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 Campaign #5. Year 1. IRL Start Date = 5th April 2023.
 
-This starts shortly after the events of Crimson Throne in 4708 AR.
+This starts before the events of Crimson Throne in 4709 AR.
+The Grand Explorers has a 3-year time skip, putting the rest of the campaign in 4,710 AR.
 
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
+## **4708 AR.**
+
+## Crimson Throne #2. 4708 AR.
+[Campaign #2 = Crimson Throne = 103 Sessions = Complete!](https://www.notion.so/Campaign-2-Crimson-Throne-103-Sessions-Complete-148b705c02f34b89a78c4a1ed0dc3246?pvs=21)
+
+Campaign #2. Starts and Ends in 4708 AR.
 
 ## **4709.**
 
-## Doomsday Funtime #1. 4709 AR.
+### Doomsday Funtime #1. 4709 AR.
+[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
 
 Campaign #1. Starts in 4710 AR. Ends in 4719 AR.
 
-[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
-
-## The Grand Explorers #5. 4709 AR.
-
-Campaign #5. Year 2. Started in 4708 AR.
-
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
-
-## Kibwe #6. 4709 AR.
+### Kibwe #6. 4709 AR.
+[Campaign #6 = Kibwe = 22nd & 23rd April 2023.](https://www.notion.so/Campaign-6-Kibwe-22nd-23rd-April-2023-a3ffa38cb1e543c0b05ce9586f85836c?pvs=21)
 
 Campaign #6.
-
-[Campaign #6 = Kibwe = 22nd & 23rd April 2023.](https://www.notion.so/Campaign-6-Kibwe-22nd-23rd-April-2023-a3ffa38cb1e543c0b05ce9586f85836c?pvs=21)
 
 ## **4710 AR.**
 
 ## Edge-watch #4. 4710 AR.
+[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
 
 Campaign #4. Starts.
 
-[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
-
 ## The Grand Explorers #5. 4710 AR.
+[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 Campaign #5. This is Year 3 of the Grand Explorers. Started in 4708 AR.
-
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 ## **4711 AR.**
 
 ## The Grand Explorers #5. 4711 AR.
+[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 Campaign #5. This is Year 4 of the Grand Explorers. Started in 4708 AR.
-
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 ## 4719 AR.
 
