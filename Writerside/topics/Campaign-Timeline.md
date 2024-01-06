@@ -87,38 +87,34 @@ Campaign #5. This is Year 4 of the Grand Explorers. Started in 4708 AR.
 ## 4719 AR.
 
 ## Doomsday Funtime #1. 4719 AR.
+[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
 
 Campaign #1. Ends in 4719 AR. Started in 4709 AR.
 
-[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
-
 ## IRL Campaign Start Dates Chronological Timeline.
 
-## Doomsday Funtime, campaign 1.
+### Doomsday Funtime, campaign 1.
+[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
 
 Campaign #1. 2018/2019 → Ongoing 2023.
 
-[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
-
-## Crimson Throne, campaign 2.
+### Crimson Throne, campaign 2.
+[Campaign #2 = Crimson Throne = 103 Sessions = Complete!](https://www.notion.so/Campaign-2-Crimson-Throne-103-Sessions-Complete-148b705c02f34b89a78c4a1ed0dc3246?pvs=21)
 
 Campaign #2. 2019 → 2023.
 
-[Campaign #2 = Crimson Throne = 103 Sessions = Complete!](https://www.notion.so/Campaign-2-Crimson-Throne-103-Sessions-Complete-148b705c02f34b89a78c4a1ed0dc3246?pvs=21)
-
-## Etran's Folly, campaign 3.
+### Etran's Folly, campaign 3.
+[Campaign #3 = Etran’s Folly = Complete 2021.](https://www.notion.so/Campaign-3-Etran-s-Folly-Complete-2021-5588d32df1ae4007a5660137b9bcf52c?pvs=21)
 
 Campaign #3. 2020 → 2020. This took 1 day.
 
-[Campaign #3 = Etran’s Folly = Complete 2021.](https://www.notion.so/Campaign-3-Etran-s-Folly-Complete-2021-5588d32df1ae4007a5660137b9bcf52c?pvs=21)
-
-## Edge-watch, campaign 4.
+### Edge-watch, campaign 4.
+[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
 
 Campaign #4. 2022 → Ongoing.
 
-[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
-
-## The Grand Explorers #5.
+### The Grand Explorers #5.
+[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 Campaign #5.
 
@@ -129,8 +125,6 @@ Year 2 = ?
 Year 3 = ?
 
 Year 4 = ?
-
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
 ## Campaign List.
 
