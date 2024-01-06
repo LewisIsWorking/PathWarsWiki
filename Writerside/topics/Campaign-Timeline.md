@@ -12,11 +12,11 @@ Also, see for further reading = [Path Wars Continuity.](https://www.notion.so/Pa
 
 ## Overview.
 
-Below is a timeline showing, which campaign happens when chronologically.
+Below is a timeline showing which campaign happens when chronologically.
 
 The chronological aspect of the campaign is important when determining if specific events have happened and for the purpose of unlocked items.
 
-A campaign in the past cannot benefit from a campaign set in the future.
+A campaign in the past can't benefit from a campaign set in the future.
 
 ## Chronological Timeline of In-World Start Date.
 
@@ -72,11 +72,11 @@ Campaign #6.
 
 ## **4710 AR.**
 
-## Edgewatch #4. 4710 AR.
+## Edge-watch #4. 4710 AR.
 
 Campaign #4. Starts.
 
-[Campaign #4 = Agents of Edgewatch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
+[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
 
 ## The Grand Explorers #5. 4710 AR.
 
@@ -94,7 +94,7 @@ Campaign #5. This is Year 4 of the Grand Explorers. Started in 4708 AR.
 
 ## 4719 AR.
 
-## Doomsday Funtime #1.  4719 AR.
+## Doomsday Funtime #1. 4719 AR.
 
 Campaign #1. Ends in 4719 AR. Started in 4709 AR.
 
