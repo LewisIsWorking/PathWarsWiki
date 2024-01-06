@@ -24,7 +24,7 @@ Kibwe is a large, walled trading and mining town with a diverse population of Mw
 
 ## What is the Ndele Gap?
 
-The high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south is known as the Ndele Gap.
+The high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south is known as the Ndélé Gap.
 
 ## Who is playing?
 
@@ -39,7 +39,7 @@ The high-altitude pass in western Nex between the Barrier Wall to the north and 
 ## Party Composition.
 
 1. Gringles Snot-Belly = Goblin Fighter + Swashbuckler played by Lorcan.
-2. Cliff Chewstick = Gunslinger Magus Ratfolk Played by Ryan.
+2. Cliff Chew-stick = Gunslinger Magus Rat folk Played by Ryan.
 3. ??? = ??? played by Paddy.
 4. ??? = Dungeon Magus + Witch played by Rebecca.
 
@@ -47,9 +47,9 @@ The high-altitude pass in western Nex between the Barrier Wall to the north and 
 
 [Kibwe Ready Status.](https://www.notion.so/f7cd7727673848ae977d4d82fab23c51?pvs=21)
 
-## On Going Notes.
+## Ongoing Notes.
 
-Below is the on going public notes.
+Below are the ongoing public notes.
 
 ## Session #1.
 
@@ -67,19 +67,20 @@ Bank Note = 250 GP.
 
 Apis Consortium.
 
-The Oozemorphing.
+The Ooze-morphing.
 
 Hoka took cinnamon and moderate healing potion from the store room.
 
 Ooze Gems.
 
-Griggles gets covered in 2,000 ancient preserved scorpions.
+Gringles Snotbelly gets covered in 2,000 ancient preserved scorpions.
 
-The party convince the scorpions to leave.
+The party convinced the scorpions to leave.
 
-Between session #1 and session #2.
+Between session 1 and session 2.
 
-The party tell the council woman and the council woman tells them to go to Eda Curse-Breaker The Tower Dungeon’s temple, the sun archive.
+The party tells the council woman,
+and the council woman tells them to go to Eda Curse-Breaker The Tower Dungeon’s temple, the sun archive.
 
 ## Session #2.
 
@@ -94,12 +95,12 @@ UNLOCKED: Oily Button.
 Stage 1.
 
 Stage 2.
-Griggles.
+Gringles Snotbelly.
 
 Stage 3.
 Eda.
 
-Cliff isn't effected.
+Cliff isn't affected.
 
 Archive of the Sun complete.
 
@@ -119,13 +120,13 @@ Paddy the Dwarf.
 
 GS is caved into Marco’s forehead.
 
-Griggles hands Paddy 15 GP.
+Gringles Snotbelly hands Paddy 15 GP.
 
 Paddy Dream-Soup joins the group.
 
 Paddy Dream-Soup is a Forge-Born, his clan has long made a version of Dream Soup for the deep miners of Sky Citadels.
 
-Those dwarves who consumed the Dream Soup would have their morale raised and their physche restored.
+Those dwarves who consumed the Dream Soup would have their morale raised, and their psyche restored.
 
 UNLOCKED: The Wand of Teeming Ghosts by Anthony.
 
