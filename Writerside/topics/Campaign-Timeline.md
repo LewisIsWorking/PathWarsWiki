@@ -128,14 +128,9 @@ Year 4 = ?
 
 ## Campaign List.
 
-#1 Doomsday Funtime.
-
-#2 Crimson Throne.
-
-#3 Etran's Folly.
-
-#4 Edge-watch.
-
-#5 The Grand Explorers.
-
-#6 Kibwe.
+1. Doomsday Funtime. 
+2. Crimson Thrones. 
+3. Etran's Folly. 
+4. Edge-watch. 
+5. The Grand Explorers. 
+6. Kibwe.
