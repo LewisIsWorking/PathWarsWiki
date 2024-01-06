@@ -73,7 +73,9 @@ Campaign #4. Starts.
 ## The Grand Explorers #5. 4710 AR.
 [Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
 
-Campaign #5. This is Year 3 of the Grand Explorers. Started in 4708 AR.
+Campaign #5.
+Started in 4708 AR.
+This is the year that the grand explorers continues post time skip.
 
 ## **4711 AR.**
 
