@@ -142,3 +142,27 @@ Two corpses.
 
 ## Session #4. 2024 January 6th.
 
+Showed up players: Anthony, Jimmy Jack, Rebecca, Ryan, Horia.
+
+Cliff Chew-stick = Ryan.
+Daichi Ken-shin = Anthony.
+Eda “Curse Breaker” Stones-Worth = Rebecca.
+Gringles Snotbelly = Horia.
+Padraig Dream-Soup = Jimmy Jack.
+
+Map 5. Scene of Slaughter.
+
+In the holy city.
+
+In the plaza of the feasting fiend.
+4 chains remaining.
+Gringles disarms, 3 chains remaining.
+Cliff disarms, 2 chains remaining.
+
+Pronounced: Pod-rig.
+
+Disarm by Padraig: 1 Chain Remains.
+Final chain disarmed.
+
+Dinosaur fight.
+Shrunken unicorn head, shrunken ape head, shrunken elven head.
