@@ -25,7 +25,7 @@ This is the 2nd part of the Doomsday Funtime story.
 
 1. 128 = Campaign re-start session.
 2. 129 → 130. The Lotus Sandstorm.
-3. 131 = Party went to the Runewild. They got the two highvale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
+3. 131 = Party went to the Runewild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
 4. 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
 5. 132.
 6. 133. Moon Bears.
@@ -145,7 +145,7 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ## 11th Erastus. 4710 AR. Skull Hill.
 
-## Session 137. Saturday 22th October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 4.
+## Session 137. Saturday 22nd October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 4.
 
 ## Session 138. Saturday 29th October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 5.
 
