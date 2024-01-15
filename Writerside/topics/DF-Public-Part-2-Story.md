@@ -1910,16 +1910,30 @@ Involving:
 2. Selenor.
 3. Keleri.
 4. Amenphious.
-5. Elisia Tammerhawk.
-6. Carigan.
+5. Elisa Tammerhawk.
+6. Cardigan.
 
 The two main characters talk about Cardigan getting her new holy book.
 Allisee thinks Cardigan shouldn't have picked it up.
-Tammerhawk agrees and says that Cardigan shouldn't have gotten the book, it's too risky because Cardigan is her friend.
-Keleri thinks Cardigan taking the book is the best wya to learn more about what is going on with Cardigan.
+Tammerhawk agrees and says that Cardigan shouldn't have got the book, it is too risky because Cardigan is her friend.
+Keleri thinks Cardigan taking the book is the best way to learn more about what is going on with Cardigan.
 Selenor agrees with Keleri and says that Cardigan made the decision in her magically induced lucid state and thus was her own choice.
 Tammerhawk disagrees with Selenor as Cardigan is just a nice person, not a smart person.
 
 The bounty took 8 hours, 1 hour of preparation, 6 hours of competition and 1 hour of wrap up plus the RP discussion.
 
-18:00
+18:00.
+The party then went to sleep.
+
+## Session 202 = 2024 January 13th Saturday + 4710 AR Erastus 28th + Gaunt-light part 11.
+
+08:00 AM.
+Dining room.
+
+Cardigan & Selenor banished the half-ling skeleton who was a dishwashing servant in the bathtub.
+
+THE RUBBISH GHOST.
+Selenor releases the rubbish collector ghost's trapped soul.
+Went down rubbish shoot.
+
+Following Selenor, the party slid down the rubbish chute, finding themselves in a vast slimy cavern.

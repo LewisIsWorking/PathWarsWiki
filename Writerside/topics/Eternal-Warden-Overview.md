@@ -19,3 +19,8 @@ Fail = 10 minutes of control.
 
 Critical Failure = 24 hours of control.
 
+## Diplomat of the grave.
+
++2 Circumstance stance bonus to undead.
+Undead will generally give the eternal warden a chance to reason with them.
+Like 1 diplomacy chance.
