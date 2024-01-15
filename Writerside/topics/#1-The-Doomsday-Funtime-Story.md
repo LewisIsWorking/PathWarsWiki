@@ -28,7 +28,7 @@ Session 129 → 130.
 1. The Lotus Sandstorm.
 
 Session 131.
-1. The Party went to the Runewild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
+1. The Party went to the Rune-wild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
 4. Session 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
 5. Session 132.
 6. Session 133. Moon Bears.
