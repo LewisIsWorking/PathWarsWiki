@@ -138,7 +138,7 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ## Session 134 = Saturday 10th September 2022 = 9th+10th Erastus. 4710 AR = Skull Hill Part 1.
 
-## 10th Erastus. 4710 AR. Sandpoint meeting with Amenopheus.
+### 10th Erastus. 4710 AR. Sandpoint meeting with Amenopheus.
 
 08:00 wake-up time.
 
@@ -146,7 +146,7 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ## Session 136 = Sunday 25th September 2022 = 11th Erastus. 4710 AR = Skull Hill Part 3.
 
-## 11th Erastus. 4710 AR. Skull Hill.
+### 11th Erastus. 4710 AR. Skull Hill.
 
 ## Session 137. Saturday 22nd October 2022 = 11th Erastus. 4710 AR = Skull Hill Part 4.
 
@@ -158,7 +158,7 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ## Session 141 = Sunday 6th November 2022 = 12th Erastus. 4710 AR = Shopping Session #3.
 
-## 12th Erastus. 4710 AR. Shopping Session.
+### 12th Erastus. 4710 AR. Shopping Session.
 
 ## Session 142. Saturday 19th November 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 1.
 
@@ -170,11 +170,11 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ## Session 146. Saturday 10th December 2022 = 12th Erastus. 4710 AR = Collapsing Halls Part 5.
 
-## 13th Erastus. 4710 AR. Collapsing Halls.
+### 13th Erastus. 4710 AR. Collapsing Halls.
 
 ## Session 147. Sunday 11th December 2022 = 13th Erastus. 4710 AR = Shopping.
 
-## 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping.
+### 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping.
 
 ## Session 148 = Saturday 17th December 2022 = Shopping = Truth Teller Part 1.
 
@@ -188,7 +188,7 @@ Modwinn’s child.
 
 ![](ModwinnsChild.png)
 
-## 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping. 13:00.
+### 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping. 13:00.
 
 ## Session 150-1 = Thursday 31st December 2022 = Selenor does Bounty #1 and Bounty #2.
 
