@@ -23,20 +23,25 @@ This is the 2nd part of the Doomsday Funtime story.
 
 ## Doomsday Funtime Part 2 = Session Quick Summary.
 
-1. 128 = Campaign re-start session.
-2. 129 → 130. The Lotus Sandstorm.
-3. 131 = Party went to the Runewild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
-4. 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
-5. 132.
-6. 133. Moon Bears.
-7. 134 → 138. 5 Sessions. Skull Hill Arc.
-8. 139 → 141. 3 Sessions. Shopping Sessions.
-9. 142 → 146. 5 Sessions. Collapsing Halls Arc. Amar joined the group. The group defeated the Time Watcher.
-10.  147. Shopping Session.
-11. 148 → 150. 3 Sessions. Truth Teller Arc.
-12. 151. Bounty #1 and Bounty #2.
-13. 152. Modwinn retires. Alissee gets Sin Reaver.
-14. 153 → 160. 7 Sessions. Harrow Arc.
+Session 128.
+1. Campaign re-start session.
+
+Session 129 → 130.
+1. The Lotus Sandstorm.
+
+Session 131.
+1. The Party went to the Runewild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
+4. Session 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
+5. Session 132.
+6. Session 133. Moon Bears.
+7. Session 134 → 138. 5 Sessions. Skull Hill Arc.
+8. Session 139 → 141. 3 Sessions. Shopping Sessions.
+9. Session 142 → 146. 5 Sessions. Collapsing Halls Arc. Amar joined the group. The group defeated the Time Watcher. 
+10. Session 147. Shopping Session. 
+11. Session 148 → 150. 3 Sessions. Truth Teller Arc.
+12. Session 151. Bounty #1 and Bounty #2.
+13. Session 152. Modwinn retires. Allisee gets the sword: Sin Reaver.
+14. Session 153 → 160. 7 Sessions. Harrow Arc.
 
 ## Naming Format.
 
@@ -1937,3 +1942,14 @@ Selenor releases the rubbish collector ghost's trapped soul.
 Went down rubbish shoot.
 
 Following Selenor, the party slid down the rubbish chute, finding themselves in a vast slimy cavern.
+
+## Session 202. Play By Post.
+
+Amenopheus the Ruby Sage arrives at the Sandpoint Home Base with Adjo Bohmani,
+so that Adjo can join the Heroes of Sandpoint.
+
+"Good afternoon everyone,
+as mentor has stated, I am Adjo Bohmani, and I am pleased to make your acquaintance,
+and if you all will have me, I would be glad to join the Heroes of Sandpoint."
+
+Adjo Bohmani joins the Heroes of Sandpoint.
