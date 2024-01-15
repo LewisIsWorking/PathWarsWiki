@@ -90,7 +90,7 @@ Enkundo.
 
 ## Session 130 = 8th & 9th Erastus. 4710 AR = The Lotus Sandstorm Part 2.
 
-## 8th Erastus. 4710 AR.
+### 8th Erastus. 4710 AR.
 
 The crystal lily flower is regrowing but is now purified.
 
@@ -100,7 +100,7 @@ Aarlak’s geomancy tells Aarlak that the desert of the infernal sandstorm preda
 
 Aaren D’Cannith can tell Selendor that the tears have astral energy like the astral plane
 
-## 9th Erastus. 4710 AR
+### 9th Erastus. 4710 AR
 
 03:55.
 
