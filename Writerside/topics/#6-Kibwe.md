@@ -167,3 +167,5 @@ Final chain disarmed.
 Dinosaur fight.
 Shrunken unicorn head, shrunken ape head, shrunken elven head.
 3 Hero points awarded.
+
+## Session #4. Play By Post. 2024 January 15th.

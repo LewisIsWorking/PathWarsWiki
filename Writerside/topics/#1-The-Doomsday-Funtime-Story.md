@@ -1,6 +1,6 @@
-# DF Public Part 2 Story
+# #1-The-Doomsday-Funtime-Story
 
-Start typing here...
+Start typing here…
 
 ## DF Public P2 = Story.
 
