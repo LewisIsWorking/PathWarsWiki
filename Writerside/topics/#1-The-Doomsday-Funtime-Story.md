@@ -1,7 +1,5 @@
 # #1-The-Doomsday-Funtime-Story
 
-Start typing here…
-
 ## DF Public P2 = Story.
 
 This is the 2nd part of the Doomsday Funtime story.
