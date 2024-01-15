@@ -1,14 +1,24 @@
 # #1-The-Doomsday-Funtime-Story
 
-## DF Public P2 = Story.
+## DF Public Story.
 
 This is the 2nd part of the Doomsday Funtime story.
 
-## DF P1 Story.
+## The Heroes of Sandpoint charter.
 
+The following names are the names of the Heroes of Sandpoint:
+
+1. Ra-mei-pasht.
+2. Drekk Zal.
+3. Modwinn.
+4. Selenor.
+5. Aarlak.
+6. Amar Rook-moon.
+
+## DF P1 Story.
 [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
 
-## DF P2 arc list.
+## DF Arc list.
 
 1. Skull Hill Arc.
 2. Collapsing Halls Arc.
@@ -16,8 +26,6 @@ This is the 2nd part of the Doomsday Funtime story.
 4. The Harrow Arc.
 5. Necropolis Arc.
 6. Gaunt Light Arc.
-
-## The table of contents.
 
 ## Doomsday Funtime Part 2 = Session Quick Summary.
 
@@ -29,22 +37,21 @@ Session 129 → 130.
 
 Session 131.
 1. The Party went to the Rune-wild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
-4. Session 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
-5. Session 132.
-6. Session 133. Moon Bears.
-7. Session 134 → 138. 5 Sessions. Skull Hill Arc.
-8. Session 139 → 141. 3 Sessions. Shopping Sessions.
-9. Session 142 → 146. 5 Sessions. Collapsing Halls Arc. Amar joined the group. The group defeated the Time Watcher. 
-10. Session 147. Shopping Session. 
-11. Session 148 → 150. 3 Sessions. Truth Teller Arc.
-12. Session 151. Bounty #1 and Bounty #2.
-13. Session 152. Modwinn retires. Allisee gets the sword: Sin Reaver.
-14. Session 153 → 160. 7 Sessions. Harrow Arc.
+2. Session 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
+3. Session 132.
+4. Session 133. Moon Bears.
+5. Session 134 → 138. 5 Sessions. Skull Hill Arc.
+6. Session 139 → 141. 3 Sessions. Shopping Sessions.
+7. Session 142 → 146. 5 Sessions. Collapsing Halls Arc. Amar joined the group. The group defeated the Time Watcher. 
+8. Session 147. Shopping Session. 
+9. Session 148 → 150. 3 Sessions. Truth Teller Arc.
+10. Session 151. Bounty #1 and Bounty #2.
+11. Session 152. Modwinn retires. Allisee gets the sword: Sin Reaver.
+12. Session 153 → 160. 7 Sessions. Harrow Arc.
 
-## Naming Format.
+## The session naming format.
 
 Each session should be named as per this format.
-
 Session # = In Real Life Date = In-game Date = Session Title.
 
 ## Session 128 = 7th Erastus 4710 AR = New Heroes.
