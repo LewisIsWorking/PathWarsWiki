@@ -111,7 +111,7 @@ Aaren D’Cannith can tell Selendor that the tears have astral energy like the a
 
 03:55.
 
-Aarlak signs the Charater.
+Aarlak signs the charter of Sandpoint.
 
 The following names are the names of the Heroes of Sandpoint:
 
@@ -1958,3 +1958,8 @@ as mentor has stated, I am Adjo Bohmani, and I am pleased to make your acquainta
 and if you all will have me, I would be glad to join the Heroes of Sandpoint."
 
 Adjo Bohmani joins the Heroes of Sandpoint.
+
+## Session 203. 2024 January 20th Saturday + 4710 AR Erastus 28th + Gaunt-light part 12.
+
+09:00 AM.
+
