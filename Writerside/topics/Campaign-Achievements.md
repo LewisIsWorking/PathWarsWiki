@@ -13,7 +13,7 @@ Collect a number of aeon stones.
 
 ## A lifted spirit. Fall damage.
 
-Take an amount of falling damage on several different occasions and survive.
+Take an amount of falling damage on several differing occasions and survive.
 
 ## Back from the Grave.
 
