@@ -1963,3 +1963,23 @@ Adjo Bohmani joins the Heroes of Sandpoint.
 
 09:00 AM.
 
+Cosmic water fills this room's holes.
+
+Tammerhawk told about Mayor's plans to invade Korvosa.
+
+Selenor tells Tammerhawk about Amenphious threatening to kill people to empower the ever dawn pool.
+
+Adjo is with the party now.
+
+## Session 204. 2024 January 21ST Saturday + 4710 AR Erastus 28th + Gaunt-light part 13.
+
+Wisp combat.
+
+Otari's corpse.
+
+Volluk's main form is destroyed.
+No experience.
+
+Selenor The Wanderer, Fence Friend, Planar Pact Maker, Owner of A "Servant", Arcana Sage of Cheliax
+
+Selenor uses desperate prayer.
