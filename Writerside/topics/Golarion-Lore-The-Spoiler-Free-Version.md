@@ -1,5 +1,7 @@
 # Golarion Lore = The Spoiler-Free Version!
 
+
+
 ## The Seas of Golarion.
 1. Castrovin Sea.
 2. Fever Sea.
