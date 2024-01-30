@@ -1,7 +1,7 @@
 # Golarion Lore = The Spoiler-Free Version!
 
 ## Golarion Map.
-[Inner-Sea-Map]()
+[Inner-Sea-Map](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/Inner-Sea-Map.pdf)
 
 ## The Seas of Golarion.
 1. Castrovin Sea.
