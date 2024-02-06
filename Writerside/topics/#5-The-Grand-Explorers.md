@@ -59,13 +59,59 @@ IQuain.
 
 ## Party Member Character List.
 
-? - Craig.
+### ??? - Eimer.
+
+Class: Bard & Investigator.
+Background: ???
+Race: Fetching.
+Subrace: aasimar nephilim.
+
+#### Backstory.
+
+XXX was born on Golarion, not the shadow plane.
+
+A female ancestor was changed into an aasimar.
+The ancestor was on Golarion as well.
+
+##### Why did the angel bless the ancestor?
+The Ancestor did a great act.
+This great act earned the divine celestial blessing from the angel.
+
+The ancestor was in a rural town, they were the only family of fetching in the town.
+This ancestor saved a child.
+The child was drowning outside the town in the river.
+The ancestor was getting water for their family to drink.
+The ancestor leapt into the river and saved the child from drowning.
+The river's currents were known to be deadly,
+having killed many an unsuspecting swimmer, the ancestor knew this danger and leapt in regardless of the danger.
+
+This entire scenario was a test for the ancestor to see if they are pure of heart and selfless.
+This test was devised due to the incredible level of good within the heart of the ancestor.
+
+The ancestor thanked the angel and promised their family, 
+and all their descendants would live a wholesome and good-willed life until the end of time.
+
+##### Why was the ancestor so good and pure of heart?
+Despite facing discrimination for their shadow-plane lineage, the ancestor did not allow this to fester within them,
+instead choosing to embrace the world with a great level of kindness that the ancestor would never receive themselves.
+
+##### Did the ancestor worship the angel's deity?
+Yes, they worshipped Sarenrae.
+This is because the ancestor's family was brought to Golarion by a divine servant of Sarenrae many generations ago.
+The ancestor was not a cleric, but worshipped fully, with all their heart.
+
+##### ?'s life so far.
+
+X was born in the same town as their ancestor and all the descendants in between.
+
+
+### ? - Craig.
 
 ? - Paddy.
 
 ? - Daniel Weir.
 
-? - Ryan.
+? — Ryan.
 
 ? - IQuain.
 

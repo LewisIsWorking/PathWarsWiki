@@ -816,7 +816,7 @@ Breastplate = 8 / 2 = 4.
 
 When Amar goes to sleep, Amar finds herself in a burnt down temple with bodies everywhere, when Amar finds her way to the doors to leave then Amar wakes up.
 
-Selenor gives Pharasma Dwarf 1 Platnium coin.
+Selenor gives Pharasma Dwarf 1 Platinum coin.
 
 Selenor tells Pharasma Dwarf that they are working for a noble from Magnimar.
 
@@ -1180,7 +1180,7 @@ Yeti Fight.
 
 23:00
 
-## Session 179 = Saturday 10th June 2023 +  **Wealday** 20th Erastus, 4710 AR + Harrow Part 22 + Rabbit Prince 6.
+## Session 179 = Saturday 10th June 2023 + **Wealday** 20th Erastus, 4710 AR + Harrow Part 22 + Rabbit Prince 6.
 
 Kidu The Ogre fight.
 
@@ -1257,7 +1257,7 @@ Two decorated rugs (50 gp each)
 
 A chest containing five noble outfits in the style of a genie (although many centuries out of date). They are enchanted to be everlasting + they have endure elements.
 
-Two clay amphora, each as tall as a man and able to hold up to 30 gallons of liquid.
+Two clay amphora, each as tall as a man and able to hold up to 30 gallons (0.14 m³) of liquid.
 One is wine.
 
 The other is lamp oil.
@@ -1270,7 +1270,7 @@ They are enchanted to be everlasting.
 
 21st Erastus, 4710 AR.
 
-Red Raven gives selenor the Vernal Key and Selenor gives the Red Raven the gold from the Yarl’s treasure room.
+Red Raven gives selenor the Vernal Key, and Selenor gives the Red Raven the gold from the Yarl’s treasure room.
 
 The dwarves are returned to Azure Stone.
 
@@ -1889,7 +1889,7 @@ At Averlace's last stand.
 
 Selenor gets a grey-flamed rabbit companion.
 
-Selenor (with the help of the rabbit) cure the knight, return to the Gauntlight, reuniting with the party.
+Selenor (with the help of the rabbit) cure the knight, return to the Gaunt light, reuniting with the party.
 The party then go to sleep.
 
 ## Session 201 = 2023 December 30th Saturday + 4710 AR Erastus 27th + Bounty.
@@ -1980,6 +1980,24 @@ Otari's corpse.
 Volluk's main form is destroyed.
 No experience.
 
-Selenor The Wanderer, Fence Friend, Planar Pact Maker, Owner of A "Servant", Arcana Sage of Cheliax
+Selenor The Wanderer, Fence Friend, Planar Pact Maker, Owner of A "Servant", Arcana Sage of Cheliax.
 
 Selenor uses desperate prayer.
+
+## Session 205. 2024 February 3rd Saturday + 4710 AR Erastus 28th + Gaunt-light part 14.
+
+They freed a dwarf, he said that he had information that no one should ever know.
+
+Gervald Berrus
+Damrock Berrus
+Lasda Berrus, is now called Lasda Venkervale.
+
+Cypher mage supply shop in Riddleport.
+
+Selenor loves his mum.
+
+Selenor picks up Tywin's holy symbol and statue from his room in the Harrow.
+
+Every-Ready Jocob was not a conspirator, but is a servant of the night peddler. 
+
+UNLOCKED: highhelm stronghold plate
