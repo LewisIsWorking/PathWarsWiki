@@ -1990,7 +1990,7 @@ They freed a dwarf, he said that he had information that no one should ever know
 
 Gervald Berrus
 Damrock Berrus
-Lasda Berrus, is now called Lasda Venkervale.
+Lasda Berrus, changed his name to now be called Lasda Venkervale.
 
 Cypher mage supply shop in Riddleport.
 
@@ -2000,4 +2000,35 @@ Selenor picks up Tywin's holy symbol and statue from his room in the Harrow.
 
 Every-Ready Jocob was not a conspirator, but is a servant of the night peddler. 
 
-UNLOCKED: highhelm stronghold plate
+UNLOCKED: high-helm stronghold plate
+
+## Session 206. 2024 February 10th Saturday + 4710 AR Erastus 28th + Gaunt-light part 15.
+
+13:00.
+Walk to Otari.
+16:00
+
+The rabbit is called:
+Denufair.
+
+"Wrin" sees the harrow.
+
+Mayor knows Selenor's name.
+Mayor knows that Wrin is involved.
+
+Keleri sends a sending to Allisee: "What is going on?"
+"This is not Magnimar.
+I will need time.
+Deal with it, as you see fit.
+Bury the bodies deep, if needed"
+
+Selenor casts aerial form in front of the Mayor.
+
+Zutlieg sings a cultist song, scaring the servants.
+
+Allisee makes the servants cry with a scary threat to their lives.
+
+Tammerhawk and Keleri are in the Harrow, with Allisee, discussing what to do.
+
+In the mansion: Selenor, Cardigan.
+In the Harrow: Allisee, 
