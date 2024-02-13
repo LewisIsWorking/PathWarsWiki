@@ -2011,10 +2011,10 @@ Walk to Otari.
 The rabbit is called:
 Denufair.
 
-"Wrin" sees the harrow.
+Wrin sees the harrow.
 
 Mayor knows Selenor's name.
-Mayor knows that Wrin is involved.
+The Mayor knows that Wrin is involved.
 
 Keleri sends a sending to Allisee: "What is going on?"
 "This is not Magnimar.

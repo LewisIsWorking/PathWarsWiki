@@ -66,7 +66,16 @@ Background: ???
 Race: Fetching.
 Subrace: aasimar nephilim.
 
-#### Backstory.
+- A possible backstory #1 for character-x. 
+
+Character-x is Aekold Black-steel's younger sister.
+Aekold's father sired her when off at war.
+Aekold's father tried to do the right thing by raising character-x.
+Character-x watched Aekold for years, always wanting to follow him everywhere but being super shy.
+Aekold's mother asked the character-x to go find Aekold.
+Character-x heard that Aekold had joined a merchant ship.
+
+#### Character-x's Backstory.
 
 XXX was born on Golarion, not the shadow plane.
 
@@ -104,8 +113,12 @@ The ancestor was not a cleric, but worshipped fully, with all their heart.
 
 X was born in the same town as their ancestor and all the descendants in between.
 
-
 ### ? - Craig.
+
+### Aekold BlackSteel - Lance.
+
+Lance's backstory.
+https://github.com/JimmyJackJones/Jimmy-Characters/blob/master/Writerside/topics/Aekold.md#backstory
 
 ? - Paddy.
 
