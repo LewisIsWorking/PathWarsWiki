@@ -57,6 +57,8 @@ Ryan.
 
 IQuain.
 
+Lance.
+
 ## Party Member Character List.
 
 ### ??? - Eimer.
