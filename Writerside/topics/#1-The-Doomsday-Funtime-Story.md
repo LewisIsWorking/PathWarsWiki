@@ -2031,4 +2031,6 @@ Allisee makes the servants cry with a scary threat to their lives.
 Tammerhawk and Keleri are in the Harrow, with Allisee, discussing what to do.
 
 In the mansion: Selenor, Cardigan.
-In the Harrow: Allisee, 
+In the Harrow: Allisee, Amar.
+
+17:00

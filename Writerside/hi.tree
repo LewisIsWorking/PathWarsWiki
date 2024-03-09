@@ -6,6 +6,7 @@
                  name="Help Instance"
                  start-page="Default-topic.md">
 
+    <toc-element topic="Selenors-Visions.md"/>
     <toc-element topic="Selenors-book.md"/>
     <toc-element topic="The-Harrow-Realm.md"/>
     <toc-element topic="DF-fame-tracker.md"/>

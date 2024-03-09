@@ -57,8 +57,6 @@ Ryan.
 
 IQuain.
 
-Lance.
-
 ## Party Member Character List.
 
 ### ??? - Eimer.
@@ -145,14 +143,11 @@ If the level
 1. Done!
 
 ## What level is the campaign?
-
 This campaign is unique in that in every session your level will be different.
-
 Year 1’s max level is level 8.
 
 ## Missions.
-
-The grand explorers will be given missions by the grand lounge.
+The grand lounge will give the grand explorers missions.
 
 ## Year 1.
 
@@ -187,9 +182,57 @@ Year 1 is made up of 25 missions with the first mission (1-00) being a purely in
 | 1-24                  | 8     |
 | 1-25                  | 8     |
 
-18:00.
+
+## Anaiel & Aekold Black-Steel's introduction.
+
+The group stand with Finara in the alleyway of inner seven-arches.
+The elven scholar's eyes perk up, her eyes glow slightly.
+Finara says:
+"Someone is approaching, someone special."
+
+Around the corner, two people appear.
+A man and a woman.
+
+@Craig
+Aethelhelm,
+The boon of the blood altar that you received in Shimmer-ford starts to cloud the very edge of your vision.
+A shimmering of crimson appears swirls in the corners of your eyes.
+
+These two people Aethelhelm, the power in their blood, it matches your own.
+They also have received a strange, esoteric blessing.
+
+Highlighted through their outfits, you see the crimson light faintly illuminate the outline of tattoos.
+After about 3 seconds of this enhanced vision, you feel starved, hungry for blood; the vision power dissipates.
+
+The people approach.
+
+The man looks to be in his mid-twenties.
+On the man's shoulder is the same tattoo of the whale that Doctor Etward Ritalson has.
+He is a human with a slight mix of another race, causing his face to look ever so slightly non-human.
+
+This human is wearing a gambeson under a breastplate, leather gloves and boots,
+medium-sized traveling backpack on the back with a bedroll attached.
+
+The woman looks to be in her mid-thirties.
+On the woman's wrist is the same tattoo of the whale that Doctor Etward Ritalson has.
+
+This woman is a fetching, a human corrupted by the shadow realm.
+However, something is different about her.
+A light is carried on her shadowy pale skin, a clear sign of a celestial blessing: an angelic aasimar Nephilim.
+Her hair is such a light blonde it borders on white, just as light and shadow conflict across the rest of her body.
+She has a small build: about 165 centimetres in height.
+
+The two of them approach the group.
+
+@HistoricallyInaccurate
+@JimmyJackJones
+What happens next?
+
+## Session Notes Below.
 
 ## Session 1 = Year 1 + Mission 0 + 6th April 2023.
+
+18:00.
 
 They got into the library.
 
@@ -267,7 +310,7 @@ Mosquito Witch.
 
 ## Session 9 = Year 1 + Mission 2 + 16th August 2023.
 
-Shimmerford.
+Shimmer-ford.
 
 Midday.
 
@@ -295,7 +338,7 @@ They find smartie sized brains on the alien’s bodies.
 
 ## Session 12 = Year 1 + Mission 2 + 25th October 2023.
 
-Aethelhelm makes deal with the blood altar.
+Aethelhelm makes a deal with the blood altar.
 
 Kai will stay in the inn with Quintus.
 
