@@ -589,7 +589,7 @@ There’s a page about the rune on stating actions.
 
 ## Final Steps.
 
-Only step 25 remains.
+Only step 23 remains.
 
 ## Step #23 = Everything might be ready?
 
