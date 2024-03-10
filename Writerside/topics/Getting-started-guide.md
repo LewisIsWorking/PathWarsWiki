@@ -420,7 +420,7 @@ You can use Microsoft Edge to do the same thing!
 
 You can both use Foundry and install it using Edge.
 
-Either one is totally fine 😃
+Either one is totally fine. 😃
 
 ## Step #10 = What is the Forge?
 
