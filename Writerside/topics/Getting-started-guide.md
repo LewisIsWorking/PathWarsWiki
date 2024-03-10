@@ -8,7 +8,7 @@
 
 ## REQUIREMENT #2 = ONLY JOIN IF YOU CAN COMMIT TO MULTIPLE SESSIONS + SHOW UP TO SESSIONS + PLAY IN THE LONG TERM.
 
-## REQUIREMENT #3 = ONLY JOIN IF YOU ARE COMFORTABLE  WITH THE CONTENT GUIDE.
+## REQUIREMENT #3 = ONLY JOIN IF YOU ARE COMFORTABLE WITH THE CONTENT GUIDE.
 
 ## Welcome!
 
@@ -18,7 +18,7 @@ If you are reading this, you probably want to join one of the currently running 
 
 This is a guide that will hopefully result in you being ready to play.
 
-Just follow each section, completing each part and you will be ready to play.
+Just follow each section, complete each part, and you will be ready to play.
 
 **Help.**
 
