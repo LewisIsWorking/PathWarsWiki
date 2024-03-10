@@ -50,9 +50,9 @@ Mostly it’s just edgy jokes.
 
 ## 18+
 
-Before you can join any Path Wars campaign you must be 18+.
+Before you can join any Path Wars campaign, you must be 18+.
 
-If you are under 18 then I am afraid we cannot and will not let you play.
+If you are under 18, then I am afraid we cannot and will not let you play.
 
 Most players will be in their 20s and do not want to play with children.
 
@@ -63,7 +63,7 @@ If you are under 18: PLEASE LEAVE THE DISCORD SERVER AND TELEGRAM GROUP.
 1. Please read the rest of step 0. This step describes the possible content that could come up in-game.
 2. Please decide if you consent to this content being possibly in the game.
 3. Please mention “@PathWars” on discord in the “#guest” text channel.
-4. Then please let PathWars know that you are ok with this content possibly occuring in-game + over voice.
+4. Then please let PathWars know that you are OK with this content possibly occurring in-game + over voice.
 5. Then PathWars will give you the campaign role which will unlock the rest of the server.
 
 ## Possible Content. The content guide checklist.
@@ -82,7 +82,8 @@ I am using it here because I think it covers *nearly* every possible event that 
 
 Is this stuff always going to happen?
 
-One or more items on the following list may never occur in a Path Wars campaign however it is important that the possibility is made clear so that people aren’t put off if such a thing happened.
+One or more items on the following list may never occur in a Path-War campaign;
+however, it is important that the possibility is made clear so that people aren’t put off if such a thing happened.
 
 ## Horror.
 
@@ -148,19 +149,20 @@ One or more items on the following list may never occur in a Path Wars campaign 
 16. Torture
 17. Thirst
 
-## How Do You Feel About Permanent Death of Player Characters?
+## How Do You Feel About the Permanent Death of Player Characters?
 
 “I’m OK with it.”
 
 You need to be OK with the fact that your character may die and that your character may be permanently dead.
 
-While resurrection is often an option, there are many instances where it is not feasible or the party decides not to resurrect your character.
+While resurrection is often an option, there are many instances where it is not feasible,
+or the party decides not to resurrect your character.
 
 This needs to be accepted before play can begin.
 
 ## How Do You Feel About the Permanent Death of Significant NPCs?
 
-You need to be ok with the fact that significant NPCs may die and be permanently dead.
+You need to be OK with the fact that significant NPCs may die and be permanently dead.
 
 ## Slavery.
 
@@ -209,7 +211,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 
 ### Telegram
 
-We used Telegram for out-of-game chat and some in-session links and image sharing.
+We used Telegram for out-of-game chat, and some in-session links and image sharing.
 
 The link to the Telegram group is below.
 
@@ -270,7 +272,7 @@ Please read the following:
 
 The rules in this table are the rules in play in each campaign.
 
-When you are making your character later in this guide you need to keep the Variant rules in mind.
+When you are making your character later in this guide, you need to keep the Variant rules in mind.
 
 For example.
 
@@ -325,7 +327,7 @@ Go to Path-Builder's character builder web app.
 
 Enable the variant rules that are applicable to your campaign.
 
-To find out what variant rules you need to enable check here:
+To find out what variant rules you need to enable, check here:
 
 [Paizo Variant Rules.](https://www.notion.so/Paizo-Variant-Rules-a9e4da234df14383924c4dd4768f2e24?pvs=21)
 
@@ -339,7 +341,7 @@ For dual-class it would be:
 
 Options → Tick the Dual Class box.
 
-## **NOTE ABOUT = Selecting 3rd party content:**
+## **NOTE ABOUT = Selecting 3rd party content: **
 
 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 
@@ -402,14 +404,13 @@ The following steps will get you ready for Foundry!
 Foundry is made to work with Chrome.
 
 Chrome will offer you the best performance.
-
 Chrome will offer you the best user experience.
 
 Chrome isn't my favourite browser either.
 
 ## The Good News
 
-Once you get into Foundry on Chrome you will install Foundry.
+Once you get into Foundry on Chrome, you will install Foundry.
 
 After that, you will be using Foundry as an application.
 
