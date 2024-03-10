@@ -226,7 +226,7 @@ Discord invite link.
 
 Normal link:
 
-https://discord.gg/4Ngy44e
+https://discord.gg/nAxna2DBk7
 
 ## Establishing The Character’s Lore.
 
