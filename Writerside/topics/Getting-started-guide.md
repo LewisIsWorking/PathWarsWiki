@@ -617,18 +617,13 @@ See more pages here.
 
 **And with that, we should be ready to roll the dice, kill shit and have fun.** 
 😃
-
 If you have the time,
 look at additional reading
-and complete the [Character Life Timeline.](https://www.notion.so/Character-Life-Timeline-290d6b876a6a468ba0f594889f74781e?pvs=21)
+and complete the [Character-Lore-Builder](Character-Lore-Builder.md)
 
 ## Additional Reading.
 
-[Character Life Timeline.](https://www.notion.so/Character-Life-Timeline-290d6b876a6a468ba0f594889f74781e?pvs=21)
-
 [Other Starter Things.](https://www.notion.so/Other-Starter-Things-c8eba2ed98b44e2eb9aa4b84a5107095?pvs=21)
-
-[Build YOUR Character’s Life HERE!](https://www.notion.so/Build-YOUR-Character-s-Life-HERE-3ad6294fa4464bbc9f9e73207849bcb4?pvs=21)
 
 End of Page.
 

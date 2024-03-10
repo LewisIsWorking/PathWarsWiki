@@ -195,7 +195,7 @@ Finally, what is your character’s backstory?
 
 ## Backstory by Year.
 
-Now find out the current campaign's current year.
+Now find out the current campaign's current in-game year.
 For Doomsday Funtime it is currently 4710 AR.
 If your character is 25 years old, then your character was born in 4685 AR.
 
@@ -224,7 +224,7 @@ If you have any other questions about this, please contact me on my telegram.
 
 ## Time since level 1.
 
-This is a continuation of the 'Backstory by year' section for if you are starting after the first level.
+This is a continuation of the 'Backstory by each year' section for if you are starting after the first level.
 This section involves writing what your character has been doing since level 1 aka since their backstory.
 
 To do this, you can decide at what age the character became level 1, and what age they are now.
