@@ -1,16 +1,16 @@
 # Getting-started-guide
 
-# ! →The Starting Guide ! ← !
+## ! →The Starting Guide ! ← !
 
-# Table of Contents.
+## Table of Contents.
 
-# REQUIREMENT #1 = ONLY JOIN IF YOU ARE 18+
+## REQUIREMENT #1 = ONLY JOIN IF YOU ARE 18+
 
-# REQUIREMENT #2 = ONLY JOIN IF YOU CAN COMMIT TO MULTIPLE SESSIONS + SHOW UP TO SESSIONS + PLAY IN THE LONG TERM.
+## REQUIREMENT #2 = ONLY JOIN IF YOU CAN COMMIT TO MULTIPLE SESSIONS + SHOW UP TO SESSIONS + PLAY IN THE LONG TERM.
 
-# REQUIREMENT #3 = ONLY JOIN IF YOU ARE COMFORTABLE  WITH THE CONTENT GUIDE.
+## REQUIREMENT #3 = ONLY JOIN IF YOU ARE COMFORTABLE  WITH THE CONTENT GUIDE.
 
-# Welcome!
+## Welcome!
 
 Hello Pathfinder newbie!
 
@@ -24,11 +24,11 @@ Just follow each section, completing each part and you will be ready to play.
 
 If you need any help, please reach out to the GM on Telegram or Discord.
 
-# Before we go any further...
+## Before we go any further...
 
 PLEASE READ STEP 0.
 
-# Step #0 = Content Warning.
+## Step #0 = Content Warning.
 
 ## Unlocking the Discord.
 
@@ -191,13 +191,13 @@ If you have any ideas on how to extend this out, please let me know.
 
 Telegram is the best way to reach me.
 
-# Become Social!
+## Become Social!
 
 The first steps are the socials we use to organise the sessions and to chat about Pathfinder and other stuff.
 
 😃
 
-# Step #1 = Telegram
+## Step #1 = Telegram
 
 ### Telegram
 
@@ -213,7 +213,7 @@ Click the link below:
 
 [Telegram](https://www.notion.so/Telegram-c5939cd59b2c4064bdf2b097e62f6a09?pvs=21)
 
-# Step #2 = Discord.
+## Step #2 = Discord.
 
 Discord invite link.
 
@@ -221,15 +221,15 @@ Normal link:
 
 https://discord.gg/4Ngy44e
 
-# Establishing The Character’s Lore.
+## Establishing The Character’s Lore.
 
 With these steps we will establish the character alongside their backstory, traits, appearance and more!
 
-# Step #3 = The Great Spoiler Warning.
+## Step #3 = The Great Spoiler Warning.
 
 Read = [Spoiler Avoidance Guide](https://www.notion.so/Spoiler-Avoidance-Guide-03ce3d0582564a958e974cdea133113e?pvs=21)
 
-# Step #4 = How to Build Your Character’s Life.
+## Step #4 = How to Build Your Character’s Life.
 
 Go here and paste the table onto your Notion Workspace:
 
@@ -250,12 +250,12 @@ I can’t wait to meet them. 😃
 
 End of Page.
 
-# Learn the rules.
+## Learn the rules.
 
 It is time to learn!
 Don’t worry, this is the fun kind of learning.
 
-# Step #5 = Paizo Variant Rules.
+## Step #5 = Paizo Variant Rules.
 
 Please read the following:
 
@@ -272,7 +272,7 @@ Most of the campaigns that I run use:
 
 You can find out what Paizo Variant rules are used in the table linked above!
 
-# Step #6 = Read The PathWars Homebrew Rule Changes.
+## Step #6 = Read The PathWars Homebrew Rule Changes.
 
 The campaigns ran in the Path War community have some homebrew rule changes.
 
@@ -280,11 +280,11 @@ You can find a mostly complete list of the rule changes here.
 
 [Homebrew Rule Changes.](https://www.notion.so/Homebrew-Rule-Changes-2699f1f7cdec48eab939a31ccf740e91?pvs=21)
 
-# Make the character.
+## Make the character.
 
 The next steps are all about making the character.
 
-# Step #7 = **3rd Party Content.**
+## Step #7 = **3rd Party Content.**
 
 Next step.
 
@@ -298,7 +298,7 @@ Check the 3rd party page to find out what is available.
 
 [Step 10 | Path Builder 2e + Character Creation.](https://www.notion.so/Step-10-Path-Builder-2e-Character-Creation-a17ebea80eb24e65a2f70298d4ac2814?pvs=21)
 
-# Step #8 = Path Builder 2e + Character Creation.
+## Step #8 = Path Builder 2e + Character Creation.
 
 Time to actually make your character’s stats and abilities.
 
@@ -330,7 +330,7 @@ For dual-class it would be:
 
 Options → Tick the Dual Class box.
 
-# **NOTE ABOUT = Selecting 3rd party content:**
+## **NOTE ABOUT = Selecting 3rd party content:**
 
 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 
@@ -338,7 +338,7 @@ To use 3rd party content you will need to add it in Foundry manually.
 
 Contact your GM about this as some 3rd party content may already be available in Foundry thanks to community modules.
 
-# **NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.**
+## **NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.**
 
 Before selecting anything with these traits make sure you read:
 
@@ -368,7 +368,7 @@ You can read about the lore increases homebrew rule here:
 
 [Lore Increases](https://www.notion.so/Lore-Increases-747be2c4f53b420fa16b882fa7877f85?pvs=21)
 
-# Buy the Full Version of Path-Builder 2e.
+## Buy the Full Version of Path-Builder 2e.
 
 Buying the full version of Path-builder 2e is worth it.
 
@@ -376,13 +376,13 @@ All of the campaigns on this server are multi-year 100+ session campaigns, you w
 
 Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
 
-# Foundry Virtual Table Top Time.
+## Foundry Virtual Table Top Time.
 
 It’s time to get started on getting you set up on Foundry.
 
 The following steps will get you ready for Foundry!
 
-# Step #9 = Download Chrome OR Use Edge.
+## Step #9 = Download Chrome OR Use Edge.
 
 ## Download Link
 
@@ -412,7 +412,7 @@ You can both use Foundry and install it using Edge.
 
 Either one is totally fine 😃
 
-# Step #10 = What is the Forge?
+## Step #10 = What is the Forge?
 
 This step will get you set up on the Forge.
 
@@ -426,7 +426,7 @@ We play Pathfinder 2e on Foundry.
 
 I pay per month to have the Foundry world hosted on the forge.
 
-# Step #11 = Join The Forge Campaign
+## Step #11 = Join The Forge Campaign
 
 Here is the link to join the Campaign on the Forge.
 
@@ -444,7 +444,7 @@ Congratulations you are now on Foundry and an officially a player!
 
 If the link doesn’t work, just ask on the telegram for a new one.
 
-# Step #12 = Request a Foundry User.
+## Step #12 = Request a Foundry User.
 
 Now that you have a Forge account you can launch the game.
 
@@ -456,7 +456,7 @@ Foundry users must be created manually by the Foundry Admin.
 
 Request a Foundry user on the telegram group and I will create a user for you.
 
-# Step #13 = Log into Foundry.
+## Step #13 = Log into Foundry.
 
 Watch this video before using Foundry VTT.
 
@@ -476,7 +476,7 @@ Click join game session!
 
 [Step 16 | Install Foundry.](https://www.notion.so/Step-16-Install-Foundry-6bb20fc0486549489f62719c1e30a026?pvs=21)
 
-# Step #14 = Install Foundry.
+## Step #14 = Install Foundry.
 
 Tired of asking what the link to get onto Foundry is?
 
@@ -498,7 +498,7 @@ Takes about 5 seconds to install.
 
 Video showing the application:
 
-# Step #15= Pick your player colour.
+## Step #15= Pick your player colour.
 
 Once you’ve logged in Foundry will prompt you to pick your player colour.
 
@@ -506,11 +506,11 @@ Pick your colour.
 
 Continue to the next step!
 
-# Step #16 = Request a Character sheet.
+## Step #16 = Request a Character sheet.
 
 Ask on Telegram for a character sheet.
 
-# Step #17 = Open your character sheet.
+## Step #17 = Open your character sheet.
 
 In the top right corner of your screen on Foundry, there is an “actors” icon.
 
@@ -526,7 +526,7 @@ If you are Crimson Throne then:
 
 Crimson Throne Players → Open Table | Players Active.
 
-# Step #18= Import your character to Foundry.
+## Step #18= Import your character to Foundry.
 
 Next step.
 
@@ -542,7 +542,7 @@ The Pathbuilder importer is broken.
 
 [Making a PC · Wiki · Hooking / Foundry VTT - Pathfinder 2e](https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/wikis/Getting-Started-Guide/Making-a-PC#dual-class-pcs)
 
-# Step #19= Pick a token image.
+## Step #19= Pick a token image.
 
 Find an image to be your character’s token image.
 
@@ -552,11 +552,11 @@ Save that image somewhere you can find.
 
 There is a module with thousands of free premium ones on Foundry.
 
-# Step #20 = Send the token image.
+## Step #20 = Send the token image.
 
 Take the token image from the previous step and send it to the Game Master of the campaign.
 
-# Step #21= Request Vision Setup + Token Placement.
+## Step #21= Request Vision Setup + Token Placement.
 
 Is your screen entirely black?
 
@@ -564,7 +564,7 @@ Then your character has not yet been placed in the current scene.
 
 Request that the Game Master place your token and set up your token’s vision.
 
-# Step #22= Create a Notion workspace.
+## Step #22= Create a Notion workspace.
 
 An introduction to Notion workspaces:
 
@@ -590,7 +590,7 @@ Proceed onto Part 5.
 
 [Step 5 | Share Your Notion Workspace.](https://www.notion.so/Step-5-Share-Your-Notion-Workspace-43e026b0acc64273becc3d0676aa2847?pvs=21)
 
-# Step #23= Share Your Notion Workspace.
+## Step #23= Share Your Notion Workspace.
 
 This does NOT cost money.
 
@@ -614,7 +614,7 @@ My email is [Pathwars2e@gmail.com](mailto:Pathwars2e@gmail.com)
 
 This will allow me to help you make your character.
 
-# Step #24 = What you need to know.
+## Step #24 = What you need to know.
 
 Read this page:
 
@@ -630,11 +630,11 @@ There’s a page that tells you what time zone the campaign is.
 
 There’s a page about the rune on stating actions.
 
-# Final Steps.
+## Final Steps.
 
 Only step 25 remains.
 
-# Step #25 = Everything might be ready?
+## Step #25 = Everything might be ready?
 
 Final checks.
 
@@ -662,7 +662,7 @@ See more pages here.
 
 If you have the time look at additional reading and complete the [Character Life Timeline.](https://www.notion.so/Character-Life-Timeline-290d6b876a6a468ba0f594889f74781e?pvs=21)
 
-# Additional Reading.
+## Additional Reading.
 
 [Character Life Timeline.](https://www.notion.so/Character-Life-Timeline-290d6b876a6a468ba0f594889f74781e?pvs=21)
 
@@ -672,7 +672,7 @@ If you have the time look at additional reading and complete the [Character Life
 
 End of Page.
 
-# The Old Getting Started Guide.
+## The Old Getting Started Guide.
 
 24/01/2023.
 
