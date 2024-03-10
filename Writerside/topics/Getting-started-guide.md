@@ -571,57 +571,7 @@ Then your character has not yet been placed in the current scene.
 
 Request that the Game Master place your token and set up your token’s vision.
 
-## Step #22= Create a Notion workspace.
-
-An introduction to Notion workspaces:
-
-[Intro to workspaces](https://www.notion.so/help/intro-to-workspaces)
-
-The official Notion guide to creating, deleting and switching workspaces:
-
-[Create, delete & switch workspaces](https://www.notion.so/help/create-delete-and-switch-workspaces)
-
-## Why do I need a Notion workspace?
-
-You can use the Notion workspace LATER to contain:
-
-1. Your character’s build.
-2. Your character’s backstory.
-3. Your session notes.
-
-You will do all this and build your character’s lore in part 4.
-
-So don’t worry yet!
-
-Proceed onto Part 5.
-
-[Step 5 | Share Your Notion Workspace.](https://www.notion.so/Step-5-Share-Your-Notion-Workspace-43e026b0acc64273becc3d0676aa2847?pvs=21)
-
-## Step #23= Share Your Notion Workspace.
-
-This does NOT cost money.
-
-If Notion asks for money for Notion Premium, you are most likely doing it wrong.
-
-If this is the case: ask for help on the telegram group.
-
-Before you share, please rename your workspace.
-
-Click on “Settings & Members” in the top left corner.
-
-Then under the “Settings” header, click the workspace section.
-
-Then update the name to be “CT =” then your character’s name.
-
-Share your workspace with me.
-
-My email is [Pathwars2e@gmail.com](mailto:Pathwars2e@gmail.com)
-
-^ Share your workspace with edit permissions with this email, please.
-
-This will allow me to help you make your character.
-
-## Step #24 = What you need to know.
+## Step #22 = What you need to know.
 
 Read this page:
 
@@ -641,7 +591,7 @@ There’s a page about the rune on stating actions.
 
 Only step 25 remains.
 
-## Step #25 = Everything might be ready?
+## Step #23 = Everything might be ready?
 
 Final checks.
 
