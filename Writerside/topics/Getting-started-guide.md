@@ -355,11 +355,11 @@ Before selecting anything with these traits, make sure you read:
 
 **Create your character.**
 
-To create your character set your character to the level they will be playing at.
+To create your character, set your character to the level they will be playing at.
 
-To find out what level your character should be go to the section on this notion that has that campaign.
+To find out what level your character should be, go to the section on this notion that has that campaign.
 
-Now: Pick your class pick your race and pick your sub-race.
+Now: Pick your class, pick your race and pick your subrace.
 
 Go through each level and apply all your ability score boosts, make your feat selections, etc.
 
