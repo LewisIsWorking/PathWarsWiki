@@ -1,9 +1,5 @@
 # Getting-started-guide
 
-## ! →The Starting Guide ! ← !
-
-## Table of Contents.
-
 ## REQUIREMENT #1 = ONLY JOIN IF YOU ARE 18+
 
 ## REQUIREMENT #2 = ONLY JOIN IF YOU CAN COMMIT TO MULTIPLE SESSIONS + SHOW UP TO SESSIONS + PLAY IN THE LONG TERM.
