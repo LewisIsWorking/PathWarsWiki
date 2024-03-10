@@ -2034,3 +2034,8 @@ In the mansion: Selenor, Cardigan.
 In the Harrow: Allisee, Amar.
 
 17:00
+
+## Session 207. 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 16.
+
+Picking up with the mayor.
+It has been 1-month since the last session! :'(

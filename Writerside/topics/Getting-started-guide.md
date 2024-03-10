@@ -435,16 +435,13 @@ I pay per a month to have the Foundry world hosted on the forge.
 
 ## Step #11 = Join The Forge Campaign
 
-Here is the link to join the Campaign on the Forge.
-
-https://eu2.forge-vtt.com/invite/doomday-funtime/1b1e657d-8a2b-4603-bd97-884344e18517
-
-This link will take you to the Forge Campaign.
+Ask for a Forge invite link.
 
 You need to create an account.
 
 Once you have done that, you will be an official player in the campaign.
 
+Done?
 Congratulations you are now on Foundry and an official player!
 
 ### “BUT THIS LINK DOESN'T WORK!!!”
