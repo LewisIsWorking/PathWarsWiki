@@ -32,17 +32,17 @@ PLEASE READ STEP 0.
 
 ## Unlocking the Discord.
 
-At the moment you will only be seeing a couple of public channes on the server including the lobby.
+At the moment you will only be seeing a couple of public channels on the server, including the lobby.
 
-To unlock the rest of the server please read the rest of the page.
+To unlock the rest of the server, please read the rest of the page.
 
 The “What To do Now” heading contains further information.
 
 ## Why did I add step 0?
 
-After GMing for a long time you come to realise that different people have different levels of tolerance for all kinds of different things.
+After GMing for a long time, you come to realise that different people have different levels of tolerance for all kinds of different things.
 
-The intent of step 0 is to ensure that you as a potential new player are well are of possible in-game events and the types of interpersonal interactions that can occur.
+The intent of step 0 is to ensure that you as a potential new player are well are of possible in-game events, and the types of interpersonal interactions that can occur.
 
 This explaination is for the benefit of everyone as everyone is on the same page when it comes to expressing themselves without fear of upsetting someone else.
 
@@ -150,15 +150,15 @@ One or more items on the following list may never occur in a Path Wars campaign 
 
 ## How Do You Feel About Permanent Death of Player Characters?
 
-“I’m ok with it.”
+“I’m OK with it.”
 
-You need to be ok with the fact that your character may die and that your character may be permanently dead.
+You need to be OK with the fact that your character may die and that your character may be permanently dead.
 
-While resurrection is often an option there are many instances where it is not feasible or the party decides not to resurrect your character.
+While resurrection is often an option, there are many instances where it is not feasible or the party decides not to resurrect your character.
 
 This needs to be accepted before play can begin.
 
-## How Do You Feel About Permanent Death of Significant NPCs?
+## How Do You Feel About the Permanent Death of Significant NPCs?
 
 You need to be ok with the fact that significant NPCs may die and be permanently dead.
 
@@ -170,20 +170,28 @@ I am adding slavery as my own custom addition as it is part of the campaign worl
 
 This means that slavery can often come up.
 
-You need to be ok with:
+You need to be OK with:
 
-1. Slavery existing.
-2. Players or NPCs owning slaves.
+1. Slavery exists.
+2. Players or NPCs own slaves.
 
-This is all I think of in regards to slavery, if anyone has any suggestions on how the slavery content list could be expanded please let me know.
+This is all I think of in regard to slavery.
+If anyone has any suggestions on how the slavery content list could be expanded, please let me know.
 
 ## Comedy.
 
 I’ve also added this section.
 
-Jokes are subjective so please be ok with jokes of any kind, any subject, etc.
+Jokes are subjective, so please be OK with jokes of any kind, any subject, etc.
 
-I, myself, enjoy dark and edgy humour but I know that it isn't for everyone so it's important to acknowledge this and ensure people are prepared for the possibility of jokes being made by anyone involved in the campaign or from the community as a whole.
+I, myself, enjoy dark and edgy humour. 
+However, I know that it isn't for everyone.
+
+That is why
+it is important to acknowledge this
+and ensure
+people are prepared for the possibility of jokes
+being made by anyone involved in the campaign or from the community as a whole.
 
 ## Suggestions.
 
@@ -223,7 +231,7 @@ https://discord.gg/4Ngy44e
 
 ## Establishing The Character’s Lore.
 
-With these steps we will establish the character alongside their backstory, traits, appearance and more!
+With these steps, we will establish the character alongside their backstory, traits, appearance and more!
 
 ## Step #3 = The Great Spoiler Warning.
 
@@ -235,10 +243,11 @@ Go here and paste the table onto your Notion Workspace:
 
 [Build YOUR Character’s Life HERE!](https://www.notion.so/Build-YOUR-Character-s-Life-HERE-3ad6294fa4464bbc9f9e73207849bcb4?pvs=21)
 
-If you need information on the world check out [Golarion Lore | The Spoiler-Free Version!](https://www.notion.so/Golarion-Lore-The-Spoiler-Free-Version-17083131447e4b8089a21929831b2015?pvs=21)
+If you need information on the world, check out:
+[Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
 
 1. Copy and paste the questions into your own Notion Workspace.
-    1. If you don’t have a Notion workspace see [Step 4 | Create a Notion workspace.](https://www.notion.so/Step-4-Create-a-Notion-workspace-fd44478fc46e4a618a167d720227f9cc?pvs=21)
+    1. If you don’t have a Notion workspace, see [Step 4 | Create a Notion workspace.](https://www.notion.so/Step-4-Create-a-Notion-workspace-fd44478fc46e4a618a167d720227f9cc?pvs=21)
 2. Share your workspace with me.
     1. My email is [Pathwars2e@gmail.com](mailto:Pathwars2e@gmail.com)
 3. Let me know that you have filled it out.
@@ -334,13 +343,13 @@ Options → Tick the Dual Class box.
 
 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 
-To use 3rd party content you will need to add it in Foundry manually.
+To use 3rd party content, you will need to add it in Foundry manually.
 
 Contact your GM about this as some 3rd party content may already be available in Foundry thanks to community modules.
 
 ## **NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.**
 
-Before selecting anything with these traits make sure you read:
+Before selecting anything with these traits, make sure you read:
 
 [The Rarity System = Uncommon/Rare/Unique.](https://www.notion.so/The-Rarity-System-Uncommon-Rare-Unique-77564d53a3c34dc3949410d3562d8a6b?pvs=21)
 
