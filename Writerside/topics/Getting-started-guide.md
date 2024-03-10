@@ -44,7 +44,8 @@ After GMing for a long time, you come to realise that different people have diff
 
 The intent of step 0 is to ensure that you as a potential new player are well are of possible in-game events, and the types of interpersonal interactions that can occur.
 
-This explaination is for the benefit of everyone as everyone is on the same page when it comes to expressing themselves without fear of upsetting someone else.
+This explanation is for the benefit of everyone
+as everyone is on the same page when it comes to expressing themselves without fear of upsetting someone else.
 
 Mostly it’s just edgy jokes.
 
@@ -134,15 +135,15 @@ however, it is important that the possibility is made clear so that people aren�
 1. Cancer
 2. Claustrophobia
 3. Freezing to Death
-4. Gaslighting
+4. Gas lighting
 5. Genocide
 6. Heatstroke
 7. Natural Disasters (earthquakes, forest fires)
 8. Paralysis/physical restraint
-9. Police, police agression
-10. Pregnancy, Miscarriage, or Abortion
+9. Police, police aggression
+10. Pregnancy, Miscarriage or Abortion
 11. Self-Harm
-12. Severe Weather (hurricanes, tornados)
+12. Severe Weather (hurricanes, tornado)
 13. Sexual Assault
 14. Starvation
 15. Terrorism
@@ -321,7 +322,7 @@ The link to Path-Builder is here:
 
 **Go on Path-Builder.**
 
-Go to Path-Builder's character builder web app.
+Go to Path-Builder's character builder web application.
 
 **Enable the variant rules.**
 
@@ -383,13 +384,13 @@ You can read about the lore increases homebrew rule here:
 
 Buying the full version of Path-builder 2e is worth it.
 
-All of the campaigns on this server are multi-year 100+ session campaigns, you will get your value for money.
+All the campaigns on this server are multi-year 100+ session campaigns, you will get your value for money.
 
 Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
 
 ## Foundry Virtual Table Top Time.
 
-It’s time to get started on getting you set up on Foundry.
+It is time to get started on getting you set up on Foundry.
 
 The following steps will get you ready for Foundry!
 
@@ -450,7 +451,7 @@ Once you have done that, you will be an official player in the campaign.
 
 Congratulations you are now on Foundry and an official player!
 
-### “BUT THIS LINK DOESN’T WORK!!!”
+### “BUT THIS LINK DOESN'T WORK!!!”
 
 If the link doesn't work, just ask on the telegram for a new one.
 
@@ -608,13 +609,13 @@ If Notion asks for money for Notion Premium, you are most likely doing it wrong.
 
 If this is the case: ask for help on the telegram group.
 
-Before you share please rename your workspace.
+Before you share, please rename your workspace.
 
 Click on “Settings & Members” in the top left corner.
 
-Then under the “Settings” header click the workspace section.
+Then under the “Settings” header, click the workspace section.
 
-Then update the name to be “CT = ” then your character’s name.
+Then update the name to be “CT =” then your character’s name.
 
 Share your workspace with me.
 
@@ -668,9 +669,12 @@ You should find your campaigns on this notion on the Path Wars Homepage.
 
 See more pages here.
 
-**And with that, we should be ready to roll dice, kill shit and have fun.** 😃
+**And with that, we should be ready to roll the dice, kill shit and have fun.** 
+😃
 
-If you have the time look at additional reading and complete the [Character Life Timeline.](https://www.notion.so/Character-Life-Timeline-290d6b876a6a468ba0f594889f74781e?pvs=21)
+If you have the time,
+look at additional reading
+and complete the [Character Life Timeline.](https://www.notion.so/Character-Life-Timeline-290d6b876a6a468ba0f594889f74781e?pvs=21)
 
 ## Additional Reading.
 
@@ -686,9 +690,10 @@ End of Page.
 
 24/01/2023.
 
-This guide was once 25 seperate pages.
+This guide was once 25 separate pages.
 
-I got a lot of feedback that stated that having all these pages being seperate was clunky, hard to navigate and hard to read.
+I got a lot of feedback that stated that having all these pages being separate was clunky,
+hard to navigate and hard to read.
 
 So I have instead made it one longer page.
 
