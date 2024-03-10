@@ -3,17 +3,13 @@
 Pathfinder class = Guild Wars 2 class
 
 
-
 Alchemist = Engineer? Harbinger?
-
 
 
 Barbarian = barbarian.
 
 
-
 Bard = Mesmer or Herald?
-
 
 
 Champion = Guardian.
