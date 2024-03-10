@@ -640,28 +640,3 @@ So I have instead made it one longer page.
 
 Hopefully people enjoy this change.
 
-The old getting started guide is here.
-
-[The Old Getting Started Guide.](https://www.notion.so/The-Old-Getting-Started-Guide-14e4b6e9a24e42568d03177226fc9fe0?pvs=21)
-
-[Step 1 | Telegram](https://www.notion.so/Step-1-Telegram-dd575ba32a774a8dab3e02f6574aa637?pvs=21)
-
-[Step 2 | Discord.](https://www.notion.so/Step-2-Discord-294a962d47ba4b4dad15fda74e2144b7?pvs=21)
-
-[Step 3 | The Great Spoiler Warning.](https://www.notion.so/Step-3-The-Great-Spoiler-Warning-aca5132c5d1e4a44a8b3f4be4a6dc676?pvs=21)
-
-[Step 4 | Create a Notion workspace.](https://www.notion.so/Step-4-Create-a-Notion-workspace-fd44478fc46e4a618a167d720227f9cc?pvs=21)
-
-[Step 5 | Share Your Notion Workspace.](https://www.notion.so/Step-5-Share-Your-Notion-Workspace-43e026b0acc64273becc3d0676aa2847?pvs=21)
-
-[Step 6 | How to Build Your Character’s Life.](https://www.notion.so/Step-6-How-to-Build-Your-Character-s-Life-f0658e3f03644e8886b767962a800760?pvs=21)
-
-Etc.
-
-[Step 25 | Everything might be ready?](https://www.notion.so/Step-25-Everything-might-be-ready-a1dccb12cbfc4625899b98d28046c7bc?pvs=21)
-
-[Build YOUR Character’s Life HERE!](https://www.notion.so/Build-YOUR-Character-s-Life-HERE-3ad6294fa4464bbc9f9e73207849bcb4?pvs=21)
-
-[Spoiler Avoidance Guide](https://www.notion.so/Spoiler-Avoidance-Guide-03ce3d0582564a958e974cdea133113e?pvs=21)
-
-[Other Starter Things.](https://www.notion.so/Other-Starter-Things-c8eba2ed98b44e2eb9aa4b84a5107095?pvs=21)
