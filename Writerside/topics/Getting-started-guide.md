@@ -66,7 +66,7 @@ If you are under 18: PLEASE LEAVE THE DISCORD SERVER AND TELEGRAM GROUP.
 4. Then please let PathWars know that you are ok with this content possibly occuring in-game + over voice.
 5. Then PathWars will give you the campaign role which will unlock the rest of the server.
 
-## Possible Content.
+## Possible Content. The content guide checklist.
 
 The list of possible things is taken from “The Digital RPG Consent Checklist”.
 
