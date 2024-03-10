@@ -60,9 +60,7 @@ What if my enemy should harm me? asked the undead of the nothing.
 
 Harm them first,” said the nothing, Or else, have a very thick skull
 
-
 Learn this – child – Learn – the best and truest way of killing. The ghost that tastes without striking, like a snake sampling the air. It sheathes only in flesh, and hides until then, not moving a muscle
-
 
 I cannot remember my home, said Lorn.
 
