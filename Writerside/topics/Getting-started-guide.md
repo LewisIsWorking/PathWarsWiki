@@ -428,13 +428,13 @@ This step will get you set up on the Forge.
 
 What is the Forge?
 
-The Forge is a server hosting platform.
+The Forge is a server-hosting platform.
 
 The Forge hosts Foundry worlds.
 
 We play Pathfinder 2e on Foundry.
 
-I pay per month to have the Foundry world hosted on the forge.
+I pay per a month to have the Foundry world hosted on the forge.
 
 ## Step #11 = Join The Forge Campaign
 
@@ -446,25 +446,25 @@ This link will take you to the Forge Campaign.
 
 You need to create an account.
 
-Once you have done that you will be an official player in the campaign.
+Once you have done that, you will be an official player in the campaign.
 
-Congratulations you are now on Foundry and an officially a player!
+Congratulations you are now on Foundry and an official player!
 
 ### “BUT THIS LINK DOESN’T WORK!!!”
 
-If the link doesn’t work, just ask on the telegram for a new one.
+If the link doesn't work, just ask on the telegram for a new one.
 
 ## Step #12 = Request a Foundry User.
 
-Now that you have a Forge account you can launch the game.
+Now that you have a Forge account, you can launch the game.
 
-This will take you to the Foundry log in screen.
+This will take you to the Foundry login screen.
 
-To log into Foundry you need a Foundry User.
+To log into Foundry, you need a Foundry User.
 
 Foundry users must be created manually by the Foundry Admin.
 
-Request a Foundry user on the telegram group and I will create a user for you.
+Request a Foundry user on the telegram group, and I will create a user for you.
 
 ## Step #13 = Log into Foundry.
 
@@ -490,7 +490,7 @@ Click join game session!
 
 Tired of asking what the link to get onto Foundry is?
 
-Well, this is one of the benefits of installing Foundry.
+Well, this is one of the benefits of installing Foundry VTT.
 
 Article explanation:
 
@@ -542,7 +542,7 @@ Next step.
 
 [Step 21 | Pick a token image.](https://www.notion.so/Step-21-Pick-a-token-image-10b281673a3f4e28adeba7b719f1e816?pvs=21)
 
-Go to Foundry.
+Go to Foundry VTT.
 
 Open your sheet.
 
@@ -554,7 +554,7 @@ The Pathbuilder importer is broken.
 
 ## Step #19= Pick a token image.
 
-Find an image to be your character’s token image.
+Find an image to be your character's token's image.
 
 This is the image that will represent your character on the virtual tabletop.
 
@@ -604,7 +604,7 @@ Proceed onto Part 5.
 
 This does NOT cost money.
 
-If Notion asks for money for Notion Premium you are most likely doing it wrong.
+If Notion asks for money for Notion Premium, you are most likely doing it wrong.
 
 If this is the case: ask for help on the telegram group.
 
