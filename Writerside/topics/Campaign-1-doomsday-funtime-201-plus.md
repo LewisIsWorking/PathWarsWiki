@@ -177,9 +177,9 @@ Selenor is now star gazer.
 - The book is in the "Odd Stories" bookshop.
 - The cooperative blade was in the Dawn flower temple library but was stolen years ago.
 
-Keleri will give the group a starter Eldamon for completing the Gauntlight.
+Keleri will give the group a starter Eldamon for completing the Gaunt light.
 
-## Session 208. 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 17.
+## Session 208. 2024 March 24th Saturday + 4710 AR Erastus 28th + Gaunt-light part 17.
 
 New players:
 - Goat.
