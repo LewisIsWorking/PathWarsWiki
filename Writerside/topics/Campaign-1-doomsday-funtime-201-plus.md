@@ -180,3 +180,12 @@ Selenor is now star gazer.
 Keleri will give the group a starter Eldamon for completing the Gauntlight.
 
 ## Session 208. 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 17.
+
+New players:
+Goat.
+Patrick.
+Zoli.
+
+Setting up new players.
+New players ready:
+- Patrick.
