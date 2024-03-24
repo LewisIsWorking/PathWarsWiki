@@ -8,12 +8,12 @@
 
     <toc-element topic="Path-wars-campaigns.md">
         <toc-element topic="Rarity-Lock-Status-Tracker.md"/>
-        <toc-element topic="Campaign-Achievements.md"/>
-        <toc-element topic="Campaign-Timeline.md"/>
+        <toc-element topic="Campaign-achievements.md"/>
+        <toc-element topic="Path-wars-timeline.md"/>
         <toc-element topic="Player-rosters.md"/>
-        <toc-element topic="campaign-1-the-doomsday-funtime-story.md"/>
-        <toc-element topic="campaign-5-The-Grand-Explorers.md"/>
-        <toc-element topic="campaign-6-Kibwe.md"/>
+        <toc-element topic="Campaign-1-the-doomsday-funtime-story.md"/>
+        <toc-element topic="Campaign-5-The-Grand-Explorers.md"/>
+        <toc-element topic="Campaign-6-Kibwe.md"/>
     </toc-element>
     <toc-element topic="Selenor-collection.md">
         <toc-element topic="Eldamon.md"/>

@@ -1,4 +1,4 @@
-# Campaign-Achievements
+# Campaign-achievements
 
 ## Achievement rules.
 
