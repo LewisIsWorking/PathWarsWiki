@@ -1,4 +1,4 @@
-# #1-The-Doomsday-Funtime-Story
+# #1-the-doomsday-funtime-story
 
 ## DF Public Story.
 
@@ -133,7 +133,7 @@ Tavern on the Marsh.
 
 ## Session 131-1 = 9th Erastus. 4710 AR = Aarlak Helps Tammerhawk explore the Sandstone Temple.
 
-Mysterious Osirian temple depicting a war with necromancers.
+The Mysterious Osirian temple depicts a war with necromancers.
 
 Selenor gets an onyx dagger and an onyx spear.
 
@@ -193,11 +193,11 @@ Lion fell Keep.
 
 Modwinn’s child.
 
-![](ModwinnsChild.png)
+![ModwinnsChild](ModwinnsChild.png)
 
 ### 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping. 13:00.
 
-## Session 150-1 = Thursday 31st December 2022 = Selenor does Bounty #1 and Bounty #2.
+## Session 150-1 = Thursday 31st December 2022 = Selenor does bounty-1 and Bounty-2.
 
 ## Session 150-2 = 2nd December 2022 = Selenor Bounty #3 Part 2.
 
@@ -309,7 +309,7 @@ The party try to push the wall, nothing happens.
 
 The party try using chalk, nothing happens.
 
-Allissee determines that the semi circle next to the western wall mark the bounds of the western wall’s activation range and thus a potential user of the wall must be within the semi-circle to activate the wall.
+Allissee determines that the semi circle next to the western wall marks the bounds of the western wall’s activation range, and thus a potential user of the wall must be within the semi-circle to activate the wall.
 
 Allissee: “It is not a ninja door because when I lean against it, the door doesn’t open.”
 
@@ -339,7 +339,7 @@ UNLOCKED: Numerian Steel Breastplate.
 
 The leaf Numerian Steel Breastplate counts as non-metal for druids.
 
-It also only weights 1 bulk vs 2 bulk.
+It also only weights 1 bulk vs bulk 2.
 
 UNLOCKED: Rope Trick.
 
@@ -352,17 +352,17 @@ UNLOCKED: Nudge The Odds.
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dbd9ca1-42c2-4bfe-a7da-368db0340c01/Untitled.png)
 
-Allissee owes 40 GP to Zillif.
+Allisee owes 40 GPs to Zillif.
 
-Drekk Zal enters the magical moon pact with Allissee.
+Drekk Zal enters the magical moon pact with Allisee.
 
-Allissee must:
+Allisee must:
 
 1. Defeat Drekk-Zal in a 1v1.
-2. Allissee must go on a spirit quest.
-3. Allissee body will become moon stone.
-4. Allissee will become a kinetistic.
-5. Alissee will help Drekk-Zal’s father.
+2. Allisee must go on a spirit quest.
+3. Allisee body will become moon stone.
+4. Allisee will become a kinetistic.
+5. Alisee will help Drekk-Zal’s father.
 
 In return Allissee gets all Drekk-Zal’s gold, some items, Moon-Bear Axe (Which is inside the Moon Fleshgem) and the mantle of the moon bear.
 
@@ -2037,5 +2037,38 @@ In the Harrow: Allisee, Amar.
 
 ## Session 207. 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 16.
 
-Picking up with the mayor.
+We are Picking up with the mayor.
 It has been 1-month since the last session! :'(
+
+Selenor used clairvoyance to see the mayor is not there any more. 
+The mayor seemed to have entered the dining room with his staff then it is unknown where he is now. 
+
+- Selenor is asleep, Cardigan is also sleeping. See: [Cardigans-Dream.md](Cardigans-Dream.md)
+- Zutlieg is next to Selenor.
+- The party are in the hallway.
+- Laucian, Adjo and Verda Sparrow are all in the hallway.
+- Allisee and Amar are in the Harrow realm, in the striding fortress.
+
+Keleri is also in the Harrow, with Tammerhawk.
+
+Allisee is talking to Keleri about the plan to convince the mayor that Selenor is insane.
+
+12 guards, 12 servants.
+6 are in the hall, 6 are with the mayor.
+
+The mayor is like a black dominion psionic sorcerer.
+
+THe midnight legates will hunt the group down?
+
+Outside the manor.
+
+Wrin Sivinxi looks inside Selenor's mind.
+
+Selenor is now star gazer.
+
+- The book is in the "Odd Stories" bookshop.
+- The cooperative blade was in the Dawn flower temple library but was stolen years ago.
+
+Keleri will give the group a starter Eldamon for completing the Gauntlight.
+
+## Session 208. 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 17.
