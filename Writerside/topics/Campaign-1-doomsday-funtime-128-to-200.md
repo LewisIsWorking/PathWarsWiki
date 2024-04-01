@@ -4,17 +4,6 @@
 
 This is the 2nd part of the Doomsday Funtime story.
 
-## The Heroes of Sandpoint charter.
-
-The following names are the names of the Heroes of Sandpoint:
-
-1. Ra-mei-pasht.
-2. Drekk Zal.
-3. Modwinn.
-4. Selenor.
-5. Aarlak.
-6. Amar Rook-moon.
-
 ## DF P1 Story.
 [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
 
@@ -203,7 +192,7 @@ Modwinn’s child.
 
 ## Session 151 = Saturday 11th February 2023 + 13th Erastus, 4710 AR + Selenor Bounty #3 Part 2.
 
-Alissee joined the party
+Allisee joined the party
 
 ## Session 152 = Sunday 12th February 2023 + 14th Erastus, 4710 AR + Keleri Korvosa Update + Selenor & Razorclaw.
 
@@ -259,7 +248,7 @@ In the ballroom.
 
 The group defeat Imron The Rake and Amar hits level 10.
 
-20 minutes is spent healing Allissee.
+20 minutes is spent healing Allisee.
 
 Current In-World Time = 17:30.
 

@@ -170,6 +170,8 @@ THe midnight legates will hunt the group down?
 
 Outside the manor.
 
+At Wrin's shop.
+
 Wrin Sivinxi looks inside Selenor's mind.
 
 Selenor is now star gazer.
@@ -187,5 +189,47 @@ New players:
 - Zoli.
 
 Setting up new players.
-New players ready:
-- Patrick.
+Everyone is ready.
+
+18:00
+
+New characters: 
+- Dresden Konstantiniel
+- Janos Grass-treader
+- Kasai Fire-Bloom
+
+At Odd stories.
+Dresden meets blood-mage representative.
+
+Rubel knows Allisee exists, and vice versa.
+Allisee unlocks a small piece of Psionic power, becoming an eldritch researcher.
+
+UNLOCKED: Eldritch Researcher Dedication
+
+They go to Magnimar, Modwinn is missing, Keleri scyrs on Modwinn, and cries.
+Modwinn has gone back to the creator of the doll and won't be seen again.
+
+20:00
+Dawn flower library.
+
+20:30
+Theft took place on 4700 AR.
+
+## Session 209. 2024 April 1st Monday + 4710 AR Erastus 28th + Gaunt-light part 18.
+
+21:00.
+Outside the temple of Sarenrae.
+Dwarf names: Gorul Vetters, Shad Nunder, and Ziskilly Theed.
+
+22:00.
+At the caves.
+
+22:10.
+
+- Erastus 29th.
+
+10:00.
+
+19:00
+
+Selenor takes Otari's skeleton.
