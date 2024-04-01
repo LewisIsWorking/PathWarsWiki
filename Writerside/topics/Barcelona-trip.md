@@ -1,7 +1,5 @@
 # Barcelona-trip
 
-# Barcelona-trip
-
 ## Unsorted.
 
 - See the cathedral.
@@ -10,7 +8,9 @@
 - Hop on, hop off tour.
   Possibly go to the zoo.
 - Barcelona Aquarium: Skip-the-Line Admission Ticket.
--
+- MOCO art museum.
+- Corgi cafe.
+- 
 
 
 ## Hop on, hop off bus stops.
