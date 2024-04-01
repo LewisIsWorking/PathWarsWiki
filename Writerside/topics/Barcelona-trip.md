@@ -89,11 +89,5 @@ West Route
 • Casa Batlló
 • Plaça Catalunya
 
-## 2024, 04, 03. Wednesday.
-## 2024, 04, 04. Thursday.
-## 2024, 04, 05. Friday.
-## 2024, 04, 06. Saturday.
-## 2024, 04, 07. Sunday.
-## 2024, 04, 08. Monday.
 ## 2024, 04, 09. Tuesday.
 Flight home @ 20:50.
