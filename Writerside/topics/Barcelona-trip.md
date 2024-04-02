@@ -31,7 +31,7 @@ Monastery tour followed by wine tasting. £43 per each person.
 
 ## Food.
 
-No trip to Barcelona would be complete without trying some tapas. 
+No trip to Barcelona would be complete without trying any tapas. 
 These small plates feature all sorts of different dishes, 
 from patatas bravas (fried potatoes), through to squid, 
 meatballs and lots more. 
