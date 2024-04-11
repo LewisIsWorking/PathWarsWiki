@@ -4,7 +4,7 @@ Basic Actions
 Source Core Rulebook pg. 469 4.0
 Basic actions represent common tasks like moving around, attacking, and helping others. As such, every creature can use basic actions except in some extreme circumstances, and many of those actions are used very frequently. Most notably, you’ll use Interact, Step, Stride, and Strike a great deal. Many feats and other actions call upon you to use one of these basic actions or modify them to produce different effects. For example, a more complex action might let you Stride up to double your Speed instead of just up to your Speed, and a large number of activities include a Strike.
 
-Aid
+## Aid
 [reaction]
 Source Core Rulebook pg. 470 4.0
 Trigger = An ally is about to use an action that requires a skill check or attack roll.
@@ -17,7 +17,8 @@ When you use your Aid reaction, attempt a skill check or attack roll of a type d
 Critical Success You grant your ally a +2 circumstance bonus to the triggering check. If you’re a master with the check you attempted, the bonus is +3, and if you’re legendary, it’s +4.
 Success You grant your ally a +1 circumstance bonus to the triggering check.
 Critical Failure Your ally takes a –1 circumstance penalty to the triggering check.
-Crawl
+
+## Crawl
 [one-action]
 Move
 Source Core Rulebook pg. 470 4.0
