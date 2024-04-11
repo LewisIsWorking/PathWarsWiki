@@ -240,17 +240,17 @@ Read = [Spoiler Avoidance Guide](https://www.notion.so/Spoiler-Avoidance-Guide-0
 
 Go here and paste the table onto your Notion Workspace:
 
-[Build YOUR Character’s Life HERE!](https://www.notion.so/Build-YOUR-Character-s-Life-HERE-3ad6294fa4464bbc9f9e73207849bcb4?pvs=21)
+[Build YOUR Character’s Life HERE! Character-Lore-Builder.md](Character-Lore-Builder.md)
 
 If you need information on the world, check out:
 [Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
 
-1. Copy and paste the questions into your own Notion Workspace.
-    1. If you don’t have a Notion workspace, see [Step 4 | Create a Notion workspace.](https://www.notion.so/Step-4-Create-a-Notion-workspace-fd44478fc46e4a618a167d720227f9cc?pvs=21)
-2. Share your workspace with me.
-    1. My email is [Pathwars2e@gmail.com](mailto:Pathwars2e@gmail.com)
-3. Let me know that you have filled it out.
-4. Optional: @Path Wars on the page you want me to look at. This will send me a Notification.
+## OPTIONAL: GitHub.
+
+- Put your character's lore into a Writerside project.
+- Create a GitHub repo.
+- Push up your project.
+- Share it with me! :)
 
 ***Now you know what your character is like!***
 
@@ -262,6 +262,7 @@ End of Page.
 
 It is time to learn!
 Don’t worry, this is the fun kind of learning.
+You can learn as you go!
 
 ## Step #5 = Paizo Variant Rules.
 
@@ -280,13 +281,20 @@ Most of the campaigns that I run use:
 
 You can find out what Paizo Variant rules are used in the table linked above!
 
-## Step #6 = Read The PathWars Homebrew Rule Changes.
-
 The campaigns ran in the Path War community have some homebrew rule changes.
 
 You can find a mostly complete list of the rule changes here.
 
-[Homebrew Rule Changes.](https://www.notion.so/Homebrew-Rule-Changes-2699f1f7cdec48eab939a31ccf740e91?pvs=21)
+[Homebrew Rule Changes.](Homebrew-rules.md)
+
+## Step #6 = Talk to the Game Master, me!
+
+Reach out to me.
+Share your built-up character's lore.
+We will integrate your character into the campaign.
+
+Check out my 5 plot threads rule on [Homebrew-rules.md](Homebrew-rules.md).
+I will go through this with you to integrate you into the campaign.
 
 ## Make the character.
 
@@ -350,7 +358,7 @@ Contact your GM about this as some 3rd party content may already be available in
 
 Before selecting anything with these traits, make sure you read:
 
-[The Rarity System = Uncommon/Rare/Unique.](https://www.notion.so/The-Rarity-System-Uncommon-Rare-Unique-77564d53a3c34dc3949410d3562d8a6b?pvs=21)
+[Rarity-Lock-Status-Tracker.md = Uncommon/Rare/Unique.](Rarity-Lock-Status-Tracker.md)
 
 **Create your character.**
 
@@ -374,7 +382,7 @@ You need to consult the table by using your level to determine what equipment yo
 
 You can read about the lore increases homebrew rule here:
 
-[Lore Increases](https://www.notion.so/Lore-Increases-747be2c4f53b420fa16b882fa7877f85?pvs=21)
+[Lore Increases in Homebrew-rules.md](Homebrew-rules.md)
 
 ## Buy the Full Version of Path-Builder 2e.
 
