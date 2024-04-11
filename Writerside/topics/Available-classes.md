@@ -23,12 +23,23 @@
 - Swashbuckler.
 - Thaumaturge.
 
-## 3rd party classes.
+## 3rd party classes with Foundry support.
 
-- Eldamon Avatar. Foundry support: Yes.
-- Eldamon Trainer. Foundry support: Yes.
-- Warlord. Foundry support: Yes.
-- Convoker. Foundry support: No.
-- Dragon Speaker. Foundry support: No.
-- Midnight Legate. Foundry support: No.
-- Warlock. Foundry support: No.
+- Eldamon Avatar. 
+- Eldamon Trainer. 
+- Warlord. 
+- Life blade.
+- Inquisitor.
+- Reaper.
+- Cartomancer.
+
+Other:
+- Wildling (rogue subclass).
+
+## 3rd party classes without Foundry support.
+
+- Convoker. 
+- Dragon Speaker. 
+- Midnight Legate. 
+- Warlock. 
+
