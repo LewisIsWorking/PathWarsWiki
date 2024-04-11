@@ -326,7 +326,7 @@ Enable the variant rules that are applicable to your campaign.
 
 To find out what variant rules you need to enable, check here:
 
-[Paizo Variant Rules.](https://www.notion.so/Paizo-Variant-Rules-a9e4da234df14383924c4dd4768f2e24?pvs=21)
+[Variant-rules](Variant-rules.md)
 
 **How to enable the variant rules.**
 

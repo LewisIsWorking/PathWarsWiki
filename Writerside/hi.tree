@@ -29,6 +29,7 @@
         <toc-element topic="The-Harrow-Realm.md"/>
     </toc-element>
     <toc-element topic="Homebrew.md">
+        <toc-element topic="Homebrew-rules.md"/>
         <toc-element topic="Dual-Class-Stat-Boost.md"/>
         <toc-element topic="Guild-wars-2-in-Pathfinder-2e.md"/>
         <toc-element topic="The-colours-of-magic.md"/>
