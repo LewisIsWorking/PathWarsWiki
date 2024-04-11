@@ -1,5 +1,7 @@
 # Homebrew-rules
 
+For the official Paizo homebrew rules we use: [Variant-rules.md](Variant-rules.md)
+
 ## Initiative.
 
 Combat starts.
