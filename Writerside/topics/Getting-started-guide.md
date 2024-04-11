@@ -22,7 +22,8 @@ If you need any help, please reach out to the GM on Telegram or Discord.
 
 ## Before we go any further...
 
-PLEASE READ STEP 0.
+- This campaign is COMPLETELY FREE. Foundry is free, the telegram is free, discord is free.
+- PLEASE READ STEP 0.
 
 ## Step #0 = Content Warning.
 
