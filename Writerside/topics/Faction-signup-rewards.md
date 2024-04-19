@@ -16,16 +16,16 @@ Order = Level → Healing Potions → Other Items
 - potency crystal (GM Core 266)
 - silver salve (GM Core 251)
 ―
-- 1st-rank scroll of heal* (Player Core 335)
+- 1st-rank scroll of healing* (Player Core 335)
 - 1st-rank scroll of mystic armor (Player Core 346)
-- 1st-rank scroll of runic weapon (Player Core 354)
+- 1st-rank scroll of a runic weapon (Player Core 354)
 
-## 3-4	
+## 3-4.
 - Lesser healing potion (GM Core 259)
 - lesser oil of un-life (GM Core 258)	climbing bolt (GM Core 255)
 - low-grade alloy orb (GM Core 263)
 - oil of mending (GM Core 257)
-- oak potion (GM Core 259)
+- an oak potion (GM Core 259)
 ―
 - 2nd-rank scroll of cleanse affliction* (Player Core 320)
 - 2nd-rank scroll of clear mind* (Player Core 320)
@@ -34,18 +34,18 @@ Order = Level → Healing Potions → Other Items
 - 2nd-rank scroll of sound body* (Player Core 357)
 - 2nd-rank scroll of sure footing* (Player Core 361)
 
-## 5-6	
+## 5-6.
 - Moderate healing potion (GM Core 259)
 - moderate oil of un-life (GM Core 258)	
 - lesser potion of resistance (your choice of energy; GM Core 260)
 - moderate antidote (GM Core 246)
 - potion of leaping (GM Core 260)
-- salve of anti paralysis (GM Core 258)
+- salve of anti-paralysis (GM Core 258)
 ―
 - 3rd-rank scroll of haste (Player Core 335)
 - 3rd-rank scroll of heroism (Player Core 335)
 
-## 7-8	
+## 7-8.
 - 2x moderate healing potion (GM Core 259)
 - 2x moderate oil of un-life (GM Core 258)	
 - standard-grade alloy orb (GM Core 263)
@@ -53,7 +53,7 @@ Order = Level → Healing Potions → Other Items
 - 4th-rank scroll of fly (Player Core 332)
 - 4th-rank scroll of mountain resilience (Player Core 346)
 
-## 9-10	
+## 9-10.
 - 3x moderate healing potion (GM Core 259)
 - 3x moderate oil of un-life (GM Core 258)
 - greater antidote (GM Core 246)
@@ -87,10 +87,10 @@ Order = Level → Healing Potions → Other Items
 - major potency crystal (GM Core 266)
 - true sight potion (GM Core 261)
 ―
-- 8th-rank scroll of desiccate (Player Core 323)
+- 8th-rank scroll of desiccating (Player Core 323)
 - 8th-rank scroll of divine inspiration (Player Core 325)
 
-## 17-18
+## 17-18.
 - Major healing potion (GM Core 259)
 - major oil of un-life (GM Core 258)	
 - exquisite high-grade alloy orb (GM Core 263)
@@ -98,7 +98,7 @@ Order = Level → Healing Potions → Other Items
 - 9th-rank scroll of foresight (Player Core 332)
 - 9th-rank scroll of overwhelming presence (Player Core 347)
 
-## 19-20
+## 19-20.
 - 2x major healing potion (GM Core 259)
 - 2x major oil of un-life (GM Core 258)
 - major oil of potency (GM Core 257)
