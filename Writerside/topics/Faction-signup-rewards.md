@@ -54,7 +54,8 @@ standard-grade alloy orb (GM Core 263)
 
 ## 9-10	
 3x moderate healing potion (GM Core 259)
-3x moderate oil of un-life (GM Core 258)	greater antidote (GM Core 246)
+3x moderate oil of un-life (GM Core 258)
+greater antidote (GM Core 246)
 greater potency crystal (GM Core 266)
 moderate bravo's brew (GM Core 246)
 moderate potion of resistance (your choice of energy; GM Core 260)
