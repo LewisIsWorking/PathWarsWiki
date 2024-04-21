@@ -1878,12 +1878,4 @@ Selenor gets a grey-flamed rabbit companion.
 Selenor (with the help of the rabbit) cure the knight, return to the Gaunt light, reuniting with the party.
 The party then go to sleep.
 
-Allisee's family 
-
-The party sleep to get rid of the Doomed condition.
-
-- 30th Erastus.
-
-Nhimbaloth is revealed!
-
-![Nhimbaloth.png](Nhimbaloth.png)
+## END OF THIS PAGE.

@@ -241,3 +241,15 @@ Vrolt Ori join the party.
 Xal'thot The Gloom Weaver.
 Boss fight!
 
+Allisee's family
+
+The party sleep to get rid of the Doomed condition.
+
+- 30th Erastus.
+
+Nhimbaloth is revealed!
+
+![Nhimbaloth.png](Nhimbaloth.png)
+
+10:00 AM.
+Cardigan and Selenor spend time in the hot tub.
