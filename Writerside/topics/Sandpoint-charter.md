@@ -21,3 +21,5 @@ The following names are the names of the Heroes of Sandpoint:
 13. Dresden Konstantiniel 
 14. Janos Grass-treader 
 15. Kasai Fire-Bloom
+16. Vrolt Ori.
+17. 

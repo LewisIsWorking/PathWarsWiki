@@ -233,3 +233,11 @@ At the caves.
 19:00
 
 Selenor takes Otari's skeleton.
+
+## Session 210. 2024 April 4th Saturday + 4710 AR Erastus 29th + Gaunt-light part 19.
+
+Vrolt Ori join the party.
+
+Xal'thot The Gloom Weaver.
+Boss fight!
+

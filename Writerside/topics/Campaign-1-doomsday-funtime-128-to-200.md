@@ -1775,13 +1775,10 @@ Floor 3.
 
 They meet the tattoo ghoul.
 
-Allissee spends 1400 GP on tattoos.
-
-Allissee has water droplet tattoos on her back that contain a secret illusionary animation.
-
-Allissee gets moon sight (sun sight) tattoo on her forehead.
-
-Allissee gets a tattoo of potion of expeditious retreat on her right forearm, this is a trade craft tattoo.
+Allisee spends 1400 GP on tattoos.
+- Allisee has water droplet tattoos on her back that contain a secret illusionary animation.
+- Allisee gets moon sight (sun sight) tattoo on her forehead.
+- Allisee gets a tattoo of potion of expeditious retreat on her right forearm, this is a trade craft tattoo.
 
 ## Session 196 = 2023 November 18th Saturday+ 4710 AR Erastus 26th + Gaunt-light Part 7.
 
@@ -1880,3 +1877,13 @@ Selenor gets a grey-flamed rabbit companion.
 
 Selenor (with the help of the rabbit) cure the knight, return to the Gaunt light, reuniting with the party.
 The party then go to sleep.
+
+Allisee's family 
+
+The party sleep to get rid of the Doomed condition.
+
+- 30th Erastus.
+
+Nhimbaloth is revealed!
+
+![Nhimbaloth.png](Nhimbaloth.png)
