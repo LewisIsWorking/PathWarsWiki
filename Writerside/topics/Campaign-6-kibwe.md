@@ -79,8 +79,8 @@ The party convinced the scorpions to leave.
 
 Between session 1 and session 2.
 
-The party tells the council woman,
-and the council woman tells them to go to Eda Curse-Breaker The Tower Dungeon’s temple, the sun archive.
+The party tells the councilwoman,
+and the councilwoman tells them to go to Eda Curse-Breaker The Tower Dungeon’s temple, the sun archive.
 
 ## Session #2.
 
