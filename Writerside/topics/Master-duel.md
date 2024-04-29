@@ -26,4 +26,4 @@ Is it Master 1 as of 2024 April?
 19. Labyrinth. Yes.
 20. Mannadium. Yes.
 21. Rescue ace. Yes.
-22. 
+22. Unchained. Yes.

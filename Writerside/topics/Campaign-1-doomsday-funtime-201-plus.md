@@ -234,7 +234,7 @@ At the caves.
 
 Selenor takes Otari's skeleton.
 
-## Session 210. 2024 April 4th Saturday + 4710 AR Erastus 29th + Gaunt-light part 19.
+## Session 210. 2024 April 20th Saturday + 4710 AR Erastus 29th + Gaunt-light part 19.
 
 Vrolt Ori join the party.
 
@@ -253,3 +253,18 @@ Nhimbaloth is revealed!
 
 10:00 AM.
 Cardigan and Selenor spend time in the hot tub.
+
+## Session 211. 2024 April 28th Sunday + 4710 AR Erastus 29th + Gaunt-light part 20.
+
+Torture chamber.
+
+Belcorra is related to Allisee.
+
+Vaulgrist The Velstracs knows Allisee's mum.
+
+The Mute Hag rolls out a circular magical scroll containing a sealing rune.
+
+Selenor mentions Nhimbaloth to the mute hag.
+The mute hag doesn't know who that is.
+
+The mute hag wants to find out more about the blurry man.

@@ -2,13 +2,21 @@
 
 ## Doomsday Funtime.
 
-1. Horia. 100%.
-2. Anthony. 100%.
-3. Simon Zutlieg. 80%.
-4. Rebecca. 50%.
-5. Lance-Jimmy-Jones. 40%?
-6. Tavo-Laucian. 20%.
-7. Nam. 10%.
+### Current players.
+1. 001 Horia.
+2. 002 Anthony.
+3. 003 Rebecca.
+4. 004 Nam.
+5. 005 Charles.
+
+### List of all players.
+1. 001 Horia = Selenor. ACTIVE.
+2. 002 Anthony = Allisee. ACTIVE.
+3. 003 Rebecca = Amar. ACTIVE.
+4. 004 Nam = Verda Sparrow. ACTIVE.
+5. 005 Charles = Vrolt Ori. ACTIVE.
+6. 006 Patrik = Dresden Konstantiniel. INACTIVE.
+7. 
 
 ## Player Membership Log
 
@@ -26,7 +34,7 @@ Disbelief is now position #2.
 
 14/04/2023.
 Dragon123459 has wiling dropped out of the queue.
-Then everyone below has moved up.
+Then all the people below have moved up.
 
 ## Grand explorers.
 
