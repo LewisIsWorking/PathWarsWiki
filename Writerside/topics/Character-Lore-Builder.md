@@ -1,7 +1,8 @@
 # Character-Lore-Builder
 
-Starting Guide Link (Notion).
-https://www.notion.so/pathwars/The-Starting-Guide-dc6bd3906cb748a0b00aaab437d86874?pvs=4
+Starting Guide Link.
+- [Getting-started.md](Getting-started.md)
+- [Getting-started-guide.md](Getting-started-guide.md)
 
 ## Build YOUR Character’s Life HERE!
 
