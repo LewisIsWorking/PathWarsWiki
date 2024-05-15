@@ -268,3 +268,16 @@ Selenor mentions Nhimbaloth to the mute hag.
 The mute hag doesn't know who that is.
 
 The mute hag wants to find out more about the blurry man.
+
+## Session 212. 2024 May 5th Sunday + 4710 AR Erastus 29th + Gaunt-light part 21.
+
+12:00.
+Magnimar.
+Selenor buys ginger bread for Junima.
+
+Plane of archives worlds.
+
+Runewild.
+Sonnorae the mute hag & Andaisin.
+
+Sir Morely.
