@@ -10,7 +10,8 @@ For a look at how things roughly fit together:
 ## #1: Doomsday funtime.
 - Status: ongoing.
 - Session count: 211+.
-- Started: 2018.
+- Started: 2018. 
+- Restarted: 2022.
 - [campaign-1-the-doomsday-funtime-story.md](Campaign-1-doomsday-funtime-128-to-200.md)
 - [Campaign-1-doomsday-funtime-201-plus.md](Campaign-1-doomsday-funtime-201-plus.md)
 
