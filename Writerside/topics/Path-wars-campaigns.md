@@ -34,10 +34,12 @@ For a look at how things roughly fit together:
 - Status: ongoing.
 - Session count: play by post.
 - Started 2023.
+- Length: long term.
 [campaign-5-The-Grand-Explorers.md](Campaign-5-the-grand-explorers.md)
 
 ## #6. Kibwe.
 - Status: ongoing.
 - Session count: play by post.
 - Started 2023.
+- Length: short.
 [campaign-6-Kibwe.md](Campaign-6-kibwe.md)
