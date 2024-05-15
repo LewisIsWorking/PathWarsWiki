@@ -14,8 +14,8 @@ For a look at how things roughly fit together:
 - [campaign-1-the-doomsday-funtime-story.md](Campaign-1-doomsday-funtime-128-to-200.md)
 - [Campaign-1-doomsday-funtime-201-plus.md](Campaign-1-doomsday-funtime-201-plus.md)
 
-## #2: Curse of the Crimson Throne.
-- Status complete.
+## #2: Curse of the Crimson Throne. COMPLETE!
+- Status: complete.
 - Session count: 99.
 - Started: 2020ish?
 
