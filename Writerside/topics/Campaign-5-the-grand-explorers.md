@@ -41,7 +41,7 @@ This campaign starts shortly after the end of Crimson Throne.
 
 The linked page below will help to explain this.
 
-[Path Wars Timeline.](https://www.notion.so/Path-Wars-Timeline-f707d7e82034464b8300d1b5c91dcaf3?pvs=21)
+[Path-wars-timeline.md](Path-wars-timeline.md)
 
 ## Party Member People List.
 
@@ -132,7 +132,7 @@ https://github.com/JimmyJackJones/Jimmy-Characters/blob/master/Writerside/topics
 
 1. Complete the Path Wars starting guide.
 
-[! →The Starting Guide ! ← !](https://www.notion.so/The-Starting-Guide-dc6bd3906cb748a0b00aaab437d86874?pvs=21)
+[Getting-started-guide.md](Getting-started-guide.md)
 
 1. Create your character up to level 10.
 

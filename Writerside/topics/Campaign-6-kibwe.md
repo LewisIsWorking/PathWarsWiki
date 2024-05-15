@@ -12,9 +12,7 @@ No humans for story reasons.
 
 I recommend you check out the 3rd party race section!
 
-[3rd Party = All 3rd Party Content](https://www.notion.so/3rd-Party-All-3rd-Party-Content-860a88c78bc74852a4ed1c59a9416884?pvs=21)
-
-[3rd Party = Races.](https://www.notion.so/3rd-Party-Races-c011db69a0a046b696b4fbcadb358ce1?pvs=21)
+[Rarity-Lock-Status-Tracker.md](Rarity-Lock-Status-Tracker.md)
 
 ## Lore.
 
