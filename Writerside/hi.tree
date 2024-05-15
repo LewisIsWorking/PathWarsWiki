@@ -35,6 +35,7 @@
         <toc-element topic="The-colours-of-magic.md"/>
     </toc-element>
     <toc-element topic="Getting-started.md">
+        <toc-element topic="Writerside-setup.md"/>
         <toc-element topic="Available-classes.md"/>
         <toc-element topic="Character-Lore-Builder.md"/>
         <toc-element topic="Getting-started-guide.md"/>
