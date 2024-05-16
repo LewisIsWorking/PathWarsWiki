@@ -239,12 +239,11 @@ Read = [Spoiler Avoidance Guide](https://www.notion.so/Spoiler-Avoidance-Guide-0
 
 ## Step #4 = How to Build Your Character’s Life.
 
-Go here and paste the table onto your Notion Workspace:
-
-[Build YOUR Character’s Life HERE! Character-Lore-Builder.md](Character-Lore-Builder.md)
+Go here and paste the table onto your writerside instance OR your word processor of choice:
+- [Build YOUR Character’s Life HERE! Character-Lore-Builder.md](Character-Lore-Builder.md)
 
 If you need information on the world, check out:
-[Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
+- [Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
 
 ## OPTIONAL: GitHub.
 
