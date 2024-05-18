@@ -56,6 +56,7 @@ If the character is controlled by the game master, it is a "side character."
 3. All spell slots of the same tradition are combined into a single pool for the purposes of preparation. This includes spell slots from any source such as class, archetypes, etc.
 
 Basically prepared spellcasters have flexible spellcasting without the drawbacks of loosing spell slots and spontaneous casters have all their spells counted as signature spells for the purpose of heightening.
+Spellcasters should have more flexibility and variety in their gameplay as they will have more different spells prepared.
 
 Example of Rule #1.
 
