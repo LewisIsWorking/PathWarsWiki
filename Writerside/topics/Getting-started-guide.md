@@ -219,7 +219,7 @@ All the links do the same thing.
 
 Click the link below:
 
-[Telegram](https://www.notion.so/Telegram-c5939cd59b2c4064bdf2b097e62f6a09?pvs=21)
+[Telegram](https://t.me/Path_Wars)
 
 ## Step #2 = Discord.
 
