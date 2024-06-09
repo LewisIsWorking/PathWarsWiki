@@ -1,6 +1,5 @@
 # Selenors-visions
 
-
 Pity the covetous, for their wealth will turn to dust;
 
 Pity the righteous, for their words will not be heard;
@@ -33,7 +32,7 @@ The battlefields are treacherous,” said a gorum warrior. “It’s cold, and m
 “You can’t,” said the nothing, “A mortal must always wear his heart on the outside
 
 
-The touch of the necrotic energy  is the deadliest poison known to man. It settles in, deeper than the bone, instantaneously. It is a deep curse that can never be lifted and will last you the rest of your days.
+The touch of the necrotic energy is the deadliest poison known to man. It settles in, deeper than the bone, instantaneously. It is a deep curse that can never be lifted and will last you the rest of your days.
 
 
 The feeding frenzy of my starving soul, gnawing voraciously at the bones

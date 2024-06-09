@@ -1,43 +1,8 @@
-# Campaign-1-doomsday-funtime-128-to-200
+# Campaign-1-Doomsday-funtime-128-to-200
 
 ## DF Public Story.
 
 This is the 2nd part of the Doomsday Funtime story.
-
-## DF P1 Story.
-[DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
-TODO: Not to self, move Notion content over.
-
-## DF Arc list.
-
-1. Skull Hill Arc.
-2. Collapsing Halls Arc.
-3. Truth Teller Arc.
-4. The Harrow Arc.
-5. Necropolis Arc.
-6. Gaunt Light Arc.
-
-## Doomsday Funtime Part 2 = Session Quick Summary.
-
-Session 128.
-1. Campaign re-start session.
-
-Session 129 → 130.
-1. The Lotus Sandstorm.
-
-Session 131.
-1. The Party went to the Rune-wild. They got the two high-vale blades. Modwinn gets Sin Reaver and Aarlak gets Iron Oath.
-2. Session 131-1. Aarlak helps Tammerhawk with The Sandstone Temple. Aarlak gets an ability called Blessing of the Sand.
-3. Session 132.
-4. Session 133. Moon Bears.
-5. Session 134 → 138. 5 Sessions. Skull Hill Arc.
-6. Session 139 → 141. 3 Sessions. Shopping Sessions.
-7. Session 142 → 146. 5 Sessions. Collapsing Halls Arc. Amar joined the group. The group defeated the Time Watcher. 
-8. Session 147. Shopping Session. 
-9. Session 148 → 150. 3 Sessions. Truth Teller Arc.
-10. Session 151. Bounty #1 and Bounty #2.
-11. Session 152. Modwinn retires. Allisee gets the sword: Sin Reaver.
-12. Session 153 → 160. 7 Sessions. Harrow Arc.
 
 ## The session naming format.
 
@@ -173,7 +138,7 @@ Drekk Val and Korumun talk about the mantle of the moon bears.
 
 ### 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping.
 
-## Session 148 = Saturday 17th December 2022 = Shopping = Truth Teller Part 1.
+## Session 148 = Saturday 17th December 2022 = Shopping + Truth Teller Part 1.
 
 ## Session 149 = Saturday 17th December 2022 = Truth Teller Part 2. Lion fell Keep.
 
@@ -187,7 +152,7 @@ Modwinn’s child.
 
 ### 13th Erastus. 4710 AR. Downtime #6 = 13th → 17th Erastus. 4710 AR. Shopping. 13:00.
 
-## Session 150-1 = Thursday 31st December 2022 = Selenor does bounty-1 and Bounty-2.
+## Session 150-1 = Saturday 31st December 2022 = Selenor does bounty-1 and Bounty-2.
 
 ## Session 150-2 = 2nd December 2022 = Selenor Bounty #3 Part 2.
 
@@ -201,7 +166,7 @@ Esther takes a break.
 
 ## Session 153 = Sunday 19th February 2023 + 14th Erastus, 4710 AR + Harrow Part 1.
 
-Go to harrow, meet people
+Go to Harrow, meet people
 
 ## Session 154 = Monday 20th February 2023 + 14th Erastus, 4710 AR + Harrow Part 2 + Sonnorae Part 1.
 
@@ -1308,7 +1273,7 @@ Selenor buys +2 armour potency rune.
 
 ## Session 181 = Sunday 2nd July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 2 + Leshy Side Quest.
 
-11:00am.
+11:00 AM.
 
 Leshy side quest started.
 
@@ -1660,7 +1625,7 @@ Selenor’s arm is now necrotic.
 
 Selenor’s full plate is not etched with half-finished strange esoteric magical runes, Keleri does not recognise the runes.
 
-## Session 190 = 2023 September 17th Sunday + 4710 AR  Erastus 24th + Gauntlight Part 1.
+## Session 190 = 2023 September 17th Sunday + 4710 AR Erastus 24th + Gauntlight Part 1.
 
 12:00.
 
@@ -1668,7 +1633,7 @@ Gaunt light P1.
 
 Sandpoint home base.
 
-Keleri gives breakdown on what the plan is.
+Keleri gives a breakdown on what the plan is.
 
 2 investigations in the past: Otari and the Heroes of Korvosa.
 

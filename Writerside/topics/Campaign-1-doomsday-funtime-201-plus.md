@@ -1,4 +1,4 @@
-# Campaign-1-doomsday-funtime-201-plus
+# Campaign-1-Doomsday-funtime-201-plus
 
 ## Session 201 = 2023 December 30th Saturday + 4710 AR Erastus 27th + Bounty.
 
@@ -281,3 +281,36 @@ Runewild.
 Sonnorae the mute hag & Andaisin.
 
 Sir Morely.
+
+Junima disappeared.
+
+## Session 213. 2024 May 27th Monday + 4710 AR Erastus 29th + Junima rescue part 1.
+
+Blackrock inn, talking to Oswen.
+
+Found Junima's letter to Selenor.
+
+Welter's room.
+- Bag.
+- Ancient scrolls.
+
+Time distortion.
+
+FOUR WEEKS LATER.
+* 4710 AR, 26th Arodus.
+
+12:00.
+
+Big orc x 1.
+18 GP.
+The normal orcs x 3.
+12 GP.
+Worg x 4 = 18 GP.
+
+## Session 214. 2024 June 8th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 2.
+
+Now doing a wyvern quest.
+
+12:00 → 1 hour spent in the blackrock inn → 13:00.
+13:00 → 2 hours spent wyvern hunting = 14:00.
+
