@@ -17,6 +17,7 @@ TODO: Not to self, move Notion content over.
 - Amar became the Harrower.
 ### 5. Necropolis Arc. Session 184 → 187.
 ### 6. Gaunt Light Arc. Session 190 -> ONGOING.
+### 7. Junima rescue Arc. Session 213 -> ONGOING.
 
 ## Doomsday Funtime Part 2 = Session Quick Summary.
 
