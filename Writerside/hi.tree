@@ -20,6 +20,7 @@
     </toc-element>
     <toc-element topic="Selenor-collection.md">
         <toc-element topic="Cardigans-Dream.md"/>
+        <toc-element topic="DF-characters.md"/>
         <toc-element topic="DF-experience-tracker.md"/>
         <toc-element topic="DF-fame-tracker.md"/>
         <toc-element topic="DF-the-story-so-far.md"/>
@@ -50,6 +51,7 @@
     </toc-element>
     <toc-element topic="Other.md">
         <toc-element topic="Barcelona-trip.md"/>
+        <toc-element topic="Guild-wars-2.md"/>
         <toc-element topic="Master-duel.md"/>
     </toc-element>
 </instance-profile>

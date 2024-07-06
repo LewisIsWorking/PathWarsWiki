@@ -314,3 +314,40 @@ Now doing a wyvern quest.
 12:00 → 1 hour spent in the blackrock inn → 13:00.
 13:00 → 2 hours spent wyvern hunting = 14:00.
 
+## Session 215. 2024 June 9th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 3.
+
+Back in time.
+Amar's time.
+4710 AR Erastus 29th. 
+13:00.
+Amar has been the Harrower for 5 days (Erastus 26th).
+
+Amar talks to ticktock man.
+
+Amar goes to Magnimar.
+
+@ the Guilded cage.
+Black suits, gold ties.
+
+Meets James Darkmoon, sees history of Earth warfare.
+
+15:00
+At Sandpoint home base.
+
+18:00.
+Laucian POV.
+Laucian talks to Tammerhawk.
+
+Laucian spends 4 weeks at the concordance of elements.
+Laucian's strategies nearly get some elemental soldiers killed.
+Laucian earned 90ish gold.
+
+Modwinn is here.
+
+Allisee, Cardigan, Selenor agree to bring 'THIS AND THAT' items to Loras.
+
+## Session 215. 2024 June 24th Monday + 4710 AR, 26th Arodus. + Junima rescue part 4.
+
+Rescuing the ranger, Aleric.
+
+19:00.

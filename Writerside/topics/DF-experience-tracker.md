@@ -1,6 +1,6 @@
 # DF-experience-tracker
 
-Divine Will-o-wisp	## Session 206.
+## Session 206: Divine Will-o-wisp.
 2024 February 10th Saturday + 4710 AR Erastus 28th + Gaunt-light part 15.
 Gaunt-light.
 Level 4.
@@ -45,15 +45,15 @@ Cardigan.
 Total = 880 + 20 = 900	Level 10.
 
 + 0
-  For Zutlieg & Allisee
+For Zutlieg & Allisee
 
 Verda Sparrow.
 + 0
-  Total = 50
+Total = 50
 
 Laucian.
 + 0
-  Total = 80
+Total = 80
 
 Amar Rookmoon.
 +0
@@ -76,4 +76,5 @@ Selenor.
 Total = 245
 
 Cardigan.
-Total = 900	200 GP	 	Treasure vault
+Total = 900	200 GP	 	
+Treasure vault
