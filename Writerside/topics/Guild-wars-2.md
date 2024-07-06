@@ -96,4 +96,13 @@ Necromancer.
 1. The Dreamer. Short bow.
 2. The Frost fang. Axe.
 3. The Juggernaut. Hammer.
-4. Incinerator. Dagger.
+4. Incinerator. Dagger. 
+
+## Costs.
+
+- Bolt. Sword. 894.
+- Incinerator. Dagger. 860 GP.
+
+- Glorious Hero's Breastplate. Heavy. Chest. 156 GP.
+- Glorious Hero's War greaves. Heavy. Feet. 156 GP.
+- Cost of full heavy legendary armour: 156 × 6 = 936.
