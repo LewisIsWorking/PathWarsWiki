@@ -1,6 +1,6 @@
 # Getting started
 
-Below are the getting started files.
+Below are the getting-started files.
 
 [Getting-started-guide.md](Getting-started-guide.md)
 
