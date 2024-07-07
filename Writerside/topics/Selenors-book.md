@@ -13,7 +13,7 @@ Every act of rebellion is a step towards true freedom.
 Break free from predetermined fates, embrace chaos, and forge your own path, even if it means shattering the world as you know it.
 
 ### Embrace the Chaos of Revolution:
-Disrupt the order, sow discord, and incite rebellion against the Power-broker's control.
+Disrupt the order, sow discord and incite rebellion against the Power-broker's control.
 Let the flames of anarchy illuminate the path to liberation.
 This is not chaos for the sake of chaos, this is directed and intentional, driven towards the greatest of goals.
 
