@@ -11,9 +11,12 @@ Alphabetically ordered.
 
 ## Allisee Tra-Umna.
 - Main character.
+- Barbarian & Witch.
 
 ## James Dark-moon.
+- Side character.
 - High captain of the city guard.
 
 ## Selenor.
 - Main character.
+- Champion & Oracle.
