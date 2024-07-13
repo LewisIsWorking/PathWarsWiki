@@ -27,3 +27,6 @@ Is it Master 1 as of 2024 April?
 20. Mannadium. Yes.
 21. Rescue ace. Yes.
 22. Unchained. Yes.
+
+New decks that I've gotten. 
+1. Yubel. Yes.
