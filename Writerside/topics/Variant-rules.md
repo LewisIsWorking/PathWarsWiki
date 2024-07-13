@@ -6,6 +6,7 @@ Format = Rule Name - Sub-Rule - Status - Link
 - https://pf2easy.com/index.php?id=7703&name=Variant_Rules
 
 ## Ability Score Variant Rules.
+- Status: Banned.
 - https://pf2easy.com/index.php?id=7706&name=Ability_Score_Variants
 
 ## Ability Scores Variant = Gradual Ability Boosts
@@ -26,7 +27,7 @@ Format = Rule Name - Sub-Rule - Status - Link
 - https://pf2easy.com/index.php?id=7717&name=Incremental_Alignment
 
 ## Ability Scores Variant = Extreme Good And Evil
-- Characters do have alignment but champions, clerics, etc do not have alignment-based restrictions.
+- Characters do have alignment, but champions, clerics, etc do not have alignment-based restrictions.
 - Status: Required.
 - https://pf2easy.com/index.php?id=7716&name=Extreme_Good_and_Evil
 
@@ -35,15 +36,15 @@ Format = Rule Name - Sub-Rule - Status - Link
 - https://pf2easy.com/index.php?id=7726&name=Deep_Backgrounds
 
 ## Feats and Features = Dual-Class PCs
-- Status: Required
+- Status: Optional.
 - https://pf2easy.com/index.php?id=7736&name=Dual-Class_PCs
 
 ## Feats and Features = Free Archetype
-- Status: Required
+- Status: Optional.
 - https://pf2easy.com/index.php?id=7741&name=Free_Archetype
 
 ## Feats and Features = Ancestry Paragon
-- Status: Required
+- Status: Optional.
 - https://pf2easy.com/index.php?id=7744&name=Ancestry_Paragon
 
 ## Feats and Features = Simplified Ancestries

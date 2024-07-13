@@ -27,6 +27,7 @@ in writing.
   https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Rarity-Lock-Status-Tracker.md, this 
   is the link to our rarity system guide.
 - Current party composition: Champion/Oracle, Barbarian/Witch & Rogue/Sorcerer.
+- You do not need to make your character dual class.
 
 New players welcome, DM me to join.
 :slight_smile:
