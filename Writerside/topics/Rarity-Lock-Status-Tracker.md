@@ -23,9 +23,9 @@ Common:
 - Archetypes.
 - Equipment.
 
-## NOT ALL ALLOWED.
+## Might be allowed.
 
-Not all of the following is allowed to be taken at character creation.
+Some of the following may be allowed, just ask! :)
 
 Uncommon, rare or unique:
 1. Spells.
@@ -33,7 +33,11 @@ Uncommon, rare or unique:
 3. Archetypes.
 4. Equipment.
 
+ALL of the above (if they can't be taken at character creation) are 100% obtainable in-game.
+
 ## Archetypes = Common.
+
+All common archetypes are fully unlocked and allowed for use in any campaign.
 
 All of these are unlocked.
 
