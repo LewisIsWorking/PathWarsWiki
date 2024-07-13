@@ -20,6 +20,8 @@
   You can play anything, read here for more information: 
   https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Rarity-Lock-Status-Tracker.md, this 
   is the link to our rarity system guide. 
+- Discord link: https://discord.gg/nAxna2DBk7
+- Telegram link: https://t.me/Path_Wars
 
 @PF2e LFG
 
