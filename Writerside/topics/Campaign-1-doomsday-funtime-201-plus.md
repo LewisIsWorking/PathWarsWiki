@@ -351,3 +351,5 @@ Allisee, Cardigan, Selenor agree to bring 'THIS AND THAT' items to Loras.
 Rescuing the ranger, Aleric.
 
 19:00.
+The party are at the Black rock mine.
+
