@@ -16,7 +16,9 @@
 - Getting started guide = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md
 - We use discord for the voice/video call & telegram for texting and out-of-session play by post.
 - I recommend using Pathbuilder to build your character.
-- What can I play in terms of race, class, background, etc? You can play any. 
+- What can I play in terms of race, class, background, etc? You can play anything, read here for more information: 
+  https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Rarity-Lock-Status-Tracker.md, this 
+  is the link to our rarity system guide. 
 
 @PF2e LFG
 
