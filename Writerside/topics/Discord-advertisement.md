@@ -1,4 +1,4 @@
-# Discord-advertisement
+# Discord-Doomsday-Funtime
 
 - Campaign name = Doomsday Funtime.
 - System: PF2e.
@@ -23,7 +23,7 @@
 - Discord link: https://discord.gg/nAxna2DBk7
 - Telegram link: https://t.me/Path_Wars
 
-@PF2e LFG
-
 New players welcome, DM me to join.
 :slight_smile:
+
+@PF2e LFG
