@@ -28,5 +28,6 @@ Is it Master 1 as of 2024 April?
 21. Rescue ace. Yes.
 22. Unchained. Yes.
 
-New decks that I've gotten. 
+2024 July.
+New decks that I've got. 
 1. Yubel. Yes.
