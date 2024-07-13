@@ -1,5 +1,11 @@
 # Discord-Doomsday-Funtime
 
+There's a lot of information here but you don't need to read all or any of it, just DM me, and I'll walk you through 
+everything.
+
+I just like putting everything down in writing to help people get started who would benefit from having it all down 
+in writing.
+
 - Campaign name = Doomsday Funtime.
 - System: PF2e.
 - Open Slots: 3.
@@ -19,9 +25,7 @@
 - What can I play in terms of race, class, background, etc?
   You can play anything, read here for more information: 
   https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Rarity-Lock-Status-Tracker.md, this 
-  is the link to our rarity system guide. 
-- Discord link: https://discord.gg/nAxna2DBk7
-- Telegram link: https://t.me/Path_Wars
+  is the link to our rarity system guide.
 
 New players welcome, DM me to join.
 :slight_smile:
