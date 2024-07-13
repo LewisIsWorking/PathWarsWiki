@@ -1,6 +1,6 @@
 # Discord-Doomsday-Funtime
 
-There's a lot of information here but you don't need to read all or any of it, just DM me, and I'll walk you through 
+There's a lot of information here, but you don't need to read all or any of it, just DM me, and I'll walk you through 
 everything.
 
 I just like putting everything down in writing to help people get started who would benefit from having it all down 
@@ -26,6 +26,7 @@ in writing.
   You can play anything, read here for more information: 
   https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Rarity-Lock-Status-Tracker.md, this 
   is the link to our rarity system guide.
+- Current party composition: Champion/Oracle, Barbarian/Witch & Rogue/Sorcerer.
 
 New players welcome, DM me to join.
 :slight_smile:

@@ -266,14 +266,16 @@ You can learn as you go!
 
 ## Step #5 = Paizo Variant Rules.
 
+YOU DO NOT NEED TO USE A VARIANT RULE IF YOU DO NOT WANT TO.
+You do not need to use dual class, free archetype, etc.
+You can make a single class non-free-archetype character if you wish to do so.
+
 Please read the following:
 
 The rules in this table are the rules in play in each campaign.
-
 When you are making your character later in this guide, you need to keep the Variant rules in mind.
 
 For example.
-
 Most of the campaigns that I run use:
 
 1. Dual Class
