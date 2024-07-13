@@ -7,9 +7,16 @@
 - Time zone = UK. Saturday time = 20:00.
 - Campaign Description: Stop the world from ending.
   The party are going around the world to discover what is going to end the world, whilst also discovering more about themselves.
-- Platform = Foundry, you don't need to buy anything, I will help you get set up, it is totally free for players.
+- Platform we play on = Foundry, you don't need to buy anything, I will help you get set up, it is totally free for 
+  players.
 - Setting = Golarion.
 - Level = 10. The campaign will go to level 20.
+- Campaign wiki = https://github.com/LewisIsWorking/PathWarsWiki
+- Setting = Golarion / Varisia.
+- Getting started guide = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md
+- We use discord for the voice/video call & telegram for texting and out-of-session play by post.
+- I recommend using Pathbuilder to build your character.
+- What can I play in terms of race, class, background, etc? You can play any. 
 
 @PF2e LFG
 

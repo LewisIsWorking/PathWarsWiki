@@ -12,7 +12,7 @@ If you have a question, just ask on the telegram group! :)
 
 ## ALL ALLOWED.
 
-All of the following are allowed to be used:
+All of the following are allowed to be used regardless of their rarity:
 1. Backgrounds.
 2. Classes.
 3. Races.
