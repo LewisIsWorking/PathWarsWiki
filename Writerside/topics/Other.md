@@ -2,4 +2,4 @@
 
 Start typing here...
 
-Download writer side to see the other child topics.
+Download the writer side to see the other child topics.

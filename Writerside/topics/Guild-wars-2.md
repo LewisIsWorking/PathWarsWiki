@@ -106,3 +106,8 @@ Necromancer.
 - Glorious Hero's Breastplate. Heavy. Chest. 156 GP.
 - Glorious Hero's War greaves. Heavy. Feet. 156 GP.
 - Cost of full heavy legendary armour: 156 × 6 = 936.
+
+I will make:
+
+Ardent Glorious Raiment.
+Legendary LIGHT chest armour, so I can play necromancer & mesmer.
