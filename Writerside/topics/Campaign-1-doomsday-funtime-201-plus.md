@@ -353,3 +353,9 @@ Rescuing the ranger, Aleric.
 19:00.
 The party are at the Black rock mine.
 
+## Session 216. 2024 July 13th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 5.
+
+Selenor is in aerial form.
+10 minutes.
+3 x 10 = 30.
+30 - 2 = 28.
