@@ -78,4 +78,11 @@ All of these are unlocked.
 
 ## Spells.
 
+Liminal Doorway (pre-remaster = Rope Trick): Unlocked. Session 169.
 Teleport: Unlocked.
+Umbral Journey: Unlocked.
+
+UNLOCKED: Detect Scrying.
+UNLOCKED: Discern Lies.
+UNLOCKED: Nudge The Odds.
+UNLOCKED: Teleport.
