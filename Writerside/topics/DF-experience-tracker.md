@@ -116,7 +116,7 @@ Above 10 = 0 x 2 = 0.
 Level 10 = 80 + 20 = 100.
 Level 11 = 60 + 0 = 60.
 
-**Not present for this fight.**
+**Present for this fight.**
 
 - Level 10. +100.
 
