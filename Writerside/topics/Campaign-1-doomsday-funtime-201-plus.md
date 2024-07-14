@@ -359,3 +359,10 @@ Selenor is in aerial form.
 10 minutes.
 3 x 10 = 30.
 30 - 2 = 28.
+
+Selenor chases 3 orcs.
+Selenor gets a dragon apple of inevitable death.
+
+Spider warehouse fight.
+Allisee is Stage 1 → 0.
+Selenor is stage 1 → 0. 

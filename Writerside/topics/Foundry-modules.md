@@ -36,3 +36,5 @@ Answer: Pathfinder 2e quick creature builder.
 Uninstalled.
 
 Need to export a new package list.
+
+Monk's blood splatter was stopping the dead status. 
