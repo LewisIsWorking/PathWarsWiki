@@ -92,12 +92,12 @@ Treasure vault
 
 Grey flame spiders.
 
-### Present main characters:
+**Present main characters:**
 - Cardigan. 
 - Selenor. 
 - Allisee.
 
-### Enemies:
+**Enemies:**
 
 - Big spider x 1.
 
@@ -116,7 +116,7 @@ Above 10 = 0 x 2 = 0.
 Level 10 = 80 + 20 = 100.
 Level 11 = 60 + 0 = 60.
 
-### Experience points.
+**Not present for this fight.**
 
 - Level 10. +100.
 
@@ -128,7 +128,7 @@ Selenor. Level 11. Total = 245 + 60 = 305.
 
 Cardigan. Level 11. Total = 900 + 60 = 960.
 
-### Not Present.
+**Not present for this fight.**
 
 - Level 10.
 
