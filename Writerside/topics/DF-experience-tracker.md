@@ -116,7 +116,7 @@ Above 10 = 0 x 2 = 0.
 Level 10 = 80 + 20 = 100.
 Level 11 = 60 + 0 = 60.
 
-**Present for this fight.**
+**Present for this fight. Updated experience point totals**
 
 - Level 10. +100.
 
