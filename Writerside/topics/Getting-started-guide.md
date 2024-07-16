@@ -29,8 +29,6 @@ If you need any help, please reach out to the GM on Telegram or Discord.
 - Most of the variant rules are optional, you can be as vanilla as you like!
 - No prior Pathfinder, dnd or TTRPG experience is required to play with us, absolute noobs and hardened veterans are both completely wdlcome. :)
 
-2. You don't need a detailed backstory.
-
 ## Step #0 = Content Warning.
 
 ## Unlocking the Discord.
