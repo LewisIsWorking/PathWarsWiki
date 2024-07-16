@@ -23,7 +23,13 @@ If you need any help, please reach out to the GM on Telegram or Discord.
 ## Before we go any further...
 
 - This campaign is COMPLETELY FREE. Foundry is free, the telegram is free, discord is free.
-- PLEASE READ STEP 0.
+- PLEASE READ STEP 0. It's for your comfort and the comfort of the other players.
+- You don't need to know the lore. Experience the story as you play.
+- You don't need to make a deep backstory. It's appreciated but definitely not required!
+- Most of the variant rules are optional, you can be as vanilla as you like!
+- No prior Pathfinder, dnd or TTRPG experience is required to play with us, absolute noobs and hardened veterans are both completely wdlcome. :)
+
+2. You don't need a detailed backstory.
 
 ## Step #0 = Content Warning.
 
