@@ -100,12 +100,14 @@ Grey flame spiders.
 **Enemies:**
 
 - Big spider x 1.
+Monster parts = 560 GP. Huge.
 
 Level 10 = 80 x 1 = 80. 
 
 Level 11 = 60 x 1 = 60.
 
 - Smaller spiders x 2.
+Monster parts = 65 GP. Large.
 
 Level 10 = 10 x 2 = 20.
 
