@@ -29,6 +29,8 @@ James gave Amar a magical tracking ring.
 - Oracle. He will not say what deity.
 - Grew up on the streets, poor.
 - Quick mind, body and sharp wit with a serious confidence issue leading to a wimpy attitude.
+- Grey flame.
+- Sin-empire scholar.
 
 The party met Welter at the Black rock mine (session 216ish).
 
