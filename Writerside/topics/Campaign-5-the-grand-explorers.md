@@ -392,3 +392,44 @@ Along her back are stacks upon stacks of books and several full-looking bags of 
 Friends with… alerted me that I might have visitors headed my way."
 The elven scholar eyes you all wearily.
 "So, to what do I owe the pleasure of such a visit?"
+
+- The city of seven-arches.
+- The party meets Finara.
+- The party make their way to the seven arches.
+
+You cross the stone bridge. 
+The druidic guards do not prevent your passage, though eye your group wearily.
+
+You pass by a few outer buildings, workshops, guard rooms, toilets,
+and before the group is a large round stone corridor.
+
+ANY magically attuned characters will feel primal magical essence here.
+Anyone else simply feels a heaviness in the air, a great pressure on the mind and body.
+
+Streaks of light pierce the walls from above through the vines and cracked stone.
+
+The group walks through the dark corridors until they reach the inner courtyard: the seven arches.
+
+< Image >
+
+Despite the time of day, it is impossible dark during your walk in the corridor, with the green light piercing through.
+Now you stand in what seems like midnight, your personal time pieces will tell you to be mid-afternoon, but the sky 
+is dark.
+
+Seven stone archways stand in a neat circle in this large space.
+ 
+Each archway is 10 metres tall and over 5 metres feet wide.
+
+Multicolored lights of unknown provenance warp and weave across the arches’ stone faces.
+
+Surrounding the arches is a circle of dwarf oak trees, each tree towers over the group, stretching high into the sky,
+well above the arches, as if feeding off their energy or reaching for something in the sky itself.
+
+Each tree you estimate to be at least 50 metres tall but not exceeding much more than 3 metres in width.
+
+A glowing hempen rope tied around the tree trunks forms a barricade.
+
+In the middle of the circle of arches, a small podium clearly used for rituals sits about 3 metres tall.
+
+The only light is provided by floating lanterns that hang in the air.
+They seem to be made of wood with dancing lights inside them that look like dozens of hectic fireflies.

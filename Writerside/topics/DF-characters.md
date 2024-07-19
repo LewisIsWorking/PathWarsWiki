@@ -31,3 +31,4 @@ James gave Amar a magical tracking ring.
 - Quick mind, body and sharp wit with a serious confidence issue leading to a wimpy attitude.
 
 The party met Welter at the Black rock mine (session 216ish).
+
