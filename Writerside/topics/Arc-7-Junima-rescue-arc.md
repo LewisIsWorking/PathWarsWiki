@@ -234,7 +234,7 @@ and longest cloth going to the ground is a bloody sunset orange.
 The green ballroom-like-gown that is wide at the hips and narrows towards its waist before widening out 
 again at the shoulders but being thin at the neck.
 
-The ballroom gown is a morphed illusion, a manifestion of Allisee's envy, which means it does not inhibit movement 
+The ballroom gown is a morphed illusion, a manifestation of Allisee's envy, which means it does not inhibit movement 
 and can physically morph to squeeze.
 
 It will also adjust to Allisee's size.
