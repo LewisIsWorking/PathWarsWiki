@@ -218,4 +218,8 @@ Tuds is amazed and somewhat amused:
 capacity for magic or sin to personify it.
 You amuse me, endlessly."`
 
-The symbol starts to shift and change, the colours of the robe and the robe's shape starts to shift and change as well...
+The symbol starts to shift and change, the colours of the robe and the robe's shape start to shift and change as 
+well...to that of envy.
+
+## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
+
