@@ -367,4 +367,4 @@ Spider warehouse fight.
 Allisee is Stage 1 → 0.
 Selenor is stage 1 → 0. 
 
-See [Arc-7-Junima-rescue-arc.md](Arc-7-Junima-rescue-arc.md)
+See [](Arc-7-Junima-rescue-arc.md)
