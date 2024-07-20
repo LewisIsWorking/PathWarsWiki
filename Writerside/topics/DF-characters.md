@@ -20,22 +20,22 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z.
 James gave Amar a magical tracking ring.
 
 ## Locus The Expanding Void. 
+- Main character.
+- Classes: Psychic & monk.
+- Race: Dragon.
 
-Locus was an adult dragon before taking up the Lux Aeterna ritual.
-
+- Lore:
+`Locus was an adult dragon before taking up the Lux Aeterna ritual.
 He decided to take on this ritual to better understand the true infinity of time and space.
 As a true dragon, he felt he was too close to the concepts to understand their vastness.
-
-- Core.
-Locus, The Expanding Void
+Locus, The Expanding Void.
 Locus is an astral dragon name meaning space.
-The Expanding Void is an epithet of describing his nature and his ability to warp space to his whims.
-
-- Age.
-310 years since undergoing the Lux Aeterna ritual
-He was hatched in the year 3500, but was reborn with the ritual in year 440
+The Expanding Void is an epithet of describing his nature and his ability to warp space to his whims.`
+- Age?
+310 years since undergoing the Lux Aeterna ritual,
+He was hatched in the year 3500, but was reborn with the ritual in the year 440.
 He doesn't have one, born in space, so no day.
-Became an adventurer with the Lux Aeterna Ritual.
+Became an adventurer with the Lux Aeterna Ritual.`
 
 - Class.
 Locus is a Monk-Psychic
