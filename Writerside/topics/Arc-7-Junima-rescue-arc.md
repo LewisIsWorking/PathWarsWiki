@@ -207,7 +207,7 @@ Immediately a 7-pointed star tattoo burns into the skin on the back of your hand
 You become haunted by visions of a falling star.
 As these visions take hold, at the centre of the 7-pointed star is this symbol:
 
-![GreedSinRune.png](GreedSinRune.png)
+![GreedSinRune.png](../images/GreedSinRune.png)
 
 Your armour shifts, changes and becomes a green tight-fitting cloak that goes past your chin, partly concealing your 
 face.
