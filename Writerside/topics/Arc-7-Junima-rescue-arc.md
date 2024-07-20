@@ -225,7 +225,7 @@ well...to that of envy.
 
 Allisee's tattoo is now the runic symbol of envy.
 
-Allisee's robes are now primary green with the under-dress hanging down as a rich royal purple and the innermost 
+Allisee's robes are now primary green with the under-dress hanging down as a rich royal purple, and the innermost 
 and longest cloth going to the ground is a bloody sunset orange. 
 
 It is now a thick ballroom-like-gown that is wide at the hips and narrows towards its waist before widening out 
