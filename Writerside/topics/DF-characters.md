@@ -99,10 +99,12 @@ To get more experience with the use of warping space.
 How does your character view his/her role as an adventurer?
 An opportunity to learn.
 
-How your character gets along with others?
+How does your character get along with others?
 Usually well, though some are off put by his pride.
+
 Is there anything that your character hates?
-Not much
+Not much.
+
 Is there anything that your character fears?
 Usually too proud to fear, but will if shown he is weaker
 
