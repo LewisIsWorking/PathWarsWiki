@@ -90,7 +90,7 @@ Treasure vault
 
 ## Session 216. 2024 July 13th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 5.
 
-Grey flame spiders.
+- Grey flame spiders.
 
 **Present main characters: **
 - Cardigan. 
@@ -142,7 +142,6 @@ Amar Rookmoon. Level 10. Total = 215
 
 ## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
 
-7 & 8.
 Orc bodyguard & orc shaman.
 Bodyguard = 140 GP = Medium.
 Shaman = 100 GP = Medium.
@@ -172,6 +171,47 @@ Allisee Tra-Umna. Level 10. Total = 810 + 35 = 845.
 Selenor. Level 11. Total = 305 + 25 = 330.
 
 Cardigan. Level 11. Total = 960 + 25 = 985.
+
+**Not present for this fight.**
+
+- Level 10.
+
+Verda Sparrow. Level 10. Total = 50.
+
+Laucian. Level 10. Total = 80.
+
+Amar Rookmoon. Level 10. Total = 215.
+
+- Dragon beast ghost x 2 & dragon rider guard ghost x 2.
+
+Dragon beast ghosts x2.
+Medium.
+200 GP x 2.
+10: 30 × 2 = 60.
+11: 20 × 2 = 40.
+
+Dragon rider guard ghosts x2.
+Medium.
+45 GP x 2.
+Above 9: 0.
+
+Totals.
+10: 60 exp.
+11: 40 exp.
+
+**Present characters.**
+
+- Level 10. +60.
+
+Locus, The Expanding Void. Level 10. Total = 35 + 60 = 95.
+
+Allisee Tra-Umna. Level 10. Total = 845 + 60 = 905.
+
+- Level 11. +40.
+
+Selenor. Level 11. Total = 305 + 25 = 330 + 40 = 370.
+
+Cardigan. Level 11. Total = 985 + 40 = 1025.
 
 **Not present for this fight.**
 

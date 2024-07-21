@@ -252,3 +252,11 @@ Then Locus, the expanding void, appears and joins the party.
 Denufair The Bunny now counts as a psychic mouse eldamon.
 
 19:50.
+
+20:00.
+Spirit realm.
+
+Fight! 
+Dragon beast ghost x 2 & dragon rider guard ghost x 2.
+
+20:20.
