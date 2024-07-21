@@ -222,3 +222,35 @@ Verda Sparrow. Level 10. Total = 50.
 Laucian. Level 10. Total = 80.
 
 Amar Rookmoon. Level 10. Total = 215.
+
+- Dragon rider ghost metal golem.
+
+Dragon rider ghost metal golem x 1.
+Large.
+560 GP x 1.
+10: 80 x 1 = 80.
+11: 60 x 1 = 60.
+
+**Present characters.**
+
+- Level 10. + 80.
+
+Locus, The Expanding Void. Level 10. Total = 95 + 80 = 175.
+
+Allisee Tra-Umna. Level 10. Total = 905 + 80 = 985.
+
+- Level 11. + 60.
+
+Selenor. Level 11. Total = 370 + 60 = 430.
+
+Cardigan. Level 11. Total = 1025 + 60 = 1085.
+
+**Not present for this fight.**
+
+- Level 10.
+
+Verda Sparrow. Level 10. Total = 50.
+
+Laucian. Level 10. Total = 80.
+
+Amar Rookmoon. Level 10. Total = 215.

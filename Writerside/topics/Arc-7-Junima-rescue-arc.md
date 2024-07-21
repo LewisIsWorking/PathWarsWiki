@@ -260,3 +260,10 @@ Fight!
 Dragon beast ghost x 2 & dragon rider guard ghost x 2.
 
 20:20.
+
+Fight!
+The Ghost metal golem.
+End of life.
+Recharge.
+Round 2. Round 6. 
+Locus slowed 1 until round 11.
