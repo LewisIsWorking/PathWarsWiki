@@ -248,3 +248,7 @@ Tuds says:
 Selenor unlocked the cellar.
 
 Then Locus, the expanding void, appears and joins the party.
+
+Denufair The Bunny now counts as a psychic mouse eldamon.
+
+19:50.
