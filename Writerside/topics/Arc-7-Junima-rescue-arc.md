@@ -244,3 +244,7 @@ Tuds says:
 
 ## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
 
+19:30.
+Selenor unlocked the cellar.
+
+Then Locus, the expanding void, appears and joins the party.

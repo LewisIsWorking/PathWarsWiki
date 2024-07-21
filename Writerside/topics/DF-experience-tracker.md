@@ -1,6 +1,6 @@
 # DF-experience-tracker
 
-## Left the campaign.
+## Characters that have left the campaign.
 
 - Zutlieg Von Glockenspiel. Level 10. Total = 665.
 
@@ -92,7 +92,7 @@ Treasure vault
 
 Grey flame spiders.
 
-**Present main characters:**
+**Present main characters: **
 - Cardigan. 
 - Selenor. 
 - Allisee.
@@ -140,3 +140,45 @@ Laucian. Level 10. Total = 80
 
 Amar Rookmoon. Level 10. Total = 215
 
+## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
+
+7 & 8.
+Orc bodyguard & orc shaman.
+Bodyguard = 140 GP = Medium.
+Shaman = 100 GP = Medium.
+
+Bodyguard.
+10 x 1 = 20
+11 x 1 = 15
+
+Shaman.
+10 x 1 = 15.
+11 x 1 = 10.
+
+Totals.
+Level 10 = 20 + 15 = 35.
+Level 11 = 15 + 10 = 25.
+
+**Present characters.**
+
+- Level 10. +35.
+
+Locus, The Expanding Void. Level 10. Total = 0 + 35 = 35.
+
+Allisee Tra-Umna. Level 10. Total = 810 + 35 = 845.
+
+- Level 11. +25.
+
+Selenor. Level 11. Total = 305 + 25 = 330.
+
+Cardigan. Level 11. Total = 960 + 25 = 985.
+
+**Not present for this fight.**
+
+- Level 10.
+
+Verda Sparrow. Level 10. Total = 50.
+
+Laucian. Level 10. Total = 80.
+
+Amar Rookmoon. Level 10. Total = 215.
