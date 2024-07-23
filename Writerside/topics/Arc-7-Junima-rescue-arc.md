@@ -13,7 +13,7 @@ You see the shards of sin glow, though Selenor does not seem to notice.
 
 A beam of light leaps from the scroll, and before you stands this entity:
 
-![DivineSerpent.png](DivineSerpent.png)
+![DivineSerpent.png](../images/DivineSerpent.png)
 
 She has 7 feathered wings.
 
