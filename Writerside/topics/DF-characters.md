@@ -27,10 +27,15 @@ James gave Amar a magical tracking ring.
 - Lore:
 
 Locus was an adult dragon before taking up the Lux Aeterna ritual.
+
 He decided to take on this ritual to better understand the true infinity of time and space.
+
 As a true dragon, he felt he was too close to the concepts to understand their vastness.
+
 Locus, The Expanding Void.
+
 Locus is an astral dragon name meaning space.
+
 The Expanding Void is an epithet of describing his nature and his ability to warp space to his whims.
 
 - Age?
