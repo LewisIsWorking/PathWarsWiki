@@ -13,7 +13,7 @@ You see the shards of sin glow, though Selenor does not seem to notice.
 
 A beam of light leaps from the scroll, and before you stands this entity:
 
-![DivineSerpent.png](DivineSerpent.png)
+![DivineSerpent.png](../images/DivineSerpent.png)
 
 She has 7 feathered wings.
 
@@ -239,5 +239,33 @@ and can physically morph to squeeze.
 
 It will also adjust to Allisee's size.
 
+Tuds says:
+`Goodbye, but I am sure we will meet again.`
+
 ## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
 
+19:30.
+Selenor unlocked the cellar.
+
+Then Locus, the expanding void, appears and joins the party.
+
+Denufair The Bunny now counts as a psychic mouse eldamon.
+
+19:50.
+
+20:00.
+Spirit realm.
+
+Fight! 
+Dragon beast ghost x 2 & dragon rider guard ghost x 2.
+
+20:20.
+
+Fight!
+The Ghost metal golem.
+End of life.
+Recharge.
+Round 2. Round 6. 
+Locus slowed 1 until round 11.
+
+20:30.

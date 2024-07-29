@@ -1,5 +1,7 @@
 # Discord-Doomsday-Funtime
 
+Title: Doomsday Funtime.
+
 There's a lot of information here, but you don't need to read all or any of it, just DM me, and I'll walk you through 
 everything.
 

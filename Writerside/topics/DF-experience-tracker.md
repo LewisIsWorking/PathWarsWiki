@@ -1,6 +1,6 @@
 # DF-experience-tracker
 
-## Left the campaign.
+## Characters that have left the campaign.
 
 - Zutlieg Von Glockenspiel. Level 10. Total = 665.
 
@@ -90,9 +90,9 @@ Treasure vault
 
 ## Session 216. 2024 July 13th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 5.
 
-Grey flame spiders.
+- Grey flame spiders.
 
-**Present main characters:**
+**Present main characters: **
 - Cardigan. 
 - Selenor. 
 - Allisee.
@@ -140,3 +140,117 @@ Laucian. Level 10. Total = 80
 
 Amar Rookmoon. Level 10. Total = 215
 
+## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
+
+Orc bodyguard & orc shaman.
+Bodyguard = 140 GP = Medium.
+Shaman = 100 GP = Medium.
+
+Bodyguard.
+10 x 1 = 20
+11 x 1 = 15
+
+Shaman.
+10 x 1 = 15.
+11 x 1 = 10.
+
+Totals.
+Level 10 = 20 + 15 = 35.
+Level 11 = 15 + 10 = 25.
+
+**Present characters.**
+
+- Level 10. +35.
+
+Locus, The Expanding Void. Level 10. Total = 0 + 35 = 35.
+
+Allisee Tra-Umna. Level 10. Total = 810 + 35 = 845.
+
+- Level 11. +25.
+
+Selenor. Level 11. Total = 305 + 25 = 330.
+
+Cardigan. Level 11. Total = 960 + 25 = 985.
+
+**Not present for this fight.**
+
+- Level 10.
+
+Verda Sparrow. Level 10. Total = 50.
+
+Laucian. Level 10. Total = 80.
+
+Amar Rookmoon. Level 10. Total = 215.
+
+- Dragon beast ghost x 2 & dragon rider guard ghost x 2.
+
+Dragon beast ghosts x2.
+Medium.
+200 GP x 2.
+10: 30 × 2 = 60.
+11: 20 × 2 = 40.
+
+Dragon rider guard ghosts x2.
+Medium.
+45 GP x 2.
+Above 9: 0.
+
+Totals.
+10: 60 exp.
+11: 40 exp.
+
+**Present characters.**
+
+- Level 10. +60.
+
+Locus, The Expanding Void. Level 10. Total = 35 + 60 = 95.
+
+Allisee Tra-Umna. Level 10. Total = 845 + 60 = 905.
+
+- Level 11. +40.
+
+Selenor. Level 11. Total = 305 + 25 = 330 + 40 = 370.
+
+Cardigan. Level 11. Total = 985 + 40 = 1025.
+
+**Not present for this fight.**
+
+- Level 10.
+
+Verda Sparrow. Level 10. Total = 50.
+
+Laucian. Level 10. Total = 80.
+
+Amar Rookmoon. Level 10. Total = 215.
+
+- Dragon rider ghost metal golem.
+
+Dragon rider ghost metal golem x 1.
+Large.
+560 GP x 1.
+10: 80 x 1 = 80.
+11: 60 x 1 = 60.
+
+**Present characters.**
+
+- Level 10. + 80.
+
+Locus, The Expanding Void. Level 10. Total = 95 + 80 = 175.
+
+Allisee Tra-Umna. Level 10. Total = 905 + 80 = 985.
+
+- Level 11. + 60.
+
+Selenor. Level 11. Total = 370 + 60 = 430.
+
+Cardigan. Level 11. Total = 1025 + 60 = 1085.
+
+**Not present for this fight.**
+
+- Level 10.
+
+Verda Sparrow. Level 10. Total = 50.
+
+Laucian. Level 10. Total = 80.
+
+Amar Rookmoon. Level 10. Total = 215.
