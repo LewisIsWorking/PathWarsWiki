@@ -4,13 +4,13 @@
 
 Relic
 
-+1 Striking Standanrt-Grade Silver Flesh Gem/Battle Axe
++1 Striking Standanrt-Grade Silver Fleshgem/Battle Axe
 
 You can switch between the two versions as a free action on your turn.
 
-If you drop or get disarmed of the axe it will go back into the Flesh Gem.
+If you drop or get disarmed of the axe it will go back into the Fleshgem form.
 
-The flesh gem is counted as a **Free-Hand** **Agile** weapon with a damage dice of **1d6** and is in the **brawling** group.
+The fleshgem gives you a fist strike that deals 1d6 piercing damage, is in the brawling group and has the magical and unnarmed traits.
 
 As a relic the level of Moonbear is equal to the level of it's wielder
 
