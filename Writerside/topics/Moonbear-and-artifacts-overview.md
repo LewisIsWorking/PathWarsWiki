@@ -4,7 +4,7 @@
 
 Relic
 
-+1 Striking Silver Flesh gem/Battle Axe
++1 Striking Standanrt-Grade Silver Flesh Gem/Battle Axe
 
 You can switch between the two versions as a free action on your turn.
 
@@ -12,8 +12,9 @@ If you drop or get disarmed of the axe it will go back into the Flesh Gem.
 
 The flesh gem is counted as a **Free-Hand** **Agile** weapon with a damage dice of **1d6** and is in the **brawling** group.
 
+As a relic the level of Moonbear is equal to the level of it's wielder
+
 ### Gifts
-As a relic the level of the item is equal to the level of the wielder
 
 Currently MoonBear has 3 gifts.
 
@@ -38,10 +39,13 @@ Calling upon the bestial nature within, you change shape into that of an animal.
 ### Abilities:
 
 **Bear Empathy:**  
-You gain the ability to talk to bears and bears are generally considered friendly to you.
+You gain the ability to talk to bears and bears are generally friendly to you.
 
 **Bear Form:**  
 **Activate:** 1 action; Concentrate.
 You Transform into a bipedal bear form. You grow to large size. If you don't have space to expand the activation is dissrupted.
+
+**Bear servants:**  
+You can conjure up to 2 bear servants to help you in some tasks. They can serve as mounts, help you carry items & more?.
 
 **Fake Death:**
