@@ -124,7 +124,7 @@ Became an adventurer with the Lux Aeterna Ritual.`
 Locus is a Monk-Psychic
 He pursues this happily
 He becomes these classes through self-training and the raw power of a dragon’s mind.
-None but his mother helped teach him
+None but his mother helped teach him.
 
 - Race.
 
