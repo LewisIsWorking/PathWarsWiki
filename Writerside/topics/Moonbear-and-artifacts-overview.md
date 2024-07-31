@@ -4,7 +4,7 @@
 
 Relic
 
-+1 Striking Standanrt-Grade Silver Fleshgem/Battle Axe
++1 Striking Standard-Grade Silver Fleshgem/Battle Axe
 
 You can switch between the two versions as a free action on your turn.
 
