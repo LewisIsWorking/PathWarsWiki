@@ -17,6 +17,7 @@
 6. 006 = Patrik = Dresden Konstantiniel. INACTIVE.
 7. 007 = Yokai = Misha. ACTIVE?
 8. 008 = Tavo = Laucian Asknäve. ACTIVE.
+9. 009 = Phil = Locus The Expanding Void. ACTIVE
 
 ## Player Membership Log
 
