@@ -11,7 +11,7 @@ Something in Allisee's blood stirs, growls and roars in Allisee's mind: the roar
 Allisee, you have awakened something deep within yourself, and within this scroll.
 You see the shards of sin glow, though Selenor does not seem to notice.
 
-A beam of light leaps from the scroll, and before you stands this entity:
+A beam of light leaps from the scroll, and before you there stands this entity:
 
 ![DivineSerpent.png](../images/DivineSerpent.png)
 
