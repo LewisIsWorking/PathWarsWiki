@@ -46,7 +46,6 @@ Start typing here...
   with a gunsmith named Belron.
 - They learned the craft with much fervour, applying much of his Magus weapons training, and teachings the Druids gave them.
 - They were able to create a powerful firearm that utilized the manticore trophy.
-- 
 - During an excursion into a different city to peddle the wares their Mentor Belron the Gunsmith had crafted, Belron
   the Gunsmith was attacked inside his store.
 - Upon returning to their Store, Carnon found it burnt down, and his mentor Belron the Gunsmith was slain.
@@ -74,13 +73,20 @@ They are currently on the run from a city guard, but they also want to collect k
   3. Civic Guard Druid.
   4. Interest in Irespan? Living stone = Living wood, create city-living golem.
   5. Can hear crystals talking / connected to other crystals.
+  6. Hell knight of the mask?
+  7. Maybe the grove was in Numeria, the same grove as Allisee's armour was from.
+  8. Met Dr Boojuu on the boat to Riddleport.
 
-
-1. \
-2. \
-3. \
-4. \
-5. \
+- Plot Threads.
+  1. Hell knights coming after Carnon.
+  2. Figuring out what the non-city whispers are.
+  3. Who killed Belron the Gunsmith / burned down the store?
+  4. Why did Queen Cressida Croft re-instate the bounty?
+  5. Obtaining high-tech equipment: weapons, armour, etc.
+  6. Helping Numerian druids weave together greater high-tech equipment with their primal magics.
+  7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and town of Torch).
+  8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
+  9. Who is the Aeon?
 
 ## James Dark-moon.
 - Side character.
