@@ -20,13 +20,13 @@ Currently MoonBear has 3 gifts.
 **Beast senses:**  
 The relic grants you an animal’s acute senses as long as you wear it. You gain **low-light vision**. If you already have low-light vision, you instead gain **darkvision**. At **10th level**, the relic grants you **imprecise scent with a range of 10 feet**.
 
-Call of the wild:  
+**Call of the wild:**  
 **Activate:** 2 actions ; command, Interact;  
 **Frequency:** once per day;  
 **Effect:** Your relic summons a creature to fight at your side, casting **[summon animal](https://2e.aonprd.com/Spells.aspx?ID=1694)** with a level of half the item's level rounded up. You can Sustain this Activation as you would the spell.  
 **Special:** You can only summon creatures of the BEAR family.
 
-Form of Fury:
+**Form of Fury:**  
 **Activate:** 2 actions; command, envision;
 **Frequency:** Twice per day
 **Effect:**
