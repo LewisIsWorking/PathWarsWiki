@@ -11,12 +11,13 @@
 ### List of all players.
 1. 001 = Horia = Selenor. ACTIVE. 
 2. 002 = Anthony = Allisee. ACTIVE.
-3. 003 = Rebecca = Amar. ACTIVE.
+3. 003 = Rebecca = Amar. "ACTIVE".
 4. 004 = Nam = Verda Sparrow. INACTIVE.
 5. 005 = Charles = Vrolt Ori. INACTIVE.
 6. 006 = Patrik = Dresden Konstantiniel. INACTIVE.
 7. 007 = Yokai = Misha. ACTIVE?
 8. 008 = Tavo = Laucian Asknäve. ACTIVE.
+9. 009 = Phil = Locus The Expanding Void. ACTIVE
 
 ## Player Membership Log
 

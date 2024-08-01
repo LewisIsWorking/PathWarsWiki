@@ -34,6 +34,7 @@
         <toc-element topic="The-secrets-of-magic.md"/>
         <toc-element topic="The-Harrow-Realm.md"/>
     </toc-element>
+    <toc-element topic="Moonbear-and-artifacts-overview.md"/>
     <toc-element topic="Homebrew.md">
         <toc-element topic="Dual-Class-Stat-Boost.md"/>
         <toc-element topic="Faction-signup-rewards.md"/>
