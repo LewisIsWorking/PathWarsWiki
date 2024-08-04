@@ -254,3 +254,13 @@ Verda Sparrow. Level 10. Total = 50.
 Laucian. Level 10. Total = 80.
 
 Amar Rookmoon. Level 10. Total = 215.
+
+## Session 218. 2025 August 4th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 7.
+
+Ghost Knights X5.
+10 = 40 × 5 = 200.
+11= 30 × 5 = 150.
+
+Sir Rutford.
+10 = 120 × 1 = 120. 
+11 = 80 x 1 = 80.

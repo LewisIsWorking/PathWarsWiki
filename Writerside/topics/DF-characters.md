@@ -88,6 +88,10 @@ They are currently on the run from a city guard, but they also want to collect k
   8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
   9. Who is the Aeon?
 
+## Doctor Buju.
+
+- Nothing to see here ;)
+
 ## James Dark-moon.
 - Side character.
 - High captain of the city guard.
