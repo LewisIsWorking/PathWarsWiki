@@ -239,7 +239,7 @@ Usually too proud to fear, but will if shown he is weaker
    her own as it was innocent and needed someone to protect it.
 5. Domini Grace, elf 539 years old Inventor.
 6. Savior Sliver hold, Dwarf 400 years old Fighter.
-7. Harrison Ritc, human 248 years old Druid.
+7. Harrison Jule , human 248 years old Druid.
 8. Shoom, Leshy ??? Years old. Kineticist (Note: Exclusively speaks wild-song, druids accept this to regular people all he says is Shoom in
    various tones. Will use Fey with Viole).
 
