@@ -268,7 +268,13 @@ Usually too proud to fear, but will if shown he is weaker
 2. Winning a great war. Less bloodthirsty, more honour and glory.
 3. Resurrect Lissala as she is the reason he even exists.
 4. Find out what the Rune-key is (the blueprint on his back, ask Tammerhawk).
-5. ?
+5. Live out the prophecies gifted to you by the goddess of war:
+
+- Release great evil, save the kingdom of ice.
+- Slay a Queen, bring peace.
+- Win a fight, be reborn.
+- Hold a flame, bring life.
+- Bathe in blood, break the sky.
 
 ## Welter.
 - Side character.
