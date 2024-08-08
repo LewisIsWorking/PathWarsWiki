@@ -218,6 +218,29 @@ Usually too proud to fear, but will if shown he is weaker
 - Main character.
 - Champion & Oracle.
 
+## Viole Jule Grace.
+- Player: Moonlight.
+- Main character.
+- Viole Jule Grace(Me), Elf Angel kin/Grim spawn 223 years old. 
+- BDay Gorzan 10th 4487.
+- Angel kin, Grim spawn Elf.
+- Classes: Inventor & Warlord.
+
+- Backstory: 
+
+1. Domini Grace, Savior Sliver hold, Harrison Ritc, and McKenna McFarland were all seasoned adventurers tasked with 
+eliminating a cult that had popped up near the city of Absalom. 
+2. The Cult had been kidnapping young women for the past few months and Domini and her team were going to stop them.
+3. As they arrived at the hideout All the cultists were dead it looked as if something had escaped killing everyone 
+   along the way all that was left was strange markings on the walls and a lone child on an altar fast asleep.
+4. The group thought long and hard about what to do with the child eventually Domini stepped up to take the child as 
+   her own as it was innocent and needed someone to protect it.
+5. Domini Grace, elf 539 years old Inventor. 
+6. Savior Sliver hold, Dwarf 400 years old Fighter.
+7. Harrison Ritc, human 248 years old Druid.
+8. Shoom, Leshy ??? Years old. Kineticist (Note: Exclusively speaks wild-song, druids accept this to regular people all he says is Shoom in
+   various tones. Will use Fey with Viole).
+
 ## Welter.
 - Side character.
 - Scholar.
