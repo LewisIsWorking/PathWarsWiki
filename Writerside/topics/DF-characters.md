@@ -22,12 +22,12 @@ Start typing here...
 - Carnon GH repo: https://github.com/Karso12/Carnon-Backstory/tree/main/untitled/Writerside/topics/Lore%20Generator
 
 - What does your character look like?
-  1. A tall gnarled vaguely humanoid body, with a torso that expands up from the waist like a cone instead of a triangle. 
-  2. The head is immobile with gemstones for eyes. 
-  3. The torso is covered in multiple layers of metal cords, 
-  4. but there are two spots that reveal a smooth black surface beneath, with blue markings that look like drawn on eyes. 
-  5. The cords extend down their arms, ending several inches above the wrist. 
-  6. Below that is fabric, that hangs almost down to their knees.
+	1. A tall gnarled vaguely humanoid body, with a torso that expands up from the waist like a cone instead of a triangle.
+	2. The head is immobile with gemstones for eyes.
+	3. The torso is covered in multiple layers of metal cords,
+	4. but there are two spots that reveal a smooth black surface beneath, with blue markings that look like drawn on eyes.
+	5. The cords extend down their arms, ending several inches above the wrist.
+	6. Below that is fabric, that hangs almost down to their knees.
 
 **Backstory.**
 
@@ -63,31 +63,31 @@ Start typing here...
 **Plot threads.**
 
 - Why does your character adventure?\
-They are currently on the run from a city guard, but they also want to collect knowledge for their Aeon.
+  They are currently on the run from a city guard, but they also want to collect knowledge for their Aeon.
 
 - Ideas:
-  1. Create / find the world's greatest firearm?
-  2. Thoughts on civilisation/forms of civilisations?
-     Not biased.
-     Druidic way of life is self-sufficient.
-     The groves are well protected, but they are too isolationist.
-  3. Civic Guard Druid.
-  4. Interest in Irespan? Living stone = Living wood, create city-living golem.
-  5. Can hear crystals talking / connected to other crystals.
-  6. Hell knight of the mask?
-  7. Maybe the grove was in Numeria, the same grove as Allisee's armour was from.
-  8. Met Dr Boojuu on the boat to Riddleport.
+	1. Create / find the world's greatest firearm?
+	2. Thoughts on civilisation/forms of civilisations?
+	   Not biased.
+	   Druidic way of life is self-sufficient.
+	   The groves are well protected, but they are too isolationist.
+	3. Civic Guard Druid.
+	4. Interest in Irespan? Living stone = Living wood, create city-living golem.
+	5. Can hear crystals talking / connected to other crystals.
+	6. Hell knight of the mask?
+	7. Maybe the grove was in Numeria, the same grove as Allisee's armour was from.
+	8. Met Dr Boojuu on the boat to Riddleport.
 
 - Plot Threads.
-  1. Hell knights coming after Carnon.
-  2. Figuring out what the non-city whispers are.
-  3. Who killed Belron the Gunsmith / burned down the store?
-  4. Why did Queen Cressida Croft re-instate the bounty?
-  5. Obtaining high-tech equipment: weapons, armour, etc.
-  6. Helping Numerian druids weave together greater high-tech equipment with their primal magics.
-  7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and town of Torch).
-  8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
-  9. Who is the Aeon?
+	1. Hell knights coming after Carnon.
+	2. Figuring out what the non-city whispers are.
+	3. Who killed Belron the Gunsmith / burned down the store?
+	4. Why did Queen Cressida Croft re-instate the bounty?
+	5. Obtaining high-tech equipment: weapons, armour, etc.
+	6. Helping Numerian druids weave together greater high-tech equipment with their primal magics.
+	7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and town of Torch).
+	8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
+	9. Who is the Aeon?
 
 ## Doctor Buju.
 
@@ -222,22 +222,22 @@ Usually too proud to fear, but will if shown he is weaker
 ## Viole Jule Grace.
 - Player: Moonlight.
 - Main character.
-- Viole Jule Grace (Me), Elf Angel kin/Grim spawn 223 years old. 
+- Viole Jule Grace (Me), Elf Angel kin/Grim spawn 223 years old.
 - BDay Gorzan 10th 4487.
 - Angel kin, Grim spawn Elf.
 - Classes: Inventor & Warlord.
 - Tattoos all over back, up to his eyes.
 
-- Backstory: 
+- Backstory:
 
-1. Domini Grace, Savior Sliver hold, Harrison Ritc, and McKenna McFarland were all seasoned adventurers tasked with 
-eliminating a cult that had popped up near the city of Absalom. 
+1. Domini Grace, Savior Sliver hold, Harrison Ritc, and McKenna McFarland were all seasoned adventurers tasked with
+   eliminating a cult that had popped up near the city of Absalom.
 2. The Cult had been kidnapping young women for the past few months and Domini and her team were going to stop them.
-3. As they arrived at the hideout All the cultists were dead it looked as if something had escaped killing everyone 
+3. As they arrived at the hideout All the cultists were dead it looked as if something had escaped killing everyone
    along the way all that was left was strange markings on the walls and a lone child on an altar fast asleep.
-4. The group thought long and hard about what to do with the child eventually Domini stepped up to take the child as 
+4. The group thought long and hard about what to do with the child eventually Domini stepped up to take the child as
    her own as it was innocent and needed someone to protect it.
-5. Domini Grace, elf 539 years old Inventor. 
+5. Domini Grace, elf 539 years old Inventor.
 6. Savior Sliver hold, Dwarf 400 years old Fighter.
 7. Harrison Ritc, human 248 years old Druid.
 8. Shoom, Leshy ??? Years old. Kineticist (Note: Exclusively speaks wild-song, druids accept this to regular people all he says is Shoom in
@@ -247,20 +247,20 @@ eliminating a cult that had popped up near the city of Absalom.
 
 1. Black-rock cultists kill temple of Zatera.
 2. Black-rock cultists use temple's divine power to pierce the failing defences of the black-rock prison.
-3. A vessel created to house the prisoner. 
-4. However, the defences of the prison cause the oozing daemonic energy to be strictly bound by 
+3. A vessel created to house the prisoner.
+4. However, the defences of the prison cause the oozing daemonic energy to be strictly bound by
    divine runes of Lissala in the form of tattoos all over the body.
 5. The newly bound vessel has a new soul flow into, created Viole. Essentially a clone of the black-rock prisoner.
 6. The church of Zatera's templars swoop in, kill the cultist, spare the vessel.
 7. Viole joins up with the templars, helping wage divine war across Battle-zoo.
 8. Viole uses his daemonic powers to influence allies to fight harder.
-9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many 
+9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many
    power weapon inventions.
 10. Viole learned to 'loosen' the Lissala runes temporarily, this is the lore of his inventor's over drive.
-11. After years of this, Viole is questioning his faith and the actions he has taken (and the war crimes he has 
+11. After years of this, Viole is questioning his faith and the actions he has taken (and the war crimes he has
     committed).
 12. So Viole leaves on a personal quest, listening to the whispers of the obsidian statue he was born with.
-13. Viole enters Black-rock mine but is stuck in limbo for X number of years as the mines defences have trapped him, 
+13. Viole enters Black-rock mine but is stuck in limbo for X number of years as the mines defences have trapped him,
     detecting his daemonic energies.
 
 - Plot threads.
