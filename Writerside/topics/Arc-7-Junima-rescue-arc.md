@@ -1,5 +1,8 @@
 # Arc-7-Junima-rescue-arc
 
+- Location: Black-rock mines, Indigo isles. 
+- Plane: Battle-zoo.
+
 Allisee reads the ritual scroll.
 
 This time knowing that her connection to the divine is what must be thought upon.

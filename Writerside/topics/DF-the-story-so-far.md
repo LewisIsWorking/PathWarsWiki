@@ -13,7 +13,7 @@ TODO: Not to self, move Notion content over.
 - Drekk-Zal used the power of lunar magic to defeat the moon flower.
 ### 2. Collapsing Halls Arc. Session 142 → 146.
 ### 3. Truth Teller Arc. Session 148 → 150.
-### 4. The Harrow Arc. Session 153 → 189.
+### 4. The Harrow Arc. Session 153 → 189. 36ish sessions.
 - Amar became the Harrower.
 ### 5. Necropolis Arc. Session 184 → 187.
 ### 6. Gaunt Light Arc. Session 190 -> ONGOING.

@@ -221,10 +221,11 @@ Usually too proud to fear, but will if shown he is weaker
 ## Viole Jule Grace.
 - Player: Moonlight.
 - Main character.
-- Viole Jule Grace(Me), Elf Angel kin/Grim spawn 223 years old. 
+- Viole Jule Grace (Me), Elf Angel kin/Grim spawn 223 years old. 
 - BDay Gorzan 10th 4487.
 - Angel kin, Grim spawn Elf.
 - Classes: Inventor & Warlord.
+- Tattoos all over back, up to his eyes.
 
 - Backstory: 
 
@@ -240,6 +241,33 @@ eliminating a cult that had popped up near the city of Absalom.
 7. Harrison Ritc, human 248 years old Druid.
 8. Shoom, Leshy ??? Years old. Kineticist (Note: Exclusively speaks wild-song, druids accept this to regular people all he says is Shoom in
    various tones. Will use Fey with Viole).
+
+- The expanded backstory:
+
+1. Black-rock cultists kill temple of Zatera.
+2. Black-rock cultists use temple's divine power to pierce the failing defences of the black-rock prison.
+3. A vessel created to house the prisoner. 
+4. However, the defences of the prison cause the oozing daemonic energy to be strictly bound by 
+   divine runes of Lissala in the form of tattoos all over the body.
+5. The newly bound vessel has a new soul flow into, created Viole. Essentially a clone of the black-rock prisoner.
+6. The church of Zatera's templars swoop in, kill the cultist, spare the vessel.
+7. Viole joins up with the templars, helping wage divine war across Battle-zoo.
+8. Viole uses his daemonic powers to influence allies to fight harder.
+9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many 
+   power weapon inventions.
+10. Viole learned to 'loosen' the Lissala runes temporarily, this is the lore of his inventor's over drive.
+11. After years of this, Viole is questioning his faith and the actions he has taken (and the war crimes he has 
+    committed).
+12. So Viole leaves on a personal quest, listening to the whispers of the obsidian statue he was born with.
+13. Viole enters Black-rock mine but is stuck in limbo for X number of years as the mines defences have trapped him, 
+    detecting his daemonic energies.
+
+- Plot threads.
+1. Defeating the Black-rock prisoner.
+2. Winning a great war. Less bloodthirsty, more honour and glory.
+3. Resurrect Lissala as she is the reason he even exists.
+4. ?
+5. ?
 
 ## Welter.
 - Side character.
