@@ -275,6 +275,7 @@ Usually too proud to fear, but will if shown he is weaker
 - Win a fight, be reborn.
 - Hold a flame, bring life.
 - Bathe in blood, break the sky.
+- ... Be the key, open the lock.
 
 ## Welter.
 - Side character.
