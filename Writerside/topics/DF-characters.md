@@ -13,6 +13,7 @@ Start typing here...
 ## Allisee Tra-Umna.
 - Main character.
 - Barbarian & Witch.
+- Wielder of Moon-bear. [See: Moon-bear-and-artifacts-overview.md](Moonbear-and-artifacts-overview.md)
 
 ## Carnon.
 
@@ -266,7 +267,7 @@ eliminating a cult that had popped up near the city of Absalom.
 1. Defeating the Black-rock prisoner.
 2. Winning a great war. Less bloodthirsty, more honour and glory.
 3. Resurrect Lissala as she is the reason he even exists.
-4. ?
+4. Find out what the Rune-key is (the blueprint on his back, ask Tammerhawk).
 5. ?
 
 ## Welter.
