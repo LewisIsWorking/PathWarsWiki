@@ -1,6 +1,6 @@
-# Moonbear and other moon relics overview
+# Moon-bear and other moon relics overview
 
-## Moonbear
+## Moon-bear
 
 Relic
 
@@ -27,7 +27,7 @@ The relic grants you an animal’s acute senses as long as you wear it. You gain
 **Effect:** Your relic summons a creature to fight at your side, casting **[summon animal](https://2e.aonprd.com/Spells.aspx?ID=1694)** with a level of half the item's level rounded up. You can Sustain this Activation as you would the spell.  
 **Special:** You can only summon creatures of the BEAR family.
 
-**Form of Fury:**  
+**Form of Fury:** 
 **Activate:** 2 actions; command, envision;
 **Frequency:** Twice per day
 **Effect:**
