@@ -234,33 +234,52 @@ Large.
 **Present characters.**
 
 - Level 10. + 80.
-
-Locus, The Expanding Void. Level 10. Total = 95 + 80 = 175.
-
-Allisee Tra-Umna. Level 10. Total = 905 + 80 = 985.
+1. Locus, The Expanding Void. Level 10. Total = 95 + 80 = 175. 
+2. Allisee Tra-Umna. Level 10. Total = 905 + 80 = 985.
 
 - Level 11. + 60.
-
-Selenor. Level 11. Total = 370 + 60 = 430.
-
-Cardigan. Level 11. Total = 1025 + 60 = 1085.
+  1. Selenor. Level 11. Total = 370 + 60 = 430. 
+  2. Cardigan. Level 11. Total = 1025 + 60 = 1085.
 
 **Not present for this fight.**
 
 - Level 10.
-
-Verda Sparrow. Level 10. Total = 50.
-
-Laucian. Level 10. Total = 80.
-
-Amar Rookmoon. Level 10. Total = 215.
+  1. Verda Sparrow. Level 10. Total = 50. 
+  2. Laucian. Level 10. Total = 80. 
+  3. Amar Rookmoon. Level 10. Total = 215.
 
 ## Session 218. 2025 August 4th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 7.
 
-Ghost Knights X5.
-10 = 40 × 5 = 200.
-11= 30 × 5 = 150.
+Ghost Knights X6.
+10 = 40 × 6 = 240.
+11 = 30 × 6 = 180.
+12 = 20 x 6 = 120.
 
 Sir Rutford.
 10 = 120 × 1 = 120. 
 11 = 80 x 1 = 80.
+12 = 60 x 1 = 60.
+
+Totals.
+10 = 240 + 120 = 360.
+11 = 180 + 80 = 260.
+12 = 120 + 60 = 180.
+
+**Present characters.**
+
+- Level 10. + 360.
+  1. Locus, The Expanding Void. Level 10. Total = 175 + 360 = 535.
+  2. Allisee Tra-Umna. Level 10. Total = 985 + 360 = 1345. 215 OVER. New Total = 90.
+     - Ghost Knights x 3 (120) + Sit Rutfort (120) = 240. That's 0 + 3 Knights (90) = New Total = 90/1200.
+
+- Level 11. + 230.
+  1. Selenor. Level 11. Total = 430 + 260 = 690.
+  2. Cardigan. Level 11. Total = 1085 + 260 = 1345.
+     - 
+
+**Not present for this fight.**
+
+- Level 10.
+  1. Verda Sparrow. Level 10. Total = 50.
+  2. Laucian. Level 10. Total = 80.
+  3. Amar Rookmoon. Level 10. Total = 215.
