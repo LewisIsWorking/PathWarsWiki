@@ -22,7 +22,7 @@ She has 7 feathered wings.
 
 She says:
 
-"A banner caller? There is no way, your line is long dead."
+"A banner caller? There is no way your line is long dead."
 
 She looks curiously at you.
 
