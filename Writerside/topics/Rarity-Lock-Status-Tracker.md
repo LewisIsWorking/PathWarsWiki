@@ -39,7 +39,8 @@ ALL of the above (if they can't be taken at character creation) are 100% obtaina
 
 All common archetypes are fully unlocked and allowed for use in any campaign.
 
-All of these are unlocked.
+All the following archetypes are unlocked.
+This list is incomplete.
 
 - Acrobat
 - Aldori Duelist
