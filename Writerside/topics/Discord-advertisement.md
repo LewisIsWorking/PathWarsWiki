@@ -19,19 +19,19 @@ in writing.
   players.
 - Setting = Golarion.
 - Level = 10. The campaign will go to level 20.
-- Campaign wiki = https://github.com/LewisIsWorking/PathWarsWiki
 - Setting = Golarion / Varisia.
-- Getting started guide = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md
 - We use discord for the voice/video call & telegram for texting and out-of-session play by post.
 - I recommend using Pathbuilder to build your character.
-- What can I play in terms of race, class, background, etc?
-  You can play anything, read here for more information: 
-  https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Rarity-Lock-Status-Tracker.md, this 
-  is the link to our rarity system guide.
+- What can I play in terms of race, class, background, etc? You can play anything.
 - Current party composition: Champion/Oracle, Barbarian/Witch & Rogue/Sorcerer.
 - You do not need to make your character dual class.
 
-New players welcome, DM me to join.
+New players welcome DM me to join.
 :slight_smile:
 
 @PF2e LFG
+
+## DO NOT PUT LINKS???
+
+- Getting started guide = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md
+- Campaign wiki = https://github.com/LewisIsWorking/PathWarsWiki

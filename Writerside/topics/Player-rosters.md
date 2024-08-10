@@ -4,8 +4,8 @@
 
 ### Current players.
 
-1. 001 Horia.
-2. 002 Anthony.
+1. 001 = Horia = Selenor.
+2. 002 = Anthony = Allisee.
 3. 009 = Phil = Locus The Expanding Void.
 4. 010 = Ross = Carnon.
 5. 011 = Tony McMoonlight = Viole Jule Grace.

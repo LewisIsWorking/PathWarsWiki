@@ -4,4 +4,5 @@ Start typing here...
 
 - Cardigan. Cleric. 12.
 - Selenor. Champion Oracle. 12.
-- Allisee. 
+- Allisee. Barbarian & Witch. 11.
+
