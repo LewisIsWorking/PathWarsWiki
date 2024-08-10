@@ -272,3 +272,7 @@ Round 2. Round 6.
 Locus slowed 1 until round 11.
 
 20:30.
+Ghost fight over.
+
+## Session 217. 2024 August 10th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 7.
+

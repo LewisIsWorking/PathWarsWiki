@@ -120,7 +120,7 @@ The Expanding Void is an epithet of describing his nature and his ability to war
 - Age?
 
 310 years since undergoing the Lux Aeterna ritual,
-He was hatched in the year 3500, but was reborn with the ritual in the year 440.
+He was hatched in the year 3500 but was reborn with the ritual in the year 440.
 He doesn't have one, born in space, so no day.
 Became an adventurer with the Lux Aeterna Ritual.`
 
@@ -134,13 +134,13 @@ None but his mother helped teach him.
 - Race.
 
 Locus is an astral dragon
-Locus has only ever met a tiny handful of other dragons, dragons oft avoid each other.
-Locus has immense pride in his nature as a dragon
+Locus has only ever met a tiny handful of other dragons, dragons often avoid each other.
+Locus has immense pride in his nature as a dragon.
 
 - Parents and Family.
 
-Locus was born in space as most astral dragons are
-Raised in Space
+Locus was born in space as most astral dragons are.
+Raised in Space.
 His mother, and even then, not long.
 Other astral dragons are Tempus, The Eternal Moment and Interva, The Infinite.
 Living?
@@ -245,13 +245,13 @@ Usually too proud to fear, but will if shown he is weaker
 
 - The expanded backstory:
 
-1. Black-rock cultists kill temple of Zatera.
-2. Black-rock cultists use temple's divine power to pierce the failing defences of the black-rock prison.
+1. Black-rock cultists kill a temple of Zatera.
+2. Black-rock cultists use the temple's divine power to pierce the failing defences of the black-rock prison.
 3. A vessel created to house the prisoner.
 4. However, the defences of the prison cause the oozing daemonic energy to be strictly bound by
    divine runes of Lissala in the form of tattoos all over the body.
 5. The newly bound vessel has a new soul flow into, created Viole. Essentially a clone of the black-rock prisoner.
-6. The church of Zatera's templars swoop in, kill the cultist, spare the vessel.
+6. The church of Zatera's templars swoops in, kill the cultist, spare the vessel.
 7. Viole joins up with the templars, helping wage divine war across Battle-zoo.
 8. Viole uses his daemonic powers to influence allies to fight harder.
 9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many

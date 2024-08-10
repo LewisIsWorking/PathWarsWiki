@@ -240,7 +240,7 @@ With these steps, we will establish the character alongside their backstory, tra
 
 ## Step #3 = The Great Spoiler Warning.
 
-Read = [Spoiler Avoidance Guide](https://www.notion.so/Spoiler-Avoidance-Guide-03ce3d0582564a958e974cdea133113e?pvs=21)
+Read = [Spoiler-avoidance-guide.md](Spoiler-avoidance-guide.md)
 
 ## Step #4 = How to Build Your Character’s Life.
 
@@ -311,15 +311,13 @@ The next steps are all about making the character.
 
 Next step.
 
-[Step 10 | Path Builder 2e + Character Creation.](https://www.notion.so/Step-10-Path-Builder-2e-Character-Creation-a17ebea80eb24e65a2f70298d4ac2814?pvs=21)
+[Path Builder 2e + Character Creation.](Pathbuilder-setup.md)
 
 **3rd Party Content.**
 
 Check the 3rd party page to find out what is available.
 
 [3rd Party Content.](https://www.notion.so/3rd-Party-Content-7bd26049ed604612b331daeaac49d9b7?pvs=21)
-
-[Step 10 | Path Builder 2e + Character Creation.](https://www.notion.so/Step-10-Path-Builder-2e-Character-Creation-a17ebea80eb24e65a2f70298d4ac2814?pvs=21)
 
 ## Step #8 = Path Builder 2e + Character Creation.
 
