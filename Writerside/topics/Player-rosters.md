@@ -3,21 +3,26 @@
 ## Doomsday Funtime.
 
 ### Current players.
+
 1. 001 Horia.
 2. 002 Anthony.
-3. 003 Rebecca.
-4. 008 Laucian Asknäve.
+3. 009 = Phil = Locus The Expanding Void.
+4. 010 = Ross = Carnon.
+5. 011 = Tony McMoonlight = Viole Jule Grace.
 
 ### List of all players.
+
 1. 001 = Horia = Selenor. ACTIVE. 
 2. 002 = Anthony = Allisee. ACTIVE.
-3. 003 = Rebecca = Amar. "ACTIVE".
+3. 003 = Rebecca = Amar. INACTIVE.
 4. 004 = Nam = Verda Sparrow. INACTIVE.
 5. 005 = Charles = Vrolt Ori. INACTIVE.
 6. 006 = Patrik = Dresden Konstantiniel. INACTIVE.
 7. 007 = Yokai = Misha. ACTIVE?
-8. 008 = Tavo = Laucian Asknäve. ACTIVE.
-9. 009 = Phil = Locus The Expanding Void. ACTIVE
+8. 008 = Tavo = Laucian Asknäve. INACTIVE.
+9. 009 = Phil = Locus The Expanding Void. ACTIVE. 
+10. 010 = Ross = Carnon. ACTIVE. 
+11. 011 = Tony McMoonlight = Viole Jule Grace. ACTIVE.
 
 ## Player Membership Log
 
