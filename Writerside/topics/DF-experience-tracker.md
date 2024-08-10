@@ -274,8 +274,8 @@ Totals.
 
 - Level 11. + 230.
   1. Selenor. Level 11. Total = 430 + 260 = 690.
-  2. Cardigan. Level 11. Total = 1085 + 260 = 1345.
-     - 
+  2. Cardigan. Level 11. Total = 1085 + 260 = 1345. 145 OVER. New Total = 120/1200.
+     - Ghosts knights x 3 (120) = 1085 + 120 = 1205. Level 12 = Sir Rutford (60) + 3 Knights (60) = 120 = 120/1200.
 
 **Not present for this fight.**
 

@@ -3,7 +3,7 @@
 Start typing here...
 
 - Level 12.
-  - 1. Cardigan. Cleric. Level 12. Total = ?. UPDATE TO DATE: SESSION 218.
+  - 1. Cardigan. Cleric. Level 12. Total = 120. UPDATE TO DATE: SESSION 218.
 
 - Level 11.
   1. Selenor. Champion & Oracle. Level 11. Total = 690. UPDATE TO DATE: SESSION 218.
