@@ -310,13 +310,9 @@ Totals.
   1. Selenor. Level 11. Total = 690 + 60 = 750.
   2. Allisee Tra-Umna. Level 11. Total = 90 + 60 = 150.
   3. Lt. Viole Jule Grace. Level 11. Total = 0 + 60 = 60.
+  4. Carnon. Level 11. Total 0 + 60 = 60.
 
 - Level 12. + 40.
-  1. Cardigan. Level 11. Total = 120.
+  1. Cardigan. Level 11. Total = 120 + 40 = 160.
 
-**Not present for this fight.**
-
-- Level 10.
-  1. Verda Sparrow. Level 10. Total = 50.
-  2. Laucian. Level 10. Total = 80.
-  3. Amar Rookmoon. Level 10. Total = 215.
+Monster parts: 560 GP. Size = gargantuan.
