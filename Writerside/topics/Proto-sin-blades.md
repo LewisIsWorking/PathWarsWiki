@@ -18,16 +18,31 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 
 ## Ownership: Charm-beaker.
 
-Charm Breaker. Amar Rookmoon’s sword. Cardigan took it from Ra, then gave it to Amar.
+- Charm Breaker. 
+- Amar Rookmoon’s sword. 
+- Cardigan took it from Ra, then gave it to Amar.
 
 ## Ownership: Glimmer-Bane
-Glimmer Bane. Modwinn gets Glimmer Bane from Laucian Asknäve. Laucian Asknäve got Glimmer Bane from Darian Chalk. Drek Val gave his sword to Darian Chalk.
+
+- Glimmer Bane. 
+- Modwinn gets Glimmer Bane from Laucian Asknäve. 
+- Laucian Asknäve got Glimmer Bane from Darian Chalk. 
+- Drek Val gave his sword to Darian Chalk.
 
 ## Ownership: Heat-death.
-Heat Death. Zutlieg’s sword. Zillith gave this sword to Zutlieg. Selendor gave this sword to Zillif. Sir Reinhold gave this to Selendor.
+
+- Heat Death. 
+- Zutlieg’s sword. 
+- Zillith gave this sword to Zutlieg. 
+- Selenor gave this sword to Zillif. 
+- Sir Reinhold gave this to Selenor.
 
 ## Ownership: Iron Oath.
-Iron’s Oath. Isilynor Pranäe got Un-Trul’s sword. Un-Trul’s Sword. Aarlak gave Iron Oath to Un-Trul.
+
+- Iron’s Oath. 
+- Isilynor Pranäe got Un-Trul’s sword. 
+- Un-Trul’s Sword. 
+- Aarlak gave Iron Oath to Un-Trul.
 
 ## Ownership: Sin-Reaver.
 - Sin Reaver. 
@@ -35,14 +50,17 @@ Iron’s Oath. Isilynor Pranäe got Un-Trul’s sword. Un-Trul’s Sword. Aarlak
 - Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
 
 ## Ownership: Truth-teller.
+
 - Truth Teller. 
 - Selenor’s sword. 
 - Acquired by Selenor from the Broken Lord.
 
 ## Ownership: Eclipse.
+
 - Eclipse: Still in the hands of the Hag Queen.
 
 ## Truth-teller.
+
 - Truth-teller. 
 - Selenor's sword.
 
@@ -90,7 +108,7 @@ The soul opens up to the possibilities that have always lingered within itself.
 
 If you have planar blood, it may awaken your sorcerer power.
 
-If you practised with a weapon every day but didn't have enough power to wield the weapon as a master alongside another classification then you may become a fighter.
+If you practised with a weapon every day but didn't have enough power to wield the weapon as a master alongside another classification, then you may become a fighter.
 
 If you have studied the arcane methodologies, theorems and lore, then perhaps you shall become a wizard.
 
@@ -105,10 +123,42 @@ Your soul may reach deep into the elemental planes to wield nature to become a d
 
 You may complete your training in the art of defence and become a vanguard.
 
-Your soul now has the capacity to wield more power so you tried a deal with an intrigued patron and become a witch.
+Your soul now has the capacity to wield more power, so you tried a deal with an intrigued patron and become a witch.
 
-Your body and mind are empowered by your souls additional capacity allowing you to go beyond the traditional physical limitations becoming a monk or rogue.
+Your body and mind are empowered by your souls additional capacity,
+allowing you to go beyond the traditional physical limitations of becoming a monk or rogue.
 
-Your soul allows your mind to greatly expand it’s capacity for knowledge becoming an alchemist or wizard.
+Your soul allows your mind to greatly expand its capacity for knowledge becoming an alchemist or wizard.
 
 Firearm training comes more naturally to you now as your soul ensures your aim stays true and that your grit never falters: gunslinger.
+
+## Blade abilities.
+
+1. Charm Breaker. 
+   - While you wield this weapon, whenever you start your turn subjected to the charmed condition, you can attempt a 
+      saving throw to end the condition immediately, even if the effect does not normally allow a saving throw.
+2. Eclipse. ???
+3. Glimmer Bane. 
+   - This weapon has seven charges. 
+   - It regains 6 charges daily at dawn. 
+   - You can expend the weapon’s charges to cast detect magic (1 charge) or dispel magic (3 charges). 
+   - In addition, when you see a creature within 60 feet of you casting a spell, you can use your reaction to expend two of the weapon’s charges to cast a counter-spell.
+4. Heat Death.
+   - While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you. 
+   - Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw. 
+   - The creature can’t regain hit points for 1 minute on a failure. 
+   - At the end of each of its turns, the creature can repeat the saving throw to end the effect.
+5. Iron’s Oath. 
+   - While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical). 
+   - When you hit a plant creature with this weapon, that creature takes extra 7 points of slashing damage. 
+   - A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
+6. Sin Reaver.
+   - Only a lawful creature can attune to this weapon.
+   - When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7 points of slashing damage.
+   - A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn. 
+   - Detect Lawfulness.
+7. Truth Teller.
+   - While you wield this weapon, you have an advantage on Will Saves (Intelligence ability checks) made to discern or 
+      disbelieve illusions.
+   - A creature that has lied to you or tried to deceive you within the past 24 hours takes 7 points of fire damage whenever it touches the sword or is hit by a mêlée attack you make with it.
+   - The wielder cannot lie and –4 to deception checks
