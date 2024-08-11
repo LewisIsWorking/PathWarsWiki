@@ -2,7 +2,51 @@
 
 Start typing here...
 
-Overview.
+## Name of the blades.
+
+1. Charm-Breaker. 
+2. Eclipse.
+3. Glimmer-Bane. 
+4. Heat-Death. 
+5. Iron-Oath. 
+6. Sin-Reaver.
+7. Truth-Teller.
+
+## Ownership.
+
+Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
+
+## Ownership: Charm-beaker.
+
+Charm Breaker. Amar Rookmoon’s sword. Cardigan took it from Ra, then gave it to Amar.
+
+## Ownership: Glimmer-Bane
+Glimmer Bane. Modwinn gets Glimmer Bane from Laucian Asknäve. Laucian Asknäve got Glimmer Bane from Darian Chalk. Drek Val gave his sword to Darian Chalk.
+
+## Ownership: Heat-death.
+Heat Death. Zutlieg’s sword. Zillith gave this sword to Zutlieg. Selendor gave this sword to Zillif. Sir Reinhold gave this to Selendor.
+
+## Ownership: Iron Oath.
+Iron’s Oath. Isilynor Pranäe got Un-Trul’s sword. Un-Trul’s Sword. Aarlak gave Iron Oath to Un-Trul.
+
+## Ownership: Sin-Reaver.
+- Sin Reaver. 
+- Allisee’s sword. 
+- Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
+
+## Ownership: Truth-teller.
+- Truth Teller. 
+- Selenor’s sword. 
+- Acquired by Selenor from the Broken Lord.
+
+## Ownership: Eclipse.
+- Eclipse: Still in the hands of the Hag Queen.
+
+## Truth-teller.
+- Truth-teller. 
+- Selenor's sword.
+
+## Overview.
 
 The High-Vale blades were crafted in High-Vale, the mountaintop cities of the Runewild elves.
 
@@ -14,7 +58,7 @@ Each High-Vale blade is a level 10 item.
 
 Each High-Vale blade has a unique name and a unique property.
 
-High-Vale Shifting.
+## High-Vale Shifting.
 
 Each High-Vale blade has a shifting rune.
 
@@ -32,7 +76,7 @@ NOTE:
 
 The weapon empowered by the ritual still retains its normal potency and striking runes.
 
-When you empower a weapon make sure to note down what the weapon’s normal runes are.
+When you empower a weapon, make sure to note down what the weapon’s normal runes are.
 
 If your longbow is +1 striking, make sure to write that down before setting the runes on Foundry to be +2 striking.
 
@@ -50,9 +94,10 @@ If you practised with a weapon every day but didn't have enough power to wield t
 
 If you have studied the arcane methodologies, theorems and lore, then perhaps you shall become a wizard.
 
-If you have studied the arcane methodologies, theorems and lore then perhaps you shall become a wizard.
+If you have studied the arcane methodologies, theorems and lore, then perhaps you shall become a wizard.
 
-If you have long worshipped a god and stayed true to their tenets then the god may take notice that your soul has the capacity to wield a fraction of their power and you may become a cleric, champion, oracle, monk or witch.
+- Have you worshipped a god and stayed true to their tenets? 
+  - The god may take notice that your soul has the capacity to wield a fraction of their power, and you may become a cleric, champion, oracle, monk or witch.
 
 Your soul may infuse your mind to help you create your innovative so that you may walk the path of the inventor.
 
