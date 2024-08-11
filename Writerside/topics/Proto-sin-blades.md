@@ -153,12 +153,11 @@ Firearm training comes more naturally to you now as your soul ensures your aim s
    - When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage. 
    - A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
 6. Sin Reaver.
-   - Only a lawful creature can attune to this weapon.
+   - Only a lawful creature can wield this weapon.
    - When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7 points of slashing damage.
    - A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn. 
    - Detect Lawfulness.
 7. Truth Teller.
-   - While you wield this weapon, you have an advantage on Will Saves (Intelligence ability checks) made to discern or 
-      disbelieve illusions.
+   - While you wield this weapon, you have an advantage on Will Saves made to discern or disbelieve illusions.
    - A creature that has lied to you or tried to deceive you within the past 24 hours takes 7 points of fire damage whenever it touches the sword or is hit by a mêlée attack you make with it.
-   - The wielder cannot lie and –4 to deception checks
+   - The wielder cannot lie and –4 to deception checks.

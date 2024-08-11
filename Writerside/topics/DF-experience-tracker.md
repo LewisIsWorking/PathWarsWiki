@@ -250,6 +250,8 @@ Large.
 
 ## Session 218. 2025 August 4th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 7.
 
+- Sir Rutford and the dragon riders.
+
 Ghost Knights X6.
 10 = 40 × 6 = 240.
 11 = 30 × 6 = 180.
@@ -276,6 +278,41 @@ Totals.
   1. Selenor. Level 11. Total = 430 + 260 = 690.
   2. Cardigan. Level 11. Total = 1085 + 260 = 1345. 145 OVER. New Total = 120/1200.
      - Ghosts knights x 3 (120) = 1085 + 120 = 1205. Level 12 = Sir Rutford (60) + 3 Knights (60) = 120 = 120/1200.
+
+**Not present for this fight.**
+
+- Level 10.
+  1. Verda Sparrow. Level 10. Total = 50.
+  2. Laucian. Level 10. Total = 80.
+  3. Amar Rookmoon. Level 10. Total = 215.
+
+- Hoard of Spectral dragon riders. 
+
+The Hoard.
+  - Level 10 = 80 x 1 = 80.
+  - Level 11 = 60 x 1 = 60.
+  - Level 12 = 40 x 1 = 40.
+
+Armoured dragon rider skeletons.
+- Level 10 or higher = 0.
+
+Totals.
+- Level 10 = 80.
+- Level 11 = 60.
+- Level 12 = 40.
+
+**Present characters.**
+
+- Level 10. + 80.
+  1. Locus, The Expanding Void. Level 10. Total = 535 + 80 = 615.
+
+- Level 11. + 60.
+  1. Selenor. Level 11. Total = 690 + 60 = 750.
+  2. Allisee Tra-Umna. Level 11. Total = 90 + 60 = 150.
+  3. Lt. Viole Jule Grace. Level 11. Total = 0 + 60 = 60.
+
+- Level 12. + 40.
+  1. Cardigan. Level 11. Total = 120.
 
 **Not present for this fight.**
 
