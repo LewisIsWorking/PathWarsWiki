@@ -237,9 +237,9 @@ Usually too proud to fear, but will if shown he is weaker
    along the way all that was left was strange markings on the walls and a lone child on an altar fast asleep.
 4. The group thought long and hard about what to do with the child eventually Domini stepped up to take the child as
    her own as it was innocent and needed someone to protect it.
-5. Domini Grace, elf 539 years old Inventor.
+5. Domini Grace, elf 539-year-old Inventor.
 6. Savior Sliver hold, Dwarf 400 years old Fighter.
-7. Harrison Jule, human 249 years old Druid.
+7. Harrison Jule, human 249-year-old Druid.
 8. Shoom, Leshy ??? Years old. Kineticist (Note: Exclusively speaks wild-song, druids accept this to regular people all he says is Shoom in
    various tones. Will use Fey with Viole).
 

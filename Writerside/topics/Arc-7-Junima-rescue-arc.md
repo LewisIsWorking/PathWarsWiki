@@ -274,5 +274,9 @@ Locus slowed 1 until round 11.
 20:30.
 Ghost fight over.
 
-## Session 217. 2024 August 10th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 7.
+## Session 218. 2024 August 10th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 7.
+
+Viole Jule Grace joins the group.
+
+21:00.
 
