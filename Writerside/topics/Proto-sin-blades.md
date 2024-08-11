@@ -150,7 +150,7 @@ Firearm training comes more naturally to you now as your soul ensures your aim s
    - At the end of each of its turns, the creature can repeat the saving throw to end the effect.
 5. Iron’s Oath. 
    - While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical). 
-   - When you hit a plant creature with this weapon, that creature takes extra 7 points of slashing damage. 
+   - When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage. 
    - A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
 6. Sin Reaver.
    - Only a lawful creature can attune to this weapon.
