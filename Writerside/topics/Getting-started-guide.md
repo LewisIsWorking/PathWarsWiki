@@ -88,7 +88,7 @@ Is this stuff always going to happen?
 One or more items on the following list may never occur in a Path-War campaign;
 however, it is important that the possibility is made clear so that people aren’t put off if such a thing happened.
 
-## Horror.
+### Horror.
 
 1. Bugs
 2. Blood
@@ -100,7 +100,7 @@ however, it is important that the possibility is made clear so that people aren�
 8. Rats
 9. Spiders
 
-## Relationships.
+### Relationships.
 
 1. Romance.
 2. Romance with a fade to black
@@ -123,7 +123,7 @@ however, it is important that the possibility is made clear so that people aren�
 19. Violent Conflict between PCs
 20. Betrayal between PCs
 
-## Social and Cultural Issues.
+### Social and Cultural Issues.
 
 1. Homophobia
 2. Racism
@@ -132,7 +132,7 @@ however, it is important that the possibility is made clear so that people aren�
 5. Transphobia
 6. Specific Cultural Issues
 
-## Mental and Physical Health.
+### Mental and Physical Health.
 
 1. Cancer
 2. Claustrophobia
@@ -152,7 +152,7 @@ however, it is important that the possibility is made clear so that people aren�
 16. Torture
 17. Thirst
 
-## How Do You Feel About the Permanent Death of Player Characters?
+### How Do You Feel About the Permanent Death of Player Characters?
 
 “I’m OK with it.”
 
@@ -163,11 +163,11 @@ or the party decides not to resurrect your character.
 
 This needs to be accepted before play can begin.
 
-## How Do You Feel About the Permanent Death of Significant NPCs?
+### How Do You Feel About the Permanent Death of Significant NPCs?
 
 You need to be OK with the fact that significant NPCs may die and be permanently dead.
 
-## Additional: Slavery.
+### Additional: Slavery.
 
 All of the above comes from the RPG Safety kit.
 
@@ -183,7 +183,7 @@ You need to be OK with:
 This is all I think of in regard to slavery.
 If anyone has any suggestions on how the slavery content list could be expanded, please let me know.
 
-## Additional: Comedy.
+### Additional: Comedy.
 
 I’ve also added this section.
 
@@ -198,7 +198,7 @@ and ensure
 people are prepared for the possibility of jokes
 being made by anyone involved in the campaign or from the community as a whole.
 
-## Additional: Other. 
+### Additional: Other. 
 
 Per suggestions from players, I will add:
 
@@ -206,7 +206,7 @@ Per suggestions from players, I will add:
 2. Anxiety.
 3. Disabilities.
 
-## Suggestions.
+### Suggestions.
 
 If you have any ideas on how to extend out the content warning list, please let me know.
 
@@ -234,7 +234,7 @@ Discord invite link:
 
 [https://discord.gg/nAxna2DBk7](https://discord.gg/nAxna2DBk7)
 
-## Establishing The Character’s Lore.
+## What's next? Establishing The Character’s Lore.
 
 With these steps, we will establish the character alongside their backstory, traits, appearance and more!
 
@@ -250,7 +250,7 @@ Go here and paste the table onto your writerside instance OR your word processor
 If you need information on the world, check out:
 - [Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
 
-## OPTIONAL: GitHub.
+### OPTIONAL: GitHub.
 
 - Put your character's lore into a Writerside project.
 - Create a GitHub repo.
@@ -263,11 +263,13 @@ I can’t wait to meet them. 😃
 
 End of Page.
 
-## Learn the rules.
+## What's next? Learning the rules.
 
 It is time to learn!
 Don’t worry, this is the fun kind of learning.
 You can learn as you go!
+There's no pressure. 
+:)
 
 ## Step #5 = Paizo Variant Rules.
 
@@ -300,27 +302,17 @@ I will go through this with you to integrate you into the campaign.
 
 The next steps are all about making the character.
 
-## Step #7 = **3rd Party Content.**
-
-Next step.
-
-[Path Builder 2e + Character Creation.](Pathbuilder-setup.md)
-
-**3rd Party Content.**
-
-Check the 3rd party page to find out what is available.
-
-[3rd Party Content.](https://www.notion.so/3rd-Party-Content-7bd26049ed604612b331daeaac49d9b7?pvs=21)
-
 ## Step #8 = Path Builder 2e + Character Creation.
 
 Time to actually make your character’s stats and abilities.
 
-[Pathbuilder 2e Setup.](https://www.notion.so/Pathbuilder-2e-Setup-c43e1441d38d452b839ea6c36bcfd069?pvs=21)
+Here is how to set up Path Builder 2e.
+
+- [Path Builder 2e.](Pathbuilder-setup.md)
 
 The link to Path-Builder is here:
 
-[Pathbuilder 2e](https://pathbuilder2e.com/app.html)
+- [Pathbuilder 2e](https://pathbuilder2e.com/app.html)
 
 **Go on Path-Builder.**
 
@@ -348,6 +340,12 @@ Options → Tick the Dual Class box.
 
 ## **NOTE ABOUT = Selecting 3rd party content on Pathbuilder: **
 
+**3rd Party Content.**
+
+Check the 3rd party page to find out what is available.
+
+- [3rd-party-content-and-options.md](3rd-party-content-and-options.md)
+
 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 
 To use 3rd party content, you will need to add it in Foundry manually.
@@ -356,7 +354,7 @@ Ask me about this!
 
 Some 3rd party content may already be available in Foundry thanks to community modules.
 
-## **NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.**
+## NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.
 
 Before selecting anything with these traits, make sure you read:
 
