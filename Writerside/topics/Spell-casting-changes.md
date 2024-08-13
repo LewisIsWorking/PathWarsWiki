@@ -1,8 +1,16 @@
 # Spell casting changes
 
-Start typing here...
+**IF YOU DON'T WANT TO USE THESE CHANGES, YOU DON'T HAVE TO!!!!!!**
 
-## Spell casting overhaul
+"The biggest change is mostly this makes casters the ultra utility knife" - A player.
+
+## The Spell casting overhaul.
+
+- Unlimited Signature Spells.
+- All of your spells are signature spells.
+- That means that if you know a spell, you can heighten it freely by casting it from a higher-level spell slot,
+  up to the maximum level of spell you can cast. 
+- You can similarly cast any of its lower-level versions without learning them separately.
 
 1. Once you prepare a spell in a single slot, you can cast it at any heightened level at the cost of a spell of that level.
 2. Once you cast a spell, you can continue casting that spell with other spell slots even if the prepared slot is expended.

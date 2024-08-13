@@ -279,4 +279,11 @@ Ghost fight over.
 Viole Jule Grace joins the group.
 
 21:00.
+- Dragon rider skeleton hoard fight.
+- Take a breather & refocus.
 
+21:10.
+
+21:30.
+
+Allisee's mum is Yubis Dara!
