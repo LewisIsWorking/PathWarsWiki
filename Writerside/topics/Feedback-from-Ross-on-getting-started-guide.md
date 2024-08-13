@@ -119,18 +119,23 @@ This category, all about the rules and how build a character within the rules, i
 Strange choice IMO.
 Those next to the 3rd party content, would be a better fit.
 
-3rd party content. Why is there a link to a pathbuilder guide first, unrelated to the topic title? Move it to the pathbuild topic. 
-Not only that, but you have two links that do the same thing? one in github and one in notion?
+3rd party content.
+
+Why is there a link to a pathbuilder guide first, unrelated to the topic title? 
+Move it to the pathbuilder topic. 
+Not only that, but you have two links that do the same thing? One in github and one in notion?
 
 Pathbuilder 2e.
 
-Setup link at the front is strange, because why do you have a link to a set up guide before a link to the actual app? All the info in this topic is just a repeat on what is in notion. Get rid of the notion link.
+Setup link at the front is strange, because why do you have a link to a set-up guide before a link to the actual app?
+All the info in this topic is just a repeat on what is in notion.
+Get rid of the notion link.
 
 Pick your equipment.
 Good Stuff
-Feat, races, items, spells don't have any entries in the spreadshet. Even a simple "All races regardless of rarity" in their specific page is enough, or get rid of the page entirely.
+Feat, races, items, spells don't have any entries in the spreadsheet. Even a simple "All races regardless of rarity" in their specific page is enough, or get rid of the page entirely.
 
-Bro just complete the list there's only 206 of them, and most of them are common
+Bro, just complete the list, there's only 206 of them, and most of them are common.
 
 Buy the full version.
 Why is this not at the top of the pathbuilder topic to be said while introducing pathbuilder itself?

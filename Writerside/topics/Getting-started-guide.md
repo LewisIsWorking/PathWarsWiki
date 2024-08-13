@@ -346,19 +346,21 @@ For dual-class it would be:
 
 Options → Tick the Dual Class box.
 
-## **NOTE ABOUT = Selecting 3rd party content: **
+## **NOTE ABOUT = Selecting 3rd party content on Pathbuilder: **
 
 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 
 To use 3rd party content, you will need to add it in Foundry manually.
 
-Contact your GM about this as some 3rd party content may already be available in Foundry thanks to community modules.
+Ask me about this! 
+
+Some 3rd party content may already be available in Foundry thanks to community modules.
 
 ## **NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.**
 
 Before selecting anything with these traits, make sure you read:
 
-[Rarity-Lock-Status-Tracker.md = Uncommon/Rare/Unique.](Rarity-Lock-Status-Tracker.md)
+- [Rarity-Lock-Status-Tracker.md = Uncommon/Rare/Unique.](Rarity-Lock-Status-Tracker.md)
 
 **Create your character.**
 
