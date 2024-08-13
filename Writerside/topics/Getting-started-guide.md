@@ -397,7 +397,7 @@ Now fill out your character on Pathbuilder 2e:
 
 Here is the Starting Wealth table:
 
-![StartingWealthTable.png](StartingWealthTable.png)
+![StartingWealthTable.png](../images/StartingWealthTable.png)
 
 This table explains what items you start with.
 
