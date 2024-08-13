@@ -2,6 +2,11 @@
 
 ## REQUIREMENT #1 = ONLY JOIN IF YOU ARE 18+
 
+- Before you can join any Path Wars campaign, you must be 18+.
+- If you are under 18, then I am afraid we cannot and will not let you play.
+- Most players will be in their 20s and do not want to play with children.
+- If you are under 18: PLEASE LEAVE THE DISCORD SERVER AND TELEGRAM GROUP.
+
 ## REQUIREMENT #2 = ONLY JOIN IF YOU CAN COMMIT TO MULTIPLE SESSIONS + SHOW UP TO SESSIONS + PLAY IN THE LONG TERM.
 
 ## REQUIREMENT #3 = ONLY JOIN IF YOU ARE COMFORTABLE WITH THE CONTENT GUIDE.
@@ -29,16 +34,6 @@ If you need any help, please reach out to the GM on Telegram or Discord.
 - Most of the variant rules are optional, you can be as vanilla as you like!
 - No prior Pathfinder, dnd or TTRPG experience is required to play with us, absolute noobs and hardened veterans are both completely welcome. :)
 - There's a lot of information on this GitHub, you don't need to read any of it, we are just playing a game here, it is all just for fun. The information is just here on GitHub for people to look up & reference if they want to.
-
-## 18+
-
-Before you can join any Path Wars campaign, you must be 18+.
-
-If you are under 18, then I am afraid we cannot and will not let you play.
-
-Most players will be in their 20s and do not want to play with children.
-
-If you are under 18: PLEASE LEAVE THE DISCORD SERVER AND TELEGRAM GROUP.
 
 ## Unlocking the Discord.
 
