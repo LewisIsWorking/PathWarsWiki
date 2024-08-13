@@ -306,6 +306,20 @@ The next steps are all about making the character.
 
 Time to actually make your character’s stats and abilities.
 
+### Buying the Full Version of Path-Builder 2e.
+
+Should you buy the full version?
+
+You don't need to!
+
+Buying the full version of Path-builder 2e is worth it.
+
+All the campaigns on this server are multi-year 100+ session campaigns, you will get your value for money.
+
+Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
+
+### Pathbuilder setup.
+
 Here is how to set up Path Builder 2e.
 
 - [Path Builder 2e.](Pathbuilder-setup.md)
@@ -314,11 +328,11 @@ The link to Path-Builder is here:
 
 - [Pathbuilder 2e](https://pathbuilder2e.com/app.html)
 
-**Go on Path-Builder.**
+### Go on Path-Builder.
 
 Go to Path-Builder's character builder web application.
 
-**Enable the variant rules.**
+### Enable the variant rules.
 
 Enable the variant rules that are applicable to your campaign.
 
@@ -326,7 +340,7 @@ To find out what variant rules you need to enable, check here:
 
 [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 
-**How to enable the variant rules.**
+### How to enable the variant rules.
 
 To enable variant rules on Path-Builder 2e do the following:
 
@@ -338,7 +352,7 @@ For dual-class it would be:
 
 Options → Tick the Dual Class box.
 
-### **NOTE ABOUT = Selecting 3rd party content on Pathbuilder: **
+### NOTE ABOUT = Selecting 3rd party content on Pathbuilder:
 
 **3rd Party Content.**
 
@@ -359,16 +373,17 @@ Some 3rd party content may already be available in Foundry thanks to community m
 Before selecting anything with these traits, make sure you read:
 
 - [Rarity-Lock-Status-Tracker.md = Uncommon/Rare/Unique.](Rarity-Lock-Status-Tracker.md)
+- You can play ANY background, class and/or race, regardless of their rarity.
 
-**Create your character.**
+### Create your character.
 
-To create your character, set your character to the level they will be playing at.
+To create your character, on pathbuilder set your character's level to the level they will be playing at.
 
-To find out what level your character should be, go to the section on this notion that has that campaign.
+To find out what level your character should be set to, ask the discord.
 
-Now: Pick your class, pick your race and pick your subrace.
-
-Go through each level and apply all your ability score boosts, make your feat selections, etc.
+Now fill out your character on Pathbuilder 2e: 
+- Pick your class, pick your race and pick your subrace. 
+- Go through each level and apply all your ability score boosts, make your feat selections, etc.
 
 ### Pick your equipment.
 
@@ -402,18 +417,6 @@ Examples:
 You can read about the lore increases homebrew rule here:
 
 [Lore Increases in Homebrew-rules.md](Homebrew-rules.md)
-
-### Buying the Full Version of Path-Builder 2e.
-
-Should you buy the full version?
-
-You don't need to!
-
-Buying the full version of Path-builder 2e is worth it.
-
-All the campaigns on this server are multi-year 100+ session campaigns, you will get your value for money.
-
-Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
 
 ## Foundry Virtual Table Top Time.
 
