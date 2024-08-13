@@ -69,7 +69,8 @@ While mostly it is just edgy jokes,
 if any of the possible story elements could make you unwilling to play,
 then this community / TTRPG experience is likely not for you.
 
-## Step #0 = Content Warning about Possible Content. The content guide checklist.
+## Step #0.
+### Content Warning about Possible Content. The content guide checklist.
 
 The list of possible things is taken from “The Digital RPG Consent Checklist”.
 
@@ -212,11 +213,12 @@ If you have any ideas on how to extend out the content warning list, please let 
 
 Telegram is the best way to reach me.
 
-## Become Social!
+### Become Social!
 
 The first steps are the socials we use to organise the sessions and to chat about Pathfinder and other stuff.
 
-## Step #1 = Telegram
+## Step #1.
+### Telegram.
 
 We use Telegram for out-of-game chat, and some in-session links and image sharing.
 
@@ -228,21 +230,24 @@ Click the link below:
 
 [https://t.me/Path_Wars](https://t.me/Path_Wars)
 
-## Step #2 = Discord.
+## Step #2.
+### Discord.
 
 Discord invite link:
 
 [https://discord.gg/nAxna2DBk7](https://discord.gg/nAxna2DBk7)
 
-## What's next? Establishing The Character’s Lore.
+### What's next? Establishing The Character’s Lore.
 
 With these steps, we will establish the character alongside their backstory, traits, appearance and more!
 
-## Step #3 = The Great Spoiler Warning.
+## Step #3.
+### The Great Spoiler Warning.
 
 Read = [Spoiler-avoidance-guide.md](Spoiler-avoidance-guide.md)
 
-## Step #4 = How to Build Your Character’s Life.
+## Step #4.
+### How to Build Your Character’s Life.
 
 Go here and paste the table onto your writerside instance OR your word processor of choice:
 - [Build YOUR Character’s Life HERE! Character-Lore-Builder.md](Character-Lore-Builder.md)
@@ -263,7 +268,7 @@ I can’t wait to meet them. 😃
 
 End of Page.
 
-## What's next? Learning the rules.
+### What's next? Learning the rules.
 
 It is time to learn!
 Don’t worry, this is the fun kind of learning.
@@ -271,7 +276,8 @@ You can learn as you go!
 There's no pressure. 
 :)
 
-## Step #5 = Paizo Variant Rules.
+## Step #5.
+### Paizo Variant Rules.
 
 - YOU DO NOT NEED TO USE A VARIANT RULE IF YOU DO NOT WANT TO. 
 - You do not need to use dual class, free archetype, etc. 
@@ -289,7 +295,8 @@ You can find a mostly complete list of the rule changes here.
 
 - [Homebrew Rule Changes.](Homebrew-rules.md)
 
-## Step #6 = Talk to the Game Master, me!
+## Step #6.
+### Talk to the Game Master, me!
 
 Reach out to me.
 Share your built-up character's lore.
@@ -298,11 +305,12 @@ We will integrate your character into the campaign.
 Check out my 5 plot threads rule on: [Homebrew-rules.md](Homebrew-rules.md).
 I will go through this with you to integrate you into the campaign.
 
-## What's up next? Building the character's stats and abilities!
+### What's up next? Building the character's stats and abilities!
 
 The next steps are all about making the character.
 
-## Step #8 = Path Builder 2e + Character Creation.
+## Step #7.
+### Path Builder 2e + Character Creation.
 
 Time to actually make your character’s stats and abilities.
 
@@ -418,13 +426,14 @@ You can read about the lore increases homebrew rule here:
 
 [Lore Increases in Homebrew-rules.md](Homebrew-rules.md)
 
-## Foundry Virtual Table Top Time.
+### Foundry Virtual Table Top Time.
 
 It is time to get started on getting you set up on Foundry.
 
 The following steps will get you ready for Foundry!
 
-## Step #9 = Foundry.
+## Step #8.
+### Foundry.
 
 We use Foundry to play Pathfinder on.
 
@@ -435,7 +444,7 @@ It's basically Roll20 if you've used that website before.
 - You don't need to download Forge/Foundry. 
 - You don't need to pay anything to use Forge/Foundry.
 
-## Download Link for Chrome.
+### Download Link for Chrome.
 
 I'd recommend downloading / using Chrome.
 
@@ -451,7 +460,8 @@ You can alternatively use Microsoft Edge for very close performance.
 
 Either one is totally fine. 😃
 
-## Step #10 = What is the Forge?
+## Step #9
+### What is the Forge?
 
 This step will get you set up on the Forge.
 
@@ -465,7 +475,8 @@ I pay per a month to have the Foundry world hosted on the forge.
 
 You do not need to pay anything.
 
-## Step #11 = Join The Forge Campaign
+## Step #10.
+#### Join The Forge Campaign
 
 Ask for a Forge invite link.
 
@@ -481,7 +492,8 @@ Done?
 
 If the link doesn't work, just ask on the telegram chat for a new one.
 
-## Step #12 = Request a Foundry User.
+## Step #11.
+### Request a Foundry User.
 
 Now that you have a Forge account, you can launch the game.
 
@@ -493,7 +505,8 @@ Foundry users must be created manually by the Foundry Admin, me!
 
 Request a Foundry user on the telegram group, and I will create a user for you.
 
-## Step #13 = Log into Foundry.
+## Step #12.
+### Log into Foundry.
 
 Watch this video before using Foundry VTT.
 
@@ -507,7 +520,8 @@ Input your password into the password text area.
 
 Click join game session!
 
-## Step #14 = Desktop-ing Foundry.
+## Step #13.
+### Desktop-ing Foundry.
 
 [What is "The Forge: More Awesomeness" module?](https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836)
 
@@ -518,43 +532,50 @@ Click join game session!
 - Click 'Install'. It doesn't actually install anything. 
 - Takes about 5 seconds to 'install'.
 
-## Step #15= Pick your player colour.
+## Step #14.
+### Pick your player colour.
 
 - Once you’ve logged in Foundry will prompt you to pick your player colour. 
 - Pick your colour. 
 - Continue to the next step!
 
-## Step #16 = Request a Character sheet.
+## Step #15.
+### Request a Character sheet.
 
 - Ask on Telegram for a character sheet.
 
-## Step #17 = Open your character sheet.
+## Step #16.
+### Open your character sheet.
 
 - In the top right corner of your screen on Foundry, there is an “actors” icon. 
 - Click the icon. 
 - You should see your character sheet.
 
-## Step #18= Set up your character sheet on the Forge VTT.
+## Step #17.
+### Set up your character sheet on the Forge VTT.
 
 - Go to the Forge VTT. 
 - Open your sheet. 
 - Drag in your class, feats, etc.
 - If stuck, ask for help.
 
-## Step #19= Pick a token image.
+## Step #18.
+### Pick a token image.
 
 - Find an image to be the image for your character's token.
 - This is the image that will represent your character on the virtual tabletop.
 - Save that image somewhere you can find.
 - Send me the image.
 
-## Step #21= Request Vision Setup + Token Placement.
+## Step #19.
+### Request Vision Setup + Token Placement.
 
 - Is your screen entirely black? 
 - Then your character has not yet been placed in the current scene. 
 - Request that the Game Master place your token and set up your token’s vision.
 
-## Step #22 = Other random things.
+## Step #20.
+### Other random things.
 
 ### Easy tools.
 - Here is a link to Easy Tools: https://pf2easy.com/tree/
@@ -595,7 +616,8 @@ If there's a problem, then there's a good chance we can talk it out and figure i
 
 It's Dublin/London.
 
-## Step #23 = The Final step. Everything might be ready?
+## Step #21.
+### The Final step. Everything might be ready?
 
 Final checks.
 
