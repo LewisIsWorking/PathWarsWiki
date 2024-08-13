@@ -10,7 +10,7 @@ Below are the getting-started files.
 
 [PF2e-Basic-Actions.md](PF2e-Basic-Actions.md)
 
-[Variant-rules.md](Variant-rules.md)
+[Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 
 You may additionally want to read:
 

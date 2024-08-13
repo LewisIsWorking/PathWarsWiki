@@ -30,27 +30,6 @@ If you need any help, please reach out to the GM on Telegram or Discord.
 - No prior Pathfinder, dnd or TTRPG experience is required to play with us, absolute noobs and hardened veterans are both completely welcome. :)
 - There's a lot of information on this GitHub, you don't need to read any of it, we are just playing a game here, it is all just for fun. The information is just here on GitHub for people to look up & reference if they want to.
 
-## Step #0 = Content Warning.
-
-## Unlocking the Discord.
-
-At the moment you will only be seeing a couple of public channels on the server, including the lobby.
-
-To unlock the rest of the server, please read the rest of the page.
-
-The “What To do Now” heading contains further information.
-
-## Why did I add step 0?
-
-After GMing for a long time, you come to realise that different people have different levels of tolerance for all kinds of different things.
-
-The intent of step 0 is to ensure that you as a potential new player are well are of possible in-game events, and the types of interpersonal interactions that can occur.
-
-This explanation is for the benefit of everyone
-as everyone is on the same page when it comes to expressing themselves without fear of upsetting someone else.
-
-Mostly it’s just edgy jokes.
-
 ## 18+
 
 Before you can join any Path Wars campaign, you must be 18+.
@@ -61,15 +40,36 @@ Most players will be in their 20s and do not want to play with children.
 
 If you are under 18: PLEASE LEAVE THE DISCORD SERVER AND TELEGRAM GROUP.
 
+## Unlocking the Discord.
+
+At the moment you will only be seeing a couple of public channels on the server, including the lobby.
+
+To unlock the rest of the server, please read the rest of the page.
+
+The “What To do Now” heading contains further information.
+
 ## What to do now!
 
-1. Please read the rest of step 0. This step describes the possible content that could come up in-game.
+1. Please read step 0. This step describes the possible content that could come up in-game.
 2. Please decide if you consent to this content being possibly in the game.
-3. Please mention “@PathWars” on discord in the “#guest” text channel.
-4. Then please let PathWars know that you are OK with this content possibly occurring in-game + over voice.
-5. Then PathWars will give you the campaign role which will unlock the rest of the server.
+3. Go to the ✅-join-the-campaign channel and tick the ✅ emoji.
 
-## Possible Content. The content guide checklist.
+## Why did I add step 0?
+
+After GMing for a long time,
+you come to realise that different people have different levels of tolerance for all kinds of different things.
+
+The intent of step 0 is to ensure that you as a potential new player are well are of possible in-game events,
+and the types of interpersonal interactions that can occur.
+
+This explanation is for the benefit of everyone
+as everyone is on the same page when it comes to expressing themselves without fear of upsetting someone else.
+
+While mostly it is just edgy jokes,
+if any of the possible story elements could make you unwilling to play,
+then this community / TTRPG experience is likely not for you.
+
+## Step #0 = Content Warning about Possible Content. The content guide checklist.
 
 The list of possible things is taken from “The Digital RPG Consent Checklist”.
 
@@ -167,7 +167,7 @@ This needs to be accepted before play can begin.
 
 You need to be OK with the fact that significant NPCs may die and be permanently dead.
 
-## Slavery.
+## Additional: Slavery.
 
 All of the above comes from the RPG Safety kit.
 
@@ -183,7 +183,7 @@ You need to be OK with:
 This is all I think of in regard to slavery.
 If anyone has any suggestions on how the slavery content list could be expanded, please let me know.
 
-## Comedy.
+## Additional: Comedy.
 
 I’ve also added this section.
 
@@ -198,9 +198,17 @@ and ensure
 people are prepared for the possibility of jokes
 being made by anyone involved in the campaign or from the community as a whole.
 
+## Additional: Other. 
+
+Per suggestions from players, I will add:
+
+1. Depression.
+2. Anxiety.
+3. Disabilities.
+
 ## Suggestions.
 
-If you have any ideas on how to extend this out, please let me know.
+If you have any ideas on how to extend out the content warning list, please let me know.
 
 Telegram is the best way to reach me.
 
@@ -208,31 +216,23 @@ Telegram is the best way to reach me.
 
 The first steps are the socials we use to organise the sessions and to chat about Pathfinder and other stuff.
 
-😃
-
 ## Step #1 = Telegram
 
-### Telegram
-
-We used Telegram for out-of-game chat, and some in-session links and image sharing.
+We use Telegram for out-of-game chat, and some in-session links and image sharing.
 
 The link to the Telegram group is below.
 
 All the links do the same thing.
 
-### Group Link.
-
 Click the link below:
 
-[Telegram](https://t.me/Path_Wars)
+[https://t.me/Path_Wars](https://t.me/Path_Wars)
 
 ## Step #2 = Discord.
 
-Discord invite link.
+Discord invite link:
 
-Normal link:
-
-https://discord.gg/nAxna2DBk7
+[https://discord.gg/nAxna2DBk7](https://discord.gg/nAxna2DBk7)
 
 ## Establishing The Character’s Lore.
 
@@ -271,28 +271,21 @@ You can learn as you go!
 
 ## Step #5 = Paizo Variant Rules.
 
-YOU DO NOT NEED TO USE A VARIANT RULE IF YOU DO NOT WANT TO.
-You do not need to use dual class, free archetype, etc.
-You can make a single class non-free-archetype character if you wish to do so.
+- YOU DO NOT NEED TO USE A VARIANT RULE IF YOU DO NOT WANT TO. 
+- You do not need to use dual class, free archetype, etc. 
+- You can make a single class non-free-archetype character if you wish to do so.
 
-Please read the following:
+Please read the following page:
 
-The rules in this table are the rules in play in each campaign.
-When you are making your character later in this guide, you need to keep the Variant rules in mind.
+- [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 
-For example.
-Most of the campaigns that I run use:
-
-1. Dual Class
-2. Free Archetype
-
-You can find out what Paizo Variant rules are used in the table linked above!
+You can find out what Paizo Variant rules are used in the page linked above!
 
 The campaigns ran in the Path War community have some homebrew rule changes.
 
 You can find a mostly complete list of the rule changes here.
 
-[Homebrew Rule Changes.](Homebrew-rules.md)
+- [Homebrew Rule Changes.](Homebrew-rules.md)
 
 ## Step #6 = Talk to the Game Master, me!
 
@@ -339,7 +332,7 @@ Enable the variant rules that are applicable to your campaign.
 
 To find out what variant rules you need to enable, check here:
 
-[Variant-rules](Variant-rules.md)
+[Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 
 **How to enable the variant rules.**
 

@@ -49,14 +49,14 @@
         <toc-element topic="The-colours-of-magic.md"/>
     </toc-element>
     <toc-element topic="Getting-started.md">
-        <toc-element topic="Feedback-from-Ross-on-getting-started-guide.md"/>
         <toc-element topic="Available-classes.md"/>
         <toc-element topic="Character-Lore-Builder.md"/>
+        <toc-element topic="Feedback-from-Ross-on-getting-started-guide.md"/>
         <toc-element topic="Getting-started-guide.md"/>
         <toc-element topic="Golarion-Lore-The-Spoiler-Free-Version.md"/>
+        <toc-element topic="Official-paizo-variant-rules.md"/>
         <toc-element topic="PF2e-Basic-Actions.md"/>
         <toc-element topic="Pathbuilder-setup.md"/>
-        <toc-element topic="Variant-rules.md"/>
         <toc-element topic="Writerside-setup.md"/>
     </toc-element>
     <toc-element topic="Other.md">

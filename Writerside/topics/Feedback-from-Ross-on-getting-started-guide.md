@@ -5,14 +5,18 @@ Start typing here...
 ## Feedback-from-Ross.
 
 Ross, [12/08/2024 17:32]
-The biggest issue I had with the getting started guide is the the layout, I think. Why have a 3 requirement titles, and also include the actual requirement as part of the title? There are also steps/topics that seem to be placed in nonsensical orders. Topics are also wildly different lengths for no sane reason. I'll go through each topic and lay out my issues with them, then send what a revised starting guide might look like.
+The biggest issue I had with the getting started guide is the layout, I think. 
+Why have a 3 requirement titles, and also include the actual requirement as part of the title? 
+There are also steps/topics that seem to be placed in nonsensical orders.
+Topics are also wildly different lengths for no sane reason. 
+I'll go through each topic and lay out my issues with them, then send what a revised starting guide might look like.
 
 Welcome section
 This one is actually pretty good, but maybe one paragraph instead of 4 separate lines?
 
-
 Before we go any further.
-This are pretty good things to include, but can also mostly go into the content guide or the welcome section, making it redundant.
+These are pretty good things to include,
+but can also mostly go into the content guide or the welcome section, making it redundant.
 
 Step #0 content warning
 (??? Where content warning??)
@@ -22,28 +26,48 @@ Unlocking the discord
 Most new people are coming from the discord, is this section really that necessary?
 
 Why did I add step 0?
-You have zero reason to explain yourself, a content guide is very self explanatory.
+You have zero reason to explain yourself; a content guide is very self-explanatory.
 
 18+
 Another redundant section, you can just say this under the requirements topic on the content guide.
 
 What to do now?
 Why is this not at the *end* of step 0?
-That way people don't have to remember to go *Back* to the discord link, and can just to the discord right from the point that they decide they're okay with the content guide.
+That way, people don't have to remember to go *Back* to the discord link,
+and can just to the discord right from the point that they decide they're okay with the content guide.
 
 Content guide
 Finally getting to the content guide that is mentioned half a page higher.
-This link doesn't work well? It's send you to a guide on how to make an editable checklist. Why not change it to a link that shows the actual content guide checklist.
-I think this could easily be a page one it's own, especially the way you have it set up. It's very fair to say "All of these things *can* happen in the campaign", but I feel like it might violate the spirit of the content guide in a way? A lot of these should also be justified, or at least elaborated upon. "Sex between PCs" for example.
-"Homophobia" is another that could be explained. Is your world openly discriminating against LGBT? Will every gay character face prosecution / social consequences? Is it only for specific places / regions / religions.
-Real-world religion. This will happen in the campaign? I don't think Golorian has any real world religions?
+
+This link doesn't work well? 
+It sends you to a guide on how to make an editable checklist. 
+Why not change it to a link that shows the actual content guide checklist.
+
+I think this could easily be a page one it is own, especially the way you have it set up. 
+
+It's very fair to say "All of these things *can* happen in the campaign",
+but I feel like it might violate the spirit of the content guide in a way?
+
+A lot of these should also be justified, or at least elaborated upon.
+"Sex between PCs", for example.
+
+"Homophobia" is another that could be explained. 
+Is your world openly discriminating against LGBT? Will every gay character face prosecution / social consequences? 
+Is it only for specific places / regions / religions.
+
+Real-world religion.
+This will happen in the campaign?
+I don't think Golarion has any real world religions?
 Sexism, same as homophobia
 Transphobia, same as homophobia
 Specific cultural issues. Do you have any in mind? It's a *very* broad topic.
 
 Mental and Physical health
-For one, I find it hilarious that 'Thirst' in the same category as 'freezing to death' and 'sexual assault'
-Torture, Sexual assault, terrorism, Pregnancy, Miscarriage, Abortion. Are all very controversial topics in the gaming space, so giving a brief explanation as to why you'd want them in your campaign would go a long way to eliminate potential red flags from new players.
+For one, I find it hilarious that 'Thirst' is in the same category as 'freezing to death' and 'sexual assault'
+Torture, Sexual assault, terrorism, Pregnancy, Miscarriage, Abortion. 
+They Are all very controversial topics in the gaming space, 
+so giving a brief explanation as to why you'd want them in your campaign would go a long way
+to eliminate potential red flags from new players.
 
 Permanent Character Death
 No notes
@@ -66,29 +90,35 @@ Telegram.
 Good description, but you repeat the same line twice for some reason.
 
 Discord.
-Why is this step 2, when most of the people join *from* discord, and why is this a separate step from telegram? More clunk.
+Why is this step 2, when most of the people join *from* discord, and why is this a separate step from the telegram? 
+More clunk.
 
 Establishing the Character's Lore.
 Spoiler warning is pretty good.
 
-Github optional should be a note under the lore guide, not it's own separate topic.
+GitHub optional should be a note under the lore guide, not its own separate topic.
 
 Learn the rules
 
 Good introduction,
 
-Paizo Varient rules
+Paizo Variant rules
 Good intro, good warnings.
 
 Homebrew rule changes.
-Excellent page, no notes.
+An excellent page, no notes.
 
 Paizo Optional rules linked under the top 'Optional Rules', not buried in the homebrew rules page.
 
 Ross, [12/08/2024 17:32]
 Talk to me
 This should either be the last step below the character creation guide, or the first step, Putting it in the middle is strange.
-Make the Character. This category, all about the rules and how build a character within the rules, is below the rule changes? Strange choice imo. Those next to the 3rd party content, would be a better fit.
+
+Make the Character. 
+This category, all about the rules and how build a character within the rules, is below the rule 
+changes?
+Strange choice IMO.
+Those next to the 3rd party content, would be a better fit.
 
 3rd party content. Why is there a link to a pathbuilder guide first, unrelated to the topic title? Move it to the pathbuild topic. Not only that, but you have two links that do the same thing? one in github and one in notion?
 
@@ -122,10 +152,11 @@ Why do you have two of the same links.
 These four steps are far too small to be separate topics.
 
 Install Foundry
-Once you have a forge account, it's just as simple as logging into the forge, and clicking the campaign. Why are people losing the links or the links breaking?
+Once you have a forge account, it is just as simple as logging into the forge, and clicking the campaign.
+Why are people losing the links or the links breaking?
 
 Pick your player colour
-Does this really need to be it's own separate step?
+Does this really need to be its own separate step?
 
 Request a character sheet
 Good
