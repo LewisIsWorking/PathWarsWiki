@@ -338,7 +338,7 @@ For dual-class it would be:
 
 Options → Tick the Dual Class box.
 
-## **NOTE ABOUT = Selecting 3rd party content on Pathbuilder: **
+### **NOTE ABOUT = Selecting 3rd party content on Pathbuilder: **
 
 **3rd Party Content.**
 
@@ -354,7 +354,7 @@ Ask me about this!
 
 Some 3rd party content may already be available in Foundry thanks to community modules.
 
-## NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.
+### NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.
 
 Before selecting anything with these traits, make sure you read:
 
@@ -370,17 +370,34 @@ Now: Pick your class, pick your race and pick your subrace.
 
 Go through each level and apply all your ability score boosts, make your feat selections, etc.
 
-## **Pick your equipment.**
+### Pick your equipment.
 
 Here is the Starting Wealth table:
 
 ![StartingWealthTable.png](StartingWealthTable.png)
 
-This page explains what items you start with.
+This table explains what items you start with.
 
 You need to consult the table by using your level to determine what equipment you start with.
 
-**Apply lore increases.**
+- https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1
+
+^ The link has the rules for starting items.
+
+Examples:
+
+- 9th Level Items. One 8th. Two 7th. One 6th. Two 5th. 250 GP.
+- 11th Level Items. One 10th, two 9th, one 8th, two 7th. 
+- 12th Level Items. One 11th. Two 10th. 1 9th. 2 8th. 700 GP. 
+- 13th Level Items. 12th level item x 1. 11th level item x 2. 10th level item x 1. 9th level item x 2. 1,000 Gold Pieces.
+
+**Bag of holding costs.**
+- Type 1 = 4th level item. 75 GP. 
+- Type 2 = 7th level item. 300 GP. 
+- Type 3 = 11th level item. 1,200 GPs. 
+- Type 4 = 13th level item. 2,400 GPs.
+
+### Apply lore increases.
 
 You can read about the lore increases homebrew rule here:
 
