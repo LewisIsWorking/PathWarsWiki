@@ -536,7 +536,8 @@ Click join game session!
 ### Pick your player colour.
 
 - Once you’ve logged in Foundry will prompt you to pick your player colour. 
-- Pick your colour. 
+- Pick your colour.
+- You can change it in the bottom left corner by right clicking on your username.
 - Continue to the next step!
 
 ## Step #15.
