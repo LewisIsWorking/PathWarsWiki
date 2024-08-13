@@ -181,7 +181,7 @@ This is good.
 Everything might be ready.
 Not a bad checklist.
 Additional reading
-There really is no need to re link this link.
+There really is no need to re-link this link.
 
 Ross, [12/08/2024 17:34]
 # Most important things to have when joining this campaign

@@ -507,111 +507,74 @@ Input your password into the password text area.
 
 Click join game session!
 
-[Step 16 | Install Foundry.](https://www.notion.so/Step-16-Install-Foundry-6bb20fc0486549489f62719c1e30a026?pvs=21)
-
-## Step #14 = Install Foundry.
-
-Tired of asking what the link to get onto Foundry is?
-
-Well, this is one of the benefits of installing Foundry VTT.
-
-Article explanation:
+## Step #14 = Desktop-ing Foundry.
 
 [What is "The Forge: More Awesomeness" module?](https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836)
 
-Click the button.
+- Click the button:
 
-Install.
+![DesktopFoundryButton.png](DesktopFoundryButton.png)
 
-Done.
-
-Takes about 5 seconds to install.
-
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd951d25-ddb6-4d77-a91c-c683626a5a7e/Untitled.png
-
-Video showing the application:
+- Click 'Install'. It doesn't actually install anything. 
+- Takes about 5 seconds to 'install'.
 
 ## Step #15= Pick your player colour.
 
-Once you’ve logged in Foundry will prompt you to pick your player colour.
-
-Pick your colour.
-
-Continue to the next step!
+- Once you’ve logged in Foundry will prompt you to pick your player colour. 
+- Pick your colour. 
+- Continue to the next step!
 
 ## Step #16 = Request a Character sheet.
 
-Ask on Telegram for a character sheet.
+- Ask on Telegram for a character sheet.
 
 ## Step #17 = Open your character sheet.
 
-In the top right corner of your screen on Foundry, there is an “actors” icon.
+- In the top right corner of your screen on Foundry, there is an “actors” icon. 
+- Click the icon. 
+- You should see your character sheet.
 
-Click the icon.
+## Step #18= Set up your character sheet on the Forge VTT.
 
-Go to the folder of the campaign you’ve joined.
-
-Go to the player active folder.
-
-Your character sheet should be there.
-
-If you are Crimson Throne then:
-
-Crimson Throne Players → Open Table | Players Active.
-
-## Step #18= Import your character to Foundry.
-
-Next step.
-
-[Step 21 | Pick a token image.](https://www.notion.so/Step-21-Pick-a-token-image-10b281673a3f4e28adeba7b719f1e816?pvs=21)
-
-Go to Foundry VTT.
-
-Open your sheet.
-
-Drag in feats.
-
-The Pathbuilder importer is broken.
-
-[Making a PC · Wiki · Hooking / Foundry VTT - Pathfinder 2e](https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/wikis/Getting-Started-Guide/Making-a-PC#dual-class-pcs)
+- Go to the Forge VTT. 
+- Open your sheet. 
+- Drag in your class, feats, etc.
+- If stuck, ask for help.
 
 ## Step #19= Pick a token image.
 
-Find an image to be your character's token's image.
-
-This is the image that will represent your character on the virtual tabletop.
-
-Save that image somewhere you can find.
-
-There is a module with thousands of free premium ones on Foundry.
-
-## Step #20 = Send the token image.
-
-Take the token image from the previous step and send it to the Game Master of the campaign.
+- Find an image to be the image for your character's token.
+- This is the image that will represent your character on the virtual tabletop.
+- Save that image somewhere you can find.
+- Send me the image.
 
 ## Step #21= Request Vision Setup + Token Placement.
 
-Is your screen entirely black?
+- Is your screen entirely black? 
+- Then your character has not yet been placed in the current scene. 
+- Request that the Game Master place your token and set up your token’s vision.
 
-Then your character has not yet been placed in the current scene.
+## Step #22 = Other random things.
 
-Request that the Game Master place your token and set up your token’s vision.
+**Easy tools.**
+- Here is a link to Easy Tools: https://pf2easy.com/tree/
+- Click the burger menu in the top right.
+- Click “Filter Content”.
+- Click “Player Mode”.
+- Apply.
 
-## Step #22 = What you need to know.
+**Stating actions.**
+- Saying things aloud is essential:
+  1. If you didn't say you did it then you didn't do it.
+  2. If you don't have the item on your sheet, you don't have the item.
+  3. If you didn't say out loud that you looted an item then you didn't loot an item.
+  4. If you didn't buy an item then you didn't buy an item. 
 
-Read this page:
+- If I didn't hear you say it, it didn't happen.
+- Please make sure I can hear you properly.
 
-[Other Starter Things.](https://www.notion.so/Other-Starter-Things-c8eba2ed98b44e2eb9aa4b84a5107095?pvs=21)
-
-It contains important things you as a player need to know.
-
-There’s a page that explains how to leave a campaign.
-
-There’s a page that warns about the possibility of ERP.
-
-There’s a page that tells you what time zone the campaign is.
-
-There’s a page about the rune on stating actions.
+Why is this a thing? 
+- It's to set a standard to avoid arguments where, for example, someone's character dies.
 
 ## Final Steps.
 
