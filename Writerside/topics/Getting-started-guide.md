@@ -372,7 +372,9 @@ Go through each level and apply all your ability score boosts, make your feat se
 
 ## **Pick your equipment.**
 
-[Starting Items Table!](https://www.notion.so/Starting-Items-Table-14c2d3b094e443febac7b933a6dd0b2d?pvs=21)
+Here is the Starting Wealth table:
+
+![StartingWealthTable.png](StartingWealthTable.png)
 
 This page explains what items you start with.
 
