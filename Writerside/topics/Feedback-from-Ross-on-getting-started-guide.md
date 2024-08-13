@@ -120,7 +120,8 @@ changes?
 Strange choice IMO.
 Those next to the 3rd party content, would be a better fit.
 
-3rd party content. Why is there a link to a pathbuilder guide first, unrelated to the topic title? Move it to the pathbuild topic. Not only that, but you have two links that do the same thing? one in github and one in notion?
+3rd party content. Why is there a link to a pathbuilder guide first, unrelated to the topic title? Move it to the pathbuild topic. 
+Not only that, but you have two links that do the same thing? one in github and one in notion?
 
 Pathbuilder 2e.
 
