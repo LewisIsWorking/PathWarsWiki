@@ -89,6 +89,8 @@ Is this stuff always going to happen?
 One or more items on the following list may never occur in a Path-War campaign;
 however, it is important that the possibility is made clear so that people aren’t put off if such a thing happened.
 
+- Any of these topics could also come up in conversation over voice on discord or on text on the telegram.
+
 ### Horror.
 
 1. Bugs
