@@ -527,7 +527,7 @@ Click join game session!
 
 - Click the button:
 
-![](DesktopFoundryButton.png)
+![DesktopFoundryButton.png](../images/DesktopFoundryButton.png)
 
 - Click 'Install'. It doesn't actually install anything. 
 - Takes about 5 seconds to 'install'.
