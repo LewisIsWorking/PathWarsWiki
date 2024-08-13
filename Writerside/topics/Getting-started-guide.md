@@ -578,6 +578,8 @@ Click join game session!
 ## Step #20.
 ### Other random things.
 
+Below are other random hopefully helpful things.
+
 ### Easy tools.
 - Here is a link to Easy Tools: https://pf2easy.com/tree/
 - Click the burger menu in the top right.
