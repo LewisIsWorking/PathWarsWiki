@@ -9,7 +9,7 @@ TODO: Not to self, move Notion content over.
 ## DF Arc list.
 
 ### 1. Skull Hill Arc. Session 134 -> 138.
-- The moon flower.
+- The Moon-Flower.
 - Drekk-Zal used the power of lunar magic to defeat the moon flower.
 ### 2. Collapsing Halls Arc. Session 142 → 146.
 ### 3. Truth Teller Arc. Session 148 → 150.
