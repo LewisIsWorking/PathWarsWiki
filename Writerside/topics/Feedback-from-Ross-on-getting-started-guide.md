@@ -115,8 +115,7 @@ Talk to me
 This should either be the last step below the character creation guide, or the first step, Putting it in the middle is strange.
 
 Make the Character. 
-This category, all about the rules and how build a character within the rules, is below the rule 
-changes?
+This category, all about the rules and how build a character within the rules, is below the rule changes?
 Strange choice IMO.
 Those next to the 3rd party content, would be a better fit.
 

@@ -296,7 +296,7 @@ We will integrate your character into the campaign.
 Check out my 5 plot threads rule on: [Homebrew-rules.md](Homebrew-rules.md).
 I will go through this with you to integrate you into the campaign.
 
-## Make the character.
+## What's up next? Building the character's stats and abilities!
 
 The next steps are all about making the character.
 
