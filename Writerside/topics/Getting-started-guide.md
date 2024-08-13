@@ -439,32 +439,15 @@ It's basically Roll20 if you've used that website before.
 
 I'd recommend downloading / using Chrome.
 
-I'll explain why below in the good/bad section.
+- Foundry is made to work with Chrome.
+- Chrome will offer you the best performance.
+- Chrome will offer you the best user experience.
 
 You don't NEED to use Chrome, but I do recommend it.
 
 - [Google Chrome](https://www.google.com/intl/en_uk/chrome/)
 
-## The Bad News
-
-Foundry is made to work with Chrome.
-
-Chrome will offer you the best performance.
-Chrome will offer you the best user experience.
-
-Chrome isn't my favourite browser either.
-
-## The Good News
-
-Once you get into Foundry on Chrome, you will install Foundry.
-
-After that, you will be using Foundry as an application.
-
-**OR**
-
-You can use Microsoft Edge to do the same thing!
-
-You can both use Foundry and install it using Edge.
+You can alternatively use Microsoft Edge for very close performance.
 
 Either one is totally fine. 😃
 
@@ -478,9 +461,9 @@ The Forge is a server-hosting platform.
 
 The Forge hosts Foundry worlds.
 
-We play Pathfinder 2e on Foundry.
-
 I pay per a month to have the Foundry world hosted on the forge.
+
+You do not need to pay anything.
 
 ## Step #11 = Join The Forge Campaign
 
@@ -491,11 +474,12 @@ You need to create an account.
 Once you have done that, you will be an official player in the campaign.
 
 Done?
-Congratulations you are now on Foundry and an official player!
+
+**_Congratulations you are now on Foundry and an official player!_**
 
 ### “BUT THIS LINK DOESN'T WORK!!!”
 
-If the link doesn't work, just ask on the telegram for a new one.
+If the link doesn't work, just ask on the telegram chat for a new one.
 
 ## Step #12 = Request a Foundry User.
 
@@ -505,7 +489,7 @@ This will take you to the Foundry login screen.
 
 To log into Foundry, you need a Foundry User.
 
-Foundry users must be created manually by the Foundry Admin.
+Foundry users must be created manually by the Foundry Admin, me!
 
 Request a Foundry user on the telegram group, and I will create a user for you.
 
@@ -513,11 +497,7 @@ Request a Foundry user on the telegram group, and I will create a user for you.
 
 Watch this video before using Foundry VTT.
 
-https://www.youtube.com/watch?v=ja88yRVQmck
-
-Embed.
-
-https://youtu.be/ja88yRVQmck
+- https://www.youtube.com/watch?v=ja88yRVQmck
 
 You may need to refresh your browser.
 
