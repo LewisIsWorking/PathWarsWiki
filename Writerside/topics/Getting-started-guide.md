@@ -293,7 +293,7 @@ Reach out to me.
 Share your built-up character's lore.
 We will integrate your character into the campaign.
 
-Check out my 5 plot threads rule on [Homebrew-rules.md](Homebrew-rules.md).
+Check out my 5 plot threads rule on: [Homebrew-rules.md](Homebrew-rules.md).
 I will go through this with you to integrate you into the campaign.
 
 ## Make the character.
