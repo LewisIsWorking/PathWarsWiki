@@ -476,7 +476,7 @@ I pay per a month to have the Foundry world hosted on the forge.
 You do not need to pay anything.
 
 ## Step #10.
-#### Join The Forge Campaign
+### Join The Forge Campaign
 
 Ask for a Forge invite link.
 
@@ -506,7 +506,7 @@ Foundry users must be created manually by the Foundry Admin, me!
 Request a Foundry user on the telegram group, and I will create a user for you.
 
 ## Step #12.
-### Log into Foundry.
+### Log into the Foundry.
 
 Watch this video before using Foundry VTT.
 
