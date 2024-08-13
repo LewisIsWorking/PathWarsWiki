@@ -403,7 +403,11 @@ You can read about the lore increases homebrew rule here:
 
 [Lore Increases in Homebrew-rules.md](Homebrew-rules.md)
 
-## Buy the Full Version of Path-Builder 2e.
+### Buying the Full Version of Path-Builder 2e.
+
+Should you buy the full version?
+
+You don't need to!
 
 Buying the full version of Path-builder 2e is worth it.
 
