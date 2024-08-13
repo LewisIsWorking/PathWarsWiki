@@ -338,6 +338,8 @@ To find out what variant rules you need to enable, check here:
 
 To enable variant rules on Path-Builder 2e do the following:
 
+- [Pathbuilder-setup.md](Pathbuilder-setup.md)
+
 Options → Then Tick the Box next to the rule.
 
 For dual-class it would be:
