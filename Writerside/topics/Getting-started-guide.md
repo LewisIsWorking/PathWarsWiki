@@ -424,11 +424,26 @@ It is time to get started on getting you set up on Foundry.
 
 The following steps will get you ready for Foundry!
 
-## Step #9 = Download Chrome OR Use Edge.
+## Step #9 = Foundry.
 
-## Download Link
+We use Foundry to play Pathfinder on.
 
-[Google Chrome - Download the fast, secure browser from Google](https://www.google.com/intl/en_uk/chrome/)
+You can read about what Foundry is here: https://www.rpgmatch.org/vtt/foundry-vtt-review/
+
+It's basically Roll20 if you've used that website before.
+
+- You don't need to download Forge/Foundry. 
+- You don't need to pay anything to use Forge/Foundry.
+
+## Download Link for Chrome.
+
+I'd recommend downloading / using Chrome.
+
+I'll explain why below in the good/bad section.
+
+You don't NEED to use Chrome, but I do recommend it.
+
+- [Google Chrome](https://www.google.com/intl/en_uk/chrome/)
 
 ## The Bad News
 

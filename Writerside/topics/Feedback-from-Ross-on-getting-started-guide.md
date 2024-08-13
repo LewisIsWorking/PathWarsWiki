@@ -142,7 +142,8 @@ Why is this not at the top of the pathbuilder topic to be said while introducing
 
 
 Foundry.
-My brother in christ. Why are you linking a chrome download link before even introducing what the hell foundry is.
+My brother in christ.
+Why are you linking a Chrome download link before even introducing what the hell foundry is?
 
 What is the Forge?
 Why are you introducing the hosting service before introducing Foundry?
