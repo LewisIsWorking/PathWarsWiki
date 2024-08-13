@@ -556,15 +556,16 @@ Click join game session!
 
 ## Step #22 = Other random things.
 
-**Easy tools.**
+### Easy tools.
 - Here is a link to Easy Tools: https://pf2easy.com/tree/
 - Click the burger menu in the top right.
 - Click “Filter Content”.
 - Click “Player Mode”.
 - Apply.
 
-**Stating actions.**
-- Saying things aloud is essential:
+### Stating actions.
+
+- Saying everything aloud is essential:
   1. If you didn't say you did it then you didn't do it.
   2. If you don't have the item on your sheet, you don't have the item.
   3. If you didn't say out loud that you looted an item then you didn't loot an item.
@@ -576,56 +577,52 @@ Click join game session!
 Why is this a thing? 
 - It's to set a standard to avoid arguments where, for example, someone's character dies.
 
-## Final Steps.
+### How to LEAVE a campaign.
+If you want to leave a campaign, please do one thing first:
 
-Only step 23 remains.
+**Talk to me about it.**
 
-## Step #23 = Everything might be ready?
+*Please!*
+
+If there's a problem, then there's a good chance we can talk it out and figure it out.
+
+### ERP.
+
+- There might be some.
+- That's about it.
+
+### What is the Time Zone?
+
+It's Dublin/London.
+
+## Step #23 = The Final step. Everything might be ready?
 
 Final checks.
 
-Is your character sheet on Foundry populated with all your choices?
+- Is your character sheet on Foundry populated with all your choices? 
+- Do you have all the optional rules applied to your character’s build? 
+- Do you have your equipment picked? 
+- Is all your equipment on your character sheet? 
+- Can you move your token to the Foundry? 
+- Can you see via your token on Foundry? 
+- Can you turn your token on Foundry? 
+- If you answer all of the above with: “Yes”, then you are ready to play in the next session!
+- You should find your campaigns on this notion on the Path Wars Homepage. 
+- See more pages here on GitHub.
 
-Do you have all the optional rules applied to your character’s build?
+**And with that, we should be ready to roll the dice, kill shit and have fun.** 😃
 
-Do you have your equipment picked?
+Make sure to complete the [Character-Lore-Builder](Character-Lore-Builder.md)
 
-Is all your equipment on your character sheet?
+## Change log.
 
-Can you move your token to the Foundry?
+13/08/2024.
 
-Can you see via your token on Foundry?
-
-Can you turn your token on Foundry?
-
-If you answer all of the above with: “Yes”, then you are ready to play in the next session!
-
-You should find your campaigns on this notion on the Path Wars Homepage.
-
-See more pages here.
-
-**And with that, we should be ready to roll the dice, kill shit and have fun.** 
-😃
-If you have the time,
-look at additional reading
-and complete the [Character-Lore-Builder](Character-Lore-Builder.md)
-
-## Additional Reading.
-
-[Other Starter Things.](https://www.notion.so/Other-Starter-Things-c8eba2ed98b44e2eb9aa4b84a5107095?pvs=21)
-
-End of Page.
-
-## The Old Getting Started Guide.
+- Ross gave me a LOT of feedback, so I've made a lot of changes.
 
 24/01/2023.
 
-This guide was once 25 separate pages.
-
-I got a lot of feedback that stated that having all these pages being separate was clunky,
-hard to navigate and hard to read.
-
-So I have instead made it one longer page.
-
-Hopefully people enjoy this change.
-
+- This guide was once 25 separate pages. 
+- I got a lot of feedback that stated that having all these pages being separate was clunky, hard to navigate and hard to read. 
+- So I have instead made it one longer page. 
+- Hopefully people enjoy this change.
