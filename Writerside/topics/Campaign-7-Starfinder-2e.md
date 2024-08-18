@@ -9,6 +9,7 @@ Start typing here...
 - The "gap" represents that the pre-history of this plane doesn't exist, everything that existed at the moment of 
   the awakening of this plane was the plane being born exactly as it woke up.
 - This plane is EXTREMELY hard to get to.
+- This will start with [Campaign-6-kibwe.md](Campaign-6-kibwe.md) ends.
 
 ## Short adventure #1: Birnam’s Bubble.
 
