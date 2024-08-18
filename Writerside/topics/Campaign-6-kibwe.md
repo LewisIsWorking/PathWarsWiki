@@ -183,3 +183,10 @@ Daichi Kenshin's turn.
 - Reaction: Invigorating fear. +5 temporary HP.
 
 Eda "Curse Breaker" Stones-Worth's turn.
+- A1: Stride.
+- Free action: Device a stratagem. Rolled a 1. 
+- A2&3: Fireball. Cultist #2 fails. 22 fire damage.
+
+Two players left.
+- @buffetraider
+- @RyoYamakawa
