@@ -166,4 +166,20 @@ Dinosaur fight.
 Shrunken unicorn head, shrunken ape head, shrunken elven head.
 3 Hero points awarded.
 
-## Session #4. Play By Post. 2024 January 15th.
+## Play By Post. 2024 August 18th.
+
+Fiend battle.
+- Fiend x 1.
+- Cultists x 2.
+
+Tiny's turn.
+- A1&2: Stride.
+- A3: Trips the cultist.
+
+Daichi Kenshin's turn.
+- A1: Stride.
+- A2: Take cover.
+- A3: Demoralise. 21, Success! 
+- Reaction: Invigorating fear. +5 temporary HP.
+
+Eda "Curse Breaker" Stones-Worth's turn.
