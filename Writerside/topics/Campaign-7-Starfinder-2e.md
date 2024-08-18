@@ -10,8 +10,8 @@ Start typing here...
   the awakening of this plane was the plane being born exactly as it woke up.
 - This plane is EXTREMELY hard to get to.
 
-## Long adventure #1: The Birthday.
-
 ## Short adventure #1: Birnam’s Bubble.
 
 ## Short adventure #2: Bloom.
+
+## Long adventure #1: The Birthday.
