@@ -31,3 +31,6 @@ Start typing here...
 4. Archie (Luke).
 5. Tom (Luke's friend).
 6. Jazz.
+7. Horia.
+8. Eva.
+9. Craig.
