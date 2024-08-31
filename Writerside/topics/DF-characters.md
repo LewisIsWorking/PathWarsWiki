@@ -27,7 +27,7 @@ Start typing here...
 	3. The torso is covered in multiple layers of metal cords,
 	4. but there are two spots that reveal a smooth black surface beneath, with blue markings that look like drawn on eyes.
 	5. The cords extend down their arms, ending several inches above the wrist.
-	6. Below that is fabric, that hangs almost down to their knees.
+	6. Below that is fabric that hangs almost down to their knees.
 
 **Backstory.**
 
@@ -36,7 +36,7 @@ Start typing here...
 - PROTECT THEM FROM WHAT?
 - Carnon's Aeon sent them to the druids.
 - During their time in the grove they grew their Magus powers with great success.
-- Upon completing his training, Gallrock the Arch Druid of the grove grew from the earth a bands of force.
+- Upon completing his training, Gallrock the Arch Druid of the grove grew from the earth a band of force.
 - During their years, they became curious about the stories they heard of explosions harnessed inside metal.
 - This was not knowledge the druids had.
 - Eventually, as the Grove prospered and grew, his services were deemed redundant.
@@ -45,7 +45,7 @@ Start typing here...
 - They decided the best way to serve their Aeon was to research further into the story of these explosions.
 - His research led him to a coastal city, where they, through much persuasion, managed to land an apprenticeship
   with a gunsmith named Belron.
-- They learned the craft with much fervour, applying much of his Magus weapons training, and teachings the Druids gave them.
+- They learned the craft with much fervour, applying much of their Magus weapons training, and teachings the Druids gave them.
 - They were able to create a powerful firearm that utilized the manticore trophy.
 - During an excursion into a different city to peddle the wares their Mentor Belron the Gunsmith had crafted, Belron
   the Gunsmith was attacked inside his store.
@@ -55,7 +55,7 @@ Start typing here...
 - Opus The Investigator helped him pursue leads to what happened to their Mentor Belron the Gunsmith's store.
 - Eventually the case had grown cold, but Carnon stayed on with the guards for several more years.
 - During one investigation, the clues lead to Carnon being the perpetrator of several murders.
-- Not being able to clear their name, Carnon fled on a ship leaving the town.
+- Not being able to clear their name, Carnon fled on a ship, leaving the town.
 - They spent some months on this ship where they learned from an esoteric man the secrets that certain crystals
   possess, this is how Carnon learned crystal healing.
 - The ship eventually made port in a town/place where the character will be introduced to the party.
@@ -84,7 +84,7 @@ Start typing here...
 	3. Who killed Belron the Gunsmith / burned down the store?
 	4. Why did Queen Cressida Croft re-instate the bounty?
 	5. Obtaining high-tech equipment: weapons, armour, etc.
-	6. Helping Numerian druids weave together greater high-tech equipment with their primal magics.
+	6. Helping Numerian druids weave together greater high-tech equipment with their primal magic.
 	7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and town of Torch).
 	8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
 	9. Who is the Aeon?
@@ -219,6 +219,19 @@ Usually too proud to fear, but will if shown he is weaker
 - Main character.
 - Champion & Oracle.
 
+## Vargos.
+- Evil but not super evil.
+- Ex-last-wall knight.
+- Split wife's soul into 3.
+- Wife was a last wall knight, she was his commander. She is very kindly hearted.
+
+Plot threads.
+1. Prove that experimental soul-splitting mech-puppets are viable defence systems. 
+2. Save last wall from the undead. 
+3. .
+4. .
+5. .
+
 ## Viole Jule Grace.
 - Player: Moonlight.
 - Main character.
@@ -226,15 +239,16 @@ Usually too proud to fear, but will if shown he is weaker
 - BDay Gorzan 10th 4487.
 - Angel kin, Grim spawn Elf.
 - Classes: Inventor & Warlord.
-- Tattoos all over back, up to his eyes.
+- Tattoos all over the back, up to his eyes.
 
 - Backstory:
 
 1. Domini Grace, Savior Sliver hold, Harrison Ritc, and McKenna McFarland were all seasoned adventurers tasked with
    eliminating a cult that had popped up near the city of Absalom.
-2. The Cult had been kidnapping young women for the past few months and Domini and her team were going to stop them.
-3. As they arrived at the hideout All the cultists were dead it looked as if something had escaped killing everyone
-   along the way all that was left was strange markings on the walls and a lone child on an altar fast asleep.
+2. The Cult had been kidnapping young women for the past few months, and Domini and her team were going to stop them.
+3. As they arrived at the hideout, All the cultists were dead it looked as if something had escaped, killing everyone
+   along the way.
+   All that was left were strange markings on the walls and a lone child on an altar fast asleep.
 4. The group thought long and hard about what to do with the child eventually Domini stepped up to take the child as
    her own as it was innocent and needed someone to protect it.
 5. Domini Grace, elf 539-year-old Inventor.
@@ -247,11 +261,11 @@ Usually too proud to fear, but will if shown he is weaker
 
 1. Black-rock cultists kill a temple of Zatera.
 2. Black-rock cultists use the temple's divine power to pierce the failing defences of the black-rock prison.
-3. A vessel created to house the prisoner.
+3. A vessel was created to house the prisoner.
 4. However, the defences of the prison cause the oozing daemonic energy to be strictly bound by
    divine runes of Lissala in the form of tattoos all over the body.
 5. The newly bound vessel has a new soul flow into, created Viole. Essentially a clone of the black-rock prisoner.
-6. The church of Zatera's templars swoops in, kill the cultist, spare the vessel.
+6. The church of Zatera's templars swoops in, kills the cultist, spares the vessel.
 7. Viole joins up with the templars, helping wage divine war across Battle-zoo.
 8. Viole uses his daemonic powers to influence allies to fight harder.
 9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many
@@ -260,7 +274,7 @@ Usually too proud to fear, but will if shown he is weaker
 11. After years of this, Viole is questioning his faith and the actions he has taken (and the war crimes he has
     committed).
 12. So Viole leaves on a personal quest, listening to the whispers of the obsidian statue he was born with.
-13. Viole enters Black-rock mine but is stuck in limbo for X number of years as the mines defences have trapped him,
+13. Viole enters Black-rock mine but is stuck in limbo for X number of years as the mine's defences have trapped him,
     detecting his daemonic energies.
 
 - Plot threads.
@@ -270,7 +284,7 @@ Usually too proud to fear, but will if shown he is weaker
 4. Find out what the Rune-key is (the blueprint on his back, ask Tammerhawk).
 5. Live out the prophecies gifted to you by the goddess of war:
 
-- Release great evil, save the kingdom of ice.
+- Release great evil, save the kingdom of the ice.
 - Slay a Queen, bring peace.
 - Win a fight, be reborn.
 - Hold a flame, bring life.
