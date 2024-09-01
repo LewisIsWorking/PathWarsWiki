@@ -287,3 +287,11 @@ Viole Jule Grace joins the group.
 21:30.
 
 Allisee's mum is Yubis Dara!
+
+## Session 219. 2024 August 31st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 8.
+
+22:00.
+Vargos joins the party.
+
+The party are about to enter the tomb of the dead.
+

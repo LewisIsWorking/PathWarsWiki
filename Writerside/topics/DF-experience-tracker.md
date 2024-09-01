@@ -316,3 +316,30 @@ Totals.
   1. Cardigan. Level 11. Total = 120 + 40 = 160.
 
 Monster parts: 560 GP. Size = gargantuan.
+
+## Session 219. 2024 August 31st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 8.
+
+- Armoured skeletons x 4 = No experience points above 8.
+- Flying skulls x 2 = No experience points above 8.
+- Drake skeleton x 1 = Experience.
+
+Drake Skeleton x 1.
+- 11 x 1 = 20.
+- 12 x 1 = 15.
+
+Totals.
+- Level 11 = 20.
+- Level 12 = 15.
+
+**Present characters.**
+
+- Level 11. + 20.
+  1. Selenor. Level 11. Total = 750 + 20 = 770.
+  2. Allisee Tra-Umna. Level 11. Total = 150 + 20 = 170.
+  3. Lt. Viole Jule Grace. Level 11. Total = 60 + 20 = 80.
+  4. Carnon. Level 11. Total = 60 + 20 = 80.
+
+- Level 12. + 15.
+  1. Cardigan. Level 11. Total = 160 + 15 = 175.
+
+Monster parts: 200 GP. Size = large.
