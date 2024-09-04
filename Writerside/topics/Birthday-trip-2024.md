@@ -16,6 +16,7 @@ Start typing here...
 5. Luke.
 6. John.
 7. Anna.
+8. Craig.
 
 ## Who is NOT going?
 
@@ -33,4 +34,3 @@ Start typing here...
 6. Jazz.
 7. Horia.
 8. Eva.
-9. Craig.

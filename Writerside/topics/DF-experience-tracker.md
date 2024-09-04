@@ -342,4 +342,7 @@ Totals.
 - Level 12. + 15.
   1. Cardigan. Level 11. Total = 160 + 15 = 175.
 
-Monster parts: 200 GP. Size = large.
+Monster parts: 
+- Drake Skeleton = 200 GP. Size = large.
+- Flying skulls x 2 = 27 GP. Size = tiny.
+- Armoured Skeletons x 4 = 27 GP. Side = medium. 
