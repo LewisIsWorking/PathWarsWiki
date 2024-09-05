@@ -21,7 +21,7 @@ Take an amount of falling damage on several differing occasions and survive.
 
 ## Chronicler.
 
-[Chronicler.](https://www.notion.so/Chronicler-0007866283494ef1b1a7207ac65ec5c1?pvs=21)
+- [Chronicler.]
 
 Write everything down.
 
