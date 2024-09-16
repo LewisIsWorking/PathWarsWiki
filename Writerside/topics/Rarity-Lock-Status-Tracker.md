@@ -86,4 +86,5 @@ Umbral Journey: Unlocked.
 UNLOCKED: Detect Scrying.
 UNLOCKED: Discern Lies.
 UNLOCKED: Nudge The Odds.
+UNLOCKED: Locate. Session 220.
 UNLOCKED: Teleport.

@@ -297,20 +297,58 @@ The party are about to enter the tomb of the dead.
 
 Ross's notes:
 
-We open the portal to Selanors Grandma. Out comes the grandma. We Are in a dark, forgotten place. The rocks that Viole picks up brings out visions of Doom and destruction. Carnon picks up a different, smaller rock and his inner connection to the universe DARKENS AROUND HIS FINGERS. Carnon drops it and backs away in fear. Selenor, sensing a competition, picks up a bigger one, and as he does it EXPLODES. Going on a frenzy to try to clear the blocked passage, he clears a few rocks but one of the rocks fights back, sliding right through Selenor's hand. One the door is 9 circles. One is cracked. One is merging with another. A crystal lotus vision appears. Most of them are fading in and out and have few details. One of them is a symbol for the moon. This is cracked and damaged. Selenor explodes more rocks, and reveals a tunnel that has had something dragged through it. One of Ex Ranger Knight Captain of the Knights of Lost Tim's Wives tries to dig through the black rock, but the black rock fights back and sends him the vision of more destruction. Ex Ranger Knight Captain of the Knights of Lost Tim becomes CHANGED?? Turns into a sort of EEL. Unholy eel? Unholy Consecrated? Tim gets touched by Viole, and Tim's eel features try to stick onto Viole, and Viole gets a rash. Something stops Viole from getting infected. God symbols, god names makes them glow.
+We open the portal to Selanors Grandma. 
+Out comes the grandma. We Are in a dark, forgotten place. 
+The rocks that Viole picks up brings out visions of Doom and destruction. 
+Carnon picks up a different, smaller rock and his inner connection to the universe DARKENS AROUND HIS FINGERS. 
+Carnon drops it and backs away in fear. Selenor, sensing a competition, picks up a bigger one, and as he does it EXPLODES. Going on a frenzy to try to clear the blocked passage, he clears a few rocks but one of the rocks fights back, sliding right through Selenor's hand. One the door is 9 circles. One is cracked. One is merging with another. A crystal lotus vision appears. Most of them are fading in and out and have few details. One of them is a symbol for the moon. This is cracked and damaged. Selenor explodes more rocks, and reveals a tunnel that has had something dragged through it. One of Ex Ranger Knight Captain of the Knights of Lost Tim's Wives tries to dig through the black rock, but the black rock fights back and sends him the vision of more destruction. Ex Ranger Knight Captain of the Knights of Lost Tim becomes CHANGED?? Turns into a sort of EEL. Unholy eel? Unholy Consecrated? Tim gets touched by Viole, and Tim's eel features try to stick onto Viole, and Viole gets a rash. Something stops Viole from getting infected. God symbols, god names makes them glow.
 
-Pharasma, Asmodeus, Crystal Lotus, Sarenrae, Desna, Nimbologue, Arestil
+Pharasma, Asmodeus, Crystal Lotus, Sarenrae, Desna, Nimbologue, Arestil.
 
 Carnon knows so much. He recognises something rather strange. This seal was made by about 8 different DIVINE castors. This strange unlikely alliance were able to channel the power of the deities to create a unifying seal. This is a MYTHICAL seal barrier. If this seal is ever to be opened, it means that ever deity allows them to open it. Selenor puts his hand in the middle of the door, as his body gets covered in strange, intricate designs. He floats centimetres of the ground, as books start to float around him, and he glows in a grey flame, and the door unlocks.
 
-This motherfucker just channelled 8 different divines, and bypassed their lock. Selenor has Screwdrivered his screw. He has hammered his nail. He is a cup that has been filled with water. He is a vagina that ha- no no no too far.
+This motherfucker just channelled 8 different divines, and bypassed their lock. 
+Selenor has Screwdrivered his screw. 
+He has hammered his nail. 
+He is a cup that has been filled with water. 
+He is a vagina that ha- no no no too far.
 
-Behind the door is a stair case that descends down a few meters, and makes is filled with skeletons. Tim says he will guard his wives' rears and stay behind. (alternatively, his autism makes him count each skeleton) Some of the skeletons has necromantic symbols. Not necessarily unholy, but more Dhampiric undeath.  As we travel through the crypts, the skeletons pop out, some not being able to fully animate, and instead just the heads pop up, (the source of their reanimation). Further into the crypt, a massive hulking bone creature moves ahead, crushing several piles of bones. Above average wyvern.
+Behind the door is a staircase that descends downwards a few meters, and makes is filled with skeletons. Tim says he 
+will guard his wives' rears and stay behind. (alternatively, his autism makes him count each skeleton). 
+Some skeletons has necromantic symbols. Not necessarily unholy, but more Dhampiric undeath.  
+As we travel through the crypts, the skeletons pop out, some not being able to fully animate, and instead just the heads pop up, (the source of their reanimation). Further into the crypt, a massive hulking bone creature moves ahead, crushing several piles of bones. Above average wyvern.
 
 Combat Ensues. 
-Allisee explodes and cracks a skeleton into a lazer beam of magic. Carnon's Gun explodes in his face. Viole spell strikes. 
+Allisee explodes and cracks a skeleton into a laser beam of magic. Carnon's Gun explodes in his face. Viole spell strikes. 
 Allisee takes 15 minutes to do their turn. Selenor does a lot of damage, Carnon's turn takes 15 seconds. Cardigan does good world play. Viole shivers the skeletons timbres. Selenor does more damage. Allisee does ??? The Totally not drake flies up 20 feet, shoots a bone at allisee. The skulls does more soul sucking. Allisee is extremely resistant to sucking. (does she not have a soul, therefore immune?) Allisee begs Selenor for help. Selenor tries a high jump on moving, shambling ground filled with bones, and surprising everyone suceeds. Carnon strolls down to shoot the skull, and Viole finishes it off. Combat Ends.
 
-Allisee finds a box with an old draconic sigil, pre Syn Riders. Height of their power, before the fall. Inside is a bobblehead of a dragon. Ornament? Syn Rider Merch. Dragon Pop Head. Viole is being pulled by Rovagog? Viole tries to pick up a femur to use a club, but Allisee start to harass them about their Femur's extended warrantee.
+Allisee finds a box with an old draconic sigil, pre Syn Riders. 
+Height of their power, before the fall. Inside is a bobblehead of a dragon. Ornament? Syn Rider Merch. Dragon Pop Head. 
+Viole is being pulled by Rovagog? Viole tries to pick up a femur to use a club, but Allisee start to harass them about their Femur's extended warrantee.
 
-Session ends
+Session ends.
+
+## Session 220. 2024 September 15th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 9.
+
+23:00.
+23:20. Refocus & take a breather.
+
+1. Pharasma, 
+2. Asmodeus, 
+3. Crystal Lotus, 
+4. Sarenrae,
+5. Nhimbaloth, 
+6. Rovagug.
+7. Desna.
+8. Achaekek (mantis god).
+9. MISSING.
+
+The 2 missing Gods from the gravestones: MISSING and Nhimbaloth.
+
+1. Pharasma,
+2. Asmodeus,
+3. Crystal Lotus,
+4. Sarenrae,
+5. Rovagug.
+6. Desna.
+7. Achaekek (mantis god).
