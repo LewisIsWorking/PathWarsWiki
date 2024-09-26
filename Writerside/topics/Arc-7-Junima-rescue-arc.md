@@ -352,3 +352,15 @@ The 2 missing Gods from the gravestones: MISSING and Nhimbaloth.
 5. Rovagug.
 6. Desna.
 7. Achaekek (mantis god).
+
+- Selenor has stage 1 cancer.
+- Allisee got a glove made of a hand.
+- The party got the shield of Lissala.
+- Allisee & Selenor have BANE curse.
+
+## Session 221. 2024 September 21st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 10.
+
+- Viole cures the BANE curse.
+- Ritual room.
+
+00:00.

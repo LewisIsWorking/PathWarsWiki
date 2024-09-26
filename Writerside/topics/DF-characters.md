@@ -270,7 +270,7 @@ Plot threads.
 8. Viole uses his daemonic powers to influence allies to fight harder.
 9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many
    power weapon inventions.
-10. Viole learned to 'loosen' the Lissala runes temporarily, this is the lore of his inventor's over drive.
+10. Viole learned to 'loosen' the Lissala runes temporarily, this is the lore of his inventor's overdrive.
 11. After years of this, Viole is questioning his faith and the actions he has taken (and the war crimes he has
     committed).
 12. So Viole leaves on a personal quest, listening to the whispers of the obsidian statue he was born with.
