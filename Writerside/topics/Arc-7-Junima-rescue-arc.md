@@ -364,3 +364,36 @@ The 2 missing Gods from the gravestones: MISSING and Nhimbaloth.
 - Ritual room.
 
 00:00.
+
+Raokan, the servant of the 5th, is released.
+
+## Session 222. 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
+
+Players present:
+1. Horia.
+2. Ross.
+3. Tony Moonlight.
+
+01:00.
+
+Selenor signs daemonic contract.
+Selenor is ambidextrous.
+On his right hand is a tattoo of death.
+
+Death squad:
+- Zillif.
+- Tempest.
+- Verda.
+- An ancient agent of death skeleton.
+
+Sett Mummy fight!
+
+Paralysed.
+Allisee is paralysed until round 4.
+Carnon is paralysed until round 6.
+
+Suffocating.
+Junima: 1.
+Carnon: 1.
+
+Resist: 16.
