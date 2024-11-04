@@ -298,10 +298,11 @@ The party are about to enter the tomb of the dead.
 Ross's notes:
 
 We open the portal to Selanors Grandma. 
-Out comes the grandma. We Are in a dark, forgotten place. 
+Out then comes the grandma. We Are in a dark, forgotten place. 
 The rocks that Viole picks up brings out visions of Doom and destruction. 
 Carnon picks up a different, smaller rock and his inner connection to the universe DARKENS AROUND HIS FINGERS. 
-Carnon drops it and backs away in fear. Selenor, sensing a competition, picks up a bigger one, and as he does it EXPLODES. Going on a frenzy to try to clear the blocked passage, he clears a few rocks but one of the rocks fights back, sliding right through Selenor's hand. One the door is 9 circles. One is cracked. One is merging with another. A crystal lotus vision appears. Most of them are fading in and out and have few details. One of them is a symbol for the moon. This is cracked and damaged. Selenor explodes more rocks, and reveals a tunnel that has had something dragged through it. One of Ex Ranger Knight Captain of the Knights of Lost Tim's Wives tries to dig through the black rock, but the black rock fights back and sends him the vision of more destruction. Ex Ranger Knight Captain of the Knights of Lost Tim becomes CHANGED?? Turns into a sort of EEL. Unholy eel? Unholy Consecrated? Tim gets touched by Viole, and Tim's eel features try to stick onto Viole, and Viole gets a rash. Something stops Viole from getting infected. God symbols, god names makes them glow.
+Carnon drops it and backs away in fear. Selenor, sensing a competition, picks up a bigger one, and as he does it EXPLODES. 
+Going on a frenzy to try to clear the blocked passage, he clears a few rocks but one of the rocks fights back, sliding right through Selenor's hand. One the door is 9 circles. One is cracked. One is merging with another. A crystal lotus vision appears. Most of them are fading in and out and have few details. One of them is a symbol for the moon. This is cracked and damaged. Selenor explodes more rocks, and reveals a tunnel that has had something dragged through it. One of Ex Ranger Knight Captain of the Knights of Lost Tim's Wives tries to dig through the black rock, but the black rock fights back and sends him the vision of more destruction. Ex Ranger Knight Captain of the Knights of Lost Tim becomes CHANGED?? Turns into a sort of EEL. Unholy eel? Unholy Consecrated? Tim gets touched by Viole, and Tim's eel features try to stick onto Viole, and Viole gets a rash. Something stops Viole from getting infected. God symbols, god names makes them glow.
 
 Pharasma, Asmodeus, Crystal Lotus, Sarenrae, Desna, Nimbologue, Arestil.
 
