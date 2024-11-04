@@ -703,9 +703,9 @@ Selenor = 2/20 + 4 = 6/24. Cheliax.
 
 15:00
 
-Brambleson is probably at Azurestone.
+Brambleson is probably at Azure stone.
 
-Allissee, Cardigan and Selenor are teleported to Azurestone.
+Allissee, Cardigan and Selenor are teleported to Azure stone.
 
 Crossbow Shooting Context.
 
@@ -755,8 +755,6 @@ Laucian GP Total = 18 + 80 = 98 GP.
 
 +1 Rapier & +1 shortbow = 35 GP + 98 GP = 133 GP.
 
-
-
 Allissee selling stuff.
 
 Hide armour = 2 GP / 2 = 1 GP.
@@ -769,7 +767,8 @@ Breastplate = 8 / 2 = 4.
 
 +1 Rapier = 35 / 2 = 17.5 GP.
 
-When Amar goes to sleep, Amar finds herself in a burnt down temple with bodies everywhere, when Amar finds her way to the doors to leave then Amar wakes up.
+When Amar goes to sleep, Amar finds herself in a burnt-down temple with bodies everywhere,
+when Amar finds her way to the doors to leave, then Amar wakes up.
 
 Selenor gives Pharasma Dwarf 1 Platinum coin.
 
@@ -791,9 +790,7 @@ Zutlieg makes a poem about the Red Raven.
 
 Spends 20 minutes, 44 to make the song-poem.
 
-They talk  to the dwarf barmaid.
-
-
+They talk to the dwarf barmaid.
 
 Sahtisauna.
 
@@ -1015,7 +1012,7 @@ Amar got painting from safe, finally.
 
 The party find brain fluid clearing.
 
-Allissee solves spiral stone puzzle.
+Allisee solves spiral stone puzzle.
 
 15:00
 
@@ -1025,7 +1022,7 @@ Laucian prays to Erastil, catches a fish and gets an Amber covered silver holy s
 
 The holy symbol is that of ancient erastil.
 
-Selenor wants to ask Laucian’s elemental about the elementals at the The Sandstone Temple.
+Selenor wants to ask Laucian’s elemental about the elementals at the Sandstone Temple.
 
 18:00
 
@@ -1047,7 +1044,7 @@ Red Bull Monster Fight.
 
 Red Bulls x 4.
 
-Lingering Composion DC = 28.
+Lingering comparison DC = 28.
 
 Inspire Heroics DC = 32.
 
@@ -1080,7 +1077,7 @@ Ice Forest.
 Prison camp.
 
 ## Zutlieg’s Session 177 = Saturday 3rd June 2023 +  **Wealday
-** 20th Erastus, 4710 AR + Harrow Part 20 + Rabbit Prince 4..
+** 20th Erastus, 4710 AR + Harrow Part 20 + Rabbit Prince 4.
 
 A dying clearing in the forest with brain-tasting soil.
 There seem to be brains infused in the dirt of the area.
@@ -1212,7 +1209,7 @@ Two decorated rugs (50 gp each)
 
 A chest containing five noble outfits in the style of a genie (although many centuries out of date). They are enchanted to be everlasting + they have endure elements.
 
-Two clay amphora, each as tall as a man and able to hold up to 30 gallons (0.14 m³) of liquid.
+Two clay amphorae, each as tall as a man and able to hold up to 30 gallons (0.14 m³) of liquid.
 One is wine.
 
 The other is lamp oil.
@@ -1233,7 +1230,7 @@ The azure stone eternal winter is over.
 
 The party return to Sandpoint and sleep.
 
-It is 8am.
+It is 8 AM.
 
 08:00.
 

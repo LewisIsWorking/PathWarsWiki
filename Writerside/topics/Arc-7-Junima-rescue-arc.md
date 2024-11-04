@@ -1,4 +1,4 @@
-# Arc-7-Junima-rescue-arc
+# Arc-7-Junima-rescue
 
 - Location: Black-rock mines, Indigo isles. 
 - Plane: Battle-zoo.

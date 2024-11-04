@@ -346,3 +346,53 @@ Monster parts:
 - Drake Skeleton = 200 GP. Size = large.
 - Flying skulls x 2 = 27 GP. Size = tiny.
 - Armoured Skeletons x 4 = 27 GP. Side = medium. 
+
+## Session 220. 2024 September 15th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 9.
+
+- Mage hand spirit.
+11 = 30 x 1 = 30.
+12 = 20 x 1 = 20.
+
+- Totals.
+11 = 30.
+12 = 20.
+
+**Present characters.**
+
+- Level 11. + 30.
+  1. Selenor. Level 11. Total = 770 + 30 = 800.
+  2. Allisee Tra-Umna. Level 11. Total = 170 + 30 = 200.
+  3. Lt. Viole Jule Grace. Level 11. Total = 80 + 30 = 110.
+  4. Carnon. Level 11. Total = 80 + 30 = 110.
+
+- Level 12. + 20.
+  1. Cardigan. Level 11. Total = 175 + 20 = 195.
+
+## Session 222. 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
+
+- Daemonic Mummy Prophet Of Set
+11 = 120 × 1 = 120.
+12 = 80 × 1 = 80.
+
+- Vio-Raokan Servant of the 5th
+11 = 160 x 1 = 160
+12 = 120 x 1 = 120.
+
+- Totals.
+11 = 120 + 160 = 280.
+12 = 120 + 80 = 200.
+
+**Present characters.**
+
+- Level 11. + 280.
+  1. Selenor. Level 11. Total = 800 + 280 = 1080.
+  2. Allisee Tra-Umna. Level 11. Total = 200 + 280 = 480.
+  3. Lt. Viole Jule Grace. Level 11. Total = 110 + 280 = 390.
+  4. Carnon. Level 11. Total = 110 + 280 = 390.
+
+- Level 12. + 200.
+  1. Cardigan. Level 11. Total = 195 + 200 = 495.
+
+- Monster parts.
+1. Daemonic Mummy Prophet Of Set = 1250 GP. Size = Medium. 
+2. Vio-Raokan Servant of the 5th = 1850 GP. Size = Large.

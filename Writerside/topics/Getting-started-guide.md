@@ -1,5 +1,7 @@
 # Getting-started-guide
 
+Long story short, make a character and play some DND! :)
+
 ## REQUIREMENT #1 = ONLY JOIN IF YOU ARE 18+
 
 - Before you can join any Path Wars campaign, you must be 18+.
