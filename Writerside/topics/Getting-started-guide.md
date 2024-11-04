@@ -536,7 +536,7 @@ Click join game session!
 
 - Once you’ve logged in Foundry will prompt you to pick your player colour. 
 - Pick your colour.
-- You can change it in the bottom left corner by right clicking on your username.
+- You can change it in the bottom left corner by right-clicking on your username.
 - Continue to the next step!
 
 ## Step #15.
@@ -575,6 +575,11 @@ Click join game session!
 - Request that the Game Master place your token and set up your token’s vision.
 
 ## Step #20.
+### Talk to the Game Master.
+
+Set up a time to call and together establish 5 unique story hooks.
+
+## Step #21.
 ### Other random things.
 
 Below are other random hopefully helpful things.
@@ -589,10 +594,10 @@ Below are other random hopefully helpful things.
 ### Stating actions.
 
 - Saying everything aloud is essential:
-  1. If you didn't say you did it then you didn't do it.
+  1. If you didn't say you did it, then you didn't do it.
   2. If you don't have the item on your sheet, you don't have the item.
-  3. If you didn't say out loud that you looted an item then you didn't loot an item.
-  4. If you didn't buy an item then you didn't buy an item. 
+  3. If you didn't say out loud that you looted an item, then you didn't loot an item.
+  4. If you didn't buy an item, then you didn't buy an item. 
 
 - If I didn't hear you say it, it didn't happen.
 - Please make sure I can hear you properly.
@@ -618,7 +623,7 @@ If there's a problem, then there's a good chance we can talk it out and figure i
 
 It's Dublin/London.
 
-## Step #21.
+## Step #22.
 ### The Final step. Everything might be ready?
 
 Final checks.
