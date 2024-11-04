@@ -157,11 +157,13 @@ Ophelia was always told, as everyone is, to stay away from the tears.
 No one wanted to enter them anyways, except perhaps the most insane of casters.
 Ophelia heard the voice, the voice of a soul with a million voices.
 Ophelia entered the tear local to Korvosa and entered a blue-green glowing forest of infinite magical possibilities.
-It is here she met her pet wolf, a spirit of time magic that outside the tear manifests as what seems like a common wolf but when you look just a little too close into his eyes you can see a light from beyond this world.
-Ophelia made many trips to the tear eventually learning to use some of the leyline's energies.
+It is here she met her pet wolf, 
+a spirit of time magic that outside the tear manifests as what seems like a common wolf, but when you look just a little too close into his eyes you can see a light from beyond this world.
+Ophelia made many trips to the tear, eventually learning to use some of the leyline's energies.
 The whispers told Ophelia that the time was coming, the time to save her father, to defeat a great evil not present in Ophelia's world.
 If Ophelia did not do this, her father and mother would die, and yet not the father and mother that she knew.
-Ophelia saw through time, Ophelia saw blood, death, destruction and suffering.Ophelia leaped through time, into the infinite.
+Ophelia saw through time, Ophelia saw blood, death, destruction and suffering.
+Ophelia leaped through time, into the infinite.
 
 Part 2.
 
@@ -191,17 +193,19 @@ Part 4.
 
 The hourglass hadn't created the wound in time.
 The creator of the hourglass, the creator of the tear, the meddler behind all of this was not responsible for the tear in time.
-They were however going to make the most of it.
-They had sensed the facture in the bones of time and they were willing to break that bone to further that objective.
+They were, however, going to make the most of it.
+They had sensed the facture in the bones of time, and they were willing to break that bone to further that objective.
 Sabina's defeat.
 This battle is one of the most important battles in history for many, many reasons.
-The wound in time seems to be festering as Crimson Throne comes to an end, and the Sabina fight is a puncture in this festering.
+The wound in time seems to be festering as the Crimson Throne comes to an end, and the Sabina fight is a puncture in this festering.
 Ophelia Lamora Vulso grabbed the hourglass of time and pushed through.
 She arrived in front of a father she doesn't know and who doesn't know her.
 Ophelia sees a vision of Idla, a woman who in Ophelia's memories had loved her father dearly.
-Now?She had only been acquaintances.
+Now?
+She had only been acquaintances.
 Ophelia's memories were as good as lies.
-What now?Why was she here?
+What about now?
+Why was she here?
 Only one thing for it.
 Time to close the wound.
 Time to kill a Queen.
