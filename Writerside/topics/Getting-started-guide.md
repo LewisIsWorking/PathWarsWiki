@@ -56,7 +56,7 @@ The “What To do Now” heading contains further information.
 After GMing for a long time,
 you come to realise that different people have different levels of tolerance for all kinds of different things.
 
-The intent of step 0 is to ensure that you as a potential new player are well are of possible in-game events,
+The intent of step 0 is to ensure that you as a potential new player are well aware of possible in-game events,
 and the types of interpersonal interactions that can occur.
 
 This explanation is for the benefit of everyone
