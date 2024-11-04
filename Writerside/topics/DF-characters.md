@@ -140,7 +140,7 @@ Locus has immense pride in his nature as a dragon.
 - Parents and Family.
 
 Locus was born in space as most astral dragons are.
-Raised in Space.
+He was raised in Space.
 His mother, and even then, not long.
 Other astral dragons are Tempus, The Eternal Moment and Interva, The Infinite.
 Living?
