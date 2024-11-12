@@ -1,5 +1,92 @@
 # Arc-7-Junima-rescue
 
+## Session 213. 2024 May 27th Monday + 4710 AR Erastus 29th + Junima rescue part 1.
+
+Blackrock inn, talking to Oswen.
+
+Found Junima's letter to Selenor.
+
+Welter's room.
+- Bag.
+- Ancient scrolls.
+
+Time distortion.
+
+FOUR WEEKS LATER.
+* 4710 AR, 26th Arodus.
+
+12:00.
+
+Big orc x 1.
+18 GP.
+The normal orcs x 3.
+12 GP.
+Worg x 4 = 18 GP.
+
+## Session 214. 2024 June 8th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 2.
+
+Now in the middle of the wyvern quest.
+
+12:00 → 1 hour spent in the blackrock inn → 13:00.
+13:00 → 2 hours spent wyvern hunting = 14:00.
+
+## Session 215. 2024 June 9th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 3.
+
+Back in time.
+Amar's time.
+4710 AR Erastus 29th.
+13:00.
+Amar has been the Harrower for 5 days (Erastus 26th).
+
+Amar talks to ticktock man.
+
+Amar goes to Magnimar.
+
+@ the Guilded cage.
+Black suits, gold ties.
+
+Meets James Darkmoon, sees history of Earth warfare.
+
+15:00
+At Sandpoint home base.
+
+18:00.
+Laucian POV.
+Laucian talks to Tammerhawk.
+
+Laucian spends 4 weeks at the concordance of elements.
+Laucian's strategies nearly get some elemental soldiers killed.
+Laucian earned 90ish gold.
+
+Modwinn is here.
+
+Allisee, Cardigan, Selenor agree to bring 'THIS AND THAT' items to Loras.
+
+## Session 215. 2024 June 24th Monday + 4710 AR, 26th Arodus. + Junima rescue part 4.
+
+Rescuing the ranger, Aleric.
+
+19:00.
+The party are at the Black rock mine.
+
+## Session 216. 2024 July 13th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 5.
+
+Selenor is in aerial form.
+10 minutes.
+3 x 10 = 30.
+30 - 2 = 28.
+
+Selenor chases 3 orcs.
+Selenor gets a dragon apple of inevitable death.
+
+Spider warehouse fight.
+Allisee is Stage 1 → 0.
+Selenor is stage 1 → 0.
+
+See [Arc-7-Junima-rescue-arc.md](Arc-7-Junima-rescue-arc.md)
+
+## Info dump.
+
 - Location: Black-rock mines, Indigo isles. 
 - Plane: Battle-zoo.
 
@@ -50,7 +137,7 @@ Her hands start to crush you, she seems to perceive you as the enemy.
 
 Allisee says:
 `"Hey, hey easy you can crush me after we talk, please??
-I'm not trying to kill you I don't even know you.
+I'm not trying to kill you, I don't even know you.
 For the broken mistress, I guess I see where you are coming from, but I also want to talk to her before I decide what 
 I do.
 I'm here to save grandma right now, not to kill or call anything or anyone!"`
@@ -63,7 +150,7 @@ You summoned me with a scroll of light, a ritual of the dawn.
 It uses illumination magic, a magic that died when the star stone damaged magic forever.
 I smell in you both the blood of the faithful, but I see...`
 
-Tuds looks at your moonstone arm:
+Tuds has a look at your moonstone arm:
 `A blessing of the moon, our arch enemy.
 Though I suppose this may be lost upon your unknowing mind, the war between the bear and the snake has long since 
 faded into the mists of history...
@@ -421,3 +508,8 @@ Junima's conversation with Selenor:
 - There was a strange blue moon that night and for several days afterwards.
 
 Aleric becomes a war daemon.
+
+- The party go to the library of dead worlds.
+- A watcher talks to the party and explains that the horsemen are attacking many worlds and that this must be stopped.
+- The watcher says that their kind will assist in sealing away each of the horseman's abilities to freely attack 
+  material planes.

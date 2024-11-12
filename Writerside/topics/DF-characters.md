@@ -98,6 +98,12 @@ Start typing here...
 - High captain of the city guard.
   James gave Amar a magical tracking ring.
 
+## Rosalyn / Ambrosia.
+
+- Age: 36.
+- Race: Strix.
+- Class: Kinetist.
+
 ## Locus The Expanding Void.
 - Main character.
 - Classes: Psychic & monk.
