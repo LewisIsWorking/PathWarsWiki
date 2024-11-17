@@ -83,8 +83,6 @@ Spider warehouse fight.
 Allisee is Stage 1 → 0.
 Selenor is stage 1 → 0.
 
-See [Arc-7-Junima-rescue-arc.md](Arc-7-Junima-rescue-arc.md)
-
 ## Info dump.
 
 - Location: Black-rock mines, Indigo isles. 
@@ -491,7 +489,7 @@ Resist: 16.
 On the plane of battle-zoo.
 
 02:00.
-[Arc-7-Junima-rescue-arc.md](Arc-7-Junima-rescue-arc.md) just ended.
+Arc 7 is basically over.
 
 Black rock inn is destroyed.
 
@@ -513,3 +511,63 @@ Aleric becomes a war daemon.
 - A watcher talks to the party and explains that the horsemen are attacking many worlds and that this must be stopped.
 - The watcher says that their kind will assist in sealing away each of the horseman's abilities to freely attack 
   material planes.
+
+> Runewild.
+>> - Junima finds the grave of her stillborn empty in the pool of the rabbit-turtle.
+
+## Session 224. 2024 November 16rd Saturday + 4710 AR, 27th Arodus. + Junima rescue part 13.
+
+Play by post:
+`Selenor places his hand on Junima’s shoulder and says, 
+“I am sorry for what happened to you.
+I am sorry that you never experienced a normal life, one where you would grow old and pass peacefully,
+surrounded by your family.
+Instead, you ended up with an abusive mother who created you as a weapon for her war.
+
+"I am sorry that your chance at motherhood was robbed by unknown enemies, and your child’s grave disturbed.
+All I can say is that I will never understand why mortals, outsiders, gods,
+and even my creators keep saying, ‘You don’t know what people would do for love.’
+
+"Zilif’s love for his daughter doomed many, and yet, if she knew what he had done, she would hate him.
+Your love for your daughter, and for Camadaithe,
+filled you with so much sorrow that it drove both of you to distance yourselves—from each other and from your daughter.
+
+"My creators’ love for each other led to my creation, but also to death.
+My father’s love for your daughter led him to call you a ‘wee girl’
+when you were tortured, and he abandoned you to the mercy of this rider of death.
+My stepfather’s love for Korvosa led him to become a slave to an ungrateful god of pain.
+My stepmother’s love for mortals led to me being constantly bullied, betrayed,
+and beaten by them, simply because they can’t withstand the truth.”
+Lastly, Andaisin's love for herself made me into a weapon of flesh and blood who imitates what you would call a person.
+
+Selenor’s soulless eyes stare at Junima as he continues,
+"I am unable to feel this so-called love… and yet I have endured all of this.
+I know that family is important, which is why I would die for you over and over again.
+I also know that doomsday must be stopped, but my ability to choose is limited by my directives.
+Unlike you, I am a passive player in this grand game—I can only react to your choices.
+
+"And now I ask you this, Junima: why are you crying?
+Tears won’t wash away the pain or the trauma.
+You have two choices, as I see it.
+Either you remain, as my father called you, a ‘wee girl’, or you harden your heart,
+protect your family, and knock some sense in your hag mother.
+Abaddon’s vast daemonic armies are marching across countless worlds as we speak.
+If you want the people you love to survive this doomsday,
+you must embrace your powers and call-to-arms the long-dead heroes of the Hag Wars to your cause.
+Whatever you choose, I will stand by your side not out of love,
+but I do care about you, and it is my duty as your grand-creation to assist you in any way I can.”
+
+Selenor after a deep sigh says "`You’ve got a good heart.
+Don’t ever lose it, no matter how hard the world tries to break you."
+
+- Selenor & Junima hug.
+
+02:00.
+
+Home base has a toggle zone of truth.
+
+SELENOR IS DENOUNCED BY PHARASMA.
+
+Rest. 8 hours.
+
+- 28th Arodus. 09:30.

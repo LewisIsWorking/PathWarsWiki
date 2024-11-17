@@ -108,7 +108,7 @@ Selenor picks up Tywin's holy symbol and statue from his room in the Harrow.
 
 Every-Ready Jocob was not a conspirator, but is a servant of the night peddler.
 
-UNLOCKED: high-helm stronghold plate
+UNLOCKED: high-helm stronghold plate.
 
 ## Session 206. 2024 February 10th Saturday + 4710 AR Erastus 28th + Gaunt-light part 15.
 
@@ -283,5 +283,4 @@ Sonnorae the mute hag & Andaisin.
 Sir Morely.
 
 Junima disappeared.
-
 
