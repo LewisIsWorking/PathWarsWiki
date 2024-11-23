@@ -571,3 +571,5 @@ SELENOR IS DENOUNCED BY PHARASMA.
 Rest. 8 hours.
 
 - 28th Arodus. 09:30.
+
+Hori is free! 10 Find the Path crystal stones are handed out to Plethyn.
