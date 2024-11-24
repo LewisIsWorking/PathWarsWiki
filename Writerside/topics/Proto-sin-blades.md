@@ -19,7 +19,7 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 ## Ownership: Charm-beaker.
 
 - Charm Breaker. 
-- Amar Rookmoon’s sword. 
+- Amar Rookmoon's sword. 
 - Cardigan took it from Ra, then gave it to Amar.
 
 ## Ownership: Glimmer-Bane
@@ -64,7 +64,7 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 - Truth-teller. 
 - Selenor's sword.
 
-## Overview.
+## Overview & Lore.
 
 The High-Vale blades were crafted in High-Vale, the mountaintop cities of the Runewild elves.
 
@@ -154,7 +154,9 @@ Firearm training comes more naturally to you now as your soul ensures your aim s
    - A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
 6. Sin Reaver.
    - Only a lawful creature can wield this weapon.
-   - When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7 points of slashing damage.
+   - When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7 
+     points of slashing damage. 
+   - You must know the enemy alignment for the damage effect to happen!
    - A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn. 
    - Detect Lawfulness.
 7. Truth Teller.

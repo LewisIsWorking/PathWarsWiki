@@ -518,14 +518,14 @@ Aleric becomes a war daemon.
 ## Session 224. 2024 November 16rd Saturday + 4710 AR, 27th Arodus. + Junima rescue part 13.
 
 Play by post:
-`Selenor places his hand on Junima’s shoulder and says, 
+`Selenor places his hand on Junima's shoulder and says, 
 “I am sorry for what happened to you.
 I am sorry that you never experienced a normal life, one where you would grow old and pass peacefully,
 surrounded by your family.
 Instead, you ended up with an abusive mother who created you as a weapon for her war.
 
 "I am sorry that your chance at motherhood was robbed by unknown enemies, and your child’s grave disturbed.
-All I can say is that I will never understand why mortals, outsiders, gods,
+All I can say is that I will never understand why mortals, outsiders, gods
 and even my creators keep saying, ‘You don’t know what people would do for love.’
 
 "Zilif’s love for his daughter doomed many, and yet, if she knew what he had done, she would hate him.
