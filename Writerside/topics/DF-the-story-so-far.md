@@ -22,13 +22,16 @@ TODO: Not to self, move Notion content over.
 >> - 36ish sessions.
 >> - Amar became the Harrower.
 
->> Arc 5: Necropolis Arc. Session 184 → 187. 4 sessions.
+>> Arc 5: Necropolis Arc. 
+>> - Session 184 → 187. 
+>> - 4 sessions.
 
 > Arc 6: Gaunt Light Arc. 
 >> - Session 190 -> ONGOING.
 
 > Arc 7: Junima rescue Arc. 
->> - Session 213 -> 224. 13 sessions.
+>> - Session 213 -> 224. 
+>> - 13 sessions.
 
 > Arc 8: Untangle the past.
 >> - Session 225 -> ONGOING.
