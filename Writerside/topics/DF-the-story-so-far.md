@@ -7,17 +7,31 @@ Start typing here...
 TODO: Not to self, move Notion content over.
 
 ## DF Arc list.
+> Arc 1: Skull Hill Arc. Session 134 -> 138.
+>> - The Moon-Flower.
+>> - Drekk-Zal used the power of lunar magic to defeat the moon flower.
 
-### 1. Skull Hill Arc. Session 134 -> 138.
-- The Moon-Flower.
-- Drekk-Zal used the power of lunar magic to defeat the moon flower.
-### 2. Collapsing Halls Arc. Session 142 → 146.
-### 3. Truth Teller Arc. Session 148 → 150.
-### 4. The Harrow Arc. Session 153 → 189. 36ish sessions.
-- Amar became the Harrower.
-### 5. Necropolis Arc. Session 184 → 187.
-### 6. Gaunt Light Arc. Session 190 -> ONGOING.
-### 7. Junima rescue Arc. Session 213 -> ONGOING.
+> Arc 2: Collapsing Halls Arc. 
+>> - Session 142 → 146.
+
+> Arc 3: Truth Teller Arc.
+>> - Session 148 → 150.
+
+> Arc 4: The Harrow Arc.
+>> - Session 153 → 189.
+>> - 36ish sessions.
+>> - Amar became the Harrower.
+
+>> Arc 5: Necropolis Arc. Session 184 → 187. 4 sessions.
+
+> Arc 6: Gaunt Light Arc. 
+>> - Session 190 -> ONGOING.
+
+> Arc 7: Junima rescue Arc. 
+>> - Session 213 -> 224. 13 sessions.
+
+> Arc 8: Untangle the past.
+>> - Session 225 -> ONGOING.
 
 ## Doomsday Funtime Part 2 = Session Quick Summary.
 
