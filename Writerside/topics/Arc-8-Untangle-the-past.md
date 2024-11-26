@@ -15,3 +15,24 @@ Carnon has signed the Sandpoint charter and is a full member of the group.
 
 Selenor beats cancer, is all good. DC35.
 
+> Talking about Yubis.
+>> - Tammerhawk hugs Allisee.
+
+- Selenor's cancer is in remission.
+
+The rest of the day is downtime.
+
+> Decebal is created.
+>> - All of the dragon knight acolytes lose some of their souls (level reduced).
+>> - Name: Decebal.
+
+Tammerhawk tells that Viole that the runes on their back is a ritual.
+
+Carnon's Squirrel is called appollon.
+
+Tammerhawk says she wants the group to do a side mission and gives Selenor a BIG hug.
+
+Selenor plane shifts to the runewild.
+
+> Selenor talks to Griselda.
+>> - A place on the mushfens.

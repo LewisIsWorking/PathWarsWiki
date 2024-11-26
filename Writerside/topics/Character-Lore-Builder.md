@@ -188,6 +188,34 @@ Go to this page to find out your alignment scale.
 
 ---
 
+## Plot hooks.
+
+> 1: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
+>> - What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a 
+     > power, or finding their calling)? 
+>> - Does your character have a relationship they want to build or repair (for example, with a family member, a 
+     > mentor, or even an estranged enemy)? 
+>> - Is there a location they’ve always wanted to visit or conquer? Why? 
+>> - Does your character have an ideal legacy they wish to leave behind? 
+>> - What is one immediate, achievable goal they’re pursuing right now? 
+>> - Is there a wrong they feel compelled to make right, either for themselves or someone else? 
+>> - What is a selfish desire they may not admit to others but secretly want to fulfill?
+
+> 2: What are (at least) 3 secrets your character is hiding from the party? Examples include:
+>> - Do they have a past mistake or failure they’re ashamed of? 
+>> - Is there a relationship, alliance or obligation they haven’t told the party about (for example, a debt to a villain or membership in a questionable group)? 
+>> - Are they concealing something magical, cursed, or otherwise unusual about themselves? 
+>> - Do they harbor feelings of jealousy, resentment or distrust toward a party member? Why? 
+>> - Is there an ulterior motive behind their reason for adventuring with the party that they haven’t shared?
+
+> 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
+>> - Does your character have an unspoken grudge or tension with another party member?
+>> - Are their goals or ideals incompatible with the party’s mission?
+>> - Is there anything about their personality that might clash with others?
+>> - Are they hiding something that could potentially harm or betray the party?
+
+---
+
 ## Backstory.
 
 Finally, what is your character’s backstory?

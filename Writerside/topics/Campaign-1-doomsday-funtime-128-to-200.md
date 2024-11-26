@@ -317,7 +317,7 @@ Allisee must:
 2. Allisee must go on a spirit quest.
 3. Allisee body will become moon stone.
 4. Allisee will become a kinetistic.
-5. Alisee will help Drekk-Zal’s father.
+5. Allisee will help Drekk-Zal’s father.
 
 In return Allissee gets all Drekk-Zal’s gold, some items, Moon-Bear Axe (Which is inside the Moon Fleshgem) and the mantle of the moon bear.
 
