@@ -222,7 +222,7 @@ Finally, what is your character’s backstory?
 
 ---
 
-## Backstory by Year.
+## Backstory by each Year.
 
 Now find out the current campaign's current in-game year.
 For Doomsday Funtime it is currently 4710 AR.
@@ -263,7 +263,7 @@ This example would put the character at a progression rate of 6 months to 1 leve
 For a human this is pretty normal, but for an elf you may space levels out over decades, longer for some other races.
 
 Assuming level 1 at age 20, that means they came level 1 in 4705 AR.
-Now we expand out your 'backstory by year' section but including 'level x'
+Now we expand out your 'backstory by each year' section but including 'level x'
 after the age of our character before the colon.
 
 Example = 4705 AR, age 20, level 2: Killed my first human and drunk their blood, sanity is starting to leave me...
