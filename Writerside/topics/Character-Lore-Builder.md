@@ -119,11 +119,11 @@ Parents and Family.
 ## Weapons.
 
 1. What kind of weapons does your character fight with?
-   1. What does your character’s weapon look like?
-   2. Who made your character’s weapon?
-   3. Who added the runes to your character’s weapons?
-   4. Who trained your character in using weapons?
-   5. Does your character like using weapons?
+	1. What does your character’s weapon look like?
+	2. Who made your character’s weapon?
+	3. Who added the runes to your character’s weapons?
+	4. Who trained your character in using weapons?
+	5. Does your character like using weapons?
 
 ---
 
@@ -149,11 +149,11 @@ Parents and Family.
 ## Spell Caster.
 
 1. Can your character cast spells?
-   1. What tradition is your character’s magic? Arcane? Primal? Divine? Occult?
-   2. Where does your character’s magic come from?
-   3. Who trained your character to use your magic?
-   4. What does your character like to do with your magic?
-   5. What is the highest level spell slot your character has access to?
+	1. What tradition is your character’s magic? Arcane? Primal? Divine? Occult?
+	2. Where does your character’s magic come from?
+	3. Who trained your character to use your magic?
+	4. What does your character like to do with your magic?
+	5. What is the highest level spell slot your character has access to?
 
 ---
 
@@ -191,21 +191,21 @@ Go to this page to find out your alignment scale.
 ## Plot hooks.
 
 > 1: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
->> - What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a 
-     > power, or finding their calling)? 
->> - Does your character have a relationship they want to build or repair (for example, with a family member, a 
-     > mentor, or even an estranged enemy)? 
->> - Is there a location they’ve always wanted to visit or conquer? Why? 
->> - Does your character have an ideal legacy they wish to leave behind? 
->> - What is one immediate, achievable goal they’re pursuing right now? 
->> - Is there a wrong they feel compelled to make right, either for themselves or someone else? 
+>> - What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a
+     > power, or finding their calling)?
+>> - Does your character have a relationship they want to build or repair (for example, with a family member, a
+     > mentor, or even an estranged enemy)?
+>> - Is there a location they’ve always wanted to visit or conquer? Why?
+>> - Does your character have an ideal legacy they wish to leave behind?
+>> - What is one immediate, achievable goal they’re pursuing right now?
+>> - Is there a wrong they feel compelled to make right, either for themselves or someone else?
 >> - What is a selfish desire they may not admit to others but secretly want to fulfill?
 
 > 2: What are (at least) 3 secrets your character is hiding from the party? Examples include:
->> - Do they have a past mistake or failure they’re ashamed of? 
->> - Is there a relationship, alliance or obligation they haven’t told the party about (for example, a debt to a villain or membership in a questionable group)? 
->> - Are they concealing something magical, cursed, or otherwise unusual about themselves? 
->> - Do they harbor feelings of jealousy, resentment or distrust toward a party member? Why? 
+>> - Do they have a past mistake or failure they’re ashamed of?
+>> - Is there a relationship, alliance or obligation they haven’t told the party about (for example, a debt to a villain or membership in a questionable group)?
+>> - Are they concealing something magical, cursed, or otherwise unusual about themselves?
+>> - Do they harbor feelings of jealousy, resentment or distrust toward a party member? Why?
 >> - Is there an ulterior motive behind their reason for adventuring with the party that they haven’t shared?
 
 > 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
@@ -245,7 +245,7 @@ If you have any other questions about this, please contact me on my telegram.
 1. Are you higher than level 1? What level?
 2. What year did your character achieve first level in their class?
 3. How long has it been chronologically since your character was first level?
-4. What has your character been doing since they started adventuring (aka first level)? 
+4. What has your character been doing since they started adventuring (aka first level)?
 5. How did you achieve each level? Aka what did you kill to level up?
 6. How long did each level take to achieve?
 
@@ -257,7 +257,7 @@ This is a continuation of the 'Backstory by each year' section for if you are st
 This section involves writing what your character has been doing since level 1 aka since their backstory.
 
 To do this, you can decide at what age the character became level 1, and what age they are now.
-Example: 
+Example:
 Level 1 at age 20, level 10 at age 25.
 This example would put the character at a progression rate of 6 months to 1 level.
 For a human this is pretty normal, but for an elf you may space levels out over decades, longer for some other races.
