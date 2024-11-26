@@ -36,3 +36,16 @@ Selenor plane shifts to the runewild.
 
 > Selenor talks to Griselda.
 >> - A place on the mushfens.
+
+## Session 226. 2024 November 26th Tuesday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island.
+
+12:00.
+
+- Brodert Quink has a bounty.
+- Selenor, Viole, Decebal and Cardigan go to Seagull island.
+- Seagulls won't go past the outer rocks.
+
+12:20. Allisee arrives at Seagull island.
+
+- After Selenor uses his 1/day casting of suggestion using the sin shard of lust, the entryway opens.
+- A spiral staircase brings the heroes to a large perfectly cubical room (kind of cavern?), inside is an arcane manor.
