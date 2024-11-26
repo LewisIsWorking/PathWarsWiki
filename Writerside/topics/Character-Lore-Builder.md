@@ -272,6 +272,10 @@ Example = 4705 AR, age 20, level 2: Killed my first human and drunk their blood,
 
 ## Changelog.
 
+## 26/11/2024. Version 4.
+
+Added the Plot hooks section.
+
 ## 13/09/2022. Version 3.
 
 Added some stuff.
