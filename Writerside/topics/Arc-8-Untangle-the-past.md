@@ -49,3 +49,5 @@ Selenor plane shifts to the runewild.
 
 - After Selenor uses his 1/day casting of suggestion using the sin shard of lust, the entryway opens.
 - A spiral staircase brings the heroes to a large perfectly cubical room (kind of cavern?), inside is an arcane manor.
+
+Test.
