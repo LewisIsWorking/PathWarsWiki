@@ -2,6 +2,12 @@
 
 Long story short, make a character and play some DND! :)
 
+This guide will help you get set up.
+You will:
+- Make a character.
+- Get ready up to play on Foundry.
+- If you need any help, ask on the discord server.
+
 ## REQUIREMENT #1 = ONLY JOIN IF YOU ARE 18+
 
 - Before you can join any Path Wars campaign, you must be 18+.

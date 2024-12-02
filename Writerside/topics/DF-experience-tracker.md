@@ -319,7 +319,7 @@ Monster parts: 560 GP. Size = gargantuan.
 
 ## Session 219. 2024 August 31st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 8.
 
-- Armoured skeletons x 4 = No experience points above 8.
+- Armoured skeletons x 4 = There are no experience points above 8.
 - Flying skulls x 2 = No experience points above 8.
 - Drake skeleton x 1 = Experience.
 
