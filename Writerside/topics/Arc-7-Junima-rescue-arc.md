@@ -519,7 +519,7 @@ Aleric becomes a war daemon.
 
 Play by post:
 `Selenor places his hand on Junima's shoulder and says, 
-“I am sorry for what happened to you.
+"I am sorry for what happened to you.
 I am sorry that you never experienced a normal life, one where you would grow old and pass peacefully,
 surrounded by your family.
 Instead, you ended up with an abusive mother who created you as a weapon for her war.
@@ -537,11 +537,11 @@ My father’s love for your daughter led him to call you a ‘wee girl’
 when you were tortured, and he abandoned you to the mercy of this rider of death.
 My stepfather’s love for Korvosa led him to become a slave to an ungrateful god of pain.
 My stepmother’s love for mortals led to me being constantly bullied, betrayed,
-and beaten by them, simply because they can’t withstand the truth.”
+and beaten by them, simply because they can’t withstand the truth."
 Lastly, Andaisin's love for herself made me into a weapon of flesh and blood who imitates what you would call a person.
 
-Selenor’s soulless eyes stare at Junima as he continues,
-"I am unable to feel this so-called love… and yet I have endured all of this.
+Selenor's soulless eyes stare at Junima as he continues,
+"I am unable to feel this so-called love, and yet I have endured all of this.
 I know that family is important, which is why I would die for you over and over again.
 I also know that doomsday must be stopped, but my ability to choose is limited by my directives.
 Unlike you, I am a passive player in this grand game—I can only react to your choices.
