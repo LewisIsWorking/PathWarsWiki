@@ -33,7 +33,7 @@ P1 arcs:
 >> - 37 sessions.
 >> - Amar became the Harrower.
 
->> Arc 5: Necropolis Arc. 
+>> Arc 5: Necropolis Arc.
 >> - Session 184 → 187. 
 >> - 4 sessions.
 
