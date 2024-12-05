@@ -13,7 +13,7 @@ Cards collected so far:
 
 > #2: Ownership: The Empty/Broken Throne.
 >> - Great loss and wisdom from those who are now gone. Lawful good.
->> - Passive ability: The Empty Throne represents great loss and wisdom from those who are now gone. As long as you have The Empty Throne invested, it grants you a +2 item bonus to Society and Lore checks made to Recall Knowledge regarding individuals who are no longer alive (such as checks to learn about Taldor's historical founder, but not to learn about its current empress). This increases to a +3 item bonus if you are at least 17th level.
+>> - Passive ability: As long as you have The Empty Throne invested, it grants you a +2 item bonus to Society and Lore checks made to Recall Knowledge regarding individuals who are no longer alive (such as checks to learn about Taldor's historical founder, but not to learn about its current empress). This increases to a +3 item bonus if you are at least 17th level.
 >> - 1 Action (Concentrate) Once per Day : ou overwhelm a target you can see within 60 feet with feelings of helplessness and loss. The creature must attempt a Will save with a DC equal to your class DC or spell DC. 
 >>   - Critical Success: The target is unaffected. 
 >>   - Success: The target can't benefit from circumstance or status bonuses for 1 round. 
