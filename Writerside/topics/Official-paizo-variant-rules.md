@@ -83,3 +83,7 @@ You get two bonus feats for free:
 
 ## Rolling Ability Scores
 - Status: Banned
+
+## Hero Poin Deck
+- Status: Optional
+Enabled in foundry, each roll gives you a choice of 10 cards. 
