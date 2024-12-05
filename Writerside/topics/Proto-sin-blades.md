@@ -4,11 +4,11 @@ Start typing here...
 
 ## Name of the blades.
 
-1. Charm-Breaker. 
+1. Charm-Breaker.
 2. Eclipse.
-3. Glimmer-Bane. 
-4. Heat-Death. 
-5. Iron-Oath. 
+3. Glimmer-Bane.
+4. Heat-Death.
+5. Iron-Oath.
 6. Sin-Reaver.
 7. Truth-Teller.
 
@@ -18,41 +18,41 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 
 ## Ownership: Charm-beaker.
 
-- Charm Breaker. 
-- Amar Rookmoon's sword. 
-- Cardigan took it from Ra, then gave it to Amar.
+- Charm Breaker.
+- Amar Rookmoon's sword.
+- Cardigan took it from Ra. Cardigan didn't use it. Cardigan -> Amar.
 
 ## Ownership: Glimmer-Bane
 
-- Glimmer Bane. 
-- Modwinn gets Glimmer Bane from Laucian Asknäve. 
-- Laucian Asknäve got Glimmer Bane from Darian Chalk. 
-- Drek Val gave his sword to Darian Chalk.
+- Glimmer Bane.
+- Modwinn left her sword at the town hall before disappearing...
+- Laucian Asknäve -> Modwinn.
+- Darian Chalk -> Laucian Asknäve.
+- Drek Val -> Darian Chalk.
 
 ## Ownership: Heat-death.
 
-- Heat Death. 
-- Zutlieg’s sword. 
-- Zillith gave this sword to Zutlieg. 
-- Selenor gave this sword to Zillif. 
+- Heat Death.
+- Zutlieg left the sword at the town hall before joining Zillith's group.
+- Zillith -> Zutlieg.
+- Selenor -> Zillif.
 - Sir Reinhold gave this to Selenor.
 
 ## Ownership: Iron Oath.
 
-- Iron’s Oath. 
-- Isilynor Pranäe got Un-Trul’s sword. 
-- Un-Trul’s Sword. 
-- Aarlak gave Iron Oath to Un-Trul.
+- Iron’s Oath.
+- Un-Trul -> Isilynor Pranäe.
+- Aarlak -> Un-Trul.
 
 ## Ownership: Sin-Reaver.
-- Sin Reaver. 
-- Allisee’s sword. 
+- Sin Reaver.
+- Allisee's sword.
 - Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
 
 ## Ownership: Truth-teller.
 
-- Truth Teller. 
-- Selenor’s sword. 
+- Truth Teller.
+- Selenor’s sword.
 - Acquired by Selenor from the Broken Lord.
 
 ## Ownership: Eclipse.
@@ -61,7 +61,7 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 
 ## Truth-teller.
 
-- Truth-teller. 
+- Truth-teller.
 - Selenor's sword.
 
 ## Overview & Lore.
@@ -84,8 +84,8 @@ Each High-Vale blade has a unique name and a unique property.
 >> - Note: After every combat encounter, high vale blades return to their original longsword form.
 
 > The High-Vale Ritual.
-> - During daily preparations or by spending 1 minute later in the day, a high-vale blade wielder can copy their 
-> High-Vale blades +2 potency and striking rune to a single weapon of their choice. 
+> - During daily preparations or by spending 1 minute later in the day, a high-vale blade wielder can copy their
+    > High-Vale blades +2 potency and striking rune to a single weapon of their choice.
 > - This has to be repeated each day or 24 hours (whichever comes first).
 
 > NOTE:
@@ -101,7 +101,7 @@ Each High-Vale blade has a unique name and a unique property.
 >> - If you practised with a weapon every day but didn't have enough power to wield the weapon as a master alongside another classification, then you may become a fighter.
 >> - If you have studied the arcane methodologies, theorems and lore, then perhaps you shall become a wizard.
 >> - If you have studied the arcane methodologies, theorems and lore, then perhaps you shall become a wizard.
->> - Have you worshipped a god and stayed true to their tenets? 
+>> - Have you worshipped a god and stayed true to their tenets?
 >> - The god may take notice that your soul has the capacity to wield a fraction of their power, and you may become a cleric, champion, oracle, monk or witch.
 >> - Your soul may infuse your mind to help you create your innovative so that you may walk the path of the inventor.
 >> - Your soul may reach deep into the elemental planes to wield nature to become a druid or nature witch.
@@ -113,32 +113,33 @@ Each High-Vale blade has a unique name and a unique property.
 
 ## Blade abilities.
 
-1. Charm Breaker. 
-   - While you wield this weapon, whenever you start your turn subjected to the charmed condition, you can attempt a 
-      saving throw to end the condition immediately, even if the effect does not normally allow a saving throw.
-2. Eclipse. ???
-3. Glimmer Bane. 
-   - This weapon has seven charges. 
-   - It regains 6 charges daily at dawn. 
-   - You can expend the weapon’s charges to cast detect magic (1 charge) or dispel magic (3 charges). 
-   - In addition, when you see a creature within 60 feet of you casting a spell, you can use your reaction to expend two of the weapon’s charges to cast a counter-spell.
-4. Heat Death.
-   - While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you. 
-   - Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw. 
-   - The creature can’t regain hit points for 1 minute on a failure. 
-   - At the end of each of its turns, the creature can repeat the saving throw to end the effect.
-5. Iron’s Oath. 
-   - While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical). 
-   - When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage. 
-   - A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
-6. Sin Reaver.
-   - Only a lawful creature can wield this weapon.
-   - When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7 
-     points of slashing damage. 
-   - You must know the enemy alignment for the damage effect to happen!
-   - A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn. 
-   - Detect Lawfulness.
-7. Truth Teller.
-   - While you wield this weapon, you have an advantage on Will Saves made to discern or disbelieve illusions.
-   - A creature that has lied to you or tried to deceive you within the past 24 hours takes 7 points of fire damage whenever it touches the sword or is hit by a mêlée attack you make with it.
-   - The wielder cannot lie and –4 to deception checks.
+1. Charm Breaker. Enchantment. Lust.
+	- While you wield this weapon, whenever you start your turn subjected to the charmed condition, you can attempt a
+	  saving throw to end the condition immediately, even if the effect does not normally allow a saving throw.
+2. Eclipse. Transmutation. Greed.
+	- Held by Griselda, the hag queen.
+3. Glimmer Bane. Abjuration. Envy.
+	- This weapon has seven charges.
+	- It regains 6 charges daily at dawn.
+	- You can expend the weapon’s charges to cast detect magic (1 charge) or dispel magic (3 charges).
+	- In addition, when you see a creature within 60 feet of you casting a spell, you can use your reaction to expend two of the weapon’s charges to cast a counter-spell.
+4. Heat Death. Necromancy. Gluttony.
+	- While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you.
+	- Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw.
+	- The creature can’t regain hit points for 1 minute on a failure.
+	- At the end of each of its turns, the creature can repeat the saving throw to end the effect.
+5. Iron’s Oath. Conjuration. Sloth.
+	- While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical).
+	- When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage.
+	- A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
+6. Sin Reaver. Evocation. Wrath. 
+	- Only a lawful creature can wield this weapon.
+	- When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7
+	  points of slashing damage.
+	- You must know the enemy alignment for the damage effect to happen!
+	- A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn.
+	- Detect Lawfulness.
+7. Truth Teller. Illusion. Pride.
+	- While you wield this weapon, you have an advantage on Will Saves made to discern or disbelieve illusions.
+	- A creature that has lied to you or tried to deceive you within the past 24 hours takes 7 points of fire damage whenever it touches the sword or is hit by a mêlée attack you make with it.
+	- The wielder cannot lie and –4 to deception checks.

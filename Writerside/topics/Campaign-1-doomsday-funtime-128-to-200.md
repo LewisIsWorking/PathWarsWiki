@@ -58,9 +58,9 @@ The crystal lily flower is regrowing but is now purified.
 
 Tears fall like rain.
 
-Aarlak’s geomancy tells Aarlak that the desert of the infernal sandstorm predates Golarion significantly, and is most likely from the age of creation.
+Aarlak's geomancy tells Aarlak that the desert of the infernal sandstorm predates Golarion significantly, and is most likely from the age of creation.
 
-Aaren D’Cannith can tell Selendor that the tears have astral energy like the astral plane
+Aaren D'Cannith can tell Selendor that the tears have astral energy like the astral plane
 
 ### 9th Erastus. 4710 AR
 

@@ -6,20 +6,31 @@ Start typing here...
 [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
 TODO: Not to self, move Notion content over.
 
+P1 arcs:
+1. The Thistle Top Arc.
+2. The Murder Arc.
+3. Shard of Lust Arc.
+4. The Tomb of Tular Sept Arc.
+5. The Belhaim Arc.
+6. The Harrow Arc.
+
 ## DF Arc list.
 > Arc 1: Skull Hill Arc. Session 134 -> 138.
+>> - 5 sessions.
 >> - The Moon-Flower.
 >> - Drekk-Zal used the power of lunar magic to defeat the moon flower.
 
-> Arc 2: Collapsing Halls Arc. 
+> Arc 2: Collapsing Halls Arc.
+>> - 3 sessions.
 >> - Session 142 → 146.
 
 > Arc 3: Truth Teller Arc.
+>> - 3 sessions.
 >> - Session 148 → 150.
 
 > Arc 4: The Harrow Arc.
 >> - Session 153 → 189.
->> - 36ish sessions.
+>> - 37 sessions.
 >> - Amar became the Harrower.
 
 >> Arc 5: Necropolis Arc. 
