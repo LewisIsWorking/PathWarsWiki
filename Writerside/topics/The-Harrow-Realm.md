@@ -13,7 +13,7 @@ Cards collected so far:
 
 > #2: Ownership: The Empty/Broken Throne.
 >> - Great loss and wisdom from those who are now gone. Lawful good.
->> - Passive ability: As long as you have The Empty Throne invested, it grants you a +2 item bonus to Society and Lore checks made to Recall Knowledge regarding individuals who are no longer alive (such as checks to learn about Taldor's historical founder, but not to learn about its current empress). This increases to a +3 item bonus if you are at least 17th level.
+>> - Passive ability: Grants you a +2 item bonus to Society and Lore checks made to Recall Knowledge regarding individuals who are no longer alive (such as checks to learn about Taldor's historical founder, but not to learn about its current empress). This increases to a +3 item bonus if you are at least 17th level.
 >> - 1 Action (Concentrate) Once per Day : ou overwhelm a target you can see within 60 feet with feelings of helplessness and loss. The creature must attempt a Will save with a DC equal to your class DC or spell DC. 
 >>   - Critical Success: The target is unaffected. 
 >>   - Success: The target can't benefit from circumstance or status bonuses for 1 round. 
@@ -22,7 +22,7 @@ Cards collected so far:
 
 > #3: Ownership: Paladin.
 >> - Righteousness and resolute defense. Lawful good.
->> - Passive ability: The Paladin represents righteousness and resolute defense. As long as you have The Paladin invested, you gain the Shield Block general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block
+>> - Passive ability: As long as you have The Paladin invested, you gain the Shield Block general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block
 >> - Reaction (Concentrate): If you fail or critically fail a saving throw 
 >>   - Adjust the result of your saving throw up by one degree of success.
 
