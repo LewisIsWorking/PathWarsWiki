@@ -17,6 +17,7 @@ Cards collected so far:
 
 > #4: Ownership: The Rabbit Prince.
 >> - The unreliability of hand-to-hand combat, and how even cunning foes can lose to lucky novices. Chaotic Neutral.
+>> - Drawn by Allisee.
 
 > #5: Ownership: Locksmith.
 >> - The unlocking of fate. Lawful neutral.
