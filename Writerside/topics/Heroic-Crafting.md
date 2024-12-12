@@ -13,5 +13,5 @@ uncertainty about when an item will be completed to set up
 castle before they can finish their doomsday device, or rushing
 to build a raft before the tide comes in.
 
-The PDF describing the heroic crafting rules is HERE: 
-<resource src="../images/Heroic Crafting rules.PDF"/>
+The PDF describing the heroic crafting rules is [here](../images/Heroic_Crafting_rules.PDF): 
+<resource src="../images/Heroic_Crafting_rules.PDF"/>
