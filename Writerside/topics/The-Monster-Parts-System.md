@@ -6,9 +6,9 @@
 Each monster defeated can be harvested for "monster parts" .
 These parts have a value dependent on the size and level of the monster and also have a bulk value(dependent on size).
 
-These parts can be used to craft items instantaneously as per the rules described in the PDF here 
-
-<resource src="../images/Monster_Parts_Full.PDF"/>.
+These parts can be used to craft items instantaneously as per the rules described in the PDF [here](../images/Monster_Parts_Full.PDF).
+<resource src="../images/Monster_Parts_Full.PDF"></resource>
+.
 You don't need to use specific parts for specific things(no restrictions on imbuement or types of items craftable in this way based on the monster:
 
 
