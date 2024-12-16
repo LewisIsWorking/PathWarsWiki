@@ -83,3 +83,7 @@ You get two bonus feats for free:
 
 ## Rolling Ability Scores
 - Status: Banned
+
+## Hero Point Deck
+- Status: Required.
+This is done via the foundry character sheet interface, where you can draw and trade cards.

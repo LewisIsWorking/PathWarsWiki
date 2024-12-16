@@ -55,7 +55,12 @@ You can only buy fame awards when you have an amount of fame equal than or great
 
 ### Fame 30.
 
-?
+1. Tier-3 Arcane Study. 3 PP. Permeant.
+2. Blood-Bound. 2 PP. Title. Permanent.
+3. Escape death. Once per character level.
+4. Officer. 5 PP. Title Permanent.
+5. Warden. 5 PP. Title. Permanent.
+6. Wordly fane. 2 PP. 24 hours.
 
 ## The party's current awards.
 
