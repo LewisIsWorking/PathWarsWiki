@@ -37,7 +37,7 @@ Selenor plane shifts to the runewild.
 > Selenor talks to Griselda.
 >> - A place on the mushfens.
 
-## Session 226. 2024 November 26th Tuesday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island.
+## Session 226. 2024 November 26th Tuesday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 1.
 
 12:00.
 
@@ -50,3 +50,17 @@ Selenor plane shifts to the runewild.
 - After Selenor uses his 1/day casting of suggestion using the sin shard of lust, the entryway opens.
 - A spiral staircase brings the heroes to a large perfectly cubical room (kind of cavern?), inside is an arcane manor.
 
+## Session 227. 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2.
+
+13:00.
+
+- Selenor opens the door of the underground arcane manor.
+
+13:30.
+Foyer.
+
+13:40.
+Denufair can feel joy because he is an eldamon.
+
+14:00.
+Defeated Space Ooze.

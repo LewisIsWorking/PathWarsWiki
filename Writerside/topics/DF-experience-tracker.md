@@ -396,3 +396,42 @@ Monster parts:
 - Monster parts.
 1. Daemonic Mummy Prophet Of Set = 1250 GP. Size = Medium. 
 2. Vio-Raokan Servant of the 5th = 1850 GP. Size = Large.
+
+## Session 227. 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2.
+
+- Poop ooze.
+
+> Present characters.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 390.
+>> - Selenor. Level 11. Exp: 1080.
+
+> Poop ooze.
+>> - 11 = 40 x 1 = 40.
+>> - Monster parts = 390 GP. Huge. Looted by Allisee.
+
+> Level 11. + 40. 
+>> - Lt. Viole Jule Grace. Level 11. Total = 390 + 40 = 430.
+>> - Selenor. Level 11. Total = 1080 + 40 = 1120.
+
+- Space Slime.
+
+> Present characters.
+>> - Allisee. Level 11. Exp: 430.
+>> - Cardigan. Level 12. Exp: 495.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 390.
+>> - Selenor. Level 11. 1120. Exp: 1120.
+
+> Space slime.
+>> - Monster parts: 840 GP. Looted by Lt. Viole Jule Grace.
+>> - Size = Gargantuan.
+>> - Level 11 = 80 x 1 = 80.
+>> - Level 12 = 60 x 1 = 60.
+
+> Level 11. 80.
+>> - Allisee. Level 11. Exp: 430 + 80 = 510.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 390 + 80 = 470.
+>> - Selenor. Level 11. Exp: 1120 + 80 = 1200! Level up! Exp: 0.
+
+> Level 12. 60.
+>> - Cardigan. Level 12. Exp: 495 + 60 = 555.
+
