@@ -117,33 +117,33 @@ Each High-Vale blade has a unique name and a unique property.
 
 ## Blade abilities.
 
-1. Charm Breaker. Enchantment. Lust(Chastity). Red.
+1. Charm Breaker. Enchantment. Lust. Red.
 	- While you wield this weapon, whenever you start your turn subjected to the charmed condition, you can attempt a
 	  saving throw to end the condition immediately, even if the effect does not normally allow a saving throw.
-2. Eclipse. Transmutation. Greed(Charity). Yellow.
+2. Eclipse. Transmutation. Greed. Yellow.
 	- Held by Griselda, the hag queen.
-3. Glimmer Bane. Abjuration. Envy(Kindness). Green.
+3. Glimmer Bane. Abjuration. Envy. Green.
 	- This weapon has seven charges.
 	- It regains 6 charges daily at dawn.
 	- You can expend the weapon’s charges to cast detect magic (1 charge) or dispel magic (3 charges).
 	- In addition, when you see a creature within 60 feet of you casting a spell, you can use your reaction to expend two of the weapon’s charges to cast a counter-spell.
-4. Heat Death. Necromancy. Gluttony(Temperence). Purple.
+4. Heat Death. Necromancy. Gluttony. Purple.
 	- While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you.
 	- Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw.
 	- The creature can’t regain hit points for 1 minute on a failure.
-	- At the end of each of its turns, the creature can repeat the saving throw to end the effect.
-5. Iron’s Oath. Conjuration. Sloth(Diligence). Blue.
+	- At the end of each of the affected creature's turns, the creature can repeat the saving throw to end the effect.
+5. Iron’s Oath. Conjuration. Sloth. Blue.
 	- While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical).
 	- When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage.
 	- A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.
-6. Sin Reaver. Evocation. Wrath(Patience). Orange.
+6. Sin Reaver. Evocation. Wrath. Orange.
 	- Only a lawful creature can wield this weapon.
 	- When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7
 	  points of slashing damage.
 	- You must know the enemy alignment for the damage effect to happen!
 	- A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn.
 	- Detect Lawfulness.
-7. Truth Teller. Illusion. Pride(Humility). Pink.
+7. Truth Teller. Illusion. Pride. Pink.
 	- While you wield this weapon, you have an advantage on Will Saves made to discern or disbelieve illusions.
 	- A creature that has lied to you or tried to deceive you within the past 24 hours takes 7 points of fire damage whenever it touches the sword or is hit by a mêlée attack you make with it.
 	- The wielder cannot lie and –4 to deception checks.
