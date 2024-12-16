@@ -44,6 +44,8 @@
             <toc-element topic="Writerside-setup.md"/>
         </toc-element>
         <toc-element topic="Homebrew.md">
+            <toc-element topic="The-Monster-Parts-System.md"/>
+            <toc-element topic="Heroic-Crafting.md"/>
             <toc-element topic="3rd-party-content-and-options.md"/>
             <toc-element topic="Dual-Class-Stat-Boost.md"/>
             <toc-element topic="Faction-signup-rewards.md"/>

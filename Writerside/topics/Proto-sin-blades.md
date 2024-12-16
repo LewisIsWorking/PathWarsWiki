@@ -131,7 +131,7 @@ Each High-Vale blade has a unique name and a unique property.
 	- While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you.
 	- Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw.
 	- The creature can’t regain hit points for 1 minute on a failure.
-	- At the end of each of its turns, the creature can repeat the saving throw to end the effect.
+	- At the end of each of the affected creature's turns, the creature can repeat the saving throw to end the effect.
 5. Iron’s Oath. Conjuration. Sloth. Blue.
 	- While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical).
 	- When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage.

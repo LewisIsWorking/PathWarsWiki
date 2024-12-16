@@ -10,4 +10,12 @@
         <description>Created after removal of "This is the first topic" from Help Instance</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="60289854">
+        <description>Created after removal of "The Monster Part System" from Main Instance</description>
+        <accepts>The-Monster-Part-System.html</accepts>
+    </rule>
+    <rule id="bef5c2a">
+        <description>Created after removal of "Third Party" from Main Instance</description>
+        <accepts>Third-Party.html</accepts>
+    </rule>
 </rules>
