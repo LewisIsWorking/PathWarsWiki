@@ -10,6 +10,126 @@ Start typing here...
 - Rogue & Sorcerer.
 - Harrower.
 
+## Aurelia Denure.
+
+> Aurelia Denure
+>> - Name meaning: she of gold, representing the hopes her family held for her, last of the "Denure" line. 
+>> - born: 4498 8 Sarenith. 
+>> - class: wizard. 
+>> - opinions of class: even after all these hundreds of years, she still admires the wondrous splendour of magic, though recently she has become more utilitarian in its use 
+
+> Origin of class: 
+>> - she came into her talent in magic at a young age after finding an abandoned scroll of prestidigitation. 
+>> - In less than a month, managed to reverse-engineer it to the basic mechanics of magic.
+>> - She utilized this to cast the spell, at which point her hunger for magic became insatiable who trained her: she was initially self-taught. 
+>> - When she was older, her parents sent her to Magaambya in order to hone her skills. 
+>> - Though she did end up dropping out when her family was erased from history class 2: fighter.
+
+> Opinions of class: she will find it a valuable tool, and may grow in time to love thrill of combat as she does the splendour of magic
+> Race: elf
+> subrace: ancient
+> have they met others of their race: she was raised by her biological family and lives in a kingdom with a significant elf population
+does your character like your race: she has the same opinions on her race that most people do, she doesn't really think about it much, though she has grown to distrust people in general recently
+where was she born and raised: mwangi expanse
+parents and family: she was the oldest child of a pair of well-known merchants, she doted on her younger brother dearly, and loved her parents, however they mysteriously vanished along with their family home and all memory of them one day.
+
+>> - Parents names: she lost the memories of their names and faces when they disappeared. Though she did manage to remember their existences. 
+>> - are they alive: no, they are so not alive that they were never alive parents professions: merchants of great repute.
+>> - Any other family: a little brother who she doted on until he disappeared with her parents
+>> - sexuality: demisexual pan romantic, though she would not be able to tell you this because she has never even thought 
+about romance in her life because she is history's most repressed nerd 
+>> - marital status: single
+>> - kids: no
+>> - want kids: she is conflicted, on the one hand, they remind her of her little brother, on the other hand, they 
+remind her of her little brother.
+>> - Is she in love? No, not currently.
+>> - Has she been in love? Not yet.
+>> - alignment: bordering between neutral and chaotic good
+>> - moral code: deliver only what others would deliver unto me, protection of the innocent
+>> - goals: find out what happened to her family, stop the apocalypse that she keeps having dreams about
+>> - follow a god: she has studied gods fiercely, and finds them too human to be worthy of worship, she admires many of them for their deeds and power, but she does not worship
+>> - personal beliefs: everything that happens was always fated to happen, at the root of magic lies the ability to break that line of causality
+>> - personality quirks: tends to ramble a lot when conversation broaches a subject she is knowledgeable in, otherwise quite quiet and subdued, almost mournful
+>> - antisocial: does not dislike the company of others, but is a bit awkward
+>> - arrogant: at times she tends to become overconfident in her magic
+>> - optimistic: no, she is about as pessimistic as it is possible to be, she has suspected that the end of the world is coming for about 50 years
+>> - paranoid: exceptionally so, she knows that there is some force out there with a reason to target her family and the ability to manipulate memories on a national scale
+>> - why does she adventure: to find out what happened to her parents and save the world
+>> - how does she view her role as an adventurer: a protector first and foremost
+>> - get along with others: her awkwardness and lack of experience make her a bit stiff and cold at first, but she rarely causes trouble with others
+>> - The things the character hates: followers of groetus, talking about her past or her family
+>> - fears: failure and being erased in the same way her parents were
+
+>> - gender: female (cis: has literally never thought about gender before, might be non-binary if forced to think about it)
+>> - height: 5'4
+>> - weight: 45 kg
+>> - skin colour: slightly tanned in the face, though when she takes off her cloak, the rest of her skin is notably paler
+>> - eye colour: a deep purple almost dark enough to be mistaken for black
+>> - hair colour: black, an experiment with transmutation in her youth, tinted the ends pink, but she keeps the ends hidden in her hood most of the time
+>> - hair length: slightly below shoulder-length, tied into a bun and stuffed into her hood most of the time
+>> - physique: she is lithe and has more recently built up fairly impressive musculature from training with her bow, she tends to wear loose leather armour and a cloak, so not much can be determined about her figure, though the way it falls does suggest quite wide hips.
+>> - additional attributes: her eyes glow very slightly, which becomes noticeable in the dark
+>> - how does she speak: slow and stilted, almost awkward, unless the topic is one in which she is knowledgeable, at which point she becomes verbose and animated
+>> - mannerisms: similar to speech, doesn't tend to emote much unless rambling
+>> - distinguishing marks: no
+>> - birthmarks: one on the small of her back
+>> - scars: no
+>> - deformities: no
+>> - attractive: she is mildly above average
+>> - breast size: completely average, perhaps slightly smaller
+>> - what weapon does she use: a composite longbow that she crafted herself and filled with a variety of runes, 
+she is self-taught in its usage, which means that despite her experience, her technique is not amazing
+(will change when she takes the sword)
+>> - armour: she wears a pair of runic bracers of defence that she crafted herself, and a cloak that she uses to go around relatively unnoticed
+>> - does she like magic: see class
+>> - is she magical: her body is a testament to mildly nonsensical experimentation, however, it is not immediately noticeable
+>> - spells: this feels kind of redundant with the class section, she can cast sixth level spells
+>> - equipment: aurelia doesn't tend to carry a lot around with her, but she does have a bag of holding
+>> - alignment scale: 10 3
+>> - Instead of background by each year, I am going to summarize.
+She is 212 years old and I really don't want to write all that.
+Discovered magic at an early age, was fascinated by it.
+She continued to study it as she grew, entering magaambya 
+initially as a student and graduating to become a researcher there. 
+Then left to pursue her goals after her family disappeared from history. 
+She Has since spent the time becoming more utilitarian as opposed to her previous academic focus.
+Learning about the dangers of the world as she hones her practical skills.
+>> - plot hooks: to be discussed with a gm I believe
+
+> Year by year breakdown.
+>> - 4498: born, was her parents' third attempts at a child, named aurelia as the golden hope of the family
+>> - 4499-4502 she developed faster than her peers, but always seemed slightly listless, never taking joy in anything
+>> - 4503: she discovered a scroll of prestidigitation, and managed to differentiate it to the basic principles of magic, allowing her to cast the spell
+>> - 4504: as she continues to learn magic at a relatively rapid pace for one of her races, her parents begin to 
+have her hailed as a prodigy.
+>> - 4523: she finally manages to convince her parents to attend magaambya
+>> - 4524: a slight misinterpretation on a light spell causes her to permanently dye the tips of her hair a luminous pink, she tries to shave it off in embarrassment, but it grows back still in pink
+>> - 4525: she skips a grade, becoming the first elf to do so in nearly a century
+>> - 4528: she theoretically should have graduated by this point, but she was so invested in her research that she begged the school to let her stay so that she can continue working on her research
+>> - 4528-4628: R E A S E A R C H, she occasionally goes home and is on amicable terms with her parents
+>> - 4629: her parents manage to conceive a second child, he is her younger brother, and she loves him dearly, 
+coming home more often now in order to dote on him.
+>> - 4645: more research, this time with frequent breaks in order to see her brother and watch him grow
+>> - 4646: she begins to experience nightmares of the end of the world, her research turns slightly in that direction
+>> - 4649: one day, she comes to her parents' estate to find it gone, and upon asking around, no one has any idea that it ever existed, nor that they, or even she did.
+>> - 4650: she realizes that she has forgotten her family names, she has not left her room in magaambya for several years
+>> - 4655: she becomes convinced that her apocalyptic dreams are somehow to blame for her family disappearance, and begins to research potential world ending catastrophes
+>> - 4658: having learned all she could on the matter from the libraries of magaambya, she leaves, having never officially graduated, and begins exploring the world for secrets that might unlock the key to her family
+>> - 4668: having wandered into an anti-magic field and almost been mauled to death by a rabid bear.
+     > She resolves to learn alternative means of defending herself.
+     > She picked up the bow, the traditional weapon of 
+     > her people, she is absolutely terrible at using it.
+>> - 4678: she got so invested in training with her bow in the wilderness that she did not leave for ten years until she was moderately proficient
+>> - 4679: she once again returns her quest, learning more and more about the potential dangers that slumber within the dark even as her magic grows in power
+>> - 4684: she begins to join others on her adventures, starting to relearn how to socialize after her many years of isolation
+>> - 4690: her party is killed by a corrupt noble looking to steal treasure that they had found, causing her to embark upon a quest for revenge
+>> - 4691: the nobleman escapes and goes into hiding, she becomes obsessed with tracking him down
+>> - 4692: the nobleman is mauled to death by the cub of the cub of the bear that almost killed her so long ago, she is unaware of this and continues her hunt
+>> - 4695: she eventually gives up, retreating into herself again as she attempts to tackle her own mortality and the fragility of life
+>> - 4710: She has come to terms with her original party's death.
+She prepares herself to find a new group in order to continue her exploration of those parts of the world
+that are deeply hidden enough to hold what may be the end of the world.
+
 ## Allisee Tra-Umna.
 - Main character.
 - Barbarian & Witch.
@@ -233,7 +353,7 @@ Usually too proud to fear, but will if shown he is weaker
 
 Plot threads.
 1. Prove that experimental soul-splitting mech-puppets are viable defence systems. 
-2. Save last wall from the undead. 
+2. Save the Last wall from the undead. 
 3. .
 4. .
 5. .

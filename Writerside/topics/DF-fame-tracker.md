@@ -164,6 +164,6 @@ Selenor = 4/31 + 1 + 2 (diplomacy award) = 7/34.
 
 Selenor then buys Warden for 5 points.
 
-New Totals.
+New Totals for PP.
 Allisee = 14/19.
 Selenor = 2/34.
