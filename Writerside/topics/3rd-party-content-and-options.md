@@ -1,4 +1,4 @@
-# 3rd party content &amp; options
+# 3rd party content & options
 
 Start typing here...
 
