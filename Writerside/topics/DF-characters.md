@@ -5,6 +5,8 @@ Start typing here...
 - Alphabetically ordered.
   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z.
 
+## A.
+
 ## Amar Rookmoon.
 - Main character.
 - Rogue & Sorcerer.
@@ -135,6 +137,8 @@ that are deeply hidden enough to hold what may be the end of the world.
 - Barbarian & Witch.
 - Wielder of Moon-bear. [See: Moon-bear-and-artifacts-overview.md](Moonbear-and-artifacts-overview.md)
 
+## C.
+
 ## Carnon.
 
 - Race: Conrasus.
@@ -209,6 +213,8 @@ that are deeply hidden enough to hold what may be the end of the world.
 	8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
 	9. Who is the Aeon?
 
+## D.
+
 ## Doctor Buju.
 
 - Nothing to see here ;)
@@ -218,11 +224,14 @@ that are deeply hidden enough to hold what may be the end of the world.
 - High captain of the city guard.
   James gave Amar a magical tracking ring.
 
-## Rosalyn / Ambrosia.
+## L.
 
-- Age: 36.
-- Race: Strix.
-- Class: Kinetist.
+## Lire (Evonor).
+
+- Lire's lover is called Annamarie.
+- Selenor has undead children.
+- Selenor found Annamarie's corpse in the grave-lands.
+- 
 
 ## Locus The Expanding Void.
 - Main character.
@@ -341,9 +350,39 @@ Not much.
 
 Usually too proud to fear, but will if shown he is weaker
 
+## R.
+
+## Rosalyn / Ambrosia.
+
+- Age: 36.
+- Race: Strix.
+- Class: Kinetist.
+
+## S. 
+
 ## Selenor.
 - Main character.
 - Champion & Oracle.
+
+## Syver.
+
+>> Overview.
+> - Class: Gunslinger & Magus.
+> - Level: 11.
+> - Race: Sprite.
+
+>> Backstory.
+> - Syver, formerly known as Elionova, is a draxie sprite who is well over 500 and was born and was raised on the prime plane as a nomad forever wandering until his 10th birthday.
+> - Where shortly after his parents vanished, he spent the next 25 years before giving up and becoming an adventurer.
+> - They decided to try out a few weapons and stuck with the rifle, and they hunted for the next few hundred years.
+> - They never really gained praise as they were more of a background character by choice it wasn't until that fateful day 
+> - When they saw Seraphine getting tossed around by a sea dragon.
+> - I couldn't leave a child to that fate, so I shot the dragon and since then they became inseparable for around 90 years before going missing.
+> - Where I proceed to drain and liquidate everything I have using every contact and calling in every favour, they were not going to let another loved one vanish into the ether. 
+> - 40 years later, I found her, but her beautiful pine wings were missing.
+> - There I found out they were stolen from her while mine only grew. 
+> - I felt so much pain for her, they vowed to find her wings or find a way for her to get new wings.
+> - I also vowed to stay close to her.
 
 ## Vargos.
 - Evil but not super evil.
