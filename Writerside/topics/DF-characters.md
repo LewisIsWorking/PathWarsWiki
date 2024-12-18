@@ -137,6 +137,8 @@ that are deeply hidden enough to hold what may be the end of the world.
 - Barbarian & Witch.
 - Wielder of Moon-bear. [See: Moon-bear-and-artifacts-overview.md](Moonbear-and-artifacts-overview.md)
 
+## B.
+
 ## C.
 
 ## Carnon.
@@ -219,10 +221,24 @@ that are deeply hidden enough to hold what may be the end of the world.
 
 - Nothing to see here ;)
 
+## E.
+
+## F. 
+
+## G. 
+
+## H.
+
+## I. 
+
+## J. 
+
 ## James Dark-moon.
 - Side character.
 - High captain of the city guard.
   James gave Amar a magical tracking ring.
+
+## K. 
 
 ## L.
 
@@ -350,6 +366,16 @@ Not much.
 
 Usually too proud to fear, but will if shown he is weaker
 
+## M.
+
+## N.
+
+## O.
+
+## P.
+
+## Q. 
+
 ## R.
 
 ## Rosalyn / Ambrosia.
@@ -383,6 +409,13 @@ Usually too proud to fear, but will if shown he is weaker
 > - There I found out they were stolen from her while mine only grew. 
 > - I felt so much pain for her, they vowed to find her wings or find a way for her to get new wings.
 > - I also vowed to stay close to her.
+
+## T.
+
+## U. 
+
+
+## V.
 
 ## Vargos.
 - Evil but not super evil.
@@ -456,6 +489,8 @@ Plot threads.
 - Bathe in blood, break the sky.
 - ... Be the key, open the lock.
 
+## W.
+ 
 ## Welter.
 - Side character.
 - Scholar.
@@ -466,4 +501,10 @@ Plot threads.
 - Sin-empire scholar.
 
 The party met Welter at the Black rock mine (session 216ish).
+
+## X.
+
+## Y.
+
+## Z. 
 
