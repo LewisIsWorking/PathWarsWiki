@@ -217,6 +217,11 @@ that are deeply hidden enough to hold what may be the end of the world.
 
 ## D.
 
+## Dr Zhey
+ - Resident mind fucker of the Magnimar blacksite
+ - Doesn't trust Keleri too much
+ - Doesn't like working 'under' people. Arrogence?
+
 ## Doctor Buju.
 
 - Nothing to see here ;)
@@ -227,18 +232,34 @@ that are deeply hidden enough to hold what may be the end of the world.
 
 ## G. 
 
+## Griselda
+ - Great-grandmother of Selenor.
+ - Mother of Jumina
+ - Current holder of Eclipse. https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Proto-sin-blades.md#ownership-eclipse 
+
 ## H.
 
 ## I. 
 
 ## J. 
 
+
 ## James Dark-moon.
 - Side character.
 - High captain of the city guard.
   James gave Amar a magical tracking ring.
 
+## Jumina  
+ - Selenor's grandmother. 
+ - Was captured by death's servants in an attempt to free the Blackrock prisoner. 
+
 ## K. 
+
+## Keleri 
+ - Side Character
+ - In charge of the Sandpoint charter, and leader of sandpoint. 
+ - Dictator in everything but name
+
 
 ## L.
 
@@ -247,7 +268,12 @@ that are deeply hidden enough to hold what may be the end of the world.
 - Lire's lover is called Annamarie.
 - Selenor has undead children.
 - Selenor found Annamarie's corpse in the grave-lands.
-- 
+-
+ 
+## Lisa Tamerhawk
+ - Resident research / experimenter of Sandpoint
+ - Wants to disect, in a friendly way, Viole.
+
 
 ## Locus The Expanding Void.
 - Main character.
@@ -370,6 +396,9 @@ Usually too proud to fear, but will if shown he is weaker
 
 ## N.
 
+## Nisala, god of Sin
+ - Helped the runelords use virtue magic, before they corrupted it and created sin magic
+
 ## O.
 
 ## P.
@@ -383,6 +412,10 @@ Usually too proud to fear, but will if shown he is weaker
 - Age: 36.
 - Race: Strix.
 - Class: Kinetist.
+
+## Runelords
+ - Gone from reality, souls have been cleansed.
+ - Created the proto sin blades. 
 
 ## S. 
 
@@ -412,6 +445,11 @@ Usually too proud to fear, but will if shown he is weaker
 
 ## T.
 
+## The Fifth Horseman 
+- Locked away by nine deities
+- Blackrock prisoner is his servant
+- Connected to the god of oblivion? 
+
 ## U. 
 
 
@@ -429,6 +467,11 @@ Plot threads.
 3. .
 4. .
 5. .
+
+## Verisians
+ - Lesser runelords.
+ - Can slightly use sin magic.
+ - Cling to the old cities like 'maggots to a corpse' 
 
 ## Viole Jule Grace.
 - Player: Moonlight.
@@ -505,6 +548,11 @@ The party met Welter at the Black rock mine (session 216ish).
 ## X.
 
 ## Y.
+
+## Yubis 
+ - Allisee grandmother
+ - Mythical figure, who has re-incarnate hundreds of times and found their love in every lifetime
+ - Allisee currently posses half of her soul. 
 
 ## Z. 
 
