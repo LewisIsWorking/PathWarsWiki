@@ -223,9 +223,10 @@ that are deeply hidden enough to hold what may be the end of the world.
 ## D.
 
 ## Dr Zhey
- - Resident mind fucker of the Magnimar black site
- - Doesn't trust Keleri too much
- - Doesn't like working 'under' people. Arrogant?
+ - Was first encountered at Hell prison in Magnimar.
+ - Doesn't overly trust Keleri.
+ - Doesn't like working for the people of Magnimar, has other obligations which are prioritised more highly.
+ - OPTION of Carnon: Arrogant?
 
 ## Doctor Buju.
 
@@ -240,7 +241,7 @@ that are deeply hidden enough to hold what may be the end of the world.
 ## Griselda
  - Great-grandmother of Selenor.
  - Mother of Jumina
- - Current holder of Eclipse. https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Proto-sin-blades.md#ownership-eclipse 
+ - Current holder of the proto-sin blade Eclipse. See more information here: https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Proto-sin-blades.md#ownership-eclipse 
 
 ## H.
 
@@ -255,16 +256,18 @@ that are deeply hidden enough to hold what may be the end of the world.
   James gave Amar a magical tracking ring.
 
 ## Jumina  
- - Selenor's grandmother. 
- - Was captured by Death's servants in an attempt to free the Blackrock prisoner. 
+- Main character.
+- Player: gone.
+- Selenor's grandmother.
+- Was captured by Death's servants in an attempt to free the Blackrock prisoner. 
 
 ## K. 
 
-## Keleri 
- - Side Character
- - In charge of the Sandpoint charter, and leader of Sandpoint. 
- - Dictator in everything but name
-
+## Keleri Deverin
+ - Side Character.
+ - In charge of the Sandpoint charter, and leader of the Heroes of Sandpoint.
+ - Cousin of Kendra Deverin.
+ - OPINION of Carnon: Dictator in everything but name
 
 ## L.
 
@@ -418,9 +421,10 @@ Usually too proud to fear, but will if shown he is weaker
 - Race: Strix.
 - Class: Kinetist.
 
-## Runelords
- - Gone from reality, souls have been cleansed.
- - Created the proto-sin blades. 
+## Sin Lords
+- Side characters.
+- Gone from reality, souls have been cleansed.
+- Created the proto-sin blades. 
 
 ## S. 
 
@@ -451,9 +455,9 @@ Usually too proud to fear, but will if shown he is weaker
 ## T.
 
 ## The Fifth Horseman 
-- Locked away by nine deities
-- Blackrock prisoner is his servant
-- Connected to the god of oblivion? 
+- Locked away by nine deities.
+- Blackrock prisoner is his servant.
+- OPINION of Carnon: Connected to the god of oblivion? 
 
 ## U. 
 
@@ -558,9 +562,9 @@ The party met Welter at the Black Rock mine (session 216ish).
 - Main character.
 - Player: Left.
 
- - Allisee grandmother
- - Mythical figure, who has re-incarnate hundreds of times and found their love in every lifetime
- - Allisee currently possesses half of her soul. 
+- Allisee's grandmother.
+- Mythical figure, who has re-incarnate hundreds of times and found their love in every lifetime.
+- Allisee currently possesses half of her soul. 
 
 ## Z. 
 
