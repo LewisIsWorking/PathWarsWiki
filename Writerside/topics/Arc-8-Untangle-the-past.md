@@ -64,3 +64,6 @@ Denufair can feel joy because he is an eldamon.
 
 14:00.
 Defeated Space Ooze.
+
+14:50.
+In play by post, the party talks to the wizard Zarzan Quilit.

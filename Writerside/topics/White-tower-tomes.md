@@ -986,11 +986,12 @@ These kind of innovations make me think that whilst Azlant may never catch up
 
 Aeon Display.
 
-A  three-pronged magical candlestick holder that can hold up to 3 aeon stones.
+A three-pronged magical candlestick holder that can hold up to 3 aeon stones.
 
 Any aeon stone placed on the Aeon Display grants its effects to all allies within 30 feet.
 
-Additionally, when 3 aeon stones are placed upon the Aeon DIsplay the stones shine their light of their colours in a large AOE around the wielder.
+Additionally, when 3 aeon stones are placed upon the Aeon Display, the stones shine their light of their colours in a 
+large AOE around the wielder.
 
 Current Generator.
 
