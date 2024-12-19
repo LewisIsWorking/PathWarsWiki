@@ -15,7 +15,7 @@ Start typing here...
 
 ## Aurelia Denure.
 
-- Main character.
+- Main character. 
 - The player has left.
 
 > Aurelia Denure
@@ -36,8 +36,8 @@ Start typing here...
 > Race: elf
 > Subrace: ancient
 > Have they met others of their race?: she was raised by her biological family and lives in a kingdom with a significant elf population
-does your character like your race: she has the same opinions on her race that most people do, she doesn't think about it much, though she has grown to distrust people in general recently
-where was she born and raised: Mwangi Expanse
+does your character like your race: she has the same opinions on her race that most people do, but she doesn't think about it much, though she has grown to distrust people in general recently
+where was she born and raised: Mwangi Expanse.
 parents and family: she was the oldest child of a pair of well-known merchants, she doted on her younger brother dearly and loved her parents, however, they mysteriously vanished along with their family home and all memory of them one day.
 
 >> - Parents' names: she lost the memories of their names and faces when they disappeared. Though she did manage to remember their existence. 
@@ -115,26 +115,26 @@ have her hailed as a prodigy.
 >> - 4528: she theoretically should have graduated by this point, but she was so invested in her research that she begged the school to let her stay so that she can continue working on her research
 >> - 4528-4628: R E A S E A R C H, she occasionally goes home and is on amicable terms with her parents
 >> - 4629: her parents manage to conceive a second child, he is her younger brother, and she loves him dearly, 
-coming home more often now in order to dote on him.
->> - 4645: more research, this time with frequent breaks in order to see her brother and watch him grow
->> - 4646: she begins to experience nightmares of the end of the world, her research turns slightly in that direction
->> - 4649: one day, she comes to her parents' estate to find it gone, and upon asking around, no one has any idea that it ever existed, nor that they, or even she did.
->> - 4650: she realizes that she has forgotten her family names, she has not left her room in magaambya for several years
->> - 4655: she becomes convinced that her apocalyptic dreams are somehow to blame for her family disappearance, and begins to research potential world ending catastrophes
->> - 4658: having learned all she could on the matter from the libraries of magaambya, she leaves, having never officially graduated, and begins exploring the world for secrets that might unlock the key to her family
+coming home more often now to dote on him.
+>> - 4645: more research, this time with frequent breaks to see her brother and watch him grow
+>> - 4646: she begins to experience nightmares of the end of the world, and her research turns slightly in that direction
+>> - 4649: one day, she comes to her parent's estate to find it gone, and upon asking around, no one has any idea that it ever existed, nor that they, or even she did.
+>> - 4650: she realizes that she has forgotten her family names, she has not left her room in Magaambya for several years
+>> - 4655: she becomes convinced that her apocalyptic dreams are somehow to blame for her family's disappearance, and begins to research potential world-ending catastrophes
+>> - 4658: having learned all she could on the matter from the libraries of magatama, she leaves, having never officially graduated, and begins exploring the world for secrets that might unlock the key to her family
 >> - 4668: having wandered into an anti-magic field and almost been mauled to death by a rabid bear.
      > She resolves to learn alternative means of defending herself.
      > She picked up the bow, the traditional weapon of 
-     > her people, she is absolutely terrible at using it.
+     > Her people, she is absolutely terrible at using it.
 >> - 4678: she got so invested in training with her bow in the wilderness that she did not leave for ten years until she was moderately proficient
->> - 4679: she once again returns her quest, learning more and more about the potential dangers that slumber within the dark even as her magic grows in power
+>> - 4679: she once again returns to her quest, learning more and more about the potential dangers that slumber within the dark even as her magic grows in power
 >> - 4684: she begins to join others on her adventures, starting to relearn how to socialize after her many years of isolation
->> - 4690: her party is killed by a corrupt noble looking to steal treasure that they had found, causing her to embark upon a quest for revenge
+>> - 4690: her party is killed by a corrupt noble looking to steal a treasure that they had found, causing her to embark upon a quest for revenge
 >> - 4691: the nobleman escapes and goes into hiding, she becomes obsessed with tracking him down
 >> - 4692: the nobleman is mauled to death by the cub of the cub of the bear that almost killed her so long ago, she is unaware of this and continues her hunt
->> - 4695: she eventually gives up, retreating into herself again as she attempts to tackle her own mortality and the fragility of life
+>> - 4695: she eventually gives up, retreating into herself again as she attempts to tackle her mortality and the fragility of life
 >> - 4710: She has come to terms with her original party's death.
-She prepares herself to find a new group in order to continue her exploration of those parts of the world
+She prepares herself to find a new group to continue her exploration of those parts of the world
 that are deeply hidden enough to hold what may be the end of the world.
 
 ## Allisee Tra-Umna.
@@ -154,11 +154,11 @@ that are deeply hidden enough to hold what may be the end of the world.
 
 - What does your character look like?
 	1. A tall gnarled vaguely humanoid body, with a torso that expands up from the waist like a cone instead of a triangle.
-	2. The head is immobile with gemstones for eyes.
+	2. The head is immobile with gemstones for the eyes.
 	3. The torso is covered in multiple layers of metal cords,
-	4. but there are two spots that reveal a smooth black surface beneath, with blue markings that look like drawn on eyes.
+	4. but two spots reveal a smooth black surface beneath, with blue markings that look like drawn-on eyes.
 	5. The cords extend down their arms, ending several inches above the wrist.
-	6. Below that is fabric that hangs almost down to their knees.
+	6. Below that is a fabric that hangs almost down to their knees.
 
 **Backstory.**
 
@@ -177,14 +177,14 @@ that are deeply hidden enough to hold what may be the end of the world.
 - His research led him to a coastal city, where they, through much persuasion, managed to land an apprenticeship
   with a gunsmith named Belron.
 - They learned the craft with much fervour, applying much of their Magus weapons training, and teachings the Druids gave them.
-- They were able to create a powerful firearm that utilized the manticore trophy.
+- They were able to create a powerful firearm that utilized the Manticore trophy.
 - During an excursion into a different city to peddle the wares their Mentor Belron the Gunsmith had crafted, Belron
-  the Gunsmith was attacked inside his store.
+  The gunsmith was attacked inside his store.
 - Upon returning to their Store, Carnon found it burnt down, and his mentor Belron the Gunsmith was slain.
 - With their great skill in Smithing, Gunnery, and the arcane Arts, Carnon was recruited into the city's Guard.
 - This served Carnon, as they mentored under the city Investigator: Opus The Investigator.
 - Opus The Investigator helped him pursue leads to what happened to their Mentor Belron the Gunsmith's store.
-- Eventually the case had grown cold, but Carnon stayed on with the guards for several more years.
+- Eventually, the case had grown cold, but Carnon stayed on with the guards for several more years.
 - During one investigation, the clues lead to Carnon being the perpetrator of several murders.
 - Not being able to clear their name, Carnon fled on a ship, leaving the town.
 - They spent some months on this ship where they learned from an esoteric man the secrets that certain crystals
@@ -197,14 +197,14 @@ that are deeply hidden enough to hold what may be the end of the world.
   They are currently on the run from a city guard, but they also want to collect knowledge for their Aeon.
 
 - Ideas:
-	1. Create / find the world's greatest firearm?
-	2. Thoughts on civilisation/forms of civilisations?
+	1. Create/find the world's greatest firearm.
+	2. What are your thoughts on civilisation/forms of civilisation?
 	   Not biased.
 	   Druidic way of life is self-sufficient.
 	   The groves are well protected, but they are too isolationist.
 	3. Civic Guard Druid.
-	4. Interest in Irespan? Living stone = Living wood, create city-living golem.
-	5. Can hear crystals talking / connected to other crystals.
+	4. Interest in Irespan? Living stone = Living wood, create a city-living golem.
+	5. Can hear crystals talking/connected to other crystals.
 	6. Hell knight of the mask?
 	7. Maybe the grove was in Numeria, the same grove as Allisee's armour was from.
 	8. Met Dr Boojuu on the boat to Riddleport.
@@ -213,19 +213,19 @@ that are deeply hidden enough to hold what may be the end of the world.
 	1. Hell knights coming after Carnon.
 	2. Figuring out what the non-city whispers are.
 	3. Who killed Belron the Gunsmith / burned down the store?
-	4. Why did Queen Cressida Croft re-instate the bounty?
+	4. Why did Queen Cressida Croft reinstate the bounty?
 	5. Obtaining high-tech equipment: weapons, armour, etc.
 	6. Helping Numerian druids weave together greater high-tech equipment with their primal magic.
-	7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and town of Torch).
-	8. Why is Carnon pulled so strongly towards the shards of sin / aeon stones?
+	7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and the town of Torch).
+	8. Why is Carnon pulled so strongly towards the shards of sin/aeon stones?
 	9. Who is the Aeon?
 
 ## D.
 
 ## Dr Zhey
- - Resident mind fucker of the Magnimar blacksite
+ - Resident mind fucker of the Magnimar black site
  - Doesn't trust Keleri too much
- - Doesn't like working 'under' people. Arrogence?
+ - Doesn't like working 'under' people. Arrogant?
 
 ## Doctor Buju.
 
@@ -256,13 +256,13 @@ that are deeply hidden enough to hold what may be the end of the world.
 
 ## Jumina  
  - Selenor's grandmother. 
- - Was captured by death's servants in an attempt to free the Blackrock prisoner. 
+ - Was captured by Death's servants in an attempt to free the Blackrock prisoner. 
 
 ## K. 
 
 ## Keleri 
  - Side Character
- - In charge of the Sandpoint charter, and leader of sandpoint. 
+ - In charge of the Sandpoint charter, and leader of Sandpoint. 
  - Dictator in everything but name
 
 
@@ -276,8 +276,8 @@ that are deeply hidden enough to hold what may be the end of the world.
 -
  
 ## Lisa Tamerhawk
- - Resident research / experimenter of Sandpoint
- - Wants to disect, in a friendly way, Viole.
+ - Resident research/experimenter of Sandpoint
+ - Wants to dissect, in a friendly way, Viole.
 
 
 ## Locus The Expanding Void.
@@ -297,7 +297,7 @@ Locus, The Expanding Void.
 
 Locus is an astral dragon name meaning space.
 
-The Expanding Void is an epithet of describing his nature and his ability to warp space to his whims.
+The Expanding Void is an epithet describing his nature and his ability to warp space to his whims.
 
 - Age?
 
@@ -402,7 +402,7 @@ Usually too proud to fear, but will if shown he is weaker
 ## N.
 
 ## Nisala, god of Sin
- - Helped the runelords use virtue magic, before they corrupted it and created sin magic
+ - Helped the sin-lords use virtue magic before they corrupted it and created sin-based magic.
 
 ## O.
 
@@ -420,7 +420,7 @@ Usually too proud to fear, but will if shown he is weaker
 
 ## Runelords
  - Gone from reality, souls have been cleansed.
- - Created the proto sin blades. 
+ - Created the proto-sin blades. 
 
 ## S. 
 
@@ -436,13 +436,13 @@ Usually too proud to fear, but will if shown he is weaker
 > - Race: Sprite.
 
 >> Backstory.
-> - Syver, formerly known as Elionova, is a draxie sprite who is well over 500 and was born and was raised on the prime plane as a nomad forever wandering until his 10th birthday.
+> - Syver, formerly known as Elionova, is a draxie sprite who is well over 500 and was born and raised on the prime plane as a nomad forever wandering until his 10th birthday.
 > - Where shortly after his parents vanished, he spent the next 25 years before giving up and becoming an adventurer.
 > - They decided to try out a few weapons and stuck with the rifle, and they hunted for the next few hundred years.
 > - They never really gained praise as they were more of a background character by choice it wasn't until that fateful day 
 > - When they saw Seraphine getting tossed around by a sea dragon.
 > - I couldn't leave a child to that fate, so I shot the dragon and since then they became inseparable for around 90 years before going missing.
-> - Where I proceed to drain and liquidate everything I have using every contact and calling in every favour, they were not going to let another loved one vanish into the ether. 
+> - Where I proceeded to drain and liquidate everything I had using every contact and calling in every favour, they were not going to let another loved one vanish into the ether. 
 > - 40 years later, I found her, but her beautiful pine wings were missing.
 > - There I found out they were stolen from her while mine only grew. 
 > - I felt so much pain for her, they vowed to find her wings or find a way for her to get new wings.
@@ -464,7 +464,7 @@ Usually too proud to fear, but will if shown he is weaker
 - Evil but not super evil.
 - Ex-last-wall knight.
 - Split wife's soul into 3.
-- Wife was a last wall knight, she was his commander. She is very kindly hearted.
+- His wife was a last wall knight, she was his commander. She is very kind-hearted.
 
 Plot threads.
 1. Prove that experimental soul-splitting mech-puppets are viable defence systems. 
@@ -473,23 +473,23 @@ Plot threads.
 4. .
 5. .
 
-## Verisians
- - Lesser runelords.
+## Varisians
+ - The descendants of the sin slaves of the sin empire.
  - Can slightly use sin magic.
- - Cling to the old cities like 'maggots to a corpse' 
+ - OPTION: Cling to the old cities like 'maggots to a corpse' 
 
 ## Viole Jule Grace.
 - Player: Moonlight.
 - Main character.
 - Viole Jule Grace (Me), Elf Angel kin/Grim spawn 223 years old.
 - BDay Gorzan 10th 4487.
-- Angel kin, Grim spawn Elf.
+- Angel-kin, Grim spawn Elf.
 - Classes: Inventor & Warlord.
 - Tattoos all over the back, up to his eyes.
 
 - Backstory:
 
-1. Domini Grace, Savior Sliver hold, Harrison Ritc, and McKenna McFarland were all seasoned adventurers tasked with
+1. Domini Grace, Savior Sliver Hold, Harrison Ritc, and McKenna McFarland were all seasoned adventurers tasked with
    eliminating a cult that had popped up near the city of Absalom.
 2. The Cult had been kidnapping young women for the past few months, and Domini and her team were going to stop them.
 3. As they arrived at the hideout, All the cultists were dead it looked as if something had escaped, killing everyone
@@ -498,7 +498,7 @@ Plot threads.
 4. The group thought long and hard about what to do with the child eventually Domini stepped up to take the child as
    her own as it was innocent and needed someone to protect it.
 5. Domini Grace, elf 539-year-old Inventor.
-6. Savior Sliver hold, Dwarf 400 years old Fighter.
+6. Savior Sliver hold Dwarf 400 years old Fighter.
 7. Harrison Jule, human 249-year-old Druid.
 8. Shoom, Leshy ??? Years old. Kineticist (Note: Exclusively speaks wild-song, druids accept this to regular people all he says is Shoom in
    various tones. Will use Fey with Viole).
@@ -511,7 +511,7 @@ Plot threads.
 4. However, the defences of the prison cause the oozing daemonic energy to be strictly bound by
    divine runes of Lissala in the form of tattoos all over the body.
 5. The newly bound vessel has a new soul flow into, created Viole. Essentially a clone of the black-rock prisoner.
-6. The church of Zatera's templars swoops in, kills the cultist, spares the vessel.
+6. The church of Zatera's templars swoops in, kills the cultist, and spares the vessel.
 7. Viole joins up with the templars, helping wage divine war across Battle-zoo.
 8. Viole uses his daemonic powers to influence allies to fight harder.
 9. Viole becomes a master strategist and an inventor, using the runes on his back as the base blueprint for many
@@ -520,14 +520,14 @@ Plot threads.
 11. After years of this, Viole is questioning his faith and the actions he has taken (and the war crimes he has
     committed).
 12. So Viole leaves on a personal quest, listening to the whispers of the obsidian statue he was born with.
-13. Viole enters Black-rock mine but is stuck in limbo for X number of years as the mine's defences have trapped him,
+13. Viole enters the Black-rock mine but is stuck in limbo for X number of years as the mine's defences have trapped him,
     detecting his daemonic energies.
 
 - Plot threads.
 1. Defeating the Black-rock prisoner.
 2. Winning a great war. Less bloodthirsty, more honour and glory.
 3. Resurrect Lissala as she is the reason he even exists.
-4. Find out what the Rune-key is (the blueprint on his back, ask Tammerhawk).
+4. Find out what the Rune key is (the blueprint on his back, ask Tammerhawk).
 5. Live out the prophecies gifted to you by the goddess of war:
 
 - Release great evil, save the kingdom of the ice.
@@ -548,16 +548,19 @@ Plot threads.
 - Grey flame.
 - Sin-empire scholar.
 
-The party met Welter at the Black rock mine (session 216ish).
+The party met Welter at the Black Rock mine (session 216ish).
 
 ## X.
 
 ## Y.
 
-## Yubis 
+## Yubis.
+- Main character.
+- Player: Left.
+
  - Allisee grandmother
  - Mythical figure, who has re-incarnate hundreds of times and found their love in every lifetime
- - Allisee currently posses half of her soul. 
+ - Allisee currently possesses half of her soul. 
 
 ## Z. 
 
