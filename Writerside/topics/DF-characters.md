@@ -9,36 +9,41 @@ Start typing here...
 
 ## Amar Rookmoon.
 - Main character.
+- Player: Rebecca.
 - Rogue & Sorcerer.
 - Harrower.
 
 ## Aurelia Denure.
 
+- Main character.
+- The player has left.
+
 > Aurelia Denure
->> - Name meaning: she of gold, representing the hopes her family held for her, last of the "Denure" line. 
+>> - Name meaning: she of gold, representing her family's hopes for her, last of the "Denure" line. 
 >> - born: 4498 8 Sarenith. 
 >> - class: wizard. 
 >> - opinions of class: even after all these hundreds of years, she still admires the wondrous splendour of magic, though recently she has become more utilitarian in its use 
 
 > Origin of class: 
 >> - she came into her talent in magic at a young age after finding an abandoned scroll of prestidigitation. 
->> - In less than a month, managed to reverse-engineer it to the basic mechanics of magic.
+>> - In less than a month, she managed to reverse-engineer it to the basic mechanics of magic.
 >> - She utilized this to cast the spell, at which point her hunger for magic became insatiable who trained her: she was initially self-taught. 
->> - When she was older, her parents sent her to Magaambya in order to hone her skills. 
->> - Though she did end up dropping out when her family was erased from history class 2: fighter.
+>> - When she was older, her parents sent her to Magaambya to hone her skills. 
+>> - Though she did drop out when her family was erased from history.
+>> - Class 2: fighter.
 
-> Opinions of class: she will find it a valuable tool, and may grow in time to love thrill of combat as she does the splendour of magic
+> Opinions of class: she will find it a valuable tool, and may grow in time to love the thrill of combat as she does the splendour of magic
 > Race: elf
-> subrace: ancient
-> have they met others of their race: she was raised by her biological family and lives in a kingdom with a significant elf population
-does your character like your race: she has the same opinions on her race that most people do, she doesn't really think about it much, though she has grown to distrust people in general recently
-where was she born and raised: mwangi expanse
-parents and family: she was the oldest child of a pair of well-known merchants, she doted on her younger brother dearly, and loved her parents, however they mysteriously vanished along with their family home and all memory of them one day.
+> Subrace: ancient
+> Have they met others of their race?: she was raised by her biological family and lives in a kingdom with a significant elf population
+does your character like your race: she has the same opinions on her race that most people do, she doesn't think about it much, though she has grown to distrust people in general recently
+where was she born and raised: Mwangi Expanse
+parents and family: she was the oldest child of a pair of well-known merchants, she doted on her younger brother dearly and loved her parents, however, they mysteriously vanished along with their family home and all memory of them one day.
 
->> - Parents names: she lost the memories of their names and faces when they disappeared. Though she did manage to remember their existences. 
->> - are they alive: no, they are so not alive that they were never alive parents professions: merchants of great repute.
+>> - Parents' names: she lost the memories of their names and faces when they disappeared. Though she did manage to remember their existence. 
+>> - are they alive: no, they are so not alive that they were never alive parents' professions: merchants of great repute.
 >> - Any other family: a little brother who she doted on until he disappeared with her parents
->> - sexuality: demisexual pan romantic, though she would not be able to tell you this because she has never even thought 
+>> - sexuality: demisexual pan-romantic, though she would not be able to tell you this because she has never even thought 
 about romance in her life because she is history's most repressed nerd 
 >> - marital status: single
 >> - kids: no
@@ -59,10 +64,10 @@ remind her of her little brother.
 >> - why does she adventure: to find out what happened to her parents and save the world
 >> - how does she view her role as an adventurer: a protector first and foremost
 >> - get along with others: her awkwardness and lack of experience make her a bit stiff and cold at first, but she rarely causes trouble with others
->> - The things the character hates: followers of groetus, talking about her past or her family
+>> - The things the character hates: followers of Groetus, talking about her past or her family.
 >> - fears: failure and being erased in the same way her parents were
 
->> - gender: female (cis: has literally never thought about gender before, might be non-binary if forced to think about it)
+>> - gender: female (cis: has never thought about gender before, might be non-binary if forced to think about it)
 >> - height: 5'4
 >> - weight: 45 kg
 >> - skin colour: slightly tanned in the face, though when she takes off her cloak, the rest of her skin is notably paler
@@ -82,30 +87,30 @@ remind her of her little brother.
 >> - what weapon does she use: a composite longbow that she crafted herself and filled with a variety of runes, 
 she is self-taught in its usage, which means that despite her experience, her technique is not amazing
 (will change when she takes the sword)
->> - armour: she wears a pair of runic bracers of defence that she crafted herself, and a cloak that she uses to go around relatively unnoticed
+>> - armour: she wears a pair of runic bracers of defence that she crafted herself and a cloak that she uses to go around relatively unnoticed
 >> - does she like magic: see class
 >> - is she magical: her body is a testament to mildly nonsensical experimentation, however, it is not immediately noticeable
->> - spells: this feels kind of redundant with the class section, she can cast sixth level spells
->> - equipment: aurelia doesn't tend to carry a lot around with her, but she does have a bag of holding
+>> - spells: this feels kind of redundant with the class section, she can cast sixth-level spells
+>> - equipment: Aurelia doesn't tend to carry a lot around with her, but she does have a bag of holding
 >> - alignment scale: 10 3
 >> - Instead of background by each year, I am going to summarize.
-She is 212 years old and I really don't want to write all that.
-Discovered magic at an early age, was fascinated by it.
-She continued to study it as she grew, entering magaambya 
+She is 212 years old and I very much don't want to write all that.
+Discovered magic at an early age, and was fascinated by it.
+She continued to study it as she grew, entering Magaambya 
 initially as a student and graduating to become a researcher there. 
 Then left to pursue her goals after her family disappeared from history. 
 She Has since spent the time becoming more utilitarian as opposed to her previous academic focus.
 Learning about the dangers of the world as she hones her practical skills.
->> - plot hooks: to be discussed with a gm I believe
+>> - plot hooks: to be discussed with a GM I believe.
 
-> Year by year breakdown.
->> - 4498: born, was her parents' third attempts at a child, named aurelia as the golden hope of the family
->> - 4499-4502 she developed faster than her peers, but always seemed slightly listless, never taking joy in anything
->> - 4503: she discovered a scroll of prestidigitation, and managed to differentiate it to the basic principles of magic, allowing her to cast the spell
+> Year-by-year breakdown.
+>> - 4498: born, was her parents' third attempt at a child, named Aurelia as the golden hope of the family
+>> - 4499-4502 She developed faster than her peers, but always seemed slightly listless, never taking joy in anything
+>> - 4503: she discovered a scroll of prestidigitation, and managed to differentiate it from the basic principles of magic, allowing her to cast the spell
 >> - 4504: as she continues to learn magic at a relatively rapid pace for one of her races, her parents begin to 
 have her hailed as a prodigy.
->> - 4523: she finally manages to convince her parents to attend magaambya
->> - 4524: a slight misinterpretation on a light spell causes her to permanently dye the tips of her hair a luminous pink, she tries to shave it off in embarrassment, but it grows back still in pink
+>> - 4523: she finally manages to convince her parents to attend Magaambya.
+>> - 4524: a slight misinterpretation of a light spell causes her to permanently dye the tips of her hair a luminous pink, she tries to shave it off in embarrassment, but it grows back still in pink
 >> - 4525: she skips a grade, becoming the first elf to do so in nearly a century
 >> - 4528: she theoretically should have graduated by this point, but she was so invested in her research that she begged the school to let her stay so that she can continue working on her research
 >> - 4528-4628: R E A S E A R C H, she occasionally goes home and is on amicable terms with her parents
