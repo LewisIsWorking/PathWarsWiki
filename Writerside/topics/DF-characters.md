@@ -273,15 +273,22 @@ that are deeply hidden enough to hold what may be the end of the world.
 
 ## Lire (Evonor).
 
+- Main character.
+- Player: Sherfield.
 - Lire's lover is called Annamarie.
 - Selenor has undead children.
 - Selenor found Annamarie's corpse in the grave-lands.
--
  
 ## Lisa Tamerhawk
  - Resident research/experimenter of Sandpoint
  - Wants to dissect, in a friendly way, Viole.
 
+## Lissala: the Goddess of Sin.
+- Side character.
+- Diety: Goddess.
+- The primary Goddess of the Sin Empire.
+- Helped the sin-lords use virtue magic before they corrupted it and created sin-based magic.
+- Dead.
 
 ## Locus The Expanding Void.
 - Main character.
@@ -403,9 +410,6 @@ Usually too proud to fear, but will if shown he is weaker
 ## M.
 
 ## N.
-
-## Nisala, god of Sin
- - Helped the sin-lords use virtue magic before they corrupted it and created sin-based magic.
 
 ## O.
 
