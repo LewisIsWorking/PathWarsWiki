@@ -155,6 +155,8 @@ Selenor = 4 + 4 GP.
 Selenor got the diplomacy one time +2 bonus.
 
 #### Bank account status after completing the fishing competition.
+
+Bank account update.
 Allisee = 8 + 4 = 12 GP.
 Cardigan = 4 + 4 = 8 GP.
 Selenor = 8 + 4 = 12 GP.
@@ -167,3 +169,15 @@ Selenor then buys Warden for 5 points.
 New Totals for PP.
 Allisee = 14/19.
 Selenor = 2/34.
+
+## Bounty #7.
+
+> New Totals for PP.
+>> - +1 PP.
+>> - Allisee = 14/19 +1 = 15/20.
+>> - Selenor = 2/34 +1 = 3/35.
+
+> Bank account update.
+>> - Allisee = 12 GP + 4 GP = 16 GP.
+>> - Cardigan = 8 GP + 4 GP = 12 GP.
+>> - Selenor = 12 GP + 4 GP = 16 GP.

@@ -13,7 +13,7 @@ Level 4.
 Allisee
 Cardigan
 Selenor
-Zutlieg	
+Zutlieg
 Level 10 = 30 × 1 = 30
 Level 11 = 20 × 1 = 20
 
@@ -52,15 +52,15 @@ Cardigan.
 Total = 880 + 20 = 900	Level 10.
 
 + 0
-For Zutlieg & Allisee
+  For Zutlieg & Allisee
 
 Verda Sparrow.
 + 0
-Total = 50
+  Total = 50
 
 Laucian.
 + 0
-Total = 80
+  Total = 80
 
 Amar Rookmoon.
 +0
@@ -83,7 +83,7 @@ Selenor.
 Total = 245
 
 Cardigan.
-Total = 900	
+Total = 900
 
 Treasure vault
 200 GP
@@ -93,21 +93,21 @@ Treasure vault
 - Grey flame spiders.
 
 **Present main characters: **
-- Cardigan. 
-- Selenor. 
+- Cardigan.
+- Selenor.
 - Allisee.
 
 **Enemies:**
 
 - Big spider x 1.
-Monster parts = 560 GP. Huge.
+  Monster parts = 560 GP. Huge.
 
-Level 10 = 80 x 1 = 80. 
+Level 10 = 80 x 1 = 80.
 
 Level 11 = 60 x 1 = 60.
 
 - Smaller spiders x 2.
-Monster parts = 65 GP. Large.
+  Monster parts = 65 GP. Large.
 
 Level 10 = 10 x 2 = 20.
 
@@ -234,19 +234,19 @@ Large.
 **Present characters.**
 
 - Level 10. + 80.
-1. Locus, The Expanding Void. Level 10. Total = 95 + 80 = 175. 
+1. Locus, The Expanding Void. Level 10. Total = 95 + 80 = 175.
 2. Allisee Tra-Umna. Level 10. Total = 905 + 80 = 985.
 
 - Level 11. + 60.
-  1. Selenor. Level 11. Total = 370 + 60 = 430. 
-  2. Cardigan. Level 11. Total = 1025 + 60 = 1085.
+	1. Selenor. Level 11. Total = 370 + 60 = 430.
+	2. Cardigan. Level 11. Total = 1025 + 60 = 1085.
 
 **Not present for this fight.**
 
 - Level 10.
-  1. Verda Sparrow. Level 10. Total = 50. 
-  2. Laucian. Level 10. Total = 80. 
-  3. Amar Rookmoon. Level 10. Total = 215.
+	1. Verda Sparrow. Level 10. Total = 50.
+	2. Laucian. Level 10. Total = 80.
+	3. Amar Rookmoon. Level 10. Total = 215.
 
 ## Session 218. 2025 August 4th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 7.
 
@@ -258,7 +258,7 @@ Ghost Knights X6.
 12 = 20 x 6 = 120.
 
 Sir Rutford.
-10 = 120 × 1 = 120. 
+10 = 120 × 1 = 120.
 11 = 80 x 1 = 80.
 12 = 60 x 1 = 60.
 
@@ -270,28 +270,28 @@ Totals.
 **Present characters.**
 
 - Level 10. + 360.
-  1. Locus, The Expanding Void. Level 10. Total = 175 + 360 = 535.
-  2. Allisee Tra-Umna. Level 10. Total = 985 + 360 = 1345. 215 OVER. New Total = 90.
-     - Ghost Knights x 3 (120) + Sit Rutfort (120) = 240. That's 0 + 3 Knights (90) = New Total = 90/1200.
+	1. Locus, The Expanding Void. Level 10. Total = 175 + 360 = 535.
+	2. Allisee Tra-Umna. Level 10. Total = 985 + 360 = 1345. 215 OVER. New Total = 90.
+		- Ghost Knights x 3 (120) + Sit Rutfort (120) = 240. That's 0 + 3 Knights (90) = New Total = 90/1200.
 
 - Level 11. + 230.
-  1. Selenor. Level 11. Total = 430 + 260 = 690.
-  2. Cardigan. Level 11. Total = 1085 + 260 = 1345. 145 OVER. New Total = 120/1200.
-     - Ghosts knights x 3 (120) = 1085 + 120 = 1205. Level 12 = Sir Rutford (60) + 3 Knights (60) = 120 = 120/1200.
+	1. Selenor. Level 11. Total = 430 + 260 = 690.
+	2. Cardigan. Level 11. Total = 1085 + 260 = 1345. 145 OVER. New Total = 120/1200.
+		- Ghosts knights x 3 (120) = 1085 + 120 = 1205. Level 12 = Sir Rutford (60) + 3 Knights (60) = 120 = 120/1200.
 
 **Not present for this fight.**
 
 - Level 10.
-  1. Verda Sparrow. Level 10. Total = 50.
-  2. Laucian. Level 10. Total = 80.
-  3. Amar Rookmoon. Level 10. Total = 215.
+	1. Verda Sparrow. Level 10. Total = 50.
+	2. Laucian. Level 10. Total = 80.
+	3. Amar Rookmoon. Level 10. Total = 215.
 
-- Hoard of Spectral dragon riders. 
+- Hoard of Spectral dragon riders.
 
 The Hoard.
-  - Level 10 = 80 x 1 = 80.
-  - Level 11 = 60 x 1 = 60.
-  - Level 12 = 40 x 1 = 40.
+- Level 10 = 80 x 1 = 80.
+- Level 11 = 60 x 1 = 60.
+- Level 12 = 40 x 1 = 40.
 
 Armoured dragon rider skeletons.
 - Level 10 or higher = 0.
@@ -304,16 +304,16 @@ Totals.
 **Present characters.**
 
 - Level 10. + 80.
-  1. Locus, The Expanding Void. Level 10. Total = 535 + 80 = 615.
+	1. Locus, The Expanding Void. Level 10. Total = 535 + 80 = 615.
 
 - Level 11. + 60.
-  1. Selenor. Level 11. Total = 690 + 60 = 750.
-  2. Allisee Tra-Umna. Level 11. Total = 90 + 60 = 150.
-  3. Lt. Viole Jule Grace. Level 11. Total = 0 + 60 = 60.
-  4. Carnon. Level 11. Total 0 + 60 = 60.
+	1. Selenor. Level 11. Total = 690 + 60 = 750.
+	2. Allisee Tra-Umna. Level 11. Total = 90 + 60 = 150.
+	3. Lt. Viole Jule Grace. Level 11. Total = 0 + 60 = 60.
+	4. Carnon. Level 11. Total 0 + 60 = 60.
 
 - Level 12. + 40.
-  1. Cardigan. Level 11. Total = 120 + 40 = 160.
+	1. Cardigan. Level 11. Total = 120 + 40 = 160.
 
 Monster parts: 560 GP. Size = gargantuan.
 
@@ -334,67 +334,67 @@ Totals.
 **Present characters.**
 
 - Level 11. + 20.
-  1. Selenor. Level 11. Total = 750 + 20 = 770.
-  2. Allisee Tra-Umna. Level 11. Total = 150 + 20 = 170.
-  3. Lt. Viole Jule Grace. Level 11. Total = 60 + 20 = 80.
-  4. Carnon. Level 11. Total = 60 + 20 = 80.
+	1. Selenor. Level 11. Total = 750 + 20 = 770.
+	2. Allisee Tra-Umna. Level 11. Total = 150 + 20 = 170.
+	3. Lt. Viole Jule Grace. Level 11. Total = 60 + 20 = 80.
+	4. Carnon. Level 11. Total = 60 + 20 = 80.
 
 - Level 12. + 15.
-  1. Cardigan. Level 11. Total = 160 + 15 = 175.
+	1. Cardigan. Level 11. Total = 160 + 15 = 175.
 
-Monster parts: 
+Monster parts:
 - Drake Skeleton = 200 GP. Size = large.
 - Flying skulls x 2 = 27 GP. Size = tiny.
-- Armoured Skeletons x 4 = 27 GP. Side = medium. 
+- Armoured Skeletons x 4 = 27 GP. Side = medium.
 
 ## Session 220. 2024 September 15th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 9.
 
 - Mage hand spirit.
-11 = 30 x 1 = 30.
-12 = 20 x 1 = 20.
+  11 = 30 x 1 = 30.
+  12 = 20 x 1 = 20.
 
 - Totals.
-11 = 30.
-12 = 20.
+  11 = 30.
+  12 = 20.
 
 **Present characters.**
 
 - Level 11. + 30.
-  1. Selenor. Level 11. Total = 770 + 30 = 800.
-  2. Allisee Tra-Umna. Level 11. Total = 170 + 30 = 200.
-  3. Lt. Viole Jule Grace. Level 11. Total = 80 + 30 = 110.
-  4. Carnon. Level 11. Total = 80 + 30 = 110.
+	1. Selenor. Level 11. Total = 770 + 30 = 800.
+	2. Allisee Tra-Umna. Level 11. Total = 170 + 30 = 200.
+	3. Lt. Viole Jule Grace. Level 11. Total = 80 + 30 = 110.
+	4. Carnon. Level 11. Total = 80 + 30 = 110.
 
 - Level 12. + 20.
-  1. Cardigan. Level 11. Total = 175 + 20 = 195.
+	1. Cardigan. Level 11. Total = 175 + 20 = 195.
 
 ## Session 222. 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
 
 - Daemonic Mummy Prophet Of Set
-11 = 120 × 1 = 120.
-12 = 80 × 1 = 80.
+  11 = 120 × 1 = 120.
+  12 = 80 × 1 = 80.
 
 - Vio-Raokan Servant of the 5th
-11 = 160 x 1 = 160
-12 = 120 x 1 = 120.
+  11 = 160 x 1 = 160
+  12 = 120 x 1 = 120.
 
 - Totals.
-11 = 120 + 160 = 280.
-12 = 120 + 80 = 200.
+  11 = 120 + 160 = 280.
+  12 = 120 + 80 = 200.
 
 **Present characters.**
 
 - Level 11. + 280.
-  1. Selenor. Level 11. Total = 800 + 280 = 1080.
-  2. Allisee Tra-Umna. Level 11. Total = 200 + 280 = 480.
-  3. Lt. Viole Jule Grace. Level 11. Total = 110 + 280 = 390.
-  4. Carnon. Level 11. Total = 110 + 280 = 390.
+	1. Selenor. Level 11. Total = 800 + 280 = 1080.
+	2. Allisee Tra-Umna. Level 11. Total = 200 + 280 = 480.
+	3. Lt. Viole Jule Grace. Level 11. Total = 110 + 280 = 390.
+	4. Carnon. Level 11. Total = 110 + 280 = 390.
 
 - Level 12. + 200.
-  1. Cardigan. Level 11. Total = 195 + 200 = 495.
+	1. Cardigan. Level 11. Total = 195 + 200 = 495.
 
 - Monster parts.
-1. Daemonic Mummy Prophet Of Set = 1250 GP. Size = Medium. 
+1. Daemonic Mummy Prophet Of Set = 1250 GP. Size = Medium.
 2. Vio-Raokan Servant of the 5th = 1850 GP. Size = Large.
 
 ## Session 227. 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2.
@@ -409,7 +409,7 @@ Monster parts:
 >> - 11 = 40 x 1 = 40.
 >> - Monster parts = 390 GP. Huge. Looted by Allisee.
 
-> Level 11. + 40. 
+> Level 11. + 40.
 >> - Lt. Viole Jule Grace. Level 11. Total = 390 + 40 = 430.
 >> - Selenor. Level 11. Total = 1080 + 40 = 1120.
 
@@ -434,4 +434,19 @@ Monster parts:
 
 > Level 12. 60.
 >> - Cardigan. Level 12. Exp: 495 + 60 = 555.
+
+## Session 227. 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2. PLAY BY POST.
+
+- Carnon fights a green flaming skull.
+
+> Present characters.
+>> - Carnon. Level 11 Exp: 390.
+
+> Green flaming skull.
+>> - Monster parts: 390 GP. Looted by Carnon.
+>> - Size = Small.
+>> - Level 11 = 40 x 1 = 40.
+
+> Level 11. +40.
+>> - Carnon. Level 11. Exp: 390 + 40 = 430.
 
