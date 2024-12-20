@@ -472,9 +472,11 @@ Usually too proud to fear, but will if shown he is weaker
 > - 3: Destroy the fae that caused you to lose your memories. 
 > - 3: Recover memories, find out why they were taken. 
 > - 3: This may require Ascending to divinity despite Syver not wanting to be divine.
-> - 4: Craft the ultimate weapon / major artifact weapon. 
+> - 4: Craft the ultimate weapon / major artifact weapon (gun). 
 > - 4: First, create a level 20 monster weapon (requires level 20 & a LOT of monster slaying + harvesting).
 > - 5: Help Amenopheus the ruby sage recover his memories and further his goals.
+
+- Amenopheus tempers Syver's blood rage against Selenor (for now).
 
 ## T.
 
