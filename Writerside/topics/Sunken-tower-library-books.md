@@ -2,15 +2,15 @@
 
 Start typing here...
 
-# Table of Contents.
+## Table of Contents.
 
-# What is this?
+## What is this?
 
 These are books taken from an ancient Thassilonian library from a plane that shouldn't exist from outside reality.
 
-The books below are primarily spell books but they do hold some secrets.
+The books below are primarily spell books, but they do hold some secrets.
 
-# 1. Joys of Deceit.
+## 1. Joys of Deceit.
 
 The lunatic ravings of an insane Thassilonian Specialist Wizard, a practitioner of Sin Magic.
 
@@ -20,9 +20,9 @@ Most of the arcane notions are useless, but a couple of spells look like they co
 
 The book contains the spells: invisibility and phantasmal force.
 
-# 2. The Whispering Skull.
+## 2. The Whispering Skull.
 
-This book is an extradimensional space.
+This book contains an extra dimension space.
 
 Inside the book’s space is a skull that is chained to the book’s extra-dimensional space.
 
@@ -34,13 +34,13 @@ The skull can teach you: animate dead, darkness, fear, and vampiric touch.
 
 And perhaps more…
 
-# 3. An Abjurer’s Guide To Envy.
+## 3. An Abjurer’s Guide To Envy.
 
-A spellbook aimed at Thassilonian Wizards specialising in the Sin Magic of Envy studying in Edasseril.
+A spell book aimed at Thassilonian Wizards specialising in the Sin Magic of Envy studying in Edasseril.
 
 Before learning to wield sin, they must learn the essentials of abjuration.
 
-“Abjuration is a school of magic that deals in protective spells and the suppression of others' magic.
+“Abjuration is a school of magic that deals in protective spells, and the suppression of others' magic.
 
 Magic of this school creates physical or magical barriers, negates magical or physical abilities, harms trespassers, or even banishes the target of the spell to another plane of existence.
 
@@ -49,13 +49,13 @@ Wizards who specialize in this type of magic are known as abjurers or abjurists.
 Contains the spells:
 
 1. Arcane lock.
-2. Counterspell.
+2. Counter spell.
 3. Dispel magic.
 4. Glyph of warding.
 5. Protection from energy.
 6. Remove curse.
 
-# 4. The Works of **Xirie, the first Runelord of Sloth**.
+## 4. The Works of **Xirie, the first Runelord of Sloth**.
 
 A semi-fictional account of the life and works of the grand conjurer Xirie.
 
@@ -65,8 +65,8 @@ The spells contained in the book are related to the crazy stories in the book ra
 
 Contains:
 
-1. Passwall (UNCOMMON!).
-2. Flaming sphere.
+1. Pass wall (UNCOMMON!).
+2. A flaming sphere.
 3. Fly.
 4. A gust of wind.
 5. Circle of Protection (UNCOMMON!).
@@ -76,17 +76,20 @@ Contains:
 
 ## 5. Unattributed blueprints detailing the construction of a secret chest.
 
-These blueprints and the instruction manual are written by someone called Azaven.
+Someone called Azaven wrote these blueprints and the instruction manual.
 
 Azaven refers to himself as the lead Gluttony wizard (necromancer) of the Ravenous Crypts of Gluttony.
 
-Azaven makes reference to the fact that he has existed since the founding of the Thassilonian Empire but at the present has the most freedom to conduct his research ever, referring to the time after the death of Xin.
+Azaven makes reference to the fact that he has existed since the founding of the Thassilonian Empire.
+
+At the time of the book's setting, the most freedom to conduct his research ever, referring to the time after the 
+death of Xin.
 
 This book describes the construction of a secret chest.
 
 It also describes a very minor artefact called The Book of Secrets.
 
-The Book of Secrets seems to be an intelligent magical artefact.
+The Book of Secrets seems to be a somewhat intelligent magical artefact.
 
 You may ask for more information.
 
@@ -106,26 +109,26 @@ The secret chest is permanent.
 
 You can summon and dismiss the chest with 1 action.
 
-It will appear anywhere within 5 feet of you of your choice.
+It will appear anywhere within 5 feet (1.52 m) of you, it is your choice where exactly.
 
-You can set whether or not the chest will appear next to you upon your death or not.
+You can set whether or not the chest will appear next to you upon your death.
 
 Changing the on-death behaviour is a free action.
 
-If you choose for it not to appear next to you then it will be placed randomly on the Ethereal Plane.
+If you choose it not to appear next to you then it will be placed randomly on the Ethereal Plane.
 
-# 6. Librams of the Shadow Council.
+## 6. Librams of the Shadow Council.
 
-A compilation of spellbooks extracted from the ruins of previous Runelord Aethusa arch-necromancer’s stronghold.
+A compilation of spell-books extracted from the ruins of previous Runelord Aethusa arch-necromancer’s stronghold.
 
-"I sense death.
-I have always sensed death.
-I smell my own death.
-I shall embrace this death to return to life.
-When the end is over, I shall have my new beginning.
+> "I sense death. 
+I've always sensed death. 
+I smell my own death. 
+I shall embrace this death to return to life. 
+When the end is over, I shall have my new beginning. 
 The Thrice-Born Queen will return."
 
-The book explains how to create undead using the create undead ritual (UNCOMMON).
+The book explains how to create undead using the create-undead ritual (UNCOMMON).
 
 The book explains how to brew the “False death” potion (UNCOMMON).
 
@@ -143,7 +146,6 @@ Contains the spells:
 10. The ray of enfeeblement.
 11. Spider climb.
 12. Vampiric touch.
-13.
 
 ## 7. The Ninth Book of **Xanderghul**.
 
@@ -219,7 +221,7 @@ Contains the spells:
 14. Sleep.
 15. Tongues.
 
-# 10. Book of the Spellguard.
+## 10. Book of the Spellguard.
 
 Due to transcription errors, many of the spells contained the spells in this tome are worthless.
 
@@ -268,7 +270,10 @@ An anonymous study of the nature of infernal realms.
 
 The word machines in the title refers to the inner works of Hell as opposed to an actual physical machine.
 
-On the other hand, with the tightknit, ruthlessely efficient, tightly controlled way that Hell is ran, it could be argued that Hell is the machine with Devil-kind being the cogs of the machine.
+On the other hand, with the tight-knit, ruthlessly efficient, tightly controlled way that Hell is ran, it could be 
+argued that Hell is the machine. 
+
+Devil-kind being the cogs of the machine.
 
 Hell is ruled by the arch devils.
 
