@@ -7,6 +7,14 @@
 3. Osiria.
 4. Ruby sage.
 
+## Membership.
+
+> Dark Archive (Cheliax)
+>> - Selenor.
+
+> Taldor.
+>> - Allisee.
+
 ## DF Bank & Fame Tracker
 
 ## Bank Account Tracker.
@@ -49,18 +57,18 @@ You can only buy fame awards when you have an amount of fame equal than or great
 5. Intense Student = 2PP = Title.
 6. Master of Trade = 4PP = Title.
 7. Sacrifice = 0PP = Special.
-8. Sage = 5PP = Title.
-9. Servant Cohort = 1PP.
-10. Vindicator = 2PP = Title.
+8. Sage = 5PP = Title. Allows checks of proficiency rank +1.
+9. Servant Cohort = 1PP. Permanent servant.
+10. Vindicator = 2PP = Title. +1 to attack rolls & damage rolls.
 
 ### Fame 30.
 
-1. Tier-3 Arcane Study. 3 PP. Permeant.
+1. Tier-3 Arcane Study. 3 PP. Permanent.
 2. Blood-Bound. 2 PP. Title. Permanent.
 3. Escape death. Once per character level.
 4. Officer. 5 PP. Title Permanent.
 5. Warden. 5 PP. Title. Permanent.
-6. Wordly fane. 2 PP. 24 hours.
+6. Wordly fame. 2 PP. 24 hours.
 
 ## The party's current awards.
 
@@ -170,7 +178,7 @@ New Totals for PP.
 Allisee = 14/19.
 Selenor = 2/34.
 
-## Bounty #7.
+## Bounty #7. Session 227.
 
 > New Totals for PP.
 >> - +1 PP.
@@ -180,4 +188,5 @@ Selenor = 2/34.
 > Bank account update.
 >> - Allisee = 12 GP + 4 GP = 16 GP.
 >> - Cardigan = 8 GP + 4 GP = 12 GP.
+>> - Viole = 0 GP + 4 GP = 4 GP.
 >> - Selenor = 12 GP + 4 GP = 16 GP.
