@@ -100,11 +100,9 @@ Selenor = 2/20 + 4 = 6/24. Cheliax.
 
 There were 10 PP points available from the Necropolis.
 
-Selenor = 4.
-
-Allisee = 3.
-
-Zutlieg = 3.
+- Selenor = 4.
+- Allisee = 3.
+- Zutlieg = 3.
 
 Concubine’s History = Selenor.
 
