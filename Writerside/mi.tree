@@ -8,8 +8,6 @@
 
     <toc-element topic="All.md">
         <toc-element topic="Selenor-collection.md">
-            <toc-element topic="Sunken-tower-library-books.md"/>
-            <toc-element topic="White-tower-tomes.md"/>
             <toc-element topic="Arc-6-Gaunt-light.md"/>
             <toc-element topic="Arc-7-Junima-rescue-arc.md"/>
             <toc-element topic="Arc-8-Untangle-the-past.md"/>
@@ -28,9 +26,11 @@
             <toc-element topic="Sandpoint-charter.md"/>
             <toc-element topic="Selenors-book.md"/>
             <toc-element topic="Selenors-Visions.md"/>
+            <toc-element topic="Sunken-tower-library-books.md"/>
             <toc-element topic="The-secrets-of-magic.md"/>
             <toc-element topic="The-Doomsday-Dominion.md"/>
             <toc-element topic="The-Harrow-Realm.md"/>
+            <toc-element topic="White-tower-tomes.md"/>
         </toc-element>
         <toc-element topic="Getting-started.md">
             <toc-element topic="Available-classes.md"/>
