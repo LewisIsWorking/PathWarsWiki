@@ -38,7 +38,9 @@ Start typing here...
 > Have they met others of their race?: she was raised by her biological family and lives in a kingdom with a significant elf population
 does your character like your race: she has the same opinions on her race that most people do, but she doesn't think about it much, though she has grown to distrust people in general recently
 where was she born and raised: Mwangi Expanse.
-parents and family: she was the oldest child of a pair of well-known merchants, she doted on her younger brother dearly and loved her parents, however, they mysteriously vanished along with their family home and all memory of them one day.
+> Parents and family: she was the oldest child of a pair of well-known merchants, 
+she doted on her younger brother dearly and loved her parents, 
+however, they mysteriously vanished along with their family home and all memory of them one day.
 
 >> - Parents' names: she lost the memories of their names and faces when they disappeared. Though she did manage to remember their existence. 
 >> - are they alive: no, they are so not alive that they were never alive parents' professions: merchants of great repute.
@@ -101,10 +103,10 @@ initially as a student and graduating to become a researcher there.
 Then left to pursue her goals after her family disappeared from history. 
 She Has since spent the time becoming more utilitarian as opposed to her previous academic focus.
 Learning about the dangers of the world as she hones her practical skills.
->> - plot hooks: to be discussed with a GM I believe.
+>> - plot hooks: to be discussed with the GM, I believe.
 
 > Year-by-year breakdown.
->> - 4498: born, was her parents' third attempt at a child, named Aurelia as the golden hope of the family
+>> - 4498: born, was her parents' third attempts at a child, named Aurelia as the golden hope of the family
 >> - 4499-4502 She developed faster than her peers, but always seemed slightly listless, never taking joy in anything
 >> - 4503: she discovered a scroll of prestidigitation, and managed to differentiate it from the basic principles of magic, allowing her to cast the spell
 >> - 4504: as she continues to learn magic at a relatively rapid pace for one of her races, her parents begin to 
@@ -223,7 +225,7 @@ that are deeply hidden enough to hold what may be the end of the world.
 ## D.
 
 ## Dr Zhey
- - Was first encountered at Hell prison in Magnimar.
+ - He was first encountered at Hell prison in Magnimar.
  - Doesn't overly trust Keleri.
  - Doesn't like working for the people of Magnimar, has other obligations which are prioritised more highly.
  - OPTION of Carnon: Arrogant?
@@ -241,7 +243,8 @@ that are deeply hidden enough to hold what may be the end of the world.
 ## Griselda
  - Great-grandmother of Selenor.
  - Mother of Jumina
- - Current holder of the proto-sin blade Eclipse. See more information here: https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Proto-sin-blades.md#ownership-eclipse 
+ - The current holder of the proto-sin blade Eclipse. See more information here: 
+ - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Proto-sin-blades.md#ownership-eclipse 
 
 ## H.
 
@@ -259,7 +262,7 @@ that are deeply hidden enough to hold what may be the end of the world.
 - Main character.
 - Player: gone.
 - Selenor's grandmother.
-- Was captured by Death's servants in an attempt to free the Blackrock prisoner. 
+- She was captured by Death's servants in an attempt to free the Blackrock prisoner. 
 
 ## K. 
 
@@ -279,13 +282,13 @@ that are deeply hidden enough to hold what may be the end of the world.
 - Selenor has undead children.
 - Selenor found Annamarie's corpse in the grave-lands.
  
-## Lisa Tamerhawk
+## Lisa Tammerhawk
  - Resident research/experimenter of Sandpoint
  - Wants to dissect, in a friendly way, Viole.
 
 ## Lissala: the Goddess of Sin.
 - Side character.
-- Diety: Goddess.
+- Deity: Goddess.
 - The primary Goddess of the Sin Empire.
 - Helped the sin-lords use virtue magic before they corrupted it and created sin-based magic.
 - Dead.
@@ -444,7 +447,7 @@ Usually too proud to fear, but will if shown he is weaker
 > - Race: Sprite.
 
 >> Backstory.
-> - Syver, formerly known as Elionova, is a draxie sprite who is well over 500 and was born and raised on the prime plane as a nomad forever wandering until his 10th birthday.
+> - Syver, formerly known as Elionova, is a draxie sprite who is well over 500 and was born and grew up on the prime plane as a nomad forever wandering until his 10th birthday.
 > - Where shortly after his parents vanished, he spent the next 25 years before giving up and becoming an adventurer.
 > - They decided to try out a few weapons and stuck with the rifle, and they hunted for the next few hundred years.
 > - They never really gained praise as they were more of a background character by choice it wasn't until that fateful day 
@@ -455,6 +458,23 @@ Usually too proud to fear, but will if shown he is weaker
 > - There I found out they were stolen from her while mine only grew. 
 > - I felt so much pain for her, they vowed to find her wings or find a way for her to get new wings.
 > - I also vowed to stay close to her.
+
+>> Backstory V2.
+> - 50 years ago: Awoke with amnesia in the Graveyard of Korvosa (holy graveyard of Pharasma).
+> - Bishop Keppira d'Bear taught you magic in the grand cathedral.
+> - Went adventuring, got to level 10ish.
+> - Along the way rescued Seraphine from a sea dragon.
+> - Your birthmark glows brightly, and you get a vision from Pharasma: Selenor will bring the undead doomsday, destroy him and bind his soul.
+
+>> Plot hooks.
+> - 1: Destroy Selenor (due to the divine mission) & Griselda (for her crimes against life). 
+> - 2: Eradicate all undead / Stop undead from being created / Become the greatest assassin / Religion cleansing of deities that oppose Pharasma.
+> - 3: Destroy the fae that caused you to lose your memories. 
+> - 3: Recover memories, find out why they were taken. 
+> - 3: This may require Ascending to divinity despite Syver not wanting to be divine.
+> - 4: Craft the ultimate weapon / major artifact weapon. 
+> - 4: First, create a level 20 monster weapon (requires level 20 & a LOT of monster slaying + harvesting).
+> - 5: Help Amenopheus the ruby sage recover his memories and further his goals.
 
 ## T.
 
@@ -567,7 +587,7 @@ The party met Welter at the Black Rock mine (session 216ish).
 - Player: Left.
 
 - Allisee's grandmother.
-- Mythical figure, who has re-incarnate hundreds of times and found their love in every lifetime.
+- A mythical figure who has re-incarnate hundreds of times and found their love in every lifetime.
 - Allisee currently possesses half of her soul. 
 
 ## Z. 
