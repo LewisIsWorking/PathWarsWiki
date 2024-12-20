@@ -40,11 +40,11 @@ A spell book aimed at Thassilonian Wizards specialising in the Sin Magic of Envy
 
 Before learning to wield sin, they must learn the essentials of abjuration.
 
-“Abjuration is a school of magic that deals in protective spells, and the suppression of others' magic.
-
-Magic of this school creates physical or magical barriers, negates magical or physical abilities, harms trespassers, or even banishes the target of the spell to another plane of existence.
-
-Wizards who specialize in this type of magic are known as abjurers or abjurists.”
+> "Abjuration is a school of magic. 
+> - It deals with protective spells and the suppression of others' magic. 
+> - Magic of this school creates physical or magical barriers, negates magical or physical abilities, harms trespassers, 
+> - Or even banish the target of the spell to another plane of existence!
+> - Wizards who specialise in this type of magic are known as abjurers or abjurists."
 
 Contains the spells:
 
