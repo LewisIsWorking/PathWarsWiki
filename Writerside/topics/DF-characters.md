@@ -281,7 +281,7 @@ Learning about the dangers of the world as she hones her practical skills.
 - Player: Sherfield.
 - Lire's lover is called Annamarie.
 - Selenor has undead children.
-- Selenor found Annamarie's corpse in the grave-lands.
+- Selenor found Anamarie's corpse in the grave-lands.
 
 > Names.
 >> - Evonor Essora (birth name).
@@ -331,7 +331,7 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Her unyielding love for Evonor anchored her to the world, a tragic spectre yearning for closure. 
 >> - Her cries did not go unheard; a man named Selenor, a wanderer steeped in sorrow and forbidden magics, sensed her anguish. 
 >> - Compassionate yet troubled by his demons, Selenor resolved to give her the freedom she had been denied in life. 
->> - Drawing upon necromantic knowledge and forbidden rituals, he restored Anamerie to undeath, allowing her to flee the cursed Grave lands.
+>> - Drawing upon the sigils etched upon his soul, he restored Anamerie to undeath, allowing her to flee the cursed Grave lands.
 >> - Anamerie found herself in Geb, where her presence caught the eye of a Blood Lord and daughter of Urgathoa. 
 >> - This enigmatic figure, both patron and protector, helped Anamerie reinvent herself. 
 >> - Under her guidance, Anamerie devoted her unlife to Naderi, the goddess of lost lovers and tragic endings, finding solace and purpose in comforting others who suffered from the pain of love.
@@ -357,8 +357,8 @@ Learning about the dangers of the world as she hones her practical skills.
 > The Revenant and His Legacy. 
 >> - As Evonor Essora, now Lire, roams the lands in search of Selenor, the man who gave Anamerie her second chance, his path takes him through a bustling coastal port in Andoran. 
 >> - There, amidst the cacophony of street vendors and the crashing of waves, he encounters a presence that stops him in his tracks. 
->> - A young half-elf woman—bold and sharp-witted—moves through the crowd with a grace that seems achingly familiar. 
->> - When her eyes briefly meet his, Gremory is struck by a pang of recognition. 
+>> - Ellene, a young half-elf woman—bold and sharp-witted—moves through the crowd with a grace that seems achingly familiar. 
+>> - When her eyes briefly meet his, "Lire" is struck by a pang of recognition. 
 >> - Something in her gaze, a mischievous light and a spark of defiance, reminds him of Anamerie. 
 >> - Unbeknownst to both Lire and Ellene, she is a distant descendant of their only child, born in secret and left behind after their tragic deaths.
 
@@ -389,7 +389,9 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - His actions could draw the ire of divine agents or inquisitors.
 
 > Plot hooks.
->> - 1: Five Accomplishments Lire Wishes to Achieve Reuniting Fully with Anamerie and Selenor's Blessing. 
+>> - 1: Love & Friendship from Selenor & Anamerie.
+>> - Lire Wishes to Achieve Reuniting Fully with Anamerie.
+>> - Getting Selenor's Blessing. 
 >> - Lire yearns to solidify his second-life bond with Anamerie as equals and agents of Naderi's grace. 
 >> - To do so, he seeks Selenor's blessing, believing that the man who gave her a second chance must approve of his worthiness in their new existence. 
 >> - It is a profoundly personal milestone tied to his notions of honour, redemption and love. 
@@ -400,24 +402,12 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - The revelation of Ellene Verelli as his descendant ignites a new sense of purpose. 
 >> - Though fiercely independent, Ellene's safety becomes paramount to "Lire". 
 >> - Ensuring her survival—and her ability to choose her path—is an indirect way of redeeming his failure to protect his family. 
->> - 4: Becoming a True Emissary of Naderi Serving as Naderi's champion and spreading her message of healing and acceptance to those broken by loss has become a cornerstone of Lire's journey. He wants his second chance at existence to embody the goddess's ideals, transforming him into a beacon of hope amidst the tragedies of Golarion. 
+>> - 4: Becoming a Divine Servant of Naderi Serving as Naderi's champion and spreading her message of healing and acceptance to those broken by loss has become a cornerstone of Lire's journey. 
+>> - He wants his second chance at existence to embody the goddess's ideals, transforming him into a beacon of hope amidst the tragedies of Golarion. 
 >> - 5: Confronting the Whispering Way and Breaking Their Hold.
 >> - "Lire" feels a profound responsibility to free himself—and others like him—from the Whispering Way's grip. 
 >> - Though his actions are often personal and focused on love, he recognises that standing against this cabal of necromancers is a broader necessity for peace and justice.
-
-> Three Secrets Lire is Hiding.
->> - 1: The Role of Zander in His Fall 
->> - Zander's whispers helped orchestrate the tragedy that ended Lire's first life, but Lire has yet to piece this together fully. 
->> - However, a part of him suspects that his devil patron is withholding damning truths. 
->> - Rather than admit this to others, Lire keeps these suspicions buried, wary of losing what guidance Zander still provides. 
->> - 2: His Tenuous Control Over His Undeath. 
->> - Though he has regained much of his humanity, "Lire" knows the fracture in his soul leaves him vulnerable. 
->> - His bond to undeath and the divine energies that restored his will are unstable. 
->> - He fears revealing this weakness to allies who might see him as a liability—or worse, a threat. 
->> - 3: The Rituals of Blood and Their True Purpose 
->> - Zander's insistence on collecting blood remains shrouded in mystery, even to Lire. 
->> - While "Lire" believes that it ties into Naderi's message and Zander's promise of unlocking his memories, he senses a darker and more infernal agenda beneath it all. 
->> - Rather than risk alienating his allies, he conceals the full extent of his actions.
+>> - 6: Was given a wanted poster...
 
 > Tying Lire to the Party. 
 >> - 1: Blood Bond: Ellene's presence at the party creates immediate tension and depth. Her fierce independence clashes with Lire's protective instincts. 
