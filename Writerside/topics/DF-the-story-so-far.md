@@ -32,6 +32,7 @@ P1 arcs:
 >> - Session 153 → 189.
 >> - 37 sessions.
 >> - Amar became the Harrower.
+>> - Session 158: Allisee (Anthony) joined the campaign.
 
 >> Arc 5: Necropolis Arc.
 >> - Session 184 → 187. 
