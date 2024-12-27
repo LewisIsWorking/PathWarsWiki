@@ -29,6 +29,8 @@ The reward is the most powerful feat ever.
 
 High-time investment = High reward.
 
+- Awarded to Selenor.
+
 ## Combat Healer. Total magical healing that has healed.
 
 Cure a cumulative total number of points of damage for other creatures with healing spells.

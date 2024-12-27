@@ -67,3 +67,6 @@ Defeated Space Ooze.
 
 14:50.
 In play by post, the party talks to the wizard Zarzan Quilit.
+
+## Session 228. Play by post.
+
