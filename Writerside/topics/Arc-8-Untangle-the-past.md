@@ -70,3 +70,4 @@ In play by post, the party talks to the wizard Zarzan Quilit.
 
 ## Session 228. Play by post.
 
+- Events of [DF-100-sessions-of-Selenor.md](DF-100-sessions-of-Selenor.md) happen.
