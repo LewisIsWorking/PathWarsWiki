@@ -149,6 +149,11 @@ Learning about the dangers of the world as she hones her practical skills.
 
 ## C.
 
+## Cardigan.
+
+> Cardigan overview.
+>> - Likes rum & raisin ice cream.
+
 ## Carnon.
 
 - Race: Conrasus.

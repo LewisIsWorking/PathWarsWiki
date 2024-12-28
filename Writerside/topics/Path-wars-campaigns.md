@@ -22,7 +22,7 @@ For a look at how things roughly fit together:
 
 ## #3. Etran's Folly.
 - Status: complete.
-- Session count: ?.
+- Session count: 1.
 - Started: 2021.
 
 ## #4. Agents of Edgewatch.
@@ -43,3 +43,10 @@ For a look at how things roughly fit together:
 - Started 2023.
 - Length: short.
 [campaign-6-Kibwe.md](Campaign-6-kibwe.md)
+
+## 7. Starfinder.
+- Status: ongoing.
+- Session count: play by post.
+- Started: 2025.
+- Length: long term.
+- NO DOCUMENTATION YET.
