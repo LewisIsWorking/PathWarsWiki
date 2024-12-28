@@ -68,6 +68,10 @@ Defeated Space Ooze.
 14:50.
 In play by post, the party talks to the wizard Zarzan Quilit.
 
+## Session 228. Play by post.
+
+- Events of [DF-100-sessions-of-Selenor.md](DF-100-sessions-of-Selenor.md) happen.
+
 ## Session 228. 2024 December 21st Saturday + 4710 AR, 27th Arodus. + Selenor's 100th Session.
 
 00:00.
