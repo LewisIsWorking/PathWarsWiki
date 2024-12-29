@@ -68,9 +68,11 @@ Defeated Space Ooze.
 14:50.
 In play by post, the party talks to the wizard Zarzan Quilit.
 
-## Session 228. 2024 December 21st Saturday + 4710 AR, 27th Arodus. + Selenor's 100th Session.
+## Session 228. 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 
 - Events of [DF-100-sessions-of-Selenor.md](DF-100-sessions-of-Selenor.md) happen.
+
+## Session 229. 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Osiria ritual part 1.
 
 00:00.
 Sandpoint home-base.
@@ -94,4 +96,12 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 12:10. Selenor senses a powerful undead presence approaching Sandpoint (it is Lire).
 
-## Session 225. 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Osiria ritual part 1.
+12:20. The party meet Lire (Lire has now joined the party!).
+
+12:30. Keleri agrees to deliver Lire's ring to Annmarie.
+
+## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Osiria ritual part 2.
+
+- 13:00.
+- Faction meetings for Carnon, Viole and Lire.
+- Done: Magnimar, Osirion, Andoran, The Exchange, Concordance of Elements, Lantern Lodge.

@@ -1,14 +1,14 @@
 # Player rosters
 
-## Doomsday Funtime.
+## #1. Doomsday Funtime.
 
 ### Current players.
 
-1. 001 = Horia = Selenor.
-2. 002 = Anthony = Allisee.
-3. 009 = Phil = Locus The Expanding Void.
-4. 010 = Ross = Carnon.
-5. 011 = Tony McMoonlight = Viole Jule Grace.
+- 001 = Horia = Selenor.
+- 002 = Anthony = Allisee.
+- 010 = Ross = Carnon.
+- 011 = Tony McMoonlight = Viole Jule Grace.
+- 013 = Sherfield = Lire.
 
 ### List of all players.
 
@@ -20,11 +20,11 @@
 6. 006 = Patrik = Dresden Konstantiniel. INACTIVE.
 7. 007 = Yokai = Misha. ACTIVE?
 8. 008 = Tavo = Laucian Asknäve. INACTIVE.
-9. 009 = Phil = Locus The Expanding Void. ACTIVE. 
+9. 009 = Phil = Locus The Expanding Void. INACTIVE. 
 10. 010 = Ross = Carnon. ACTIVE. 
 11. 011 = Tony McMoonlight = Viole Jule Grace. ACTIVE.
-12. 012 = Axo & Jessy = Plethryn & San Silver-fall.
-13. 
+12. 012 = Axo & Jessy = Plethryn & San Silver-fall. INACTIVE.
+13. 013 = Sherfield = Lire. ACTIVE.
 
 ## Player Membership Log
 
@@ -44,18 +44,42 @@ Disbelief is now position #2.
 Dragon123459 has wiling dropped out of the queue.
 Then all the people below have moved up.
 
-## Grand explorers.
+## #5. Grand explorers.
 
-1. Anthony.
-2. Rebecca.
-3. Craig.
-4. Paddy.
-5. Eimer.
-6. Lance.
+Here:
 
-## Kibwe.
+- Anthony. 
+- Eimer.
+- Horia.
+- Ryo.
+- Cannon.
 
-1. Ryan.
-2. Anthony.
-3. Rebecca.
-4. Lorcan?
+Gone:
+
+- Rebecca.
+- Craig.
+- Paddy.
+- Lance.
+
+## #6. Kibwe.
+
+Here:
+
+- Anthony.
+- Ryo.
+- Buffer Raider.
+- Issac.
+- Horia.
+- Eimer.
+
+Gone:
+
+- Rebecca.
+- Lorcan?
+- Ryan.
+
+## #7. Starfinder.
+
+> Here:
+>> - Horia.
+>> - Anthony.

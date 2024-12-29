@@ -2,10 +2,11 @@
 
 ## Factions.
 
-1. Magnimar.
-2. Taldor.
-3. Osiria.
-4. Ruby sage.
+- Andoran. Liberty's Edge. Major Colson Maldris.
+- Dark Archive.
+- Magnimar.
+- Osiria. Ruby sage.
+- Taldor. Sovereign Court. Lady Gloriana Morilla.
 
 ## Membership.
 
@@ -27,7 +28,7 @@ Selenor Bank = at least 4 GP.
 
 Every time you gain fame, you gain the same number of prestige points.
 
-When you spend Prestige Points, your fame doesn't go down.
+When you spend Prestige Points, your fame does not go down.
 
 Completing some missions will give you X number of prestige points.
 
@@ -104,17 +105,13 @@ There were 10 PP points available from the Necropolis.
 - Allisee = 3.
 - Zutlieg = 3.
 
-Concubine’s History = Selenor.
-
-Auction House Locations = Selenor.
-
-Zubari’s Shadow Business Empire = Selenor.
-
-Embalming Fluid = Selenor.
-
-Osirion Crystals = Allisee.
-
-Zubari’s Factions = Allisee.
+> Missions.
+>> - Concubine’s History = Selenor.
+>> - Auction House Locations = Selenor.
+>> - Zubari’s Shadow Business Empire = Selenor.
+>> - Embalming Fluid = Selenor.
+>> - Osirion Crystals = Allisee.
+>> - Zubari’s Factions = Allisee.
 
 Fire-Magic-Etched Tablet of High Priests of Sarenrae = Allisee.
 
@@ -131,7 +128,7 @@ Zutlieg of the Cypher Mages = 2/2 + 3 = 5/5.
 Bounty: halflings Frog Slave.
 
 Allisee of the Sovereign Court = 16/16 + 1 = 17/17.
-Selenor of Cheliax = 11/29 + 1 = 12/30
+Selenor of Cheliax = 11/29 + 1 = 12/30.
 
 Selenor buys the Officer title for 5 PP = 7/30.
 

@@ -1,7 +1,7 @@
 # Discord-Doomsday-Funtime
 
 - Title: Doomsday Funtime.
-- There's a lot of information here, but you don't need to read all or any of it, DM me, and I'll walk you through everything.
+- There is a lot of information here, but you do not need to read all or any of it, DM me, and I will walk you through everything.
 - I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
 - Campaign name: Doomsday Funtime.
 - System: PF2e.
@@ -12,10 +12,10 @@
 
 The party are going around the world to discover what is going to cause the end of the world, whilst also discovering more about themselves.
 
-- Where do we play: the Platform we play on is Foundry, you don't need to buy anything, I will help you get set up, and it is totally free for players.
+- Where does the group play? The Platform the group plays on is Foundry, you do not need to buy anything, I will help you get set up, and it is totally free for players.
 - Setting: Golarion.
 - Level: 11. The campaign will go to level 20.
-- We use Discord for voice/video calls & telegram for texting and out-of-session play-by-posts.
+- The group uses Discord for voice/video calls & telegram for texting and out-of-session play-by-posts.
 - I recommend using Pathbuilder to build your character.
 - What can I play regarding race, class, background, etc? Well, you can play anything.
 - Current party composition: Champion/Oracle, Barbarian/Witch, Magus/Witch and Exemplar/Gunslinger.
