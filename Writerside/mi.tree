@@ -8,6 +8,7 @@
 
     <toc-element topic="All.md">
         <toc-element topic="Selenor-collection.md">
+            <toc-element topic="Player-perspective-session-summaries.md"/>
             <toc-element topic="Arc-6-Gaunt-light.md"/>
             <toc-element topic="Arc-7-Junima-rescue-arc.md"/>
             <toc-element topic="Arc-8-Untangle-the-past.md"/>
