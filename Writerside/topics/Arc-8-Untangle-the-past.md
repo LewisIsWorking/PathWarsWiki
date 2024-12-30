@@ -125,3 +125,13 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 19:15. House of the White Uraeus. 
 - 20:00. Hot tub time with Grand Master Torch.
 - 20:10. Refocus.
+- 22:30. Viole gathers information and learns a bunch of information. Madame Zelekhati is an elven supremacist.
+- 22:45. Serpent well. Talking to the Elven druid Stan.
+- 23:00. Serpent well.
+- 23:20. Cobble together.
+- Giant anacondas x 2 fight.
+- 00:00. Post-fight healing.
+- Loot: Scrolls of death ward, 5th-rank false life, 5th-rank Talking corpse, 5-rank gentle repose, lapis lazuli burial 
+  mask (500 GP treasure), 3 clay tablets, rod of the viper.
+- TALKING CORPSE (UNCOMMON) UNLOCKED!!!
+- 00:10. Out of the well.

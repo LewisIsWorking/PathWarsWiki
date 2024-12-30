@@ -450,3 +450,21 @@ Monster parts:
 > Level 11. +40.
 >> - Carnon. Level 11. Exp: 390 + 40 = 430.
 
+## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Osiria ritual part 2.
+
+- Allisee, Viole and Carnon fight 2 giant anacondas.
+
+> Present characters.
+>> - Carnon. Level 11. Exp: 430.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 470.
+>> - Allisee. Level 11. Exp: 510.
+
+> Giant Anacondas.
+>> - Monster parts: 200 GP x 2. Looted by Carnon.
+>> - Size = Large.
+>> - Level 11 = 20 x 2 = 40
+
+> Level 11. + 40.
+>> - Carnon. Level 11. Exp: 430 + 40 = 470.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 470 + 40 = 510.
+>> - Allisee. Level 11. Exp: 510 + 40 = 550..
