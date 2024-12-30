@@ -135,3 +135,9 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
   mask (500 GP treasure), 3 clay tablets, rod of the viper.
 - TALKING CORPSE (UNCOMMON) UNLOCKED!!!
 - 00:10. Out of the well.
+
+29th Arodus.
+
+- 10:00. 8 hours of rest + daily preparation. 
+- 10:30. Breakfast.
+
