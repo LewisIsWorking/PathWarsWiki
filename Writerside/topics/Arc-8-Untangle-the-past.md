@@ -102,6 +102,26 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 ## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Osiria ritual part 2.
 
-- 13:00.
-- Faction meetings for Carnon, Viole and Lire.
-- Done: Magnimar, Osirion, Andoran, The Exchange, Concordance of Elements, Lantern Lodge.
+> 13:00.
+>> - Faction meetings for Carnon, Viole and Lire.
+>> - Done: Magnimar, Osirion, Andoran, The Exchange, Concordance of Elements, Lantern Lodge.
+>> - Lire joins the Dark Archive.
+>> - Torch does not like Torch.
+
+> 14:00.
+>> - Bodyguards: Viole, Carnon, Cardigan.
+>> - Merchants: Selenor, Lire.
+
+3 hours of travel.
+> 17:00.
+>> - Outside Eto.
+>> - Cardigan has Osirion Communication Geode.
+>> - Sending to the Ruby Sage: "Can we pass custom with this Geode?"
+>> - They craft a 1,400-GP replica of the Osirion Communication Geode.
+
+- 18:00.
+- 18:10. Mahu returns.
+- 18:30. Eto entered.
+- 19:15. House of the White Uraeus. 
+- 20:00. Hot tub time with Grand Master Torch.
+- 20:10. Refocus.

@@ -21,7 +21,7 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 - Charm Breaker.
 - Carnon's sword.
 - Amar Rookmoon -> Carnon.
-- Cardigan took it from Ra. Cardigan didn't use it. Cardigan -> Amar.
+- Cardigan took it from Ra. Cardigan did not use it. Cardigan -> Amar.
 
 ## Ownership: Glimmer-Bane
 

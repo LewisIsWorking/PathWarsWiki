@@ -12,6 +12,7 @@
 
 > Dark Archive (Cheliax)
 >> - Selenor.
+>> - Lire. Session 229.
 
 > Taldor.
 >> - Allisee.
