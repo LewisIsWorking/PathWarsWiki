@@ -67,14 +67,14 @@ Selenor gives Cardigan alcohol then remembers
 that Cardigan goes into a murderous and lustful rage if she drinks alcohol.
 Allisee gives Cardigan hottub water instead of Alcohol, it tastes like toe cheese.
 
-Torch of the Shadow Wizard Money Gang gives us tasks. When completed, we will learn about the Diamond Sage.
+Torch of the Shadow Government gives us tasks. When completed, we will learn about the Diamond Sage.
 - Slip a book into Professor Lozar's Belongings. School of Sciences.
 - Get artefacts from the wall? Find stash within the wall. Deliver to Torch.
 - Madam Zelekhati. Seduce her secrets out of her?
 - Secret from the hundred-finger Gang. Viole has passcode/passphrase?
 
 Viole murders a man, just for fun?? They can resurrect him to find the criminal. 
-We go investigate the wall that Shadow wizard money gang told us about. Find a bunch of wells. 
+We go investigate the wall that The Shadow Governlent told us about. Find a bunch of wells. 
 There are snakes in the well. Main big well has black rancid water.
  Water reacts strange to Allisee, clumps up? heats up and evaporates when Lire and Viole touches it. Divine magic, as old as lissala. 
 Allisee descends into the water, very slowly swimming down until she reaches a room.
@@ -91,4 +91,4 @@ Scroll of false life
 gentle Repose
 Speak with dead
 
-Acquired the rod for Shadow Organization
+Acquired the rod for Shadow Government
