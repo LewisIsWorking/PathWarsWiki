@@ -4,6 +4,10 @@
 
 ### Current players.
 
+- 5/6.
+
+Here:
+
 - 001 = Horia = Selenor.
 - 002 = Anthony = Allisee.
 - 010 = Ross = Carnon.
@@ -28,23 +32,25 @@
 
 ## Player Membership Log
 
-26/03/2023.
+- 26/03/2023.
 Anubis_MonRa#6469 leaves the campaign. Anubis played Un-Trul an automaton gunslinger + magus.
 
-29/03/2023.
+- 29/03/2023.
 Brian C.#0055 leaves the queue due to IRL commitments.
 Brian C was 2nd in the queue.
 
-02/04/2023.
+- 02/04/2023.
 Disbelief_99#0595 has willingly dropped to position #2 on the queue because he can’t commit to the DF campaign right now.
 That brings Laucian#1802 to the #1 position on the queue.
 Disbelief is now position #2.
 
-14/04/2023.
+- 14/04/2023.
 Dragon123459 has wiling dropped out of the queue.
 Then all the people below have moved up.
 
 ## #5. Grand explorers.
+
+- 5/6.
 
 Here:
 
@@ -62,6 +68,8 @@ Gone:
 - Lance.
 
 ## #6. Kibwe.
+
+- 6/6.
 
 Here:
 
