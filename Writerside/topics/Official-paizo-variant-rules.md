@@ -74,12 +74,7 @@ Format = Rule Name - Sub-Rule - Status - Link
 
 ## Stamina
 - Full Variant Rule
-- Status: Required.
-- No-limit Stamina
-You get two bonus feats for free:
-- Encouraging words.
-- Steel your resolve.
-- https://pf2easy.com/index.php?id=7791&name=Stamina
+- Status: Banned
 
 ## Rolling Ability Scores
 - Status: Banned
