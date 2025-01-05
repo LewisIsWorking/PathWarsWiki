@@ -43,7 +43,7 @@ Selenor plane shifts to the runewild.
 
 - Brodert Quink has a bounty.
 - Selenor, Viole, Decebal and Cardigan go to Seagull island.
-- Seagulls won't go past the outer rocks.
+- Seagulls will not go past the outer rocks.
 
 12:20. Allisee arrives at Seagull island.
 
