@@ -141,3 +141,4 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 10:00. 8 hours of rest + daily preparation. 
 - 10:30. Breakfast.
 
+## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Osiria ritual part 3.

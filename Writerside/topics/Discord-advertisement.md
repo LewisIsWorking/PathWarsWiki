@@ -39,4 +39,6 @@ You can also reach out to our campaign helpers:
 
 ## Post history.
 
-- 5th December 2024.
+- 24-11-2024. https://discord.com/channels/260066959238889472/1310060810105786460
+- 5th December 2024. https://discord.com/channels/260066959238889472/1314035094155165777
+- 04-01-2025. January 1st, 2025. https://discord.com/channels/260066959238889472/1325035744024068096
