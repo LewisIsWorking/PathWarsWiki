@@ -142,3 +142,15 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 10:30. Breakfast.
 
 ## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Osiria ritual part 3.
+
+- 11:00. The Eto Bazaar.
+- Selenor recalls that D'Bear likes scented candles for when she prays.
+- Obo the goblin candle merchant.
+- Obo's mother was a candle maker called Mobo.
+- Obo's family has always felt a connection to the prismatic sphere.
+- The Living Prismatic Sphere of the Radiant Dragons and an army of Tuffies (A Tuffy = singular).
+- The Living Prismatic Sphere absorbed Mobo's soul.
+- The Living Prismatic Sphere is neutral evil.
+- Candles of Sarenrae: focus, veracity, healing, recuperation and serenity.
+- Obo hands the vial of envy dust to Allisee.
+- Lire is an elf.
