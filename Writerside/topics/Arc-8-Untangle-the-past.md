@@ -122,7 +122,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 18:00.
 - 18:10. Mahu returns.
 - 18:30. Eto entered.
-- 19:15. House of the White Uraeus. 
+- 19:15. House of the White Uraeus.
 - 20:00. Hot tub time with Grand Master Torch.
 - 20:10. Refocus.
 - 22:30. Viole gathers information and learns a bunch of information. Madame Zelekhati is an elven supremacist.
@@ -131,14 +131,14 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 23:20. Cobble together.
 - Giant anacondas x 2 fight.
 - 00:00. Post-fight healing.
-- Loot: Scrolls of death ward, 5th-rank false life, 5th-rank Talking corpse, 5-rank gentle repose, lapis lazuli burial 
+- Loot: Scrolls of death ward, 5th-rank false life, 5th-rank Talking corpse, 5-rank gentle repose, lapis lazuli burial
   mask (500 GP treasure), 3 clay tablets, rod of the viper.
 - TALKING CORPSE (UNCOMMON) UNLOCKED!!!
 - 00:10. Out of the well.
 
 29th Arodus.
 
-- 10:00. 8 hours of rest + daily preparation. 
+- 10:00. 8 hours of rest + daily preparation.
 - 10:30. Breakfast.
 
 ## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Osiria ritual part 3.
@@ -160,6 +160,6 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - Selenor buys a fine-quality harrow deck made of ivory and high quality wood.
 - The Carnival represents puppets.
 - The Lost card then falls.
-- The Lost This is the chaotic evil card of wisdom. 
-- The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums. 
+- The Lost This is the chaotic evil card of wisdom.
+- The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums.
 - The lost is a card of emptiness.
