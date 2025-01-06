@@ -152,5 +152,14 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - The Living Prismatic Sphere absorbed Mobo's soul.
 - The Living Prismatic Sphere is neutral evil.
 - Candles of Sarenrae: focus, veracity, healing, recuperation and serenity.
+- Selenor buys a candle of recuperation.
 - Obo hands the vial of envy dust to Allisee.
 - Lire is an elf.
+- Cressida Croft has a love of Griffins.
+- Adesha (a Nagaji) says that puppets have gone missing across the world (missing puppets side quest).
+- Selenor buys a fine-quality harrow deck made of ivory and high quality wood.
+- The Carnival represents puppets.
+- The Lost card then falls.
+- The Lost This is the chaotic evil card of wisdom. 
+- The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums. 
+- The lost is a card of emptiness.

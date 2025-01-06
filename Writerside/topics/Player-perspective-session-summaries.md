@@ -106,7 +106,7 @@ Acquired the rod for Shadow Government
 >> - But beneath the shimmering veneer of success lay a tale etched in vengeance and sorrow.
 >> - Obo's mother, Mobo, was the true architect of their family’s legacy. 
 >> - Known as the "Twilight Wanderer", 
->> - she wove tales of gods and stars into her trade, her devout worship of Sarenrae granting her both fortune and fervor. 
+>> - she wove tales of gods and stars into her trade, her devout worship of Sarenrae granting her both fortune and fervour. 
 >> - Yet it was not the desert sun that claimed her life, but an entity of unfathomable power—the Living Prismatic Sphere, 
 a living demigod born of ancient magics and unbridled wrath.
 >> - Years passed, and the grief hardened into resolve within Obo. 
