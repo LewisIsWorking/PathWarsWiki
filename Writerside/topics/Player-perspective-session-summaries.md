@@ -94,11 +94,96 @@ Scroll of false life
 gentle Repose.
 Speak with the dead.
 
-Acquired the rod for Shadow Government
+Acquired the rod for Shadow Government.
+
+> Sherfield / Lire.
+
+Session 230 Summary
+Setting:
+Time: 2024 December 29th IRL / 4710 AR, 28th Arodus (Golarion date).
+Context: Second part of the Osiria Ritual arc.
+Key Locations and Events:
+City on the Beetle's Shell:
+The city of Etho is built around the shell of a colossal spawn of Rovagug, slain by ancient mages.
+The city is heavily warded with magical protections, preventing unauthorized teleportation. Its walls are hundreds of meters tall and warded against climbing.
+Objective: The Scarab Jewels:
+Priceless, powerful magical artifacts tied to ancient Osirian knowledge.
+Needed for the Ritual of the Jewels. The Diamond Sage in the desert is integral to this ritual.
+Amephious believes his lack of power is linked to the missing jewels.
+Entry to Etho:
+Mahoo, the customs agent, serves as a difficult “boss” character.
+The party crafts a replica Osirion Communication Geode (1400 GP value) to appease Mahoo and secure entry into the city.
+Mahoo confiscates Carnon’s herbs and spices, giving a Merchant's Docket in return.
+The Etho Bazaar:
+Described as a safe trading zone where merchants are less likely to scam outsiders.
+Selenor faces hostility due to being identified as undead and a necromancer, but the city allows such individuals under specific regulations.
+The House of the White Uraeus:
+Located in the wealthier part of Etho.
+Contains the party’s contact for information on the Diamond Sage.
+Secondary Quest Objectives:
+Given by Grand Master Torch, involving tasks to uncover secrets and gain information:
+Plant a book in Professor Lozar's belongings at the School of Sciences.
+Retrieve and deliver artifacts hidden within Etho’s ancient walls.
+Seduce or uncover information from Madam Zelekhati, a key elven figure.
+Investigate the Hundred-Finger Gang using Viole’s connections.
+Significant Encounters:
+Serpent Well Exploration:
+Viole and Allisee discover magical water reacting uniquely to divine magic.
+Allisee swims into the well, locating a hidden chamber with a diamond-shaped hot tub, a mysterious lever, and carvings resembling a man.
+Combat with two giant snakes ensues; Viole and Carnon join, with Carnon heroically killing one snake by falling on it.
+Visions and Mystical Events:
+Vision involving Sarenrae: Snakes consume her in a dark temple.
+Vivid imagery of a jungle temple, a bird person invoking great power, and the ominous Eye of Abaddon.
+Loot Acquired:
+Lapis Lazuli Burial Mask (worth 500 GP).
+Three Clay Tablets describing ancient funeral rites.
+Rod of the Viper: An artifact of unknown significance.
+Scrolls of advanced necromantic spells: False Life, Gentle Repose, and Speak with Dead.
+
 
 ## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Osiria ritual part 3.
 
 > Sherfield / Lire:
+
+Session 231 Summary
+Setting:
+Time: 2025 January 5th IRL / 4710 AR, 29th Arodus (Golarion date).
+Context: Third part of the Osiria Ritual arc.
+Key Developments and Events:
+Preparation for Madamne Zelekhati Encounter:
+Cardigan acquires a map of Osiria.
+Selenor struggles with using maps effectively.
+Viole's Directive: The group is advised not to escalate or draw blood during the encounter with Madamne Zelekhati, who is revealed to be an elven supremacist.
+The Bazaar and its Mysteries:
+The group explores the Eto Bazaar, a chaotic market known for its rejection of Absalom Trade Standards and its mix of financial statuses.
+Haggling dominates the bazaar as the group seeks a gift for Madamne Zelekhati.
+Obo the Candle Merchant:
+The group meets Obo, a goblin merchant selling magical, colorful candles and rare magical dust.
+Obo's Backstory:
+His family’s lineage is tied to the Living Prismatic Spear, an ancient entity described as an eternal guardian of light and flame, born from chaos in the deep ground.
+His mother, Mobo, was known as the "Twilight Wanderer" and a devout worshiper of Sarenrae. She was killed by the Living Prismatic Spear, leaving Obo with a legacy of grief and vengeance.
+Magical Offerings:
+Obo offers Envy Dust, a rare substance found in ruins of the Ancient Osirian and Sin Empire, for 9 gold pieces.
+The dust is said to enhance or dispel abjuration magic.
+Condition: The party must swear to confront the Living Prismatic Spear to gain Obo's full support.
+Archon Star Mace:
+A family heirloom obtained generations ago from the vault of the Living Prismatic Spear.
+Obo offers the mace to the party, describing it as linked to a “tear in the veil” between worlds.
+Carnon’s Experience: While holding the mace, Carnon has a vivid vision of being crushed by a golem in a starry expanse.
+Gold Rush and Hidden Riches:
+The discussion reveals that much of Osiria lies buried beneath hundreds of feet of sand, hiding untold artifacts and treasures.
+If fully unearthed, Osiria could become a world superpower.
+Lire’s Contribution:
+Lire records Obo's tale in a written work titled "The Candle Soul Legacy" and gifts it to Obo.
+
+The Candle Soul Legacy
+Written by Lire, this tale captures Obo’s history and motivations:
+Mobo, the Twilight Wanderer: Obo’s mother, a devout follower of Sarenrae, wove divine tales into her trade.
+The Living Prismatic Spear: A demigod born of chaos and ancient magics, responsible for Mobo's death.
+Obo's Resolve: Driven by vengeance, Obo seeks heroes to challenge the entity that claimed his mother and threatens the divine order.
+
+
+> Lire's message to Obo.
 >> - Lire scribes this tale and hands a copy to Obo.
 >> - The Candle Soul Legacy
 >> - In the golden sands of Osirion, where ancient secrets whisper to the winds, there lived a merchant of renown, Obo of the Candle Soul. 
