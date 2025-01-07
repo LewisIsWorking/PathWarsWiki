@@ -2,15 +2,15 @@
 
 Format = Rule Name - Sub-Rule - Status - Link
 
-> World #1 Campaign = #1 Doomsday Funtime.
+> World 1 Campaign = Campaign 1 Doomsday Funtime.
 
 > World #2 contains all other path war campaigns:
->> - #2 Crimson Throne.
->> - #3 Etran's Folly.
->> - #4 Agents of Edgewatch.
->> - #5 The Grand Explorers.
->> - #6 Kibwe.
->> - #7 Starfinder.
+>> - Campaign 2 Crimson Throne.
+>> - Campaign 3 Etran's Folly.
+>> - Campaign 4 Agents of Edgewatch.
+>> - Campaign 5 The Grand Explorers.
+>> - Campaign 6 Kibwe.
+>> - Campaign 7 Starfinder.
 
 ## Variant Rules
 - https://pf2easy.com/index.php?id=7703&name=Variant_Rules
