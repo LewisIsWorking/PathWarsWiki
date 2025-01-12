@@ -1,3 +1,0 @@
-# DF-Lore
-
-Start typing here...

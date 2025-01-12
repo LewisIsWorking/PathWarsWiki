@@ -1,3 +1,0 @@
-# Table-of-contents: Homebrew
-
-Start typing here...

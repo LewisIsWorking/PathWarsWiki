@@ -1,0 +1,3 @@
+# General: Writerside-setup
+
+Start typing here...

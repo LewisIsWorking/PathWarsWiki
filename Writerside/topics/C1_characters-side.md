@@ -1,3 +1,0 @@
-# DF-Characters-side
-
-Start typing here...

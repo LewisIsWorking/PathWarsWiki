@@ -1,3 +1,0 @@
-# All
-
-Start typing here...
