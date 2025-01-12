@@ -4,7 +4,7 @@ Start typing here...
 
 ## Table of Contents (Top of the Page).
 
-### Tome List.
+## Tome List.
 
 1. Principia Arcana.
 2. The Apocrypha.
@@ -13,33 +13,27 @@ Start typing here...
 5. Valto’s Magic over Matter.
 6. The Dwarven Hammer.
 7. A collection of untitled and anonymous scrolls written entirely in Terran.
-8. The Start of Sin: A Thassilonian Spellbook For Beginners.
+8. The Start of Sin: A Thassilonian Spell book For Beginners.
 9. "The Mutable Form." Written by a Runelord of Greed.
-10. The Antion of Dragonkind. Antion is a Thassilonian word for enslaving and binding against one's will.
-11. Knocking the Door.
-12. Perfect Prismatic Primer: A Guide To Azlanti Magical Technology.
+10. The Antion of Dragon kind. Antion is a Thassilonian word for enslaving and binding against one's will.
+11. Knocking on the Door.
+12. Perfect Prismatic Primer: A Guide To The Magical Technology of Azlanti.
 
-### Introduction Note.
+## Introduction Note.
 
 The following text can be found on a piece of paper that seems to have been slipped into your copy of the “Principia Arcana” when you picked up your replicas of the books.
 
-“The following books are copies made by I, Bormgastor the draconic-wizard, defendor of the White Tower.
-
+"The following books are copies made by I, Bormgastor the draconic-wizard, defendor of the White Tower.
 Each of these copies have been recreated down to the slightest of details.
-
 I, Bormgastor, have also taken a frightfully long time to painstakingly experiment with each of the original copies to find all of their secret arcane notions then created copies of the notion that I deconstructed in base components before recreating in the copies of the books.
-
 I have done this so that my copies will emulate the enchantments placed upon the originals by casters of far greater strength, resources, knowledge and skill than I.
-
 If one cannot be original then they should do their best to copy,
-
-and of course, what is the greatest compliment if not emulation?
-
--Bormgastor, dragon mage of the White Tower.”
+and of course, what is the greatest compliment if not emulation?"
+- Bormgastor, dragon mage of the White Tower.
 
 ## What you will find below…
 
-Below I have created 12 sections that you can jump between using the table of contents found above.
+Below, I have created 12 sections that you can jump between using the table of contents found above.
 
 Each section is an attempt to describe both what the book looks like and what the contents of each book is.
 
@@ -51,7 +45,7 @@ I am sorry this took so long.
 
 <3
 
-# 1. Principia Arcana.
+## 1. Principia Arcana.
 
 Below the title, this book has a stylised Sihedron upon its purple velvet cover.
 
@@ -256,7 +250,7 @@ If you have suffiencient clearance you will of course find the greatest tomes on
 
 The book ends here, the index implies that you have read all of the entire text.
 
-# 2. The Apocrypha.
+## 2. The Apocrypha.
 
 This brown book is slim, under a few hundred pages in length.
 
@@ -312,7 +306,7 @@ Something is coming and one thing is certain, if a diety of fate has gone silent
 
 The rest of the book is blank.
 
-# 3. Letters from the Brass City.
+## 3. Letters from the Brass City.
 
 A collection of scrolls.
 
@@ -395,7 +389,7 @@ You will be pleased to know she has drunk all of those who died with hope in the
 
 The letter ends there.
 
-# 4. The Karthian Sphere.
+## 4. The Karthian Sphere.
 
 This book, if you could call it that, is a bound series of different pages.
 
@@ -447,7 +441,7 @@ Versus a week for 10,000 gold pieces.
 
 It is up to you what you will do with this knowledge, it will change the world.
 
-# 5. Valto’s Magic over Matter.
+## 5. Valto’s Magic over Matter.
 
 This book is a prismatic, rainbow of colours with a soft cover that has the consistency of slime to the touch.
 
@@ -541,7 +535,7 @@ It seems that this book somehow found itself here unfinished.
 
 What you are able to find out is that the name of the artifact was “The Eye of Avarice” and that “Runewells of Greed” were heavily involved to provide power and stability.
 
-# 6. The Dwarven Hammer.
+## 6. The Dwarven Hammer.
 
 This is a pale brown journal that is titled “The Dwarven Hammer” in tidy joined up handwriting.
 
@@ -619,7 +613,7 @@ The spells inside the Enchiridion of the Archmage are nearly exclusively 10th ti
 
 These books are believed to be completely extinct in the modern-day and even in the time of Thassilon, it seems only the most powerful spellcasters owned a copy of this book.
 
-# 9. "The Mutable Form." Written by Karzoug, Runelord of Greed.
+## 9. "The Mutable Form." Written by Karzoug, Runelord of Greed.
 
 This book’s covers are a constantly changing material, texture, colour, smell, brightness, etc, etc.
 
@@ -740,7 +734,7 @@ The sin-spawn troops require biological material to create.
 
 Alaznist will remember which one of us is the master of transmutation.
 
-# 10. The Antion Of Dragonkind. Antion is a Thassilonian word for enslaving and binding against one's will.
+## 10. The Antion Of Dragonkind. Antion is a Thassilonian word for enslaving and binding against one's will.
 
 The front cover depicts imagery of a dead dragon with a sihedron carved into the chest of the dragon.
 
@@ -876,7 +870,7 @@ Eventually possibly replacing slaves of other races.
 
 End of Report Booklet.
 
-# 11. Knocking the Door.
+## 11. Knocking the Door.
 
 The book is locked.
 
@@ -902,7 +896,7 @@ The rest of the first half of the book is the line:
 
 The second half of the book is blank with the occasional random drawings of circles, some have sinister faces, most are blank.
 
-# 12. Perfect Prismatic Primer. A guide to Azlanti magical technology.
+## 12. Perfect Prismatic Primer. A guide to Azlanti magical technology.
 
 The book is silver with its title and subtitle both in thick purple colouring.
 
@@ -1009,7 +1003,7 @@ Selective Syringe.
 
 Automatically selects the correct syringe and injects the correct dosage.
 
-# Conclusion of the White Tower Tome Collection.
+## Conclusion of the White Tower Tome Collection.
 
 This collection of books seems to have been gathered from various points throughout the history of Thassilon.
 
@@ -1023,8 +1017,8 @@ This also applies to the other books (Sunken Tower) as well.
 
 Hopefully with the knowledge of an empire you are one step closer to stopping Doomsday.
 
-The End of Book #1
+The End of Book ##1
 
-# Table of Contents (Bottom of Page).
+## Table of Contents (Bottom of Page).
 
 End of Page.
