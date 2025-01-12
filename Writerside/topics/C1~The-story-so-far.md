@@ -49,6 +49,9 @@ P1 arcs:
 > Arc 8: Untangle the past.
 >> - Session 225 -> ONGOING.
 
+> Arc 999: Kaer Maga.
+>> - LOL.
+
 ## Doomsday Funtime Part 2 = Session Quick Summary.
 
 Session 128.
