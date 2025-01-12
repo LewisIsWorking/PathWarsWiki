@@ -10,11 +10,12 @@ P1 arcs:
 1. The Thistle Top Arc.
 2. The Murder Arc.
 3. Shard of Lust Arc.
-4. The Tomb of Tular Sept Arc.
+4. The Tomb of Tular-Sept Arc.
 5. The Belhaim Arc.
 6. The Harrow Arc.
 
-## DF Arc list.
+## DF P2 Arc list.
+
 > Arc 1: Skull Hill Arc. Session 134 -> 138.
 >> - 5 sessions.
 >> - The Moon-Flower.

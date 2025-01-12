@@ -13,7 +13,7 @@ For a look at how things roughly fit together:
 - Started: 2018. 
 - Restarted: 2022.
 - [campaign-1-the-doomsday-funtime-story.md](C1~Doomsday-funtime-128-to-200.md)
-- [Campaign-1-doomsday-funtime-201-plus.md](Campaign~1-doomsday-funtime-201-plus.md)
+- [Campaign-1-doomsday-funtime-201-plus.md](C1~doomsday-funtime-201-plus.md)
 
 ## #2: Curse of the Crimson Throne. COMPLETE!
 - Status: complete.

@@ -34,7 +34,7 @@ The party is phased and shifted to the throne room of Castle Korvosa 3 weeks int
 
 The Hourglass of Time shatters.
 
-Ophelia is possed by the Time God.
+Ophelia is possessed by the Time God.
 
 Ophelia becomes the Time God’s new Avatar.
 

@@ -105,7 +105,7 @@ The special spell mastery fortes.
 
 ## Trainer Achievement.
 
-Your character’s build contains feats from 12 sources (different races, archetypes, and classes).
+Your character’s build contains feats from 12 sources (different races, archetypes and classes).
 
 A dual-class character will have a minimum of 3 sources.
 
@@ -162,7 +162,7 @@ Convince four knightly orders and a major mayor to write letters of commendation
 1. The story of the Accursed.
 2. The story of the Apotheosis.
 3. The story of the Arisen.
-4. The story of the Artifact Hunter.
+4. The story of the Artefact Hunter.
 5. The story of the Ascendant.
 6. The story of the Battlefield Healer.
 7. The story of the Betrayed.
@@ -203,7 +203,7 @@ Convince four knightly orders and a major mayor to write letters of commendation
 42. The story of the Object of Legend 
 43. The story of the Otherworldly Influence
 44. The story of the Overachiever 
-45. The story of the Planar Traveler 
+45. The story of the Planar Traveller 
 46. The story of the Prophet 
 47. The story of the Puppet Master 
 48. The story of the Redeemed. 

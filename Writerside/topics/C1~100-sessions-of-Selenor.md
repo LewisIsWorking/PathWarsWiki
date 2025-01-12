@@ -15,7 +15,7 @@ Start typing here...
 1. A deal is forged between Death and Asmodeus.
 2. The plane of Tallinn Garden is released from hell and becomes archives by the watchers.
 3. Selenor must take over the now archived plane of Tallinn Garden.
-4. Selenor must also deactivate a daemonic artifact in Tallinn Garden.
+4. Selenor must also deactivate a daemonic artefact in Tallinn Garden.
 
 - Tallinn Garden is worshipped by a God called the First.
 - The First is the God of Truth.

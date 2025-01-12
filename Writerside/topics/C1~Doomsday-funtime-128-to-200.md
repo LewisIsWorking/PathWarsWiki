@@ -1,4 +1,4 @@
-# Campaign~1-Doomsday-funtime-128-to-200
+# C1~Doomsday-funtime-128-to-200
 
 ## DF Public Story.
 

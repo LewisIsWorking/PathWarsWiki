@@ -57,9 +57,9 @@ At Sandpoint home base.
 Laucian POV.
 Laucian talks to Tammerhawk.
 
-Laucian spends 4 weeks at the concordance of elements.
-Laucian's strategies nearly get some elemental soldiers killed.
-Laucian earned 90ish gold.
+- Laucian spends 4 weeks at the concordance of elements.
+- Laucian's strategies nearly get some elemental soldiers killed.
+- Laucian earned 90ish gold.
 
 Modwinn is here.
 
@@ -76,8 +76,8 @@ The party are at the Black rock mine.
 
 Selenor is in aerial form.
 10 minutes.
-3 x 10 = 30.
-30 - 2 = 28.
+3x10 = 30.
+30-2 = 28.
 
 Selenor chases 3 orcs.
 Selenor gets a dragon apple of inevitable death.
