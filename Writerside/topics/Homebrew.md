@@ -1,3 +1,0 @@
-# Homebrew
-
-Start typing here...

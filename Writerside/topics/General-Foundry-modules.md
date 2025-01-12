@@ -4,7 +4,7 @@ Start typing here...
 
 ## Enabled.
 
-- Smart target. Was not a problem, it was lancer that was causing the issue.
+- Smart target. It was not a problem, it was the lancer that was causing the issue.
 
 ## Disabled.
 

@@ -1,8 +1,8 @@
-# Character-Lore-Builder
+# General: Character-Lore-Builder
 
 Starting Guide Link.
-- [Getting-started.md](Getting-started.md)
-- [Getting-started-guide.md](Getting-started-guide.md)
+- [Getting-started.md](Table-of-contents_Getting-started.md)
+- [Getting-started-guide.md](General_Getting-started-guide.md)
 
 ## Build YOUR Character’s Life HERE!
 
@@ -17,7 +17,7 @@ Core.
 
 Age.
 
-For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
+For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version](General_Golarion-Lore-The-Spoiler-Free-Version.md)
 
 1. How old is your character?
 2. What year was your character born?

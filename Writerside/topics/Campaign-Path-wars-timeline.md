@@ -1,4 +1,4 @@
-# PathWars-timeline
+# Campaigns: Path-wars-timeline.
 
 Anything that happens across any campaign run by the Path Wars collective is canon across all the campaigns.
 

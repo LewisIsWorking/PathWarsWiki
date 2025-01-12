@@ -1,4 +1,4 @@
-# DF-Arc-8-Untangle-the-past
+# C1: Arc-8-Untangle-the-past
 
 Start typing here...
 
@@ -77,7 +77,7 @@ In play by post, the party talks to the wizard Zarzan Quilit.
 
 ## Session 228. 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 
-- Events of [DF-100-sessions-of-Selenor.md](DF-100-sessions-of-Selenor.md) happen.
+- Events of [DF-100-sessions-of-Selenor.md](C1_100-sessions-of-Selenor.md) happen.
 
 ## Session 229. 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
 

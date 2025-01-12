@@ -1,6 +1,6 @@
 # Homebrew-rules
 
-For the official Paizo homebrew rules we use: [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
+For the official Paizo homebrew rules we use: [Official-paizo-variant-rules.md](General_Official-paizo-variant-rules.md)
 
 ## 5 plot threads.
 

@@ -1,4 +1,4 @@
-# Available-classes
+# General=Available-classes
 
 ## Core Paizo Classes.
 - Alchemist.

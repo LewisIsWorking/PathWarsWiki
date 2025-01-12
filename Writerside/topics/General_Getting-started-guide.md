@@ -1,4 +1,4 @@
-# Getting-started-guide
+# General_Getting-started-guide
 
 Long story short, make a character and play some DND! :)
 
@@ -249,16 +249,16 @@ With these steps, we will establish the character alongside their backstory, tra
 ## Step #3.
 ### The Great Spoiler Warning.
 
-Read = [Spoiler-avoidance-guide.md](Spoiler-avoidance-guide.md)
+Read = [Spoiler-avoidance-guide.md](General_Spoiler-avoidance-guide.md)
 
 ## Step #4.
 ### How to Build Your Character’s Life.
 
 Go here and paste the table onto your writerside instance OR your word processor of choice:
-- [Build YOUR Character’s Life HERE! Character-Lore-Builder.md](Character-Lore-Builder.md)
+- [Build YOUR Character’s Life HERE! Character-Lore-Builder.md](General_Character-Lore-Builder.md)
 
 If you need information on the world, check out:
-- [Golarion-Lore-The-Spoiler-Free-Version](Golarion-Lore-The-Spoiler-Free-Version.md)
+- [Golarion-Lore-The-Spoiler-Free-Version](General_Golarion-Lore-The-Spoiler-Free-Version.md)
 
 ### OPTIONAL: GitHub.
 
@@ -290,7 +290,7 @@ There's no pressure.
 
 Please read the following page:
 
-- [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
+- [Official-paizo-variant-rules.md](General_Official-paizo-variant-rules.md)
 
 You can find out what Paizo Variant rules are used in the page linked above!
 
@@ -298,7 +298,7 @@ The campaigns ran in the Path War community have some homebrew rule changes.
 
 You can find a mostly complete list of the rule changes here.
 
-- [Homebrew Rule Changes.](Homebrew-rules.md)
+- [Homebrew Rule Changes.](General_Homebrew-rules.md)
 
 ## Step #6.
 ### Talk to the Game Master, me!
@@ -307,7 +307,7 @@ Reach out to me.
 Share your built-up character's lore.
 We will integrate your character into the campaign.
 
-Check out my 5 plot threads rule on: [Homebrew-rules.md](Homebrew-rules.md).
+Check out my 5 plot threads rule on: [Homebrew-rules.md](General_Homebrew-rules.md).
 I will go through this with you to integrate you into the campaign.
 
 ### What's up next? Building the character's stats and abilities!
@@ -335,7 +335,7 @@ Using Path-Builder 2e ensures that you build your character correctly without mi
 
 Here is how to set up Path Builder 2e.
 
-- [Path Builder 2e.](Pathbuilder-setup.md)
+- [Path Builder 2e.](General_Pathbuilder-setup.md)
 
 The link to Path-Builder is here:
 
@@ -351,13 +351,13 @@ Enable the variant rules that are applicable to your campaign.
 
 To find out what variant rules you need to enable, check here:
 
-[Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
+[Official-paizo-variant-rules.md](General_Official-paizo-variant-rules.md)
 
 ### How to enable the variant rules.
 
 To enable variant rules on Path-Builder 2e do the following:
 
-- [Pathbuilder-setup.md](Pathbuilder-setup.md)
+- [Pathbuilder-setup.md](General_Pathbuilder-setup.md)
 
 Options → Then Tick the Box next to the rule.
 
@@ -371,7 +371,7 @@ Options → Tick the Dual Class box.
 
 Check the 3rd party page to find out what is available.
 
-- [3rd-party-content-and-options.md](3rd-party-content-and-options.md)
+- [3rd-party-content-and-options.md](General_3rd-party-content-and-options.md)
 
 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 
@@ -385,7 +385,7 @@ Some 3rd party content may already be available in Foundry thanks to community m
 
 Before selecting anything with these traits, make sure you read:
 
-- [Rarity-Lock-Status-Tracker.md = Uncommon/Rare/Unique.](Rarity-Lock-Status-Tracker.md)
+- [Rarity-Lock-Status-Tracker.md = Uncommon/Rare/Unique.](General_Rarity-Lock-Status-Tracker.md)
 - You can play ANY background, class and/or race, regardless of their rarity.
 
 ### Create your character.
@@ -429,7 +429,7 @@ Examples:
 
 You can read about the lore increases homebrew rule here:
 
-[Lore Increases in Homebrew-rules.md](Homebrew-rules.md)
+[Lore Increases in Homebrew-rules.md](General_Homebrew-rules.md)
 
 ### Foundry Virtual Table Top Time.
 
@@ -647,7 +647,7 @@ Final checks.
 
 **And with that, we should be ready to roll the dice, kill shit and have fun.** 😃
 
-Make sure to complete the [Character-Lore-Builder](Character-Lore-Builder.md)
+Make sure to complete the [Character-Lore-Builder](General_Character-Lore-Builder.md)
 
 ## Change log.
 

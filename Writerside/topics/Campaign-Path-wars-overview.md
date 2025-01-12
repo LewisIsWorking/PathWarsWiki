@@ -1,18 +1,18 @@
-# Path-wars-campaigns
+# Campaigns: Path-wars-overview.
 
 Layout.
 - Session count: X.
 - Started: X.
 
 For a look at how things roughly fit together:
-- [Path-wars-timeline.md](Path-wars-timeline.md)
+- [Path-wars-timeline.md](Campaign-Path-wars-timeline.md)
 
 ## #1: Doomsday funtime.
 - Status: ongoing.
 - Session count: 211+.
 - Started: 2018. 
 - Restarted: 2022.
-- [campaign-1-the-doomsday-funtime-story.md](Campaign-1-doomsday-funtime-128-to-200.md)
+- [campaign-1-the-doomsday-funtime-story.md](C1_doomsday-funtime-128-to-200.md)
 - [Campaign-1-doomsday-funtime-201-plus.md](Campaign-1-doomsday-funtime-201-plus.md)
 
 ## #2: Curse of the Crimson Throne. COMPLETE!

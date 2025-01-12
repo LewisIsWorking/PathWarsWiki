@@ -12,7 +12,7 @@ No humans for story reasons.
 
 I recommend you check out the 3rd party race section!
 
-[Rarity-Lock-Status-Tracker.md](Rarity-Lock-Status-Tracker.md)
+[Rarity-Lock-Status-Tracker.md](General_Rarity-Lock-Status-Tracker)
 
 ## Lore.
 

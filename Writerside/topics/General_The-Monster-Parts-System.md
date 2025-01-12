@@ -5,7 +5,8 @@
 ## Basics:
 
 - Each monster defeated can be harvested for "monster parts".
-- These parts have a value dependent on power and species of the monster and also have a bulk value (dependent on size).
+- These parts have a value dependent on power and species of the monster and also have a bulk value (dependent on 
+  size).
 - These parts can be used to craft items instantaneously.
 - The rules: https://pf2easy.com/index.php?id=19415&name=Monster_Parts.
 - You don't need to use specific parts for specific choices.
@@ -14,9 +15,9 @@ on the monster.
 
 ## Changes:
 
-- These parts can also be used to create items in the same way from the books that aren't runes or rune based items. 
+- These parts can also be used to create items in the same way from the books that are not runes or rune-based items. 
 - Using monster parts to craft an item costs 2x the item's price.
-- This is different from crafting as it doesn't take a skill check or time.
+- This is different from crafting as it does not take a skill check or time.
 
 ## Benefits.
 
