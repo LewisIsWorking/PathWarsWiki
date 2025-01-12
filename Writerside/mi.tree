@@ -7,36 +7,40 @@
                  start-page="Path-wars-campaigns.md">
 
     <toc-element topic="All.md">
-        <toc-element topic="Selenor-collection.md">
+        <toc-element topic="DF-lore.md">
+            <toc-element topic="DF-100-sessions-of-Selenor.md"/>
+            <toc-element topic="DF-Allisee.md"/>
             <toc-element topic="Arc-6-Gaunt-light.md"/>
             <toc-element topic="Arc-7-Junima-rescue-arc.md"/>
             <toc-element topic="Arc-8-Untangle-the-past.md"/>
+            <toc-element topic="Selenors-book.md"/>
+            <toc-element topic="Sunken-tower-library-books.md"/>
+            <toc-element topic="White-tower-tomes.md"/>
             <toc-element topic="Cardigans-Dream.md"/>
-            <toc-element topic="Chronicler-overview.md"/>
-            <toc-element topic="DF-100-sessions-of-Selenor.md"/>
-            <toc-element topic="DF-characters.md"/>
+            <toc-element topic="DF-characters.md">
+            </toc-element>
             <toc-element topic="DF-characters-main.md"/>
             <toc-element topic="DF-characters-side.md"/>
-            <toc-element topic="DF-experience-totals.md"/>
-            <toc-element topic="DF-experience-tracker.md"/>
-            <toc-element topic="DF-fame-tracker.md"/>
+            <toc-element topic="Riddleport-and-Rune-wheel.md"/>
+            <toc-element topic="Selenors-Visions.md"/>
+            <toc-element topic="The-secrets-of-magic.md"/>
+            <toc-element topic="The-Harrow-Realm.md"/>
             <toc-element topic="DF-the-story-so-far.md"/>
+        </toc-element>
+        <toc-element topic="Selenor-collection.md">
+            <toc-element topic="Chronicler-overview.md"/>
             <toc-element topic="Discord-advertisement.md"/>
             <toc-element topic="Dragon-spirit.md"/>
             <toc-element topic="Eldamon.md"/>
             <toc-element topic="Eternal-Warden-Overview.md"/>
+            <toc-element topic="DF-experience-totals.md"/>
+            <toc-element topic="DF-experience-tracker.md"/>
+            <toc-element topic="DF-fame-tracker.md"/>
             <toc-element topic="Moonbear-and-artifacts-overview.md"/>
             <toc-element topic="Player-perspective-session-summaries.md"/>
             <toc-element topic="Proto-sin-blades.md"/>
-            <toc-element topic="Riddleport-and-Rune-wheel.md"/>
             <toc-element topic="Sandpoint-charter.md"/>
-            <toc-element topic="Selenors-book.md"/>
-            <toc-element topic="Selenors-Visions.md"/>
-            <toc-element topic="Sunken-tower-library-books.md"/>
-            <toc-element topic="The-secrets-of-magic.md"/>
             <toc-element topic="The-Doomsday-Dominion.md"/>
-            <toc-element topic="The-Harrow-Realm.md"/>
-            <toc-element topic="White-tower-tomes.md"/>
         </toc-element>
         <toc-element topic="Getting-started.md">
             <toc-element topic="Available-classes.md"/>
@@ -50,14 +54,14 @@
             <toc-element topic="Writerside-setup.md"/>
         </toc-element>
         <toc-element topic="Homebrew.md">
-            <toc-element topic="The-Monster-Parts-System.md"/>
-            <toc-element topic="Heroic-Crafting.md"/>
             <toc-element topic="3rd-party-content-and-options.md"/>
             <toc-element topic="Dual-Class-Stat-Boost.md"/>
             <toc-element topic="Faction-signup-rewards.md"/>
             <toc-element topic="Guild-wars-2-in-Pathfinder-2e.md"/>
+            <toc-element topic="Heroic-Crafting.md"/>
             <toc-element topic="Homebrew-rules.md"/>
             <toc-element topic="Spell-casting-changes.md"/>
+            <toc-element topic="The-Monster-Parts-System.md"/>
             <toc-element topic="The-colours-of-magic.md"/>
         </toc-element>
         <toc-element topic="Other.md">

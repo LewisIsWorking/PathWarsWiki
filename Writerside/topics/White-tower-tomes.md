@@ -1,4 +1,4 @@
-# White-tower-tomes
+# DF-Book of the white tower
 
 Start typing here...
 

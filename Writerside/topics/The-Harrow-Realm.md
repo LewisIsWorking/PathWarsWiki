@@ -1,4 +1,4 @@
-# The-Harrow-Realm
+# DF-The-Harrow-Realm
 
 - Amar has used the upgrade: The Mountain Man.
 - Session 205. Allisee gets 2 items for the Zubiri.
@@ -8,20 +8,24 @@ Cards collected so far:
 
 > #1: Ownership: Brass Dwarf.
 >> - Hardy and resilient. High constitution. Lawful neutral.
->> - Passive Ability : You gain resistance to fire equal to your level when you invest the item.
->> - 1 Action (concentrate) Once per hour : Choose acid, cold, electricity, fire, mental, poison, or sonic. You can't choose the damage type for which The Brass Dwarf currently gives you resistance.You gain resistance to the damage you chose equal to your level, and you lose the prior resistance that The Brass Dwarf gave you. For 1 minute, you gain weakness equal to half your level to the damage type of the prior resistance.
+>> - Passive Ability: You gain resistance to fire equal to your level when you invest the item.
+>> - 1 Action (concentrate) Once per an hour: Choose acid, cold, electricity, fire, mental, poison, or sonic. 
+>> - You can't choose the damage type for which The Brass Dwarf currently gives you resistance.
+>> - You gain resistance to the damage you chose equal to your level, 
+>> - and you lose the prior resistance that The Brass Dwarf gave you. 
+>> - For 1 minute, you gain weakness equal to half your level to the damage type of the prior resistance.
 
 > #2: Ownership: The Empty/Broken Throne.
 >> - Great loss and wisdom from those who are now gone. Lawful good.
 >> - Passive ability: Grants you a +2 item bonus to Society and Lore checks made to Recall Knowledge regarding individuals who are no longer alive (such as checks to learn about Taldor's historical founder, but not to learn about its current empress). This increases to a +3 item bonus if you are at least 17th level.
->> - 1 Action (Concentrate) Once per Day : You overwhelm a target you can see within 60 feet with feelings of helplessness and loss. The creature must attempt a Will save with a DC equal to your class DC or spell DC. 
+>> - 1 Action (Concentrate) Once per Day: You overwhelm a target you can see within 60 feet with feelings of helplessness and loss. The creature must attempt a Will save with a DC equal to your class DC or spell DC. 
 >>   - Critical Success: The target is unaffected. 
->>   - Success: The target can't benefit from circumstance or status bonuses for 1 round. 
->>   - Failure: The target can't benefit from circumstance or status bonuses for 1 day, and the target's allies are unable to benefit from circumstance or status bonuses while within 15 feet of the target. 
->>   - Critical Failure : As failure, except the duration is 1 week.
+>>   - Success: The target cannot benefit from circumstance or status bonuses for 1 round. 
+>>   - Failure: The target cannot benefit from circumstance or status bonuses for 1 day, and the target's allies are unable to benefit from circumstance or status bonuses while within 15 feet of the target. 
+>>   - Critical Failure: As failure, except the duration is 1 week.
 
 > #3: Ownership: Paladin.
->> - Righteousness and resolute defense. Lawful good.
+>> - Righteousness and resolute defence. Lawful good.
 >> - Passive ability: As long as you have The Paladin invested, you gain the Shield Block general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block
 >> - Reaction (Concentrate): If you fail or critically fail a saving throw 
 >>   - Adjust the result of your saving throw up by one degree of success.

@@ -33,7 +33,7 @@ Uncommon, rare or unique:
 3. Archetypes.
 4. Equipment.
 
-ALL of the above (if they can't be taken at character creation) are 100% obtainable in-game.
+ALL of the above (if they cannot be taken at character creation) are 100% obtainable in-game.
 
 ## Archetypes = Common.
 
@@ -76,6 +76,20 @@ This list is incomplete.
 - Hellknight Armiger
 - Hellknight Signifer
 - Jalmeri Heavenseeker
+
+## Equipment.
+
+> Boomerang.
+>> - Unlocked via the planar rifts to dying digital rift worlds.
+
+> Charlatan's Cape.
+>> - Unlocked.
+>> - Unlocked by Selenor by acquiring the Red Raven's cape.
+>> - The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide.
+
+> Retrieval Belt
+>> - Unlocked.
+>> - This is the modern version of the handy haversack.
 
 ## Spells.
 

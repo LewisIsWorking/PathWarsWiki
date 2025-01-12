@@ -1,4 +1,4 @@
-# Discord-Doomsday-Funtime
+# DF-Discord-Ad
 
 - Title: Doomsday Funtime.
 - There is a lot of information here, but you do not need to read all or any of it, DM me, and I will walk you through everything.

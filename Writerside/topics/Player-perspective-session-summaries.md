@@ -1,4 +1,4 @@
-# Player-perspective-session-summaries
+# DF-Player-perspective-session-summaries
 
 Start typing here...
 
@@ -37,8 +37,8 @@ Feathered Turban.
 We are searching for the Scarab jewels? Each is priceless and a powerful magical artifact with the ability to unlock the ancient knowledge and magic of Ancient Osiria. Amemphious believes that the lack of these jewels him impotent. The diamond sage has these jewels? In the something desert. The diamond sage is necessary to conduct the Ritual of the Jewels. Amephious has other leads. This city is strange, and has magical protections that will raise alarms should we teleport into this city. Ancient stone walls surround Etho, they are magically warded, hundreds of metres tall and are impossible to climb. Go into the city, meet with the information broker. Find the Diamond Sage. House of the White Urius. Not near the slums. Rich part of the city.
 
 Carnon gets the contact information of a City Guide. 
-There is pregnant griffin around? 
-Mahoo the Gate Keeper Customs Agent is a challenging boss,
+There is a pregnant griffin around? 
+"Mahoo" is the gatekeeper Customs Agent is a challenging boss,
 but through MANY meandering checks we eventually ended up crafting a fake geode, and gave it to them to hold it.
 
 Etho Bazaar is where merchants would not try to scam non-locals.
@@ -47,10 +47,10 @@ Selenor is undead and necromancer scum, but necromancer scum is allowed!
 The ultimate authority on Pharasma is in the capital city of Osiria.
 Inebni Andabar.
 
-Nercomancer scum might be interested in The Grand Library ran by Khamos Al-Awlaq.
+Necromancer scum might be interested in The Grand Library ran by Khamos Al-Awlaq.
 
 The most powerful follower of Lemashtu lives in the hills. 
-8th rank spell caster.
+8th rank spell-caster.
 
 MAHOO TAKES CARNONS HERBS AND SPICES.
 Mahoo gives the party a Merchants Docket.
@@ -60,7 +60,7 @@ We do not get XP for defeating this boss.
 
 House of the White Cobra.
 Viole harasses a pompous local who is able to point us in the right direction.
-Carnon is sent to the Osirian Blacksite, because they would not remove their skin.
+Carnon is sent to the Osirian Black site because they would not remove their skin.
 Liar joins them.
 The main group is given alcohol,
 Selenor gives Cardigan alcohol then remembers
@@ -73,13 +73,16 @@ Torch of the Shadow Government gives us tasks. When completed, we will learn abo
 - Madam Zelekhati. Seduce her secrets out of her?
 - Secret from the hundred-finger Gang. Viole has passcode/passphrase?
 
-Viole murders a man, just for fun?? They can resurrect him to find the criminal. 
-We go investigate the wall that The Shadow Governlent told us about. Find a bunch of wells. 
-There are snakes in the well. Main big well has black rancid water.
+Viole just murdered a man, just for fun?? 
+They can resurrect him to find the criminal. 
+We go investigate the wall that The Shadow government told us about. 
+Find a bunch of wells. 
+There are snakes in the well. 
+Main big well has black rancid water.
  Water reacts strange to Allisee, clumps up? heats up and evaporates when Lire and Viole touches it. Divine magic, as old as lissala. 
 Allisee descends into the water, very slowly swimming down until she reaches a room.
  There is a diamond shaped hot tub. Some checks reveal a lever, and a man who is definitely not Nethys. 
-Allisee gets into combat with two massive snakes. After 1 minutes, Viole jumps in after Allisee, quite heroically. Carnon follows, and falls on a snake killing it. 
+Allisee gets into combat with two massive snakes. After 1 minute, Viole jumps in after Allisee, quite heroically. Carnon follows, and falls on a snake killing it. 
 
 Vision with Sarenrae? 
 Snakes are eating Sarenrae. 
@@ -87,8 +90,9 @@ Snake vision eating Viole, crushing their bones in a temple in a
 jungle. 
 Bird person invokes great magical powers, eye of Abaddon in the background. 
 Selenor might have woken up some old gods along with the horsemen. 
-Burial mask carved from Lapis Lazuli. Treasure worth 500g. 
-3 clay tablets describing funeral practises.
+Burial mask carved from Lapis Lazuli.
+Treasure worth 500 GP. 
+3 clay tablets describing funeral practices.
 Rod carved of old dried wood, shaped like a viper. 
 Scroll of false life
 gentle Repose.
@@ -104,8 +108,9 @@ Time: 2024 December 29th IRL / 4710 AR, 28th Arodus (Golarion date).
 Context: Second part of the Osiria Ritual arc.
 Key Locations and Events:
 City on the Beetle's Shell:
-The city of Etho is built around the shell of a colossal spawn of Rovagug, slain by ancient mages.
-The city is heavily warded with magical protections, preventing unauthorized teleportation. Its walls are hundreds of meters tall and warded against climbing.
+The city of Etho is built around the shell of one of the colossal spawns of Rovagug, slain by ancient mages.
+The city is heavily warded with magical protections, preventing unauthorised teleportation. 
+Its walls are hundreds of meters tall and warded against climbing.
 Objective: The Scarab Jewels:
 Priceless, powerful magical artifacts tied to ancient Osirian knowledge.
 Needed for the Ritual of the Jewels. The Diamond Sage in the desert is integral to this ritual.
@@ -113,19 +118,19 @@ Amephious believes his lack of power is linked to the missing jewels.
 Entry to Etho:
 Mahoo, the customs agent, serves as a difficult “boss” character.
 The party crafts a replica Osirion Communication Geode (1400 GP value) to appease Mahoo and secure entry into the city.
-Mahoo confiscates Carnon’s herbs and spices, giving a Merchant's Docket in return.
+Mahoo confiscates Carnon's herbs and spices, giving a Merchant's Docket in return.
 The Etho Bazaar:
 Described as a safe trading zone where merchants are less likely to scam outsiders.
 Selenor faces hostility due to being identified as undead and a necromancer, but the city allows such individuals under specific regulations.
 The House of the White Uraeus:
 Located in the wealthier part of Etho.
-Contains the party’s contact for information on the Diamond Sage.
+Contains the party's contact for information on the Diamond Sage.
 Secondary Quest Objectives:
 Given by Grand Master Torch, involving tasks to uncover secrets and gain information:
-Plant a book in Professor Lozar's belongings at the School of Sciences.
-Retrieve and deliver artifacts hidden within Etho’s ancient walls.
+Plant a book in Professor Loza''s belongings at the School of Sciences.
+Retrieve and deliver artifacts hidden within Etho's ancient walls.
 Seduce or uncover information from Madam Zelekhati, a key elven figure.
-Investigate the Hundred-Finger Gang using Viole’s connections.
+Investigate the Hundred-Finger Gang using Viole's connections.
 Significant Encounters:
 Serpent Well Exploration:
 Viole and Allisee discover magical water reacting uniquely to divine magic.
@@ -137,8 +142,9 @@ Vivid imagery of a jungle temple, a bird person invoking great power, and the om
 Loot Acquired:
 Lapis Lazuli Burial Mask (worth 500 GP).
 Three Clay Tablets describing ancient funeral rites.
-Rod of the Viper: An artifact of unknown significance.
-Scrolls of advanced necromantic spells: False Life, Gentle Repose, and Speak with Dead.
+Rod of the Viper: 
+An artefact of unknown significance.
+Scrolls of advanced necromantic spells: False Life, Gentle Repose, and Speak with the Dead.
 
 
 ## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Osiria ritual part 3.

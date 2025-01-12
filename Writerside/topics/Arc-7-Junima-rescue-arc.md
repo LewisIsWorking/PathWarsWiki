@@ -1,4 +1,7 @@
-# Arc-7-Junima-rescue
+# DF-Arc-7-Junima-rescue
+
+> Arc 7 is the Junima rescue arc.
+>> - 213 -> 224: Junima rescue.
 
 ## Session 213. 2024 May 27th Monday + 4710 AR Erastus 29th + Junima rescue part 1.
 

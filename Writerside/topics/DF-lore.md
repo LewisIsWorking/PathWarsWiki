@@ -1,3 +1,3 @@
-# DF-Characters-side
+# DF-Lore
 
 Start typing here...

@@ -29,7 +29,7 @@ Selenor also gained the Chronicler lore abilities.
 > Chronicle Lore. 
 >> - Atlas. Navigation in familiar places: Failure -> Success.
 >> - Interview notes. 
->> - Medical log. 
+>> - A medical log. 
 >> - Spell recollection. 
 >> - Tactical memory. Success. 
 >> - Tactical memory. Failure. 

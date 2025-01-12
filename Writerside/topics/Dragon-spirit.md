@@ -1,8 +1,8 @@
-# Dragon-spirit-overview
+# DF-Dragon-spirit-overview
 
 Start typing here...
 
-## Level 1. Invoke dragon spirit.
+## Level 1. Invoke a dragon spirit.
 
 - Alternative rage.
 - 6 Damage.

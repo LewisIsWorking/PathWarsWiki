@@ -1,6 +1,13 @@
-# Arc-8-Untangle-the-past
+# DF-Arc-8-Untangle-the-past
 
 Start typing here...
+
+> Arc 8.
+>> - 225: Introduction to the arc.
+>> - 226 -> 227: Seagull island.
+>> - 228: Selenor's 100th-session.
+>> - 229: Role play + Lire joined the party.
+>> - 230 -> 232: Eto.
 
 ## Session 225. 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Untangle the past arc introduction.
 
@@ -72,7 +79,7 @@ In play by post, the party talks to the wizard Zarzan Quilit.
 
 - Events of [DF-100-sessions-of-Selenor.md](DF-100-sessions-of-Selenor.md) happen.
 
-## Session 229. 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Osiria ritual part 1.
+## Session 229. 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
 
 00:00.
 Sandpoint home-base.
@@ -100,7 +107,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 12:30. Keleri agrees to deliver Lire's ring to Annmarie.
 
-## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Osiria ritual part 2.
+## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Eto part 1.
 
 > 13:00.
 >> - Faction meetings for Carnon, Viole and Lire.
@@ -141,7 +148,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 10:00. 8 hours of rest + daily preparation.
 - 10:30. Breakfast.
 
-## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Osiria ritual part 3.
+## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Eto part 2 + shopping.
 
 - 11:00. The Eto Bazaar.
 - Selenor recalls that D'Bear likes scented candles for when she prays.
@@ -163,3 +170,35 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - The Lost This is the chaotic evil card of wisdom.
 - The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums.
 - The lost is a card of emptiness.
+
+## Session 232. 2025 January 11th Saturday + 4710 AR, 29th Arodus. + Eto part 3 + shopping.
+
+> 12:00.
+>> - Eto Bazaar.
+>> - Selenor buys an Exquisite Surprise Gryphon Doll for Cressida Croft, the Queen of Korvosa. 
+>> - Shop called "Spear Count". Sefarina, The Sphinx Spear Merchant.
+>> - Sefarina wants Viole to find the ULTIMATE SPEAR.
+>> - Viole gets vision of the sin lords holding spears on a mountain.
+
+> 12:30.
+>> - Beggar's Alley. 
+>> - Back and forth to Beggar's alley.
+
+> 13:30.
+>> - Selenor gets 48 gathering information.
+>> - Selenor finds out that the assassin is looking for the leader of the red mantis.
+>> - 4 hours to spread the lie that: the 100-finger gang's leader is leaving Eto tonight.
+>> - Kura the herbalist.
+
+> 14:00.
+>> - Viole tracks the herbalist woman.
+>> - A red mantis & 2 x Rope golem combat.
+>> - Viole uses dimensional assault & thunder boots and escapes.
+
+> 14:30. 
+>> - Viole is back to Beggar's alley.
+>> - Healing + 30 minutes = 15:00.
+
+> 15:00.
+>> - Viole talks to a Risen guard, Selenor negotiates with the guard and gets the fine down to 10 GP.
+>> - The Risen guards will search for the Red Mantis assassins.

@@ -1,4 +1,4 @@
-# Selenors-visions
+# DF-Selenors-visions
 
 Pity the covetous, for their wealth will turn to dust;
 
@@ -8,7 +8,7 @@ Pity the wicked, for their deeds will turn into daggers and plunge into their ow
 
 They shall be bound with fetters and crushed under the great stones of their own evil.
 
-Fear the heart which is covered by nothingness.
+Fear the heart, which is covered by nothingness.
 
 Beware thou mortal things! 
 When the gods clash, the sky is red with their lightnings. The hosts of the Devourer and the Black Dominion come forth to do battle, and they smite each other with stars. Turn thou thy face backwards against their gray flame, or thou wilt taste death!
