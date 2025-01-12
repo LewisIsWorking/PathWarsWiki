@@ -21,9 +21,10 @@ Start typing here...
 
 ## Introduction Note.
 
-The following text can be found on a piece of paper that seems to have been slipped into your copy of the “Principia Arcana” when you picked up your replicas of the books.
+The following text can be found on a piece of paper, 
+which seems to have been slipped into your copy of the "Principia Arcana" when you picked up your replicas of the books.
 
-"The following books are copies made by I, Bormgastor the draconic-wizard, defendor of the White Tower.
+"The following books are copies made by I, Bormgastor the draconic-wizard, defender of the White Tower.
 Each of these copies have been recreated down to the slightest of details.
 I, Bormgastor, have also taken a frightfully long time to painstakingly experiment with each of the original copies to find all of their secret arcane notions then created copies of the notion that I deconstructed in base components before recreating in the copies of the books.
 I have done this so that my copies will emulate the enchantments placed upon the originals by casters of far greater strength, resources, knowledge and skill than I.
