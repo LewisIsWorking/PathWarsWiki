@@ -8,12 +8,10 @@
 
     <toc-element topic="TOC~All-topics.md">
         <toc-element topic="TOC~3rdPartyOptions.md">
-            <toc-element topic="PW~Homebrew-rules.md"/>
             <toc-element topic="PW~3rd-party-content-and-options.md"/>
             <toc-element topic="PW~Heroic-Crafting.md"/>
             <toc-element topic="PW~Spell-casting-changes.md"/>
             <toc-element topic="PW~The-Monster-Parts-System.md"/>
-            <toc-element topic="PW~The-colours-of-magic.md"/>
         </toc-element>
         <toc-element topic="TOC~C1~lore.md">
             <toc-element topic="C1~100-sessions-of-Selenor.md"/>
@@ -56,12 +54,15 @@
         <toc-element topic="TOC~PathWars.md">
             <toc-element topic="PW~Available-classes.md"/>
             <toc-element topic="PW~Character-Lore-Builder.md"/>
+            <toc-element topic="PW~Homebrew-rules.md"/>
             <toc-element topic="PW~Feedback-from-Ross-on-getting-started-guide.md"/>
             <toc-element topic="PW~Getting-started-guide.md"/>
             <toc-element topic="PW~Golarion-Lore-The-Spoiler-Free-Version.md"/>
             <toc-element topic="PW~Official-paizo-variant-rules.md"/>
             <toc-element topic="PW~PF2e-Basic-Actions.md"/>
             <toc-element topic="PW~Pathbuilder-setup.md"/>
+            <toc-element topic="PW~Spoiler-avoidance-guide.md"/>
+            <toc-element topic="PW~The-colours-of-magic.md"/>
             <toc-element topic="PW~To-do-list.md"/>
             <toc-element topic="PW~Writerside-setup.md"/>
         </toc-element>
@@ -77,7 +78,6 @@
             <toc-element topic="Campaign~Path-wars-timeline.md"/>
             <toc-element topic="Campaign~Player-rosters.md"/>
             <toc-element topic="PW~Rarity-lock-status-tracker.md"/>
-            <toc-element topic="PW~Spoiler-avoidance-guide.md"/>
         </toc-element>
         <toc-element topic="TOC~Random.md">
             <toc-element topic="Random~Barcelona-trip.md"/>

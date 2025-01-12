@@ -1,4 +1,4 @@
-# Campaign-7-Starfinder-2e
+# Campaign~7-Starfinder-2e
 
 Start typing here...
 

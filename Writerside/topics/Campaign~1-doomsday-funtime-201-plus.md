@@ -1,4 +1,4 @@
-# Campaign-1-Doomsday-funtime-201-plus
+# Campaign~1-Doomsday-funtime-201-plus
 
 ## Session 201 = 2023 December 30th Saturday + 4710 AR Erastus 27th + Bounty.
 

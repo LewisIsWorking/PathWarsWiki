@@ -1,4 +1,4 @@
-# 3rdPartyOptions~The-colours-of-magic
+# PW~The-colours-of-magic
 
 Magic can gain a colour based on several reasons.
 

@@ -1,7 +1,7 @@
-# Spoiler-avoidance-guide
+# PW~Spoiler-avoidance-guide.md.
 
 - I may be insane.
-- This is just my personal thoughts.
+- These are all just my personal thoughts.
 
 Actions prone to running into spoilers:
 
