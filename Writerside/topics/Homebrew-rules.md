@@ -16,12 +16,10 @@ Champions get both, so they have more fun options in combat!
 
 Combat starts.
 
-If the party is fighting a boss enemy, then the enemy round is first.
-
-Otherwise, the party round is first.
+All characters involved in combat roll initiative. The side with the highest initiative has all it's members go first.
 
 The party round starts with either the main character that makes the most sense / most cinematic to go first.
-Alternatively, the party can strategise who should go first and decide amongst themselves.
+Alternatively, the party can strategize who should go first and decide amongst themselves.
 
 When a main character has finished its turn, the player of that character then picks which main character goes next.
 This can be accompanied by an in-character request for help, or a prompt to ask:
@@ -44,8 +42,8 @@ Rogues get a lore increase every time they get a skill increase.
 - 9: Master.
 - 11: Master.
 
+
 ## Main and side characters.
 
 If the character is controlled by a player, it is a "main character."
 If the character is controlled by the game master, it is a "side character."
-
