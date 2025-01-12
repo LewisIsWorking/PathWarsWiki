@@ -1,4 +1,4 @@
-# 3rdPartyOptions: Homebrew-rules
+# 3rdPartyOptions: PW-custom-rules
 
 For the official Paizo homebrew rules we use: [Official-paizo-variant-rules.md](PW~Official-paizo-variant-rules.md)
 
