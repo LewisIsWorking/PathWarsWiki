@@ -1,4 +1,4 @@
-# C1_100-sessions-of-Selenor.md
+# C1~100-sessions-of-Selenor.md
 
 Start typing here...
 

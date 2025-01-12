@@ -1,4 +1,4 @@
-# C1_Achievements
+# C1~Achievements
 
 ## Achievement rules.
 

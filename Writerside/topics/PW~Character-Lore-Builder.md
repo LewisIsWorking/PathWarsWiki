@@ -1,7 +1,7 @@
-# General: Character-Lore-Builder
+# PW~Character-Lore-Builder
 
 Starting Guide Link.
-- [Getting-started.md](Table-of-contents~Getting-started.md)
+- [Getting-started.md](TOC~PathWars.md)
 - [Getting-started-guide.md](PW~Getting-started-guide.md)
 
 ## Build YOUR Character’s Life HERE!

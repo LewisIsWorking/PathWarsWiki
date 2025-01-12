@@ -1,4 +1,4 @@
-# C1: Faction-signup-rewards
+# C1~Faction-signup-rewards
 
 Based on the pathfinder provision rules from PF society,
 when a player joins a faction, 

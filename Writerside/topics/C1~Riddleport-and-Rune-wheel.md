@@ -1,4 +1,4 @@
-# C1: Riddleport-and-Rune-wheel
+# C1~Riddleport-and-Rune-wheel
 
 Start typing here...
 

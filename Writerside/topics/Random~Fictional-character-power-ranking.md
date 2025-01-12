@@ -1,4 +1,4 @@
-# Fictional-character-power-ranking
+# Random~Fictional-character-power-ranking
 
 Start typing here...
 

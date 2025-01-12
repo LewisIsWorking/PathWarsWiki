@@ -1,4 +1,4 @@
-# General: Pathbuilder-setup
+# PW~Pathbuilder-setup
 
 - https://pathbuilder2e.com/app.html
 

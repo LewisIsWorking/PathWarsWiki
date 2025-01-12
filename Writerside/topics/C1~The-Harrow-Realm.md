@@ -1,4 +1,4 @@
-# C1: The-Harrow-Realm
+# C1~The-Harrow-Realm
 
 - Amar has used the upgrade: The Mountain Man.
 - Session 205. Allisee gets 2 items for the Zubiri.

@@ -1,4 +1,4 @@
-# C1: Fame-tracker
+# C1~Fame-tracker
 
 ## Factions.
 

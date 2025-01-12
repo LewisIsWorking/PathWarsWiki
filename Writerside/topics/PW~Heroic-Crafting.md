@@ -1,4 +1,4 @@
-# 3rdPartyOptions: Heroic Crafting
+# 3rdPartyOptions~Heroic Crafting
 
 Heroic Crafting is a variant rule designed to replace the
 default crafting rules: where all items can be crafted in four

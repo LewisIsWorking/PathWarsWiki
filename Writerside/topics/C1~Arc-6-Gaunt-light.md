@@ -1,4 +1,4 @@
-# C1_Arc-6-Gaunt-light.md
+# C1~Arc-6-Gaunt-light.md
 
 Start typing here...
 

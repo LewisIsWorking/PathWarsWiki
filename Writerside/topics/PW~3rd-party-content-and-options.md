@@ -1,4 +1,4 @@
-# 3rdPartyOptions: All 3rd party content & other player options
+# 3rdPartyOptions~All 3rd party content & other player options
 
 Start typing here...
 

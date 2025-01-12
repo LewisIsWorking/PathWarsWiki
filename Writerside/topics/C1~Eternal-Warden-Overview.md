@@ -1,10 +1,10 @@
-# C1: Eternal warden overview
+# C1~Eternal-warden-overview
 
 ## Harm charges
 The eternal warden receives charges of harm similarly to a cleric's divine font.
 The charges are equal to the warden's highest rank of spell slot (similarly to a staff?).
 
-## Aerial from(Scavenger bird)
+## Aerial form (Scavenger bird).
 Focus spell
 
 The spell has the effect of an Aerial Form of the same level except the appearance of the bird is that of a scavenger bird.

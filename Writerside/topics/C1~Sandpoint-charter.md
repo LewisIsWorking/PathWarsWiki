@@ -1,4 +1,4 @@
-# C1: Sandpoint-charter
+# C1~Sandpoint-charter
 
 Start typing here...
 

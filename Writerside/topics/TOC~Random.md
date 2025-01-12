@@ -1,4 +1,4 @@
-# Table contents: Random
+# TOC~Random
 
 Start typing here...
 

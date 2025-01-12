@@ -1,4 +1,4 @@
-# Guild-wars-2
+# Random~Guild-wars-2-notes.md
 
 Start typing here...
 

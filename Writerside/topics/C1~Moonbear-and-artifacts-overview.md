@@ -1,4 +1,4 @@
-# C1: Moon-bear and other moon relics overview
+# C1~Moon-bear and other moon relics overview
 
 ## Moon-bear
 

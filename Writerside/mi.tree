@@ -4,47 +4,56 @@
 
 <instance-profile id="mi"
                  name="Main Instance"
-                 start-page="Table-of-contents~PathWars-campaigns.md">
+                 start-page="TOC~PathWars-campaigns.md">
 
-    <toc-element topic="Table-of-contents~All-topics.md">
-        <toc-element topic="Table-of-contents~C1~lore.md">
+    <toc-element topic="TOC~All-topics.md">
+        <toc-element topic="TOC~3rdPartyOptions.md">
+            <toc-element topic="PW~3rd-party-content-and-options.md"/>
+            <toc-element topic="PW~Heroic-Crafting.md"/>
+            <toc-element topic="PW~Homebrew-rules.md"/>
+            <toc-element topic="PW~Spell-casting-changes.md"/>
+            <toc-element topic="PW~The-Monster-Parts-System.md"/>
+            <toc-element topic="PW~The-colours-of-magic.md"/>
+        </toc-element>
+        <toc-element topic="TOC~C1~lore.md">
+            <toc-element topic="C1~Books-of-the-White-tower.md"/>
+            <toc-element topic="C1~The-story-so-far.md"/>
             <toc-element topic="C1~100-sessions-of-Selenor.md"/>
-            <toc-element topic="C1~Allisee.md"/>
             <toc-element topic="C1~Arc-6-Gaunt-light.md"/>
             <toc-element topic="C1~Arc-7-Junima-rescue-arc.md"/>
             <toc-element topic="C1~Arc-8-Untangle-the-past.md"/>
             <toc-element topic="C1~Book-of-the-Black-hole.md"/>
             <toc-element topic="C1~Books-of-the-Sunken-tower-library.md"/>
-            <toc-element topic="C1~Books-of-the-White-tower.md"/>
             <toc-element topic="C1~Cardigans-Dream.md"/>
+            <toc-element topic="C1~Characters-Allisee.md"/>
+            <toc-element topic="C1-Characters-Selenor-md.md"/>
             <toc-element topic="C1~Characters-all.md">
             </toc-element>
             <toc-element topic="C1~Characters-main.md"/>
             <toc-element topic="C1~Characters-side.md"/>
+            <toc-element topic="C1~Player-perspective-session-summaries.md"/>
             <toc-element topic="C1~Riddleport-and-Rune-wheel.md"/>
             <toc-element topic="C1~Selenors-Visions.md"/>
-            <toc-element topic="C1~The-secrets-of-magic.md"/>
             <toc-element topic="C1~The-Harrow-Realm.md"/>
-            <toc-element topic="C1~The-story-so-far.md"/>
+            <toc-element topic="C1~The-secrets-of-magic.md"/>
         </toc-element>
         <toc-element topic="C1~Other.md">
             <toc-element topic="C1~Achievements.md"/>
             <toc-element topic="C1~Chronicler-overview.md"/>
             <toc-element topic="C1~Discord-advertisement.md"/>
             <toc-element topic="C1~Dragon-spirit.md"/>
-            <toc-element topic="C1~Eldamon.md"/>
+            <toc-element topic="C1~Eldamon-tracker.md"/>
             <toc-element topic="C1~Eternal-Warden-Overview.md"/>
             <toc-element topic="C1~Experience-totals.md"/>
             <toc-element topic="C1~Experience-tracker.md"/>
             <toc-element topic="C1~Faction-signup-rewards.md"/>
             <toc-element topic="C1~Fame-tracker.md"/>
             <toc-element topic="C1~Moonbear-and-artifacts-overview.md"/>
-            <toc-element topic="C1~Player-perspective-session-summaries.md"/>
             <toc-element topic="C1~Proto-sin-blades.md"/>
             <toc-element topic="C1~Sandpoint-charter.md"/>
             <toc-element topic="C1~The-Doomsday-Dominion.md"/>
         </toc-element>
-        <toc-element topic="Table-of-contents~Getting-started.md">
+        <toc-element topic="TOC~PathWars.md">
             <toc-element topic="PW~Available-classes.md"/>
             <toc-element topic="PW~Character-Lore-Builder.md"/>
             <toc-element topic="PW~Feedback-from-Ross-on-getting-started-guide.md"/>
@@ -53,27 +62,10 @@
             <toc-element topic="PW~Official-paizo-variant-rules.md"/>
             <toc-element topic="PW~PF2e-Basic-Actions.md"/>
             <toc-element topic="PW~Pathbuilder-setup.md"/>
+            <toc-element topic="PW~To-do-list.md"/>
             <toc-element topic="PW~Writerside-setup.md"/>
         </toc-element>
-        <toc-element topic="Table-of-contents~3rdPartyOptions.md">
-            <toc-element topic="PW~3rd-party-content-and-options.md"/>
-            <toc-element topic="PW~Heroic-Crafting.md"/>
-            <toc-element topic="PW~Homebrew-rules.md"/>
-            <toc-element topic="PW~Spell-casting-changes.md"/>
-            <toc-element topic="PW~The-Monster-Parts-System.md"/>
-            <toc-element topic="PW~The-colours-of-magic.md"/>
-        </toc-element>
-        <toc-element topic="Table_of_contents~Random.md">
-            <toc-element topic="Random~Guild-wars-2-in-Pathfinder-2e.md"/>
-            <toc-element topic="Random~Barcelona-trip.md"/>
-            <toc-element topic="Random~Birthday-trip-2024.md"/>
-            <toc-element topic="Random~Fictional-character-power-ranking.md"/>
-            <toc-element topic="PW~Foundry-modules.md"/>
-            <toc-element topic="Random~Guild-wars-2-notes.md"/>
-            <toc-element topic="Random~Master-duel.md"/>
-            <toc-element topic="PW~To-do-list.md"/>
-        </toc-element>
-        <toc-element topic="Table-of-contents~PathWars-campaigns.md">
+        <toc-element topic="TOC~PathWars-campaigns.md">
             <toc-element topic="C1~Doomsday-funtime-128-to-200.md"/>
             <toc-element topic="Campaign~1-doomsday-funtime-201-plus.md"/>
             <toc-element topic="Campaign~2-The-Crimson-Throne.md"/>
@@ -86,6 +78,15 @@
             <toc-element topic="Campaign~Path-wars-timeline.md"/>
             <toc-element topic="PW~Rarity-lock-status-tracker.md"/>
             <toc-element topic="PW~Spoiler-avoidance-guide.md"/>
+        </toc-element>
+        <toc-element topic="TOC~Random.md">
+            <toc-element topic="Random~Guild-wars-2-in-Pathfinder-2e.md"/>
+            <toc-element topic="Random~Barcelona-trip.md"/>
+            <toc-element topic="Random~Birthday-trip-2024.md"/>
+            <toc-element topic="Random~Fictional-character-power-ranking.md"/>
+            <toc-element topic="PW~Foundry-modules.md"/>
+            <toc-element topic="Random~Guild-wars-2-notes.md"/>
+            <toc-element topic="Random~Master-duel.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>

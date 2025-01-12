@@ -1,4 +1,4 @@
-# C1: Experience-tracker
+# C1~Experience-tracker
 
 ## Characters that have left the campaign.
 

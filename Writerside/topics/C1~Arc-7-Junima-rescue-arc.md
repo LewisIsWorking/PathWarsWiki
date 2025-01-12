@@ -1,4 +1,4 @@
-# C1_Arc-7-Junima-rescue-arc.md
+# C1~Arc-7-Junima-rescue-arc.md
 
 > Arc 7 is the Junima rescue arc.
 >> - 213 -> 224: Junima rescue.

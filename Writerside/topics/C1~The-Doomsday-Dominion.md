@@ -1,4 +1,4 @@
-# C1: The-Doomsday-Dominion (player list)
+# C1~The-Doomsday-Dominion (player list)
 
 Start typing here...
 

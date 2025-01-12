@@ -1,3 +1,3 @@
-# C1: The secrets of magic
+# C1~The-secrets-of-magic
 
 Only Amar knows...

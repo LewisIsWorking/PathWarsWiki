@@ -1,4 +1,4 @@
-# Master-duel
+# Random~Master-duel
 
 Start typing here...
 

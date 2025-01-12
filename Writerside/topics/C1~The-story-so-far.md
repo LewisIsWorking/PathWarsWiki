@@ -1,4 +1,4 @@
-# C1: The-story-so-far
+# C1~The-story-so-far
 
 Start typing here...
 

@@ -1,4 +1,4 @@
-# Table of contents: PathWar campaigns
+# TOC~PathWar-campaigns
 
 Layout.
 - Session count: X.

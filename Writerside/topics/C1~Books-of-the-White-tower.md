@@ -1,8 +1,8 @@
-# C1: Book of the white tower
+# C1~Books-of-the-White-tower.md
 
 Start typing here...
 
-## Table of Contents (Top of Page).
+## Table of Contents (Top of the Page).
 
 ### Tome List.
 
@@ -593,7 +593,7 @@ The model fortress is made up of carvings of wicked looking spires and crenellat
 
 Then below the base of the fortress is the eight jet-black crystals and the bright-red crystal.
 
-# 8. “The Start of Sin: A Thassilonian Spellbook For Beginner Spellcasters".
+## 8. “The Start of Sin: A Thassilonian Spellbook For Beginner Spellcasters".
 
 This book seems to be an enhanced version of an “Enchiridion of the Journey-mage”.
 

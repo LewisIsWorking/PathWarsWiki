@@ -1,4 +1,4 @@
-# C1: Selenors-visions
+# C1~Selenors-visions
 
 Pity the covetous, for their wealth will turn to dust;
 

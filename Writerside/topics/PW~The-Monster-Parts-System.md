@@ -1,4 +1,4 @@
-# 3rdPartyOptions: The Monster Parts System
+# 3rdPartyOptions~The Monster Parts System
 
 **The monster parts system is based on the system from the battle zoo bestiary**
 
