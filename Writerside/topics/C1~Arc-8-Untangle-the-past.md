@@ -176,7 +176,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 12:00.
 >> - Eto Bazaar.
 >> - Selenor buys an Exquisite Surprise Gryphon Doll for Cressida Croft, the Queen of Korvosa. 
->> - Shop called "Spear Count". Sefarina, The Sphinx Spear Merchant.
+>> - The shop is called "Spear Count". Sefarina, The Sphinx Spear Merchant.
 >> - Sefarina wants Viole to find the ULTIMATE SPEAR.
 >> - Viole gets vision of the sin lords holding spears on a mountain.
 
