@@ -61,12 +61,36 @@ Uncommon, rare or unique:
 
 ALL of the above (if they cannot be taken at character creation) are 100% obtainable in-game.
 
+## Unlocked.
+
+- All of the following are fully unlocked and allowed for use in any campaign.
+- All the following are unlocked.
+- This list is incomplete.
+
+> Animal companions.
+>> - Fiery Leopard. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+
+> Equipment.
+>> - Bort's Blessing. 
+>> - Energy Mutagen.
+>> - Energy Mutagen (Greater, Moderate, Lesser, Major).
+>> - Merchant's Guile.
+>> - Ring of Minor Arcana.
+>> - Ring of the Weary Traveller. 
+>> - Stalwart's Ring.
+>> - Stone Body Mutagen (Greater, Lesser, Moderate).
+>> - Warrior's Training Ring.
+
+> Feats.
+>> - Relentless Stalker.
+>> - Wilderness Spotter.
+
+> Weapons.
+>> - Alchemical Crossbow.
+
 ## Archetypes = Common.
 
-All common archetypes are fully unlocked and allowed for use in any campaign.
 
-All the following archetypes are unlocked.
-This list is incomplete.
 
 - Acrobat
 - Aldori Duelist
