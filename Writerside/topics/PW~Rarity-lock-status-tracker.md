@@ -67,6 +67,25 @@ ALL of the above (if they cannot be taken at character creation) are 100% obtain
 - All the following are unlocked.
 - This list is incomplete.
 
+> Archetype Dedications.
+>> - Ghost Hunter Dedication
+>> - Harrower Dedication.
+
+> Archetype Feats.
+>> - Ghost Hunter: Ghost Strike. 
+>> - Ghost Hunter: Grave's Voice.
+>> - Ghost Hunter: Investigate Haunting.
+>> - Ghost Hunter: Peer Beyond. 
+>> - Ghost Hunter: Spirit Spells.
+>> - Harrower: Benevolent Spirit Deck. 
+>> - Harrower: Experienced Harrower.
+>> - Harrower: Harrow Casting.
+>> - Harrower: Harrow Ritualist.
+>> - Harrower: Reading the Signs.
+>> - Harrower: Restore Omen.
+>> - Harrower: Vengeful Spirit Deck.
+
+
 > Animal companions.
 >> - Fiery Leopard. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 
@@ -82,6 +101,7 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
 >> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Sceptic's Elixir. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 >> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Warrior's Training Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
@@ -89,6 +109,11 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 > Feats.
 >> - Relentless Stalker.
 >> - Wilderness Spotter.
+
+> Rituals. Uncommon.
+
+> Rituals. Rare.
+>> - Awaken Portal. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 
 > Spells.
 >> - Detect Scrying.
@@ -98,6 +123,9 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Locate. Session 220.
 >> - Teleport: Unlocked. 
 >> - Umbral Journey: Unlocked.
+>> - Worm's Repast.
+Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). 
+Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 
 > Weapons.
 >> - Alchemical Crossbow. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
