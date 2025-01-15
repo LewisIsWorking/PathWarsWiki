@@ -85,7 +85,6 @@ ALL of the above (if they cannot be taken at character creation) are 100% obtain
 >> - Harrower: Restore Omen.
 >> - Harrower: Vengeful Spirit Deck.
 
-
 > Animal companions.
 >> - Fiery Leopard. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 
