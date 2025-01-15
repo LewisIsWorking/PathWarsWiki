@@ -1,4 +1,4 @@
-# Campaign~Rarity-lock-status-tracker.
+# PW~Rarity-lock-status-tracker.
 
 ## Current Tracker Hyperlink.
 
