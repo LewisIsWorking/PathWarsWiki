@@ -36,31 +36,6 @@ If you have a question, just ask on the telegram group! :)
 > Rare.
 >> - Equipment, feat or spell: If the source is from an adventure path, module, etc.
 
-## ALL ALLOWED.
-
-All of the following are allowed to be used regardless of their rarity:
-1. Backgrounds.
-2. Classes.
-3. Races.
-
-Common:
-- Spells.
-- Feats.
-- Archetypes.
-- Equipment.
-
-## Might be allowed.
-
-Some of the following may be allowed, just ask! :)
-
-Uncommon, rare or unique:
-1. Spells.
-2. Feats.
-3. Archetypes.
-4. Equipment.
-
-ALL of the above (if they cannot be taken at character creation) are 100% obtainable in-game.
-
 ## Unlocked.
 
 - All of the following are fully unlocked and allowed for use in any campaign.
@@ -174,6 +149,32 @@ Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 - Hellknight Armiger
 - Hellknight Signifer
 - Jalmeri Heavenseeker
+
+## ALL ALLOWED.
+
+All of the following are allowed to be used regardless of their rarity:
+1. Backgrounds.
+2. Classes.
+3. Races.
+
+Common:
+- Spells.
+- Feats.
+- Archetypes.
+- Equipment.
+
+## Might be allowed.
+
+Some of the following may be allowed, just ask! :)
+
+Uncommon, rare or unique:
+1. Spells.
+2. Feats.
+3. Archetypes.
+4. Equipment.
+
+ALL of the above (if they cannot be taken at character creation) are 100% obtainable in-game.
+
 
 ## Old Tracking Hyperlinks.
 
