@@ -71,26 +71,38 @@ ALL of the above (if they cannot be taken at character creation) are 100% obtain
 >> - Fiery Leopard. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 
 > Equipment.
->> - Bort's Blessing. 
->> - Energy Mutagen.
->> - Energy Mutagen (Greater, Moderate, Lesser, Major).
->> - Merchant's Guile.
->> - Ring of Minor Arcana.
->> - Ring of the Weary Traveller. 
->> - Stalwart's Ring.
->> - Stone Body Mutagen (Greater, Lesser, Moderate).
->> - Warrior's Training Ring.
+>> - Boomerang. Unlocked via the planar rifts to dying digital rift worlds.
+>> - Bort's Blessing. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Charlatan's Cape. 
+Unlocked by Selenor by acquiring the Red Raven's cape. 
+The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide.
+>> - Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md). 
+>> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
+>> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Warrior's Training Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 
 > Feats.
 >> - Relentless Stalker.
 >> - Wilderness Spotter.
 
+> Spells.
+>> - Detect Scrying.
+>> - Discern Lies.
+>> - Nudge The Odds.
+>> - Liminal Doorway (pre-remaster = Rope Trick). Unlocked: Session 169. [Campaign~1-Doomsday-Funtime.md.](Campaign~1-Doomsday-Funtime.md) 
+>> - Locate. Session 220.
+>> - Teleport: Unlocked. 
+>> - Umbral Journey: Unlocked.
+
 > Weapons.
->> - Alchemical Crossbow.
+>> - Alchemical Crossbow. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 
 ## Archetypes = Common.
-
-
 
 - Acrobat
 - Aldori Duelist
@@ -126,32 +138,6 @@ ALL of the above (if they cannot be taken at character creation) are 100% obtain
 - Hellknight Armiger
 - Hellknight Signifer
 - Jalmeri Heavenseeker
-
-## Equipment.
-
-> Boomerang.
->> - Unlocked via the planar rifts to dying digital rift worlds.
-
-> Charlatan's Cape.
->> - Unlocked.
->> - Unlocked by Selenor by acquiring the Red Raven's cape.
->> - The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide.
-
-> Retrieval Belt
->> - Unlocked.
->> - This is the modern version of the handy haversack.
-
-## Spells.
-
-Liminal Doorway (pre-remaster = Rope Trick): Unlocked. Session 169.
-Teleport: Unlocked.
-Umbral Journey: Unlocked.
-
-UNLOCKED: Detect Scrying.
-UNLOCKED: Discern Lies.
-UNLOCKED: Nudge The Odds.
-UNLOCKED: Locate. Session 220.
-UNLOCKED: Teleport.
 
 ## Old Tracking Hyperlinks.
 
