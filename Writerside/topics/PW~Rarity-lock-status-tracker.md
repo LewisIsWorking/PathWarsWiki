@@ -175,7 +175,6 @@ Uncommon, rare or unique:
 
 ALL of the above (if they cannot be taken at character creation) are 100% obtainable in-game.
 
-
 ## Old Tracking Hyperlinks.
 
 - https://sheet.zohopublic.eu/sheet/published/da241390e155947cd45588698e8cf4fa4b7df
