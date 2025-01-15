@@ -69,7 +69,7 @@ ALL of the above (if they cannot be taken at character creation) are 100% obtain
 
 > Archetype Dedications.
 >> - Ghost Hunter Dedication
->> - The "Harrower" Dedication.
+>> - A "Harrower" Dedication.
 
 > Archetype Feats.
 >> - Ghost Hunter: Ghost Strike. 
