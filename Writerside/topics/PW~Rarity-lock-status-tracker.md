@@ -1,13 +1,5 @@
 # PW~Rarity-lock-status-tracker.
 
-## Current Tracker Hyperlink.
-
-https://sheet.zohopublic.eu/sheet/published/da241390e155947cd45588698e8cf4fa4b7df
-
-## Original Notion Link.
-
-[Click me to go to the OG Notion tracker.](https://www.notion.so/pathwars/Rarity-System-Unlocked-Spells-7031fa6eedab4ddc8df6621ee2ab8b47?pvs=4)
-
 If you have a question, just ask on the telegram group! :)
 
 ## What is allowed?
@@ -136,3 +128,8 @@ UNLOCKED: Discern Lies.
 UNLOCKED: Nudge The Odds.
 UNLOCKED: Locate. Session 220.
 UNLOCKED: Teleport.
+
+## Old Tracking Hyperlinks.
+
+- https://sheet.zohopublic.eu/sheet/published/da241390e155947cd45588698e8cf4fa4b7df
+- https://www.notion.so/pathwars/Rarity-System-Unlocked-Spells-7031fa6eedab4ddc8df6621ee2ab8b47?pvs=4)
