@@ -10,6 +10,40 @@ https://sheet.zohopublic.eu/sheet/published/da241390e155947cd45588698e8cf4fa4b7d
 
 If you have a question, just ask on the telegram group! :)
 
+## What is allowed?
+
+> Common.
+>> - Anything common is automatically allowed.
+
+> Uncommon.
+>> - Any uncommon background.
+>> - Any uncommon class.
+>> - Any uncommon race.
+>> - Any uncommon racial weapon.
+>> - Anything uncommon from the book 'Guns and Gears', which is often abbreviated to 'GnG'.
+>> - Anything uncommon from the book 'Pathfinder Society Guide' is also abbreviated to 'PFS Guide'.
+
+> Rare.
+>> - Any rare background.
+>> - Any rare class.
+>> - Any rare race.
+>> - Any rare racial weapon.
+>> - Anything rare from the book 'Guns and Gears', which is often abbreviated to 'GnG'.
+>> - Anything rare from the book 'Pathfinder Society Guide' is also abbreviated to 'PFS Guide'.
+
+## What is not allowed?
+
+- ANYTHING IN THIS SECTION CAN BE FOUND IN-GAME!
+
+> Common.
+>> - Nothing common is disallowed.
+
+> Uncommon.
+>> - Equipment, feat or spell: If the source is from an adventure path, module, etc.
+
+> Rare.
+>> - Equipment, feat or spell: If the source is from an adventure path, module, etc.
+
 ## ALL ALLOWED.
 
 All of the following are allowed to be used regardless of their rarity:
