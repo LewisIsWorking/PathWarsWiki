@@ -110,6 +110,15 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Wilderness Spotter.
 
 > Rituals. Uncommon.
+>> - Create Undead (Ghosts). 
+Rank 2. 
+Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). 
+During Arc-6 Gauntlight.
+>> - Resurrect. 
+Rank 5.
+Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+At the end of Arc-5 Necropolis.
+>> - Teleportation Circle. Rank 7. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
 
 > Rituals. Rare.
 >> - Awaken Portal. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
