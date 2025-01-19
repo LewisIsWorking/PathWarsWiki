@@ -57,7 +57,7 @@ You will:
 ## Step #0.
 > Content Warning about Possible Content. The content guide checklist.
 >> - The list of possible things is taken from “The Digital RPG Consent Checklist”.
->> - The link to the safety checklist can be found here:[](https://docs.google.com/document/d/1J4Xd-HEQdBoeX8uOeYL-Xp5mTCjB4JXhrKe8hlnLkj8/edit#heading=h.4fgbplrlzok0)
+>> - The link to the safety checklist can be found here:[https://docs.google.com/document/d/1J4Xd-HEQdBoeX8uOeYL-Xp5mTCjB4JXhrKe8hlnLkj8/edit#heading=h.4fgbplrlzok0](https://docs.google.com/document/d/1J4Xd-HEQdBoeX8uOeYL-Xp5mTCjB4JXhrKe8hlnLkj8/edit#heading=h.4fgbplrlzok0)
 >> - This checklist is a safety tool created to ensure a safe gaming environment.
 >> - A big thank you to the tool for ensuring happy gaming.
 >> - I am using it here because I think it covers *nearly* every possible event that could possibly occur in a campaign.
@@ -172,25 +172,23 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - We use Telegram for out-of-game chat, and some in-session links and image sharing.
 >> - The link to the Telegram group is below.
 >> - All the links do the same thing.
->> - Click the link: [](https://t.me/Path_Wars)
+>> - Click the link: [https://t.me/Path_Wars](https://t.me/Path_Wars)
 
 ## Step #2.
 > Discord.
->> - Discord invite link: 
-
-[](https://discord.gg/nAxna2DBk7).
+>> - Discord invite link: [https://discord.gg/nAxna2DBk7](https://discord.gg/nAxna2DBk7).
 
 > What is next? Establishing The Character’s Lore.
 >> - With these steps, we will establish the character alongside their backstory, traits, appearance and more!
 
 ## Step #3.
 > The Great Spoiler Warning.
->> - Read = [](PW~Spoiler-avoidance-guide.md)
+>> - Read = [PW~Spoiler-avoidance-guide.md](PW~Spoiler-avoidance-guide.md)
 
 ## Step #4.
 > How to Build Your Character’s Life.
->> - Go here and paste the table onto your writerside instance OR your word processor of choice: [](PW~Character-Lore-Builder.md)
->> - If you need information on the world, check out: [](PW~Golarion-Lore-The-Spoiler-Free-Version.md)
+>> - Go here and paste the table onto your writerside instance OR your word processor of choice: [PW~Character-Lore-Builder.md](PW~Character-Lore-Builder.md)
+>> - If you need information on the world, check out: [PW~Golarion-Lore-The-Spoiler-Free-Version.md.](PW~Golarion-Lore-The-Spoiler-Free-Version.md)
 
 > OPTIONAL: GitHub.
 >> - Put your character's lore into a Writerside project.
@@ -212,17 +210,17 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - YOU DO NOT NEED TO USE A VARIANT RULE IF YOU DO NOT WANT TO. 
 >> - You do not need to use dual class, free archetype, etc. 
 >> - You can make a single class non-free-archetype character if you wish to do so.
->> - Please read the following page:[](PW~Official-paizo-variant-rules.md)
+>> - Please read the following page:[PW~Official-paizo-variant-rules.md](PW~Official-paizo-variant-rules.md)
 >> - You can find out what Paizo Variant rules are used in the page linked above!
 >> - The campaigns ran in the Path War community have some homebrew rule changes. 
->> - You can find a mostly complete list of the rule changes here: [](PW~Homebrew-rules.md)
+>> - You can find a mostly complete list of the rule changes here: [PW~Homebrew-rules.md](PW~Homebrew-rules.md)
 
 ## Step #6.
 > Talk to the Game Master, me!
 >> - Reach out to me. 
 >> - Share with me your built-up character's lore. 
 >> - We will integrate your character into the campaign. 
->> - Check out my 5 plot threads rule on [](PW~Homebrew-rules.md)
+>> - Check out my 5 plot threads rule on [PW~Homebrew-rules.md](PW~Homebrew-rules.md)
 >> - I will go through this with you to integrate you into the campaign.
 
 > What is up next? Building the character's stats and abilities!
@@ -239,31 +237,31 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
 
 > Pathbuilder setup. 
->> - Here is how to set up Path Builder 2e = [](PW~Pathbuilder-setup.md)
->> - The link to Path-Builder is here: [](https://pathbuilder2e.com/app.html)
+>> - Here is how to set up Path Builder 2e = [PW~Pathbuilder-setup.md](PW~Pathbuilder-setup.md)
+>> - The link to Path-Builder is here: [https://pathbuilder2e.com/app.html](https://pathbuilder2e.com/app.html)
 
 > Go on Path-Builder. 
 >> - Go to Path-Builder's character builder web application.
 
 > Enable the variant rules.
 >> - Enable the variant rules that are applicable to your campaign.
->> - To find out what variant rules you need to enable, check here: [](PW~Official-paizo-variant-rules.md)
+>> - To find out what variant rules you need to enable, check here: [PW~Official-paizo-variant-rules.md](PW~Official-paizo-variant-rules.md)
 
 > How to enable the variant rules.
->> - To enable variant rules on Path-Builder 2e do the following: [](PW~Pathbuilder-setup.md)
+>> - To enable variant rules on Path-Builder 2e do the following: [PW~Pathbuilder-setup.md](PW~Pathbuilder-setup.md)
 >> - Options → Then Tick the Box next to the rule. 
 >> - For dual-class it would be: Options → Tick the Dual Class box.
 
 > NOTE ABOUT = Selecting 3rd party content on Pathbuilder:
 >> - **3rd Party Content.**
->> - Check the 3rd party page to find out what is available: [](PW~3rd-party-content-and-options.md)
+>> - Check the 3rd party page to find out what is available: [PW~3rd-party-content-and-options.md](PW~3rd-party-content-and-options.md)
 >> - 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 >> - To use 3rd party content, you will need to add it in Foundry manually.
 >> - Ask me about this! 
 >> - Some 3rd party content may already be available in Foundry thanks to community modules.
 
 > NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.
->> - Before selecting anything with these traits, make sure you read: [](PW~Rarity-lock-status-tracker.md)
+>> - Before selecting anything with these traits, make sure you read: [PW~Rarity-lock-status-tracker.md](PW~Rarity-lock-status-tracker.md)
 >> - You can play ANY background, class and/or race, regardless of their rarity.
 
 > Create your character.
@@ -277,7 +275,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - Here is the Starting Wealth table: ![StartingWealthTable.png](../images/StartingWealthTable.png)
 >> - This table explains what items you start with.
 >> - You need to consult the table by using your level to determine what equipment you start with.
->> - [](https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1)
+>> - [https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1](https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1)
 
 > Examples of equipment.:
 >> - 9th Level Items. One 8th. Two 7th. One 6th. Two 5th. 250 GP.
@@ -292,7 +290,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - Type 4 = 13th level item. 2,400 GPs.
 
 > Apply lore increases. 
->> - You can read about the lore increases homebrew rule here: [](PW~Homebrew-rules.md)
+>> - You can read about the lore increases homebrew rule here: [PW~Homebrew-rules.md](PW~Homebrew-rules.md)
 
 > Foundry Virtual Table Top Time.
 >> - It is time to get started on getting you set up on Foundry.
@@ -302,7 +300,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 
 > Foundry.
 >> - We use Foundry to play Pathfinder on.
->> - You can read about what Foundry is here: https://www.rpgmatch.org/vtt/foundry-vtt-review/
+>> - You can read about what Foundry is here: [https://www.rpgmatch.org/vtt/foundry-vtt-review/](https://www.rpgmatch.org/vtt/foundry-vtt-review/)
 >> - It is basically Roll20 if you have used that website before.
 >> -  You do not need to download Forge/Foundry. 
 >> -  You do not need to pay anything to use Forge/Foundry.
@@ -313,7 +311,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - Chrome will offer you the best performance. 
 >> - Chrome will offer you the best user experience. 
 >> - You do not NEED to use Chrome, but I do recommend it.
->> - [](https://www.google.com/intl/en_uk/chrome/)
+>> - [https://www.google.com/intl/en_uk/chrome/](https://www.google.com/intl/en_uk/chrome/)
 >> - You can alternatively use Microsoft Edge for very close performance. 
 >> - Either one is totally fine. 😃
 
@@ -354,7 +352,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 
 ## Step #13.
 > Desktop-ing Foundry.
->> - [](https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836)
+>> - [https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836](https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836)
 >> - Click the button: ![DesktopFoundryButton.png](../images/DesktopFoundryButton.png)
 >> - Click 'Install'. It does not actually install anything. 
 >> - Takes about 5 seconds to 'install'.

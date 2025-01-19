@@ -20,7 +20,7 @@ when determining if specific events have happened and for the purpose of unlocke
 > Etran's Folly #3. 4700 AR.
 >> - Campaign #3. Starts and Ends in 4700 AR.
 >> - Completed in 2021.
->> - [](Campaign~3-Etrans-Folly.md)
+>> - [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md)
 
 > The Other Important Events.
 >> - The events of Kingmaker and Wrath of the Righteous take place during 4700 AR as well. 
