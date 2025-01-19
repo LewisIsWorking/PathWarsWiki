@@ -215,7 +215,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The risen guard has left, the party are in the beggar's subway.
 
 ## Session 233.
-> 2025 January 19th Sunday + 4710 AR, 29th Arodus. + Eto part 4 + achievement talk?.
+> 2025 January 19th Sunday + 4710 AR, 29th Arodus. + Eto part 4 + the teacher achievement.
 
 > 15:30.
->> - ???
+>> - Allisee becomes a true polymath teacher.

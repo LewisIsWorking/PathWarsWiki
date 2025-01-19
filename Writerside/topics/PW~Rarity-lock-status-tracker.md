@@ -175,6 +175,102 @@ Uncommon, rare or unique:
 
 ALL of the above (if they cannot be taken at character creation) are 100% obtainable in-game.
 
+## Soldiers of the immortal war.
+
+These are options from a 3rd party books.
+If an option has the same name as a preexisting option then it is an alt-option that can be taken in place of the original option.
+
+> General feats.
+>> - Covert channeler.
+>> - Patron's negotions.
+>> - Sanctifiction.
+>> - Abject belief
+>> - Evangelise.
+>> - Sanftify water
+>> - Battle prayer
+>> - blessed alchemy
+>> - Domain dabbler.
+>> - Minor channeling.
+>> - Sacrred defense
+>> - Domain practitioner.
+
+> Class feats.
+>> - Prayer-touched weapon.
+>> - Acolyte of apocrypha.
+>> - Apocaltpic spell.
+
+> Consignment feats.
+>> - Cruelty (Accursed One), 
+>> - Mercy (Blessed One), 
+>> - Realignment (Beacon of Order), 
+>> - Red Mantis Assassin Dedication, 
+>> - Crimson Shroud, 
+>> - Achaekek’s Grip, 
+>> - Pact of Infernal Prowess.
+>> - Consigned dedication.
+>> - Celestial heart.
+>> - Fiendish claws.
+>> - Consigned disciple.
+>> - Consigned skill.
+>> - A consigned soldier.
+>> - Consigned flesh.
+
+> Divine class options.
+>> - Alchemist: Sacred water.
+>> - Barbarian: Rage prophet.
+>> - Barbarian: Ancestor the scion of heroes.
+>> - Barbarian: the apocalypse herald of endings.
+>> - Barbarian: battle war monolith.
+>> - Barbarian bone omen knight.
+>> - Barbarian: Cosmos Weightless warrior.
+>> - Barbarian: Depths tsunami bender.
+>> - Barbarian: Flame Blazing Berserk.
+>> - Barbarian: God-claw demon-bane warlord.
+>> - Barbarian: Life vital wellspring.
+>> - Barbarian: Lore font of magic.
+>> - Barbarian: Tempest hurricane of violence.
+>> - Champion: Various feats.
+>> - Champion: New cause = unholy blight.
+>> - Champion: New cause = dread vanguard.
+>> - Champion: New cause = fearmonger.
+>> - Champion: New cause = rampage.
+>> - Champion: New cause = grey paladin.
+>> - Champion: New cause = martyr.
+>> - Champion: New cause = hospital.
+>> - Champion: New cause = Mendevian Survivor.
+>> - Cleric: Angel fire apostle.
+>> - Cleric: Ecclesial-theurge.
+>> - Cleric: Forge master.
+>> - Cleric: Herald caller.
+>> - Cleric: Paragon.
+>> - Monk: Order of the brewer.
+>> - Monk: Order of the holy.
+>> - Monk: Order of the Martial.
+>> - Monk: Order of the naturalist.
+>> - Monk: Order of the sage.
+>> - Oracle: Curse of the apocalypse.
+>> - Oracle: Curse of the depths.
+>> - Oracle: Curse of the God claw.
+>> - Oracle: Ever cursed.
+>> - Rogue: Sanctioned.
+>> - Sorcerer: Martyred.
+>> - Summoner: Blood god.
+>> - Witch: Crimson Light.
+
+>> Class: Inquisitor.
+>> - Inquisitor of the living grimoire.
+
+>> Dedications.
+>> - Accursed.
+>> - Beacon of order.
+>> - Crimson Templar.
+>> - Demagogue.
+>> - Divine assessor.
+>> - Mystery cult.
+>> - Mystic theurge.
+>> - The Sacred philosopher.
+>> - The Soul drinker.
+
 ## Old Tracking Hyperlinks.
 
 - https://sheet.zohopublic.eu/sheet/published/da241390e155947cd45588698e8cf4fa4b7df
