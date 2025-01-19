@@ -32,7 +32,6 @@ The high-altitude pass in western Nex between the Barrier Wall to the north and 
 4. Rebecca.
 5. Anthony.
 6. James?
-7. Adam Smyth?
 
 ## Party Composition.
 
@@ -40,10 +39,6 @@ The high-altitude pass in western Nex between the Barrier Wall to the north and 
 2. Cliff Chew-stick = Gunslinger Magus Rat folk Played by Ryan.
 3. ??? = ??? played by Paddy.
 4. ??? = Dungeon Magus + Witch played by Rebecca.
-
-## Ready Status.
-
-[Kibwe Ready Status.](https://www.notion.so/f7cd7727673848ae977d4d82fab23c51?pvs=21)
 
 ## Ongoing Notes.
 

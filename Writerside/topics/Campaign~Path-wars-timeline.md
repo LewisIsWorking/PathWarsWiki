@@ -1,38 +1,30 @@
 # Campaign~Path-wars-timeline.
 
-Anything that happens across any campaign run by the Path Wars collective is canon across all the campaigns.
-
-This means in practise that an event that happens in Crimson Throne (4708 AR) has canonically happened in the past of campaigns set in the future such as Doomsday Funtime (4709 AR → 4710 AR onwards).
-
-## Extra Information.
-
-Also, see for further reading = [Path Wars Continuity.](https://www.notion.so/Path-Wars-Continuity-96b0844a633f4620990f490603443f6b?pvs=21)
+> The timeline.
+>> - Anything that happens across any campaign run by the Path Wars collective is canon across all the campaigns.
+>> - This means in practice that an event that happens in Crimson Throne (4708 AR) has canonically happened in the 
+past of campaigns set in the future such as Doomsday Funtime (4709 AR → 4710 AR onwards).
 
 ## Table of Contents.
 
-## Overview.
+> Overview.
+>> Below is a timeline that shows what campaign happens when chronologically. 
+> The chronological aspect of the campaign is important 
+when determining if specific events have happened and for the purpose of unlocked items.
+>> A campaign in the past cannot benefit from a campaign set in the future.
 
-Below is a timeline showing which campaign happens when chronologically.
-
-The chronological aspect of the campaign is important when determining if specific events have happened and for the purpose of unlocked items.
-
-A campaign in the past can't benefit from a campaign set in the future.
-
-## Chronological Timeline of In-World Start Date.
+## Chronological Timeline of In-World Starting Dates.
 
 ## **4700 AR.**
 
-## Etran's Folly #3. 4700 AR.
+> Etran's Folly #3. 4700 AR.
+>> - Campaign #3. Starts and Ends in 4700 AR.
+>> - Completed in 2021.
+>> - [](Campaign~3-Etrans-Folly.md)
 
-Campaign #3. Starts and Ends in 4700 AR.
-
-[Campaign #3 = Etran’s Folly = Complete 2021.](https://www.notion.so/Campaign-3-Etran-s-Folly-Complete-2021-5588d32df1ae4007a5660137b9bcf52c?pvs=21)
-
-## The Other Important Events.
-
-The events of Kingmaker and Wrath of the Righteous take place during 4700 AR as well.
-
-Due to the events of Wrath of The Righteous, Nocticula is now the Redeemer, and Shamira, The Demon Lord of Seduction and Lost Dreams, is now the God of Lust and Succubi.
+> The Other Important Events.
+>> - The events of Kingmaker and Wrath of the Righteous take place during 4700 AR as well. 
+>> - Due to the events of Wrath of The Righteous, Nocticula is now the Redeemer, and Shamira, The Demon Lord of Seduction and Lost Dreams, is now the God of Lust and Succubi.
 
 ## **4707 AR.**
 
