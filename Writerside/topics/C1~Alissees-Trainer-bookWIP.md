@@ -1,4 +1,4 @@
-# Alissee's Trainer book(WIP).
+# C1~Alissee's Trainer book(WIP).
 
 This is Alissee's trainer book containing feats she can teach to others temporarily.
 She can teach a number of feats equal to half her level rounded up in one hour to a number of people equal to half her level rounded up.
