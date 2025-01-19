@@ -17,51 +17,63 @@
 >> 1. Prima.
 >> 2. 31 days.
 >> 3. The first month of the year, named in honour of Abadar.
+>> 4. January.
 >> - Calistril (KAHL-izz-trihl).
 >> 1. Snappe. 
 >> 2. 28 days. 
 >> 3. A late winter month named for Calistria, goddess of revenge.
+>> 4. February.
 >> - Pharast (fah-RAHST). 
 >> 1. Anu. 
 >> 2. 31 days. 
 >> 3. An early spring month named after Pharasma, the goddess of birth and death.
+>> 4. March.
 >> - Gozran	(GOHZ-ran).	
 >> 1. Rusanne. 
 >> 2. 30 days. 
 >> 3. A stormy month named for the god of the wind, Gozreh.
+>> 4. April.
 >> - Desnus	(DEZ-nuhs). 
 >> 1. Farlong. 
 >> 2. 31 days. 
 >> 3. A mild month named for the goddess Desna.
+>> 4. May.
 >> - Sarenith (sa-REHN-ihth). 
 >> 1. Sola.	
 >> 2. 30 days. 
 >> 3. The sun goddess Sarenrae gives her name to this sun-blessed month.
+>> 4. June.
 >> - Erastus (eh-RAS-tuhs).	
 >> 1. Fletch. 
 >> 2. 31 days. 
 >> 3. Named in honour of Erastil.
+>> 4. July.
 >> - Arodus	(AIR-oh-duhs).
 >> 1. Hazen. 
 >> 2. 31 days. 
 >> 3. Although he is no longer widely worshiped, the summer month is named for the dead god Aroden.
+>> 4. August.
 >> - Rova (ROH-va). 
 >> 1. Nuvar. 
 >> 2. 30 days.
 >> 3. The beginning of autumn is named after the violent god Rovagug. 
 >> 4. Dwarves dispute naming a month after such a destructive and evil deity and instead name the ninth month Torawsh after their creator god, Torag.
+>> 5. September.
 >> - Lamashan (lah‑MAHSH‑ahn). 
 >> 1. Shaldo. 
 >> 2. 31 days. 
 >> 3. Named for Lamashtu, the goddess of monsters.
+>> 4. October.
 >> - Neth (NEHTH). 
 >> 1. Joya. 
 >> 2. 30 days. 
 >> 3. Named for Nethys, the two-faced god of magic.
+>> 4. November.
 >> - Kuthona (koo-THOH-nah). 
 >> 1. Kai. 
 >> 2. 31 days. 
 >> 3. The shortest day of the year comes during the month named after the god of darkness, Zon-Kuthon.
+>> 4. December.
 
 > Seasons
 >> - The Inner Sea region has four seasons: winter, spring, summer and fall (or autumn). 
