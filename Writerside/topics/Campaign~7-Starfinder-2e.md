@@ -12,22 +12,25 @@ Start typing here...
 >> - This plane is EXTREMELY hard to get to, it is separated out fully from the res of the multiverse.
 
 > Adventures:
->> - Long adventure 1/1: The Birthday Scream [A Cosmic Birthday]. Level 1.
->> - Short adventure 1/4: Birna's Bubble [Shards of the Glass Planet]. Level 1.
->> - Short adventure 2/4: Bloom. [It Came from the Vast!]. Level 5.
->> - Short adventure 3/4: Zo!’s Wheel of Monsters! [Wheel of Monsters]. Level 10.
+>> - Long adventure 1/2: The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
+>> - Short adventure 1/4: Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
+>> - Short adventure 2/4: Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
+>> - Short adventure 3/4: Monster wheel [Zo!’s Wheel of Monsters]. Level 10.
+>> - Empires Devoured 2/2: Historic accord. [Empires Devoured]. Level 10 -> 13.
 >> - Short adventure 4/4: Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
 
 > How many adventures are there?
->> - There is 1 long adventure.
+>> - There are 2 long adventures.
 >> - There are 4 short adventures.
 
-## Long adventure 1/1: A Cosmic Birthday.
+## NOTES: Long adventure 1/2: The Birthday Scream. Level 1 -> 4.
 
-## Short adventure 1/4: Shards of the Glass Planet. Birna's Bubble.
+## NOTES: Short adventure 1/4: Birna's Bubble. Level 1.
 
-## Short adventure 2/4: It Came from the Vast! Bloom.
+## NOTES: Short adventure 2/4: Bloom. Level 5.
 
-## Short adventure 3/4: Wheel of Monsters.
+## NOTES: Short adventure 3/4: Monster wheel. Level 10.
 
-## Short adventure 4/4: Rescue at Shimmer-stone Mine.
+## NOTES: Long adventure 2/2: Historic accord. Level 10 -> 13.
+
+## NOTES: Short adventure 4/4: Shimmer-stone. Level 15.
