@@ -2,6 +2,10 @@
 
 Start typing here...
 
+> Overview.
+>> - The Sandpoint charter is a magical contract.
+>> - You cannot attack Keleri Devrin or Eliza Tammerhawk.
+
 ## The Heroes of Sandpoint charter.
 
 The following names are the names of the Heroes of Sandpoint:
@@ -22,4 +26,4 @@ The following names are the names of the Heroes of Sandpoint:
 14. Janos Grass-treader 
 15. Kasai Fire-Bloom
 16. Vrolt Ori.
-17. 
+17. Carnon.

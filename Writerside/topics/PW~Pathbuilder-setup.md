@@ -2,6 +2,10 @@
 
 - https://pathbuilder2e.com/app.html
 
+## Example image on the mobile app.
+
+![PathBuilderSetup.jpg](PathBuilderSetup.jpg)
+
 ## New character
 
 - Use remastered rules = On. ✅
@@ -31,7 +35,7 @@ Character Options.
 App Global Options
 - Show dice rolling buttons = On. ✅
 - Play dice rolling sound = On. ✅
-- Open dialogs with filters visible? = On. ✅
+- Open dialogues with filters visible? = On. ✅
 - Show cursed items? = Off. ❌
 - Disable all automatic saving? = Off. ❌
 

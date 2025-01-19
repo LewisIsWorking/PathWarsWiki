@@ -9,7 +9,8 @@ Start typing here...
 >> - 229: Role play + Lire joined the party.
 >> - 230 -> 232: Eto.
 
-## Session 225. 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Untangle the past arc introduction.
+## Session 225. 
+> 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Untangle the past arc introduction.
 
 - 28th Arodus. 11:00.
 
@@ -44,7 +45,8 @@ Selenor plane shifts to the runewild.
 > Selenor talks to Griselda.
 >> - A place on the mushfens.
 
-## Session 226. 2024 November 26th Tuesday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 1.
+## Session 226. 
+> 2024 November 26th Tuesday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 1.
 
 12:00.
 
@@ -57,7 +59,8 @@ Selenor plane shifts to the runewild.
 - After Selenor uses his 1/day casting of suggestion using the sin shard of lust, the entryway opens.
 - A spiral staircase brings the heroes to a large perfectly cubical room (kind of cavern?), inside is an arcane manor.
 
-## Session 227. 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2.
+## Session 227. 
+> 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2.
 
 13:00.
 
@@ -75,11 +78,13 @@ Defeated Space Ooze.
 14:50.
 In play by post, the party talks to the wizard Zarzan Quilit.
 
-## Session 228. 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
+## Session 228. 
+> 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 
 - Events of [DF-100-sessions-of-Selenor.md](C1~100-sessions-of-Selenor.md) happen.
 
-## Session 229. 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
+## Session 229. 
+> 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
 
 00:00.
 Sandpoint home-base.
@@ -107,7 +112,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 12:30. Keleri agrees to deliver Lire's ring to Annmarie.
 
-## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Eto part 1.
+## Session 230. 
+> 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Eto part 1.
 
 > 13:00.
 >> - Faction meetings for Carnon, Viole and Lire.
@@ -148,7 +154,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 10:00. 8 hours of rest + daily preparation.
 - 10:30. Breakfast.
 
-## Session 231. 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Eto part 2 + shopping.
+## Session 231. 
+> 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Eto part 2 + shopping.
 
 - 11:00. The Eto Bazaar.
 - Selenor recalls that D'Bear likes scented candles for when she prays.
@@ -171,7 +178,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums.
 - The lost is a card of emptiness.
 
-## Session 232. 2025 January 11th Saturday + 4710 AR, 29th Arodus. + Eto part 3 + shopping.
+## Session 232. 
+> 2025 January 11th Saturday + 4710 AR, 29th Arodus. + Eto part 3 + shopping.
 
 > 12:00.
 >> - Eto Bazaar.
@@ -202,3 +210,12 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 15:00.
 >> - Viole talks to a Risen guard, Selenor negotiates with the guard and gets the fine down to 10 GP.
 >> - The Risen guards will search for the Red Mantis assassins.
+
+> 15:10.
+>> - The risen guard has left, the party are in the beggar's subway.
+
+## Session 233.
+> 2025 January 19th Sunday + 4710 AR, 29th Arodus. + Eto part 4 + achievement talk?.
+
+> 15:30.
+>> - ???

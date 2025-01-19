@@ -103,13 +103,52 @@ The special spell mastery fortes.
 33. Tether.
 34. True strike.
 
-## Trainer Achievement.
+## Trainer Achievement. TRUE POLYMATH!
 
-Your character’s build contains feats from 12 sources (different races, archetypes and classes).
+- Your character’s build contains feats from 12 sources (different races, archetypes and classes). 
+- A dual-class character will have a minimum of 3 sources. 
+- Two from classes and one from race.
 
-A dual-class character will have a minimum of 3 sources.
+> How does it work?
+>> - 
 
-Two from classes and one from race.
+> Allisee. Current Trainer.
+>> 1. Human.
+>> 2. Half-elf.
+>> 3. Elf.
+>> 4. Changeling.
+>> 5. Witch.
+>> 6. Barbarian.
+>> 7. Magus.
+>> 8. A Legendary kineticist.
+>> 9. Familiar master.
+>> 10. Monk (rain of embers).
+>> 11. Ghost hunter.
+>> 12. Eldritch researcher.
+>> 13. Blood rage.
+>> 14. Scrounger.
+>> 15. Wrestler.
+>> 16. General.
+>> 17. Skill.
+
+> Selenor.
+>> 1. Oracle.
+>> 2. Champion.
+>> 3. Human.
+>> 4. Nephilim.
+>> 5. Skeleton.
+>> 6. Eternal warden ???
+>> 7. Blessed one.
+>> 8. Re-animator.
+>> 9. Undead master.
+>> 10. Zoomer.
+>> 11. Monk (rain of embers).
+>> 12. Acrobat.
+>> 13. Sentinel.
+>> 14. Ghost hunter.
+>> 15. General.
+>> 16. Skill.
+>> - Selenor's not counted feats: The Eternal warden, Chronicler.
 
 ## True Knight.
 
