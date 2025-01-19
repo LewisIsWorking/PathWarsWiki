@@ -7,110 +7,102 @@ The rules for what counts as an achievement valid enemy and/or enemy encounter.
 2. The quantity capacity of a single group of enemies is equal to your level, 6 enemies for a level 5 counts only 5 of the enemies as 1 group.
 3. The enemy must be at least your level.
 
-## Aeon Collector.
+> Who holds the achievement?
+>> - Once the base requirement is met, 
+some achievements will allow you to take the achievement if you have the base 
+requirement AND a higher number of the achievement's base requirements.
 
-Collect a number of aeon stones.
+> Aeon Collector.
+>> Collect a number of aeon stones.
 
-## A lifted spirit. Fall damage.
+> A lifted spirit. 
+>> - Fall damage. 
+>> - Take an amount of falling damage on several differing occasions and survive.
+>> - Awarded to Selenor.
 
-Take an amount of falling damage on several differing occasions and survive.
+> Back from the Grave.
+>> - ???
 
-## Back from the Grave.
+> Chronicler.
+>> - [C1~Chronicler-overview.md](C1~Chronicler-overview.md).
+>> - Write everything down. 
+>> - The reward is the most powerful feat ever. 
+>> - High-time investment = High reward. 
+>> - Awarded to Selenor.
 
-???
+> Combat Healer. 
+>> - Total magical healing that has healed. 
+>> - Cure a cumulative total number of points of damage for other creatures with healing spells. 
+>> - Causing any damage subtracts the progress.
 
-## Chronicler.
+> Critical Hitter! 
+>> - Total Critical Hits Landed.
+>> - Land many critical hits.
 
-- [Chronicler.]
+> Devil Slayer!
+>> - Face different devils in combat and either take damage or suffer some other sort of injury from each devil. 
+>> - The devil does not count if you fall unconscious, flee, or otherwise become unable to strike back at them.
 
-Write everything down.
+> Gnoll Slayer!
+>> - Deliver the killing blow to gnolls, hyenas, hyenas and/or were-creatures.
 
-The reward is the most powerful feat ever.
+> Out of the fire.
+>> - Knocked unconscious or killed by fire damage several times.
 
-High-time investment = High reward.
+> Mind Controller.
+>> - Successfully affect different targets with charm, compulsion spells or mind control spells.
 
-- Awarded to Selenor.
+> Scarred. 
+> Total Damage Taken.
+>> - Take a cumulative total of many points of damage, being healed with magical healing subtracts away from this total.
 
-## Combat Healer. Total magical healing that has healed.
+> Slave freer.
+>> - Free sentient beings held in unjust captivity.
 
-Cure a cumulative total number of points of damage for other creatures with healing spells.
-Causing any damage subtracts the progress.
+> Spell Mastery Forte Achievement
+>> - If you use a spell slot spell a lot, keep track of how many times you use it in combat.
+>> - The special spell mastery fortes.
+>> 1. Agitate.
+>> 2. Bane-Bless.
+>> 3. Burning Hands.
+>> 4. Charm.
+>> 5. Command.
+>> 6. Deja Vu.
+>> 7. Disrupting Weapon.
+>> 8. Goblin pox.
+>> 9. Grease.
+>> 10. Grim tendrils.
+>> 11. Gust of wind.
+>> 12. Harm-Heal.
+>> 13. Hydraulic push.
+>> 14. Illusory disguise.
+>> 15. Jump.
+>> 16. Liberating command.
+>> 17. Lock.
+>> 18. Long-strider.
+>> 19. Magic missile.
+>> 20. Mirror image.
+>> 21. Noxious vapour.
+>> 22. Penumbra shroud
+>> 23. Phantom pain.
+>> 24. Pummelling rubble.
+>> 25. Ray of enfeeblement.
+>> 26. Sanctuary.
+>> 27. Shattering Gem.
+>> 28. Shocking grasp.
+>> 29. Shockwave.
+>> 30. Snowball.
+>> 31. Spider string.
+>> 32. Summoning.
+>> 33. Tether.
+>> 34. True strike.
 
-## Critical Hitter! Total Critical Hits Landed.
+> Trainer Achievement. TRUE POLYMATH!
+>> - Your character’s build contains feats from 12 sources (different races, archetypes and classes). 
+>> - A dual-class character will have a minimum of 3 sources. Two from classes and one from race.
+>> - Awarded to Allisee. 
 
-Land many critical hits.
-
-## Devil Slayer!
-
-Face different devils in combat and either take damage or suffer some other sort of injury from each devil. 
-The devil does not count if you fall unconscious, flee, or otherwise become unable to strike back at them.
-
-## Gnoll Slayer!
-
-Deliver the killing blow to gnolls, hyenas, hyenas and/or were-creatures.
-
-## Out of the fire.
-
-Knocked unconscious or killed by fire damage several times.
-
-## Mind Controller.
-
-Successfully affect different targets with charm, compulsion spells or mind control spells.
-
-## Scarred. Total Damage Taken.
-
-Take a cumulative total of many points of damage, being healed with magical healing subtracts away from this total.
-
-## Slave freer.
-Free sentient beings held in unjust captivity.
-
-## Spell Mastery Forte Achievement
-If you use a spell slot spell a lot, keep track of how many times you use it in combat.
-
-The special spell mastery fortes.
-1. Agitate.
-2. Bane-Bless.
-3. Burning Hands.
-4. Charm.
-5. Command.
-6. Deja Vu.
-7. Disrupting Weapon.
-8. Goblin pox.
-9. Grease.
-10. Grim tendrils.
-11. Gust of wind.
-12. Harm-Heal.
-13. Hydraulic push.
-14. Illusory disguise.
-15. Jump.
-16. Liberating command.
-17. Lock.
-18. Long-strider.
-19. Magic missile.
-20. Mirror image.
-21. Noxious vapour.
-22. Penumbra shroud
-23. Phantom pain.
-24. Pummelling rubble.
-25. Ray of enfeeblement.
-26. Sanctuary.
-27. Shattering Gem.
-28. Shocking grasp.
-29. Shockwave.
-30. Snowball.
-31. Spider string.
-32. Summoning.
-33. Tether.
-34. True strike.
-
-## Trainer Achievement. TRUE POLYMATH!
-
-- Your character’s build contains feats from 12 sources (different races, archetypes and classes). 
-- A dual-class character will have a minimum of 3 sources. 
-- Two from classes and one from race.
-
-> How does it work?
->> - 
+Potential true polymaths:
 
 > Allisee. Current Trainer.
 >> 1. Human.
@@ -150,9 +142,8 @@ The special spell mastery fortes.
 >> 16. Skill.
 >> - Selenor's not counted feats: The Eternal warden, Chronicler.
 
-## True Knight.
-
-Convince four knightly orders and a major mayor to write letters of commendation on your behalf to join a knightly order.
+> True Knight.
+>> - Convince four knightly orders and a major mayor to write letters of commendation on your behalf to join a knightly order.
 
 ## Archetype achievements with Secrets requirements.
 

@@ -123,13 +123,10 @@ Those next to the 3rd party content, would be a better fit.
 
 Why is there a link to a pathbuilder guide first, unrelated to the topic title? 
 Move it to the pathbuilder topic. 
-Not only that, but you have two links that do the same thing? One in github and one in notion?
 
 Pathbuilder 2e.
 
 Setup link at the front is strange, because why do you have a link to a set-up guide before a link to the actual app?
-All the info in this topic is just a repeat on what is in notion.
-Get rid of the notion link.
 
 Pick your equipment.
 Good Stuff

@@ -4,7 +4,7 @@ Start typing here...
 
 > DF P1 Story.
 >> - [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
->> - TODO: Not to self, move Notion content over here to GH/Writerside.
+>> - TODO: Not to self, move content over here to GH/Writerside.
 
 > P1 arcs:
 >> 1. The Thistle Top Arc.
