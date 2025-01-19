@@ -1,3 +1,0 @@
-# Campaign-3-Etrans-Folly
-
-Start typing here...
