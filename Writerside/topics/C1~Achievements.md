@@ -152,7 +152,7 @@ Potential true polymaths:
 3. Augur. Clue = You need to make a prediction with magic, and then keep track of the prediction.
 4. Brew-master.
 5. Chef-master.
-6. Chronicler. [Chronicler.](https://www.notion.so/Chronicler-0007866283494ef1b1a7207ac65ec5c1?pvs=21)
+6. Chronicler. [C1~Chronicler-overview.md](C1~Chronicler-overview.md)
 7. Cursed One.
 8. Depicter. Clue = Create art of beings.
 9. Destined One.

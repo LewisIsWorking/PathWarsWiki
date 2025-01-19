@@ -210,7 +210,7 @@ Mini Boss Fight.
 
 In the ballroom.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cd57628-efde-4f7f-9a0a-d61d075310d7/Untitled.png)
+> Removed broken image link.
 
 The group defeat Imron The Rake and Amar hits level 10.
 
@@ -234,7 +234,7 @@ Amar is invisible for 5 hours thanks to Brinwain’s Necklace of Invisibility Po
 
 The Tian (x5) and Taldan (x5) animated armors attack the group as they trigger the trap.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7e1112d-e103-4fc7-8c17-8a393442ec81/Untitled.png)
+> Removed broken image link.
 
 Zutlieg succeeds on his heroic lingering inspire courage.
 
@@ -305,7 +305,7 @@ UNLOCKED: Discern Lies.
 
 UNLOCKED: Nudge The Odds.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dbd9ca1-42c2-4bfe-a7da-368db0340c01/Untitled.png)
+> Removed broken image link.
 
 Allisee owes 40 GPs to Zillif.
 
@@ -319,11 +319,11 @@ Allisee must:
 4. Allisee will become a kinetistic.
 5. Allisee will help Drekk-Zal’s father.
 
-In return Allissee gets all Drekk-Zal’s gold, some items, Moon-Bear Axe (Which is inside the Moon Fleshgem) and the mantle of the moon bear.
+In return, Allisee gets all Drekk-Zal's gold, some items, Moon-Bear Axe (Which is inside the Moon Flesh gem) and the mantle of the moon bear.
 
-Allissee agrees and Allissee’s left hand turns to shimmer rough brilliantly white moon stone.
+Allisee agrees, and Allisee's left hand turns to shimmer rough brilliantly white moon stone.
 
-Drekk-Zal gives Allissee around 950ish gold.
+Drekk-Zal gives Allisee around 950ish gold.
 
 ## Session 170 = Saturday 15th April 2023 + 15th Erastus, 4710 AR + Amar Resurrection + New Base + Bounty #5 ROCK STEW.
 
@@ -625,9 +625,9 @@ Banner.
 
 25 + 60 = 85 GP.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9f3e722-1a04-4d19-98b6-449338cb9652/Untitled.png)
+> Removed broken image link.
 
-Allissee got a moderate healing potion and some holy symbols.
+Allisee got a moderate healing potion and some holy symbols.
 
 3 more Xulgaths captured.
 

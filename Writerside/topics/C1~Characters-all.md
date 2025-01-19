@@ -399,7 +399,7 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Getting Selenor's Blessing. 
 >> - Lire yearns to solidify his second-life bond with Anamerie as equals and agents of Naderi's grace. 
 >> - To do so, he seeks Selenor's blessing, believing that the man who gave her a second chance must approve of his worthiness in their new existence. 
->> - It is a profoundly personal milestone tied to his notions of honour, redemption and love. 
+>> - It is a profoundly personal milestone tied to his ideas of honour, redemption and love. 
 >> - 2: Uncovering the Truth of His Death and Missing Memories.
 >> - The fog of his past weighs heavily on Lire. Zander's cryptic half-truths and evasions lead Lire to suspect that the devil knows far more than he admits. Fully uncovering the truth is both a haunting need and a terrifying prospect. 
 >> - Was his demise orchestrated by forces greater than him? Was he complicit in his downfall in ways he does not yet understand?

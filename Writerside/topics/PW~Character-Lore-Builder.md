@@ -6,7 +6,7 @@ Starting Guide Link.
 
 ## Build YOUR Character’s Life HERE!
 
-Below is the table to copy and paste into your own notion workspace and fill out.
+Below is the table to copy and paste into your own Writerside workspace and fill out.
 
 Core.
 
@@ -17,7 +17,8 @@ Core.
 
 Age.
 
-For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version](PW~Golarion-Lore-The-Spoiler-Free-Version.md)
+For help on days, months and years of the world, 
+click the following link = [PW~Golarion-Lore-The-Spoiler-Free-Version.md](PW~Golarion-Lore-The-Spoiler-Free-Version.md)
 
 1. How old is your character?
 2. What year was your character born?

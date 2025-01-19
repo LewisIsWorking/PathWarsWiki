@@ -25,8 +25,10 @@ The following text can be found on a piece of paper,
 which seems to have been slipped into your copy of the "Principia Arcana" when you picked up your replicas of the books.
 
 "The following books are copies made by I, Bormgastor the draconic-wizard, defender of the White Tower.
-Each of these copies have been recreated down to the slightest of details.
-I, Bormgastor, have also taken a frightfully long time to painstakingly experiment with each of the original copies to find all of their secret arcane notions then created copies of the notion that I deconstructed in base components before recreating in the copies of the books.
+Each of these copies has been recreated down to the slightest of details.
+I, Bormgastor, have also taken a frightfully long time to painstakingly experiment with each of the original copies. 
+This was to find all of their secret arcane notations, then create copies of those notations.
+That I then deconstructed in base components before recreating in the copies of the books.
 I have done this so that my copies will emulate the enchantments placed upon the originals by casters of far greater strength, resources, knowledge and skill than I.
 If one cannot be original then they should do their best to copy,
 and of course, what is the greatest compliment if not emulation?"
@@ -60,19 +62,17 @@ Instead the symbols are different.
 
 Instead of the sharp points and hard edges, these symbols have curves and oval shaping.
 
-The small dashes and triagular shapes within the runes of sin have also been replaced with circles or dots.
+The small dashes and triangular shapes within the runes of sin have also been replaced with circles or dots.
 
 It is unclear what this means.
 
 On the right below you can see the new symbols, on the right you can see the symbols you are already familiar with on the typical Sihedron.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7215952e-4f6b-4020-b5b5-2e0a835534bf/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52a97657-4be9-4fec-9a79-e19d8d8610ca/Untitled.png)
+< Removed broken image links >
 
 The back of the book has a smooth velvet surface with no text or additional symbology.
 
-As you run your hand across the smooth velvet surface you feel your hand become clean and less tense.
+As you run your hand across the smooth velvet surface, you feel your hand become clean and less tense.
 
 The book has clearly been magically enhanced to be better suited to long periods of extended reading.
 
@@ -80,190 +80,128 @@ Flipping open the cover reveals the first page of the Principia Arcana.
 
 You notice that this page as with every other page in this book has a purple wavy line outlining the edge of the page.
 
-Though this appears purely decorational this line seems to grow and shrink as you read each page.
+Though this appears purely decorational, this line seems to grow and shrink as you read each page.
 
 With the line growing thinner as you reach the bottom of the page.
 
 This seems to be some sort of reading aid, helping the reader to track where they left off.
 
-From some experimentation, you are able to realise that if you skip or miss a section of the page then the line won’t go to its thinnest.
+From some experimentation with the book,
+you realise that if you skip or miss a section of the page, then the line will not go to its thinnest.
 
 Additionally, the line on the index page seems to track your overall reading completion of the entire book.
 
-“Fellow students of the Arcane.
-
-This is the Principia Arcana.
-
-If you are a follower of Lissala then some elements of this book are useful in mastering the channelling of the divine magic of our Goddess of fate.
-
-The text may assist you with the usage of spells that make use of Wards and that make use of the mind, however, ultimately the study of the arcane is not a study of the divine and its power, for that you should retreat to the scrolls of your temples.
-
-On the other hand, for the practitioners of the arcane, the wizards of Thassilon may gain insight and understanding into the most advanced, researched, prestigous and powerful of all magical traditions.
-
-Within the following text, you will find a guide that aims to break the views on the mainstream metaphysical theorys of arcane magic.
-
-…
-
-The study of the arcane has progressed greatly since our Virtuous Emperor Xin took the backwards, racist and dim witted studies of the Azlanti and took it to the land of savages that now house our mighty empire.
+> The book's contents are as follows:
+>> - Fellow students of the Arcane. 
+>> - This is the Principia Arcana. 
+>> - If you are a follower of Lissala, then some elements of this book are useful in mastering the channelling of the divine magic of our Goddess of fate. 
+>> - The text may assist you with the usage of spells that make use of Wards and that make use of the mind, 
+>> - however, ultimately the study of the arcane is not a study of the divine and its power, for that you should retreat to the scrolls of your temples. 
+>> - On the other hand, for the practitioners of the arcane, 
+>> - the wizards of Thassilon may gain insight and understanding into the most advanced, 
+researched, prestigious and powerful of all magical traditions. 
+>> - Within the following text, you will find a guide that aims to break the views on the mainstream metaphysical theories of arcane magic.
 
 …
 
-The arcane helps us to gaze, probe and feel the multiverse around us.
-
-Through this experimentation, we have been able to make many breakthroughs in magical research.
-
-We have been able to organise the planes into discrete groups in relation to one another.
-
-These groups lay within the two primary groups: the inner and outer spheres.
-
-In the Inner Sphere, the Positive and Negative energy planes create and destroy life in opposition to one another.
-
-The positive plane is the creation of souls.
-
-The negative plane is the final destination of all magic that falls beyond the confines of the soul cycle.
-
-The Material Planes that surround ours are generally smaller in size.
-
-Our Material Plane of our reality spreads across an infinite realm.
-
-Some scholars contest this point, instead poising the idea that our universe is expanding as time goes on.
-
-Thes phenomenon has been viewed by Rune Binders however the Rune Guards have yet to confirm the Binder’s findings.
-
-Later editions of this book may update this section of the research is ever finally confirmed.
-
-
-
-The adjacent Elemental Planes provide the fundamental materials of the multiverse.
-
-Additionally, the Ethereal Plane permeates the space in between the Material Planes.
-
-The Astral Plane surrounds the Inner Sphere and connects it to the Outer Sphere planes, the destination of all mortal souls.
+>> - The study of the arcane has progressed greatly since our Virtuous Emperor Xin took the backwards, 
+racist and dim witted studies of the Azlanti and took it to the land of savages that now house our mighty empire.
 
 …
 
-You will be aware that there are many professions that channel the Arcane.
-
-The greatest of these, the Rune Casters, the wielders of Rune Magic are the greatest wielders of the Arcane, evolving it to a state in which feats carried out by these individuals have gone far and beyond the capabilities of the lesser professions.
-
-The Rune Casters include Rune Binders, Archivists, Rune Knights, the Mighty Rune Guards and of course the most powerful of all: The Rune Lords.
-
-The lesser casters of the Arcane include:
-
-Arcanists, some bards, bloodragers, some clerics, magi, skalds, sorcerers, summoners, witches, and wizards.
-
-Do not let these professions confuse you, while some of these mage’s professions may “use” the arcane, their limited understanding of the greater nature of the Arcane.
-
-The secrets of the universe may be understood by one and one alone: the Wizard.
-
-For it is the wizard profession from which our great Runelord rulers have risen before learning and mastering Rune Magic.
-
-…
-
-You will be aware of course that every spell has a base level to which it is assigned.
-
-This numeric value determines the minimum amount of magical stamina that a magical user will need to be able to control and expend to successfully and correctly cast the spell.
-
-While the strength of some spells can be impacted by the caster’s intelligence to some degree, it is not in fact the primary factor determining the spell casting capabilities of the individual.
-
-Spellcasting is limited by the power of the soul.
-
-The soul will primarily affect two things:
-
-1. The maximum level of a spell of which an individual will be able to cast.
-2. Partially the strength of the spell.
-
-It was previously believed that the soul determined spellcasting stamina, more commonly referred to as spell slot count.
-
-More recent research has found that it is the style of training and skill of the caster that determines spell slot count with casters of the same profession of similiar skill having a similar number of slots nearly always, with variations in spell slot count normally due to other variables such as special training.
-
-It is nearly impossible to empower the soul without death.
-
-More specifically the divine sparks that are shed from an individual’s soul upon their murder.
-
-To the murderer/s go the spoil, with their souls being empowered from the bloodshed.
-
-As a soul becomes more powerful however the soul requires the divine sparks of more and more powerful individuals.
+>> - The arcane helps us to gaze, probe and feel the multiverse around us. 
+>> - Through this experimentation, we have been able to make many breakthroughs in magical research. 
+>> - We have been able to organise the planes into discrete groups in relation to one another. 
+>> - These groups lay within the two primary groups: the inner and outer spheres. 
+>> - In the Inner Sphere, the Positive and Negative energy planes create and destroy life in opposition to one another. 
+>> - The positive plane is the creation of souls. 
+>> - The negative plane is the final destination of all magic that falls beyond the confines of the soul cycle. 
+>> - The Material Planes that surround ours are generally smaller in size. 
+>> - Our Material Plane of our reality spreads across an infinite realm. 
+>> - Some scholars contest this point, instead poising the idea that our universe is expanding as time goes on. 
+>> - Rune Binders have viewed these phenomenons; however, the Rune Guards have yet to confirm the Binder’s findings. 
+>> - Later editions of this book may update this section of the research is ever finally confirmed.
+>> - The adjacent Elemental Planes provide the fundamental materials of the multiverse. 
+>> - Additionally, the Ethereal Plane permeates the space in between the Material Planes. 
+>> - The Astral Plane surrounds the Inner Sphere and connects it to the Outer Sphere planes, the destination of all mortal souls.
 
 …
 
-How do arcane professions differ? And where does the magic of the arcane stem from?
-
-In a previous chapter, we talked about spell slots, a precise measurement of the magical stamina required to cast a spell.
-
-As this book is a fundamental primer to begin your understanding of the arcane I simplified the concept in that chapter.
-
-A sufficiently strong spell slot, correct materials (if required) and the knowledge to cast the spell is not enough.
-
-There is a base requirement known as a source.
-
-This source must flow through the soul, formed by the verbal, empowered by the material and expelled with the somatic.
-
-Arcane wielding professions tend to gather the source from divine sources or blood magic.
-
-Some Gods lend their followers the ability to tap into the arcane by infusing their divine essence with the caster’s soul, supplying the energy required to expel arcane power.
-
-The blood professions: blood ragers, arcanists and sorcerers all use the very blood in their veins to wield the arcane.
-
-The latent magical potential in their blood is soul magic that has been infused in liquid form via planar radiation and then passed down genetically, this occurs whether the origin point is a parent of highly infused magical potential (their body is infused with the magic of their soul) has bred with the other parent, or if the parent has been blessed, cursed or exposed to this magic in a  concentrated dose either due to a magical item or planar exposure.
-
-Wizards are not entirely different.
-
-Part of our studious studying does require the knowledge to infuse our blood with the magics of our soul, however, this is a temporary effect lasting milliseconds during the casting of a spell, a flicker of infusion as opposed to a constant pool of energy to draw from.
-
-Instead, the Wizard must apply their mind to the problem: the wizard needs a source.
-
-Where do wizards pull from?
-What is the source for a wizard?
-
-The Astral Plane.
-
-Also known as the Silver Sea.
-
-A potentially infinite source of magic.
-
-A God has limitations, blood has limitations, but the Astral Plane?
-It is larger than any realm, it has more power than any God.
-
-It is timeless, it is everlasting, and it is immeasurable.
-
-The essence of the Astral Plane combines with a wizard’s soul evoking the Arcane.
+>> - You will be aware that there are many professions that channel the Arcane. 
+>> - The greatest of these, the Rune Casters, the wielders of Rune Magic are the greatest wielders of the Arcane, evolving it to a state in which feats carried out by these individuals have gone far and beyond the capabilities of the lesser professions. 
+>> - The Rune Casters include Rune Binders, Archivists, Rune Knights, the Mighty Rune Guards and of course the most powerful of all: The Rune Lords. 
+>> - The lesser casters of the Arcane include: Arcanists, some bards, bloodragers, some clerics, magi, skalds, 
+sorcerers, summoners, witches, and wizards. 
+>> - Do not let these professions confuse you, while some of these mage’s professions may “use” the arcane, their limited understanding of the greater nature of the Arcane. 
+>> - The secrets of the universe may be understood by one and one alone: the Wizard. 
+>> - For it is the wizard profession from which our great Runelord rulers have risen before learning and mastering Rune Magic.
 
 …
 
-For further studies of the arcane seek out the libraries within any of the seven domain’s capital cities:
+>> - You will be aware of course that every spell has a base rank to which it is assigned.
+>> - This numeric value determines the minimum amount of magical stamina that a magical user will need to be able to control and expend to successfully and correctly cast the spell.
+>> - While the strength of some spells can be impacted by the caster’s intelligence to some degree, it is not in fact the primary factor determining the spell casting capabilities of the individual.
+>> - Spellcasting is limited by the power of the soul.
+>> - The soul will primarily affect two things:
+>> 1. The maximum level of a spell of which an individual will be able to cast.
+>> 2. Partially the strength of the spell.
+>> - It was previously believed that the soul determined spellcasting stamina, more commonly referred to as spell slot count.
+>> - More recent research has found that it is the style of training and skill of the caster that determines spell slot count with casters of the same profession of similiar skill having a similar number of slots nearly always, with variations in spell slot count normally due to other variables such as special training.
+>> - It is nearly impossible to empower the soul without death.
+>> - More specifically the divine sparks that are shed from an individual’s soul upon their murder.
+>> - To the murderer/s go the spoil, with their souls being empowered from the bloodshed.
+>> - As a soul becomes more powerful however the soul requires the divine sparks of more and more powerful individuals.
 
-Xin-Bakrakhan,
+…
 
-Xin-Cyrusian,
+>> - How do arcane professions differ? And where does the magic of the arcane stem from?
+>> - In a previous chapter, we talked about spell slots, a precise measurement of the magical stamina required to cast a spell.
+>> - As this book is a fundamental primer to begin your understanding of the arcane I simplified the concept in that chapter.
+>> - A sufficiently strong spell slot, correct materials (if required) and the knowledge to cast the spell is not enough.
+>> - There is a base requirement known as a source.
+>> - This source must flow through the soul, formed by the verbal, empowered by the material and expelled with the somatic.
+>> - Arcane wielding professions tend to gather the source from divine sources or blood magic.
+>> - Some Gods lend their followers the ability to tap into the arcane by infusing their divine essence with the caster’s soul, supplying the energy required to expel arcane power.
+>> - The blood professions: blood-ragers, arcanists and sorcerers all use the very blood in their veins to wield the 
+     > arcane.
+>> - The latent magical potential in their blood is soul magic that has been infused in liquid form via planar radiation and then passed down genetically.
+>> - This occurs whether the origin point is a parent of highly infused magical potential (their body is infused with the magic of their soul) has bred with the other parent.
+>> - Or if the parent has been blessed, cursed or exposed to this magic in a concentrated dose either due to a magical item or planar exposure.
+>> - Wizards are not entirely different.
+>> - Part of our studious studying does require the knowledge to infuse our blood with the magics of our soul. 
+>> - However, this is a temporary effect lasting milliseconds during the casting of a spell, a flicker of infusion as opposed to a constant pool of energy to draw from.
+>> - Instead, the Wizard must apply their mind to the problem: the wizard needs a source.
+>> - Where do wizards pull from? What is the source for a wizard? The Astral Plane. Also known as the Silver Sea.
+>> - A potentially infinite source of magic.
+>> - A God has limitations, blood has limitations, but the Astral Plane? It is larger than any realm, it has more power than any God.
+>> - It is timeless, it is everlasting, and it is immeasurable.
+>> - The essence of the Astral Plane combines with a wizard’s soul evoking the Arcane.
 
-Xin-Edasseril,
+…
 
-Xin-Eurythnia,
+>> - For further studies of the arcane, seek out the libraries within any of the seven domain’s capital cities:
+>> - Xin-Bakrakhan, Xin-Cyrusian, Xin-Edasseril, Xin-Eurythnia, Xin-Gastash, Xin-Haruka or Xin-Shalast.
+>> - If you have significant clearance, you will of course find the greatest tomes on the Arcane in the crystal libraries in the Imperial Capital City of Xin.
 
-Xin-Gastash,
-
-Xin-Haruka
-
-or Xin-Shalast.
-
-If you have suffiencient clearance you will of course find the greatest tomes on the Arcane in the crystal libraries in the Imperial Capital City of Xin.”
-
-The book ends here, the index implies that you have read all of the entire text.
+>> - The book ends here; the index implies that you have read all of the entire text.
 
 ## 2. The Apocrypha.
 
 This brown book is slim, under a few hundred pages in length.
 
-Flicking through the book causes a slight headache for no desernable reason.
+Flicking through the book causes a slight headache for no discernible reason.
 
-Many pages of the book are blank, some pages are covered in endless scribes of ilegible text.
+Many pages of the book are blank, some pages are covered in endless scribes of an illegible text.
 
-The title seems to have been written in ink mixed with blood and some sort of copper mixture, giving the two words a brown-reddish colouring, like dirty blood.
+The title seems to have been written in ink mixed with blood and some sort of copper mixture, 
+giving the two words a brown-reddish colouration, like dirty blood.
 
-Despite its condition. something about this book gives off an impression that it is much, much newer than the older books in both the white tower and the sunken library.
+Despite its condition, something about this book gives off an impression that it is much, 
+much newer than the older books in both the white tower and the sunken library.
 
-“I write this collection of findings under a fake name.
+Content: 
+
+I write this collection of findings under a fake name.
 
 I do not want my writings to cause my life to shatter and die as I believe the world might do.
 
@@ -291,19 +229,22 @@ The empire’s celestial age, the greatest time in the age of legend, a time of 
 
 Now there are those worshipping the peacock spirit, no wonder Lissala has abandoned us.
 
-And who leads this heredical religion? Runelord Xanderghul of course.
+And who leads this heretical religion? Runelord Xanderghul, of course.
 
-His actions are the Violent Scism of Kaer Maga have in my belief have been more a cause of our current situation than even that of the passing of The Wise First Emperor Xin.
+His actions are the Violent Schism of Kaer Maga, in my belief, 
+have been more a cause of our current situation than even that of the passing of The Wise First Emperor Xin.
 
-Nowadats the Runelords fight their wars blindly and with great hatred, especial Alaznist and Karzoug.
+Nowadays, the Runelords fight their wars blindly and with great hatred, especial Alaznist and Karzoug.
 
 The war may yet burn us all from this world long before what I fear will come to rise.
 
 The name of this book is a reference to this, Apocrypha, texts that could be considered non-canonical.
 
-I consider this text to be an expersion of what I fear for the future, and yet I hope this book is considered the insane scribblings of a mad man.
+I consider this text to be an expression of what I fear for the future,
+and yet I hope this book is considered the insane scribblings of a madman.
 
-Something is coming and one thing is certain, if a diety of fate has gone silent it can only be a sign of the end times.”
+Something is coming, and one thing is certain,
+if a deity of fate has gone silent, it can only be a sign of the end times.
 
 The rest of the book is blank.
 
@@ -313,7 +254,7 @@ A collection of scrolls.
 
 Half the scrolls smell like the sweetest flower.
 
-The other half smell like magma and ash.
+The other half smells like magma and ash.
 
 Most have been redacted except this one scroll.
 
@@ -875,9 +816,9 @@ End of Report Booklet.
 
 The book is locked.
 
-The grey book is covered in chains, padlocks, etheral-bindings and arcane lock markings.
+The grey book is covered in chains, padlocks, ethereal-bindings and arcane lock markings.
 
-The name of the book is blue in colour, written in Thassilonian runic arcane notion.
+The name of the book is blue in colour, written in Thassilonian runic arcane notation.
 
 Saying the name of this book causes locks to open and the cover to flip open.
 
@@ -969,21 +910,21 @@ Engineer’s Work Gauntlet.
 
 This magical clockwork gauntlet is an invention designed to help with the inventing and construction of other clockwork devices.
 
-The development of this device has accelerated the development of Azlanti’s technological developments.
+The development of this device has accelerated the development of Azlanti's technological developments.
 
 The gauntlet’s magic imbues the wearer with an instinctive knowledge of mechanical devices to both repair and analyse mechanical devices.
 
 The gauntlet also grants Azlanti engineers the ability to immediately analyse a device, learning its purpose, methods of operation and any malfunctions (if present).
 
-These kind of innovations make me think that whilst Azlant may never catch up
+These kinds of innovations make me think that whilst Azlant may never catch up.
 
-![Engineers Workgloves.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/057666ba-9014-467e-8576-01041ea8eac2/Engineers_Workgloves.png)
+> Engineers Work gloves.png
 
 Aeon Display.
 
 A three-pronged magical candlestick holder that can hold up to 3 aeon stones.
 
-Any aeon stone placed on the Aeon Display grants its effects to all allies within 30 feet.
+Any aeon stone placed on the Aeon Display grants its effects to all allies within 30 feet (ca. 9 m).
 
 Additionally, when 3 aeon stones are placed upon the Aeon Display, the stones shine their light of their colours in a 
 large AOE around the wielder.

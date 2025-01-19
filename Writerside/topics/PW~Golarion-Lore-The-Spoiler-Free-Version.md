@@ -3,6 +3,73 @@
 ## Golarion Map.
 [Inner-Sea-Map](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/Inner-Sea-Map.pdf)
 
+> Days of the week.
+>> - Moonday: Generally a work day with some religions holding ceremonies at night.
+>> - Toilday: A work day.
+>> - Wealday: A work day. 
+>> - Oathday: A work day on which it is often considered advantageous to sign contracts and oaths. 
+>> - Fireday: A work day that is most often the market day.
+>> - Starday: A work day. 
+>> - Sunday: Generally a day of rest and one devoted to religious observances.
+
+> Month / Pronunciation / Alternative names / Days / Description.
+>> - Abadius (ah-BAY-dee-us). 
+>> 1. Prima.
+>> 2. 31 days.
+>> 3. The first month of the year, named in honour of Abadar.
+>> - Calistril (KAHL-izz-trihl).
+>> 1. Snappe. 
+>> 2. 28 days. 
+>> 3. A late winter month named for Calistria, goddess of revenge.
+>> - Pharast (fah-RAHST). 
+>> 1. Anu. 
+>> 2. 31 days. 
+>> 3. An early spring month named after Pharasma, the goddess of birth and death.
+>> - Gozran	(GOHZ-ran).	
+>> 1. Rusanne. 
+>> 2. 30 days. 
+>> 3. A stormy month named for the god of the wind, Gozreh.
+>> - Desnus	(DEZ-nuhs). 
+>> 1. Farlong. 
+>> 2. 31 days. 
+>> 3. A mild month named for the goddess Desna.
+>> - Sarenith (sa-REHN-ihth). 
+>> 1. Sola.	
+>> 2. 30 days. 
+>> 3. The sun goddess Sarenrae gives her name to this sun-blessed month.
+>> - Erastus (eh-RAS-tuhs).	
+>> 1. Fletch. 
+>> 2. 31 days. 
+>> 3. Named in honour of Erastil.
+>> - Arodus	(AIR-oh-duhs).
+>> 1. Hazen. 
+>> 2. 31 days. 
+>> 3. Although he is no longer widely worshiped, the summer month is named for the dead god Aroden.
+>> - Rova (ROH-va). 
+>> 1. Nuvar. 
+>> 2. 30 days.
+>> 3. The beginning of autumn is named after the violent god Rovagug. 
+>> 4. Dwarves dispute naming a month after such a destructive and evil deity and instead name the ninth month Torawsh after their creator god, Torag.
+>> - Lamashan (lah‑MAHSH‑ahn). 
+>> 1. Shaldo. 
+>> 2. 31 days. 
+>> 3. Named for Lamashtu, the goddess of monsters.
+>> - Neth (NEHTH). 
+>> 1. Joya. 
+>> 2. 30 days. 
+>> 3. Named for Nethys, the two-faced god of magic.
+>> - Kuthona (koo-THOH-nah). 
+>> 1. Kai. 
+>> 2. 31 days. 
+>> 3. The shortest day of the year comes during the month named after the god of darkness, Zon-Kuthon.
+
+> Seasons
+>> - The Inner Sea region has four seasons: winter, spring, summer and fall (or autumn). 
+>> - The months of Kuthona, Abadius, and Calistril are considered to fall in winter. 
+>> - Spring falls during Pharast, Gozreh, and Desna. 
+>> - Summer occurs during Sarenith, Erastus, and Arodus. 
+>> - Rova, Lamashan, and Neth are considered fall.
+
 ## The Seas of Golarion.
 1. Castrovin Sea.
 2. Fever Sea.
@@ -15,8 +82,8 @@
 9. Valashmai Sea
 
 ## The Oceans of Golarion.
-1. Antarkos Ocean = The Antarkos Ocean, which covers most of Golarion's southern hemisphere, including the South Pole, and is largely composed of a permanent ice shelf.
-2. Arcadian Ocean = The Arcadian Ocean, west of Avistan and Garund, east of Arcadia, and surrounding where Azlant once was.
+1. Antarkos Ocean = The Antarkos Ocean, which covers most of Golarion's Southern Hemisphere, including the South Pole, and is largely composed of a permanent ice shelf.
+2. Arcadian Ocean = The Arcadian Ocean, west of Avistan and Garund, east of Arcadia, and is surrounding where Azlant once was.
 3. The Embaral Ocean = The Embaral Ocean is touching Casmaron, Tian Xia, and Sarusan.
 4. The Obari Ocean = The Obari Ocean between Garund and Casmaron.
 5. The Okaiyo Ocean = The Okaiyo Ocean separating Tian Xia from Arcadia.
@@ -86,20 +153,20 @@ Abadar likes expanding built-up areas like cities.
 
 ## Asmodeus.
 
-The Archfiend.
-Dark Prince.
-The First.
-God-Fiend.
-King of Hell.
-Lord of Darkness.
-Lord of Hell.
-Lord of the Pit.
-Master of Witches.
-Prince of Darkness.
-Prince of Devils.
-Prince of Hell.
-Prince of Law.
-Ruler of Hell.
+>> - The Archfiend.
+>> - Dark Prince.
+>> - The First.
+>> - God-Fiend.
+>> - King of Hell.
+>> - Lord of Darkness.
+>> - Lord of Hell.
+>> - Lord of the Pit.
+>> - Master of Witches.
+>> - Prince of Darkness.
+>> - Prince of Devils.
+>> - Prince of Hell.
+>> - Prince of Law.
+>> - Ruler of Hell.
 
 1. Hell
 2. Tyranny
@@ -132,7 +199,7 @@ The Song of
 the Spheres
 The Great
 Dreamer
-Starsong
+Star song
 The Tender
 of Dreams
 Lady Luck
@@ -142,7 +209,7 @@ Goddess of
 the North Star
 Queen of
 the North Star
-Mother Moon
+Mother Moon.
 
 God of:
 1. Dreams
