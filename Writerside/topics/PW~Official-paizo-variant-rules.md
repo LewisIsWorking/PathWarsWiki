@@ -2,7 +2,9 @@
 
 Format = Rule Name - Sub-Rule - Status - Link
 
-> World 1 Campaign = Campaign 1 Doomsday Funtime.
+> World 1 Campaign.
+>> Campaign 1 Doomsday Funtime.
+>> Campaign 1 Riddleport.
 
 > World #2 contains all other path war campaigns:
 >> - Campaign 2 Crimson Throne.
