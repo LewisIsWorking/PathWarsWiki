@@ -8,7 +8,9 @@
 - System: Starfinder 2e (Pathfinder 2e with Starfinder 2e playtest).
 - Open Slots: 4.
 - Time & Frequency: constant (play by post).
-- Campaign Description: We are going to play through all of the Starfinder 2e play test's adventures.
+- Campaign Description: The same group of characters are going to play through all of the Starfinder 2e play test's 
+  adventures.
+- THIS IS NOT A WEST MARCH. I do not know why people always seem to assume this.
 
 >> Where does the group play? 
 >> - The Platform the group rolls on is Foundry, you do not need to buy anything, I will help you get set up, and it is 
@@ -18,9 +20,11 @@ totally free for players.
 - Setting: Starfinder's default Gap setting.
 - Level: 1. The campaign will go to level 15+.
 - I recommend using Pathbuilder to build your character.
+- You can use any PF2e content for character creation as well as the starfinder 2e playtest content.
 - We have the Starfinder 2e playtest foundry module.
 - What can I play regarding race, class, background, etc? Well, you can play anything.
 - You do not need to make your character a dual class.
+- The vetting process is on our discord server, **it is NOT in my DMs with you**.
 
 New players are welcome to DM me to join.
 :slight_smile:

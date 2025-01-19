@@ -9,6 +9,7 @@
 - Time & Frequency: Saturdays (main session), Sundays (role play & shopping session, completely optional).
 - Time zone: UK. Saturday time = 20:00.
 - Campaign Description: Stop the world from ending.
+- THIS IS NOT A WEST MARCH. I do not know why people always seem to assume this.
 
 The party are going around the world to discover what is going to cause the end of the world, whilst also discovering more about themselves.
 
@@ -20,6 +21,7 @@ The party are going around the world to discover what is going to cause the end 
 - What can I play regarding race, class, background, etc? Well, you can play anything.
 - Current party composition: Champion/Oracle, Barbarian/Witch, Magus/Witch and Exemplar/Gunslinger.
 - You do not need to make your character a dual class.
+- The vetting process is on our discord server, **it is NOT in my DMs with you**.
 
 New players are welcome to DM me to join.
 :slight_smile:
