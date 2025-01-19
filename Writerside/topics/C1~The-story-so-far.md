@@ -2,17 +2,17 @@
 
 Start typing here...
 
-## DF P1 Story.
-- [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
-- TODO: Not to self, move Notion content over.
+> DF P1 Story.
+>> - [DF Public P1 = Story.](https://www.notion.so/DF-Public-P1-Story-88d3805b1fbe4b9a8a2490e2e67b69d4?pvs=21)
+>> - TODO: Not to self, move Notion content over here to GH/Writerside.
 
-P1 arcs:
-1. The Thistle Top Arc.
-2. The Murder Arc.
-3. Shard of Lust Arc.
-4. The Tomb of Tular-Sept Arc.
-5. The Belhaim Arc.
-6. The Harrow Arc.
+> P1 arcs:
+>> 1. The Thistle Top Arc.
+>> 2. The Murder Arc.
+>> 3. Shard of Lust Arc.
+>> 4. The Tomb of Tular-Sept Arc.
+>> 5. The Belhaim Arc.
+>> 6. The Harrow Arc.
 
 ## DF P2 Arc list.
 

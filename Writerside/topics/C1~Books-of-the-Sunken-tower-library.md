@@ -16,7 +16,7 @@ The lunatic ravings of an insane Thassilonian Specialist Wizard, a practitioner 
 
 It seems they attempted to summon a Quippoth, succeeded and lost their mind for their trouble.
 
-Most of the arcane notions are useless, but a couple of spells look like they could be studied and learnt.
+Most of the arcane notations are useless, but a couple of spells look like they could be studied and learnt.
 
 The book contains the spells: invisibility and phantasmal force.
 

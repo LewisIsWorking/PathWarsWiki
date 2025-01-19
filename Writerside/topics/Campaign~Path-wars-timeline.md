@@ -13,9 +13,9 @@ past of campaigns set in the future such as Doomsday Funtime (4709 AR → 4710 A
 when determining if specific events have happened and for the purpose of unlocked items.
 >> A campaign in the past cannot benefit from a campaign set in the future.
 
-## Chronological Timeline of In-World Starting Dates.
+## Chronological Timeline of In-World (Golarion) Starting Dates.
 
-## **4700 AR.**
+## 4700 AR.
 
 > Etran's Folly #3. 4700 AR.
 >> - Campaign #3. Starts and Ends in 4700 AR.
@@ -26,103 +26,96 @@ when determining if specific events have happened and for the purpose of unlocke
 >> - The events of Kingmaker and Wrath of the Righteous take place during 4700 AR as well. 
 >> - Due to the events of Wrath of The Righteous, Nocticula is now the Redeemer, and Shamira, The Demon Lord of Seduction and Lost Dreams, is now the God of Lust and Succubi.
 
-## **4707 AR.**
+## 4707 AR.
 
-### The Grand Explorers #5. 4707 AR.
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
-
-Campaign #5. Year 1. IRL Start Date = 5th April 2023.
-
-This starts before the events of Crimson Throne in 4709 AR.
-The Grand Explorers has a 3-year time skip, putting the rest of the campaign in 4,710 AR.
+> The Grand Explorers #5. 4707 AR.
+>> - [Campaign~5-the-grand-explorers.md](Campaign~5-the-grand-explorers.md).
+>> - Campaign #5. Year 1. IRL Start Date = 5th April 2023. 
+>> - This starts before the events of Crimson Throne in 4709 AR.
+>> - The Grand Explorers has a 3-year time skip, putting the rest of the campaign in 4,710 AR.
+>> - Started in 4707, it is now set in 4710 AR.
 
 ## **4708 AR.**
 
-## Crimson Throne #2. 4708 AR.
-[Campaign #2 = Crimson Throne = 103 Sessions = Complete!](https://www.notion.so/Campaign-2-Crimson-Throne-103-Sessions-Complete-148b705c02f34b89a78c4a1ed0dc3246?pvs=21)
-
-Campaign #2. Starts and Ends in 4708 AR.
+> Crimson Throne #2. 4708 AR.
+>> - [Campaign~2-The-Crimson-Throne.md](Campaign~2-The-Crimson-Throne.md)
+>> - 103 sessions. 
+>> - Started and Ended in 4708 AR.
 
 ## **4709.**
 
-### Doomsday Funtime #1. 4709 AR.
-[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
+> Doomsday Funtime #1. 4709 AR.
+>> - [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+>> - Campaign #1. Starts in 4710 AR. Ends in 4719 AR.
+>> - 230+ sessions!
 
-Campaign #1. Starts in 4710 AR. Ends in 4719 AR.
-
-### Kibwe #6. 4709 AR.
-[Campaign #6 = Kibwe = 22nd & 23rd April 2023.](https://www.notion.so/Campaign-6-Kibwe-22nd-23rd-April-2023-a3ffa38cb1e543c0b05ce9586f85836c?pvs=21)
-
-Campaign #6.
+> Kibwe #6. 4709 AR.
+>> - [Campaign~6-kibwe.md](Campaign~6-kibwe.md)
+>> - 22nd April 2023.
 
 ## **4710 AR.**
 
-## Edge-watch #4. 4710 AR.
-[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
+> Edge-watch #4. 4710 AR.
+>> - [Campaign~4-Agents-of-Edgewatch.md](Campaign~4-Agents-of-Edgewatch.md)
 
-Campaign #4. Starts.
+> The Grand Explorers #5. 4710 AR.
+>> - [Campaign~5-the-grand-explorers.md](Campaign~5-the-grand-explorers.md)
+>> - April 5th, 2023 (correct year?). 
+>> - Campaign #5. 
+>> - Started in 4707 AR. 
+>> - 4710 AR is the year that the grand explorers continue post-3 year time skip.
 
-## The Grand Explorers #5. 4710 AR.
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
-
-Campaign #5.
-Started in 4708 AR.
-This is the year that the grand explorers continues post time skip.
-
-## **4711 AR.**
-
-## The Grand Explorers #5. 4711 AR.
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
-
-Campaign #5. This is Year 4 of the Grand Explorers. Started in 4708 AR.
+> Starfinder #7. 4710 AR.
+>> - [Campaign~7-Starfinder-2e.md](Campaign~7-Starfinder-2e.md).
+>> - Started: 2024-August-26th.
 
 ## 4719 AR.
 
-## Doomsday Funtime #1. 4719 AR.
-[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
-
-Campaign #1. Ends in 4719 AR. Started in 4709 AR.
+> Doomsday Funtime #1. 4719 AR.
+>> - [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+>> - Campaign #1. 
+>> - Ends in 4719 AR. 
+>> - Started in 4709 AR.
 
 ## IRL Campaign Start Dates Chronological Timeline.
 
-### Doomsday Funtime, campaign 1.
-[Campaign #1 = Doomsday Funtime = 190 Sessions = Ongoing.](https://www.notion.so/Campaign-1-Doomsday-Funtime-190-Sessions-Ongoing-834240a8522049f7a981e50cd7ff7667?pvs=21)
+> Doomsday Funtime, campaign 1.
+>> - [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md)
+>> - Campaign #1. 2018/2019 → Current year (2025).
 
-Campaign #1. 2018/2019 → Ongoing 2023.
+> Crimson Throne, campaign 2.
+>> - [Campaign~2-The-Crimson-Throne.md](Campaign~2-The-Crimson-Throne.md)
+>> - Campaign #2. 2019 → 2023.
 
-### Crimson Throne, campaign 2.
-[Campaign #2 = Crimson Throne = 103 Sessions = Complete!](https://www.notion.so/Campaign-2-Crimson-Throne-103-Sessions-Complete-148b705c02f34b89a78c4a1ed0dc3246?pvs=21)
+> Etran's Folly, campaign 3.
+>> - [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md)
+>> - Completed 2021. 
+>> - Campaign #3. 2020 → 2020. This took 1 day.
+>> - This campaign was completed twice, once in 2020/2021 over many sessions and once as a one shot in 2021.
 
-Campaign #2. 2019 → 2023.
+> Edge-watch, campaign 4.
+>> - [Campaign~4-Agents-of-Edgewatch.md](Campaign~4-Agents-of-Edgewatch.md).
+>> - Campaign #4. 2022 → Ongoing.
 
-### Etran's Folly, campaign 3.
-[Campaign #3 = Etran’s Folly = Complete 2021.](https://www.notion.so/Campaign-3-Etran-s-Folly-Complete-2021-5588d32df1ae4007a5660137b9bcf52c?pvs=21)
+> The Grand Explorers #5.
+>> - [Campaign~5-the-grand-explorers.md](Campaign~5-the-grand-explorers.md)
+>> - Started April 5th.
+>> - Maybe in 2020/2021?
 
-Campaign #3. 2020 → 2020. This took 1 day.
+> Kibwe #6. 4709 AR.
+>> - [Campaign~6-kibwe.md](Campaign~6-kibwe.md)
+>> - Started: 22nd April 2023.
 
-### Edge-watch, campaign 4.
-[Campaign #4 = Agents of Edge-watch = 2 Sessions.](https://www.notion.so/Campaign-4-Agents-of-Edgewatch-2-Sessions-d3d160923e504e6d8d15f2c6b2bb296e?pvs=21)
-
-Campaign #4. 2022 → Ongoing.
-
-### The Grand Explorers #5.
-[Campaign #5 = The Grand Explorers = Starts 5th April.](https://www.notion.so/Campaign-5-The-Grand-Explorers-Starts-5th-April-53e7007ab2a34fe1b6fe706262819e09?pvs=21)
-
-Campaign #5.
-
-Year 1 = 2023.
-
-Year 2 = ?
-
-Year 3 = ?
-
-Year 4 = ?
+> Starfinder #7. 4710 AR.
+>> - [Campaign~7-Starfinder-2e.md](Campaign~7-Starfinder-2e.md).
+>> - Started: 2024-August-26th.
 
 ## Campaign List.
 
-1. Doomsday Funtime. 
-2. Crimson Thrones. 
-3. Etran's Folly. 
-4. Edge-watch. 
-5. The Grand Explorers. 
-6. Kibwe.
+1. Doomsday Funtime. Ongoing.
+2. Crimson Thrones. Complete.
+3. Etran's Folly. Complete.
+4. Edge-watch. Ongoing.
+5. The Grand Explorers. Ongoing. 
+6. Kibwe. Ongoing.
+7. Starfinder. Ongoing.
