@@ -176,7 +176,9 @@ The first steps are the socials we use to organise the sessions and to chat abou
 
 ## Step #2.
 > Discord.
->> - Discord invite link: [](https://discord.gg/nAxna2DBk7).
+>> - Discord invite link: 
+
+[](https://discord.gg/nAxna2DBk7).
 
 > What is next? Establishing The Character’s Lore.
 >> - With these steps, we will establish the character alongside their backstory, traits, appearance and more!
