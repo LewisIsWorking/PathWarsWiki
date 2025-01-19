@@ -447,7 +447,7 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - Can you see via your token on Foundry? 
 >> - Can you turn your token on Foundry? 
 >> - If you answer all of the above with: “Yes”, then you are ready to play in the next session!
->> - You should find your campaigns on this notion on the Path Wars Homepage. 
+>> - You should find your campaigns on this wiki on the Path Wars Homepage. 
 >> - See more pages here on GitHub.
 
 **And with that, we should be ready to roll the dice, kill shit and have fun.** 😃.
