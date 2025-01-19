@@ -185,7 +185,7 @@ Parents and Family.
 
 Go to this page to find out your alignment scale.
 
-[Alignment Scale.](https://www.notion.so/Alignment-Scale-38cdca407b634f4081c9c17199892100?pvs=21)
+[PW-Alignment-scale.md](PW-Alignment-scale.md).
 
 ---
 
