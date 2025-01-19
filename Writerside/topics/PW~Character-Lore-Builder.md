@@ -18,7 +18,7 @@ Core.
 Age.
 
 For help on days, months and years of the world, 
-click the following link = [PW~Golarion-Lore-The-Spoiler-Free-Version.md](PW~Golarion-Lore-The-Spoiler-Free-Version.md)
+click the following link = [PW~Golarion-Lore-The-Spoiler-Free-Version.md](PW~Golarion-Lore-The-Spoiler-Free-Version.md).
 
 1. How old is your character?
 2. What year was your character born?
@@ -34,7 +34,7 @@ Class #1.
 
 Class #2.
 (If using dual class)
-Normally dual class is gained during a session via a powerful artifact or a given boon.
+Normally dual class is gained during a session via a powerful artefact or a given boon.
 You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.
 
 1. What will/is your character’s 2nd class be?
@@ -196,18 +196,18 @@ Go to this page to find out your alignment scale.
      > power, or finding their calling)?
 >> - Does your character have a relationship they want to build or repair (for example, with a family member, a
      > mentor, or even an estranged enemy)?
->> - Is there a location they’ve always wanted to visit or conquer? Why?
+>> - Is there a location they have always wanted to visit or conquer? Why?
 >> - Does your character have an ideal legacy they wish to leave behind?
->> - What is one immediate, achievable goal they’re pursuing right now?
+>> - What is one immediate, achievable goal they are pursuing right now?
 >> - Is there a wrong they feel compelled to make right, either for themselves or someone else?
 >> - What is a selfish desire they may not admit to others but secretly want to fulfill?
 
 > 2: What are (at least) 3 secrets your character is hiding from the party? Examples include:
->> - Do they have a past mistake or failure they’re ashamed of?
->> - Is there a relationship, alliance or obligation they haven’t told the party about (for example, a debt to a villain or membership in a questionable group)?
+>> - Do they have a past mistake or failure they are ashamed of?
+>> - Is there a relationship, alliance or obligation they have not told the party about (for example, a debt to a villain or membership in a questionable group)?
 >> - Are they concealing something magical, cursed, or otherwise unusual about themselves?
->> - Do they harbor feelings of jealousy, resentment or distrust toward a party member? Why?
->> - Is there an ulterior motive behind their reason for adventuring with the party that they haven’t shared?
+>> - Do they harbour feelings of jealousy, resentment or distrust toward a party member? Why?
+>> - Is there an ulterior motive behind their reason for adventuring with the party that they have not shared?
 
 > 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
 >> - Does your character have an unspoken grudge or tension with another party member?
