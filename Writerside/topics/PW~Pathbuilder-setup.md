@@ -4,7 +4,7 @@
 
 ## Example image on the mobile app.
 
-![PathBuilderSetup.jpg](PathBuilderSetup.jpg)
+![PathBuilderSetup.jpg](../images/PathBuilderSetup.jpg)
 
 ## New character
 
