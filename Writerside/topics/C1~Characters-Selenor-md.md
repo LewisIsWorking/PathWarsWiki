@@ -1,3 +1,0 @@
-# C1~Characters-Selenor.md
-
-Start typing here...
