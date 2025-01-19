@@ -1,11 +1,11 @@
 # Alissee's Trainer book(WIP).
 
-This is Alissee's trainer book containing feats she can teach to others temporarly.
+This is Alissee's trainer book containing feats she can teach to others temporarily.
 She can teach a number of feats equal to half her level rounded up in one hour to a number of people equal to half her level rounded up.
 
 This book contains:
 * All the Elf,Half-elf(Aiuvarin),Human and Changeling feats.
-* All the common witch and barbarian feats(except those related to a subclass different than hers.).
+* All the common witch and barbarian feats(except those related to a subclass different from hers.).
 * All the bloodrager feats.
 * All the Scrounger feats.
 * All the Familiar Master feats.
