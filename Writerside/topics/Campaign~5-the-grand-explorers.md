@@ -59,74 +59,18 @@ IQuain.
 
 ## Party Member Character List.
 
-### ??? - Eimer.
-
-Class: Bard & Investigator.
-Background: ???
-Race: Fetching.
-Subrace: aasimar nephilim.
-
-- A possible backstory #1 for character-x. 
-
-Character-x is Aekold Black-steel's younger sister.
-Aekold's father sired her when off at war.
-Aekold's father tried to do the right thing by raising character-x.
-Character-x watched Aekold for years, always wanting to follow him everywhere but being super shy.
-Aekold's mother asked the character-x to go find Aekold.
-Character-x heard that Aekold had joined a merchant ship.
-
-#### Character-x's Backstory.
-
-XXX was born on Golarion, not the shadow plane.
-
-A female ancestor was changed into an aasimar.
-The ancestor was on Golarion as well.
-
-##### Why did the angel bless the ancestor?
-The Ancestor did a great act.
-This great act earned the divine celestial blessing from the angel.
-
-The ancestor was in a rural town, they were the only family of fetching in the town.
-This ancestor saved a child.
-The child was drowning outside the town in the river.
-The ancestor was getting water for their family to drink.
-The ancestor leapt into the river and saved the child from drowning.
-The river's currents were known to be deadly,
-having killed many an unsuspecting swimmer, the ancestor knew this danger and leapt in regardless of the danger.
-
-This entire scenario was a test for the ancestor to see if they are pure of heart and selfless.
-This test was devised due to the incredible level of good within the heart of the ancestor.
-
-The ancestor thanked the angel and promised their family, 
-and all their descendants would live a wholesome and good-willed life until the end of time.
-
-##### Why was the ancestor so good and pure of heart?
-Despite facing discrimination for their shadow-plane lineage, the ancestor did not allow this to fester within them,
-instead choosing to embrace the world with a great level of kindness that the ancestor would never receive themselves.
-
-##### Did the ancestor worship the angel's deity?
-Yes, they worshipped Sarenrae.
-This is because the ancestor's family was brought to Golarion by a divine servant of Sarenrae many generations ago.
-The ancestor was not a cleric, but worshipped fully, with all their heart.
-
-##### ?'s life so far.
-
-X was born in the same town as their ancestor and all the descendants in between.
-
-### ? - Craig.
-
-### Aekold BlackSteel - Lance.
+### Aekold BlackSteel - Horia.
 
 Lance's backstory.
 https://github.com/JimmyJackJones/Jimmy-Characters/blob/master/Writerside/topics/Aekold.md#backstory
 
-? - Paddy.
+?: Paddy.
 
-? - Daniel Weir.
+?:  Daniel Weir.
 
-? — Ryan.
+?: Ryan.
 
-? - IQuain.
+?: IQuain.
 
 ## What do I need to play in this campaign?
 
@@ -211,7 +155,7 @@ On the man's shoulder is the same tattoo of the whale that Doctor Etward Ritalso
 He is a human with a slight mix of another race, causing his face to look ever so slightly non-human.
 
 This human is wearing a gambeson under a breastplate, leather gloves and boots,
-medium-sized traveling backpack on the back with a bedroll attached.
+medium-sized travelling backpack on the back with a bedroll attached.
 
 The woman looks to be in her mid-thirties.
 On the woman's wrist is the same tattoo of the whale that Doctor Etward Ritalson has.
@@ -334,7 +278,7 @@ They have diagrams of the group.
 
 They have plans to kill a group of adventurers.
 
-They find smartie sized brains on the alien’s bodies.
+They find some smartie-sized brains on the alien’s bodies.
 
 ## Session 12 = Year 1 + Mission 2 + 25th October 2023.
 

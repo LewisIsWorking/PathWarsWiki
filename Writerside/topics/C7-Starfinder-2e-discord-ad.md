@@ -1,4 +1,4 @@
-# PW~C7~Starfinder-2e-discord-ad.
+# C7~Starfinder-2e-discord-ad.
 
 - Title: Starfinder 2e (play by post).
 - There is a lot of information here, but you do not need to read all or any of it. DM me, and I will walk you 
