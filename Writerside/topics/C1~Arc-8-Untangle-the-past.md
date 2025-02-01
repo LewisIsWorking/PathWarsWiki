@@ -219,3 +219,9 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 > 15:30.
 >> - Allisee becomes a true polymath teacher.
+
+## Session 235.
+> 2025 January 25th Saturday + 4710 AR, 29th Arodus. + Eto part 5.
+
+> 16:00. Beggar's alley.
+>> Mummy delivery golem delivers Tywin's sealed-scroll to Carnon. 
