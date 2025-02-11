@@ -225,3 +225,40 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 > 16:00. Beggar's alley.
 >> Mummy delivery golem delivers Tywin's sealed-scroll to Carnon. 
+
+> Short session.
+
+## Session 236.
+> 2025 February 25th Saturday + 4710 AR, 29th Arodus. + Eto part 6.
+>> - IRL start time: 21:50.
+
+> 16:30. Beggar's alley.
+>> - Carnon & Allisee discuss the plan to carry out the tasks.
+>> - Carnon uses 200 GP to make an anaconda-teeth 200 gold piece puzzle box. DC: 32 medicine check.
+
+> 17:00. Dancing dunes.
+>> - Party discuss.
+>> - Talking to dancing dunes guards.
+>> - Lire told him his name, aka Lire.
+>> - Lire The Liar tells the guard that he wants to know more about Osiria, they have brought gifts and want to tell her about the horsemen. 
+>> - Allisee, Viole and Lire.
+>> - They are in the dancing dunes garden. 
+>> - Ronchus the half-elven servant.
+>> - Allisee talks to cleric about Alseta.
+>> - Lire talks about Findeladlara.
+
+> 18:00. Dancing dunes.
+>> - Talking to Zelekhati.
+>> - They tell Zelekhati that they work for Keleri Devrin.
+>> - Lire started a sentence with "I am undead."
+>> - Selenor is now with the group.
+>> - Junima's father is/was an elf.
+
+> 18:00. Grand master torch in an alleyway.
+
+> 18:30. Alchemy shop.
+>> - Kaito is here with the group.
+>> - The party are hiding expecting the assassin to come back.
+>> - 15-minutes pass: 18:45.
+
+
