@@ -229,7 +229,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > Short session.
 
 ## Session 236.
-> 2025 February 25th Saturday + 4710 AR, 29th Arodus. + Eto part 6.
+> 2025 February 1st Saturday + 4710 AR, 29th Arodus. + Eto part 6.
 >> - IRL start time: 21:50.
 
 > 16:30. Beggar's alley.

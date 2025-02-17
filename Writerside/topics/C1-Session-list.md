@@ -1,4 +1,4 @@
-# C1~## Session-list
+# C1~Session-list
 Start typing here...
 
 1. ## Session 1.
@@ -366,4 +366,4 @@ Start typing here...
 235. ## Session 235.
      - ## > 2025 January 25th Saturday + 4710 AR, 29th Arodus. + Eto part 5.
 236. ## Session 236.
-     - ## > 2025 February 25th Saturday + 4710 AR, 29th Arodus. + Eto part 6.
+     - ## > 2025 February 1st Saturday + 4710 AR, 29th Arodus. + Eto part 6.
