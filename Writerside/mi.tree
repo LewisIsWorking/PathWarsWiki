@@ -14,6 +14,7 @@
             <toc-element topic="PW~The-Monster-Parts-System.md"/>
         </toc-element>
         <toc-element topic="TOC~C1~lore.md">
+            <toc-element topic="C1-Session-list.md"/>
             <toc-element topic="C1~100-sessions-of-Selenor.md"/>
             <toc-element topic="C1~Arc-6-Gaunt-light.md"/>
             <toc-element topic="C1~Arc-7-Junima-rescue-arc.md"/>

@@ -884,7 +884,7 @@ Selenor gives Zon-Thufon priest 1 Platnium Coin.
 
 Emergency Town Meeting Time.
 
-The party agree to get the key.
+The party agrees to get the key.
 
 The party start to track the enemy.
 
@@ -894,7 +894,7 @@ The party start to track the enemy.
 
 12:00
 
-Avalance caused by twin gnomes.
+An Avalanche caused by twin gnomes.
 
 Allisse - Crit Fail
 

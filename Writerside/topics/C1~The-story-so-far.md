@@ -52,7 +52,7 @@ Start typing here...
 > Arc 999: Kaer Maga.
 >> - LOL.
 
-## Doomsday Funtime Part 2 = Session Quick Summary.
+## Doomsday Funtime Part 2 = Session Quick Summary. 
 
 Session 128.
 1. Campaign re-start session.

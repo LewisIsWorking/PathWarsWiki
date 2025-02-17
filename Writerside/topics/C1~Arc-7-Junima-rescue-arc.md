@@ -65,14 +65,14 @@ Modwinn is here.
 
 Allisee, Cardigan, Selenor agree to bring 'THIS AND THAT' items to Loras.
 
-## Session 215. 2024 June 24th Monday + 4710 AR, 26th Arodus. + Junima rescue part 4.
+## Session 216. 2024 June 24th Monday + 4710 AR, 26th Arodus. + Junima rescue part 4.
 
 Rescuing the ranger, Aleric.
 
 19:00.
 The party are at the Black rock mine.
 
-## Session 216. 2024 July 13th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 5.
+## Session 217. 2024 July 13th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 5.
 
 Selenor is in aerial form.
 10 minutes.
@@ -333,7 +333,7 @@ It will also adjust to Allisee's size.
 Tuds says:
 `Goodbye, but I am sure we will meet again.`
 
-## Session 217. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
+## Session 218. 2024 July 21st Sunday + 4710 AR, 26th Arodus. + Junima rescue part 6.
 
 19:30.
 Selenor unlocked the cellar.
@@ -362,7 +362,7 @@ Locus slowed 1 until round 11.
 20:30.
 Ghost fight over.
 
-## Session 218. 2024 August 10th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 7.
+## Session 219. 2024 August 10th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 7.
 
 Viole Jule Grace joins the group.
 
@@ -376,7 +376,7 @@ Viole Jule Grace joins the group.
 
 Allisee's mum is Yubis Dara!
 
-## Session 219. 2024 August 31st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 8.
+## Session 220. 2024 August 31st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 8.
 
 22:00.
 Vargos joins the party.
@@ -417,7 +417,7 @@ Viole is being pulled by Rovagog? Viole tries to pick up a femur to use a club, 
 
 Session ends.
 
-## Session 220. 2024 September 15th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 9.
+## Session 221. 2024 September 15th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 9.
 
 23:00.
 23:20. Refocus & take a breather.
@@ -447,7 +447,7 @@ The 2 missing Gods from the gravestones: MISSING and Nhimbaloth.
 - The party got the shield of Lissala.
 - Allisee & Selenor have BANE curse.
 
-## Session 221. 2024 September 21st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 10.
+## Session 222. 2024 September 21st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 10.
 
 - Viole cures the BANE curse.
 - Ritual room.
@@ -456,7 +456,7 @@ The 2 missing Gods from the gravestones: MISSING and Nhimbaloth.
 
 Raokan, the servant of the 5th, is released.
 
-## Session 222. 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
+## Session 223. 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
 
 Players present:
 1. Horia.
@@ -487,7 +487,7 @@ Carnon: 1.
 
 Resist: 16.
 
-## Session 223. 2024 November 3rd Sunday + 4710 AR, 27th Arodus. + Junima rescue part 12.
+## Session 224. 2024 November 3rd Sunday + 4710 AR, 27th Arodus. + Junima rescue part 12.
 
 On the plane of battle-zoo.
 
@@ -518,7 +518,7 @@ Aleric becomes a war daemon.
 > Runewild.
 >> - Junima finds the grave of her stillborn empty in the pool of the rabbit-turtle.
 
-## Session 224. 2024 November 16rd Saturday + 4710 AR, 27th Arodus. + Junima rescue part 13.
+## Session 225. 2024 November 16rd Saturday + 4710 AR, 27th Arodus. + Junima rescue part 13.
 
 Play by post:
 `Selenor places his hand on Junima's shoulder and says, 
