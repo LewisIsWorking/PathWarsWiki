@@ -272,7 +272,7 @@ Start typing here...
 193. ## Session 193
       - ## > 2023 October 8th Sunday + 4710 AR Erastus 25th + Gauntlight Part 4.
 194. ## Session 194
-      - ## > 2023 November 5th Sunday + 4710 AR  Erastus 26th + Gauntlight Part 5.
+      - ## > 2023 November 5th Sunday + 4710 AR Erastus 26th + Gauntlight Part 5.
 195. ## Session 195
       - ## > 2023 November 9th Wednesday + 4710 AR Erastus 26th + Gauntlight Part 6.
 196. ## Session 196

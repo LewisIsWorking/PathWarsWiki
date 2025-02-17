@@ -260,6 +260,3 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Kaito is here with the group.
 >> - The party are hiding expecting the assassin to come back.
 >> - 15-minutes pass: 18:45.
-
-
-
