@@ -248,7 +248,7 @@ Start typing here...
 182. ## Session 182
      - ## Saturday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady’s Light Moon Flower Ice Dragon.
 183. ## Session 183
-     - ## 2023 July 15th Tuesday + 4710 AR Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
+     - ## 2023 July 25th Tuesday + 4710 AR Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
 184. ## Session 184
      - ## 2023 August 5th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 1.
 185. ## Session 185
