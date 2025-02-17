@@ -248,103 +248,103 @@ Start typing here...
 182. ## Session 182
      - ## Saturday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady’s Light Moon Flower Ice Dragon.
 183. ## Session 183
-     - ## 2023 July 25th Tuesday + 4710 AR Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
+      - ## > 2023 July 25th Tuesday + 4710 AR Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
 184. ## Session 184
-     - ## 2023 August 5th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 1.
+      - ## > 2023 August 5th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 1.
 185. ## Session 185
-     - ## 2023 August 12th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 2.
+      - ## > 2023 August 12th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 2.
 186. ## Session 186
-     - ## 2023 August 19th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 3.
+      - ## > 2023 August 19th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 3.
 187. ## Session 187
-     - ## 2023 August 20th Sunday + 4710 AR Erastus 23rd Starday + Necropolis Part 4.
+      - ## > 2023 August 20th Sunday + 4710 AR Erastus 23rd Starday + Necropolis Part 4.
      - ## Session 187-1
      - ## Selenor becomes an Eternal Warden.
 188. ## Session 188
-     - ## 2023 August 26th Saturday+ 4710 AR Erastus 21st/24th + Amar Lilly Vale P2 & Admin Stuff.
+      - ## > 2023 August 26th Saturday+ 4710 AR Erastus 21st/24th + Amar Lilly Vale P2 & Admin Stuff.
 189. ## Session 189
-     - ## 2023 September 16th Saturday+ 4710 AR Erastus 24th + Amar Rookmoon re-joins the Party as the Harrower.
+      - ## > 2023 September 16th Saturday+ 4710 AR Erastus 24th + Amar Rookmoon re-joins the Party as the Harrower.
 190. ## Session 190
-     - ## 2023 September 17th Sunday + 4710 AR Erastus 24th + Gauntlight Part 1.
+      - ## > 2023 September 17th Sunday + 4710 AR Erastus 24th + Gauntlight Part 1.
 191. ## Session 191
-     - ## 2023 September 30th Saturday + 4710 AR Erastus 25th + Gauntlight Part 2.
+      - ## > 2023 September 30th Saturday + 4710 AR Erastus 25th + Gauntlight Part 2.
 192. ## Session 192
-     - ## 2023 September 31st Sunday + 4710 AR Erastus 25th + Gauntlight Part 3.
+      - ## > 2023 September 31st Sunday + 4710 AR Erastus 25th + Gauntlight Part 3.
 193. ## Session 193
-     - ## 2023 October 8th Sunday + 4710 AR Erastus 25th + Gauntlight Part 4.
+      - ## > 2023 October 8th Sunday + 4710 AR Erastus 25th + Gauntlight Part 4.
 194. ## Session 194
-     - ## 2023 November 5th Sunday + 4710 AR  Erastus 26th + Gauntlight Part 5.
+      - ## > 2023 November 5th Sunday + 4710 AR  Erastus 26th + Gauntlight Part 5.
 195. ## Session 195
-     - ## 2023 November 9th Wednesday + 4710 AR Erastus 26th + Gauntlight Part 6.
+      - ## > 2023 November 9th Wednesday + 4710 AR Erastus 26th + Gauntlight Part 6.
 196. ## Session 196
-     - ## 2023 November 18th Saturday+ 4710 AR Erastus 26th + Gaunt-light Part 7.
+      - ## > 2023 November 18th Saturday+ 4710 AR Erastus 26th + Gaunt-light Part 7.
 197. ## Session 197
-     - ## 2023 november 25th saturday + 4710 AR erastus 26th + Gaunt-light Part 8.
+      - ## > 2023 november 25th saturday + 4710 AR erastus 26th + Gaunt-light Part 8.
 198. ## Session 198
-     - ## 2023 december 2nd saturday+ 4710 AR erastus 26th + Gaunt-light Part 9.
+      - ## > 2023 december 2nd saturday+ 4710 AR erastus 26th + Gaunt-light Part 9.
 199. ## Session 199
-     - ## 2023 december 9th saturday + 4710 AR Erastus 26th + Gaunt-light part 10.
+      - ## > 2023 december 9th saturday + 4710 AR Erastus 26th + Gaunt-light part 10.
 200. ## Session 200!
-     - ## 2023 December 27th Wednesday + 4710 AR Erastus 26th + Bounty.
+      - ## > 2023 December 27th Wednesday + 4710 AR Erastus 26th + Bounty.
 201. ## Session 201
-     - ## 2023 December 30th Saturday + 4710 AR Erastus 27th + Bounty.
+      - ## > 2023 December 30th Saturday + 4710 AR Erastus 27th + Bounty.
 202. ## Session 202
-     - ## 2024 January 13th Saturday + 4710 AR Erastus 28th + Gaunt-light part 11.
+      - ## > 2024 January 13th Saturday + 4710 AR Erastus 28th + Gaunt-light part 11.
      - ## Session 202. Play By Post.
 203. ## Session 203.
-     - ## 2024 January 20th Saturday + 4710 AR Erastus 28th + Gaunt-light part 12.
+      - ## > 2024 January 20th Saturday + 4710 AR Erastus 28th + Gaunt-light part 12.
 204. ## Session 204.
-     - ## 2024 January 21ST Saturday + 4710 AR Erastus 28th + Gaunt-light part 13.
+      - ## > 2024 January 21ST Saturday + 4710 AR Erastus 28th + Gaunt-light part 13.
 205. ## Session 205.
-     - ## 2024 February 3rd Saturday + 4710 AR Erastus 28th + Gaunt-light part 14.
+      - ## > 2024 February 3rd Saturday + 4710 AR Erastus 28th + Gaunt-light part 14.
 206. ## Session 206.
-     - ## 2024 February 10th Saturday + 4710 AR Erastus 28th + Gaunt-light part 15.
+      - ## > 2024 February 10th Saturday + 4710 AR Erastus 28th + Gaunt-light part 15.
 207. ## Session 207.
-     - ## 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 16.
+      - ## > 2024 March 10th Sunday + 4710 AR Erastus 28th + Gaunt-light part 16.
 208. ## Session 208.
-     - ## 2024 March 24th Saturday + 4710 AR Erastus 28th + Gaunt-light part 17.
+      - ## > 2024 March 24th Saturday + 4710 AR Erastus 28th + Gaunt-light part 17.
 209. ## Session 209.
-     - ## 2024 April 1st Monday + 4710 AR Erastus 28th + Gaunt-light part 18.
+      - ## > 2024 April 1st Monday + 4710 AR Erastus 28th + Gaunt-light part 18.
 210. ## Session 210.
-     - ## 2024 April 20th Saturday + 4710 AR Erastus 29th + Gaunt-light part 19.
+      - ## > 2024 April 20th Saturday + 4710 AR Erastus 29th + Gaunt-light part 19.
 211. ## Session 211.
-     - ## 2024 April 28th Sunday + 4710 AR Erastus 29th + Gaunt-light part 20.
+      - ## > 2024 April 28th Sunday + 4710 AR Erastus 29th + Gaunt-light part 20.
 212. ## Session 212.
-     - ## 2024 May 5th Sunday + 4710 AR Erastus 29th + Gaunt-light part 21.
+      - ## > 2024 May 5th Sunday + 4710 AR Erastus 29th + Gaunt-light part 21.
 213. ## Session 213.
-     - ## 2024 May 27th Monday + 4710 AR Erastus 29th + Junima rescue part 1.
+      - ## > 2024 May 27th Monday + 4710 AR Erastus 29th + Junima rescue part 1.
 214. ## Session 214.
-     - ## 2024 June 8th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 2.
+      - ## > 2024 June 8th Saturday + 4710 AR, 26th Arodus. + Junima rescue part 2.
 215. ## Session 215.
-     - ## 2024 June 9th Sunday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 June 9th Sunday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 3.
 216. ## Session 216.
-     - ## 2024 June 24th Monday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 June 24th Monday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 4.
      - ## This was originally named Session 215, but it is actually session 216! Fixed: 17/02/2025.
 217. ## Session 217.
-     - ## 2024 July 13th Saturday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 July 13th Saturday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 5.
      - Info dump.
 218. ## Session 218.
-     - ## 2024 July 21st Sunday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 July 21st Sunday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 6.
 219. ## Session 219.
-     - ## 2024 August 10th Saturday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 August 10th Saturday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 7.
 220. ## Session 220.
-     - ## 2024 August 31st Saturday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 August 31st Saturday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 8.
 221. ## Session 221.
-     - ## 2024 September 15th Sunday + 4710 AR, 26th Arodus. + 
+      - ## > 2024 September 15th Sunday + 4710 AR, 26th Arodus. + 
      - ## Junima rescue part 9.
 222. ## Session 222.
-     - ## 2024 September 21st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 10.
+      - ## > 2024 September 21st Saturday + 4710 AR, 26th Arodus. + Junima rescue part 10.
 223. ## Session 223.
-     - ## 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
+      - ## > 2024 October 19th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 11.
 224. ## Session 224.
-     - ## 2024 November 3rd Sunday + 4710 AR, 27th Arodus. + Junima rescue part 12.
+      - ## > 2024 November 3rd Sunday + 4710 AR, 27th Arodus. + Junima rescue part 12.
 225. ## Session 225.
-     - ## 2024 November 16th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 13.
+      - ## > 2024 November 16th Saturday + 4710 AR, 27th Arodus. + Junima rescue part 13.
 226. ## Session 226.
      - ## > 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Untangle the past arc introduction.
 227. ## Session 227.
