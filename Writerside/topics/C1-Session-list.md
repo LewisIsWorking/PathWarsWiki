@@ -157,7 +157,7 @@ Start typing here...
 140. ## Session 140.
      - ## Sunday 6th November 2022 ### 11th Erastus. 4710 AR ### Shopping ## Session #2.
 141. ## Session 141.
-     - ## Sunday 6th November 2022 ### 12th Erastus. 4710 AR ### Shopping ## Session #3.
+     - ## Saturday 12th November 2022 ### 12th Erastus. 4710 AR ### Shopping ## Session #3.
 142. ## Session 142. 
      - ## Saturday 19th November 2022 ### 12th Erastus. 4710 AR ### Collapsing Halls Part 1.
 143. ## Session 143.
@@ -173,13 +173,13 @@ Start typing here...
 148. ## Session 148.
      - ## Saturday 17th December 2022 ### Shopping + Truth Teller Part 1.
 149. ## Session 149.
-     - ## Saturday 17th December 2022 ### Truth Teller Part 2. Lion fell Keep.
+     - ## Sunday 18th December 2022 ### Truth Teller Part 2. Lion fell Keep.
 150. ## Session 150.
      - ## Thursday 29th December 2022 ### Truth Teller Part 3.
      - ## Session 150-1.
      - ## Saturday 31st December 2022 ### Selenor does bounty-1 and Bounty-2.
      - ## Session 150-2.
-     - ## 2nd December 2022 ### Selenor Bounty #3 Part 2.
+     - ## 2nd January 2023 ### Selenor Bounty #3 Part 2.
 151. ## Session 151.
      - ## Saturday 11th February 2023 + 13th Erastus, 4710 AR + Selenor Bounty #3 Part 2.
 152. ## Session 152.
