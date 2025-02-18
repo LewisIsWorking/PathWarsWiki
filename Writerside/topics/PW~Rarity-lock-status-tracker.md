@@ -84,15 +84,18 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Relentless Stalker.
 >> - Wilderness Spotter.
 
+> Rituals. Common.
+>> - All common rituals are unlocked.
+
 > Rituals. Uncommon.
->> - Create Undead (Ghosts). 
-Rank 2. 
-Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). 
-During Arc-6 Gauntlight.
->> - Resurrect. 
-Rank 5.
-Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
-At the end of Arc-5 Necropolis.
+>> - Daemonic-pact. Rank 1. Unlocked: By the releasing of the horsemen at black rock mine.
+>> - Consecrate. Rank 2. Unlocked: Must be learned from a priest.
+>> - Heart-bond. Rank 2. Unlocked: Must be learned from a priest.
+>> - Create Undead (Ghosts). Rank 2. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Mystic carriage. Rank 3. Unlocked: GM's choice.
+>> - Atone. Rank 4. Unlocked: Must be learned from a priest.
+>> - Resurrect. Rank 5. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). At the end of Arc-5 Necropolis.
+>> - Binding-circle. Rank 6. Unlocked: GM's choice.
 >> - Teleportation Circle. Rank 7. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
 
 > Rituals. Rare.
