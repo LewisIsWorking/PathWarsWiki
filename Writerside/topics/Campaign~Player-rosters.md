@@ -1,20 +1,6 @@
 # Campaign~Player-rosters.
 
-## #1. Doomsday Funtime.
-
-### Current players.
-
-- 5/6.
-
-Here:
-
-- 001 = Horia = Selenor.
-- 002 = Anthony = Allisee.
-- 010 = Ross = Carnon.
-- 011 = Tony McMoonlight = Viole Jule Grace.
-- 013 = Sherfield = Lire.
-
-### List of all players.
+## List of all DF players (current and gone).
 
 1. 001 = Horia = Selenor. ACTIVE. 
 2. 002 = Anthony = Allisee. ACTIVE.
@@ -30,7 +16,7 @@ Here:
 12. 012 = Axo & Jessy = Plethryn & San Silver-fall. INACTIVE.
 13. 013 = Sherfield = Lire. ACTIVE.
 
-## Player Membership Log
+## DF Player Membership Log
 
 - 26/03/2023.
 Anubis_MonRa#6469 leaves the campaign. Anubis played Un-Trul an automaton gunslinger + magus.
@@ -48,43 +34,54 @@ Disbelief is now position #2.
 Dragon123459 has wiling dropped out of the queue.
 Then all the people below have moved up.
 
+## #1. Doomsday Funtime.
+
+- 5/6.
+
+> Here:
+>> - 001 = Horia = Selenor.
+>> - 002 = Anthony = Allisee.
+>> - 010 = Ross = Carnon.
+>> - 011 = Tony McMoonlight = Viole Jule Grace.
+>> - 013 = Sherfield = Lire.
+
+## #2. Crimson Throne. FINISHED!
+## #3. Etran's Folly. FINISHED!
+## #4. Agents of Edgewatch. PAUSED.
+
 ## #5. Grand explorers.
 
 - 5/6.
 
-Here:
+> Here:
+>> - Anthony. 
+>> - Eimer.
+>> - Horia.
+>> - Ryo.
+>> - Cannon.
 
-- Anthony. 
-- Eimer.
-- Horia.
-- Ryo.
-- Cannon.
-
-Gone:
-
-- Rebecca.
-- Craig.
-- Paddy.
-- Lance.
+> Gone:
+>> - Rebecca.
+>> - Craig.
+>> - Paddy.
+>> - Lance.
 
 ## #6. Kibwe.
 
 - 6/6.
 
-Here:
+> Here:
+>> - Anthony.
+>> - Ryo.
+>> - Buffer Raider.
+>> - Issac.
+>> - Horia.
+>> - Eimer.
 
-- Anthony.
-- Ryo.
-- Buffer Raider.
-- Issac.
-- Horia.
-- Eimer.
-
-Gone:
-
-- Rebecca.
-- Lorcan?
-- Ryan.
+> Gone:
+>> - Rebecca.
+>> - Lorcan?
+>> - Ryan.
 
 ## #7. Starfinder.
 
