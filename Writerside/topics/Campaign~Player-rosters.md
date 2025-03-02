@@ -1,5 +1,14 @@
 # Campaign~Player-rosters.
 
+Campaign List.
+1. DF.
+2. CT.
+3. EF.
+4. Agents of Edgewatch.
+5. The Grand Explorers.
+6. Kibwe.
+7. Starfinder.
+
 ## List of all DF players (current and gone).
 
 1. 001 = Horia = Selenor. ACTIVE. 
