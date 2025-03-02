@@ -80,12 +80,12 @@ Then all the people below have moved up.
 - 6/6.
 
 > Here:
->> - Anthony.
->> - Ryo.
->> - Buffer Raider.
->> - Issac.
->> - Horia.
->> - Eimer.
+>> - Anthony. @MrNegetZ
+>> - Ryo. @RyoYamakawa
+>> - Buffer Raider. @buffetraider
+>> - Issac. @errror01
+>> - Horia. @Nemesiux
+>> - Eimer. @HistoricallyInaccurate
 
 > Gone:
 >> - Rebecca.
@@ -94,6 +94,10 @@ Then all the people below have moved up.
 
 ## #7. Starfinder.
 
+> 4/6.
+
 > Here:
->> - Horia.
->> - Anthony.
+>> - Horia. Roneles. @Nemesiux
+>> - Anthony. Livy. @MrNegetZ
+>> - Revan | Anthony (not french) | SF Lysae
+>> - JB Ram | Kaeda @Jbram_2002
