@@ -58,7 +58,13 @@ Then all the people below have moved up.
 
 ## #2. Crimson Throne. FINISHED!
 ## #3. Etran's Folly. FINISHED!
-## #4. Agents of Edgewatch. PAUSED.
+## #4. Agents of MagniWatch.
+
+- 2/6.
+
+> Here:
+>> 1. Eimer = Zilde EvenGuard = @HistoricallyInaccurate.
+>> 2. Anthony = ??? = @MrNegetZ.
 
 ## #5. Grand explorers.
 
