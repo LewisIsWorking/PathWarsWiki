@@ -92,7 +92,7 @@ Then all the people below have moved up.
 
 > Gone:
 >> - Rebecca.
->> - Lorcan?
+>> - Lorcan.
 >> - Ryan.
 
 ## #7. Starfinder.
