@@ -25,6 +25,10 @@ Start typing here...
 
 ## NOTES: Long adventure 1/2: The Birthday Scream. Level 1 -> 4.
 
+> Ongoing notes.
+>> - The party took a salvage job from a vesk called Julz.
+>> - The party got into a lift, and the lift plummeted down to the "ghost levels".
+
 ## NOTES: Short adventure 1/4: Birna's Bubble. Level 1.
 
 ## NOTES: Short adventure 2/4: Bloom. Level 5.
