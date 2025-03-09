@@ -49,12 +49,12 @@ Then all the people below have moved up.
 - 6/6.
 
 > Here:
->> 1. 001 = Horia = Selenor.
->> 2. 002 = Anthony = Allisee.
->> 3. 010 = Ross = Carnon.
->> 4. 011 = Tony McMoonlight = Viole Jule Grace.
->> 5. 013 = Sherfield = Lire.
->> 6. 014 = Gus = Kaito.
+>> 1. 001 = Horia = Selenor = @Nemesiux.
+>> 2. 002 = Anthony = Allisee = @MrNegetZ.
+>> 3. 010 = Ross = Carnon = @Mossssssssssssssssssssssssss.
+>> 4. 011 = Tony McMoonlight = Viole Jule Grace = @Ltviolejuegrace.
+>> 5. 013 = Sherfield = Lire = @jay94rn.
+>> 6. 014 = Gus Choi = Kaito = @GusChoiSH.
 
 ## #2. Crimson Throne. FINISHED!
 ## #3. Etran's Folly. FINISHED!
@@ -65,11 +65,11 @@ Then all the people below have moved up.
 - 5/6.
 
 > Here:
->> 1. Anthony. 
->> 2. Eimer.
->> 3. Horia.
->> 4. Ryo.
->> 5. Cannon.
+>> 1. Anthony = Rubel = @MrNegetZ.
+>> 2. Eimer = Anaiel Black-Steel = Fetchling nephilim Gunslinger-WitchWarper= @HistoricallyInaccurate.
+>> 3. Horia = Aekold Black-Steel = Fetchling Fighter Ranger = @Nemesiux.
+>> 4. Ryo = Cyrus = Bard Champsion = @RyoYamakawa.
+>> 5. Cannon McMahon = Illiani = Monk Psychic = @ArtyArtillery.
 
 > Gone:
 >> - Rebecca.
@@ -82,13 +82,13 @@ Then all the people below have moved up.
 - 7/6.
 
 > Here:
->> 1. Anthony. @MrNegetZ 
->> 2. Ryo. @RyoYamakawa 
->> 3. Buffer Raider. @buffetraider 
->> 4. Issac. @errror01 
->> 5. Horia. @Nemesiux 
->> 6. Eimer. @HistoricallyInaccurate 
->> 7. Sherfield. @jay94rn
+>> 1. Anthony = Daichi = @MrNegetZ.
+>> 2. Ryo. @RyoYamakawa.
+>> 3. Buffer Raider = @buffetraider. 
+>> 4. Issac = @errror01.
+>> 5. Horia = @Nemesiux. 
+>> 6. Eimer = Leilani Kana = Hobbit Sorcerer Bard = @HistoricallyInaccurate. 
+>> 7. Sherfield = @jay94rn.
 
 > Gone:
 >> - Rebecca.
@@ -100,9 +100,9 @@ Then all the people below have moved up.
 > 6/6.
 
 > Here:
->> 1. Horia = Roneles = @Nemesiux
->> 2. Anthony = Livy = @MrNegetZ
->> 3. Revan | Anthony (not french) Lysae = Chua Data-fang = @Revan1734
->> 4. JB Ram | Kaeda = @Jbram_2002
->> 5. Billy Helps CosmosOfTheEndless.
+>> 1. Horia = Roneles = @Nemesiux.
+>> 2. Anthony = Livy = @MrNegetZ.
+>> 3. Revan | Anthony (not french) Lysae = Chua Data-fang = @Revan1734.
+>> 4. JB Ram | Kaeda = @Jbram_2002.
+>> 5. Billy Helps CosmosOfTheEndless = @Astra724.
 >> 6. Jayson Jolin.
