@@ -78,6 +78,7 @@
             <toc-element topic="PW~Writerside-setup.md"/>
         </toc-element>
         <toc-element topic="TOC~PathWars-campaigns.md">
+            <toc-element topic="Campaigns-by-duration.md"/>
             <toc-element topic="Campaign~1-Doomsday-Funtime.md"/>
             <toc-element topic="Campaign~2-The-Crimson-Throne.md"/>
             <toc-element topic="Campaign~3-Etrans-Folly.md"/>

@@ -260,3 +260,21 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Kaito is here with the group.
 >> - The party are hiding expecting the assassin to come back.
 >> - 15-minutes pass: 18:45.
+
+## Session 237.
+> 2025 March 8th Saturday + 4710 AR, 29th Arodus. + Eto part 7.
+>> - IRL start time: 21:20.
+>> - Players present: Anthony, Horia, Ross, Sherfield and Tony.
+
+> 19:00.
+>> - Still in alchemy shop.
+>> - Selenor has never had a pizza.
+>> - Lire consults the spirits, 10 minutes, CRITICAL SUCCESS.
+>> - Question 1: "What is the assassin's name?" Answer: "Kura."
+>> - Question 2: "Where are they?" Answer: "Sewer."
+>> - Lire of the Dark Archive speaks the following poem: 
+>> - She fell where none would carve her stone, No god to claim, no kin to mourn.
+>> - Only the wind, a fleeting sigh, To ask the stars, “But why? But why?”
+>> - Her name is lost, her tale unwept, A crimson vow her killer kept. And so she fades, as shadows must,
+>> - From blood to dust, from dust to dust.
+>> - They found her secret bunker in the sewer!
