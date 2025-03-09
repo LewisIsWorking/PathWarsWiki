@@ -24,11 +24,12 @@ Campaign List.
 11. 011 = Tony McMoonlight = Viole Jule Grace. ACTIVE.
 12. 012 = Axo & Jessy = Plethryn & San Silver-fall. INACTIVE.
 13. 013 = Sherfield = Lire. ACTIVE.
+14. 014 = Gus = Kaito. ACTIVE.
 
 ## DF Player Membership Log
 
 - 26/03/2023.
-Anubis_MonRa#6469 leaves the campaign. Anubis played Un-Trul an automaton gunslinger + magus.
+Anubis-MonRa#6469 leaves the campaign. Anubis played Un-Trul an automaton gunslinger + magus.
 
 - 29/03/2023.
 Brian C.#0055 leaves the queue due to IRL commitments.
@@ -45,14 +46,15 @@ Then all the people below have moved up.
 
 ## #1. Doomsday Funtime.
 
-- 5/6.
+- 6/6.
 
 > Here:
->> - 001 = Horia = Selenor.
->> - 002 = Anthony = Allisee.
->> - 010 = Ross = Carnon.
->> - 011 = Tony McMoonlight = Viole Jule Grace.
->> - 013 = Sherfield = Lire.
+>> 1. 001 = Horia = Selenor.
+>> 2. 002 = Anthony = Allisee.
+>> 3. 010 = Ross = Carnon.
+>> 4. 011 = Tony McMoonlight = Viole Jule Grace.
+>> 5. 013 = Sherfield = Lire.
+>> 6. 014 = Gus = Kaito.
 
 ## #2. Crimson Throne. FINISHED!
 ## #3. Etran's Folly. FINISHED!
@@ -63,11 +65,11 @@ Then all the people below have moved up.
 - 5/6.
 
 > Here:
->> - Anthony. 
->> - Eimer.
->> - Horia.
->> - Ryo.
->> - Cannon.
+>> 1. Anthony. 
+>> 2. Eimer.
+>> 3. Horia.
+>> 4. Ryo.
+>> 5. Cannon.
 
 > Gone:
 >> - Rebecca.
@@ -77,15 +79,16 @@ Then all the people below have moved up.
 
 ## #6. Kibwe.
 
-- 6/6.
+- 7/6.
 
 > Here:
->> - Anthony. @MrNegetZ
->> - Ryo. @RyoYamakawa
->> - Buffer Raider. @buffetraider
->> - Issac. @errror01
->> - Horia. @Nemesiux
->> - Eimer. @HistoricallyInaccurate
+>> 1. Anthony. @MrNegetZ 
+>> 2. Ryo. @RyoYamakawa 
+>> 3. Buffer Raider. @buffetraider 
+>> 4. Issac. @errror01 
+>> 5. Horia. @Nemesiux 
+>> 6. Eimer. @HistoricallyInaccurate 
+>> 7. Sherfield. @jay94rn
 
 > Gone:
 >> - Rebecca.
@@ -94,10 +97,12 @@ Then all the people below have moved up.
 
 ## #7. Starfinder.
 
-> 4/6.
+> 6/6.
 
 > Here:
->> - Horia. Roneles. @Nemesiux
->> - Anthony. Livy. @MrNegetZ
->> - Revan | Anthony (not french) | SF Lysae
->> - JB Ram | Kaeda @Jbram_2002
+>> 1. Horia = Roneles = @Nemesiux
+>> 2. Anthony = Livy = @MrNegetZ
+>> 3. Revan | Anthony (not french) Lysae = Chua Data-fang = @Revan1734
+>> 4. JB Ram | Kaeda = @Jbram_2002
+>> 5. Billy Helps CosmosOfTheEndless.
+>> 6. Jayson Jolin.
