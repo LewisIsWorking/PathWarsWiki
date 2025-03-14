@@ -36,8 +36,9 @@ Brian C.#0055 leaves the queue due to IRL commitments.
 Brian C was 2nd in the queue.
 
 - 02/04/2023.
-Disbelief_99#0595 has willingly dropped to position #2 on the queue because he can’t commit to the DF campaign right now.
-That brings Laucian#1802 to the #1 position on the queue.
+Disbelief_99#0595 has willingly dropped to position #2 in the queue.
+This is because he cannot commit to the DF campaign right now.
+That brings Laucian#1802 to the #1 position in the queue.
 Disbelief is now position #2.
 
 - 14/04/2023.
@@ -60,11 +61,15 @@ Then all the people below have moved up.
 ## #3. Etran's Folly. FINISHED!
 ## #4. Agents of MagniWatch.
 
-- 2/6.
+- 6/6.
 
 > Here:
 >> 1. Eimer = Zilde EvenGuard = @HistoricallyInaccurate.
->> 2. Anthony = ??? = @MrNegetZ.
+>> 2. Anthony = ??? = @MrNegetZ. 
+>> 3. Cannon. @ArtyArtillery 
+>> 4. Anthony #2. @Revan1734 
+>> 5. Horia. @Nemesiux 
+>> 6. Sherfield. @jay94rn
 
 ## #5. Grand explorers.
 
@@ -74,7 +79,7 @@ Then all the people below have moved up.
 >> 1. Anthony = Rubel = @MrNegetZ.
 >> 2. Eimer = Anaiel Black-Steel = Fetchling nephilim Gunslinger-WitchWarper= @HistoricallyInaccurate.
 >> 3. Horia = Aekold Black-Steel = Fetchling Fighter Ranger = @Nemesiux.
->> 4. Ryo = Cyrus = Bard Champsion = @RyoYamakawa.
+>> 4. Ryo = Cyrus = Bard Champion = @RyoYamakawa.
 >> 5. Cannon McMahon = Illiani = Monk Psychic = @ArtyArtillery.
 
 > Gone:
