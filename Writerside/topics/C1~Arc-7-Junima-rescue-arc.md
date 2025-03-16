@@ -404,7 +404,7 @@ He is a vagina that ha- no no no too far.
 
 Behind the door is a staircase that descends downwards a few meters, and makes is filled with skeletons. Tim says he 
 will guard his wives' rears and stay behind. (alternatively, his autism makes him count each skeleton). 
-Some skeletons has necromantic symbols. Not necessarily unholy, but more Dhampiric undeath.  
+Some skeletons have necromantic symbols. Not necessarily unholy, but more Dhampiric undeath.  
 As we travel through the crypts, the skeletons pop out, some not being able to fully animate, and instead just the heads pop up, (the source of their reanimation). Further into the crypt, a massive hulking bone creature moves ahead, crushing several piles of bones. Above average wyvern.
 
 Combat Ensues. 
@@ -415,7 +415,7 @@ Allisee finds a box with an old draconic sigil, pre Syn Riders.
 Height of their power, before the fall. Inside is a bobblehead of a dragon. Ornament? Syn Rider Merch. Dragon Pop Head. 
 Viole is being pulled by Rovagog? Viole tries to pick up a femur to use a club, but Allisee start to harass them about their Femur's extended warrantee.
 
-Session ends.
+The Session ends.
 
 ## Session 221. 2024 September 15th Sunday + 4710 AR, 26th Arodus. + Junima rescue part 9.
 
@@ -529,7 +529,7 @@ Instead, you ended up with an abusive mother who created you as a weapon for her
 
 "I am sorry that your chance at motherhood was robbed by unknown enemies, and your child’s grave disturbed.
 All I can say is that I will never understand why mortals, outsiders, gods
-and even my creators keep saying, ‘You don’t know what people would do for love.’
+and even my creators keep saying, ‘You do not know what people would do for love.’
 
 "Zilif’s love for his daughter doomed many, and yet, if she knew what he had done, she would hate him.
 Your love for your daughter, and for Camadaithe,
@@ -560,8 +560,8 @@ you must embrace your powers and call-to-arms the long-dead heroes of the Hag Wa
 Whatever you choose, I will stand by your side not out of love,
 but I do care about you, and it is my duty as your grand-creation to assist you in any way I can.”
 
-Selenor after a deep sigh says "`You’ve got a good heart.
-Don’t ever lose it, no matter how hard the world tries to break you."
+Selenor, after a deep sigh says "`You have got a good heart.
+Do not ever lose it, no matter how hard the world tries to break you."
 
 - Selenor & Junima hug.
 

@@ -278,3 +278,27 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Her name is lost, her tale unwept, A crimson vow her killer kept. And so she fades, as shadows must,
 >> - From blood to dust, from dust to dust.
 >> - They found her secret bunker in the sewer!
+
+## Session 238.
+> 2025 March 15th Saturday + 4710 AR, 29th Arodus. + Eto part 8.
+>> - IRL start time: 21:46.
+>> - Players present: Anthony, Horia, Ross and Luke.
+
+> 19:30.
+>> - The party agrees with the red mantis assassin that they will not kill her.
+>> - The party meet Rino, the greatest rhino magma dragon ever.
+>> - Rino is the slave of the red mantis assassin.
+>> - The group is talking to the 100 finger gang.
+
+> 20:00.
+>> - Go to herbalist shop with old halfling woman scribe.
+>> - Talk to her, show her an illusion of the corpse, go back to Beggar's alley.
+>> - Tom the boy.
+>> - With a 48 diplomacy check, Tom the 8-year-old pickpocket now worships Selenor.
+>> - Selenor gives Tom a platinum coin.
+>> - Shackle is 2nd in command.
+
+> 20:30.
+>> - Party talk to Torch. They kill the assassin.
+>> - Torch reads the 100-finger gang's letter.
+>> - Professor Lozar.

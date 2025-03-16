@@ -9,15 +9,15 @@
 - Time & Frequency: Saturdays (main session), Sundays (role play & shopping session, completely optional).
 - Time zone: UK. Saturday time = 20:00.
 - Campaign Description: Stop the world from ending.
-- THIS IS NOT A WEST MARCH. I do not know why people always seem to assume this.
+- THIS IS NOT A WEST MARCH. I do not know why people always assume this.
 
-The party are going around the world to discover what is going to cause the end of the world, whilst also discovering more about themselves.
+The party are going around the world to discover what will cause the end of the world, whilst also discovering more about themselves.
 
 - Where does the group play? The Platform the group plays on is Foundry, you do not need to buy anything, I will help you get set up, and it is totally free for players.
 - Setting: Golarion.
 - Level: 11. The campaign will go to level 20.
 - The group uses Discord for voice/video calls & telegram for texting and out-of-session play-by-posts.
-- I recommend using Pathbuilder to build your character.
+- I recommend using Path-Builder to build your character.
 - What can I play regarding race, class, background, etc? Well, you can play anything.
 - Current party composition: Champion/Oracle, Barbarian/Witch, Magus/Witch and Exemplar/Gunslinger.
 - You do not need to make your character a dual class.
@@ -33,6 +33,7 @@ You can also reach out to our campaign helpers:
 @nemesiux
 @owen.l.h.man
 @.moonlightwander
+@sherfield
 
 ## DO NOT PUT LINKS???
 

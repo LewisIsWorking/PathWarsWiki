@@ -467,4 +467,40 @@ Monster parts:
 > Level 11. + 40.
 >> - Carnon. Level 11. Exp: 430 + 40 = 470.
 >> - Lt. Viole Jule Grace. Level 11. Exp: 470 + 40 = 510.
->> - Allisee. Level 11. Exp: 510 + 40 = 550..
+>> - Allisee. Level 11. Exp: 510 + 40 = 550.
+
+## Session 238.
+> 2025 March 15th Saturday + 4710 AR, 29th Arodus. + Eto part 8.
+>> - Cardigan, Lire, Carnon, Selenor and Allisee fight 2x rope golems.
+
+> Present characters.
+>> - Lire. Level 11. Exp: 0.
+>> - Carnon. Level 11. Exp: 470.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 510.
+>> - Allisee. Level 11. Exp: 550.
+>> - Selenor. Level 12. Exp: 0.
+>> - Cardigan. Level 12. Exp: 555.
+
+> Rope golems x 2.
+>> - Monster parts: 100 GP x 2. Looted by Allisee.
+>> - Size = Large.
+>> - Level 11 = 10 x 2 = 20.
+>> - Level 12 = 0 x 2 = 0.
+
+> Red Mantis Assassin.
+>> - Monster parts = 200 x 1. Looted by Lire.
+>> - Size = Medium.
+>> - Level 11 = 20 x 1 = 20.
+>> - Level 12 = 15 x 1 = 15.
+
+> Total exp.
+>> - Level 11 = 20 + 20 = 40.
+>> - Level 12 = 0 + 15 = 15.
+
+> New Totals.
+>> - Lire. Level 11. Exp: 0 + 40 = 40.
+>> - Carnon. Level 11. Exp: 470 + 40 = 510.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 510 + 40 = 550.
+>> - Allisee. Level 11. Exp: 550 + 40 = 590.
+>> - Selenor. Level 12. Exp: 0 + 15 = 15.
+>> - Cardigan. Level 12. Exp: 555 + 15 = 570.
