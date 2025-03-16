@@ -18,6 +18,181 @@ Tammerhawk ended up spending an entire fortune and like,
 every even mildly magical man (I mean seriously, she included carnon in the ritual) to activate it.
 Then asked us to view the past and help her sort out her memories.
 
+## Session 221 August 11th. 
+Ross
+Carnon finds themselves freed from their temporary trap, and immediately finds themselves in a fray. An army of skeletons charging at a strange band of folk.
+Carnon springs into action, immediately firing off magic shots, throwing magic shots into the the grouping of skeletons. 
+Selenor introduces themselves as from Korvosa. 
+Allisee starts to craft an item, Carnon attempts to help and makes the Dancing armour for cardigan. Selenor's grandmother needs saving from evil people. 
+The spirit realm used to be a prison, and now Grandmother's power is being used by the evil people. Time loop? In the rune-wild they experienced a Time event.
+Four weeks into the future. Juminais being used to try to free an evil god from their prison. The Evil people are orcs. Tall mean green orcs. 
+
+## Session 222 August 31st
+Ross
+We open the portal to Selanors Grandma. Out comes the grandma. We Are in a dark, forgotten place. The rocks that Viole picks up brings out visions of Doom and destruction.
+Carnon picks up a different, smaller rock and his inner connection to the universe DARKENS AROUND HIS FINGERS. 
+Carnon drops it and backs away in fear. Selenor, sensing a competition, picks up a bigger one, and as he does it EXPLODES. Going on a frenzy to try to clear the blocked passage, he clears a few rocks but one of the rocks fights back, sliding right through Selenor's hand. 
+One the door is 9 circles. One is cracked. One is merging with another. 
+A crystal lotus vision appears. Most of them are fading in and out and have few details. 
+One of them is a symbol for the moon. This is cracked and damaged. Selenor explodes more rocks, and reveals a tunnel that has had something dragged through it. 
+One of Ex Ranger Knight Captain of the Knights of Lost Tim's Wives tries to dig through the black rock, but the black rock fights back and sends him the vision of more destruction. 
+Ex Ranger Knight Captain of the Knights of Lost Tim becomes CHANGED?? Turns into a sort of EEL. Unholy eel? Unholy Consecrated? Tim gets touched by Viole, and Tim's eel features try to stick onto Viole, and Viole gets a rash. 
+Something stops Viole from getting infected. God symbols, god names makes them glow. 
+
+Pharasma, Asmodeus, Crystal Lotus, Sarenrae, Desna, Nimbologue, Arestil, cracked diety. Achaehek
+
+Carnon knows so much. He recognises something rather strange. This seal was made by about 8 different DIVINE castors. 
+This strange unlikely alliance were able to channel the power of the deities to create a unifying seal. 
+This is a MYTHICAL seal barrier. If this seal is ever to be opened, it means that ever deity allows them to open it. 
+Selenor puts his hand in the middle of the door, as his body gets covered in strange, intricate designs. 
+He floats centimetres of the ground, as books start to float around him, and he glows in a grey flame, and the door unlocks. 
+
+This motherfucker just channelled 8 different divines, and bypassed their lock. 
+Selenor has Screwdrivered his screw. He has hammered his nail.
+He is a cup that has been filled with water. 
+He is a vagina that ha- no no no too far. 
+
+Behind the door is a stair case that descends down a few meters, and makes is filled with skeletons. 
+Tim says he will guard his wives' rears and stay behind. (alternatively, his autism makes him count each skeleton) 
+Some of the skeletons has necromantic symbols. Not necessarily unholy, but more Dhampiric undeath.  
+As we travel through the crypts, the skeletons pop out, some not being able to fully animate, and instead just the heads pop up, (the source of their reanimation). 
+Further into the crypt, a massive hulking bone creature moves ahead, crushing several piles of bones. Above average wyvern. 
+
+Combat Ensues. Allisee explodes and cracks a skeleton into a laser beam of magic. 
+Carnon's Gun explodes in his face. Viole spell strikes. Allisee takes 15 minutes to do their turn. Selenor does a lot of damage, Carnon's turn takes 15 seconds. 
+Cardigan does good world play. Viole shivers the skeletons timbres. Selenor does more damage. Allisee does ??? The Totally not drake flies up 20 feet, shoots a bone at allisee. 
+The skulls does more soul sucking. Allisee is extremely resistant to sucking. (does she not have a soul, therefore immune?) Allisee begs Selenor for help. 
+Selenor tries a high jump on moving, shambling ground filled with bones, and surprising everyone succeeds. Carnon strolls down to shoot the skull, and Viole finishes it off. Combat Ends. 
+
+Allisee finds a box with an old draconic sigil, pre Syn Riders. Height of their power, before the fall. 
+nside is a bobblehead of a dragon. Ornament? Syn Rider Merch. Dragon Pop Head. Viole is being pulled by Rovagog? 
+Viole tries to pick up a femur to use a club, but Allisee start to harass them about their Femur's extended warrantee. 
+## Session 223 September 15th
+
+Ross
+New room. Door that is like the first but it is different! Selenor tries to open the door, but the symbols slip off the wall and become magical dirt that then turns into magical brightly but dimly lit lights in the air. This turns into a star map / planetarium. 
+1. Pharasma, 
+2. Asmodeus, Symbol is there twice
+3. Missing
+4. Sarenrae,
+5. Nhimbaloth, 
+6. Erastil.
+7. Desna.
+8. Mantis god. 
+
+
+Touching mantis god grave causes a vision of me being ripped apart, and then a spirit gets sucked into the grave stone. Selenor does spirit sense and looks to the Pharasma grave. 
+## Session 224 September 21st
+Ross
+Carnon helps Selenor's new affliction with some herbal medicine. Selenor did not take his fire training safety, and burns his hand on the hot door knob. 
+Allisee attempts to judge the worth of the door, and finds out the door judges back. Past this door is what appears to be a ritual chamber, complete with candles and geometric patterns and a gold youtube play button. 
+Lissala appears to be binding something symbolically in this chamber. These representations might be demi god tier threats to the universe. 
+These images are banished from the material plane? This room is not very kind to Carnon, and must be in cahoots with the corrupt hellknights and Korvosan officials. 
+The room is also not kind to Viole. Runes of old magic pierce into Viole's thigh, and glow with a white flame light as Viole begins to barbeque, but then suddenly that light turns into a seven pointed star, and Viole now plays on easy mode. 
+Viole and Allisee do their best to gaslight a room into thinking they're good altar boys, and then the book gets a glow up. The book it's the largest source of Lissalian Lore.
+
+ Allisee comes up with the in-genius plan of waiting, because she believes that the bad guys would not have been capable of closing the door behind them. 
+Carnon contacts the voices about this plan, and both the voices and Selenor agree that waiting is not the best course of action. So Viole and Allisee once again cosplay as good altar boys. 
+They bring the tablet into the middle of the room, and the statues in the room activate. An undead ghoulic man, a regular woman, a ware human, Angelic woman. 
+As the ritual continues, the faces on the statues shift between thousands of different forms. The statues crumble and break at the same time as the door. 
+This reveals a doorway, and we all instinctively know that we are about to enter the prisoners chamber. 
+
+
+Junima is wrapped in shadowy black chains. Next to her is Zillith? Tempest Arrow? The creature they freed from the Nercopolis and Zillith. 
+Zillith threathens to kill Jumina via the most painful death imaginable. Selenor is called impulsive. 
+Selenor strikes back with a zinger. Zillith is an agent of death. The world is coming to an end! Doomsday is approaching! War for creation? 
+Who most mortals believe in Rovagog. A magical pact was sealed, and a deity was sealed. Four of his followers helped seal that diety. 
+Now they must be freed and allowed to interact with the prime material plane. Aliens are real? billions of worlds?? 
+Death himself knows of Selenor's Grandfather. Death fears Grandaddy. Grandaddy has a lot of magic lore (arcana expert? less go) Selenor is a very good screwdriver. 
+Selenor can trade Jumina in exchange for releasing the Blackrock Prisoner. Zillith has bribed and got several of our previous allies with feats of power and might. 
+Zillith has *much* reinforcement. Death has a glimmer in his eyes. Zillith is not an enemy, but must obey. The Master must survive. 
+The pact must be broken? The blackrock prisoner's master is the only being besides Rovagog who could slay Pharasma easily. 
+Ten Thousand years ago he sold his soul to save his daughter, at the end of the age of Legend, just as the age of darkness begins. 
+Zillith gets called a scaredy cat. Selenor has an aura of fear. Zillith has a powerful ward inscribed on his palm. Death has restricted freedom, but that restriction is too tight to allow Death to stop Doomsday. 
+
+Selenor will free the blackrock prisoner. A Tian Xia woman starts to speak telepathically. Jumina is a "wee girl". Selenor starts to communicate with the blackrock prisoner. Selenor, I've come to bargain. This man's master will kill death, like it's a small trivial thing. Selenors grandfather was a bookmaker. Within Selenor there are pages of books, books written by a traveller. The author spoke to everyone, death, angels, Asomdeus, Pharasma and master included. Death's power comes from the master. Selenor vows oblivion upon Death. Master is the god of OBLIVION? Selenor frees the prisoner, and as he does the multiverse ripples. Prisoner snaps his fingers twice, and breaks the chains on Jumina, and destroys Zillith's wings. The prisoner speaks out and says "Tell the horseman of the apocalypse the fifth is coming" 
+## Session 225 October 19th
+Ross
+He has released four of the most powerful fiends that exist. Zillif wants to return to the realm of death with his companions. Selenor wants undead skeletons. Selenor does indeed receive skeletons buddies. Death begins to grumble and speak chant, Zilif says "farewell, as the worst is just ahead of you" and vanishes beneath Death's cloak
+
+High priest of Sett wants the smoke. High priest of sett is going 1v20 all of the skeletos. Carnon gets paralyzed. 
+## Session 226 November 3rd. 
+Ross
+Allisee takes all the loot. 
+Allisee takes all the loot x2
+The ripples caused by the end of times in nine years. Only four people survived doomsday? Who is Imron? False harrower. Life Linked pictured of Sonorae? Top hat man?
+
+Ulric has some weird shit with his armour and weapons. Strange smell of blood and metal, of battle and fighting. This is tangentially related with the marks of Death on Viole and Selenor. Some spooky shit
+
+"I've been burying bodies for a long time now, I've got a shovel ready" Selenor's dog has necrotic flesh, that will turn into ash. 
+
+The party teleports to Blackrock Inn, which is now nothing more than a smoldering crater. Selenor decides that the explosion came from underground, rather than above, and Jumina questions her relation with Selenor, as she doesn't remember having a child. Viole and Carnon go off to find a sandwich while Selenor and Jumina get dressed for their ice box. 
+
+
+After Selenor Cardigan Junima and Alissee went into the "icebox" . Ulric urged the rest of the party to follow him to Blackrock village where his wife might've gone .
+After following Ulric they see blackrock village in flames and an army of Daemons marching through. The Daemons were converting people into more of them or harvesting the souls inside their body.
+Ulric decides to basically commit suicide by going towards the army and fighting them. He gets turned into a Daemon.
+After this the party decides to leave the plane of BattleZoo. While in the archive of worlds a Watcher (get picture from path) explains that Abaddon is gathering power rapidly and might break into golarion if we don't do something however he explains that there might be a ritual able to stop them that Amempheus(i think) knows about and is probably already preparing. The performing of this ritual will open small rifts in space that will need to be dealt with.
+After this the party goes to drop off Junima in the runewild and check on her unborn child's grave because they suspect the child might actually be alive (and be Selenor's mom Andaisin ). They checkout the grave that's in a valley where a turtle bunny man is cursed with a curse that forces him to count the number of stones until he has the exact count. They check on the grave of the unborn baby that was preserves in a sort of glass orb and the glass orb is broken *cliffhanger*!!!!!
+
+Also Carnon with his nature skills figures out that the vernal key's ice plane the frozen prison plane has a connection to Yubis. 
+This is because of 3 reasons:
+1. The elemental lord of water.
+2. Jack Frost's connection to Yubis (ice magic).
+3. Yubis's ice-magic spirit is stronger in a plane of ice-magic.
+
+## Session 227 November 16th 
+Ross
+Presession discussion. What is a kitsune, and what is a lie?
+
+Jumina and Selenor are being racist to one another, their flames mix like fire and water. Hag magic is outside the realm of occultism. Moon hags are related to the moon kraken, but not necessarily? Correlation? Runewild, Selenors' magic, moon stuff. All pieces of the same puzzle, but Allisee can't quite piece them together. Selenor has magical cancer, but his body is battle ready. A poor fate for a man, but Selenor is not quite a man. 
+
+HORI THE RABBIT TURTLE PEBBLE STONE COUNTER. The rabbit doesn't want the pond to be hurt :(
+The plan to end the curse: Get infinite amount of bags, put X amount of stones in one bag, and an equal amount of stones into all the others, until all rocks are inside the bags. Multiply one bag count by all the bags, total stone count gathered. 
+
+
+There is a rallying cry for the grey flame? Tian Xia voice in Wellers head? Selenor pops one of his books out, Weller has grey flame magic, not green. Their magic seems to be happy to interact, but not Juminas. Weller is scared of us, but also the people that may encounter us. 
+
+
+The fifth horseman has had FOUR WEEKS TO DO SHIT ON THE PLANET. BAD NEWS. We are kill on sight? Viole was almost executed? We must gather the shards of sin to increase the strenght of the group. 
+
+
+
+Carnon understands your actions, Lady Keleri. Fear is a terrible thing that will drive folk to extremes, and this situation will turn even the bravest soldier to commit awful sins. Horsemen of apocalyses? Oblivions? Do you think that this situation, this doomsday, will be prevented by your force of will alone? By your spell and might? By your iron grip on magics and contracts? 
+
+Carnon had signed a contract given to him before, by someone in terror of the evils of the world. Whom swore that Order and Laws will protect Carnon, and the city he learned to loved. That contract was then used against Carnon to attempt to imprison him for the same false allegations that brought him to sign it in the first place. 
+
+Carnon is here to help, for doomsday will break those that he is sworn to protect. I am your ally for our enemies are the same. This Carnon knows, but Carnon will not sign himself to another dictator who hides behind fancy words and signatures. You want Carnon's help, you must borrow your trust to him. If you find that Carnon breaks it, you have surrounded yourself by a might many powerful people who can help you bring Carnon to justice. 
+
+
+Keleri(?) cheapshots Carnon, and knocks them out, putting them into a black site. 
+
+## Session 228 Novemeber 23rd.
+
+Ross
+Carnon is on Parole. Carnon gets cool bracers. 
+Selenor beats cancer, with the help of Carnon. Carnon won't get deported, and is a civil servant of Magnimar. 
+The group is getting ready to enact the plans Keleri has been preparing for some time, to stop these planar incursions. 
+Amephious wants assistance to create a ritual that will unlock the full power of the Jewelled Sages
+Allisee wants to research and predict where the barrier between Abadanon and Gollorion is weakest, and where rifts might appear before this ritual takes place, to be better prepared against these rifts. 
+Selenors Grandfather might be a worry, but it remains to be seen. They will keep an eye out. Selenors grandfather is gathering all the forces of Gollorion
+Eclipse? Griselda is a force that the group is not cohesive enough to fight yet, they need more battle experience. 
+Allisee explains some of her backstory, and that she now posses half of her Mother's soul. 
+Verisians are a lesser version of the Runelords, giving them the ability to slightly use Sin magic. They cling to the old cities like 'Maggots to a corpse'
+"Each of us are unique, each of us has a story that cannot be replaced" 
+Selenor cannot destroy his creators, and thusly will either need to be provided with a soul gem to preserve them, or else Selenor must be destroyed before they deal with him. 
+
+We will travel to Osiria, Some supplies are needed for said ritual. Once those are moved, we will be arriving at a stone structure. Ridiculous? These plans will develop as we go along, hundreds of components. 
+The guard who was also friends with Yubis, who runs the Warden temple? Wants helps to consecrate it. 
+Carnon is a minor Aeon?
+
+
+## Session 229? December 12th
+Ross 
+(seagull island, which carnon wasn't a part of so I didn't take many notes)
+Allisee takes all the loot
+
+Allisee takes all the loot pt2 (knocks out Viole to get it)
 
 ## Session 230. 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Osiria ritual part 2.
 
@@ -247,3 +422,22 @@ the OG Osirian wizards.
 >> - Long complicated history with the Prismatic spear. 
 >> - Carnon seems to have a strange experience with this mace. 
 >> - A golem crushed Carnon in a starry expanse.
+
+## Session 232 February 1st? 
+
+Ross
+Carnon makes Cardigan a puzzle box to distract her from saying anything weird, or staring too much while we are inside the brothel. We make a somewhat? plan to try to speak with Madamne Zelekhati and gain the info we need out of her. We get split up, as the bodyguards get left behind while the faces go speak with the Madamne. 
+My internet cuts out midway through his conversation, so I don't got much more. 
+
+## Session 233 March 8th
+
+Ross
+We questioned a little what our next steps should be, then Allisee had the idea to try to locate the weapons of the Assassins, narrowing down the search to just the armour, we found the direction of the armour to be "up, and a little back" We proceeded to look for illusions or hidden doors to the attic, and were in luck. Using Selenors superior will, he disbeliefed the illusion and we ventured upwards. In the attic, we found schematics for a base camp, and an altar. We also found out that Selenor has never had pizza before. he called it "A flat sandwich", his undead nature really did turn him into a monster. This is around when you returne to us. You spoke with the spirit that was still lingering here, and we discovered that the assassin might be underground, close to this shop. We ventured forth, Carnon found a junkie's needle, and the group discovered the entrance to the sewers. We climb into the sewers, and Carnons instantly spots the false wall that hides the Assassins lair. Carnon warns everyone about potential traps, proving their theory by pointing out the grenade stuck to the wall. Allisee investigates and finds it to be a cow pie, but the trap warning rings true. We approach the wall, cautiously, and find no traps but we do detect a religious aura from the wall. After some frustrating conversation and theorising, we find the right pass phrase and venture inside. Allisee dismantles a trip wire trap, and we find the sleeping red mantis assassin, worse for wear by their previous altercation with Viole
+
+## Session 234 March 15th. 
+
+We speak with the assassin, Selenor does amazing diplomacy. The assassin has a Magma Fire Dragon time locked inside a chest??? A collared timelocked rhino magma fire dragon. Pathwars, who has started a session on time exactly 0 times, complains about time wasting. The servant will inform the assassin when our task is complete so she can stay safe inside of the room. We argue about what our mission is, before deciding to go to the crime boss and convince him the danger is over, using the props acquired from the assassin.
+
+Hopefully this concludes the fetch quests. Lire skillfully lies to the henchmen of the Fingers gang, and pathwars almost forgets to give us the quest reward. Allisee struggles to recall what the assassins name was. Lire and Selenor speak in minecraft skeleton noises. Lire suggests bringing the scribe to the scene of our success, and casts suggestion on the scribe to ensure our lies all check out on paper. Scribe suceeds, so we go to our backup plan 2. Lire spends 10 minutes creating an illusion while Carnon distracts the Scribe by talking about their schooling. The scribe sees through the illusion, but luckily Lire's trained ears senses this lie. Lire successfully mind controls the Scribe into getting her to believe our lie, "A lie for a lie" and we successfully lie to the scribe. 
+
+We finally return to the hundred fingers gang, but it turns out we are not welcome! Carnon intimidates his way into the alley, and Selenor begins to try to diplomacy his way out of this, and MYTHICALLY succeeds, turning this child into his service. Another slave acquired. Tom leads to us his boss. We intimidate the next guy, who leads us to his boss. We find the room empty, but quickly chase down the base following a lead. We find her atop a fire escape, and Carnon quickly catches up to her. We go to Torch, and hilarity ensues. We are forced to explain why we didn't just kill a ruthless assassin. We barely do. Reno gain sentience and ten levels. We are now being *forced* to kill the assassin. Reeno will lead the way. We find the assassin, kill them and their golems in one round, and return to torch with a bucket of blood. Torch is happy with our progress. Selenor speaks with the hafling woman who runs the Hundred Fingers Gang. 
