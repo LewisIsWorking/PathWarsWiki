@@ -301,4 +301,4 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 20:30.
 >> - Party talk to Torch. They kill the assassin.
 >> - Torch reads the 100-finger gang's letter.
->> - Professor Lozar.
+>> - Professor Lozar is the name of the professor.
