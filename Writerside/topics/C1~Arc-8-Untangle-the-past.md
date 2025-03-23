@@ -302,3 +302,57 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Party talk to Torch. They kill the assassin.
 >> - Torch reads the 100-finger gang's letter.
 >> - Professor Lozar is the name of the professor.
+
+## Session 239.
+> 2025 March 22nd Saturday + 4710 AR, 29th Arodus. + Eto part 9.
+>> - IRL start time: 22:56.
+>> - Players present: Ross, Anthony and Tony.
+
+> 21:00.
+>> - The party are outside the alchemy shop.
+>> - The risen guards are heavily patrolling the city of Eto tonight.
+>> - Viole talks to Torch.
+>> - The command word is VEIL.
+
+> 22:00
+>> - Sandy Pot bar.
+>> - Alleyway nearby.
+>> - Viole says VEIL: Carnon is an orc, Allisee is a female dwarf and Viole male human. They all smell good.
+
+> 23:00.
+>> - The Party returns to the bathhouse and sleeps.
+>> - 00:00. 8 hours of rest + daily preparation = 09:00.
+
+> NEW DAY. 4710 AR, 30th Arodus, Toilday.
+
+> 08:00.
+>> - Breakfast + 1 hour of daily preparation.
+
+> 09:00.
+>> - House of the white snake bathhouse.
+>> - The book is shrunk for 24 hours.
+
+> 09:30.
+>> - At the grand library.
+>> - Room 131.
+>> - AGAIN. 
+>> - Viole says VEIL: Carnon is an orc, Cardigan is a female dwarf, Allisee female human and Viole male human. 
+>> - They all smell good.
+>> - They are wearing half-plate armour, Allisee is wearing explorer's clothing.
+>> - Allisee is wearing glasses and has bad acne.
+>> - Allisee is ugly af. Everyone else is handsome.
+>> - Ghoul headmaster Khamos.
+
+> 11:00.
+>> - Viole, Allisee and Selenor have spent an hour+ in the expedition preparation warehouse.
+>> - Viole slips the books (:P) into Professor Ionacu Lozar's possession.
+>> - Viole notices he wears the amulet of the order of the palatine eye.
+>> - The party leave the warehouse.
+
+> 11:55.
+>> - Carnon has spent 2 hours tripping after drinking the space-milk of the ghoul dean headmaster of The Grand Library.
+>> - Carnon gets a robotic hand of the mossy skull.
+>> - Carnon can summon a Mossy Skull made of liquid metal that floats above his hand.
+
+> 12:00.
+>> - The party are reunited as Carnon and Cardigan leave the admin building, joining up with the rest of the party.
