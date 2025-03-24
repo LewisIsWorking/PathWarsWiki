@@ -22,11 +22,11 @@ This book contains:
 As well as by level:
 
 1. level
-   * ...
-   * ...
+   * Bardic Lore(Bard)
+   * Trap Finder(Rogue)
 2. level 
-   * ...
-   * ...
+   * Spirit Warrior Dedication.
+   * Snare Crafter Dedication.
 3. level
 4. level
 5. level
