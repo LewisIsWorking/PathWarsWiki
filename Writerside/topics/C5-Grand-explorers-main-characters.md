@@ -266,7 +266,7 @@ the mere shock knocking out Aekold and leaving him lying upon that batter shippe
 
 with thunderous booms and cracks the merchant ship broke into many pieces with Aekold barely being left alive and unconscious upon the wreckage of the ship and the great undead ships unseen even upon the horizon however there was not a pair of eyes to recogonize a soul as there only existed Aekold floating upon the bloodied remanents of the ship.
 
-### Anaiel Black-steel - Eimer.
+## Anaiel Black-steel - Eimer.
 
 Class: Gunslinger & Witch-warper.
 Background: Teacher.
@@ -282,14 +282,14 @@ Character-x watched Aekold for years, always wanting to follow him everywhere bu
 Aekold's mother asked the character-x to go find Aekold.
 Character-x heard that Aekold had joined a merchant ship.
 
-## Character-x's Backstory.
+### Character-x's Backstory.
 
 XXX was born on Golarion, not the shadow plane.
 
 A female ancestor was changed into an aasimar.
 The ancestor was on Golarion as well.
 
-## Why did the angel bless the ancestor?
+### Why did the angel bless the ancestor?
 The Ancestor did a great act.
 This great act earned the divine celestial blessing from the angel.
 
@@ -307,15 +307,15 @@ This test was devised due to the incredible level of good within the heart of th
 The ancestor thanked the angel and promised their family,
 and all their descendants would live a wholesome and good-willed life until the end of time.
 
-## Why was the ancestor so good and pure of heart?
+### Why was the ancestor so good and pure of heart?
 Despite facing discrimination for their shadow-plane lineage, the ancestor did not allow this to fester within them,
 instead choosing to embrace the world with a great level of kindness that the ancestor would never receive themselves.
 
-## Did the ancestor worship the angel's deity?
+### Did the ancestor worship the angel's deity?
 Yes, they worshipped Sarenrae.
 This is because the ancestor's family was brought to Golarion by a divine servant of Sarenrae many generations ago.
 The ancestor was not a cleric, but worshipped fully, with all their heart.
 
-## ?'s life so far.
+### ?'s life so far.
 
 X was born in the same town as their ancestor and all the descendants in between.
