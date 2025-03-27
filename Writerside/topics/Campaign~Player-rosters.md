@@ -4,10 +4,10 @@ Campaign List.
 1. DF.
 2. CT.
 3. EF.
-4. Agents of Edgewatch.
+4. Agents of Magni-Watch.
 5. The Grand Explorers.
 6. Kibwe.
-7. Starfinder.
+7. StarFinder.
 
 ## List of all DF players (current and gone).
 
@@ -59,13 +59,13 @@ Then all the people below have moved up.
 
 ## #2. Crimson Throne. FINISHED!
 ## #3. Etran's Folly. FINISHED!
-## #4. Agents of MagniWatch.
+## #4. Agents of Magni-Watch.
 
 - 6/6.
 
 > Here:
 >> 1. Eimer = Zilde EvenGuard = @HistoricallyInaccurate.
->> 2. Anthony = ??? = @MrNegetZ. 
+>> 2. Anthony = Unknown character name = @MrNegetZ. 
 >> 3. Cannon. @ArtyArtillery 
 >> 4. Anthony #2. @Revan1734 
 >> 5. Horia. @Nemesiux 
@@ -106,7 +106,7 @@ Then all the people below have moved up.
 >> - Lorcan.
 >> - Ryan.
 
-## #7. Starfinder.
+## #7. StarFinder.
 
 > 6/6.
 
