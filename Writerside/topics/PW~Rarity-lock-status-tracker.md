@@ -76,6 +76,7 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Sceptic's Elixir. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Six fingers elixir. Unlocked: [Campaign~6-kibwe.md](Campaign~6-kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi.
 >> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
 >> - Warrior's Training Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).

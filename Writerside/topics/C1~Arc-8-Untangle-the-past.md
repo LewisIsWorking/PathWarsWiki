@@ -240,7 +240,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Party discuss.
 >> - Talking to dancing dunes guards.
 >> - Lire told him his name, aka Lire.
->> - Lire The Liar tells the guard that he wants to know more about Osiria, they have brought gifts and want to tell her about the horsemen. 
+>> - Lire The Liar tells the guard that he wants to know more about Osirion.
+>> - They have brought gifts and want to tell her about the horsemen. 
 >> - Allisee, Viole and Lire.
 >> - They are in the dancing dunes garden. 
 >> - Ronchus the half-elven servant.
@@ -356,3 +357,12 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 > 12:00.
 >> - The party are reunited as Carnon and Cardigan leave the admin building, joining up with the rest of the party.
+
+## Session 239. Play by post.
+> 2025 March 30th Sunday + 4710 AR, 29th Arodus. + Eto part 9.
+>> - Real time play by posting.
+>> - IRL start time: 03:39.
+>> - Players present: Anthony and Tony.
+
+> 12:30.
+>> - The party returned to the house of the white snake.

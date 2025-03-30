@@ -9,7 +9,7 @@ Start typing here...
 > Ongoing. 
 >> - This is an ESTIMATION of what order each campaign will finish and what year they will finish in.
 >> - C6~Kibwe. Finish during 2025.
->> - C4~Agents-of-MagniWatch. Finish = 2026+.
->> - C5~Grand Explorers. Finish = 2026+.
->> - C7~Starfinder. Finish 2026+.
->> - C1~Doomsday Funtime. Finish: 2027+.
+>> - C7~Star finder. Finish 2026+. Level 1 -> 15.
+>> - C4~Agents-of-MagniWatch. Finish = 2026+. Level 1 -> 20.
+>> - C5~Grand Explorers. Finish = 2026+. Level 1 -> 20.
+>> - C1~Doomsday Funtime. Finish: 2027+. Level 1 -> 20+.
