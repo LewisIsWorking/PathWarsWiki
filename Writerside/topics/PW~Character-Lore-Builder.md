@@ -89,6 +89,8 @@ Parents and Family.
 14. How does your character get along with others?
 15. Is there anything that your character hates?
 16. Is there anything that your character fears?
+17. What sin does your character align with closest? Greed, Pride, Lust, Envy, Gluttony, Wrath or Sloth?
+18. What apocalypse would your character most likely cause: War, Famine, Pestilence or Death?
 
 ---
 
