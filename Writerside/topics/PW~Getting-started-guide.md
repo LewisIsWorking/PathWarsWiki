@@ -1,6 +1,12 @@
 # PW~Getting-started-guide
 
-Long story short, make a character and play some DND! :)
+## The short version.
+
+- Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
+- Join the telegram group.
+- Play.
+
+## The long version.
 
 This guide will help you get set up.
 You will:
