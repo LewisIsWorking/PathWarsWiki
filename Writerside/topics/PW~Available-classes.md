@@ -1,12 +1,15 @@
 # PW~Available-classes
 
 ## Core Paizo Classes.
+You can play ANY Paizo core class, the following are just examples of classes you could play.
 - Alchemist.
+- Animist
 - Barbarian.
 - Bard.
 - Champion.
 - Cleric.
 - Druid.
+- Exemplar
 - Fighter.
 - Gunslinger.
 - Inventor.
@@ -24,6 +27,7 @@
 - Thaumaturge.
 
 ## 3rd party classes with Foundry support.
+You can play ANY 3rd party class, the following are just examples of 3rd party classes with Foundry support.
 
 - Eldamon Avatar. 
 - Eldamon Trainer. 
