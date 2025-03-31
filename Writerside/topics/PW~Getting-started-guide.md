@@ -4,7 +4,7 @@
 
 - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
 - Join the telegram group.
-- Play.
+- Play with us! :D
 
 ## The long version.
 
@@ -278,10 +278,11 @@ The first steps are the socials we use to organise the sessions and to chat abou
 >> - Go through each level and apply all your ability score boosts, make your feat selections, etc.
 
 > Pick your equipment.
->> - Here is the Starting Wealth table: ![StartingWealthTable.png](../images/StartingWealthTable.png)
+>> - Here is the Starting Wealth table: 
+>> - ![StartingWealthTable.png](../images/StartingWealthTable.png)
 >> - This table explains what items you start with.
 >> - You need to consult the table by using your level to determine what equipment you start with.
->> - [https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1](https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1)
+>> - [Treasure for New Characters](https://2e.aonprd.com/Rules.aspx?ID=2662&Redirected=1)
 
 > Examples of equipment.:
 >> - 9th Level Items. One 8th. Two 7th. One 6th. Two 5th. 250 GP.
@@ -359,7 +360,8 @@ The first steps are the socials we use to organise the sessions and to chat abou
 ## Step #13.
 > Desktop-ing Foundry.
 >> - [https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836](https://forums.forge-vtt.com/t/what-is-the-forge-more-awesomeness-module/16836)
->> - Click the button: ![DesktopFoundryButton.png](../images/DesktopFoundryButton.png)
+>> - Click the button: 
+>> - ![DesktopFoundryButton.png](../images/DesktopFoundryButton.png)
 >> - Click 'Install'. It does not actually install anything. 
 >> - Takes about 5 seconds to 'install'.
 
