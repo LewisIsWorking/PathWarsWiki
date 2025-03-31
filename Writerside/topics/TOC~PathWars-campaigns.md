@@ -25,7 +25,7 @@ For a look at how things roughly fit together:
 - Session count: 1.
 - Started: 2021.
 
-## #4. Agents of Edgewatch.
+## #4. Agents of Magni Watch.
 - Status: PAUSED.
 - Session count: 2.
 - Started 2023.
@@ -44,10 +44,10 @@ For a look at how things roughly fit together:
 - Length: short.
 - [campaign-6-Kibwe.md](Campaign~6-kibwe.md)
 
-## 7. Starfinder.
+## 7. Star finder.
 - Status: ongoing.
 - Session count: play by post.
 - Started: 2025.
 - Length: long term.
 - NO DOCUMENTATION YET.
-[Campaign-7-Starfinder-2e.md](Campaign~7-Starfinder-2e.md)
+[Campaign-7-Star finder-2e.md](Campaign~7-Starfinder-2e.md)
