@@ -181,26 +181,29 @@ Additional reading
 There really is no need to re-link this link.
 
 Ross, [12/08/2024 17:34]
-# Most important things to have when joining this campaign
+## Most important things to have when joining this campaign
 
 You are 18+
-You have the commitment to play a long term year+ long campaign.
+You have the commitment to play a long-term year+ long campaign.
 You are comfortable with the Campaign Content Guide
-[[Link to content guide in separate page]]
+[[Link to the content guide in separate page]]
 
 If you are okay with all of this, Congrats! You are welcome to play with us!
 
-# The Next few steps will take you through Character creation and joining the next Session.
+## The Next few steps will take you through Character creation and joining the next Session.
 
 
 ## Required Apps
 We use Telegram for most text communication, Discord for Calls and sessions, and Foundry VTT via The Forge for character/combat. There are no paywalls, but you will need accounts for all three apps. DM on telegram for Forge link, and I'll set up your character sheet and user!
+
 Here is the telegram group link [[Telegram link]]
+
 Here is the discord group link [[Discord group]]
+
 During any point in the character creation process, feel free to reach out to me via telegram (I rarely check discord) to ask questions or for help to build up your character. I happen to be rather scattered so feel free to shout at me, or to threaten me with large sticks. Alternatively, offer French Toast.
 
 ## Character Creation
-You can use pathbuilder to help you create a character which is highly recommended if you're a new player, as Pathfinder 2e is a big system and it's easy to miss steps.  Some optional rules are behind a paywall, which is WELL worth paying for and if you plan on making any amount of pf2e characters, you *will* get your monies worth! but don't worry if you don't pay it. You can see all the rules and options we use in pathbuilder here [[Pathbuilder 2e Setup]]
+You can use path builder to help you create a character, which is highly recommended if you're a new player, as Pathfinder 2e is a big system and it's easy to miss steps.  Some optional rules are behind a paywall, which is WELL worth paying for and if you plan on making any amount of pf2e characters, you *will* get your monies worth! but don't worry if you don't pay it. You can see all the rules and options we use in pathbuilder here [[Pathbuilder 2e Setup]]
 
 ### Optional Rules
 
