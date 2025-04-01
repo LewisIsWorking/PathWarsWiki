@@ -38,3 +38,21 @@ Start typing here...
 ## NOTES: Long adventure 2/2: Historic accord. Level 10 -> 13.
 
 ## NOTES: Short adventure 4/4: Shimmer-stone. Level 15.
+
+## Current party.
+
+@MrNegetZ (me) is playing ★Super idol Livy★ a networked android mystic(rhythm)/operative (skirmisher).
+
+@Nemesiux is playing Se... Roneles a human borai solarian (graviton)/soldier (erudite).
+
+@Jbram_2002 is playing Kaeda a lashunta Envoy/bard.
+
+@Revan1734 is playing Lysae a Fetchling (totally normal and not a borai) operative (sniper) rogue (mastermind).
+
+Bruce you are playing Chua Datafang a Ysoki alchemist/witchwarper.
+
+@ClankKaBoom is playing himself XD. An automaton inventor (only 1 class L?).
+
+@Astra724 is playing Kessel Solarina a solarian/witchwarper.
+
+@Askarans is playing Mausbert Gouda an Ysoki Envoy (Hotshot) / Psychic (Unbound Emotion).

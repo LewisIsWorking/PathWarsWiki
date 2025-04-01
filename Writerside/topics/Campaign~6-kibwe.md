@@ -185,3 +185,5 @@ Eda "Curse Breaker" Stones-Worth's turn.
 Two players left.
 - @buffetraider
 - @RyoYamakawa
+
+>> - Kibwe first play by post-message: https://t.me/Path_Wars/40585/40963 
