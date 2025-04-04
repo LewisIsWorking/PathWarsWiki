@@ -57,7 +57,7 @@ Ryan.
 
 IQuain.
 
-## Current Main Character List.
+## The Current Main Character List.
 
 > Aekold Black-Steel = Horia.
 >> - Aekold' sister is played by Eimer.
@@ -70,7 +70,7 @@ IQuain.
 > Kantral = Matrixiukas.
 >> - ?
 
-## AFK Main Characters.
+## The AFK Main Characters.
 
 Lance's backstory.
 https://github.com/JimmyJackJones/Jimmy-Characters/blob/master/Writerside/topics/Aekold.md#backstory
