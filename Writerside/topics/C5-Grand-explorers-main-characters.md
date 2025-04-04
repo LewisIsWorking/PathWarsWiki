@@ -319,3 +319,6 @@ The ancestor was not a cleric, but worshipped fully, with all their heart.
 ## ?'s life so far.
 
 X was born in the same town as their ancestor and all the descendants in between.
+
+## Kantral
+Ancestry-Automaton Background-Noble (genealogy) Classes-Fighter, Rogue.
