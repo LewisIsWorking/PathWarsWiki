@@ -67,7 +67,7 @@ IQuain.
 >> - The sister of Aekold Black-Steel.
 >> - Gunslinger & Witch-warper. 
 
-> Kantral - Matrixiukas.
+> Kantral = Matrixiukas.
 >> - ?
 
 ## AFK Main Characters.
