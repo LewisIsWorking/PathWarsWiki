@@ -397,3 +397,6 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Valindriel Gatekeep was given a vision upon touching the meteorite.
 >> - The vision was that one day a door made of this meteorite will be opened.
 >> - And that the God Alseta was terrified of this door, the most powerful door in reality.
+>> - Madame Zelekhati worships Alseta and the Elemental Lord of Earth.
+>> - Valindriel Gatekeep slipped the meteorite into Selenor's pocket.
+>> - The meteorite is pulsating when in Selenor's grasp, as if it was alive.
