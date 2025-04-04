@@ -366,3 +366,34 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 > 12:30.
 >> - The party returned to the house of the white snake.
+
+## Session 240.
+> 2025 April 4th Thursday + 4710 AR, 30th Arodus. + Selenor does a bounty in Eto.
+> - IRL start time: 00:50.
+> - Player present: Horia.
+
+> 13:00
+>> - Selenor talks to Torch and asks Grandmaster Torch if Selenor can destroy the 100-finger gang.
+>> - Natural 20 on the diplomacy check.
+>> - With a "47" diplomacy check Torch agrees that Selenor can destroy the gang when they are no longer useful to Torch.
+>> - Selenor accepts Torch's job in Ustalav for post-Eto.
+
+> 13:30.
+>> - Selenor goes to Obo the goblin candle merchant's stand.
+>> - Selenor shows Obo his rune wild goblin (petrified into stone).
+>> - The Rune Wild Goblin is called Gobo.
+>> - Using the communication geode, Torch sends a message to Amenopheus.
+>> - Amenopheus tells the group that Madame Zelekhati's father was an earth elemental blessed elementalist working for the ruby prince.
+>> - The father is buried in Sothis.
+>> - The chamber of the door.
+>> - Selenor gets into the chamber of the door.
+>> - Madame Zelekhati threatened to tell Kyonin about the ancient elves on "a demi plane", she does not know about 
+     > the rune wild.
+>> - Valindriel Gatekeep hands Selenor a piece of meteorite that is sealed in a glass orb.
+>> - Selenor gets a vision of a temple with massive black metal doors, and when he opens the door, he burns to death.
+>> - Valindriel Gatekeep tells Selenor that the meteorite is from the valley of the pyramids.
+>> - The valley has not been accessible since the age of legend.
+>> - Explorers found it, Valindriel Gatekeep's father was one of the explorers.
+>> - Valindriel Gatekeep was given a vision upon touching the meteorite.
+>> - The vision was that one day a door made of this meteorite will be opened.
+>> - And that the God Alseta was terrified of this door, the most powerful door in reality.

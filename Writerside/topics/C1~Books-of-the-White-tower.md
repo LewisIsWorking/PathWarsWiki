@@ -882,29 +882,22 @@ Skyscrapers/Interconnected Skyscrapers.
 
 The name skyscraper has been given to Azlanti buildings that go beyond 100 floors, with some going over 1000 floors.
 
-These Skyscrapers take up relativity little ground space, instead creating space vertically via it's many floors.
+These Skyscrapers take up little ground space relativity, instead creating space vertically via its many floors.
 
 Some skyscrapers are designed or later modified to connect to other local skyscrapers via grand walkways, short range teleportation circles, jump runes, portals, etc.
 
 The skyscrapers are used by the largest Azlanti guilds, colleges (magical, technological or otherwise), religious, etc.
 
-The above mentioned interconnections allow these groups to quickly move between buildings, whether it allows for between internal mobility or inter-organisational mobility depends on the situation.
+The above-mentioned interconnections allow these groups to quickly move between buildings, whether it allows for between internal mobility or inter-organisational mobility depends on the situation.
 
-Banking Consortium.
-
-While not a technology, it is an advancement that may be worth noting as an advancement Azlanti banking.
-
-The inward eye are a guild of some of the world's most powerful witches.
-
-The Inward Eye also handles most of the empires bankings.
-
-The inward eye are based in the Azlanti city of Bilith-Vel.
-
-It seems the guild of the Inward Eye is leaded by the only Lunar Dragon known to the Thassilon empire at time of writing.
-
-If our research on this kind of dragon is correct then we may have a problem on the moon.
-
-Rezallian is the name of the lunar dragon.
+> Banking Consortium.
+>> - While not a technology, it is an advancement that may be worth noting as the advancement in Azlanti-banking. 
+>> - The inward eye is a guild of some of the world's most powerful witches. 
+>> - The Inward Eye also handles most of the empire's banking. 
+>> - The inward eye are based in the Azlanti city of Bilith-Vel. 
+>> - It seems the guild of the Inward Eye is led by the only Lunar Dragon known to the Thassilon empire at the time of writing. 
+>> - If our research on this kind of dragon is correct, then we may have a problem on the moon. 
+>> - Rezallian is the name of the lunar dragon.
 
 Engineer’s Work Gauntlet.
 
