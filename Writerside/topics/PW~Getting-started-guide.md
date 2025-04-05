@@ -68,7 +68,7 @@ You will:
 >> - A big thank you to the tool for ensuring happy gaming.
 >> - I am using it here because I think it covers *nearly* every possible event that could possibly occur in a campaign.
 
-> Is this stuff always going to happen?
+> Is this stuff going to happen? Maybe. Is it ALLOWED to happen? Yes!
 >> - One or more items on the following list may never occur in a Path-War campaign.
 >> - However, it is important that the possibility is made clear so that people are not put off if such a thing happened. 
 >> - Any of these topics could also come up in conversation over voice on discord or on text on the telegram.
