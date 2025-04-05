@@ -60,6 +60,30 @@ You will:
 >> - This explanation is for the benefit of everyone as everyone is on the same page when it comes to expressing themselves without fear of upsetting someone else.
 >> - While mostly it is just edgy jokes, if any of the possible story elements could make you unwilling to play, then this community / TTRPG experience is likely not for you.
 
+> Table of contents.
+>> - Step 0 = Content Warning about Possible Content.
+>> - Step 1 = Telegram.
+>> - Step 2 = Discord.
+>> - Step 3 = The Great Spoiler Warning.
+>> - Step 4 = How to Build Your Character’s Life.
+>> - Step 5 = Paizo Variant Rules.
+>> - Step 6 = Talk to the Game Master, me!
+>> - Step 7 = Path Builder 2e + Character Creation.
+>> - Step 8 = Foundry.
+>> - Step 9 = What is the Forge?
+>> - Step 10 = Join The Forge Campaign.
+>> - Step 11 = Request a Foundry User.
+>> - Step 12 = Log into the Foundry.
+>> - Step 13 = Desktop-ing Foundry.
+>> - Step 14 = Pick your player colour.
+>> - Step 15 = Request a Character sheet.
+>> - Step 16 = Open your character sheet.
+>> - Step 17 = Set up your character sheet on the Forge VTT.
+>> - Step 18 = Pick a token image.
+>> - Step 19 = Request Vision Setup + Token Placement.
+>> - Step 20 = Talk to the Game Master.
+>> - Step 21 = Everything might be ready.
+
 ## Step #0.
 > Content Warning about Possible Content. The content guide checklist.
 >> - The list of possible things is taken from “The Digital RPG Consent Checklist”.
