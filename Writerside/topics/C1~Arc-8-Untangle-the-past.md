@@ -9,7 +9,7 @@ Start typing here...
 >> - 229: Role play + Lire joined the party.
 >> - 230 -> 232: Eto.
 
-## Session 226. 
+## Session 226.
 > 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Untangle the past arc introduction.
 
 - 28th Arodus. 11:00.
@@ -45,7 +45,7 @@ Selenor plane shifts to the runewild.
 > Selenor talks to Griselda.
 >> - A place on the mushfens.
 
-## Session 227. 
+## Session 227.
 > 2024 November 26th Tuesday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 1.
 
 12:00.
@@ -59,7 +59,7 @@ Selenor plane shifts to the runewild.
 - After Selenor uses his 1/day casting of suggestion using the sin shard of lust, the entryway opens.
 - A spiral staircase brings the heroes to a large perfectly cubical room (kind of cavern?), inside is an arcane manor.
 
-## Session 228. 
+## Session 228.
 > 2024 December 7th Saturday + 4710 AR, 27th Arodus. + Bounty #7: Seagull island part 2.
 
 13:00.
@@ -78,12 +78,12 @@ Defeated Space Ooze.
 14:50.
 In play by post, the party talks to the wizard Zarzan Quilit.
 
-## Session 229. 
+## Session 229.
 > 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 
 - Events of [DF-100-sessions-of-Selenor.md](C1~100-sessions-of-Selenor.md) happen.
 
-## Session 230. 
+## Session 230.
 > 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
 
 00:00.
@@ -112,7 +112,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 12:30. Keleri agrees to deliver Lire's ring to Annmarie.
 
-## Session 231. 
+## Session 231.
 > 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Eto part 1.
 
 > 13:00.
@@ -154,7 +154,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - 10:00. 8 hours of rest + daily preparation.
 - 10:30. Breakfast.
 
-## Session 232. 
+## Session 232.
 > 2025 January 5th Sunday + 4710 AR, 29th Arodus. + Eto part 2 + shopping.
 
 - 11:00. The Eto Bazaar.
@@ -178,18 +178,18 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums.
 - The lost is a card of emptiness.
 
-## Session 233. 
+## Session 233.
 > 2025 January 11th Saturday + 4710 AR, 29th Arodus. + Eto part 3 + shopping.
 
 > 12:00.
 >> - Eto Bazaar.
->> - Selenor buys an Exquisite Surprise Gryphon Doll for Cressida Croft, the Queen of Korvosa. 
+>> - Selenor buys an Exquisite Surprise Gryphon Doll for Cressida Croft, the Queen of Korvosa.
 >> - The shop is called "Spear Count". Sefarina, The Sphinx Spear Merchant.
 >> - Sefarina wants Viole to find the ULTIMATE SPEAR.
 >> - Viole gets vision of the sin lords holding spears on a mountain.
 
 > 12:30.
->> - Beggar's Alley. 
+>> - Beggar's Alley.
 >> - Back and forth to Beggar's alley.
 
 > 13:30.
@@ -203,7 +203,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - A red mantis & 2 x Rope golem combat.
 >> - Viole uses dimensional assault & thunder boots and escapes.
 
-> 14:30. 
+> 14:30.
 >> - Viole is back to Beggar's alley.
 >> - Healing + 30 minutes = 15:00.
 
@@ -224,7 +224,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 2025 January 25th Saturday + 4710 AR, 29th Arodus. + Eto part 5.
 
 > 16:00. Beggar's alley.
->> Mummy delivery golem delivers Tywin's sealed-scroll to Carnon. 
+>> Mummy delivery golem delivers Tywin's sealed-scroll to Carnon.
 
 > Short session.
 
@@ -241,9 +241,9 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Talking to dancing dunes guards.
 >> - Lire told him his name, aka Lire.
 >> - Lire The Liar tells the guard that he wants to know more about Osirion.
->> - They have brought gifts and want to tell her about the horsemen. 
+>> - They have brought gifts and want to tell her about the horsemen.
 >> - Allisee, Viole and Lire.
->> - They are in the dancing dunes garden. 
+>> - They are in the dancing dunes garden.
 >> - Ronchus the half-elven servant.
 >> - Allisee talks to cleric about Alseta.
 >> - Lire talks about Findeladlara.
@@ -273,7 +273,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Lire consults the spirits, 10 minutes, CRITICAL SUCCESS.
 >> - Question 1: "What is the assassin's name?" Answer: "Kura."
 >> - Question 2: "Where are they?" Answer: "Sewer."
->> - Lire of the Dark Archive speaks the following poem: 
+>> - Lire of the Dark Archive speaks the following poem:
 >> - She fell where none would carve her stone, No god to claim, no kin to mourn.
 >> - Only the wind, a fleeting sigh, To ask the stars, “But why? But why?”
 >> - Her name is lost, her tale unwept, A crimson vow her killer kept. And so she fades, as shadows must,
@@ -336,8 +336,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 09:30.
 >> - At the grand library.
 >> - Room 131.
->> - AGAIN. 
->> - Viole says VEIL: Carnon is an orc, Cardigan is a female dwarf, Allisee female human and Viole male human. 
+>> - AGAIN.
+>> - Viole says VEIL: Carnon is an orc, Cardigan is a female dwarf, Allisee female human and Viole male human.
 >> - They all smell good.
 >> - They are wearing half-plate armour, Allisee is wearing explorer's clothing.
 >> - Allisee is wearing glasses and has bad acne.
@@ -368,7 +368,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The party returned to the house of the white snake.
 
 ## Session 240.
-> 2025 April 4th Thursday + 4710 AR, 30th Arodus. + Selenor does a bounty in Eto.
+> 2025 April 4th Thursday + 4710 AR, 30th Arodus + Eto part 10 + Selenor does a bounty in Eto.
 > - IRL start time: 00:50.
 > - Player present: Horia.
 
@@ -387,7 +387,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The father is buried in Sothis.
 >> - The chamber of the door.
 >> - Selenor gets into the chamber of the door.
->> - Madame Zelekhati threatened to tell Kyonin about the ancient elves on "a demi plane", she does not know about 
+>> - Madame Zelekhati threatened to tell Kyonin about the ancient elves on "a demi plane", she does not know about
      > the rune wild.
 >> - Valindriel Gatekeep hands Selenor a piece of meteorite that is sealed in a glass orb.
 >> - Selenor gets a vision of a temple with massive black metal doors, and when he opens the door, he burns to death.
@@ -398,5 +398,20 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The vision was that one day a door made of this meteorite will be opened.
 >> - And that the God Alseta was terrified of this door, the most powerful door in reality.
 >> - Madame Zelekhati worships Alseta and the Elemental Lord of Earth.
->> - Valindriel Gatekeep slipped the meteorite into Selenor's pocket.
+>> - Valindriel Gatekeep slipped the glass orb that contains the meteorite into Selenor's pocket.
 >> - The meteorite is pulsating when in Selenor's grasp, as if it was alive.
+
+## Session 241.
+> 2025 April 13th Sunday + 4710 AR, 30th Arodus + Eto part 11.
+> - IRL start time: 00:50.
+> - Player present: Horia & Anthony.
+
+> 14:00.
+>> - House of the White Snake.
+>> - The party go to talk to Torch.
+>> - Torch tells the party:
+>> - Gifting Madame Zelekhati a Sanditt (The Sand Lizard Eldamon) could get the group an audience.
+
+> 15:00.
+>> - The party had now left Eto to go to the Pillars of the Sun to find the Sanditt.
+>> - Torch teleports the party to the Pillars of the Sun.

@@ -12,7 +12,26 @@ The grand explorers are a group of adventures hired by the Adventuring Society o
 The goal of the grand adventurers is to complete missions around the Inner sea region and the world beyond.
 
 Missions can vary from some dungeon delving, crime investigations,
-mystery solving, bounty hunting, historical documentation, and so on
+mystery solving, bounty hunting, historical documentation, and so on.
+
+## The Dream.
+
+In the dream, the character is presented with a choice of the following:
+
+> ???.
+>> - Dragon.
+>> - Troll.
+>> - Wraith.
+>> - Aeon: Manipulate the fabric of reality, making each moment your battlefield. 
+>> - Dryad: Embrace the call of the wild, mastering the ancient secrets of nature. 
+>> - Ghoul: Spread infection and feast on the essence of your foes. 
+>> - Harpy: Command the winds and voice to captivate or devastate. 
+>> - Manticore: Unleash your primal instincts with beastly might and strategy. 
+>> - Ooze: Shift form at will, slipping through defences and dissolving obstacles. 
+>> - Phoenix: Command flame and rise from the ashes of defeat. 
+>> - Sphinx: Confound with riddles and puzzles, mastering the mental arena. 
+>> - Stone Bulwark: Become unbreakable, turning your skin to stone to withstand any assault. 
+>> - Vampire: Stalk the night, draining the vitality of those foolish enough to cross you.
 
 ## When do the Grand Explorers Explore each week?
 
