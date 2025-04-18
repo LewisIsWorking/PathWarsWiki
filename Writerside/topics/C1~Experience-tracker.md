@@ -504,3 +504,29 @@ Monster parts:
 >> - Allisee. Level 11. Exp: 550 + 40 = 590.
 >> - Selenor. Level 12. Exp: 0 + 15 = 15.
 >> - Cardigan. Level 12. Exp: 555 + 15 = 570.
+
+## Session 242.
+> 2025 April 18th Friday + 4710 AR, 30th Arodus + Eto part 12.
+> - IRL start time: 22:20.
+> - Players present: Horia, Anthony, Ross and Tony.
+
+> Cardigan, Carnon, Selenor and Allisee fight 1 x mummy lord.
+>> - Monster parts: 275 x 1 = 275. Medium size. Looted by Allisee.
+>> - Level 11 =	30 x 1 = 30.
+>> - Level 12 = 12 x 1 = 20.
+
+> Total exp.
+>> - Level 11 = 30.
+>> - Level 12 = 20.
+
+> Present characters.
+>> - Carnon. Level 11. Exp: 510 + 30 = 540.
+>> - Allisee. Level 11. Exp: 590 + 30 = 620.
+>> - Selenor. Level 12. Exp: 15 + 20 = 35.
+>> - Cardigan. Level 12. Exp: 570 + 20 + 590.
+
+> New Totals.
+>> - Carnon. Level 11. Exp: 540/1200.
+>> - Allisee. Level 11. Exp: 620/1200.
+>> - Selenor. Level 12. Exp: 35/1200.
+>> - Cardigan. Level 12. Exp: 590/1200.

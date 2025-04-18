@@ -395,7 +395,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The valley has not been accessible since the age of legend.
 >> - Explorers found it, Valindriel Gatekeep's father was one of the explorers.
 >> - Valindriel Gatekeep was given a vision upon touching the meteorite.
->> - The vision was that one day a door made of this meteorite will be opened.
+>> - The vision was that one day a door made of this meteorite would be opened.
 >> - And that the God Alseta was terrified of this door, the most powerful door in reality.
 >> - Madame Zelekhati worships Alseta and the Elemental Lord of Earth.
 >> - Valindriel Gatekeep slipped the glass orb that contains the meteorite into Selenor's pocket.
@@ -415,3 +415,21 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 15:00.
 >> - The party had now left Eto to go to the Pillars of the Sun to find the Sanditt.
 >> - Torch teleports the party to the Pillars of the Sun.
+
+## Session 242.
+> 2025 April 18th Friday + 4710 AR, 30th Arodus + Eto part 12.
+> - IRL start time: 22:20.
+> - Players present: Horia, Anthony, Ross and Tony.
+
+> 15:30.
+>> - Pillars of the Sun.
+>> - The party is going to help professor Lozar find the 3rd riddle.
+>> - Selenor finds the hidden pattern in the runic door.
+
+> 18:00.
+>> - The party find out how to open the door.
+>> - The party open the door and fight a mummy lord.
+>> - With Allisee tanking a lot of damage, Carnon and Selenor are able to beat the Mummy. 
+>> - Selenor Demoralizes the Mummy saying, 
+>> - "I offered you peace, I offered you life. Return to the realm of your master". 
+>> - Then smashes his dusty head in.

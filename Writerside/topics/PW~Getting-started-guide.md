@@ -1,5 +1,7 @@
 # PW~Getting-started-guide
 
+## Do not get overwhelmed! Just read the short version if you feel overwhelmed!
+
 ## The short version.
 
 - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
