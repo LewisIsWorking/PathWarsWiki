@@ -530,3 +530,50 @@ Monster parts:
 >> - Allisee. Level 11. Exp: 620/1200.
 >> - Selenor. Level 12. Exp: 35/1200.
 >> - Cardigan. Level 12. Exp: 590/1200.
+
+> Cardigan, Carnon, Selenor, Allisee, Lire and Viole fight almost 1,000 bandits in groups of 8.
+>> - Monster parts: 140 x 8 = 1120 = Not looted.
+>> - Level 11 = 15 x 8 = 120.
+>> - Level 12 = 12 x 8 = 96.
+
+> Present characters.
+>> - Lire. Level 11. Exp: 40 + 120 = 160.
+>> - Carnon. Level 11. Exp: 540 + 120 = 660.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 550 + 120 = 670.
+>> - Allisee. Level 11. Exp: 620 + 120 = 740.
+>> - Selenor. Level 12. Exp: 35 + 96 = 131.
+>> - Cardigan. Level 12. Exp: 590 + 96 = 686.
+
+> New Totals.
+>> - Lire. Level 11. Exp: 160.
+>> - Carnon. Level 11. Exp: 660.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 670.
+>> - Allisee. Level 11. Exp: 740.
+>> - Selenor. Level 12. Exp: 131.
+>> - Cardigan. Level 12. Exp: 686.
+
+## Session 243.
+> 2025 April 20th Sunday + 4710 AR, 30th Arodus + Eto part 13.
+>> - IRL start time: 01:11.
+>> - Players present: Anthony, Horia, Ross, Tony and Askaran.
+
+> Cardigan, Carnon, Selenor, Allisee, Viole and Haku Stormfan fight 1 x Bleeding Blades Trap.
+>> - Monster parts: 560 x 1 = 560. Medium size. Looted by ???
+>> - Level 11 = 60 x 1 = 60.
+>> - Level 12 = 40 x 1 = 40.
+
+> Present characters.
+>> - Haku Stormfan. Level 11. Exp: 0 + 60 = 60.
+>> - Carnon. Level 11. Exp: 660 + 60 = 720.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 670 + 60 = 730.
+>> - Allisee. Level 11. Exp: 740 + 60 = 800.
+>> - Selenor. Level 12. Exp: 131 + 40 = 171.
+>> - Cardigan. Level 12. Exp: 686 + 40 = 726.
+
+> New totals.
+>> - Haku Stormfan. Level 11. Exp: 60.
+>> - Carnon. Level 11. Exp: 720.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 730.
+>> - Allisee. Level 11. Exp: 800.
+>> - Selenor. Level 12. Exp: 171.
+>> - Cardigan. Level 12. Exp: 726.

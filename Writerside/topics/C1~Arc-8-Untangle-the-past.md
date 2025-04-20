@@ -433,3 +433,45 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Selenor Demoralizes the Mummy saying, 
 >> - "I offered you peace, I offered you life. Return to the realm of your master". 
 >> - Then smashes his dusty head in.
+
+> 18:10.
+>> - Party heals.
+>> - The professor Lozar does not like Amenopheus.
+
+> 19:00.
+>> - Seahorse carriages across the desert.
+>> - 1,000 bandit fights.
+
+> 19:30.
+>> - Cardigan and Viole search the carriages.
+
+> 21:00.
+>> - The party travel across the parched dunes.
+
+## Session 243.
+> 2025 April 20th Sunday + 4710 AR, 30th Arodus + Eto part 13.
+>> - IRL start time: 01:11.
+>> - Players present: Anthony, Horia, Ross, Tony and Askaran.
+
+> 21:00.
+>> - The party are in a crater
+>> - There is a giant sand vortex that cannot be seen through.
+
+> Party sleeps. 21:00 -> 05:00. Then 1 hour of daily prep. 06:00.
+
+> NEW DAY. Arodus 31st. Wealday. 06:00.
+>> - Today is Saint Alika's birthday.
+>> - Allisee says: Asmodeus & The Moon Goddess fought.
+>> - Allisee says: The Moon Goddess was erased from existence.
+>> - The lotus flower has been planted here.
+>> - Haku Stormfan appears from Allisee's crow-book.
+>> - Savan, the explorer's corpse found.
+>> - Savan's corpse contains: +2 staff, 5th rank scroll of lightning bolt and 5th rank scroll of healing.
+>> - Sava's corpse also had 500 Gold Pieces on it and his journal.
+>> - Viole loots the corpse and gives +2 staff to Selenor.
+
+> 06:00 -> 06:10 (Cardigan treats the wounds of the group).
+>> - Cardigan: Raw scars = 2. 
+>> - Allisee: Raw scars = 1. 
+>> - Carnon: Raw scars = 1.
+>> - Everyone has full health.
