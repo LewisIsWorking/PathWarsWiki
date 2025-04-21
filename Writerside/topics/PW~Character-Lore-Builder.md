@@ -46,6 +46,8 @@ Race
 2. What is your character’s Sub-Race?
 3. Has your character met other members of their race?
 4. Does your character like your race?
+5. Does your character like any races in particular? Why?
+6. Does your character hate any races in particular? Why?
 
 Parents and Family.
 
