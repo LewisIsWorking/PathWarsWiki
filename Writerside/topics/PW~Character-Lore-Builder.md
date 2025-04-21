@@ -23,7 +23,7 @@ click the following link = [PW~Golarion-Lore-The-Spoiler-Free-Version.md](PW~Gol
 1. How old is your character?
 2. What year was your character born?
 3. What day is your character’s birthday?
-4. At what age did they become an adventurer?
+4. At what age did the character become an adventurer?
 
 Class #1.
 
@@ -193,25 +193,23 @@ Go to this page to find out your alignment scale.
 
 ## Plot hooks.
 
-> 1: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
->> - What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a
-     > power, or finding their calling)?
->> - Does your character have a relationship they want to build or repair (for example, with a family member, a
-     > mentor, or even an estranged enemy)?
+> Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
+>> - What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a power or finding their calling)?
+>> - Does your character have a relationship they want to build or repair (for example, with a family member, a mentor or even an estranged enemy)?
 >> - Is there a location they have always wanted to visit or conquer? Why?
 >> - Does your character have an ideal legacy they wish to leave behind?
 >> - What is one immediate, achievable goal they are pursuing right now?
 >> - Is there a wrong they feel compelled to make right, either for themselves or someone else?
 >> - What is a selfish desire they may not admit to others but secretly want to fulfill?
 
-> 2: What are (at least) 3 secrets your character is hiding from the party? Examples include:
+> Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party? Examples include:
 >> - Do they have a past mistake or failure they are ashamed of?
 >> - Is there a relationship, alliance or obligation they have not told the party about (for example, a debt to a villain or membership in a questionable group)?
->> - Are they concealing something magical, cursed, or otherwise unusual about themselves?
+>> - Are they concealing something magical, cursed or otherwise unusual about themselves?
 >> - Do they harbour feelings of jealousy, resentment or distrust toward a party member? Why?
 >> - Is there an ulterior motive behind their reason for adventuring with the party that they have not shared?
 
-> 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
+> Part 3 of 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
 >> - Does your character have an unspoken grudge or tension with another party member?
 >> - Are their goals or ideals incompatible with the party’s mission?
 >> - Is there anything about their personality that might clash with others?
@@ -247,7 +245,7 @@ If you have any other questions about this, please contact me on my telegram.
 
 1. Are you higher than level 1? What level?
 2. What year did your character achieve first level in their class?
-3. How long has it been chronologically since your character was first level?
+3. How long has it been chronological since your character was first level?
 4. What has your character been doing since they started adventuring (aka first level)?
 5. How did you achieve each level? Aka what did you kill to level up?
 6. How long did each level take to achieve?
@@ -257,7 +255,7 @@ If you have any other questions about this, please contact me on my telegram.
 ## Time since level 1.
 
 This is a continuation of the 'Backstory by each year' section for if you are starting after the first level.
-This section involves writing what your character has been doing since level 1 aka since their backstory.
+This section involves writing what your character has been doing since level 1, aka since their backstory.
 
 To do this, you can decide at what age the character became level 1, and what age they are now.
 Example:
