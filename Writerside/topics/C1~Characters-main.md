@@ -8,6 +8,10 @@ Start typing here...
 - Barbarian & Witch.
 - Wielder of Moon-bear. [C1~Moonbear-and-artifacts-overview.md](C1~Moonbear-and-artifacts-overview.md)
 
+## Dorian Holloway.
+
+
+
 ## Selenor.
 
 - [C1~Characters-Selenor.md](C1~Main-character-Selenor.md)
