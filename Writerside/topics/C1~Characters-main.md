@@ -9,7 +9,8 @@ Start typing here...
 - Wielder of Moon-bear. [C1~Moonbear-and-artifacts-overview.md](C1~Moonbear-and-artifacts-overview.md)
 
 ## Dorian Holloway.
-
+- Barbarian/Monk
+- Charming gentleman and great cook.
 
 
 ## Selenor.
