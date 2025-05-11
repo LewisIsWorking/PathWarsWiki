@@ -577,3 +577,75 @@ Monster parts:
 >> - Allisee. Level 11. Exp: 800.
 >> - Selenor. Level 12. Exp: 171.
 >> - Cardigan. Level 12. Exp: 726.
+
+## Session 244.
+> 2025 May 10th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 14.
+>> - IRL start time: 21:37.
+>> - Players present: Anthony, Horia, Oscar, Tony, Askaran and Redecter (new player, playing Perphenius Galen).
+
+> Cardigan, Carnon, Selenor, Allisee, Viole, Haku Stormfan and Perphenius Galen defeat a bottomless pit. 
+> - 4 XP for level 11.
+> - 3 XP for level 12.
+
+> Present characters.
+>> - Perphenius Galen. Level 11. Exp: 0 + 4 = 4.
+>> - Haku Stormfan. Level 11. Exp: 60 + 4 = 64.
+>> - Carnon. Level 11. Exp: 720 + 4 = 724.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 730 + 4 = 734.
+>> - Allisee. Level 11. Exp: 800 + 4 = 804.
+>> - Selenor. Level 12. Exp: 171 + 3 = 174.
+>> - Cardigan. Level 12. Exp: 726 + 3 = 729.
+
+> New totals.
+>> - Perphenius Galen. Level 11. Exp: 4.
+>> - Haku Stormfan. Level 11. Exp: 64.
+>> - Carnon. Level 11. Exp: 724.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 734.
+>> - Allisee. Level 11. Exp: 804.
+>> - Selenor. Level 12. Exp: 174.
+>> - Cardigan. Level 12. Exp: 729.
+
+> Cardigan, Carnon, Selenor, Allisee, Viole, Haku Stormfan and Perphenius Galen defeat a bottomless pit.
+> - 8 XP for level 11.
+> - 6 XP for level 12.
+
+> Present characters.
+>> - Perphenius Galen. Level 11. Exp: 4 + 8 = 12.
+>> - Haku Stormfan. Level 11. Exp: 64 + 8 = 72.
+>> - Carnon. Level 11. Exp: 724 + 8 = 732.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 734 + 8 = 742.
+>> - Allisee. Level 11. Exp: 804 + 8 = 812.
+>> - Selenor. Level 12. Exp: 174 + 6 = 180.
+>> - Cardigan. Level 12. Exp: 729 + 6 = 735.
+
+> New totals.
+>> - Perphenius Galen. Level 11. Exp: 12.
+>> - Haku Stormfan. Level 11. Exp: 72.
+>> - Carnon. Level 11. Exp: 732.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 742.
+>> - Allisee. Level 11. Exp: 812.
+>> - Selenor. Level 12. Exp: 180.
+>> - Cardigan. Level 12. Exp: 735.
+
+> Cardigan, Carnon, Selenor, Allisee, Viole, Haku Stormfan and Perphenius Galen defeat the undead in the test of the necromancer.
+>> - Level 11: 60 x 1 = 60. 
+>> - Level 12: 40 x 1 = 40.
+>> - Test of the Necromancer: Zombie. Monster Parts. 560 GP. Size = Large.
+
+> Present characters.
+>> - Perphenius Galen. Level 11. Exp: 12 + 60 = 72.
+>> - Haku Stormfan. Level 11. Exp: 72 + 60 = 132.
+>> - Carnon. Level 11. Exp: 732 + 60 = 792.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 742 + 60 = 802.
+>> - Allisee. Level 11. Exp: 812 + 60 = 872.
+>> - Selenor. Level 12. Exp: 180 + 40 = 220.
+>> - Cardigan. Level 12. Exp: 735 + 40 = 775.
+
+> New totals.
+>> - Perphenius Galen. Level 11. Exp: 72.
+>> - Haku Stormfan. Level 11. Exp: 132.
+>> - Carnon. Level 11. Exp: 792.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 802.
+>> - Allisee. Level 11. Exp: 872.
+>> - Selenor. Level 12. Exp: 220.
+>> - Cardigan. Level 12. Exp: 775.

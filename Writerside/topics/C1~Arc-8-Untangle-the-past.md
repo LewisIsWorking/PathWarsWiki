@@ -475,3 +475,40 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Allisee: Raw scars = 1. 
 >> - Carnon: Raw scars = 1.
 >> - Everyone has full health.
+
+## Session 244.
+> 2025 May 10th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 14.
+>> - IRL start time: 21:37.
+>> - Players present: Anthony, Horia, Oscar, Tony, Askaran and Redecter (new player, playing Perphenius Galen).
+
+> 06:10.
+>> - Perphenius Galen joins the party.
+>> - Viole used divine wings.
+>> - Otari's soul will be destroyed / lost when Belcorra is slain.
+>> - Selenor talks to Perphenius Galen.
+
+> 06:30. 20 minutes spent treating wounds.
+>> - Nethys spent time with Selenor in a past life.
+>> - Selenor gets ancient Osirion translator skull summon.
+>> - Mektep-Han tells Viole that one half of Viole is what Nethys wants / was always missing.
+>> - Test of the necromancer.
+>> - Selenor gets a celestial caterpillar.
+
+> 06:30 -> 06:40. Viole spent 10 minutes treating his wounds. Everyone else, including Cardigan, refocused. 
+
+> 06:40 -> 07:00. Cardigan and Viole spend 20 minutes treating the wounds of the party.
+
+> 07:00 -> 07:20. More refocusing, Cardigan prays for 20 minutes, refocusing.
+>> - You return to the chamber of Mektep-Han. 
+>> - Mektep-Han: "Congratulations. You have completed 1 of the 3 challenges."
+>> - Mektep-Han: "You have 2 more challenges to complete."
+>> - The first door glows with a purple light for a moment, then disappears.
+
+> Session finished: 05:25am.
+>> - The Session started at 21:37.
+>> - Session duration: 7 hours 48 minutes.
+
+> 07:20.
+>> - The party walked up to the 2nd door.
+>> - Selenor could find out what this challenge is from his Ancient Osirion Skull.
+>> - The challenge is called "The Living Library".

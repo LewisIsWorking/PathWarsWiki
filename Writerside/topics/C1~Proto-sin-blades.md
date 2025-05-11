@@ -21,7 +21,8 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 - Charm Breaker.
 - Carnon's sword.
 - Amar Rookmoon -> Carnon.
-- Cardigan took it from Ra. Cardigan did not use it. Cardigan -> Amar.
+- Cardigan -> Amar.
+- Cardigan took it from Ra. Cardigan did not use it. 
 
 ## Ownership: Glimmer-Bane
 
@@ -42,10 +43,11 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 ## Ownership: Iron Oath.
 
 - Iron’s Oath.
-- Viole has iron oath (session 226).
+- Viole has iron-oath (session 226).
 - Isilynor Pranäe -> Viole.
 - Un-Trul -> Isilynor Pranäe.
 - Aarlak -> Un-Trul.
+- Aarlak was the original owner of the sword.
 
 ## Ownership: Sin-Reaver.
 
@@ -70,9 +72,9 @@ Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
 
 ## Overview & Lore.
 
-The High-Vale blades were crafted in High-Vale, the mountaintop cities of the Runewild elves.
+The High-Vale blades were crafted in High-Vale, the mountaintop cities of the Rune wild elves.
 
-There are 7 High-Vale blades throughout the Runewild.
+There are 7 High-Vale blades throughout the Rune wild.
 
 Each High-Vale blade is a +2 Striking Longsword.
 
@@ -85,7 +87,7 @@ Each High-Vale blade has a unique name and a unique property.
 > Shifting.
 >> - Each High-Vale blade has a shifting rune.
 >> - This can also be done as a free action outside combat.
->> - Note: After every combat encounter, high vale blades return to their original longsword form.
+>> - Note: After every combat encounter, high-vale blades return to their original longsword form.
 
 > The High-Vale Ritual.
 > - During daily preparations or by spending 1 minute later in the day, a high-vale blade wielder can copy their
@@ -130,7 +132,7 @@ Each High-Vale blade has a unique name and a unique property.
 4. Heat Death. Necromancy. Gluttony. Purple.
 	- While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you.
 	- Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw.
-	- The creature can’t regain hit points for 1 minute on a failure.
+	- The creature cannot regain hit points for 1 minute on a failure.
 	- At the end of each of the affected creature's turns, the creature can repeat the saving throw to end the effect.
 5. Iron’s Oath. Conjuration. Sloth. Blue.
 	- While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical).
