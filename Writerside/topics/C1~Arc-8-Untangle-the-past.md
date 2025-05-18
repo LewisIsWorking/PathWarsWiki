@@ -512,3 +512,18 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The party walked up to the 2nd door.
 >> - Selenor could find out what this challenge is from his Ancient Osirion Skull.
 >> - The challenge is called "The Living Library".
+
+## Session 245.
+> 2025 May 17th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 15.
+>> - IRL start time: 22:50.
+>> - Players present: Anthony, Horia, Oscar, Tony, Askaran and Redecter (new player, playing Perphenius Galen).
+
+> Living library.
+>> - Has a book: Allisee, Selenor, Viole and Cardigan.
+>> - Selenor has +4 to disbelieve scorpions for the rest of the encounter.
+>> - Everyone else gains +2 to disbelieve scorpions for the rest of the encounter.
+>> - Carnon has a total of +4 to disbelieve scorpions for the rest of the encounter.
+>> - Haku activates the red hourglass: all the bridges and catwalks combine.
+>> - You need a ladder to get up to the catwalks.
+>> - Haku has identified the violet hourglass as in the illuminator.
+>> - Round 2. Viole is stage 1 poisoned.
