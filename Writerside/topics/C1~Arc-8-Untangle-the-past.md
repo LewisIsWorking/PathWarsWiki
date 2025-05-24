@@ -527,3 +527,10 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - You need a ladder to get up to the catwalks.
 >> - Haku has identified the violet hourglass as in the illuminator.
 >> - Round 2. Viole is stage 1 poisoned.
+
+## Session 246.
+> 2025 May 25th Sunday + 4710 AR, Wealday 31st Arodus + Eto part 16.
+>> - IRL start time: 00:55.
+>> - Players present: Anthony, Horia, Askaran.
+
+> Living library encounter continued.
