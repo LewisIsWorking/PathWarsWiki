@@ -18,4 +18,8 @@
         <description>Created after removal of "Third Party" from Main Instance</description>
         <accepts>Third-Party.html</accepts>
     </rule>
+    <rule id="987bf5c">
+        <description>Created after removal of "1-Zelvuul.md" from Main Instance</description>
+        <accepts>1-Zelvuul.html</accepts>
+    </rule>
 </rules>

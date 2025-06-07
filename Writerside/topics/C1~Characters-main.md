@@ -10,8 +10,7 @@ Start typing here...
 
 ## Dorian Holloway.
 - Barbarian/Monk
-- Charming gentleman and great cook.
-
+- A charming gentleman and great cook.
 
 ## Selenor.
 

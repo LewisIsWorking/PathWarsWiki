@@ -2,6 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="WrsLinkTextMatchesTopicTitleInspection" enabled="true" level="TEXT ATTRIBUTES" enabled_by_default="true" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
+    <inspection_tool class="WrsTopicContentTopicNotInCurrentInstance" enabled="false" level="TEXT ATTRIBUTES" enabled_by_default="false" editorAttributes="CONSIDERATION_ATTRIBUTES" />
     <inspection_tool class="WrsTopicContentTopicUnused" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   </profile>
 </component>
