@@ -15,5 +15,10 @@
             <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
+    <build-profile instance="characters">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>

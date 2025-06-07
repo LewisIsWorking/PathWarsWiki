@@ -22,4 +22,12 @@
         <description>Created after removal of "1-Zelvuul.md" from Main Instance</description>
         <accepts>1-Zelvuul.html</accepts>
     </rule>
+    <rule id="1d449052">
+        <description>Created after removal of "Test.md" from Characters</description>
+        <accepts>Test-md.html</accepts>
+    </rule>
+    <rule id="13708c75">
+        <description>Created after removal of "About Characters!" from Characters</description>
+        <accepts>characters.html</accepts>
+    </rule>
 </rules>

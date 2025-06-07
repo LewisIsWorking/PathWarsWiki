@@ -4,14 +4,14 @@ Starting Guide Link.
 - [Getting-started.md](TOC~PathWars.md)
 - [Getting-started-guide.md](PW~Getting-started-guide.md)
 
-## Build YOUR Character’s Life HERE!
+## Build YOUR Character's Life HERE!
 
 Below is the table to copy and paste into your own Writerside workspace and fill out.
 
 Core.
 
-1. What is your character’s name?
-2. What does your character’s first name mean?
+1. What is your character's name?
+2. What does your character's first name mean?
 3. What does your character's last name mean?
 4. Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"
 
@@ -22,12 +22,12 @@ click the following link = [PW~Golarion-Lore-The-Spoiler-Free-Version.md](PW~Gol
 
 1. How old is your character?
 2. What year was your character born?
-3. What day is your character’s birthday?
+3. What day is your character's birthday?
 4. At what age did the character become an adventurer?
 
 Class #1.
 
-1. What is your character’s class?
+1. What is your character's class?
 2. Does your character enjoy their class?
 3. How did your character become their class?
 4. Who trained your character in their class?
@@ -37,13 +37,13 @@ Class #2.
 Normally dual class is gained during a session via a powerful artefact or a given boon.
 You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.
 
-1. What will/is your character’s 2nd class be?
+1. What will/is your character's 2nd class be?
 2. Does/Will your character enjoy their 2nd class?
 
 Race
 
-1. What is your character’s Race?
-2. What is your character’s Sub-Race?
+1. What is your character's Race?
+2. What is your character's Sub-Race?
 3. Has your character met other members of their race?
 4. Does your character like your race?
 5. Does your character like any races in particular? Why?
@@ -55,7 +55,7 @@ Parents and Family.
 2. Where were you raised?
 3. Who raised your characters?
 4. Who are your parents?
-5. What are your parents’ names?
+5. What are your parents' names?
 6. Are your parents alive?
 7. What did your parents do for a living?
 8. Do you have any other family or friends?
@@ -64,8 +64,8 @@ Parents and Family.
 
 ## Love.
 
-1. What is your character’s sexuality?
-2. What is your character’s marital status?
+1. What is your character's sexuality?
+2. What is your character's marital status?
 3. Does your character have kids?
 4. Does your character want kids?
 5. Is your character in love?
@@ -75,12 +75,12 @@ Parents and Family.
 
 ## The Mind | Thoughts and Feelings.
 
-1. What is your character’s alignment?
-2. What is your character’s moral code?
+1. What is your character's alignment?
+2. What is your character's moral code?
 3. Does your character have goals?
 4. Does your character follow a God?
 5. What God (if any) does your character follow?
-6. What are your character’s personal beliefs?
+6. What are your character's personal beliefs?
 7. Does your character have any personality quirks?
 8. Are they anti-social?
 9. Are they Arrogant?
@@ -124,9 +124,9 @@ Parents and Family.
 ## Weapons.
 
 1. What kind of weapons does your character fight with?
-	1. What does your character’s weapon look like?
-	2. Who made your character’s weapon?
-	3. Who added the runes to your character’s weapons?
+	1. What does your character's weapon look like?
+	2. Who made your character's weapon?
+	3. Who added the runes to your character's weapons?
 	4. Who trained your character in using weapons?
 	5. Does your character like using weapons?
 
@@ -135,9 +135,9 @@ Parents and Family.
 ## Armour.
 
 1. What kind of armour does your character wear?
-2. What does your character’s armour look like?
-3. Who made your character’s armour?
-4. Who added the runes to your character’s armour?
+2. What does your character's armour look like?
+3. Who made your character's armour?
+4. Who added the runes to your character's armour?
 5. Who trained your character in wearing armour?
 6. Does your character like wearing armour?
    Magic	1. What kind of magic does your character use?
@@ -154,8 +154,8 @@ Parents and Family.
 ## Spell Caster.
 
 1. Can your character cast spells?
-	1. What tradition is your character’s magic? Arcane? Primal? Divine? Occult?
-	2. Where does your character’s magic come from?
+	1. What tradition is your character's magic? Arcane? Primal? Divine? Occult?
+	2. Where does your character's magic come from?
 	3. Who trained your character to use your magic?
 	4. What does your character like to do with your magic?
 	5. What is the highest level spell slot your character has access to?
@@ -165,9 +165,9 @@ Parents and Family.
 ## Equipment.
 
 1. Does your character have a backpack?
-2. What does your character’s backpack look like?
+2. What does your character's backpack look like?
 3. Does your character have a bag of holding?
-4. What does your character’s bag of holding look like?
+4. What does your character's bag of holding look like?
 
 ---
 
@@ -185,7 +185,7 @@ Parents and Family.
 
 ## Alignment Scale.
 
-1. What is your character’s alignment scale?
+1. What is your character's alignment scale?
 
 Go to this page to find out your alignment scale.
 
@@ -213,7 +213,7 @@ Go to this page to find out your alignment scale.
 
 > Part 3 of 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
 >> - Does your character have an unspoken grudge or tension with another party member?
->> - Are their goals or ideals incompatible with the party’s mission?
+>> - Are their goals or ideals incompatible with the party's mission?
 >> - Is there anything about their personality that might clash with others?
 >> - Are they hiding something that could potentially harm or betray the party?
 
@@ -221,7 +221,7 @@ Go to this page to find out your alignment scale.
 
 ## Backstory.
 
-Finally, what is your character’s backstory?
+Finally, what is your character's backstory?
 
 ---
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="characters"
+                  name="Characters"
+                  start-page="01-Zelvuul.md">
+
+    <toc-element topic="01-Zelvuul.md"/>
+    <!-- Add more character topics with Characters/ prefix -->
+</instance-profile>
