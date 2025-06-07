@@ -429,9 +429,9 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 18:00.
 >> - The party find out how to open the door.
 >> - The party open the door and fight a mummy lord.
->> - With Allisee tanking a lot of damage, Carnon and Selenor are able to beat the Mummy. 
->> - Selenor Demoralizes the Mummy saying, 
->> - "I offered you peace, I offered you life. Return to the realm of your master". 
+>> - With Allisee tanking a lot of damage, Carnon and Selenor are able to beat the Mummy.
+>> - Selenor Demoralizes the Mummy saying,
+>> - "I offered you peace, I offered you life. Return to the realm of your master".
 >> - Then smashes his dusty head in.
 
 > 18:10.
@@ -471,8 +471,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Viole loots the corpse and gives +2 staff to Selenor.
 
 > 06:00 -> 06:10 (Cardigan treats the wounds of the group).
->> - Cardigan: Raw scars = 2. 
->> - Allisee: Raw scars = 1. 
+>> - Cardigan: Raw scars = 2.
+>> - Allisee: Raw scars = 1.
 >> - Carnon: Raw scars = 1.
 >> - Everyone has full health.
 
@@ -494,12 +494,12 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Test of the necromancer.
 >> - Selenor gets a celestial caterpillar.
 
-> 06:30 -> 06:40. Viole spent 10 minutes treating his wounds. Everyone else, including Cardigan, refocused. 
+> 06:30 -> 06:40. Viole spent 10 minutes treating his wounds. Everyone else, including Cardigan, refocused.
 
 > 06:40 -> 07:00. Cardigan and Viole spend 20 minutes treating the wounds of the party.
 
 > 07:00 -> 07:20. More refocusing, Cardigan prays for 20 minutes, refocusing.
->> - You return to the chamber of Mektep-Han. 
+>> - You return to the chamber of Mektep-Han.
 >> - Mektep-Han: "Congratulations. You have completed 1 of the 3 challenges."
 >> - Mektep-Han: "You have 2 more challenges to complete."
 >> - The first door glows with a purple light for a moment, then disappears.
@@ -534,3 +534,26 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Players present: Anthony, Horia, Askaran.
 
 > Living library encounter continued.
+>> - Round 3.
+>> - Viole is stage 1 poisoned.
+>> - Allisee notices in the scholar's desk that there are rare scrolls (post-combat loot).
+>> - Allisee has a +3 bonus to study at the Scholar's Desk.
+>> - Allisee learns the hourglasses to represent the ways magic manipulates the world: creation and destruction.
+>> - Allisee learns all about the hourglasses.
+>> - Allisee: read (>>), pulls out flying potion (>).
+>> - Selenor: teleport (>), goes up the scaffolding (>>).
+>> - Haku: stride to the green hourglass (>), channels into the green hourglass (>>).
+>> - The scorpions are now weakened.
+>> - Round 3. Green hourglass = step 2.
+>> - Carnon reads about illusion insight in the reading nook (>>>).
+>> - Two things happen.
+>> - 1: Party wide Carnon yells his insight about the illusions. 
+>> - The party gains a +2 circumstance bonus to disbelieve illusions & will save throws for the rest of the encounter.
+>> - 2: Carnon from spending time reading in the reading nook gets 40 HP back.
+>> - Cardigan reads a book dispelling a scorpion for one turn (>).
+>> - Enemy side.
+>> - Scorpion 1: stride (>), climb (>), climb (>).
+>> - Scorpion 3: stride (>), stride (>), Claw strikes Viole, hit, 30 damage as Viole gets crushed by the scorpion's claw.
+>> - Viole is then picked up by the scorpion and fully restrained.
+>> - Round 4. 
+>> - Green hourglass = step 3. Scorpions moving strangely.

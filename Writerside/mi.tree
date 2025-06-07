@@ -63,6 +63,7 @@
             <toc-element topic="C7-Starfinder-2e-discord-ad.md"/>
         </toc-element>
         <toc-element topic="TOC~PathWars.md">
+            <toc-element topic="PW-Multi-discord-ad.md"/>
             <toc-element topic="PW-Alignment-scale.md"/>
             <toc-element topic="PW~Available-classes.md"/>
             <toc-element topic="PW~Character-Lore-Builder.md"/>
