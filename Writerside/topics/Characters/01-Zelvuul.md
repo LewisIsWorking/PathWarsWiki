@@ -14,13 +14,13 @@ No title.
 
 How old is your character?
 What year was your character born?
-What day is your character’s birthday?
+What day is your character's birthday?
 At what age did the character become an adventurer?
 
-Unknown to my character (probably roughly in the 40s area)
-Unknown
-Unknown
-They became an adventurer around 13-14 years ago
+Unknown to my character (probably roughly in the 40s area).
+Unknown.
+Unknown.
+They became an adventurer around 13-14 years ago.
 
 What is your character's class?
 Does your character enjoy their class?

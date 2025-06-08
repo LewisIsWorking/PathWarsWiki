@@ -557,3 +557,23 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Viole is then picked up by the scorpion and fully restrained.
 >> - Round 4. 
 >> - Green hourglass = step 3. Scorpions moving strangely.
+
+## Session 247.
+> 2025 June 7th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 16.
+>> - IRL start time: 23:03.
+>> - Players present: Askaran, Tony and Hazel.
+
+> Round 4.
+>> - Zelvuul joins the party and casts "runic weapon".
+>> - Viole: hasted stride (>), impaling spike (>>). The scorpion critically succeeds.
+>> - Red hourglass cooldown will reset on round 6.
+>> - Haku: stride (>), channel into the silver hourglass (>), Haku grabs 1 book.
+>> - Hourglasses activated: red, green and silver.
+>> - Effects active: 1 book for every main character per round & book effects are double.
+>> - Carnon: Reads about the cauldron (>), activates his cloak of the bat (>>), hasted flies towards the cauldron (>).
+>> - Viole is NO LONGER poisoned.
+>> - Selenor's turn: read his free once per round book (>), critical success.
+>> - Selenor gets arcane insight (advantage on next magic-related check) 
+>> - and SILVER book effect which is automatic success on Selenor's next will save.
+>> - Selenor then casts suspended retribution (>>).
+>> - Players left to take their turn in round 4: Perphenius Galen, Cardigan and Allisee.
