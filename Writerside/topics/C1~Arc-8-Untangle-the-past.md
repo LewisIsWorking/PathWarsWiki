@@ -318,7 +318,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 22:00
 >> - Sandy Pot bar.
 >> - Alleyway nearby.
->> - Viole says VEIL: Carnon is an orc, Allisee is a female dwarf and Viole male human. They all smell good.
+>> - Viole says VEIL: Carnon is an orc, Allisee is a female dwarf and Viole is a male human. They all smell good.
 
 > 23:00.
 >> - The Party returns to the bathhouse and sleeps.
@@ -547,7 +547,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Round 3. Green hourglass = step 2.
 >> - Carnon reads about illusion insight in the reading nook (>>>).
 >> - Two things happen.
->> - 1: Party wide Carnon yells his insight about the illusions. 
+>> - 1: Party wide Carnon yells his insight about the illusions.
 >> - The party gains a +2 circumstance bonus to disbelieve illusions & will save throws for the rest of the encounter.
 >> - 2: Carnon from spending time reading in the reading nook gets 40 HP back.
 >> - Cardigan reads a book dispelling a scorpion for one turn (>).
@@ -555,7 +555,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Scorpion 1: stride (>), climb (>), climb (>).
 >> - Scorpion 3: stride (>), stride (>), Claw strikes Viole, hit, 30 damage as Viole gets crushed by the scorpion's claw.
 >> - Viole is then picked up by the scorpion and fully restrained.
->> - Round 4. 
+>> - Round 4.
 >> - Green hourglass = step 3. Scorpions moving strangely.
 
 ## Session 247.
@@ -573,7 +573,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Carnon: Reads about the cauldron (>), activates his cloak of the bat (>>), hasted flies towards the cauldron (>).
 >> - Viole is NO LONGER poisoned.
 >> - Selenor's turn: read his free once per round book (>), critical success.
->> - Selenor gets arcane insight (advantage on next magic-related check) 
->> - and SILVER book effect which is automatic success on Selenor's next will save.
+>> - Selenor gets arcane insight (advantage on next magic-related check)
+>> - and SILVER book effect, which is automatic success on Selenor's next will save.
 >> - Selenor then casts suspended retribution (>>).
 >> - Players left to take their turn in round 4: Perphenius Galen, Cardigan and Allisee.
