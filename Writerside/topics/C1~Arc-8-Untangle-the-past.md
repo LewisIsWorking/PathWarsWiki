@@ -566,14 +566,73 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > Round 4.
 >> - Zelvuul joins the party and casts "runic weapon".
 >> - Viole: hasted stride (>), impaling spike (>>). The scorpion critically succeeds.
->> - Red hourglass cooldown will reset on round 6.
+>> - Red hourglass cooldown will reset on round 5.
 >> - Haku: stride (>), channel into the silver hourglass (>), Haku grabs 1 book.
 >> - Hourglasses activated: red, green and silver.
 >> - Effects active: 1 book for every main character per round & book effects are double.
 >> - Carnon: Reads about the cauldron (>), activates his cloak of the bat (>>), hasted flies towards the cauldron (>).
 >> - Viole is NO LONGER poisoned.
 >> - Selenor's turn: read his free once per round book (>), critical success.
->> - Selenor gets arcane insight (advantage on next magic-related check)
->> - and SILVER book effect, which is automatic success on Selenor's next will save.
+>> - Selenor gets arcane insight (advantage on the next magic-related check)
+>> - and SILVER book effect, which is an automatic success on Selenor's next will save.
 >> - Selenor then casts suspended retribution (>>).
 >> - Players left to take their turn in round 4: Perphenius Galen, Cardigan and Allisee.
+
+## Session 248.
+> 2025 June 13th Friday + 4710 AR, Wealday 31st Arodus + Eto part 17.
+>> - IRL start time: 21:11.
+>> - Players present: Horia, Oscar and Anthony.
+
+> Round 4.
+>> - Perphenius Galen climbs up the scaffolding (>>>).
+>> - Allisee: studies her book (>>>) to learn arcane flow disruption.
+
+> Round 5.
+>> - Allisee: learns arcane flow disruption and can suppress Scorpions for 1 round (will save versus the scorpion's will DC).
+>> - Allisee studies tactical manuals (>>).
+>> - This gets everyone gets an untyped +4 to disbelieve illusions for the rest of the encounter.
+>> - Allisee: drinks a potion of flying (>).
+>> - Red hourglass cooldown is reset.
+>> - Haku Stormfan strides (>) and then channels into the red hourglass (>) and strides (>) to the cyan hourglass.
+>> - Selenor: gets right up to the scorpion and casts "soul siphon" (>), the scorpion critically succeeds its save.
+>> - Viole: reads spell casting enhancements (>>>).
+>> - Spellcasters can meta magic 1 action to gain "truth enhancement". 
+>> - Truth Enhanced spells gain +2 to spell attack rolls and +1 to save DCs when targeting illusions. 
+>> - Divination spells & dispel illusions cast from the nook automatically succeed.
+>> - Viole regains 40 HP.
+
+> Round 6.
+>> - Red hourglass cooldown is reset.
+>> - Haku Stormfan activates the cyan hourglass (>).
+>> - Two things happen:
+>> - 1: The Restricted archive is available at the scholar's desk.
+>> - 2: Scribing table to scribe scrolls is available at the scholar's desk.
+>> - Viole creates a scroll of true sight.
+>> - Cardigan activates purple hourglass.
+>> - Round 1 of purple hourglass: brightness +6 disbelief for everyone.
+>> - Selenor casts "suspended retribution" (>>) on the real scorpion.
+>> - Cardigan spends 2 actions turning the gold hourglass.
+
+> Round 7.
+>> - Allisee grabbed.
+>> - Haku actives the golden hourglass (>). Cooldown until round 10.
+>> - Purple hourglass: normal light.
+
+> Round 8.
+>> - Purple hourglass: murky light. Players have -2 to attack rolls, perception checks and disbelieve checks.
+>> - Cardigan turns the purple hourglass (>). Natural 20. 2/10.
+>> - Viole turns the purple hourglass (>). 3/10.
+>> - Perphenius Galen turns the purple hourglass (>). 4/10.
+>> - Haku Stormfan turns the purple hourglass (>). 5/10.
+
+> Round 9. 
+>> - Purple hourglass: cooldown finished.
+>> - Viole is stage 1 poisoned.
+>> - Viole uses gloves.
+>> - Viole turns the purple hourglass (>). 6/10.
+>> - Viole turns the purple hourglass (>). 7/10.
+>> - Viole is stage 2 poisoned.
+>> - Perphenius Galen turns the purple hourglass (>). 8/10.
+>> - Viole is now back to stage 1 poisoned thanks to Cardigan.
+>> - Cardigan turns the purple hourglass (>). 9/10.
+>> - Haku Stormfan turns the purple hourglass (>). 10/10.
