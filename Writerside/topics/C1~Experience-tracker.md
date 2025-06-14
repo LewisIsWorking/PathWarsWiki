@@ -649,3 +649,35 @@ Monster parts:
 >> - Allisee. Level 11. Exp: 872.
 >> - Selenor. Level 12. Exp: 220.
 >> - Cardigan. Level 12. Exp: 775.
+
+## Session 248.
+> 2025 June 13th Friday + 4710 AR, Wealday 31st Arodus + Eto part 17.
+>> - IRL start time: 21:11.
+>> - Players present: Horia, Oscar and Anthony.
+
+> Nethys test #2.
+>> - 11 = 240.
+>> - 12 = 160.
+
+> Present characters.
+>> - Perphenius Galen. Level 11. Exp: 72 + 240 = 312.
+>> - Haku Stormfan. Level 11. Exp: 132 + 240 = 372.
+>> - Carnon. Level 11. Exp: 792 + 240 = 1032.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 802 + 240 = 1042.
+>> - Allisee. Level 11. Exp: 872 + 240 = 1112.
+>> - Selenor. Level 12. Exp: 220 + 160 = 380.
+>> - Cardigan. Level 12. Exp: 775 + 160 = 935.
+
+> New totals.
+>> - Perphenius Galen. Level 11. Exp: 312.
+>> - Haku Stormfan. Level 11. Exp: 372.
+>> - Carnon. Level 11. Exp: 1032.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 1042.
+>> - Allisee. Level 11. Exp: 1112.
+>> - Selenor. Level 12. Exp: 380.
+>> - Cardigan. Level 12. Exp: 935.
+
+> Monster parts: Obsidian scorpion golem essence. 
+>> - 8 bulk.
+>> - Size = Gargantuan.
+>> - 2800 GP.

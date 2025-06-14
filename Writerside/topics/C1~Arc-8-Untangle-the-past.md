@@ -636,3 +636,9 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Viole is now back to stage 1 poisoned thanks to Cardigan.
 >> - Cardigan turns the purple hourglass (>). 9/10.
 >> - Haku Stormfan turns the purple hourglass (>). 10/10.
+
+> 07:30 -> 08:00.
+>> Party refocuses to regain all points while in the reading nook, so everyone has full focus points and full hit points.
+
+> 08:00.
+>> - The party is ready to face the final challenge of the Living Library.
