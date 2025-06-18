@@ -2,7 +2,7 @@
 
 Starting Guide Link.
 - [Getting-started.md](TOC~PathWars.md)
-- [Getting-started-guide.md](PW~Getting-started-guide.md)
+- [Getting-started-guide.md](Getting-started-guide.md)
 
 ## Build YOUR Character's Life HERE!
 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="Info"
+                 name="Info"
+                 start-page="Content-warning.md">
+
+    <toc-element toc-title="Info">
+        <toc-element topic="Character-Lore-Builder.md"/>
+        <toc-element topic="Content-warning.md"/>
+        <toc-element topic="Declaring-your-actions.md"/>
+        <toc-element topic="Easy-tools.md"/>
+        <toc-element topic="Getting-started-guide.md"/>
+        <toc-element topic="How-to-LEAVE-a-campaign.md"/>
+        <toc-element topic="Joining-foundry.md"/>
+    </toc-element>
+</instance-profile>
