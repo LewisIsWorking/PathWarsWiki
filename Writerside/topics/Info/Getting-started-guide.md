@@ -16,17 +16,15 @@
 
 ## Checklist.
 
-- Meet the requirements (above this text).
-- Read the content warning guide.
-- Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
-- Join the telegram group.
-- Play with us! :3
+> To join the campaign, please follow these steps:
+>> - Meet the requirements (above this text).
+>> - Read the content warning guide.
+>> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
+>> - Join the telegram group.
+>> - Play with us! :3
+>> - Get ready to play on Foundry (optional): [Joining-foundry.md](Joining-foundry.md)
 
 - If you need any help, ask on the discord server / telegram group!
-
-## The extended checklist (optional).
-
-- Get ready to play on Foundry.
 
 ## Welcome!
 
