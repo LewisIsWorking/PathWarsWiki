@@ -16,7 +16,7 @@
 
 ## Checklist.
 
-> To join the campaign, please follow these steps:
+> To join the campaign, please read the following steps:
 >> - Meet the requirements (above this text).
 >> - Read the content warning guide.
 >> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
