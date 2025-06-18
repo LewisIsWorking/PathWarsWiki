@@ -154,6 +154,9 @@
 
 ## Change log.
 
+> 2025-06-18.
+>> - Massively restructured, shorted and refactored (broke out) chunks of the guide into their own pages in the info folder.
+
 > 2025-01-19.
 >> - Changed formatting.
 
