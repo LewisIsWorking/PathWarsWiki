@@ -36,7 +36,7 @@
 >> - Campaign 4 Agents of Magni Watch. Level 1 -> 20.
 >> - Campaign 5 The Grand Explorers. Level 1 -> 20.
 >> - Campaign 6 Kibwe. Level 6 -> 8.
->> - Campaign 7 StarFinder. Level 1 -> 15?
+>> - Campaign 7 StarFinder. Level 1 -> 15.
 
 ## Welcome!
 
