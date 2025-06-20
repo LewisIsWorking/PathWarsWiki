@@ -26,6 +26,18 @@
 
 - If you need any help, ask on the discord server / telegram group!
 
+## Level ranges.
+
+> The level ranges for the campaigns are as follows:
+>> - Campaign 1 Doomsday Funtime. Level 11 -> 20+.
+>> - Campaign 1.5 Riddleport. Level 2 -> 20.
+>> - Campaign 2 Crimson Throne. Level 1 -> 18. [COMPLETED].
+>> - Campaign 3 Etran's Folly. Level 1 -> 4. [COMPLETED].
+>> - Campaign 4 Agents of Magni Watch. Level 1 -> 20.
+>> - Campaign 5 The Grand Explorers. Level 1 -> 20.
+>> - Campaign 6 Kibwe. Level 6 -> 8.
+>> - Campaign 7 StarFinder. Level 1 -> 15?
+
 ## Welcome!
 
 > Before we go any further...
@@ -100,8 +112,8 @@
 
 > How to enable the variant rules.
 >> - To enable variant rules on Path-Builder 2e, do the following: [PW~Pathbuilder-setup.md.](PW~Pathbuilder-setup.md)
->> - Options → Then Tick the Box next to the rule. 
->> - For dual-class it would be: Options → Tick the Dual Class box.
+>> - Options -> Then Tick the Box next to the rule. 
+>> - For dual-class it would be: Options -> Tick the Dual Class box.
 
 > NOTE ABOUT = Selecting 3rd party content on Pathbuilder:
 >> - **3rd Party Content.**

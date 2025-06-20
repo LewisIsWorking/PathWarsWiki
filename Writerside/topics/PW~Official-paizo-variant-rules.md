@@ -9,10 +9,10 @@ Format = Rule Name - Sub-Rule - Status - Link
 > World #2 contains all other path war campaigns:
 >> - Campaign 2 Crimson Throne.
 >> - Campaign 3 Etran's Folly.
->> - Campaign 4 Agents of Edgewatch.
+>> - Campaign 4 Agents of Magni Watch.
 >> - Campaign 5 The Grand Explorers.
 >> - Campaign 6 Kibwe.
->> - Campaign 7 Starfinder.
+>> - Campaign 7 Star finder.
 
 ## Variant Rules
 - https://pf2easy.com/index.php?id=7703&name=Variant_Rules
