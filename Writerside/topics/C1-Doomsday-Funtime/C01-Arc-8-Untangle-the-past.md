@@ -658,6 +658,28 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 09:00.
 >> - Combat begins.
 >> - Round 1.
->> - Water level: 20 feet (ca. 6 m).
+>> - Water level: 30 feet (ca. 9 m).
 >> - Carnon sinks 10 feet.
 >> - Allisee: Hangnail. If you attacked with a claw or fist, you cannot use that attack until the end of your next turn.
+>> - Apophis can do breath-attack on round 3.
+
+> Round 2.
+>> - Water level: 25 feet (ca. 8 m).
+>> - Apophis is slowed until round 3.
+>> - Allisee blinded until round 4.
+>> - Suspended retribution on Apophis if he does a breath weapon.
+>> - Haku is stage 1 poisoned.
+
+> Round 3.
+>> - Water level: 15 feet (4.57 m).
+>> - Breath weapon: round 6.
+
+> Round 4.
+>> - The Water level went from 0 feet to 15 feet (4.57 m).
+>> - Haku grabs the key from Allisee.
+>> - Haku flies up.
+
+> Combat over!
+>> - Selenor gets:
+>> - ONE-THIRD OF THE FINAL SPELL. 
+>> - AND ONE HUNDRED PER CENT OF A SANDITT!!!!!!!!!!!!!!!!!!!

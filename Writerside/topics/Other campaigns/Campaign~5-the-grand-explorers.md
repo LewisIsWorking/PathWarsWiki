@@ -125,7 +125,7 @@ The grand lounge will give the grand explorers missions.
 
 ## Year 1.
 
-Year 1 is made up of 25 missions with the first mission (1-00) being a purely introductory mission.
+Year 1 is made up of 25 missions, with the first mission (1-00) being a purely introductory mission.
 
 | Year - Mission Number | Level |
 |-----------------------|-------|
