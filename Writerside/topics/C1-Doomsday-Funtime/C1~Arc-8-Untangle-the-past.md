@@ -596,8 +596,8 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Haku Stormfan strides (>) and then channels into the red hourglass (>) and strides (>) to the cyan hourglass.
 >> - Selenor: gets right up to the scorpion and casts "soul siphon" (>), the scorpion critically succeeds its save.
 >> - Viole: reads spell casting enhancements (>>>).
->> - Spellcasters can meta magic 1 action to gain "truth enhancement". 
->> - Truth Enhanced spells gain +2 to spell attack rolls and +1 to save DCs when targeting illusions. 
+>> - Spellcasters can meta magic 1 action to gain "truth enhancement".
+>> - Truth Enhanced spells gain +2 to spell attack rolls and +1 to save DCs when targeting illusions.
 >> - Divination spells & dispel illusions cast from the nook automatically succeed.
 >> - Viole regains 40 HP.
 
@@ -625,7 +625,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Perphenius Galen turns the purple hourglass (>). 4/10.
 >> - Haku Stormfan turns the purple hourglass (>). 5/10.
 
-> Round 9. 
+> Round 9.
 >> - Purple hourglass: cooldown finished.
 >> - Viole is stage 1 poisoned.
 >> - Viole uses gloves.
@@ -642,3 +642,15 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 
 > 08:00.
 >> - The party is ready to face the final challenge of the Living Library.
+
+## Session 249.
+> 2025 June 20th Friday + 4710 AR, Wealday 31st Arodus + Eto part 18.
+>> - IRL start time: 22:13.
+>> - Players present: Horia, Oscar and Anthony.
+
+> 08:30.
+>> - Mektep-Han found out that the Final Spell references the Crumbling Tower, the plane of The Lost Prince.
+>> - The Lost prince's favoured animal is a raven, the same animal that is on the cover of Allisee's book.
+>> - The party find out that in pre-Osirion times, Urgathoa attacked the nation for the horsemen, for some reason.
+>> - TODO: What animal is on the cover of Allisee's book?
+>> - Nethys helped create Curse breaker.

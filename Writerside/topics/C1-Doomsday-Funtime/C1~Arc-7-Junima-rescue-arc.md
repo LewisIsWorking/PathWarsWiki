@@ -104,7 +104,7 @@ You see the shards of sin glow, though Selenor does not seem to notice.
 
 A beam of light leaps from the scroll, and before you there stands this entity:
 
-![DivineSerpent.png](../images/DivineSerpent.png)
+![DivineSerpent.png](../../images/DivineSerpent.png)
 
 She has 7 feathered wings.
 
@@ -298,7 +298,7 @@ Immediately a 7-pointed star tattoo burns into the skin on the back of your hand
 You become haunted by visions of a falling star.
 As these visions take hold, at the centre of the 7-pointed star is this symbol:
 
-![GreedSinRune.png](../images/SinRuneGreed.png)
+![GreedSinRune.png](../../images/SinRuneGreed.png)
 
 Your armour shifts, changes and becomes a green tight-fitting cloak that goes past your chin, partly concealing your 
 face.
@@ -312,7 +312,7 @@ You amuse me, endlessly."`
 The symbol starts to shift and change, the colours of the robe and the robe's shape start to shift and change as 
 well...to that of envy.
 
-![SinRuneEnvy.png](../images/SinRuneEnvy.png)
+![SinRuneEnvy.png](../../images/SinRuneEnvy.png)
 
 Allisee's tattoo is now the runic symbol of envy.
 

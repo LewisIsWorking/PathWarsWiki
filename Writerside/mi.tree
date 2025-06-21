@@ -7,6 +7,7 @@
                  start-page="TOC~PathWars-campaigns.md">
 
     <toc-element topic="TOC~All-topics.md">
+        <toc-element topic="Monster-parts-usage-log.md"/>
         <toc-element topic="TOC~3rdPartyOptions.md">
             <toc-element topic="PW~3rd-party-content-and-options.md"/>
             <toc-element topic="PW~Heroic-Crafting.md"/>
