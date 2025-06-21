@@ -106,7 +106,7 @@ https://github.com/JimmyJackJones/Jimmy-Characters/blob/master/Writerside/topics
 
 1. Complete the Path Wars starting guide.
 
-[Getting-started-guide.md](PW~Getting-started-guide.md)
+[Getting-started-guide.md](Getting-started-guide.md)
 
 1. Create your character up to level 10.
 
