@@ -4,8 +4,8 @@
 
 <instance-profile id="characters"
                   name="Characters"
-                  start-page="01-Zelvuul.md">
+                  start-page="C01-Zelvuul.md">
 
-    <toc-element topic="01-Zelvuul.md"/>
+    <toc-element topic="C01-Zelvuul.md"/>
     <!-- Add more character topics with Characters/ prefix -->
 </instance-profile>
