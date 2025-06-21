@@ -115,7 +115,7 @@ The Varisians call Giant’s “The Builders” in their language.
 
 ## Deities of Golarion Infographic.
 
-![Core 20 Deities Of Golarion](../images/CoreDeitiesOfGolarion.jpg)
+![Core 20 Deities Of Golarion](../../images/CoreDeitiesOfGolarion.jpg)
 
 1. Abadar.
 2. Asmodeus.

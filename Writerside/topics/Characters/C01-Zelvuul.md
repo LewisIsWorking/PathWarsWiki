@@ -52,14 +52,19 @@ Body
 See character art for their human form, which is what they will be in basically all the time. Their demon form would have yellower skin, very small winglets, and blunted, shaved down horns, but otherwise be very similar
 Female
 Roughly 6" - 6"1'
-I do not know body weight well enough to say an amount, but they will be stocky and well built, mostly muscle
+I do not know body weight well enough to say an amount, but they will be stocky and well-built, mostly muscle
 Pale skin.
 Bright blue eyes.
 Brown hair.
 Very long hair, braided to keep it out of their face.
-It would be noticed that they hold them self with unusual stiffness, not unnaturally/uncomfortably so, but in a disciplined way enough to be noticed
+It would be noticed that they hold themselves with unusual stiffness, not unnaturally/uncomfortably so, but in a disciplined way that is enough to be noticed.
+
 They tend to speak fairly bluntly, without much in the way of descriptors or embellishment, in a very calm tone.
 
 They fight using a naginata, and are very attached to their weapon as it is the source of their cypher mage power, containing their rune of sin
 
 Naginata for reference
+
+## Campaign events.
+
+Zelvuul turned to ash at the end of the living library fight. Dead.

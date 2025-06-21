@@ -4,8 +4,8 @@
 
 <instance-profile id="C1-Doomsday-Funtime"
                  name="C1-Doomsday-Funtime"
-                 start-page="C1-doomsday-funtime.md">
+                 start-page="C01-doomsday-funtime.md">
 
-    <toc-element topic="C1-doomsday-funtime.md"/>
+    <toc-element topic="C01-doomsday-funtime.md"/>
     <toc-element topic="Monster-parts-usage-log.md"/>
 </instance-profile>

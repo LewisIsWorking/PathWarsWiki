@@ -1,3 +1,0 @@
-# PW~Writerside-setup
-
-Start typing here...

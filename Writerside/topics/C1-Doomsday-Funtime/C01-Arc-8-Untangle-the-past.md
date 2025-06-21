@@ -81,7 +81,7 @@ In play by post, the party talks to the wizard Zarzan Quilit.
 ## Session 229.
 > 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 
-- Events of [DF-100-sessions-of-Selenor.md](C1~100-sessions-of-Selenor.md) happen.
+- Events of [DF-100-sessions-of-Selenor.md](C01-100-sessions-of-Selenor.md) happen.
 
 ## Session 230.
 > 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
@@ -654,3 +654,10 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The party find out that in pre-Osirion times, Urgathoa attacked the nation for the horsemen, for some reason.
 >> - TODO: What animal is on the cover of Allisee's book?
 >> - Nethys helped create Curse breaker.
+
+> 09:00.
+>> - Combat begins.
+>> - Round 1.
+>> - Water level: 20 feet (ca. 6 m).
+>> - Carnon sinks 10 feet.
+>> - Allisee: Hangnail. If you attacked with a claw or fist, you cannot use that attack until the end of your next turn.

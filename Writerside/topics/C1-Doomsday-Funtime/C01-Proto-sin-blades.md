@@ -143,7 +143,7 @@ Each High-Vale blade has a unique name and a unique property.
 	- When you hit a chaotic evil, chaotic good, or chaotic neutral creature with this weapon, that creature takes 7
 	  points of slashing damage.
 	- You must know the enemy alignment for the damage effect to happen!
-	- A creature that takes this extra slashing damage can’t take the step or hide actions until the start of your next turn.
+	- A creature that takes this extra slashing damage cannot take the step or hide actions until the start of your next turn.
 	- Detect Lawfulness.
 7. Truth Teller. Illusion. Pride. Pink.
 	- While you wield this weapon, you have an advantage on Will Saves made to discern or disbelieve illusions.

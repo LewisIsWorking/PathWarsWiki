@@ -5,7 +5,7 @@ Magic can gain a colour based on several reasons.
 ## School of magic.
 
 - Envy = Abjuration = Green (like the phrase 'green with envy').
-- Gluttony = Necromancy = Indigo / Dark blue.
+- Gluttony = Necromancy = Indigo / Dark blue / Black.
 - Greed = Transmutation = Yellow (like gold).
 - Lust = Enchantment = Red.
 - Pride = Illusion = Violet Pink.

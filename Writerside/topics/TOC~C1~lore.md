@@ -1,3 +1,0 @@
-# TOC~C1~Lore.md
-
-Start typing here...
