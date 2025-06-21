@@ -1,3 +1,0 @@
-# C1~Main-Character-Allisee.md
-
-Start typing here...
