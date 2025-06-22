@@ -683,3 +683,4 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Selenor gets:
 >> - ONE-THIRD OF THE FINAL SPELL. 
 >> - AND ONE HUNDRED PER CENT OF A SANDITT!!!!!!!!!!!!!!!!!!!
+>> - Mektep-Han tells Selenor that he once met a Tian-Xia woman who had a soul almost identical to Selenor's.
