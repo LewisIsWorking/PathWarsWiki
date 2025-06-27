@@ -1,8 +1,12 @@
 # C01-Lenma-Moonshine
 
+## Character art.
+
 ![LenmaMoonshine](../../images/LenmaMoonshine.png)
 
-https://x.com/nakanodrawing?lang=en
+> Artist: https://x.com/nakanodrawing?lang=en
+
+## Character lore.
 
 > Core.
 >> - What is your character's name? Lenma Moonshine.
