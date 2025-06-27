@@ -1,6 +1,6 @@
 # C01-Riddleport
 
-Level 1.
+Level 2.
 
 > Main characters.
 >> - Cardigan Green. Eldamon trainer and dragon blessed sorcerer.
