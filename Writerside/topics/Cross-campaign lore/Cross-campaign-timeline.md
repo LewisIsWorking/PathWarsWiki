@@ -15,6 +15,12 @@ when determining if specific events have happened and for the purpose of unlocke
 
 ## Chronological Timeline of In-World (Golarion) Starting Dates.
 
+## 4669 AR.
+
+> Riddleport #1. 4669 AR.
+>> - [C01-Riddleport.md](C01-Riddleport.md).
+>> - Started: 2024-December-24th.
+
 ## 4700 AR.
 
 > Etran's Folly #3. 4700 AR.
