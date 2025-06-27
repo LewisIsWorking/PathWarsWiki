@@ -1,4 +1,4 @@
-# PW~Rarity-lock-status-tracker.
+# Rarity-lock-status-tracker.
 
 If you have a question, just ask on the telegram group! :)
 
