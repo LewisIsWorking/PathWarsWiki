@@ -61,25 +61,25 @@ If you have a question, just ask on the telegram group! :)
 >> - Harrower: Vengeful Spirit Deck.
 
 > Animal companions.
->> - Fiery Leopard. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Fiery Leopard. Unlocked: [C03-Etran's-Folly.md](C03-Etran's-Folly.md).
 
 > Equipment.
 >> - Boomerang. Unlocked via the planar rifts to dying digital rift worlds.
->> - Bort's Blessing. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Bort's Blessing. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Charlatan's Cape. 
 Unlocked by Selenor by acquiring the Red Raven's cape. 
 The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide.
->> - Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
->> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
->> - Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md). 
+>> - Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
 >> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
->> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
->> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Sceptic's Elixir. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
->> - Six fingers elixir. Unlocked: [Campaign~6-kibwe.md](Campaign~6-kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi.
->> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
->> - Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
->> - Warrior's Training Ring. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Six fingers elixir. Unlocked: [C06-Kibwe.md](C06-Kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi.
+>> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etrans-Folly.md](C03-Etran's-Folly.md).
+>> - Warrior's Training Ring. Unlocked: [Campaign~3-Etrans-Folly.md](C03-Etran's-Folly.md).
 
 > Feats.
 >> - Relentless Stalker.
@@ -115,7 +115,7 @@ Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
 Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 
 > Weapons.
->> - Alchemical Crossbow. Unlocked: [Campaign~3-Etran's-Folly.md](Campaign~3-Etrans-Folly.md).
+>> - Alchemical Crossbow. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 
 ## Archetypes = Common.
 
