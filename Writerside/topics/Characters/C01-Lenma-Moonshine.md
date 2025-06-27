@@ -2,9 +2,9 @@
 
 ## Character art.
 
-![LenmaMoonshine](../../images/LenmaMoonshine.png)
-
-> Artist: https://x.com/nakanodrawing?lang=en
+> Art
+>> - Artist: https://x.com/nakanodrawing?lang=en
+>> ![LenmaMoonshine](../../images/LenmaMoonshine.png){style="block"}
 
 ## Character lore.
 
