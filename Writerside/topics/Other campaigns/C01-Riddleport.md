@@ -1,3 +1,6 @@
 # C01-Riddleport
 
-Start typing here...
+Level 1.
+
+## Party composition.
+
