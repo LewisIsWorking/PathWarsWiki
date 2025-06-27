@@ -7,5 +7,6 @@
                   start-page="C01-Zelvuul.md">
 
     <toc-element topic="C01-Zelvuul.md"/>
+    <toc-element topic="C01-Lenma-Moonshine.md"/>
     <!-- Add more character topics with Characters/ prefix -->
 </instance-profile>
