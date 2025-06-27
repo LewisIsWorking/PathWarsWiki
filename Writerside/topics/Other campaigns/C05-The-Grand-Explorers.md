@@ -60,7 +60,7 @@ This campaign starts shortly after the end of Crimson Throne.
 
 The linked page below will help to explain this.
 
-[Path-wars-timeline.md](Campaign~Path-wars-timeline.md)
+[Cross-campaign-timeline.md](Cross-campaign-timeline.md)
 
 ## Party Member People List.
 

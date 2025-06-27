@@ -14,13 +14,13 @@ Campaign: Riddleport.
 
 > Age.
 >> - Question: How old is your character?
->> - Answer: 25 Years of age give or take since he doesn't have a clear time frame
+>> - Answer: 25 Years of age give or take since he does not have a clear time frame.
 >> - Question: What year was your character born?
->> - Answer: I don't see any years in the spoiler free lore you gave but I'll say 25 years before the events of the campaign or 25 years before meeting the party
+>> - Answer: I do not see any years in the spoiler-free lore you gave, but I will say 25 years before the events of the campaign or 25 years before meeting the party
 >> - Question: What day is your character's birthday?
 >> - Answer: 29th of Pharast
 >> - Question: At what age did the character become an adventurer?
->> - Answer: Officially the very moment he is allowed. Unoffically he has been training since he was young and has been doing illegal work during those training years.
+>> - Answer: Officially the very moment he is allowed. Unofficially, he has been training since he was young and has been doing illegal work during those training years.
 
 > Class #1.
 >> - Question: What is your character's class?
@@ -44,7 +44,8 @@ Campaign: Riddleport.
 >> - Question: What is your character's Sub-Race?
 >> - Answer: Dromaar
 >> - Question: Has your character met other members of their race?
->> - Answer: I would say he has not. He knows he is seen to be lesser outside of the temple and which is why he choose to wear a full plate with a full face mask whenever going outside of the temple or wears a full hood and his mask and glove inside the temple incase there are guest or visitors.
+>> - Answer: I would say he has not. 
+>> - He knows he is seen to be lesser outside the temple. Which is why he chooses to wear a full plate with a full face mask whenever going outside the temple. Or he wears a full hood and his mask and gloves inside the temple in case there are guests or visitors.
 >> - Question: Does your character like your race?
 >> - Answer: Yes and no, he believes that he was abandoned because of his Dromaar nature, making him developing a disdain for his parents and race, but he also knows that orcs are one of the most physically abled races and admirers them as possibly being born closer to Irori then he was.
 >> - Question: Does your character like any races in particular? Why?

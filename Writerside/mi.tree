@@ -4,7 +4,7 @@
 
 <instance-profile id="mi"
                   name="Main Instance"
-                  start-page="TOC~PathWars-campaigns.md">
+                  start-page="C1~Characters-main.md">
 
     <toc-element topic="Monster-parts-usage-log.md"/>
     <toc-element>
@@ -58,12 +58,12 @@
         <toc-element topic="C1~The-Doomsday-Dominion.md"/>
     </toc-element>
     <toc-element>
-        <toc-element topic="C5-Grand-explorers-discord-ad.md"/>
-        <toc-element topic="C5-Grand-explorers-main-characters.md"/>
-        <toc-element topic="C7-Starfinder-2e-discord-ad.md"/>
+        <toc-element topic="C05-Grand-explorers-discord-ad.md"/>
+        <toc-element topic="C05-Grand-explorers-main-characters.md"/>
+        <toc-element topic="C07-StarFinder-2e-discord-ad.md"/>
     </toc-element>
     <toc-element>
-        <toc-element topic="PW-Multi-discord-ad.md"/>
+        <toc-element topic="Multi-discord-ad.md"/>
         <toc-element topic="PW-Alignment-scale.md"/>
         <toc-element topic="PW~Available-classes.md"/>
         <toc-element topic="PW~Homebrew-rules.md"/>
@@ -79,17 +79,17 @@
         <toc-element topic="PW~To-do-list.md"/>
         <toc-element/>
     </toc-element>
-    <toc-element topic="TOC~PathWars-campaigns.md">
+    <toc-element topic="Links-to-campaigns.md">
         <toc-element topic="Campaigns-by-duration.md"/>
         <toc-element topic="Campaign~1-Doomsday-Funtime.md"/>
-        <toc-element topic="Campaign~2-The-Crimson-Throne.md"/>
-        <toc-element topic="Campaign~3-Etrans-Folly.md"/>
-        <toc-element topic="Campaign~4-Agents-of-Edgewatch.md"/>
-        <toc-element topic="Campaign~5-the-grand-explorers.md"/>
-        <toc-element topic="Campaign~6-kibwe.md"/>
-        <toc-element topic="Campaign~7-Starfinder-2e.md"/>
-        <toc-element topic="Campaign~Path-wars-timeline.md"/>
-        <toc-element topic="Campaign~Player-rosters.md"/>
+        <toc-element topic="C02-The-Crimson-Throne.md"/>
+        <toc-element topic="C03-Etran's-Folly.md"/>
+        <toc-element topic="C04-Agents-of-Magni-Watch.md"/>
+        <toc-element topic="C05-The-Grand-Explorers.md"/>
+        <toc-element topic="C06-Kibwe.md"/>
+        <toc-element topic="C07-Starfinder-2e.md"/>
+        <toc-element topic="Cross-campaign-timeline.md"/>
+        <toc-element topic="Campaign-Player-rosters.md"/>
     </toc-element>
     <toc-element>
         <toc-element topic="Random~Barcelona-trip.md"/>
