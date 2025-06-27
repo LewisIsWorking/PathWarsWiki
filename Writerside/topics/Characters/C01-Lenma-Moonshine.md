@@ -1,5 +1,7 @@
 # C01-Lenma-Moonshine
 
+Campaign: Riddleport.
+
 ## Character art.
 
 > Art
