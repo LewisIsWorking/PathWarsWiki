@@ -31,10 +31,10 @@ If you have a question, just ask on the telegram group! :)
 >> - Nothing common is disallowed.
 
 > Uncommon.
->> - Equipment, feat or spell: If the source is from an adventure path, module, etc.
+>> - Equipment, feat or spell: Especially if the source is from an adventure path, module, etc.
 
 > Rare.
->> - Equipment, feat or spell: If the source is from an adventure path, module, etc.
+>> - Equipment, feat or spell: Especially if the source is from an adventure path, module, etc.
 
 ## Unlocked.
 
