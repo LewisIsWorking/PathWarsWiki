@@ -4,7 +4,7 @@
 
 > Art
 >> - Artist: https://x.com/nakanodrawing?lang=en
->> ![LenmaMoonshine](../../images/LenmaMoonshine.png){style="auto"}
+>> ![LenmaMoonshine](../../images/LenmaMoonshine.png){style="inline"}
 
 ## Character lore.
 
