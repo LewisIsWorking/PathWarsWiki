@@ -1,6 +1,6 @@
 # C01-Lenma-Moonshine
 
-![Lenma Moonshine.png](Lenma Moonshine.png)
+![Lenma Moonshine](Lenma Moonshine.png)
 
 https://x.com/nakanodrawing?lang=en
 
