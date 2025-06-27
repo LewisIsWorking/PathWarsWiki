@@ -2,7 +2,7 @@
 
 Level 1.
 
-> Party composition.
+> Main characters.
 >> - Cardigan Green. Eldamon trainer and dragon blessed sorcerer.
 >> - Necrila. Fighter and justice champion.
 >> - Prof. Filiaur Bluestar. Runesmith and School of Ars Grammatica Spell Substitution wizard.
