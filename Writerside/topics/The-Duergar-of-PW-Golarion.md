@@ -1,6 +1,4 @@
-# The Duergar of PW-Golarion 
-
-# The Duergar of Golarion
+# The Duergar of PW-Golarion
 
 The duergar, known as grey dwarves, are among the most ruthless and technologically advanced denizens of Golarion's Darklands. 
 
