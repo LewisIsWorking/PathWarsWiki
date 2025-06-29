@@ -65,3 +65,9 @@ Female duergars do not have full beards. This is to create a visual distinction 
 >> - Intricate facial piercings where surface dwarf women would have beard jewellery.
 >> - Ritual scarification on their jawlines.
 >> - Some might shave entirely as a mark of their rejection of surface dwarf traditions.
+
+## Dwarf beards.
+
+> Nearly all surface dwarves have full beards, often elaborately braided and decorated.
+>> - Makes the duergar's clean-shaven/minimal facial hair a stark cultural rejection of their heritage.
+>> - Female dwarves can have beards but often prefer goatees, sideburns or chin tufts.
