@@ -36,3 +36,32 @@ Their fortress-cities serve as hubs of commerce and cruelty, where flesh markets
 They maintain an uneasy but profitable relationship with other Darklands powers, trading their superior craftsmanship and military expertise for resources and territorial concessions. 
 
 Their disciplined armies and advanced siege engines make them formidable opponents that even the dark-elves treat with cautious respect.
+
+## Religion.
+
+> Just like in standard lore, duergar primarily worship Droskar, the Dark Smith, the god of toil, slavery and oppression. 
+>> - There are some mythical but non-god-tier Mythic beings that live amongst the duergar.
+
+> Ferrum Mortis. 
+>> - The Iron Tyrant.
+>> - A clockwork Mythic of technological domination, whose priests maintain the great slave-powered engines and construct increasingly complex automatons. 
+>> - Worship involves ritualistic branding and the offering of perfectly crafted mechanical components.
+
+> The Gear Mother. 
+>> - A twisted fertility Mythic who demands the breeding of optimal slave stock and the "perfection" of bloodlines through selective breeding and mechanical augmentation. 
+>> - Her temples double as breeding pens and body modification workshops.
+
+> Umbral Artifex.
+>> - Mythic of dark innovation. 
+>> - Worshipped by duergar engineers who push the boundaries of magic-tech fusion. 
+>> - Followers often replace parts of their bodies with clockwork prosthetics as acts of devotion.
+
+## The lack of beards on Female Duergar.
+
+Female duergars do not have full beards. This is to create a visual distinction and fits the "evolved beyond their surface cousins" theme. 
+
+> Instead, they might have:
+>> - Carefully maintained goatees or chin braids as status symbols.
+>> - Intricate facial piercings where surface dwarf women would have beard jewellery.
+>> - Ritual scarification on their jawlines.
+>> - Some might shave entirely as a mark of their rejection of surface dwarf traditions.
