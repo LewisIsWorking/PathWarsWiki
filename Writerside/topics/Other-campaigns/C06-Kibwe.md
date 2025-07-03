@@ -4,8 +4,6 @@ Start typing here…
 
 ## Campaign #6 = Kibwe = 22nd & 23rd April 2023.
 
-## Table of Contents.
-
 ## Rules.
 
 No humans for story reasons.
@@ -16,15 +14,32 @@ I recommend you check out the 3rd party race section!
 
 ## Lore.
 
+> The current story.
+>> - The statue known as Curse Breaker (ram) is one of animal statues that once sat upon the walls of the city of Kibwe. 
+>> - Curse Breaker many years ago was taken down from the walls of Kibwe and placed in the Temple of the Sun Archive.
+>> - The statue is said to have the power to break curses, and it is believed that it was once used to protect the city from evil spirits and curses.
+>> - The sun priests of Kibwe have long revered the statue, and it is considered a sacred relic of the city.
+>> - Caster classes have long since been able to use the statues as a source of spell slots.
+>> - The statue has been stolen! Taken to the lost holy city (now turned demon infected city) of Xatramba.
+>> - The ruins of Holy Xatramba (sometimes also spelled Xatremba) lie in the eastern jungle of the Mwangi Expanse, southwest of the city of Kibwe.
+>> - The party is tasked with retrieving the statue and returning it to Kibwe.
+>> - Time is running short as a magical cursed disease is turning every human in Kibwe into a SLIME!
+>> - Can the party retrieve the statue and save Kibwe before it is too late?
+
+> Each main character has a connection to Curse Breaker.
+>> - Curse breaker has granted each of the main characters at the least access to dual class.
+
 ## What is Kibwe?
 
-Kibwe is a large, walled trading and mining town with a diverse population of Mwangi peoples and non-humans, situated in the eastern Mwangi Jungle west of the Ndele Gap.
+Kibwe is a large, walled trading and mining town with a diverse population of Mwangi humans and other non-humans.
+
+The city is situated in the eastern Mwangi Jungle west of the Ndele Gap.
 
 ## What is the Ndele Gap?
 
 The high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south is known as the Ndélé Gap.
 
-## Who is playing?
+## Original Kibwe party.
 
 1. Lorcan.
 2. Ryan.
@@ -33,7 +48,7 @@ The high-altitude pass in western Nex between the Barrier Wall to the north and 
 5. Anthony.
 6. James?
 
-## Party Composition.
+## Original Party Composition.
 
 1. Gringles Snot-Belly = Goblin Fighter + Swashbuckler played by Lorcan.
 2. Cliff Chew-stick = Gunslinger Magus Rat folk Played by Ryan.
