@@ -48,7 +48,7 @@
 >> - Question: Does your character like any races in particular? Why?
 >> - Answer: Tengu and Kobolds, because they are both considered outsiders amongst the other races and seek out others who will respect them and build a community.
 >> - Question: Does your character hate any races in particular? Why?
->> - Answer: Dwarves, they tend to be very fervent about religion and ideals and Rax has a very negative view on religion and the gods.
+>> - Answer: Dwarves, they tend to be very fervent about religion and ideals, and Rax has a very negative view on religion and the gods.
 
 > Parents and Family.
 >> - Question: Where was your character born?
@@ -56,7 +56,7 @@
 >> - Question: Where were you raised?
 >> - Answer: On the road throughout the Inner Sea region
 >> - Question: Who raised your characters?
->> - Answer: Was raised as part of the warren.
+>> - Answer: He was raised as part of the warren.
 >> - Question: Who are your parents?
 >> - Answer: Ysoki just like him
 >> - Question: What are your parents' names?
@@ -94,7 +94,7 @@
 >> - Question: What God (if any) does your character follow?
 >> - Answer: No
 >> - Question: What are your character's personal beliefs?
->> - Answer: That the mortal beings of the world should take care of themselves and not divine beings who don't care about the acts carried out in their name upon innocents.
+>> - Answers: That the mortal beings of the world should take care of themselves and not divine beings who do not care about the acts carried out in their name upon innocents.
 >> - Question: Does your character have any personality quirks?
 >> - Answer: (Not specified)
 >> - Question: Are they anti-social?
@@ -108,7 +108,7 @@
 >> - Question: Why does your character adventure?
 >> - Answer: To raise money for his future goals and to spread word of how mortals can live without gods.
 >> - Question: How does your character view his/her role as an adventurer?
->> - Answer: He's fulfilled being able to take care of others and heal the injured.
+>> - Answer: He is fulfilled being able to take care of others and heal the injured.
 >> - Question: How does your character get along with others?
 >> - Answer: As long as they bring the divine into conversation, usually pretty well.
 >> - Question: Is there anything that your character hates?
@@ -146,13 +146,13 @@
 >> - Question: How do they Speak?
 >> - Answer: Calmly and carefully
 >> - Question: What are their Mannerisms?
->> - Answer: He tends to walk and talk, pacing if he isn't on his way somewhere.
+>> - Answer: He tends to walk and talk, pacing if he is not on his way somewhere.
 >> - Question: Does your character have any distinguishing marks?
 >> - Answer: He has a clockwork arm and eye.
 >> - Question: Do they have birthmarks?
 >> - Answer: No
 >> - Question: Do they have Scars?
->> - Answer: Lots across his entire body though his fur does a good job of hiding them despite its length.
+>> - Answer: Lots across his entire body, though his fur does a good job of hiding them despite its length.
 >> - Question: Do they have Deformities?
 >> - Answer: No
 >> - Question: Is your character attractive?
@@ -160,15 +160,19 @@
 >> - Question: Whatever is applicable: Cock Size? Breast Size?
 >> - Answer: (Not specified)
 >> - Question: Any aspects of your character that are unusual?
->> - Answer: Small horns that he hides under his hat, clockwork arm and eye, he radiates heat and skin radiates reddish light very slightly when straining to lift or carry something (normally only noticeable in pitch darkness)
+>> - Answer: Small horns that he hides under his hat, clockwork arm and eye, he radiates heat, and skin radiates reddish light very slightly when straining to lift or carry something (normally only noticeable in pitch darkness)
 
 > Weapons.
 >> - Question: What kind of weapons does your character fight with?
->> - Answer: He uses a nightstick if he isn't intending or needing to cause harm and a swordcane if lethal measures are required.
+>> - Answer: He uses a nightstick if he is not intending or needing to cause harm and a sword cane if lethal measures are required.
 >> - Question: What does your character's weapon look like?
->> - Answer: The nightstick is fairly standard in appearance; telescopic with a black handle and black leather grip and the steel blackened to keep it from reflecting light. The cane portion of the swordcane is polished walnut reinforced with brass while the blade is a simple solid steel. The grip is again black leather. There is also an extra peacebond strap to keep the blade secured when he is using the cane for his work. It is kept unclasped for all other matters.
+>> - Answer: The nightstick is fairly standard in appearance; telescopic with a black handle and black leather grip and the steel blackened to keep it from reflecting light.
+>> - The cane portion of the sword cane is polished walnut reinforced with brass, while the blade is a simple solid steel. 
+>> - The grip is again black leather. 
+>> - There is also an extra peace bond strap to keep the blade secured when he is using the cane for his work. 
+>> - It is kept unclasped for all other matters.
 >> - Question: Who made your character's weapon?
->> - Answer: The nightstick was something he bought and doesn't remember who he got it from or where and he only modified it to blacken the steel shaft. The sword cane however was made by his boyfriend as a gift.
+>> - Answer: The nightstick was something he bought and does not remember who he got it from or where, and he only modified it to blacken the steel shaft. The sword cane, however, was made by his boyfriend as a gift.
 >> - Question: Who added the runes to your character's weapons?
 >> - Answer: N/A
 >> - Question: Who trained your character in using weapons?
@@ -178,9 +182,9 @@
 
 > Armour.
 >> - Question: What kind of armour does your character wear?
->> - Answer: Unarmored/Explorer's Clothing
+>> - Answer: Unarmoured/Explorer's Clothing
 >> - Question: What does your character's armour look like?
->> - Answer: Heavy black linen shirt, mantle, and pants with a sturdy leather belt. He also wears a black leather hat, a black plague doctor mask with golden accents, thick leather gloves and leather boots.
+>> - Answer: Heavy black linen shirt, mantle and pants with a sturdy leather belt. He also wears a black leather hat, a black plague doctor mask with golden accents, thick leather gloves and leather boots.
 >> - Question: Who made your character's armour?
 >> - Answer: He made it alongside his girlfriend with his boyfriend making the metal fasteners and glass lenses for the mask.
 >> - Question: Who added the runes to your character's armour?
@@ -240,7 +244,7 @@
 >> - Question: Does your character cook?
 >> - Answer: Yes
 >> - Question: Does your character drink alcohol? If so, how heavily?
->> - Answer: Yes, two or three drinks max and not every day
+>> - Answer: Yes, two or three drinks max and not every day.
 >> - Question: Do they partake in Drugs?
 >> - Answer: No
 
@@ -290,21 +294,60 @@
 
 > Backstory.
 >> - Question: Finally, what is your character's backstory?
->> - Answer: 4643 AR: Born, one of three children born to Noz and Chit of the Drumish Dasher. 4644 - 4645 AR : Quiet and simple as his warren traveled the lands, too young to have done much of interest. 4646 AR : Started running small errands, moving supplies between various booths and the wagons. 4647 AR : A plague struck the warren, approximately one third of the warren died and he barely survived. 4648 AR : Quiet, trying to recover from the devastating losses of the previous year. 4649 AR : Joined with a smaller warren who suffered a similar fate the previous year. Expanded trade across the sea with Drumish Dashers of Andoran and Taldor. Began his education in the small school within the warren's wagons. 4650 AR: Started showing signs of his Nephilim ancestry as small protrusions started peeking out from his short fur on his head. Began assisting with fetching supplies for the warren alchemists exclusively, preparing for an eventual apprenticeship when he got older. 4651 AR : Showing a knack for book learning he starts getting extra tutor sessions outside of his normal lessons. 4652 AR : Started his apprenticeship under Knagi, one of the warren's alchemists. 4653 AR : His warren was attacked by raiders as they traveled through the desert on their way to El-Fatar in Katapesh. The warren's defenders managed to drive them off, but there were many casualties. When they reached El-Fatar they hired an adventuring party to root out the raiders which the party succeeded in doing. 4654 AR : Still recovering from the raid the warren started hiring bodyguards to supplement their defenders. 4655 AR : Having reached adulthood Rax begins to receive some measure of combat training as part of his studies. 4656 AR : Rax falls in love for the first time. With a young Tengu bodyguard that was traveling with them on the long journey from Katapesh (city) to Lamasara in Thuvia. 4657 AR : The Tengu bodyguard (Puck) stays on with the warren as they board a vessel to cross the Inner Sea to Augustana in Andoran but departs once they arrive in the port city. Negotiations begin to join a larger warren as his warren never fully recovered after the raid four years prior. 4658 AR : Negotiations conclude shortly after the new year with his warren joining the larger warren. Rax begins a relationship with his teacher's daughter though it is short-lived. 4659 AR : While on a supply run with a small number of the warren, Rax is ambushed by a group of Cult of the Dawnflower acolytes. The timely arrival of the town guard and a doctor was the only thing that saved his life. Said doctor, a human by the name of Khonsu, was a clockwork researcher and replaced Rax's destroyed right arm and right eye with clockwork replacements. As Rax needed time to recover and to learn how to use and maintain his new clockwork parts he was left in the care of the doctor until the warren passed close again. During the time he spent with Khonsu, Rax also learned of the Laws of Mortality which Khonsu followed in his daily life and in how he treated his patients. Rax also learned much more in the field of medicine and how to integrate his own alchemical knowledge with it. 4660 AR : Rax remained in the care and tutelage of Khonsu for half the year. By the time his warren retrieved him Rax had fully embraced the Laws of Mortality and decided he was going to follow in Khonsu's footsteps and become a healer. Once returned to the warren he started focusing his studies on such pursuits. 4661 AR : Rax finishes his apprenticeship under Knagi despite tensions building between apprentice and master due to his new beliefs and focused study. Rax had a short, intimate relationship with Halfling twins (Aldus and Rossa) that ended when Rossa had a pregnancy scare that revealed she had been cheating on him.
+>> - Answer: 
+>> - 4643 AR: Born, one of three children born to Noz and Chit of the Drumish Dasher. 
+>> - 4644 - 4645 AR: Quiet and simple as his warren travelled the lands, too young to have done much of interest. 
+>> - 4646 AR: Started running small errands, moving supplies between various booths and the wagons. 
+>> - 4647 AR: A plague struck the warren, approximately one third of the warren died, and he barely survived. 
+>> - 4648 AR: Quiet, trying to recover from the devastating losses of the previous year. 
+>> - 4649 AR: Joined with a smaller warren who suffered a similar fate the previous year. 
+>> - Expanded trade across the sea with Drumish Dashers of Andoran and Taldor. 
+>> - Began his education in the small school within the warren's wagons. 
+>> - 4650 AR: Started showing signs of his Nephilim ancestry as small protrusions started peeking out from his short fur on his head. Began assisting with fetching supplies for the warren alchemists exclusively, preparing for an eventual apprenticeship when he got older. 
+>> - 4651 AR: Showing a knack for book learning, he starts getting extra tutor sessions outside his normal lessons. 
+>> - 4652 AR: Started his apprenticeship under Knagi, one of the warren's alchemists. 
+>> - 4653 AR: His warren was attacked by raiders as they travelled through the desert on their way to El-Fatar in Katapesh. 
+>> - The warren's defenders managed to drive them off, but there were many casualties. 
+>> - When they reached El-Fatar, they hired an adventuring party to root out the raiders, which the party succeeded in doing. 
+>> - 4654 AR: Still recovering from the raid, the warren started hiring bodyguards to supplement their defenders. 
+>> - 4655 AR: Having reached adulthood, Rax begins to receive some measure of combat training as part of his studies. 
+>> - 4656 AR: Rax falls in love for the first time. 
+>> - With a young Tengu bodyguard travelling with them on the long journey from Katapesh (city) to Lamasara in Thuvia. 
+>> - 4657 AR: The Tengu bodyguard (Puck) stays on with the warren as they board a vessel to cross the Inner Sea to Augustana in Andoran but departs once they arrive in the port city. 
+>> - Negotiations begin to join a larger warren as his warren never fully recovered after the raid four years prior. 
+>> - 4658 AR: Negotiations conclude shortly after the new year with his warren joining the larger warren.
+>> - Rax begins a relationship with his teacher's daughter, though it is short-lived. 
+>> - 4659 AR: While on a supply run with a few members of the warren, Rax is ambushed by a group of Cult of the Dawn-flower acolytes. 
+>> - The timely arrival of the town guard and a doctor was the only thing that saved his life. 
+>> - Said doctor, a human by the name of Khonsu, was a clockwork researcher and replaced Rax's destroyed right arm and right eye with clockwork replacements. 
+>> - As Rax needed time to recover and to learn how to use and maintain his new clockwork parts, he was left in the care of the doctor until the warren passed close again. 
+>> - During the time he spent with Khonsu, Rax also learned of the Laws of Mortality which Khonsu followed in his daily life and in how he treated his patients.
+>> - Rax also learned much more in the field of medicine and how to integrate his own alchemical knowledge with it. 
+>> - 4660 AR: Rax remained in the care and tutelage of Khonsu for half the year. 
+>> - By the time his warren retrieved him, Rax had fully embraced the Laws of Mortality and decided he was going to follow in Khonsu's footsteps and become a healer. 
+>> - Once returned to the warren he started focusing his studies on such pursuits. 
+>> - 4661 AR: Rax finishes his apprenticeship under Knagi despite tensions building between an apprentice and master due to his new beliefs and focused study. 
+>> - Rax had a short, intimate relationship with Halfling twins (Aldus and Rossa) that ended when Rossa had a pregnancy scare that revealed she had been cheating on him.
 
 > Backstory by each Year.
 >> - Question: 4662 AR
->> - Answer: Started covering his arm and horns after numerous near altercations in various trading posts during the warren's travels as he started taking more of a forward presence in selling wares and providing services. Tensions between himself and his warren, especially amongst the more religious members, continued to grow as he tried to get more people to abandon worship of the divine.
+>> - Answer: Started covering his arm and horns after numerous near altercations in various trading posts during the warren's travels as he started taking more of a forward presence in selling wares and providing services. 
+>> - Tensions between himself and his warren, especially amongst the more religious members, continued to grow as he tried to get more people to abandon worship of the divine.
 >> - Question: 4663 AR
->> - Answer: After a particularly ugly confrontation, Rax left the warren and started traveling, choosing to leave the areas where the warren traded, heading north and west through Isger and Molthune. During his travels he did what he could to make enough coin to continue his travels; either through honest work as a traveling doctor or through thievery.
+>> - Answer: After a particularly ugly confrontation, Rax left the warren and started travelling, choosing to leave the areas where the warren traded, heading north and west through Isger and Molthune. 
+>> - During his travels he did what he could to make enough coins to continue his travels; either through honest work as a travelling doctor or through thievery.
 >> - Question: 4664 - 4665 AR
->> - Answer: Continued making his way across the continent, eventually finding his way to Riddleport. In need of money and a place to call home he fell in with one of the older gangs in the city, the Duskfang Prowlers.
+>> - Answer: Continued making his way across the continent, eventually finding his way to Riddleport. In need of money and a place to call home, he fell in with one of the older gangs in the city, the Dusk fang Prowlers.
 >> - Question: 4666-4667 AR
 >> - Answer: Spent the next two years honing his skills and became one of the unofficial medics for the gang.
 >> - Question: 4668 AR
->> - Answer: Met a young Kobold Blacksmith by the name of Xairik (Xai), the two quickly falling in love. Xai did not like the fact Rax was in a gang however. Eventually Rax chose his boyfriend over the gang, negotiating leaving the gang in exchange for continued work as a medic for much reduced rates. Rax and Xai started saving towards opening a small shop in the same district Rax's former gang operated in. Near the end of the year Rax and Xai added a leatherworker to their eclectic plans, a Tengu by the name of Mitsuu. The three moved in together in a tenement building in the Leeward District and rented the shop below.
+>> - Answer: Met a young Kobold Blacksmith by the name of Xairik (Xai), the two quickly falling in love. Xai did not like the fact Rax was in a gang, however. 
+>> - Eventually Rax chose his boyfriend over the gang, negotiating leaving the gang in exchange for continued work as a medic for much reduced rates. 
+>> - Rax and Xai started saving towards opening a small shop in the same district of Rax's (former) gang operated in. 
+>> - Near the end of the year, Rax and Xai added a leatherworker to their eclectic plans, a Tengu by the name of Mitsuu. 
+>> - The three moved in together in a tenement building in the Leeward District and rented the shop below.
 >> - Question: 4669 AR
->> - Answer: The trio became a polycule on top of work partners. Tensions between Rax's former gang and the Split Hog Paupers began to rise as the Hogs started trying to muscle in on their territory within the Leeward District that Rax, Xai, and Mitsuu lived and worked out of.
+>> - Answer: The trio became a polycule on top of work partners. Tensions between the former gang Rax was in and the Split Hog Paupers began to rise. This happened as the Hogs started trying to muscle in on their territory within the Leeward District that Rax, Xai, and Mitsuu lived and worked out of.
 
 > Beyond the first level.
 >> - Question: Are you higher than level 1? What level?
@@ -314,12 +357,12 @@
 >> - Question: How long has it been chronological since your character was first level?
 >> - Answer: 2
 >> - Question: What has your character been doing since they started adventuring (aka first level)?
->> - Answer: They didn't start adventuring right away. They only started traveling after two years of attaining their first level.
+>> - Answer: They did not start adventuring right away. They only started travelling after two years of attaining their first level.
 >> - Question: How did you achieve each level? Aka what did you kill to level up?
 >> - Answer: A random thug in a street fight between the gang he was a member of and another gang.
 >> - Question: How long did each level take to achieve?
->> - Answer: Took 6 years approx to reach level 2, has not reached third level yet.
+>> - Answer: Took 6 years approx to reach level 2, has not reached the third level yet.
 
 > Time since level 1.
 >> - Question: Level progression details
->> - Answer: Level 1 at age 18 (4661 AR), Level 2 at approximately age 24-25 (4667-4668 AR)
+>> - Answer: Level 1 at age 18 (4661 AR), Level 2 at approximate age 24-25 (4667-4668 AR)
