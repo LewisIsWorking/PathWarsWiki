@@ -6,6 +6,12 @@
 
 Below is the table to copy and paste into your own Writerside workspace and fill out.
 
+> Out of character.
+>> - Question: Player Name?
+>> - Answer:
+>> - Question: Campaign Name?
+>> - Answer:
+
 > Core.
 >> - Question: What is your character's name?
 >> - Answer:
@@ -265,7 +271,7 @@ You should write your character assuming they do not have their 2nd class yet as
 
 Go to this page to find out your alignment scale.
 
-[PW-Alignment-scale.md](PW-Alignment-scale.md).
+[Alignment-scale.md](Alignment-scale.md).
 
 > Plot hooks.
 >> You do not need to answer any or all of these, but please come up with the plot hooks your character's story resolves around.
