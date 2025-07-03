@@ -20,7 +20,7 @@ I recommend you check out the 3rd party race section!
 >> - The statue is said to have the power to break curses, and it is believed that it was once used to protect the city from evil spirits and curses.
 >> - The sun priests of Kibwe have long revered the statue, and it is considered a sacred relic of the city.
 >> - Caster classes have long since been able to use the statues as a source of spell slots.
->> - The statue has been stolen! Taken to the lost holy city (now turned demon infected city) of Xatramba.
+>> - The statue has been stolen! Taken to the lost holy city (now turned demon-infected city) of Xatramba.
 >> - The ruins of Holy Xatramba (sometimes also spelled Xatremba) lie in the eastern jungle of the Mwangi Expanse, southwest of the city of Kibwe.
 >> - The party is tasked with retrieving the statue and returning it to Kibwe.
 >> - Time is running short as a magical cursed disease is turning every human in Kibwe into a SLIME!
