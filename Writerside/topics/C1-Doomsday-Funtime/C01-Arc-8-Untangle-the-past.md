@@ -688,3 +688,13 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 249: Play by post.
 
 Selenor talks to professor Lozar about the Final Spell and the lens.
+
+## Session 250.
+> 2025 July 4th Friday + 4710 AR, Wealday 31st Arodus + Eto part 19.
+>> - IRL start time: 22:32.
+>> - Players present: Anthony, Horia, Oscar and Tony.
+
+> 10:00.
+>> - Professor Ionacu Lozar gives Carnon a university badge.
+>> - Professor Ionacu Lozar teleports the party back to Eto.
+>> - Neferet Anu-Sekh is told the horsemen will return.
