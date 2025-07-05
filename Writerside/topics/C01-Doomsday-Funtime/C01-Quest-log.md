@@ -52,3 +52,8 @@
 
 > SELENOR AND THE CHILDREN.
 >> - Selenor wishes to free the children of ETO from the gangs that inhabit it.   
+
+> SELENOR AND THE BUTTERFLY
+>> - SELENOR gained a THIRD OF THE FINAL SPELL from the BLACK SPHINX in the PILLARS OF ETERNITY. 
+>> - This butterfly has abilities that Selenor can not access. 
+>> - NEFRETI CLEPATI, in the ALL SEEING EYE TEMPLE in SOTHIS can help Selenor unlock the full potential of the butterfly
