@@ -681,3 +681,35 @@ Monster parts:
 >> - 8 bulk.
 >> - Size = Gargantuan.
 >> - 2800 GP.
+
+## Session 249.
+> 2025 June 20th Friday + 4710 AR, Wealday 31st Arodus + Eto part 18.
+>> - IRL start time: 22:13.
+>> - Players present: Horia, Oscar and Anthony.
+
+> Apophis, Wyrm of the Endless Coil
+>> - 11	= 120 
+>> - 12	= 80
+
+> Present characters.
+>> - Perphenius Galen. Level 11. Exp: 312 + 120 = 432.
+>> - Haku Stormfan. Level 11. Exp: 372 + 120 = 492.
+>> - Carnon. Level 11. Exp: 1032 + 120 = 1152.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 1042 + 120 = 1162.
+>> - Allisee. Level 11. Exp: 1112 + 120 = 1232.
+>> - Selenor. Level 12. Exp: 380 + 80 = 460.
+>> - Cardigan. Level 12. Exp: 935 + 80 = 1015.
+
+> New totals.
+>> - Perphenius Galen. Level 11. Exp: 432.
+>> - Haku Stormfan. Level 11. Exp: 492.
+>> - Carnon. Level 11. Exp: 1152.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 1162.
+>> - Allisee. Level 11. Exp: 1232. Level up! Level 12. Exp: 0.
+>> - Selenor. Level 12. Exp: 460.
+>> - Cardigan. Level 12. Exp: 1015.
+
+> Monster parts: Apophis, Wyrm of the Endless Coil.
+>> - 8 bulk.
+>> - Size = Gargantuan.
+>> - 1250 GP.

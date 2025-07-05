@@ -697,4 +697,11 @@ Selenor talks to professor Lozar about the Final Spell and the lens.
 > 10:00.
 >> - Professor Ionacu Lozar gives Carnon a university badge.
 >> - Professor Ionacu Lozar teleports the party back to Eto.
+>> - Professor Ionacu Lozar splits off from the party to get ready to leave Osirion.
 >> - Neferet Anu-Sekh is told the horsemen will return.
+
+> 11:30.
+>> - Neferet Anu-Sekh teaches the party spells for free in the Grand Library.
+>> - Neferet Anu-Sekh's letter is sent to Madame Zelekhati.
+>> - The party is now outside the Dancing Dunes.
+>> - Viole and Selenor are in Madame Zelekhati's waiting area.
