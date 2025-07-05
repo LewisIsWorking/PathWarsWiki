@@ -22,17 +22,39 @@ This book contains:
 As well as by level:
 
 1. level
-   * ...
-   * ...
+   * Bardic Lore(Bard)
+   * Trap Finder(Rogue)
 2. level 
-   * ...
-   * ...
+   * Spirit Warrior Dedication.
+   * Snarecrafter Dedication.
 3. level
+   * Investigator Dedication
+   * Rogue Dedication
 4. level
+   * wip
+   * wip
 5. level
+   * wip
+   * wip
 6. level
+   * Gang up(rogue)
+   * wip
 7. level
+   * wip
+   * wip
 8. level
+   * wip
+   * wip
 9. level
+   * wip
+   * wip
 10. level
+    * Uncanny dodge
+    * wip
 11. level
+    * wip
+    * wip
+12. level
+    * wip
+    * wip
+13. level

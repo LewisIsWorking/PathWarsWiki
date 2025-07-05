@@ -273,6 +273,26 @@ The ancestor was not a cleric, but worshipped fully, with all their heart.
 
 X was born in the same town as their ancestor and all the descendants in between.
 
+## Rubel Nelarc - Anthony
+
+### Rubel's Backstory :
+Rubel was born somewhere, he is not sure,
+he doesn’t even know he is the child of 2 famous adventurers who sacrificed their life to push back against a great threat.
+The only thing he is sure of is that after living for most of his life in a small varissian mountain village
+helping his adoptive grandfather and hearing stories of great adventurers and heroes,
+he dreams of becoming one.
+
+After his grandfather disappeared and was presumed dead in an accident,
+he left his home village and started heading for adventures.
+Once he was in a difficult spot fighting a monster that was way overpowering him. But got saved by a beautiful elven woman.
+He fell in love with her but too shy to tell her he asked to become her student. He leaned many techniques and general knowledge.
+After that her elven mentor had to leave, he swore he would become a great adventurer or even a hero for her and got back to adventuring.
+
+Although he was using magic to fight before, after the Incident with the Grand Explorer's party and the mosquito village,
+he seems to have lost most of his spell casting capabilities(for now at least), he now fights with the various techniques that his master taught him
+deceiving his opponents by feigning weakness or redirecting his attacks at the last moments.
+Although he may have lost his spell casting skills in this incident he hasn't forgotten.
+
 ## Kantral
 > Overview.
 >> - Ancestry-Automaton 
