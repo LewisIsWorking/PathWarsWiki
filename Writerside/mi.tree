@@ -8,14 +8,14 @@
 
     <toc-element topic="Monster-parts-usage-log.md"/>
     <toc-element>
-        <toc-element topic="PW~3rd-party-content-and-options.md"/>
-        <toc-element topic="PW~Heroic-Crafting.md"/>
-        <toc-element topic="PW~Spell-casting-changes.md"/>
-        <toc-element topic="PW~The-Monster-Parts-System.md"/>
+        <toc-element topic="3rd-party-content-and-options.md"/>
+        <toc-element topic="Heroic-Crafting.md"/>
+        <toc-element topic="Spell-casting-changes.md"/>
+        <toc-element topic="The-Monster-Parts-System.md"/>
     </toc-element>
     <toc-element>
         <toc-element topic="C01-100-sessions-of-Selenor.md"/>
-        <toc-element topic="C1~Arc-6-Gaunt-light.md"/>
+        <toc-element topic="C01-Arc-6-Gaunt-light.md"/>
         <toc-element topic="C1~Arc-7-Junima-rescue-arc.md"/>
         <toc-element topic="C01-Arc-8-Untangle-the-past.md"/>
         <toc-element topic="C1~Book-of-the-Black-hole.md"/>
@@ -40,7 +40,7 @@
         <toc-element topic="C01-The-story-so-far.md"/>
     </toc-element>
     <toc-element topic="C1~Other.md">
-        <toc-element topic="C1-Gold-tracker.md"/>
+        <toc-element topic="C01-Gold-tracker.md"/>
         <toc-element topic="C01-Achievements.md"/>
         <toc-element topic="C01-Allisee-Trainer-book-WIP.md"/>
         <toc-element topic="C1~Chronicler-overview.md"/>
@@ -64,16 +64,16 @@
     </toc-element>
     <toc-element>
         <toc-element topic="Multi-discord-ad.md"/>
-        <toc-element topic="PW-Alignment-scale.md"/>
-        <toc-element topic="PW~Available-classes.md"/>
-        <toc-element topic="PW~Homebrew-rules.md"/>
+        <toc-element topic="Alignment-scale.md"/>
+        <toc-element topic="Available-classes.md"/>
+        <toc-element topic="Homebrew-rules.md"/>
         <toc-element topic="PW~Feedback-from-Ross-on-getting-started-guide.md"/>
         <toc-element topic="Getting-started-guide.md"/>
         <toc-element topic="PW~Golarion-Lore-The-Spoiler-Free-Version.md"/>
         <toc-element topic="PW~Official-paizo-variant-rules.md"/>
         <toc-element topic="PF2e-Basic-Actions.md"/>
         <toc-element topic="PW~Pathbuilder-setup.md"/>
-        <toc-element topic="PW~Rarity-lock-status-tracker.md"/>
+        <toc-element topic="Rarity-lock-status-tracker.md"/>
         <toc-element topic="PW~Spoiler-avoidance-guide.md"/>
         <toc-element topic="PW~The-colours-of-magic.md"/>
         <toc-element topic="PW~To-do-list.md"/>
@@ -81,7 +81,7 @@
     </toc-element>
     <toc-element topic="Links-to-campaigns.md">
         <toc-element topic="Campaigns-by-duration.md"/>
-        <toc-element topic="Campaign~1-Doomsday-Funtime.md"/>
+        <toc-element topic="C01-Doomsday-Funtime.md"/>
         <toc-element topic="C02-The-Crimson-Throne.md"/>
         <toc-element topic="C03-Etran's-Folly.md"/>
         <toc-element topic="C04-Agents-of-Magni-Watch.md"/>
@@ -95,7 +95,7 @@
         <toc-element topic="Random~Barcelona-trip.md"/>
         <toc-element topic="Random~Birthday-trip-2024.md"/>
         <toc-element topic="Random~Fictional-character-power-ranking.md"/>
-        <toc-element topic="PW~Foundry-modules.md"/>
+        <toc-element topic="Foundry-modules.md"/>
         <toc-element topic="Random~Guild-wars-2-in-Pathfinder-2e.md"/>
         <toc-element topic="Random~Guild-wars-2-notes.md"/>
         <toc-element topic="Random~Master-duel.md"/>

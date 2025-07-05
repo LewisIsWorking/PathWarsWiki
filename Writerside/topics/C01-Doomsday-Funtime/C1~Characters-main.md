@@ -3,7 +3,7 @@
 Start typing here...
 
 ## Allisee Tra-Umna.
-- [C1~Characters-Allisee.md](C1~Main-character-Allisee.md)
+- [C1~Characters-Allisee.md](C01-Allisee.md)
 - Main character.
 - Barbarian & Witch.
 - Wielder of Moon-bear. [C1~Moonbear-and-artifacts-overview.md](C1~Moonbear-and-artifacts-overview.md)
@@ -14,7 +14,7 @@ Start typing here...
 
 ## Selenor.
 
-- [C1~Characters-Selenor.md](C1~Main-character-Selenor.md)
+- [C1~Characters-Selenor.md](C01-Selenor.md)
 - Main character.
 - Eternal Warden.
 - Chronicler.
