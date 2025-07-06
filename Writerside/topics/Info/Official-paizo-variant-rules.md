@@ -1,4 +1,4 @@
-# PW~Official-paizo-variant-rules
+# Official-paizo-variant-rules
 
 Format = Rule Name - Sub-Rule - Status - Link
 
