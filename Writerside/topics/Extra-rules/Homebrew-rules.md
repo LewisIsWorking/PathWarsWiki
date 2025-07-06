@@ -1,6 +1,6 @@
 # Homebrew-rules.md.
 
-For the official Paizo homebrew rules we use: [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md).
+For the official Paizo homebrew rules we use: [](Official-paizo-variant-rules.md)https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Info/Official-paizo-variant-rules.md.
 
 ## 5 plot threads.
 
@@ -30,7 +30,7 @@ This can be accompanied by an in-character request for help or a prompt to ask:
 
 A lore increase is a skill increase that can only be applied to lore skills.
 
-Every time you get a skill increase as part of your character’s class progression, you get a lore increase.
+Every time you get a skill increase as part of your character's class progression, you get a lore increase.
 
 This also applies to Rogues with their increased frequency of skill increases.
 
