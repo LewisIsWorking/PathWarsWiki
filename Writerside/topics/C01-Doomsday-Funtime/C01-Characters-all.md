@@ -143,7 +143,7 @@ Learning about the dangers of the world as she hones her practical skills.
 ## Allisee Tra-Umna.
 - Main character.
 - Barbarian & Witch.
-- Wielder of Moon-bear. [See: Moon-bear-and-artifacts-overview.md](C1~Moonbear-and-artifacts-overview.md)
+- Wielder of Moon-bear. [See: Moon-bear-and-artifacts-overview.md](C01-Moonbear-and-artifacts-overview.md)
 
 ## B.
 

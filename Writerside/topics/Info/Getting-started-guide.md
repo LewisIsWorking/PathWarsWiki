@@ -74,21 +74,21 @@
 
 ## Spoilers.
 > The Great Spoiler Warning.
->> - Read = [PW~Spoiler-avoidance-guide.md](PW~Spoiler-avoidance-guide.md)
+>> - Read = [Spoiler-avoidance-guide.md](Spoiler-avoidance-guide.md)
 
 ## Build Your Character's Lore.
 >> - Go here and paste the table onto your writerside instance OR your word processor of choice: [Character-Lore-Builder.md.](Character-Lore-Builder.md)
->> - If you need information on the world, check out: [PW~Golarion-Lore-The-Spoiler-Free-Version.md.](PW~Golarion-Lore-The-Spoiler-Free-Version.md)
+>> - If you need information on the world, check out: [Golarion-Lore-The-Spoiler-Free-Version.md.](Golarion-Lore-The-Spoiler-Free-Version.md)
 >> - Send me your character's lore, and I will add it to this wiki.
 
 ## Paizo Variant Rules.
 >> - YOU DO NOT NEED TO USE A VARIANT RULE IF YOU DO NOT WANT TO. 
 >> - You do not need to use dual class, free archetype, etc. 
 >> - You can make a single class non-free-archetype character if you wish to do so.
->> - Please read the following page:[PW~Official-paizo-variant-rules.md](PW~Official-paizo-variant-rules.md)
+>> - Please read the following page:[Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 >> - You can find out what Paizo Variant rules are used on the page linked above!
 >> - The campaigns ran in the Path War community have some homebrew rule changes. 
->> - You can find a mostly complete list of the rule changes here: [PW~Homebrew-rules.md.](PW~Homebrew-rules.md)
+>> - You can find a mostly complete list of the rule changes here: [Homebrew-rules.md.](Homebrew-rules.md)
 
 ## Path Builder 2e + Character Creation.
 >> - Time to actually make your character's stats and abilities.
@@ -100,7 +100,7 @@
 >> - Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
 
 > Pathbuilder setup. 
->> - Here is how to set up Path Builder 2e = [PW~Pathbuilder-setup.md.](PW~Pathbuilder-setup.md)
+>> - Here is how to set up Path Builder 2e = [Pathbuilder-setup.md.](Pathbuilder-setup.md)
 >> - The link to Path-Builder is here: [https://pathbuilder2e.com/app.html](https://pathbuilder2e.com/app.html)
 
 > Go on Path-Builder. 
@@ -108,23 +108,23 @@
 
 > Enable the variant rules.
 >> - Enable the variant rules that are applicable to your campaign.
->> - To find out what variant rules you need to enable, check here: [PW~Official-paizo-variant-rules.md.](PW~Official-paizo-variant-rules.md)
+>> - To find out what variant rules you need to enable, check here: [Official-paizo-variant-rules.md.](Official-paizo-variant-rules.md)
 
 > How to enable the variant rules.
->> - To enable variant rules on Path-Builder 2e, do the following: [PW~Pathbuilder-setup.md.](PW~Pathbuilder-setup.md)
+>> - To enable variant rules on Path-Builder 2e, do the following: [Pathbuilder-setup.md.](Pathbuilder-setup.md)
 >> - Options -> Then Tick the Box next to the rule. 
 >> - For dual-class it would be: Options -> Tick the Dual Class box.
 
 > NOTE ABOUT = Selecting 3rd party content on Pathbuilder:
 >> - **3rd Party Content.**
->> - Check the 3rd party page to find out what is available: [PW~3rd-party-content-and-options.md.](PW~3rd-party-content-and-options.md)
+>> - Check the 3rd party page to find out what is available: [3rd-party-content-and-options.md.](3rd-party-content-and-options.md)
 >> - 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 >> - To use 3rd party content, you will need to add it in Foundry manually.
 >> - Ask me about this! 
 >> - Some 3rd party content may already be available in Foundry thanks to community modules.
 
 > NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.
->> - Before selecting anything with these traits, make sure you read: [PW~Rarity-lock-status-tracker.md.](PW~Rarity-lock-status-tracker.md)
+>> - Before selecting anything with these traits, make sure you read: [Rarity-lock-status-tracker.md.](Rarity-lock-status-tracker.md)
 >> - You can play ANY background, class and/or race, regardless of their rarity.
 
 > Create your character.
@@ -154,7 +154,7 @@
 >> - Type 4 = 13th level item. 2,400 GPs.
 
 > Apply lore increases. 
->> - You can read about the lore increases homebrew rule here: [PW~Homebrew-rules.md.](PW~Homebrew-rules.md)
+>> - You can read about the lore increases homebrew rule here: [Homebrew-rules.md.](Homebrew-rules.md)
 
 ## What is the Time Zone of the GM?
 

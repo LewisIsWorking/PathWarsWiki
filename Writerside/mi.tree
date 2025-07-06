@@ -4,9 +4,9 @@
 
 <instance-profile id="mi"
                   name="Main Instance"
-                  start-page="C1~Characters-main.md">
+                  start-page="C01-Characters-main.md">
 
-    <toc-element topic="Monster-parts-usage-log.md"/>
+    <toc-element topic="C01-Monster-parts-usage-log.md"/>
     <toc-element>
         <toc-element topic="3rd-party-content-and-options.md"/>
         <toc-element topic="Heroic-Crafting.md"/>
@@ -16,46 +16,46 @@
     <toc-element>
         <toc-element topic="C01-100-sessions-of-Selenor.md"/>
         <toc-element topic="C01-Arc-6-Gaunt-light.md"/>
-        <toc-element topic="C1~Arc-7-Junima-rescue-arc.md"/>
+        <toc-element topic="C01-Arc-7-Junima-rescue-arc.md"/>
         <toc-element topic="C01-Arc-8-Untangle-the-past.md"/>
-        <toc-element topic="C1~Book-of-the-Black-hole.md"/>
-        <toc-element topic="C1~Books-of-the-Sunken-tower-library.md"/>
-        <toc-element topic="C1~Books-of-the-White-tower.md"/>
-        <toc-element topic="C1~Cardigans-Dream.md"/>
-        <toc-element topic="C1~Characters-all.md">
+        <toc-element topic="C01-Book-of-the-Black-hole.md"/>
+        <toc-element topic="C01-Books-of-the-Sunken-tower-library.md"/>
+        <toc-element topic="C01-Books-of-the-White-tower.md"/>
+        <toc-element topic="C01-Cardigans-Dream.md"/>
+        <toc-element topic="C01-Characters-all.md">
         </toc-element>
-        <toc-element topic="C1~Characters-main.md"/>
-        <toc-element topic="C1~Characters-side.md"/>
-        <toc-element topic="C1~Doomsday-funtime-128-to-200.md"/>
-        <toc-element topic="C1~doomsday-funtime-201-plus.md"/>
+        <toc-element topic="C01-Characters-main.md"/>
+        <toc-element topic="C01-Characters-side.md"/>
+        <toc-element topic="C01-Doomsday-funtime-128-to-200.md"/>
+        <toc-element topic="C01-Doomsday-funtime-201-plus.md"/>
         <toc-element topic="C01-Allisee.md"/>
         <toc-element topic="C01-Selenor.md"/>
-        <toc-element topic="C1~Player-perspective-session-summaries.md"/>
-        <toc-element topic="C1~Riddleport-and-Rune-wheel.md"/>
+        <toc-element topic="C01-Player-perspective-session-summaries.md"/>
+        <toc-element topic="C01-Riddleport-and-Rune-wheel.md"/>
         <toc-element topic="C01-The-Visions-of-Selenor.md"/>
-        <toc-element topic="C1-Session-calendar.md"/>
-        <toc-element topic="C1-Session-list.md"/>
-        <toc-element topic="C1~The-Harrow-Realm.md"/>
-        <toc-element topic="C1~The-secrets-of-magic.md"/>
+        <toc-element topic="C01-Session-calendar.md"/>
+        <toc-element topic="C01-Session-list.md"/>
+        <toc-element topic="C01-The-Harrow-Realm.md"/>
+        <toc-element topic="C01-The-secrets-of-magic.md"/>
         <toc-element topic="C01-The-story-so-far.md"/>
     </toc-element>
-    <toc-element topic="C1~Other.md">
+    <toc-element>
         <toc-element topic="C01-Gold-tracker.md"/>
         <toc-element topic="C01-Achievements.md"/>
         <toc-element topic="C01-Allisee-Trainer-book-WIP.md"/>
-        <toc-element topic="C1~Chronicler-overview.md"/>
-        <toc-element topic="C1~Discord-advertisement.md"/>
-        <toc-element topic="C1~Dragon-spirit.md"/>
-        <toc-element topic="C1~Eldamon-tracker.md"/>
-        <toc-element topic="C1~Eternal-Warden-Overview.md"/>
+        <toc-element topic="C01-Chronicler-overview.md"/>
+        <toc-element topic="C01-Discord-advertisement.md"/>
+        <toc-element topic="C01-Dragon-spirit.md"/>
+        <toc-element topic="C01-Eldamon-tracker.md"/>
+        <toc-element topic="C01-Eternal-Warden-Overview.md"/>
         <toc-element topic="C01-Experience-totals.md"/>
-        <toc-element topic="C1~Experience-tracker.md"/>
-        <toc-element topic="C1~Faction-signup-rewards.md"/>
-        <toc-element topic="C1~Fame-tracker.md"/>
-        <toc-element topic="C1~Moonbear-and-artifacts-overview.md"/>
+        <toc-element topic="C01-Experience-tracker.md"/>
+        <toc-element topic="C01-Faction-signup-rewards.md"/>
+        <toc-element topic="C01-Fame-tracker.md"/>
+        <toc-element topic="C01-Moonbear-and-artifacts-overview.md"/>
         <toc-element topic="C01-Proto-sin-blades.md"/>
-        <toc-element topic="C1~Sandpoint-charter.md"/>
-        <toc-element topic="C1~The-Doomsday-Dominion.md"/>
+        <toc-element topic="C01-Sandpoint-charter.md"/>
+        <toc-element topic="C01-The-Doomsday-Dominion.md"/>
     </toc-element>
     <toc-element>
         <toc-element topic="C05-Grand-explorers-discord-ad.md"/>
@@ -67,16 +67,16 @@
         <toc-element topic="Alignment-scale.md"/>
         <toc-element topic="Available-classes.md"/>
         <toc-element topic="Homebrew-rules.md"/>
-        <toc-element topic="PW~Feedback-from-Ross-on-getting-started-guide.md"/>
+        <toc-element topic="Feedback-from-Ross-on-getting-started-guide.md"/>
         <toc-element topic="Getting-started-guide.md"/>
-        <toc-element topic="PW~Golarion-Lore-The-Spoiler-Free-Version.md"/>
-        <toc-element topic="PW~Official-paizo-variant-rules.md"/>
+        <toc-element topic="Golarion-Lore-The-Spoiler-Free-Version.md"/>
+        <toc-element topic="Official-paizo-variant-rules.md"/>
         <toc-element topic="PF2e-Basic-Actions.md"/>
-        <toc-element topic="PW~Pathbuilder-setup.md"/>
+        <toc-element topic="Pathbuilder-setup.md"/>
         <toc-element topic="Rarity-lock-status-tracker.md"/>
-        <toc-element topic="PW~Spoiler-avoidance-guide.md"/>
-        <toc-element topic="PW~The-colours-of-magic.md"/>
-        <toc-element topic="PW~To-do-list.md"/>
+        <toc-element topic="Spoiler-avoidance-guide.md"/>
+        <toc-element topic="The-colours-of-magic.md"/>
+        <toc-element topic="To-do-list.md"/>
         <toc-element/>
     </toc-element>
     <toc-element topic="Links-to-campaigns.md">

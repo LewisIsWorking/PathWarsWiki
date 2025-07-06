@@ -6,11 +6,11 @@ Start typing here...
 - [C1~Characters-Allisee.md](C01-Allisee.md)
 - Main character.
 - Barbarian & Witch.
-- Wielder of Moon-bear. [C1~Moonbear-and-artifacts-overview.md](C1~Moonbear-and-artifacts-overview.md)
+- Wielder of Moon-bear. [C1~Moonbear-and-artifacts-overview.md](C01-Moonbear-and-artifacts-overview.md)
 
 ## Dorian Holloway.
 - Barbarian/Monk
-- A charming gentleman and great cook.
+- A charming gentleman and a great cook.
 
 ## Selenor.
 

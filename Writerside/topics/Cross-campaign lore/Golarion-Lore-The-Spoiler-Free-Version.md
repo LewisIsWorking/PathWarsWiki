@@ -1,4 +1,4 @@
-# PW~Golarion Lore = The Spoiler-Free Version!
+# Golarion Lore = The Spoiler-Free Version!
 
 ## Golarion Map.
 [Inner-Sea-Map](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/Inner-Sea-Map.pdf)
