@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
-
 <instance-profile id="Info"
-                 name="Info"
-                 start-page="Content-warning.md">
-
+                  name="Info"
+                  start-page="Content-warning.md">
     <toc-element toc-title="Info">
         <toc-element topic="Character-Lore-Builder.md"/>
         <toc-element topic="Content-warning.md"/>
@@ -14,5 +12,19 @@
         <toc-element topic="Getting-started-guide.md"/>
         <toc-element topic="How-to-LEAVE-a-campaign.md"/>
         <toc-element topic="Joining-foundry.md"/>
+        <toc-element topic="Official-paizo-variant-rules.md"/>
+        <toc-element topic="Pathbuilder-setup.md"/>
+        <toc-element topic="PF2e-Basic-Actions.md"/>
+    </toc-element>
+    <toc-element toc-title="Extra Rules">
+        <toc-element topic="Homebrew-rules.md"/>
+        <toc-element topic="3rd-party-content-and-options.md"/>
+        <toc-element topic="Alignment-scale.md"/>
+        <toc-element topic="Available-classes.md"/>
+        <toc-element topic="Foundry-modules.md"/>
+        <toc-element topic="Heroic-Crafting.md"/>
+        <toc-element topic="Rarity-lock-status-tracker.md"/>
+        <toc-element topic="Spell-casting-changes.md"/>
+        <toc-element topic="The-Monster-Parts-System.md"/>
     </toc-element>
 </instance-profile>
