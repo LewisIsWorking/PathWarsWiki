@@ -88,7 +88,7 @@
 >> - Please read the following page:[Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 >> - You can find out what Paizo Variant rules are used on the page linked above!
 >> - The campaigns ran in the Path War community have some homebrew rule changes. 
->> - You can find a mostly complete list of the rule changes here: [Homebrew-rules.md.](Homebrew-rules.md)
+>> - You can find a mostly complete list of the rule changes here: [Homebrew-rules.md](Homebrew-rules.md).
 
 ## Path Builder 2e + Character Creation.
 >> - Time to actually make your character's stats and abilities.

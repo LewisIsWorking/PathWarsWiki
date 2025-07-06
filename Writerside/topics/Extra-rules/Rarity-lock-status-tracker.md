@@ -75,7 +75,7 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
 >> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
->> - Sceptic's Elixir. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Sceptic's Elixir. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 >> - Six fingers elixir. Unlocked: [C06-Kibwe.md](C06-Kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi.
 >> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etrans-Folly.md](C03-Etran's-Folly.md).
@@ -92,26 +92,26 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Daemonic-pact. Rank 1. Unlocked: By the releasing of the horsemen at black rock mine.
 >> - Consecrate. Rank 2. Unlocked: Must be learned from a priest.
 >> - Heart-bond. Rank 2. Unlocked: Must be learned from a priest.
->> - Create Undead (Ghosts). Rank 2. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Create Undead (Ghosts). Rank 2. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 >> - Mystic carriage. Rank 3. Unlocked: GM's choice.
 >> - Atone. Rank 4. Unlocked: Must be learned from a priest.
->> - Resurrect. Rank 5. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). At the end of Arc-5 Necropolis.
+>> - Resurrect. Rank 5. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). At the end of Arc-5 Necropolis.
 >> - Binding-circle. Rank 6. Unlocked: GM's choice.
->> - Teleportation Circle. Rank 7. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+>> - Teleportation Circle. Rank 7. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md).
 
 > Rituals. Rare.
->> - Awaken Portal. Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Awaken Portal. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 
 > Spells.
 >> - Detect Scrying.
 >> - Discern Lies.
 >> - Nudge The Odds.
->> - Liminal Doorway (pre-remaster = Rope Trick). Unlocked: Session 169. [Campaign~1-Doomsday-Funtime.md.](Campaign~1-Doomsday-Funtime.md) 
+>> - Liminal Doorway (pre-remaster = Rope Trick). Unlocked: Session 169. [C01-Doomsday-Funtime.md.](C01-Doomsday-Funtime.md) 
 >> - Locate. Session 220.
 >> - Teleport: Unlocked. 
 >> - Umbral Journey: Unlocked.
 >> - Worm's Repast.
-Unlocked: [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md). 
+Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). 
 Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 
 > Weapons.
