@@ -12,8 +12,8 @@ For a look at how things roughly fit together:
 - Session count: 211+.
 - Started: 2018. 
 - Restarted: 2022.
-- [campaign-1-the-doomsday-funtime-story.md](C1~Doomsday-funtime-128-to-200.md)
-- [Campaign-1-doomsday-funtime-201-plus.md](C1~doomsday-funtime-201-plus.md)
+- [campaign-1-the-doomsday-funtime-story.md](C01-Doomsday-funtime-128-to-200.md)
+- [Campaign-1-doomsday-funtime-201-plus.md](C01-Doomsday-funtime-201-plus.md)
 
 ## #1: Riddleport.
 - Status: ongoing.

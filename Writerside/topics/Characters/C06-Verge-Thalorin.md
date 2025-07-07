@@ -350,14 +350,12 @@ Major Updates:
 2. Complete Physical Description: Added detailed appearance including his curse-touched features, magical scars, and otherworldly elven beauty marked by trauma
 3. Equipment & Combat: Filled out his alchemical weapons, analytical tools, and practical scholar's gear that reflects his investigative nature
 4. Deep Backstory Integration: Connected him to the Kibwe campaign through:
-
 His expertise in curse-breaking magic (directly relevant to the slime curse)
 Connection to the Curse Breaker statue (grants his dual-class abilities)
 Tragic past involving curse-breaking experiments gone wrong
 Debt to Kalthis (the tiefling who informed him about the statue theft)
-
 5. Tragic Romance: Added Dr. Lyralei Moonwhisper, whose death in a curse-breaking experiment drives his current quest for redemption
 6. Rich Character Flaws: His intellectual pride, emotional detachment, and secret desire to resurrect his lost love create excellent roleplay opportunities
 7. Campaign-Relevant Skills: His curse analysis abilities make him invaluable for the Kibwe mission while his trauma makes the stakes personal
    The character now has a complete 30-year progression from scholar to exile to curse specialist, with every aspect tied into the Kibwe campaign's themes of curse-breaking, demonic corruption, and magical disaster. His connection to the Curse Breaker statue explains his dual-class abilities while his tragic past provides motivation for the current mission.
-   Verge is now a fully-realized level 11 character ready for the high-stakes Kibwe campaign!
+   Verge is now a fully realised level 11 character ready for the high-stakes Kibwe campaign!

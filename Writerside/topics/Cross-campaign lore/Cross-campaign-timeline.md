@@ -51,7 +51,7 @@ when determining if specific events have happened and for the purpose of unlocke
 ## **4709.**
 
 > Doomsday Funtime #1. 4709 AR.
->> - [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+>> - [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md).
 >> - Campaign #1. Starts in 4710 AR. Ends in 4719 AR.
 >> - 230+ sessions!
 
@@ -78,7 +78,7 @@ when determining if specific events have happened and for the purpose of unlocke
 ## 4719 AR.
 
 > Doomsday Funtime #1. 4719 AR.
->> - [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+>> - [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md).
 >> - Campaign #1. 
 >> - Ends in 4719 AR. 
 >> - Started in 4709 AR.
@@ -86,7 +86,7 @@ when determining if specific events have happened and for the purpose of unlocke
 ## IRL Campaign Start Dates Chronological Timeline.
 
 > Doomsday Funtime, campaign 1.
->> - [Campaign~1-Doomsday-Funtime.md](Campaign~1-Doomsday-Funtime.md).
+>> - [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md).
 >> - Campaign #1. 2018/2019 → Current year (2025).
 
 > Crimson Throne, campaign 2.

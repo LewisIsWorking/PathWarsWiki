@@ -1,4 +1,4 @@
-# C1~Characters-side.md
+# Characters-side.md
 
 Start typing here...
 

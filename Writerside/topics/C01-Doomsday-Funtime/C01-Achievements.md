@@ -1,4 +1,4 @@
-# C1~Achievements
+# C01-Achievements
 
 ## Achievement rules.
 
@@ -24,7 +24,7 @@ requirement AND a higher number of the achievement's base requirements.
 >> - ???
 
 > Chronicler.
->> - [C1~Chronicler-overview.md](C1~Chronicler-overview.md).
+>> - [C01-Chronicler-overview.md](C01-Chronicler-overview.md).
 >> - Write everything down. 
 >> - The reward is the most powerful feat ever. 
 >> - High-time investment = High reward. 
@@ -152,7 +152,7 @@ Potential true polymaths:
 3. Augur. Clue = You need to make a prediction with magic, and then keep track of the prediction.
 4. Brew-master.
 5. Chef-master.
-6. Chronicler. [C1~Chronicler-overview.md](C1~Chronicler-overview.md)
+6. Chronicler. [C01-Chronicler-overview.md](C01-Chronicler-overview.md)
 7. Cursed One.
 8. Depicter. Clue = Create art of beings.
 9. Destined One.

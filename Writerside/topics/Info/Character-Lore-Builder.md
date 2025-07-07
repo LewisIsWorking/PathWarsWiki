@@ -23,7 +23,7 @@ Below is the table to copy and paste into your own Writerside workspace and fill
 >> - Answer:
 
 > Age.
->> - For help on days, months and years of the world, click the following link = [PW~Golarion-Lore-The-Spoiler-Free-Version.md](PW~Golarion-Lore-The-Spoiler-Free-Version.md).
+>> - For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version.md](Golarion-Lore-The-Spoiler-Free-Version.md).
 >> - Question: How old is your character?
 >> - Answer:
 >> - Question: What year was your character born?
