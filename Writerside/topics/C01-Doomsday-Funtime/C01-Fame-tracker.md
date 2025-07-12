@@ -2,11 +2,26 @@
 
 ## Factions.
 
-- Andoran. Liberty's Edge. Major Colson Maldris.
-- Dark Archive.
-- Magnimar.
-- Osiria. Ruby sage.
-- Taldor. Sovereign Court. Lady Gloriana Morilla.
+> Major Factions.
+>> - Andoran & Liberty's Edge. Led by Major Colson Maldris. 
+>> - Cheliax & Dark Archive. Led by Zarta Dralneen.
+>> - Concordance of Elements. Led by
+>> - Grand Archive.
+>> - Magnimar. Led by Sheila Heidmarch.
+>> - Osirion & Scarab Sages. Led by Amenopheus The Sapphire Sage. 
+>> - Shadow. Led by Grand Master Torch. 
+>> - Silver Crusade.
+>> - Taldor & Sovereign Court. Led by Lady Gloriana Morilla. 
+>> - The Exchange faction. Alliance of the Sczarni family and Qadira. Led by Guaril Karela & Trade Prince Aaqir al'Hakam. 
+>> - Tian-Xia / Lantern Lodge. 
+>> - Qadira.
+
+> Minor Factions.
+>> - Envoy's Alliance.
+>> - Horizon Hunters.
+>> - Radiant Oath.
+>> - Verdant Wheel.
+>> - Vigilant Seal.
 
 ## Membership.
 
