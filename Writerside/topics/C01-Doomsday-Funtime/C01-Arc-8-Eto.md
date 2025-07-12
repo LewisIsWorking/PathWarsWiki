@@ -2,12 +2,14 @@
 
 Start typing here...
 
-> Arc 8.
+> Arc 8. 
+>> - 225 -> 251. 
+>> - 21 sessions.
 >> - 225: Introduction to the arc.
 >> - 226 -> 227: Seagull island.
 >> - 228: Selenor's 100th-session.
 >> - 229: Role play + Lire joined the party.
->> - 230 -> 232: Eto.
+>> - 230 -> 251: Eto.
 
 ## Session 226.
 > 2024 November 23rd Saturday + 4710 AR, 27th Arodus. + Untangle the past arc introduction.
@@ -705,3 +707,39 @@ Selenor talks to professor Lozar about the Final Spell and the lens.
 >> - Neferet Anu-Sekh's letter is sent to Madame Zelekhati.
 >> - The party is now outside the Dancing Dunes.
 >> - Viole and Selenor are in Madame Zelekhati's waiting area.
+
+## Session 251.
+> 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Eto part 20.
+>> - IRL start time: 21:49.
+>> - Players present: Anthony, Horia, Oscar, Tony and Askaran.
+
+> 12:00.
+>> - Carnon: outside the Dancing Dunes.
+>> - Allisee & Haku are in the Dancing Dunes pool garden.
+>> - Selenor & Viole are in Madame Zelekhati's waiting area talking to Madame Zelekhati.
+
+> 12:30.
+>> - Carnon sells his soul to The Pale.
+>> - Carnon becomes a Pale Soul, infused with True Demon blood.
+>> - Carnon gains adopted demon ancestry.
+>> - The Madame Zelekhati is now Carnon's mind warped slave.
+>> - The Dancing Dune has fallen to Lamashtu and the Pale.
+>> - All the Elves are now slaves of the Pale, infected with demon blood.
+>> - Viole grabs the bottle of expensive wine from The Dancing Dunes.
+>> - Cardigan uses the Osirion Communication Geode to tell Amenopheus that the party is ready to leave Eto.
+>> - The party leave Eto.
+
+> 13:00.
+>> - Selenor hands Amenopheus the lenses of truth.
+>> - Amenopheus appreciates the lenses and tells Selenor that he will be able to use them to protect from the scrying and divination magic.
+>> - Amenopheus tells Selenor this is the Pale Lotus.
+>> - Amenopheus meets "Haku Stormfan" and tells Haku that he is a powerful ally.
+>> - Haku Stormfan signs the party character and joins the heroes of Magnimar.
+>> - Amenopheus enters Eto with the party.
+>> - Eto's army goes to the Brothel.
+>> - The brothel is gone, left with a necromantic crater.
+>> - Selenor sees a crystal figure on the walls of Eto, and the figure tells Selenor:
+>> - "I am sorry, Father."
+
+> 16:00
+>> - The party leave Eto.
