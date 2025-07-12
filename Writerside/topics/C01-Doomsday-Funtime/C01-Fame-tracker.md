@@ -191,9 +191,17 @@ Selenor = 2/34.
 
 > New Totals for PP.
 >> - +5 PP.
+>> - Reason = Various side quest turn ins.
 >> - Viole = 0/0 + 5 = 5/5.
 
+> New Totals for PP.
+>> - +2 PP.
+>> - Reason = Completing Eto & The Black Spinx.
+>> - Viole = 5/5 + 2 = 7/7.
+>> - Allisee = 15/20 + 2 = 17/22.
+>> - Selenor = 3/35 + 2 = 5/37.
+
 > Total PP.
->> - Viole = 5/5.
->> - Allisee = 15/20.
->> - Selenor = 3/35.
+>> - Viole = 7/7.
+>> - Allisee = 17/22.
+>> - Selenor = 5/37.
