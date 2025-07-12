@@ -1,6 +1,6 @@
 # C04-Akuma
 
-Akuma is a Human Hungerseed from Tian Xia. 
+Akuma is a Human Hunger seed from Tian Xia. 
 
 If his appearance was not enough of an ill omen, the death of his mother solidified it. 
 

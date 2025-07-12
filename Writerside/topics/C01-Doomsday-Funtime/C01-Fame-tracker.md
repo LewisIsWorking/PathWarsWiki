@@ -186,3 +186,14 @@ Selenor = 2/34.
 >> - Cardigan = 8 GP + 4 GP = 12 GP.
 >> - Viole = 0 GP + 4 GP = 4 GP.
 >> - Selenor = 12 GP + 4 GP = 16 GP.
+
+## Session 251.
+
+> New Totals for PP.
+>> - +5 PP.
+>> - Viole = 0/0 + 5 = 5/5.
+
+> Total PP.
+>> - Viole = 5/5.
+>> - Allisee = 15/20.
+>> - Selenor = 3/35.
