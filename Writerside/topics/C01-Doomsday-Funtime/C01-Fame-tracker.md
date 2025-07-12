@@ -5,7 +5,7 @@
 > Major Factions.
 >> - Andoran & Liberty's Edge. Led by Major Colson Maldris. 
 >> - Cheliax & Dark Archive. Led by Zarta Dralneen.
->> - Concordance of Elements. Led by
+>> - Concordance of Elements. Led by Ashasar, Liaison to the Cycle of Five's Seat of Balance.
 >> - Grand Archive.
 >> - Magnimar. Led by Sheila Heidmarch.
 >> - Osirion & Scarab Sages. Led by Amenopheus The Sapphire Sage. 
@@ -14,7 +14,7 @@
 >> - Taldor & Sovereign Court. Led by Lady Gloriana Morilla. 
 >> - The Exchange faction. Alliance of the Sczarni family and Qadira. Led by Guaril Karela & Trade Prince Aaqir al'Hakam. 
 >> - Tian-Xia / Lantern Lodge. 
->> - Qadira.
+>> - Qadira. Led by Pasha Muhlia al'Jakri.
 
 > Minor Factions.
 >> - Envoy's Alliance.
