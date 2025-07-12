@@ -39,7 +39,7 @@ You can only buy fame awards when you have an amount of fame equal than or great
 
 ### Fame 1.
 
-1. Hero’s Luck = 1 PP = One time, +4 to one roll.
+1. Hero's Luck = 1 PP = One time, +4 to one roll.
 2. Palm Greaser = 4PP = Title.
 3. Planar Pact = 5 PP = Improved familiar.
 
