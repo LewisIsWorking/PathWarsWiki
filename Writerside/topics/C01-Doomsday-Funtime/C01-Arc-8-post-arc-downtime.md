@@ -1,8 +1,11 @@
 # C01-Arc-8-post-arc-downtime
 
+Start time = 20:00.
+
 ## Session 251.
 > 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Downtime part 1.
 >> - IRL start time: 21:49.
+>> - Delay duration: 1 hour & 49 minutes.
 >> - Players present: Anthony, Horia, Oscar, Tony and Askaran.
 
 > 16:00
@@ -48,6 +51,7 @@
 ## Session 252.
 > 2025 July 19th Saturday + 4710 AR, Rova 1st, Oath-day + Downtime part 2.
 >> - IRL start time: 00:03.
+>> - Delay duration: 4 hours & 3 minutes.
 >> - Players present: Anthony, Horia, Tony and Askaran.
 
 > 17:30.

@@ -233,6 +233,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 236.
 > 2025 February 1st Saturday + 4710 AR, 29th Arodus. + Eto part 6.
 >> - IRL start time: 21:50.
+>> - Delay duration: 1 hour and 50 minutes.
 
 > 16:30. Beggar's alley.
 >> - Carnon & Allisee discuss the plan to carry out the tasks.
@@ -242,7 +243,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Party discuss.
 >> - Talking to dancing dunes guards.
 >> - Lire told him his name, aka Lire.
->> - Lire The Liar tells the guard that he wants to know more about Osirion.
+>> - "Lire The Liar" tells the guard that he wants to know more about Osirion.
 >> - They have brought gifts and want to tell her about the horsemen.
 >> - Allisee, Viole and Lire.
 >> - They are in the dancing dunes garden.
@@ -267,15 +268,16 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 237.
 > 2025 March 8th Saturday + 4710 AR, 29th Arodus. + Eto part 7.
 >> - IRL start time: 21:20.
+>> - Delay duration: 1 hour and 20 minutes.
 >> - Players present: Anthony, Horia, Ross, Sherfield and Tony.
 
 > 19:00.
->> - Still in alchemy shop.
+>> - Still in the alchemy shop.
 >> - Selenor has never had a pizza.
->> - Lire consults the spirits, 10 minutes, CRITICAL SUCCESS.
+>> - Lire uses consult the spirits, 10 minutes, CRITICAL SUCCESS.
 >> - Question 1: "What is the assassin's name?" Answer: "Kura."
 >> - Question 2: "Where are they?" Answer: "Sewer."
->> - Lire of the Dark Archive speaks the following poem:
+>> - "Lire of the Dark Archive" starts to speak the following poem:
 >> - She fell where none would carve her stone, No god to claim, no kin to mourn.
 >> - Only the wind, a fleeting sigh, To ask the stars, “But why? But why?”
 >> - Her name is lost, her tale unwept, A crimson vow her killer kept. And so she fades, as shadows must,
@@ -285,21 +287,22 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 238.
 > 2025 March 15th Saturday + 4710 AR, 29th Arodus. + Eto part 8.
 >> - IRL start time: 21:46.
+>> - Delay duration: 1 hour and 46 minutes.
 >> - Players present: Anthony, Horia, Ross and Luke.
 
 > 19:30.
 >> - The party agrees with the red mantis assassin that they will not kill her.
->> - The party meet Rino, the greatest rhino magma dragon ever.
+>> - The party meets Rino, the greatest rhino magma dragon ever.
 >> - Rino is the slave of the red mantis assassin.
 >> - The group is talking to the 100 finger gang.
 
 > 20:00.
->> - Go to herbalist shop with old halfling woman scribe.
+>> - Go to the herbalist shop with an old halfling woman scribe.
 >> - Talk to her, show her an illusion of the corpse, go back to Beggar's alley.
 >> - Tom the boy.
 >> - With a 48 diplomacy check, Tom the 8-year-old pickpocket now worships Selenor.
 >> - Selenor gives Tom a platinum coin.
->> - Shackle is 2nd in command.
+>> - Shackle is the 2nd in command.
 
 > 20:30.
 >> - Party talk to Torch. They kill the assassin.
@@ -309,6 +312,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 239.
 > 2025 March 22nd Saturday + 4710 AR, 29th Arodus. + Eto part 9.
 >> - IRL start time: 22:56.
+>> - Delay duration: 2 hours and 56 minutes.
 >> - Players present: Ross, Anthony and Tony.
 
 > 21:00.
@@ -358,12 +362,13 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Carnon can summon a Mossy Skull made of liquid metal that floats above his hand.
 
 > 12:00.
->> - The party are reunited as Carnon and Cardigan leave the admin building, joining up with the rest of the party.
+>> - The party is reunited as Carnon and Cardigan leave the admin building, joining up with the rest of the party.
 
 ## Session 239. Play by post.
 > 2025 March 30th Sunday + 4710 AR, 29th Arodus. + Eto part 9.
 >> - Real time play by posting.
 >> - IRL start time: 03:39.
+>> - Delay duration: 7 hours and 39 minutes.
 >> - Players present: Anthony and Tony.
 
 > 12:30.
@@ -372,16 +377,17 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 240.
 > 2025 April 4th Thursday + 4710 AR, 30th Arodus + Eto part 10 + Selenor does a bounty in Eto.
 > - IRL start time: 00:50.
+> - Delay duration: 4 hours and 50 minutes.
 > - Player present: Horia.
 
 > 13:00
 >> - Selenor talks to Torch and asks Grandmaster Torch if Selenor can destroy the 100-finger gang.
 >> - Natural 20 on the diplomacy check.
->> - With a "47" diplomacy check Torch agrees that Selenor can destroy the gang when they are no longer useful to Torch.
+>> - With a "47" diplomacy check, Torch agrees that Selenor can destroy the gang when they are no longer useful to Torch.
 >> - Selenor accepts Torch's job in Ustalav for post-Eto.
 
 > 13:30.
->> - Selenor goes to Obo the goblin candle merchant's stand.
+>> - Selenor goes to Obo, the goblin candle merchant's stand.
 >> - Selenor shows Obo his rune wild goblin (petrified into stone).
 >> - The Rune Wild Goblin is called Gobo.
 >> - Using the communication geode, Torch sends a message to Amenopheus.
@@ -406,6 +412,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 241.
 > 2025 April 13th Sunday + 4710 AR, 30th Arodus + Eto part 11.
 > - IRL start time: 00:50.
+> - Delay duration: 4 hours and 50 minutes.
 > - Player present: Horia & Anthony.
 
 > 14:00.
@@ -421,6 +428,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 242.
 > 2025 April 18th Friday + 4710 AR, 30th Arodus + Eto part 12.
 > - IRL start time: 22:20.
+> - Delay duration: 2 hours and 20 minutes.
 > - Players present: Horia, Anthony, Ross and Tony.
 
 > 15:30.
@@ -453,6 +461,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 243.
 > 2025 April 20th Sunday + 4710 AR, 30th Arodus + Eto part 13.
 >> - IRL start time: 01:11.
+>> - Delay duration: 5 hours and 11 minutes.
 >> - Players present: Anthony, Horia, Ross, Tony and Askaran.
 
 > 21:00.
@@ -481,6 +490,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 244.
 > 2025 May 10th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 14.
 >> - IRL start time: 21:37.
+>> - Delay duration: 1 hour and 37 minutes.
 >> - Players present: Anthony, Horia, Oscar, Tony, Askaran and Redecter (new player, playing Perphenius Galen).
 
 > 06:10.
@@ -518,6 +528,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 245.
 > 2025 May 17th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 15.
 >> - IRL start time: 22:50.
+>> - Delay duration: 2 hours and 50 minutes.
 >> - Players present: Anthony, Horia, Oscar, Tony, Askaran and Redecter (new player, playing Perphenius Galen).
 
 > Living library.
@@ -533,6 +544,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 246.
 > 2025 May 25th Sunday + 4710 AR, Wealday 31st Arodus + Eto part 16.
 >> - IRL start time: 00:55.
+>> - Delay duration: 4 hours and 55 minutes.
 >> - Players present: Anthony, Horia, Askaran.
 
 > Living library encounter continued.
@@ -563,6 +575,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 247.
 > 2025 June 7th Saturday + 4710 AR, Wealday 31st Arodus + Eto part 16.
 >> - IRL start time: 23:03.
+>> - Delay duration: 3 hours and 3 minutes.
 >> - Players present: Askaran, Tony and Hazel.
 
 > Round 4.
@@ -583,6 +596,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 248.
 > 2025 June 13th Friday + 4710 AR, Wealday 31st Arodus + Eto part 17.
 >> - IRL start time: 21:11.
+>> - Delay duration: 1 hour and 11 minutes.
 >> - Players present: Horia, Oscar and Anthony.
 
 > Round 4.
@@ -648,6 +662,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 ## Session 249.
 > 2025 June 20th Friday + 4710 AR, Wealday 31st Arodus + Eto part 18.
 >> - IRL start time: 22:13.
+>> - Delay duration: 2 hours and 13 minutes.
 >> - Players present: Horia, Oscar and Anthony.
 
 > 08:30.
@@ -694,6 +709,7 @@ Selenor talks to professor Lozar about the Final Spell and the lens.
 ## Session 250.
 > 2025 July 4th Friday + 4710 AR, Wealday 31st Arodus + Eto part 19.
 >> - IRL start time: 22:32.
+>> - Delay duration: 2 hours & 32 minutes.
 >> - Players present: Anthony, Horia, Oscar and Tony.
 
 > 10:00.
@@ -711,6 +727,7 @@ Selenor talks to professor Lozar about the Final Spell and the lens.
 ## Session 251.
 > 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Eto part 20.
 >> - IRL start time: 21:49.
+>> - Delay duration: 1 hour and 49 minutes.
 >> - Players present: Anthony, Horia, Oscar, Tony and Askaran.
 
 > 12:00.
