@@ -1,6 +1,8 @@
 # C1~Arc-8-Untangle-the-past.md
 
-Start typing here...
+> Average delay duration: 2 hours and 44 minutes.
+>> - The average delay duration across all listed sessions is approximately 2 hours and 44 minutes. 
+>> - This is calculated by summing all the delay durations and dividing by the number of sessions with a specified delay.
 
 > Arc 8. 
 >> - 225 -> 251. 
