@@ -445,7 +445,7 @@ Rich part of the city.
 Carnon gets the contact information of a City Guide. 
 There is a pregnant griffin around? 
 "Mahu" is the gatekeeper Customs Agent is a challenging boss,
-but through MANY meandering checks we eventually ended up crafting a fake geode, and gave it to them to hold it.
+but through MANY meandering checks we eventually ended up crafting a fake geode and gave it to them to hold it.
 
 Eto Bazaar is where merchants would not try to scam non-locals.
 He goes through us one by one.

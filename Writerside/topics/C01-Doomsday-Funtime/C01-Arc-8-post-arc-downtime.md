@@ -1,7 +1,7 @@
 # C01-Arc-8-post-arc-downtime
 
 ## Session 251.
-> 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Eto part 20.
+> 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Downtime part 1.
 >> - IRL start time: 21:49.
 >> - Players present: Anthony, Horia, Oscar, Tony and Askaran.
 
@@ -44,3 +44,39 @@
 >> - Allisee brews Memory Tea for the party.
 >> - Haku does the performance.
 >> - Viole forms a magical barrier to protect Allisee and the nobles from psionic feedback.
+
+## Session 252.
+> 2025 July 19th Saturday + 4710 AR, Rova 1st, Oath-day + Downtime part 2.
+>> - IRL start time: 00:03.
+>> - Players present: Anthony, Horia, Tony and Askaran.
+
+> 17:30.
+>> - Talking to Elisa Tammerhawk.
+>> - Selenor tells Elisa Tammerhawk that Selenor has the final spell.
+>> - Elisa Tammerhawk says Torch is a scumbag.
+>> - Elisa Tammerhawk knows that Professor Ionacu Lozar is a water genie
+
+> 2025 July 19th Saturday + 4710 AR, Rova 2nd, ??? + Downtime part 2.
+
+> 00:00.
+>> - Viole, Allisee and Haku +3 circumstance bonus to social interactions with nobles for the rest of the week.
+
+> 09:00.
+>> - Daily preparations -> 10:00.
+
+> 10:00.
+>> - Allisee needs to be at the warehouse in the underbridge at 17:00.
+>> - BOUNTY 8!
+>> - Ustalav.
+
+> 15:00.
+>> - Group decides to save Andri.
+>> - COMBAT! Lich-lightning followed by a zombie horde.
+>> - Hundreds are dead from the twin castings of chain lightning.
+>> - Osirion Communication Geode and Amenopheus then will proceed to bring the party back to Sandpoint.
+
+> 18:00
+>> - Sandpoint.
+
+> 18:30.
+>> - Underbridge warehouse.

@@ -122,9 +122,9 @@ There were 10 PP points available from the Necropolis.
 - Zutlieg = 3.
 
 > Missions.
->> - Concubine’s History = Selenor.
+>> - Concubine's History = Selenor.
 >> - Auction House Locations = Selenor.
->> - Zubari’s Shadow Business Empire = Selenor.
+>> - Zubari's Shadow Business Empire = Selenor.
 >> - Embalming Fluid = Selenor.
 >> - Osirion Crystals = Allisee.
 >> - Zubari’s Factions = Allisee.
@@ -220,3 +220,17 @@ Selenor = 2/34.
 >> - Viole = 7/7.
 >> - Allisee = 17/22.
 >> - Selenor = 5/37.
+
+## Session 252.
+
+> New Totals for PP.
+>> - +1 PP.
+>> - Reason = Completing Bounty 8: Ustalav.
+>> - Viole = 7/7 + 1 = 8/8.
+>> - Allisee = 17/22 + 1 = 18/22.
+>> - Haku = 0/0 + 1 = 1/1.
+
+> Total PP.
+>> - Viole = 8/8.
+>> - Allisee = 18/22.
+>> - Haku = 1/1.

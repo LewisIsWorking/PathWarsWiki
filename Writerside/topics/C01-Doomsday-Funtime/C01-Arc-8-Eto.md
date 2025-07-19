@@ -176,7 +176,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 - Selenor buys a fine-quality harrow deck made of ivory and high quality wood.
 - The Carnival represents puppets.
 - The Lost card then falls.
-- The Lost This is the chaotic evil card of wisdom.
+- The Lost = This is the chaotic evil card of wisdom.
 - The bodak represents of the lost represents the permanently insane, lost among lunatics and psychopaths in insane asylums.
 - The lost is a card of emptiness.
 
@@ -188,7 +188,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - Selenor buys an Exquisite Surprise Gryphon Doll for Cressida Croft, the Queen of Korvosa.
 >> - The shop is called "Spear Count". Sefarina, The Sphinx Spear Merchant.
 >> - Sefarina wants Viole to find the ULTIMATE SPEAR.
->> - Viole gets vision of the sin lords holding spears on a mountain.
+>> - Viole gets the vision of the sin lords holding spears on a mountain.
 
 > 12:30.
 >> - Beggar's Alley.

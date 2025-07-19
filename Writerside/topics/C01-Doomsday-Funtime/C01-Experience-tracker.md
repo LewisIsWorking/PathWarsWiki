@@ -713,3 +713,31 @@ Monster parts:
 >> - 8 bulk.
 >> - Size = Gargantuan.
 >> - 1250 GP.
+
+## Session 252.
+> 2025 July 19th Saturday + 4710 AR, Rova 1st, Oath-day + Downtime part 2.
+>> - IRL start time: 00:03.
+>> - Players present: Anthony, Horia, Tony and Askaran.
+
+> Undead commander. 3 zombie hordes. 1 giant zombie. 
+
+> Undead commander.
+>> - Level 11 = 1 x 20 = 20.
+>> - Level 12 = 1 x 15 = 15.
+
+> Giant zombie.
+>> - Level 11 = 1 x 10.
+>> - Above 11 = 0.
+
+> Zombie hordes x 3.
+>> - Level 9 = 10.
+>> - Above 9 = 0.
+
+> Totals.
+>> - Level 11 = 20 + 10 + 10 = 40.
+>> - Level 12 = 15 + 0 + 0 = 15.
+
+> Monster parts: 
+>> - Undead commander. 250 GP. Large.
+>> - Giant zombie. 100 GP. Huge.
+>> - Zombie hordes. 80 GP. Gargantuan. 8 bulk.
