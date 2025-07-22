@@ -1,5 +1,9 @@
 # C01-The-Elemental-Concordat-Of-Magnimar
 
+> Location: Naos.
+>> - The religious district is the ideal location given the Concordance's philosophical approach to elemental balance and their connection to understanding the cosmos. 
+>> - Plus, the district's religious tolerance for "different" practices.
+
 > Haku's Arrival at the Elemental Concordat.
 >> - The cobblestones of Magnimar's Summit district feel alien beneath your talons after a lifetime walking on crystallised air currents. 
 >> - The mortal city's stench of sweat, commerce, and magical pollution assaults your keen avian senses. 
