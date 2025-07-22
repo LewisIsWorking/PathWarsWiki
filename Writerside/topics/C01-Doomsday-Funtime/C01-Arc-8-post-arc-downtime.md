@@ -83,4 +83,19 @@ Start time = 20:00.
 >> - Sandpoint.
 
 > 18:30.
+>> - Day 2: The Crimson Bazaar
 >> - Underbridge warehouse.
+
+> 19:30.
+>> - COMBAT! Flesh golem and carrion golem slaves break free and go berserk!
+>> - Flesh golem is slowed 1 until round 6.
+>> - Flesh golem enfeebled until enemy side round 2.
+
+> 19:30 -> 40 minutes -> 20:10. Treat wounds x 2 & Refocus x 2.
+
+> 20:10.
+>> - The Collector bumps into Allisee: "Sorry for bumping into you, it was nice to finally meet you."
+>> - Allisee frees 7 halfling babies who are sent to an orphanage.
+>> - Allisee brews a very strong cup of liberation tea to convince Marta Kelindra's master to free her.
+
+> End of Session.

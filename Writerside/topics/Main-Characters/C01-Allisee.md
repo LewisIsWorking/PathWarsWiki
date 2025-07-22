@@ -51,4 +51,8 @@
 >> - This story comes to a close here, with this last question? 
 >> - What did the sister wish for?
 
+## Lylissee.
+
+Hair colour: was brown, turned white after the hag attack.
+
 ## Events of Campaign significant to Allisee.

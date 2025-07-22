@@ -741,3 +741,20 @@ Monster parts:
 >> - Undead commander. 250 GP. Large.
 >> - Giant zombie. 100 GP. Huge.
 >> - Zombie hordes. 80 GP. Gargantuan. 8 bulk.
+
+> Golems! 1 x Flesh golem and 4 x Carrion golems.
+
+> Carrion golems x 4.
+>> - 9 = 10 x 4 = 40.
+>> - Above 9 = 0.
+>> - Monster parts: 45 GP. Medium.
+
+> Flesh golem x 1.
+>> - Level 11 =	15 x 1 = 15. 
+>> - Level 12 =	10 x 1 = 10.
+>> - Above 12 =	0.
+>> - Monster parts: 140 GP. Large.
+
+> Totals.
+>> - Level 11 = 0 + 15 = 15.
+>> - Level 12 = 0 + 10 = 10.

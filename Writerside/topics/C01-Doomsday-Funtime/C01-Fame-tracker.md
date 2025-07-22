@@ -234,3 +234,10 @@ Selenor = 2/34.
 >> - Viole = 8/8.
 >> - Allisee = 18/22.
 >> - Haku = 1/1.
+
+> Bank account update.
+>> - Allisee = 16 GP + 4 GP = 20 GP.
+>> - Cardigan = 12 GP + 4 GP = 16 GP.
+>> - Viole = 4 GP + 4 GP = 8 GP.
+>> - Selenor = 16 GP + 4 GP = 20 GP.
+>> - Haku = 0 GP + 4 GP = 4 GP.
