@@ -71,6 +71,8 @@ when determining if specific events have happened and for the purpose of unlocke
 >> - Started in 4707 AR. 
 >> - 4710 AR is the year that the grand explorers continue post-3 year time skip.
 
+> Doomsday Funtime #1. 4710 AR. Current year.
+
 > Starfinder #7. 4710 AR.
 >> - [C07-Starfinder-2e.md](C07-Starfinder-2e.md).
 >> - Started: 2024-August-26th.
