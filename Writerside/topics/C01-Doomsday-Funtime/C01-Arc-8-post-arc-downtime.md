@@ -99,3 +99,31 @@ Start time = 20:00.
 >> - Allisee brews a very strong cup of liberation tea to convince Marta Kelindra's master to free her.
 
 > End of Session.
+
+## Session 253.
+> 2025 July 25th Saturday + 4710 AR, Rova 2nd, Oath-day + Downtime part 3.
+>> - IRL start time: 22:50.
+>> - Delay duration: 4 hours & 50 minutes.
+>> - Players present: Anthony, Horia, Tony and Askaran.
+
+> Haku buys Rino.
+
+> 20:10 -> 20:30.
+>> - Torven Blackwater spends 20 minutes evaluating Allisee's authentic camel hair Osirian Carpet.
+
+> Rova 3rd.
+>> - Phase 1: Consecrating the Ground (1 hour).
+
+> Rova 4th.
+>> - 1am. Phase 2: The Mourners' Gathering (2 hours)
+
+## Session 254.
+> 2025 August 1st Saturday + 4710 AR, Rova 4th, ??? + Downtime part 4.
+>> - IRL start time: 22:50.
+>> - Delay duration: 2 hours & 50 minutes.
+>> - Players present: Anthony, Horia, Tony and Askaran.
+
+> Rova 4th.
+>> - 2am.
+>> - Death Oracle is sapping people's life force.
+>> - High Mourner Vara Lamm (Chief Cemetery Administrator) is the wife of Thaddeus Lamm.

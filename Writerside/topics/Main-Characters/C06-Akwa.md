@@ -147,9 +147,10 @@ You should write your character assuming they do not have their 2nd class yet as
 >> - Question: What are their Mannerisms?
 >> - Answer: 
 >> - Question: Does your character have any distinguishing marks?
->> - Answer: Red Stripes across her fur
+>> - Answer: Red Stripes across her fur.
 >> - Question: Is your character attractive?
->> - Answer: Maybe..? I hope not.
+>> - Answer: Maybe.? I hope not.
+She has now become a slime-ooze morphed creature.
 
 > Weapons.
 >> - Question: What kind of weapons does your character fight with?

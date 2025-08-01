@@ -227,7 +227,7 @@ Selenor = 2/34.
 >> - +1 PP.
 >> - Reason = Completing Bounty 8: Ustalav.
 >> - Viole = 7/7 + 1 = 8/8.
->> - Allisee = 17/22 + 1 = 18/22.
+>> - Allisee = 17/22 + 1 = 18/23.
 >> - Haku = 0/0 + 1 = 1/1.
 
 > Total PP.

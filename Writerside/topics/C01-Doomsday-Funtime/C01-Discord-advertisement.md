@@ -39,7 +39,6 @@ You can also reach out to our campaign helpers:
 @nemesiux
 @owen.l.h.man
 @.moonlightwander
-@sherfield
 
 ## DO NOT PUT LINKS???
 

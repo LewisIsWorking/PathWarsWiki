@@ -296,7 +296,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 >> - The party agrees with the red mantis assassin that they will not kill her.
 >> - The party meets Rino, the greatest rhino magma dragon ever.
 >> - Rino is the slave of the red mantis assassin.
->> - The group is talking to the 100 finger gang.
+>> - The group is talking to the 100-finger gang.
 
 > 20:00.
 >> - Go to the herbalist shop with an old halfling woman scribe.
