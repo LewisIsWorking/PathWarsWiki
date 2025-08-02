@@ -742,6 +742,12 @@ Monster parts:
 >> - Giant zombie. 100 GP. Huge.
 >> - Zombie hordes. 80 GP. Gargantuan. 8 bulk.
 
+> New totals.
+>> - Haku Stormfan. Level 11. Exp: 492 + 40 = 532.
+>> - Lt. Viole Jule Grace. Level 11. Exp: 1162 + 40 = 1202. Level up! Level 12. Exp: 0.
+>> - Allisee. Level 12. Exp: 0 + 15 = 15.
+>> - Cardigan. Level 12. Exp: 1015 + 15 = 1030.
+
 > Golems! 1 x Flesh golem and 4 x Carrion golems.
 
 > Carrion golems x 4.
@@ -758,3 +764,13 @@ Monster parts:
 > Totals.
 >> - Level 11 = 0 + 15 = 15.
 >> - Level 12 = 0 + 10 = 10.
+
+> New totals.
+>> - Haku Stormfan. Level 11. Exp: 532 + 15 = 547.
+>> - Allisee. Level 12. Exp: 15 + 10 = 25.
+>> - Cardigan. Level 12. Exp: 1030 + 10 = 1040.
+
+> Not present.
+>> - Carnon. Level 11. Exp: 1152.
+>> - Lt. Viole Jule Grace. Level 12. Exp: 0.
+>> - Selenor. Level 12. Exp: 460.

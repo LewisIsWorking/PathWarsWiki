@@ -7,7 +7,7 @@
 - Campaign name: Doomsday Funtime.
 - System: PF2e.
 - Open Slots: 4.
-- Time & Frequency: Saturdays (main session), Sundays (role play & shopping session, completely optional).
+- Time & Frequency: Fridays (main session), Sometimes Sundays (role play & shopping session, completely optional).
 - Time zone: UK. Saturday time = 20:00.
 - Campaign Description: Stop the world from ending.
 - THIS IS NOT A WEST MARCH. I do not know why people always assume this.

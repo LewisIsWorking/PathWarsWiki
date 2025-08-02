@@ -577,7 +577,7 @@ UNLOCKED: Rain of Embers Stance
 
 ## Session 172 = Thursday 20th April 2023 + 16th Erastus, 4710 AR + The Magnimar Siege Tower Part 1.
 
-Korumun offers a the ring of the lady’s spirit to Selenor.
+Korumun offers the ring of the lady's spirit to Selenor.
 
 12:00
 

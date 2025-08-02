@@ -127,3 +127,22 @@ Start time = 20:00.
 >> - 2am.
 >> - Death Oracle is sapping people's life force.
 >> - High Mourner Vara Lamm (Chief Cemetery Administrator) is the wife of Thaddeus Lamm.
+>> - Haku, Allisee and Selenor create a permeant undead ward in the main graveyard of Magnimar.
+>> - This ward is a seed of Selenor's magic.
+>> - Allisee can brew corpse chat tea once per day in Magnimar.
+
+> 6am -> + 8 hours -> 2pm.
+>> - ...
+>> - Selenor talks to Korumun.
+>> - Selenor gets the Lady Morilaeth ring.
+>> - Selenot gives his blood to Korumun.
+
+> Rova 5th.
+>> - 10am. Golem-works.
+>> - Irespan stone.
+>> - Master Toth Bhreacher talks to Allisee.
+>> - Phase 1: Workshop Infiltration (2 hours).
+>> - Phase 2: The Creator's Circle (3 hours).
+>> - Phase 3: The Construct Awakening (3 hours).
+>> - Phase 4: The Soul Binding (2 hours)
+
