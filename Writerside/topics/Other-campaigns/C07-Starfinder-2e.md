@@ -7,17 +7,16 @@ Start typing here...
 > Lore changes for the Path-wars campaign.
 >> - All SF2e content played via Path-wars takes place in 4710s.
 >> - Everything that occurs is taking place on a different plane: The plane of Gap.
->> - The "gap" represents that the pre-history of this plane does not exist, everything that existed at the moment of 
-  the awakening of this plane was the plane being born exactly as it woke up.
+>> - The "gap" represents that the pre-history of this plane does not exist; everything that existed at the moment of the awakening of this plane was the plane being born exactly as it woke up.
 >> - This plane is EXTREMELY hard to get to, it is separated out fully from the res of the multiverse.
 
 > Adventures:
->> - Long adventure 1/2: The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
->> - Short adventure 1/4: Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
->> - Short adventure 2/4: Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
->> - Short adventure 3/4: Monster wheel [Zo!’s Wheel of Monsters]. Level 10.
->> - Empires Devoured 2/2: Historic accord. [Empires Devoured]. Level 10 -> 13.
->> - Short adventure 4/4: Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
+>> - Story 1. Long adventure 1/2. The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
+>> - Story 2. Short adventure 1/4. Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
+>> - Story 3. Short adventure 2/4. Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
+>> - Story 4. Short adventure 3/4. Monster wheel [Zo!’s Wheel of Monsters]. Level 10.
+>> - Story 5. Empires Devoured 2/2. Historic accord. [Empires Devoured]. Level 10 -> 13.
+>> - Story 6. Short adventure 4/4. Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
 
 > How many adventures are there?
 >> - There are 2 long adventures.
