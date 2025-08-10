@@ -12,6 +12,10 @@ Start typing here...
 
 > Adventures:
 >> - Story 1. Long adventure 1/2. The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
+>> - Part 1: Level 1. DONE. Completed on 2025-08-10.
+>> - Part 2: Level 2. In progress.
+>> - Part 3: Level 3.
+>> - Part 4: Level 4.
 >> - Story 2. Short adventure 1/4. Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
 >> - Story 3. Short adventure 2/4. Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
 >> - Story 4. Short adventure 3/4. Monster wheel [Zo!’s Wheel of Monsters]. Level 10.
