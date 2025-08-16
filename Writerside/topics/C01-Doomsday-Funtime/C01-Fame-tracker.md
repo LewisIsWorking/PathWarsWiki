@@ -89,19 +89,22 @@ You can only buy fame awards when you have an amount of fame equal than or great
 
 ## The party's current awards.
 
-Allisee.
+> Allisee.
+>> - Total expended PP as of 2 awards = 5 + 5 = 10.
+>> - 1: Planar Pact = 5 PP. Total = 5 PP.
+>> - 2: Sage of Crafting = 5 PP. Total = 10 PP.
 
-Selenor = Total as of 8 awards = 1 + 4 + 5 + 1 + 5 + 1 + 5 + 5 = 27.
-
-1. The Wanderer = 1 PP. 1
-2. Fence Friend = 4 PP. 5
-3. Planar Pact = 5 PP. 10
-4. Servant Cohort = 1 PP. 11
-5. Sage of Arcana = 5 PP. 16
-6. Initiate of the Dark Archive = 1 PP. 17
-7. Officer of the Dark Archive = 5 PP. 22
-8. Favoured terrain: Magnimar = 5 PP. 27
-9. Warden of Magnimar = 5 PP. 32
+> Selenor.
+>> - Total as of 8 awards = 1 + 4 + 5 + 1 + 5 + 1 + 5 + 5 = 27.
+>> - 1: The Wanderer = 1 PP. 1
+>> - 2: Fence Friend = 4 PP. 5
+>> - 3: Planar Pact = 5 PP. 10
+>> - 4: Servant Cohort = 1 PP. 11
+>> - 5: Sage of Arcana = 5 PP. 16
+>> - 6: Initiate of the Dark Archive = 1 PP. 17
+>> - 7: Officer of the Dark Archive = 5 PP. 22
+>> - 8: Favoured terrain: Magnimar = 5 PP. 27
+>> - 9: Warden of Magnimar = 5 PP. 32
 
 ## Current Fame.
 
@@ -232,7 +235,7 @@ Selenor = 2/34.
 
 > Total PP.
 >> - Viole = 8/8.
->> - Allisee = 18/22.
+>> - Allisee = 18/23.
 >> - Haku = 1/1.
 
 > Bank account update.
@@ -241,3 +244,8 @@ Selenor = 2/34.
 >> - Viole = 4 GP + 4 GP = 8 GP.
 >> - Selenor = 16 GP + 4 GP = 20 GP.
 >> - Haku = 0 GP + 4 GP = 4 GP.
+
+## Session 255.
+> 2025 August 15th Friday + 4710 AR, Rova 5th, Moonday + Arc-9 Allisee tea mastery part 5.
+
+Allisee buys sage of crafting for 5 PP = 18/23 = 18--5=13/23.

@@ -167,3 +167,34 @@ Start time = 20:00.
 >> - Amenopheus tells the party that Perphenius Galen is going to leave the party.
 >> - Perphenius Galen leaves the party to do "other work".
 >> - What happened to Welter?
+
+> 18:00.
+
+> PVP match.
+>> Allisee versus Mortigus, Allisee barely wins, carried by a bear.
+
+> 19:00.
+
+> Downtime.
+>> - Infinite fang & Mortigus play football with the local children and teens of Sandpoint, a few adults take part but quickly feel embarrassed at how outmatched they are.
+>> - ^ This counts as the exercise hobby activity.
+>> - Allisee does earn an income, Allisee works for the council of Usher's kitchen staff, helping repair and maintain their magical tea brewing gear machine.
+
+> 3am.
+
+> 4710 AR, Rova 5th, Toilday: A work day.
+
+> 11:00, wake up.
+
+> 11:00 -> 13:00, 2 hours of daily preparation finishes at 13:00.
+>> - The party go to Magnimar: Haku, Allisee, Infinite Fang, Mortigus Stonewall, 
+>> - Dream parlour.
+>> - Decebal (Ben) The Skeletal Archer appears, tells Mortigus to "get boned" and leaves without explaining.
+>> - The Collector talks to Allisee and tells Allisee about Kira Sellsword.
+>> - Phase 1: Entering The Dream (1 hour).
+>> - Phase 1 checks: Fortitude, Will Save, Tea Lore and Perception.
+>> - 4 checks, who is doing each check?
+>> - The fortitude check is to create a physical magical barrier to prevent addition to the pink haze.
+>> - The will save is to create a mental magical barrier to prevent a lose of self identity while gazing into the dreams and fantasies of other people.
+>> - The perception check is to distinguish between the shared dreams and individual hallucinations, calling each one out, noting it down and keeping 'reality' straight.
+>> - The tea lore check is for Allisee to brew "Clarity blend" so that the patron's dreams can be stable enough for the party to delve further into their dreams.

@@ -34,7 +34,7 @@ Selenor beats cancer, is all good. DC35.
 
 The rest of the day is downtime.
 
-> Decebal is created.
+> Decebal (Ben) The Skeletal Archer is created.
 >> - All the dragon knight acolytes lose some of their souls (level reduced).
 >> - Name: Decebal.
 
