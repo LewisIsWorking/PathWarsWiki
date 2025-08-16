@@ -1,6 +1,5 @@
 # C01-Infinite-Fang
 
-[15/08/2025 23:27]
 Below is the table to copy and paste into your own Writerside workspace and fill out.
 
 Out of character.
@@ -15,15 +14,14 @@ Core.
 * Question: What is your character's name?
 * Answer: infinite fang
 * Question: What does your character's first name mean?
-* Answer: without end
+* Answer: "without end".
 * Question: What does your character's last name mean?
 * Answer: deadly
 * Question: Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"
-* Answer: none yet out side the tracker
+* Answer: none yet outside the tracker
 
 Age.
 
-[15/08/2025 23:28]
 * For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign%20lore/Golarion-Lore-The-Spoiler-Free-Version.md.
 * Question: How old is your character?
 * Answer:120
@@ -37,7 +35,7 @@ Age.
 Class #1.
 
 * Question: What is your character's class?
-* Answer:monk kinistest
+* Answer: Monk & Kineticist
 * Question: Does your character enjoy their class?
 * Answer: yes
 * Question: How did your character become their class?
@@ -56,44 +54,43 @@ Class #2. (If using dual class) Normally dual class is gained during a session v
 Race
 
 * Question: What is your character's Race?
-* Answer: humen
+* Answer: human
 * Question: What is your character's Sub-Race?
 * Answer:Dhampir
 * Question: Has your character met other members of their race?
 * Answer:yes
 * Question: Does your character like your race?
-* Answer: their ok with hit
+* Answer: They are OK with it.
 * Question: Does your character like any races in particular? Why?
-* Answer: has a thing  for dragon humen like from
+* Answer: has a thing for a dragon-human-like form.
 * Question: Does your character hate any races in particular? Why?
-* Answer: hate full vampires
+* Answer: hates full vampires
 
 Parents and Family.
 
 * Question: Where was your character born?
-* Answer:aseria
+* Answer: Osirion.
 * Question: Where were you raised?
-* Answer:aseria
+* Answer: Osirion
 * Question: Who raised your characters?
 * Answer: master monks
 * Question: Who are your parents?
 * Answer: the monks
 * Question: What are your parents' names?
-* Answer:master kita and  basful wiss
+* Answer: Master Kita and Basful Wiss
 * Question: Are your parents alive?
 * Answer:yes
 * Question: What did your parents do for a living?
-* Answer:train new era heros
+* Answer: train new era heroes
 * Question: Do you have any other family or friends?
 * Answer: yes
 
-[15/08/2025 23:30]
 Love.
 
 * Question: What is your character's sexuality?
 * Answer: by sexual
 * Question: What is your character's marital status?
-* Answer:singel
+* Answer: Single
 * Question: Does your character have kids?
 * Answer: no
 * Question: Does your character want kids?
@@ -108,23 +105,23 @@ The Mind | Thoughts and Feelings.
 * Question: What is your character's alignment?
 * Answer: natural
 * Question: What is your character's moral code?
-* Answer:everything that go around comes around turn about is fair play
+* Answer: What goes around, comes around. Turnabout is fair play.
 * Question: Does your character have goals?
-* Answer:become most famus bopunty  hounter ever
+* Answer: become the most famous bounty hunter ever.
 * Question: Does your character follow a God?
 * Answer: yes
 * Question: What God (if any) does your character follow?
 * Answer:cayden cailean
 * Question: What are your character's personal beliefs?
-* Answer: greatness is earn not given
+* Answer: greatness is earned not given.
 * Question: Does your character have any personality quirks?
-* Answer: She loves beast like  males that big and stronger
+* Answer: She loves beasts like males that are big and stronger.
 * Question: Are they anti-social?
 * Answer:no
 * Question: Are they Arrogant?
 * Answer:at times
 * Question: Are they Optimistic?
-* Answer: yes here and their
+* Answer: yes, here and there
 * Question: Are They Paranoid?
 * Answer: not truly
 
@@ -132,42 +129,41 @@ The Mind | Thoughts and Feelings.
 * Question: Why does your character adventure?
 * Answer: for glory
 * Question: How does your character view his/her role as an adventurer?
-* Answer: as chance to prove her self
+* Answer: as a chance to prove herself
 * Question: How does your character get along with others?
-* Answer:willining work with just anybody out side full vampires
+* Answer: willing to work with just anybody outside full vampires
 * Question: Is there anything that your character hates?
-* Answer: she hate sweerts but most all chocolate
+* Answer: she hates sweets but most of all: chocolate.
 * Question: Is there anything that your character fears?
-* Answer:fear  being turn into full vampires thing hate the most
+* Answer: fears being turned into full vampires is the thing they fear/hate the most.
 * Question: What sin does your character align with closest? Greed, Pride, Lust, Envy, Gluttony, Wrath or Sloth?
-* Answer:, Pride,
+* Answer: Pride.
 * Question: What apocalypse would your character most likely cause: War, Famine, Pestilence or Death?
-* Answer:War,
+* Answer: War.
 
 The Body | Biological Appearance.
 
 * Question: What does your character look like?
-* Answer: red eyes, blonde hair, white skin
+* Answer: red eyes, blonde hair, white skin.
 * Question: Gender?
-* Answer:female
+* Answer: Female.
 * Question: Height?
-* Answer:6.0
+* Answer: 6.0.
 * Question: Weight?
-* Answer: 100 pounds
+* Answer: 100 pounds.
 * Question: Skin colour?
-* Answer:white
+* Answer: White.
 * Question: Eye colour?
-* Answer: red
+* Answer: Red
 * Question: Hair colour?
-* Answer:blound golden
+* Answer: Blonde golden
 * Question: Hair length?
-* Answer:long
+* Answer: Long
 * Question: Hairstyle?
-* Answer:messy but taken care of
+* Answer: messy but taken care of
 * Question: Physique and body shape?
 * Answer: tone ripened
 
-[15/08/2025 23:32]
 * Question: What additional attributes would be noticed upon meeting the character?
 * Answer:that eye with fire in them
 * Question: How do they Speak?
@@ -183,9 +179,9 @@ The Body | Biological Appearance.
 * Question: Do they have Deformities?
 * Answer:no
 * Question: Is your character attractive?
-* Answer: yes very much so  so much  wear a mask
+* Answer: yes, very much so, that they wear a mask.
 * Question: Whatever is applicable: Cock Size? Breast Size? Cock Size = 2d6 for inches. 1d10 for decimal place. If you roll 7 and 5, you get a 7.5-inch dick.
-* Answer:DD maybe f  size
+* Answer:DD maybe f size
 * Question: Any aspects of your character that are unusual?
 * Answer: their mask
 
@@ -223,13 +219,13 @@ Armour.
 Magic
 
 * Question: What kind of magic does your character use?
-* Answer: matel
+* Answer: Metal
 * Question: Does your character like magic?
-* Answer: arua of matel
+* Answer: Aura of metal
 * Question: Is your character magical?
 * Answer: yes
 * Question: How is your character magical?
-* Answer:from  primel
+* Answer: From Primal
 * Question: Who trained your character in using weapons?
 * Answer:no
 * Question: Does your character like using weapons?
@@ -248,9 +244,9 @@ Spell Caster.
 * Question: Where does your character's magic come from?
 * Answer:training
 * Question: Who trained your character to use your magic?
-* Answer: master tample
+* Answer: Master Temple.
 * Question: What does your character like to do with your magic?
-* Answer:kickass
+* Answer: kick-ass
 * Question: What is the highest level spell slot your character has access to?
 * Answer:none
 
@@ -275,7 +271,7 @@ Food and Drink.
 * Question: What does your character like to drink?
 * Answer:root bear
 * Question: What does your character not like to drink?
-* Answer:hard linqer
+* Answer: hard liquor
 * Question: Does your character cook?
 * Answer: yes
 * Question: Does your character drink alcohol? If so, how heavily?
@@ -286,6 +282,6 @@ Food and Drink.
 Alignment Scale.
 
 * Question: What is your character's alignment scale?
-* Answer: nertuel
+* Answer: Neutral.
 
 Go to this page to find out your alignment scale.
