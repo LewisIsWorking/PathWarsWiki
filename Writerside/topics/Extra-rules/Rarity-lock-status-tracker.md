@@ -43,8 +43,10 @@ If you have a question, just ask on the telegram group! :)
 - This list is incomplete.
 
 > Archetype Dedications.
->> - Ghost Hunter Dedication
->> - A "Harrower" Dedication.
+>> - Ghost Hunter Dedication. Unlocked via Gauntlight.
+>> - A "Harrower" Dedication. Unlocked via Gauntlight.
+>> - Ooze morph Dedication. Unlocked via Kibwe. 
+>> - Student of Perfection. Unlocked by Allisee and Selenor in a Bounty. They went to an island. 
 
 > Archetype Feats.
 >> - Ghost Hunter: Ghost Strike. 

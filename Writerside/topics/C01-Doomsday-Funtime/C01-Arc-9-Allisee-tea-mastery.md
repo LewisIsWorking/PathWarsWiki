@@ -1,9 +1,9 @@
-# C01-Arc-8-post-arc-downtime
+# C01-Arc-9-Allisee-tea-mastery
 
 Start time = 20:00.
 
 ## Session 251.
-> 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Downtime part 1.
+> 2025 July 11th Friday + 4710 AR, Wealday 31st Arodus + Arc-9 Allisee tea mastery part 1.
 >> - IRL start time: 21:49.
 >> - Delay duration: 1 hour & 49 minutes.
 >> - Players present: Anthony, Horia, Oscar, Tony and Askaran.
@@ -49,7 +49,7 @@ Start time = 20:00.
 >> - Viole forms a magical barrier to protect Allisee and the nobles from psionic feedback.
 
 ## Session 252.
-> 2025 July 19th Saturday + 4710 AR, Rova 1st, Oath-day + Downtime part 2.
+> 2025 July 19th Saturday + 4710 AR, Rova 1st, Oath-day + Arc-9 Allisee tea mastery part 2.
 >> - IRL start time: 00:03.
 >> - Delay duration: 4 hours & 3 minutes.
 >> - Players present: Anthony, Horia, Tony and Askaran.
@@ -60,7 +60,7 @@ Start time = 20:00.
 >> - Elisa Tammerhawk says Torch is a scumbag.
 >> - Elisa Tammerhawk knows that Professor Ionacu Lozar is a water genie
 
-> 2025 July 19th Saturday + 4710 AR, Rova 2nd, ??? + Downtime part 2.
+> 2025 July 19th Saturday + 4710 AR, Rova 2nd, ??? + Arc-9 Allisee tea mastery part 2.
 
 > 00:00.
 >> - Viole, Allisee and Haku +3 circumstance bonus to social interactions with nobles for the rest of the week.
@@ -101,7 +101,7 @@ Start time = 20:00.
 > End of Session.
 
 ## Session 253.
-> 2025 July 25th Saturday + 4710 AR, Rova 2nd, Oath-day + Downtime part 3.
+> 2025 July 25th Saturday + 4710 AR, Rova 2nd, Oath-day + Arc-9 Allisee tea mastery part 3.
 >> - IRL start time: 22:50.
 >> - Delay duration: 4 hours & 50 minutes.
 >> - Players present: Anthony, Horia, Tony and Askaran.
@@ -118,7 +118,7 @@ Start time = 20:00.
 >> - 1am. Phase 2: The Mourners' Gathering (2 hours)
 
 ## Session 254.
-> 2025 August 1st Saturday + 4710 AR, Rova 4th, ??? + Downtime part 4.
+> 2025 August 1st Saturday + 4710 AR, Rova 4th, Sunday + Arc-9 Allisee tea mastery part 4.
 >> - IRL start time: 22:50.
 >> - Delay duration: 2 hours & 50 minutes.
 >> - Players present: Anthony, Horia, Tony and Askaran.
@@ -135,7 +135,7 @@ Start time = 20:00.
 >> - ...
 >> - Selenor talks to Korumun.
 >> - Selenor gets the Lady Morilaeth ring.
->> - Selenot gives his blood to Korumun.
+>> - Selenor gives his blood to Korumun.
 
 > Rova 5th.
 >> - 10am. Golem-works.
@@ -146,3 +146,24 @@ Start time = 20:00.
 >> - Phase 3: The Construct Awakening (3 hours).
 >> - Phase 4: The Soul Binding (2 hours)
 
+## Session 255.
+> 2025 August 15th Friday + 4710 AR, Rova 5th, Moonday + Arc-9 Allisee tea mastery part 5.
+>> - IRL start time: 23:16.
+>> - Delay duration: 3 hours & 16 minutes.
+>> - Players present: Anthony, Horia, Askaran.
+
+> Continuing the golem fight.
+>> - Cardigan casts the mantle of faith: justice.
+>> - Rino does a backflip to aid Perphenius Galen +1.
+>> - 10 stacks of CHAOS.
+>> - All the target's nonmagical items, including any clothing, glow with a harmless blue light for 10 minutes. 
+>> - This casts dim light in a 10-foot radius and cannot be extinguished.
+>> - Toth Bhreacher offers the Golems MP and his trust in exchange for an assistant with finding the Force of Torch.
+>> - Selenor tells Toth that the horsemen of Death that Selenor seen horsemen Daemons in the Magnimar graveyard.
+>> - Toth knows that Selenor's mother was Andaisin.
+>> - Selenor tells Toth that Otari's soul is in the Gauntlight.
+>> - Selenor tells Toth about Lorn and a bit about aliens.
+>> - Amenopheus sends a message via the Osirion Communication Geode to the party: "Please return to Sandpoint."
+>> - Amenopheus tells the party that Perphenius Galen is going to leave the party.
+>> - Perphenius Galen leaves the party to do "other work".
+>> - What happened to Welter?

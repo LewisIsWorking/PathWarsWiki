@@ -774,3 +774,30 @@ Monster parts:
 >> - Carnon. Level 11. Exp: 1152.
 >> - Lt. Viole Jule Grace. Level 12. Exp: 0.
 >> - Selenor. Level 12. Exp: 460.
+
+## Session 255.
+> 2025 August 15th Friday + 4710 AR, Rova 5th, Moonday + Arc-9 Allisee tea mastery part 5.
+>> - IRL start time: 23:16.
+>> - Delay duration: 3 hours & 16 minutes.
+>> - Players present: Anthony, Horia, Askaran.
+
+> Law Golem infected with CHAOS x 1.
+>> - Level 11 = 60 x 1 = 60.
+>> - Level 12 = 40 x 1 = 40.
+>> - Monster parts: 560 GP. Large.
+
+> New totals.
+>> - Haku Stormfan. Level 11. Exp: 547 + 60 = 607.
+>> - Carnon. Level 11. Exp: 1152 + 60 = 1212.
+>> - Lt. Viole Jule Grace. Level 12. Exp: 0 + 40 = 40.
+>> - Allisee. Level 12. Exp: 25 + 40 = 65.
+>> - Selenor. Level 12. Exp: 460 + 40 = 500.
+>> - Cardigan. Level 12. Exp: 1040 + 40 = 1080.
+
+> Totals.
+> - Haku Stormfan. Level 11. Exp: 607.
+> - Carnon. Level 11. Exp: 1212.
+> - Lt. Viole Jule Grace. Level 12. Exp: 40.
+> - Allisee. Level 12. Exp: 65.
+> - Selenor. Level 12. Exp: 500.
+> - Cardigan. Level 12. Exp: 1080.

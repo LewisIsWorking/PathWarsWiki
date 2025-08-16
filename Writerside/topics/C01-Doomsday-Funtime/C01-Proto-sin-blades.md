@@ -14,52 +14,55 @@ Start typing here...
 
 ## Ownership.
 
-Pikk-Pikk was the one to acquire the Giant’s Vault Swords.
+Pikk-Pikk was the one to acquire the Giant's Vault Swords.
 
 ## Ownership: Charm-beaker.
 
 - Charm Breaker.
-- Carnon's sword.
-- Amar Rookmoon -> Carnon.
-- Cardigan -> Amar.
-- Cardigan took it from Ra. Cardigan did not use it. 
+- 4: Carnon's sword.
+- 3: Amar Rookmoon -> Carnon.
+- 2: Cardigan -> Amar.
+- 1: Cardigan took it from Ra. Cardigan did not use it. 
 
 ## Ownership: Glimmer-Bane
 
 - Glimmer Bane.
-- Modwinn left her sword at the town hall before disappearing...
-- Laucian Asknäve -> Modwinn.
-- Darian Chalk -> Laucian Asknäve.
-- Drek Val -> Darian Chalk.
+- 5: From party storage -> Haku Stormfan.
+- 4: Modwinn left her sword at the town hall before disappearing...
+- 3: Laucian Asknäve -> Modwinn.
+- 2: Darian Chalk -> Laucian Asknäve.
+- 1: Drek Val -> Darian Chalk.
 
 ## Ownership: Heat-death.
 
 - Heat Death.
-- Zutlieg left the sword at the town hall before joining Zillith's group.
-- Zillith -> Zutlieg.
-- Selenor -> Zillif.
-- Sir Reinhold gave this to Selenor.
+- 
+- 5: Available.
+- 4: Zutlieg left the sword at the town hall before joining Zillith's group.
+- 3: Zillith -> Zutlieg.
+- 2: Selenor -> Zillif.
+- 1: Sir Reinhold gave this to Selenor.
 
 ## Ownership: Iron Oath.
 
-- Iron’s Oath.
-- Viole has iron-oath (session 226).
-- Isilynor Pranäe -> Viole.
-- Un-Trul -> Isilynor Pranäe.
-- Aarlak -> Un-Trul.
-- Aarlak was the original owner of the sword.
+- Iron's Oath.
+- 5: Viole has iron-oath (session 226).
+- 4: Isilynor Pranäe -> Viole.
+- 3: Un-Trul -> Isilynor Pranäe.
+- 2: Aarlak -> Un-Trul.
+- 1: Aarlak was the original owner of the sword.
 
 ## Ownership: Sin-Reaver.
 
 - Sin Reaver.
-- Allisee's sword.
-- Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
+- 2: Allisee's sword.
+- 1: Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
 
 ## Ownership: Truth-teller.
 
 - Truth Teller.
-- Selenor’s sword.
-- Acquired by Selenor from the Broken Lord.
+- 2: Selenor’s sword.
+- 1: Acquired by Selenor from the Broken Lord.
 
 ## Ownership: Eclipse.
 

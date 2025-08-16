@@ -27,3 +27,6 @@ The following names are the names of the Heroes of Sandpoint:
 15. Kasai Fire-Bloom
 16. Vrolt Ori.
 17. Carnon.
+18. Mortigus Stonewall
+19. Vaash.
+20. Infinite Fang.
