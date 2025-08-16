@@ -43,10 +43,12 @@ If you have a question, just ask on the telegram group! :)
 - This list is incomplete.
 
 > Archetype Dedications.
->> - Ghost Hunter Dedication. Unlocked via Gauntlight.
->> - A "Harrower" Dedication. Unlocked via Gauntlight.
->> - Ooze morph Dedication. Unlocked via Kibwe. 
->> - Student of Perfection. Unlocked by Allisee and Selenor in a Bounty. They went to an island. 
+>> - Any dedication from the book 'Guns and Gears', which is often abbreviated to 'GnG'.
+>> - Any dedication from the book 'Pathfinder Society Guide' is also abbreviated to 'PFS Guide'.
+>> - 1: Ghost Hunter Dedication. Unlocked via Gauntlight.
+>> - 2: A "Harrower" Dedication. Unlocked via Gauntlight.
+>> - 3: Ooze morph Dedication. Unlocked via Kibwe. 
+>> - 4: Student of Perfection. Unlocked by Allisee and Selenor in a Bounty. They went to an island. 
 
 > Archetype Feats.
 >> - Ghost Hunter: Ghost Strike. 
