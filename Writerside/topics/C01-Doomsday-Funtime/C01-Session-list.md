@@ -135,7 +135,7 @@ Start typing here...
 130. ## Session 130.
      - ## 8th & 9th Erastus. 4710 AR ### The Lotus Sandstorm Part 2.
 131. ## Session 131.
-     - ## 9th Erastus. 4710 AR ### Sin Reaver and Iron Oath obtained in the Runewild.
+     - ## 9th Erastus. 4710 AR ### Sin Reaver and Iron Oath obtained in the Rune-wild.
      - ## Session 131-1.
      - ## 9th Erastus. 4710 AR ### Aarlak Helps Tammerhawk explore the Sandstone Temple.
 132. ## Session 132.
@@ -246,9 +246,9 @@ Start typing here...
 181. ## Session 181
      - ## Sunday 2nd July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 2 + Leshy Side Quest.
 182. ## Session 182
-     - ## Saturday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady’s Light Moon Flower Ice Dragon.
+     - ## Saturday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady's Light Moon Flower Ice Dragon.
 183. ## Session 183
-      - ## > 2023 July 25th Tuesday + 4710 AR Erastus 21st Oathday + Downtime 5 Part 4 + Selenor joins Seer Stone School.
+      - ## > 2023 July 25th Tuesday + 4710 AR Erastus 21st Oath-day + Downtime 5 Part 4 + Selenor joins Seer Stone School.
 184. ## Session 184
       - ## > 2023 August 5th Saturday + 4710 AR Erastus 23rd Starday + Necropolis Part 1.
 185. ## Session 185
@@ -268,7 +268,7 @@ Start typing here...
 191. ## Session 191
       - ## > 2023 September 30th Saturday + 4710 AR Erastus 25th + Gauntlight Part 2.
 192. ## Session 192
-      - ## > 2023 September 31st Sunday + 4710 AR Erastus 25th + Gauntlight Part 3.
+      - ## > 2023 October 1st Sunday + 4710 AR Erastus 25th + Gauntlight Part 3.
 193. ## Session 193
       - ## > 2023 October 8th Sunday + 4710 AR Erastus 25th + Gauntlight Part 4.
 194. ## Session 194
@@ -354,7 +354,7 @@ Start typing here...
 229. ## Session 229.
      - ## > 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 230. ## Session 230.
-     - ## > 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
+     - ## > 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + "Lire" joins the party.
 231. ## Session 231.
      - ## > 2024 December 29th Sunday + 4710 AR, 28th Arodus. + Eto part 1.
 232. ## Session 232.
