@@ -327,7 +327,12 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 >> - The Weeping Woman foresees Allisee looking down at Magnimar burning from the Irespan.
 >> - The Weeping Woman foresees Vaasha being devoured by Rats.
 >> - The Weeping Woman foresees Mortigus becoming the general of the army of Iron. Leading the army of Iron to conquer the world.
->> - The Paracountess Zarta Dralneen captures the Weeping Woman.
+>> - The Para countess Zarta Dralneen captures the Weeping Woman.
 
 > Phase 5: Telepathic Tea (3 hours). 19:00 -> 22:00.
->> -
+>> - Haku Stormfan.
+>> - Mortigus Stonewall used athletics to deliver the tea to over 160 people.
+>> - Cardigan created a mental barrier for the group to protect their individual identities while sharing a collective experience.
+>> - Vaasha used diplomacy and polymorphic abilities (in the form of Para-countess Zarta Dralneen) to convince the dreamers to drink the tea.
+>> - Allisee brewed the telepathic tea.
+>> - Allisee gets a 4
