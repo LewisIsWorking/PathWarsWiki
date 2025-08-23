@@ -292,3 +292,42 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 >> - 08: Selenor: Selenor The Wanderer, Fence Friend, Planar Pact Maker, Owner of A Slave, Arcana Sage of Cheliax. @Nemesiux.
 >> - 09: Syver. Jeremy Babayaga.
 >> - 10: Vaasha. @purpledraco (Jalen Hill).
+
+## Session 256.
+> 2025 August 23rd Saturday + 4710 AR, Rova 6th, Toilday: A work day. + Arc-9 Allisee tea mastery part 6.
+>> - IRL start time: 01:03.
+>> - Delay duration: 5 hours & 3 minutes.
+>> - Players present: Anthony, Horia, Askaran, Rez and Infinite Fan.
+
+> Phase 3: The Nightmare Market.
+>> - Para-countess Zarta Dralneen recommends Allisee dabbles in nightmare brewing to widen the skill set.
+>> - This will not take much in-game time.
+>> - 4 checks.
+>> - Tea lore. Brew a nightmare tea to collect nightmare essence. ✅ 
+>> - Will save. Form a mental barrier for the group to sample nightmare tea without experiencing debilitating psychological damage. ✅
+>> - Planar lore or relevant skill to identify the nightmares that seem to live within the minds of mankind.
+>> - Thievery. Steal nightmare cups (that can contain nightmare tea without shattering from fear) from the nightmare market.
+>> - 2/4.
+
+> Phase 3: continued.
+>> - Tea lore: Allisee brewed the nightmare tea.
+>> - Will save: Cardigan critically succeeded.
+>> - Planar lore: Viole uses astrology. Success!
+>> - Thievery. Carnon critically succeeded. Carnon sees visions of his "mother".
+
+> Allisee enters Kira Sellsword's nightmare.
+>> - Monster Parts of Shadow Harrow Horse.
+>> - Encounter: DEADLY Harrow Shadow Horse x 1 & Lesser Harrow Shadow Horse x 3.
+>> - Kira SellSword is mostly cured and goes back to her caped patron.
+>> - The Collector talks to Allisee.
+
+> Phase 4: The collective unconscious (2 hours). 17:00 -> 19:00.
+>> - The Weeping Child.
+>> - Curse Breaker tea.
+>> - The Weeping Woman foresees Allisee looking down at Magnimar burning from the Irespan.
+>> - The Weeping Woman foresees Vaasha being devoured by Rats.
+>> - The Weeping Woman foresees Mortigus becoming the general of the army of Iron. Leading the army of Iron to conquer the world.
+>> - The Paracountess Zarta Dralneen captures the Weeping Woman.
+
+> Phase 5: Telepathic Tea (3 hours). 19:00 -> 22:00.
+>> -

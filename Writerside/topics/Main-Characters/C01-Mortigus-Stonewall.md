@@ -262,8 +262,13 @@ Additional >> - Answer: He wants to murder a demon lord.
 >> - Question: Are they hiding something that could potentially harm or betray the party?
 >> - Answer: No
 >> - Question: Finally, what is your character's backstory?
->> - Answer: Mortigus was not born into a loving, Jotunborn family, but into a bloody conflict on the Ethereal Planes. His parents, both powerful Jotunborn blacksmiths, were slain by demonic spellcasters. In their final moments, they managed to hide their infant son. 
->> - The orcs who found him, Zorga One-Eye and Mogg Iron-hide, were more surprised to see a child than they were to see a Jotunborn. They took him in and raised him as their own, instilling in him the values of physical strength, hard work, and the importance of family. As he grew, Mortigus discovered a divine spark of power within him, a gift from the god Torag, but he also came to despise the chaotic, unpredictable magic that had killed his parents. He began training relentlessly, forging his body into an unyielding weapon. He became a Guardian, a protector who would not fail. At age 20, he left his home to become an adventurer, seeking out magical artefacts and spellcasters to destroy. 
+>> - Answer: Mortigus was not born into a loving, Jotunborn family, but into a bloody conflict on the Ethereal Planes. 
+>> - His parents, both powerful Jotunborn blacksmiths, were slain by demonic spellcasters. In their final moments, they managed to hide their infant son. 
+>> - The orcs who found him, Zorga One-Eye and Mogg Iron-hide, were more surprised to see a child than they were to see a Jotunborn. 
+>> - They took him in and raised him as their own, instilling in him the values of physical strength, hard work, and the importance of family. 
+>> - As he grew, Mortigus discovered a divine spark of power within him, a gift from the god Torag, but he also came to despise the chaotic, unpredictable magic that had killed his parents. 
+>> - He began training relentlessly, forging his body into an unyielding weapon. He became a Guardian, a protector who would not fail. 
+>> - At age 20, he left his home to become an adventurer, seeking out magical artefacts and spellcasters to destroy. 
 >> - For 20 years, he has roamed the lands, hunting down spellcasters and destroying powerful magical artefacts. 
 >> - He has faced down powerful mages, arcane constructs, and fiendish abominations, each kill further solidifying his hatred of magic. His journey is a testament to his singular purpose: to prove that true strength comes from within, not from the corrupting force of magic.
 >> - Question: Are you higher than level 1? What level?

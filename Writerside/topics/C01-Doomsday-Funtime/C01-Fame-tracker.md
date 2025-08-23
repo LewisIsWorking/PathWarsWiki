@@ -8,7 +8,8 @@
 >> - Concordance of Elements. Led by Ashasar, Liaison to the Cycle of Five's Seat of Balance.
 >> - Grand Archive.
 >> - Magnimar. Led by Sheila Heidmarch.
->> - Osirion & Scarab Sages. Led by Amenopheus The Sapphire Sage. 
+>> - Osirion & Scarab Sages. Led by Amenopheus The Sapphire Sage.
+>> - Sczarni family. Led by Guaril Karela.
 >> - Shadow. Led by Grand Master Torch. 
 >> - Silver Crusade.
 >> - Taldor & Sovereign Court. Led by Lady Gloriana Morilla. 
