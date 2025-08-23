@@ -1,6 +1,5 @@
 # C01-Vaasha
 
-23/08/2025 08:56
 Build YOUR Character's Life HERE!
 Below is the table to copy and paste into your own Writerside workspace and fill out.
 Out of character.
@@ -96,7 +95,6 @@ The Mind | Thoughts and Feelings.
 >> - Answer: Yes
 >> - Question: What God (if any) does your character follow?
 
-23/08/2025 08:56]
 >> - Answer:His parentage, sun wukong.
 >> - Question: What are your character's personal beliefs?
 >> - Answer: Live and let live, Ownership is an illusion, Death to traitors.
@@ -185,7 +183,6 @@ Weapons.
 >> - Question: What does your character's armour look like?
 >> - Answer: Gi bottoms, no shoes, his tail is used as a belt.
 
-23/08/2025 08:56]
 >> - Question: Who made your character's armour?
 >> - Answer: He did
 >> - Question: Who added the runes to your character's armour?
@@ -245,9 +242,10 @@ Alignment Scale.
 >> - Answer: 6–6
 Go to this page to find out your alignment scale.
 Alignment-scale.md.
-Plot hooks.
-You do not need to answer any or all of these, but please come up with the plot hooks your character's story resolves around.
-Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
+
+> Plot hooks.
+>> - You do not need to answer any or all of these, but please come up with the plot hooks your character's story resolves around.
+>> - Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
 >> - Question: What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a power or finding their calling)?
 >> - Answer: He wishes to achieve the pinnacle of Yaoguai culture, cultivated immortality and find his place among the icons.
 >> - Question: Does your character have a relationship they want to build or repair (for example, with a family member, a mentor or even an estranged enemy)?
@@ -259,12 +257,11 @@ Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achi
 >> - Question: What is one immediate, achievable goal they are pursuing right now?
 >> - Answer: Strength, the path of perfection
 >> - Question: Is there a wrong they feel compelled to make right, either for themselves or someone else?
-
-23/08/2025 08:56]
 >> - Answer: They denied their duty for years and are trying to learn by hand how to lead and be competent.
 >> - Question: What is a selfish desire they may not admit to others but secretly want to fulfill?
->> - Answer: To eat the whole world and engage in endless warfare
-Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party? Examples include: Their species, their hunger for villainous and fiendish flesh, their obsession with destructive power.
+>> - Answer: To eat the whole world and engage in endless warfare.
+
+> Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party? Examples include: Their species, their hunger for villainous and fiendish flesh, their obsession with destructive power.
 >> - Question: Do they have a past mistake or failure they are ashamed of?
 >> - Answer: Abandoning their friends when Mwangi slavers attempted to kidnap his fellow gaui, blue elephant, to have an infinite source of magically infused tusks. 
 >> - He has never been seen since.
@@ -305,9 +302,15 @@ Backstory by each Year.
 Now find out the current campaign's current in-game year. For Doomsday Funtime it is currently 4710 AR. 
 >> - If your character is 25 years old, then your character was born in 4685 AR.
 
-Take each year, put a colon and write what the character did that year, starting with their birth year. In the above example, it would go like this: 4685 AR, age 0: Born to my parents in Deep-Water. 4686 AR, age 1: The dragon attack on Deep-Water, parents are dead. ... (You would fill this in). 4705 AR, age 20: Achieved first level in rogue. 4708 AR, age 23: Joined the party.
-If you have any other questions about this, please contact me on my telegram.
-Beyond the first level.
+> Take each year, put a colon and write what the character did that year, starting with their birth year. 
+>> - In the above example, it would go like this: 
+>> - 4685 AR, age 0: Born to my parents in Deep-Water. 
+>> - 4686 AR, age 1: The dragon attack on Deep-Water, parents are dead. 
+>> - ... (You would fill this in). 
+>> - 4705 AR, age 20: Achieved first level in rogue. 
+>> - 4708 AR, age 23: Joined the party. 
+>> - If you have any other questions about this, please contact me on my telegram. 
+>> - Beyond the first level.
 
 >> - Question: Are you higher than level 1? What level?
 >> - Answer: Level 11
