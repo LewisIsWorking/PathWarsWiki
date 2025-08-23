@@ -272,7 +272,7 @@ You should write your character assuming they do not have their 2nd class yet as
 >> - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
 
 > Plot hooks.
->> You do not need to answer any or all of these, but please come up with the plot hooks your character's story resolves around.
+>> You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around.
 
 > Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:
 >> - Question: What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a power or finding their calling)?
