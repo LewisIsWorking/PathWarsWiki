@@ -268,9 +268,8 @@ You should write your character assuming they do not have their 2nd class yet as
 > Alignment Scale.
 >> - Question: What is your character's alignment scale?
 >> - Answer:
-
-Go to this page to find out your alignment scale:
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
+>> - Go to this page to find out your alignment scale:
+>> - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
 
 > Plot hooks.
 >> You do not need to answer any or all of these, but please come up with the plot hooks your character's story resolves around.
