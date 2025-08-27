@@ -2,7 +2,7 @@
 
 | Step | Action                                                                     | Visual Reference                                                     |
 |------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1    | Go to: https://doomsday-funtime.eu.forge-vtt.com/game                      |                                                                      |
+| 1    | Go to: https://doomsday-funtime.eu.forge-vtt.com/game                      | ![World2Login.png](../../images/World2Login.png)                     |
 | 2    | Login                                                                      |                                                                      |
 | 3    | Go to macros                                                               | ![FoundryMacros.png](../../images/FoundryMacros.png)                 |
 | 4    | Search "Based Dual Class"                                                  | ![BasedDualClass.png](../../images/BasedDualClass.png)               |
