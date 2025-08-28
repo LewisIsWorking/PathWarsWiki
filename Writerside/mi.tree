@@ -13,6 +13,8 @@
         <toc-element topic="Spell-casting-changes.md"/>
         <toc-element topic="The-Monster-Parts-System.md"/>
     </toc-element>
+    <toc-element topic="Guild-Wars-2-Legendaries.md"/>
+    <toc-element topic="Robot-hoover.md"/>
     <toc-element topic="Setting-up-dual-class-FoundryVTT.md"/>
     <toc-element topic="C01-Vaasha.md"/>
     <toc-element topic="C01-Monster-part-progression-tracker.md"/>
@@ -108,12 +110,12 @@
         <toc-element topic="Campaign-Player-rosters.md"/>
     </toc-element>
     <toc-element>
-        <toc-element topic="Random~Barcelona-trip.md"/>
-        <toc-element topic="Random~Birthday-trip-2024.md"/>
-        <toc-element topic="Random~Fictional-character-power-ranking.md"/>
+        <toc-element topic="Barcelona-trip.md"/>
+        <toc-element topic="Birthday-trip-2024.md"/>
+        <toc-element topic="Fictional-character-power-ranking.md"/>
         <toc-element topic="Foundry-modules.md"/>
-        <toc-element topic="Random~Guild-wars-2-in-Pathfinder-2e.md"/>
-        <toc-element topic="Random~Guild-wars-2-notes.md"/>
-        <toc-element topic="Random~Master-duel.md"/>
+        <toc-element topic="Guild-wars-2-in-Pathfinder-2e.md"/>
+        <toc-element topic="Guild-wars-2-notes.md"/>
+        <toc-element topic="Master-duel.md"/>
     </toc-element>
 </instance-profile>
