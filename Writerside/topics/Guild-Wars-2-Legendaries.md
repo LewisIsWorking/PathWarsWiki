@@ -25,3 +25,14 @@ The fourth PvE legendary trinket, Prismatic Champion's Regalia, was released on 
 ## Accessories.
 
 Aurora is faster than Vision.
+
+## Aurora.
+
+MukLuk's guide: https://youtu.be/YaMHEIStEIo?si=Tmq3okg5etXSMeFp
+
+> Checklist.
+>> - Xunlai Electrum Ingot. Craft 21 times. Can only craft 1/day.
+>> - Get the 4 gobblers.
+>> - Combine the gobblers.
+>> - Buy a sentient seed from the combined gobblers.
+>> - This unlocks the collection = "Aurora: Awakening".

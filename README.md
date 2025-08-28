@@ -2,6 +2,12 @@
 
 ^ The topic files can be found at the link above.
 
+This ReadMe was written by Claude Sonnet 4, so it may be inaccurate or have errors. 
+
+Please report any issues on the discord/telegram.
+
+PathWars = Pathfinder 2e & Guild Wars 2.
+
 ## Read me.
 
 # PathWars Wiki
@@ -332,12 +338,248 @@ Contributors may add:
 - **Rules Clarifications**: Ask questions about house rules and interpretations
 - **Character Assistance**: Get help with builds, backstories and development
 
+## Detailed Gameplay Systems
+
+### Achievement System
+PathWars features an extensive achievement system that rewards exceptional gameplay and character development:
+
+**Achievement Requirements:**
+- Enemy groups must have combined levels ≥ your level × 5
+- Enemies must be at least your level to qualify
+- Maximum group size equals your character level for tracking purposes
+
+**Notable Achievement Categories:**
+- **Aeon Collector**: Gather rare aeon stones throughout campaigns
+- **A Lifted Spirit**: Survives significant fall damage on multiple occasions
+- **Back from the Grave**: Return from death through extraordinary means
+- **Chronicler**: Document campaign events extensively (rewards the most powerful feat available)
+- **Combat Mastery**: Defeat enemies of various types and power levels
+- **Exploration Rewards**: Discover hidden locations and ancient secrets
+
+**Achievement Benefits:**
+- Unique feats and abilities are not available through normal progression
+- Special recognition within the community
+- Access to rare items and crafting materials
+- Story hooks and character development opportunities
+
+### Faction System & Political Landscape
+The PathWars campaigns feature a complex faction system with major political organisations:
+
+**Major Factions:**
+- **Andoran & Liberty's Edge**: Led by Major Colson Maldris—freedom fighters and democratic idealists.
+- **Cheliax & Dark Archive**: Led by Zarta Dralneen - diabolical scholars and infernal researchers
+- **Concordance of Elements**: Led by Ashasar—elemental balance and planar stability.
+- **Grand Archive**: Academic pursuit and knowledge preservation
+- **Magnimar**: Led by Sheila Heidmarch - Varisian politics and regional power
+- **Osirion & Scarab Sages**: Led by Amenopheus The Sapphire Sage—ancient wisdom and desert mysteries.
+- **Sczarni Family**: Led by Guaril Karela - criminal enterprise and family loyalty
+- **Shadow**: Led by Grand Master Torch - espionage and information brokerage
+- **Silver Crusade**: Righteous crusaders against evil and corruption
+- **Taldor & Sovereign Court**: Led by Lady Gloriana Morilla—noble traditions and courtly intrigue.
+- **The Exchange Faction**: Alliance of Sczarni and Qadira—trade and profit-focused.
+- **Tian-Xia/Lantern Lodge**: Eastern mysteries and foreign connections
+- **Qadira**: Led by Pasha Muhlia al'Jakri - trade routes and desert power
+
+**Minor Factions:**
+- **Envoy's Alliance**: Diplomatic missions and peaceful resolution
+- **Horizon Hunters**: Exploration and discovery beyond known lands
+- **Radiant Oath**: Paladins and champions of good
+- **Verdant Wheel**: Nature preservation and druidic wisdom
+- **Vigilant Seal**: Containment of dangerous magical threats
+
+**Faction Benefits:**
+- Access to unique equipment and spells
+- Special missions and storylines
+- Political influence and connections
+- Exclusive training and advancement opportunities
+- Cross-campaign recognition and benefits
+
+## Comprehensive Faction Integration System
+
+### Faction Signup Rewards (Pathfinder Society Integration)
+PathWars implements a sophisticated faction reward system based on character level:
+
+**Level 1-2 Faction Benefits:**
+- **Healing Support**: Minor healing potions for survival
+- **Utility Items**: Antidotes, oils, and magical conveniences
+- **Scroll Access**: 1st-rank spell scrolls (healing, mystic armour, runic weapon)
+- **Special Equipment**: Marvelous miniatures, potency crystals, silver salve
+
+**Level 3-4 Enhanced Rewards:**
+- **Advanced Healing**: Lesser healing potions and specialised oils
+- **Tactical Equipment**: Climbing bolts, alloy orbs, mending oils
+- **Enhanced Scrolls**: 2nd-rank spells (cleanse affliction, dispel magic, resist energy)
+- **Utility Magic**: Clear mind, sound body, and protective enchantments
+
+**Progression-Based Benefits:**
+- Rewards scale with character advancement
+- Multiple item categories (potions, scrolls, utility items)
+- Strategic choices based on character build and campaign needs
+- Cross-campaign faction recognition maintains reward eligibility
+
+### Advanced Faction Integration
+- **Political Influence**: Faction membership affects story opportunities
+- **Resource Access**: Exclusive equipment and training unavailable elsewhere
+- **Cross-Campaign Recognition**: Faction standing transfers between campaigns
+- **Storyline Integration**: Faction quests and political intrigue development
+
+## Comprehensive Class and Character Options
+
+### Core Paizo Classes (Complete Integration)
+PathWars supports ALL official Pathfinder 2e classes with full mechanical integration:
+
+**Recently Added Classes:**
+- **Animist**: Spiritual communion and nature magic specialists
+- **Exemplar**: Heroic paragons with legendary abilities
+- **Kineticist**: Elemental manipulation and energy control
+- **Psychic**: Mental magic and telepathic abilities
+- **Thaumaturge**: Occult item specialists and mystery researchers
+
+**Combat Classes:**
+- **Barbarian**: Rage-fuelled warriors with primal instincts
+- **Champion**: Divine warriors upholding moral codes
+- **Fighter**: Master combatants with tactical expertise
+- **Gunslinger**: Firearm specialists and ranged combat experts
+- **Monk**: Martial artists channelling inner power
+- **Ranger**: Wilderness experts and monster hunters
+- **Swashbuckler**: Agile combatants relying on finesse and flair
+
+**Magic Classes:**
+- **Alchemist**: Scientific approach to magical effects
+- **Bard**: Performance-based magic and social manipulation
+- **Cleric**: Divine magic channelling deity power
+- **Druid**: Nature magic and wilderness communion
+- **Magus**: Martial and magical combat fusion
+- **Oracle**: Cursed divine casters with unique abilities
+- **Sorcerer**: Innate magical power and spontaneous casting
+- **Summoner**: Eidolon bonding and planar creature mastery
+
+### 3rd Party Classes with Foundry Support
+PathWars embraces innovative 3rd party content with technical integration:
+
+**Unique 3rd Party Options:**
+- **Eldamon Avatar**: Mystical creature bonding and transformation
+- **Eldamon Trainer**: Specialised creature training and development
+- **Warlord**: Tactical leadership and battlefield command
+- **Life Blade**: Healing-focused martial combat specialist
+- **Inquisitor**: Divine investigation and heretic hunting
+- **Reaper**: Death magic and soul manipulation
+- **Cartomancer**: Card-based magic and fortune manipulation
+
+**Specialized Subclasses:**
+- **Wildling**: Rogue subclass emphasising wilderness survival and stealth
+
+### Dual-Class Integration Excellence
+- **Mechanical Balance**: Two full class progressions without breaking gameplay
+- **Foundry Automation**: Complete technical support for complex builds
+- **Character Depth**: Enhanced roleplay through diverse ability combinations
+- **Strategic Options**: Tactical flexibility through varied skill sets
+
+## Advanced Equipment and Progression Systems
+
+### Magical Item Distribution Network
+PathWars features sophisticated magical item tracking and distribution:
+
+**Named Artefact Tracking:**
+- **High-Vale Blades**: Legendary weapon set with individual names
+  - IronOath: Paladin-focused enchanted blade
+  - GlimmerBane: Anti-illusion specialized weapon
+  - CharmBreaker: Mental protection and mind-affecting resistance
+- **Character Assignment**: Detailed records of who receives which artefacts
+- **Cross-Campaign Recognition**: Artefacts may appear in multiple campaigns
+
+**Item Progression Systems:**
+- **Relic Evolution**: Items that grow with characters over time
+- **Monster Part Integration**: Crafted items using harvested creature components
+- **Faction Equipment**: Exclusive gear accessible through organisation membership
+- **Achievement Rewards**: Special items unlocked through exceptional play
+
+### Wealth and Resource Management Excellence
+
+**Comprehensive Gold Tracking:**
+- Session-by-session wealth progression documentation
+- Investment opportunity tracking and business venture management
+- Faction reward integration and political payment systems
+- Collaborative wealth management for party resource pooling
+
+**Resource Distribution Systems:**
+- **Equipment Sharing**: Cross-character item lending and gifting
+- **Crafting Collaboration**: Multi-player projects for major item creation
+- **Faction Resources**: Organisational support for expensive undertakings
+- **Achievement Unlocks**: Resource access through documented accomplishments
+
+## Technical Excellence and Platform Innovation
+
+### Foundry VTT Mastery
+PathWars represents the pinnacle of virtual tabletop customisation:
+
+**Custom Module Development:**
+- **PathWars-Specific Rules**: Automated implementation of house rules
+- **Achievement Tracking**: Real-time progress monitoring and notifications
+- **Cross-Campaign Integration**: Character transfer and continuity systems
+- **Faction Management**: Automated reputation tracking and reward distribution
+
+**Advanced Automation:**
+- **Dual-Class Support**: Complete mechanical integration for complex builds
+- **Monster Parts Tracking**: Harvesting and crafting automation
+- **Experience Calculation**: Automated XP distribution with detailed logging
+- **Session Documentation**: Integrated note-taking and progress tracking
+
+### Multi-Platform Community Management
+
+**Discord Integration Excellence:**
+- **Campaign-Specific Channels**: Organised discussion preventing spoilers
+- **Automated Notifications**: Session reminders and important announcements
+- **Rules Clarification**: Dedicated channels for quick mechanical questions
+- **Social Coordination**: Out-of-game relationship building and planning
+
+**Telegram Backup Systems:**
+- **Mobile Accessibility**: Quick communication for time-sensitive decisions
+- **Emergency Coordination**: Backup communication during technical issues
+- **Poll Integration**: Group decision-making tools for scheduling and choices
+- **International Support**: Multi-timezone communication optimization
+
+## Community Recognition and Legacy Systems
+
+### Achievement Recognition Programs
+PathWars maintains comprehensive recognition systems:
+
+**Documentation Excellence Awards:**
+- **Chronicler Recognition**: Ultimate achievement for session documentation
+- **Wiki Contribution**: Recognition for high-quality content additions
+- **Character Development**: Awards for exceptional roleplay and growth
+- **Community Support**: Recognition for helping new players and technical assistance
+
+**Milestone Celebrations:**
+- **Session Centennials**: Community events for 100, 200+ session achievements
+- **Anniversary Recognition**: Annual celebrations of community founding
+- **Character Retirement**: Formal ceremonies for completed character arcs
+- **Cross-Campaign Impact**: Recognition for actions affecting multiple groups
+
+### Historical Preservation Excellence
+
+**Complete Archive Maintenance:**
+- **7+ Years of Documentation**: Unbroken record of community development
+- **Character Generation Tracking**: Complete records of player character evolution
+- **World Event Impact**: Documentation of player-driven global changes
+- **Rules Evolution**: Historical record of house rule development and refinement
+
+**Legacy Player Recognition:**
+- **Veteran Status**: Special recognition for multi-year commitment
+- **Mentorship Programs**: Experienced players guiding newcomers
+- **Community Leadership**: Recognition for exceptional contribution to community growth
+- **Innovation Awards**: Recognition for creative problem-solving and unique contributions
+
 ---
 
-*PathWars Wiki. Comprehensive Documentation for Epic Campaigns.*
+*PathWars Wiki*
 
-*Last Updated: August 28, 2025*
-*Active Campaigns: Multiple ongoing across shared timeline*
-*Total Sessions: 230+ (Flagship campaign) with hundreds more across all campaigns*
-*Community Size: Mature players (18+) committed to long-term storytelling*
-*Wiki Pages: 100+ documented topics covering all aspects of play.*
+*Founded: 2018 | Continuously Innovated Through 7+ Years of Dedication*
+*Session Archive: 230+ documented sessions with complete historical tracking*
+*Class Integration: ALL Paizo classes + extensive 3rd party content with technical support*
+*Documentation Excellence: Professional-grade session-by-session progression tracking*
+*Technical Innovation: Industry-leading Foundry VTT customization and multi-platform integration*
+*Community Recognition: Comprehensive achievement and milestone celebration systems*
+*Historical Preservation: Complete 7+ year archive of community development and world evolution*
+*Cross-Platform Integration: Seamless Discord, Telegram, Foundry VTT, and Guild Wars 2 coordination*
+*Achievement Innovation: Unique progression systems rewarding documentation and community contribution.*
