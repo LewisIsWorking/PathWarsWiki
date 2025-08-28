@@ -194,7 +194,7 @@ Multiple other campaigns running simultaneously in the same world:
 
 If you are interested in joining PathWars:
 
-1. **Age Verification** Be 18+ years old
+1. **Age Verification** You must be 18+ years old
 2. **Content Review**: Read the content warning guide thoroughly
 3. **Community Guidelines**: Review the getting-started guide and commitment requirements
 4. **Platform Setup**: 
