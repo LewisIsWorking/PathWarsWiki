@@ -52,7 +52,7 @@ For a look at how things roughly fit together:
 - Length: short.
 - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C06-Kibwe.md
 
-## 7. Starfinder.
+## #7. Starfinder.
 - Status: ongoing.
 - Session count: play by post.
 - Started: 2025.
