@@ -28,6 +28,9 @@ I recommend you check out the 3rd party race section!
 
 > Each main character has a connection to Curse Breaker.
 >> - Curse breaker has granted each of the main characters at the least access to dual class.
+>> - The character may have gained other aspects of their character's build from their connection to Curse Breaker.
+>> - Alternatively, non-mechanical aspects may also come from curse breaker. 
+>> - Such as a birthmark, a tattoo, a scar, a piece of jewellery, a trinket, a memento, a keepsake, a memory, a dream, a vision, a feeling, an emotion, etc.
 
 ## What is Kibwe?
 
@@ -53,7 +56,7 @@ The high-altitude pass in western Nex between the Barrier Wall to the north and 
 1. Gringles Snot-Belly = Goblin Fighter + Swashbuckler played by Lorcan.
 2. Cliff Chew-stick = Gunslinger Magus Rat folk Played by Ryan.
 3. ??? = ??? played by Paddy.
-4. ??? = Dungeon Magus + Witch played by Rebecca.
+4. Eda "Curse Breaker" Stone-Worth= Dungeon Magus + Witch played by Rebecca.
 
 ## Ongoing Notes.
 
