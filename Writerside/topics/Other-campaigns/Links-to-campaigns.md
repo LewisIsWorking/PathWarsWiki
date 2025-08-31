@@ -18,39 +18,39 @@ For a look at how things roughly fit together:
 ## #1: Riddleport.
 - Status: ongoing.
 - Level 1.
-- [C01-Riddleport.md](C01-Riddleport.md).
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C01-Riddleport.md
 
 ## #2: Curse of the Crimson Throne. COMPLETE!
 - Status: complete.
 - Session count: 99.
 - Started: 2020ish?
-- [C02-The-Crimson-Throne.md](C02-The-Crimson-Throne.md)
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C02-The-Crimson-Throne.md
 
 ## #3. Etran's Folly.
 - Status: complete.
 - Session count: 1.
 - Started: 2021.
-- [C03-Etran's-Folly.md](C03-Etran's-Folly.md)
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C03-Etran's-Folly.md
 
 ## #4. Agents of Magni Watch.
 - Status: PAUSED.
 - Session count: 2.
 - Started 2023.
-- [C04-Agents-of-Magni-Watch.md](C04-Agents-of-Magni-Watch.md)
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C04-Agents-of-Magni-Watch.md
 
 ## #5. The Grand Explorers.
 - Status: ongoing.
 - Session count: play by post.
 - Started 2023.
 - Length: long term.
-- [C05-The-Grand-Explorers.md](C05-The-Grand-Explorers.md).
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C05-The-Grand-Explorers.md
 
 ## #6. Kibwe.
 - Status: ongoing.
 - Session count: play by post.
 - Started 2023.
 - Length: short.
-- [C06-Kibwe.md](C06-Kibwe.md).
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C06-Kibwe.md
 
 ## 7. Star finder.
 - Status: ongoing.
@@ -58,4 +58,4 @@ For a look at how things roughly fit together:
 - Started: 2025.
 - Length: long term.
 - NO DOCUMENTATION YET.
-- [C07-Starfinder-2e.md](C07-Starfinder-2e.md).
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C07-Starfinder-2e.md

@@ -335,4 +335,4 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 >> - Cardigan created a mental barrier for the group to protect their individual identities while sharing a collective experience.
 >> - Vaasha used diplomacy and polymorphic abilities (in the form of Para-countess Zarta Dralneen) to convince the dreamers to drink the tea.
 >> - Allisee brewed the telepathic tea.
->> - Allisee gets a 4
+>> - Allisee gets a 44. Critical success!
