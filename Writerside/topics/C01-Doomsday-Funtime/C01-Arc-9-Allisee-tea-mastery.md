@@ -336,3 +336,29 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 >> - Vaasha used diplomacy and polymorphic abilities (in the form of Para-countess Zarta Dralneen) to convince the dreamers to drink the tea.
 >> - Allisee brewed the telepathic tea.
 >> - Allisee gets a 44. Critical success!
+
+## Session 257.
+> 2025 August 31st Sunday + 4710 AR, Rova 6th, Toilday: A work day. + Arc-9 Allisee tea mastery part 7.
+>> - IRL start time: 22:36.
+>> - Delay duration: 4 hours & 36 minutes.
+>> - Players present: Anthony, Horia, Askaran, Rez and Eimer.
+
+> Allisee's stargazing story:
+>> - Allisee and her sister often went out stargazing together, deciding kind-of on a whim when they wanted to. 
+>> - They had even turned it into a sort of game of making up constellations that looked like nobles they met or different animals or objects. 
+>> - They spent many nights staring at the sky and talking about anything and everything like this.
+>> - Amar Rook-moon expands Allisee's mindscape, making it permeant when within Allisee's sphere of influence.
+
+> 22:30.
+>> - Marta explains her backstory to the group.
+>> - Selenor explains what happened with Imron.
+>> - Imron Gauthfallow was mentioned on the cargo that Marta's father was transporting.
+>> - Selenor thinks that Andaisin might have been involved with Marta's father.
+>> - Torven Blackwater's ship is called the Siren's Mercy.
+>> - Selenor commands Cardinal to protect Marta Kelindra.
+>> - Mortigus Stonewall arm wrestles Selenor's halfling.
+
+> Sleep = 23:00 + 8 = 07:00. 4710 AR, Rova 7th, Wealday: A work day. 
+>> - 07:00 -> 09:00. Daily preparations.
+>> - 09:30. The party goes to Magnimar.
+>> - The party go to the "Lighthouse Pit", a loud fighting multi-storey tavern that looks like a lighthouse and functions as one!
