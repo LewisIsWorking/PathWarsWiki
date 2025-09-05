@@ -18,7 +18,7 @@ Start typing here...
 >> - Part 4: Level 4.
 >> - Story 2. Short adventure 1/4. Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
 >> - Story 3. Short adventure 2/4. Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
->> - Story 4. Short adventure 3/4. Monster wheel [Zo!’s Wheel of Monsters]. Level 10.
+>> - Story 4. Short adventure 3/4. Monster wheel [Zo!'s Wheel of Monsters]. Level 10.
 >> - Story 5. Empires Devoured 2/2. Historic accord. [Empires Devoured]. Level 10 -> 13.
 >> - Story 6. Short adventure 4/4. Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
 
