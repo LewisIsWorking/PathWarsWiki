@@ -50,3 +50,18 @@ Start typing here...
 >> - Acted. 
 >> - @PathWars Changer. 
 >> - @MrNegetZ Gijō Harmony.
+
+> COMBAT!
+>> - Encounter name = 1 x The BASTARD Ankhrav of the Magnimar Zoo. 
+>> - Encounter started = 2025 September 5th at 00:21am. 
+>> - Round = 1. 
+>> - Unacted. 
+>> - @Nemesiux Eclipsar. 
+>> - @HistoricallyInaccurate Zilde EvenGuard. 
+>> - @Askarans Machiq 
+>> - @ArtyArtillery Nadya Rudean. 
+>> - @Linksanelf2006 Akuma. 
+>> - @MrNegetZ Gijō Harmony. 
+>> - @Revan1734 Lysandea Dawnstride. 
+>> - Acted. 
+>> - @PathWars Changer.
