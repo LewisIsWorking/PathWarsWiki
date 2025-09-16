@@ -130,8 +130,8 @@ Each High-Vale blade has a unique name and a unique property.
 3. Glimmer Bane. Abjuration. Envy. Green.
 	- This weapon has seven charges.
 	- It regains 6 charges daily at dawn.
-	- You can expend the weapon’s charges to cast detect magic (1 charge) or dispel magic (3 charges).
-	- In addition, when you see a creature within 60 feet of you casting a spell, you can use your reaction to expend two of the weapon’s charges to cast a counter-spell.
+	- You can expend the weapon's charges to cast detect magic (1 charge) or dispel magic (3 charges).
+	- In addition, when you see a creature within 60 feet of you casting a spell, you can use your reaction to expend two of the weapon's charges to cast a counter-spell.
 4. Heat Death. Necromancy. Gluttony. Purple.
 	- While you wield this weapon, you can use a free action to douse one non-magical fire (up to the size of a bonfire) that you can see within 100 feet of you.
 	- Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw.

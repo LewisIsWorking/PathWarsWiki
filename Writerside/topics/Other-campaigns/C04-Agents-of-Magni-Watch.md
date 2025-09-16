@@ -1,9 +1,39 @@
 # Campaign~4-Agents-of-MagniWatch.
 
-Start typing here...
-
-- This has been on hiatus for a long time.
 - It was originally intended to be a 1 Player to 1 GM campaign.
+- It is now a 6-player play by post.
+
+## Progress.
+
+> Fraction completed
+>> - 1/20 or 5%
+>> - They have completed 1 out of 20 total items in the campaign.
+
+> Finished.
+>> - B1: C1.
+
+> Unfinished.
+>> - B1: C2.
+>> - B1: C3.
+>> - B1: C4. 
+>> - B2: C1.
+>> - B2: C2.
+>> - B2: C3.
+>> - B2: C4.
+>> - B3: C1.
+>> - B3: C2.
+>> - B3: C3.
+>> - B4: C1.
+>> - B4: C2.
+>> - B4: C3.
+>> - B5: C1.
+>> - B5: C2.
+>> - B5: C3.
+>> - B6: C1.
+>> - B6: C2.
+>> - B6: C3.
+
+## Ongoing notes.
 
 > Overview.
 >> - The mayor of Magnimar has established a new elite policing division: MagniWatch.
@@ -65,3 +95,31 @@ Start typing here...
 >> - @Revan1734 Lysandea Dawnstride. 
 >> - Acted. 
 >> - @PathWars Changer.
+
+> COMBAT!
+>> - Encounter name = Downtime.
+>> - Encounter started = 2025 September 12th at 16:06pm. 
+>> - Round = 1.
+> Unacted.
+>> - @Nemesiux Eclipsar. 
+>> - @HistoricallyInaccurate Zilde EvenGuard. Magus/Fighter.
+>> - @Askarans Machiq 
+>> - @ArtyArtillery Nadya Rudean. 
+>> - @Linksanelf2006 Akuma. 
+>> - @MrNegetZ Gijō Harmony. 
+>> - @Revan1734 Lysandea Dawnstride.
+>> - @PathWars Changer | The Magnimarian Golem Guard | Mechanic/Technomancer.
+> Acted. 
+
+> Summary of Player Actions:
+>> - Nadya. 
+>> - Nadya is seeking out "drugs" in Lowcleft, likely a variety of herbal concoctions or flayleaf. 
+>> - Nadya's path is described as a "lazy snaking path that ends up at the Tipsy Tengu."
+>> - Machiq. 
+>> - Machiq is heading to the Arvensoar, the grand guard station, to "sue Remy for damages."
+>> - Gijō & Lysandra. 
+>> - Gijō & Lysandra are doing judo training together at the Arvensoar.
+>> - Akuma. 
+>> - Akuma is practicing his stances and grip, and will join the group at the Tipsy Tengu for dinner and drinks afterward. 
+>> - Zilde. 
+>> - Zilde will join the training, then visit her father to tell him about the group's adventures.

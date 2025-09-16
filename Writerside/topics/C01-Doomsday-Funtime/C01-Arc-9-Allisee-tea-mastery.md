@@ -362,3 +362,191 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 >> - 07:00 -> 09:00. Daily preparations.
 >> - 09:30. The party goes to Magnimar.
 >> - The party go to the "Lighthouse Pit", a loud fighting multi-storey tavern that looks like a lighthouse and functions as one!
+
+## Session 258.
+> 2025 September 6th Saturday + 4710 AR, Rova 7th, Wealday: A work day. + Arc-9 Allisee tea mastery part 8.
+>> - IRL start time: 01:41.
+>> - Delay duration: 5 hours & 41 minutes.
+>> - Players present: Anthony, Horia, Sebastian (Askaran/not Simon) and Cortez.
+
+> 10:00.
+>> - The party is in the Lighthouse Pit.
+>> - The patrons are clearly big fans of combat sports.
+>> - There are no visible fighting pits.
+>> - Very loud and full.
+>> - Haku easedrops on a couple of water genasi. 
+>> - Cardigan thanks Haku for buying a keg of ale.
+>> - Infinite Fang tries to intimidate Sir Seller and Grask watches on, next to Seller.
+
+> 11:00.
+>> - Allisee casts illusory disguise.
+>> - Amar stealing the orb of water caused many water-humans to be tortured with slime-water, mutating them.
+>> - The older water genasi is called Toren.
+>> - Toren says that a display of artistic violence and a lot of blood being spilt is needed for the fight.
+>> - Allisee cooks cannibalistic stew made of herself with Og the boar-man butcher.
+>> - Password: Beautiful Violence. Violence is beautiful.
+
+> 11:30.
+>> - Selenor connects a 3rd eye to his forehead.
+>> - The void shell sees through the 3rd eye.
+>> - Almost a veiled eye.
+>> - Dwarf bartender says to you both: "Enjoy the beautiful violence, for violence is beautiful."
+
+> 12:00.
+>> - Blood courts. This island exists between Battle-zoo and the Prime Material Plane. 
+>> - An inter-plane between the two planes.
+>> - The party talks to the collector.
+>> - Selenor mentions the vision of conquering to the collector.
+>> - The iron conqueror.
+
+> 12:00 -> 14:00. 2 hours. Phase 1: Arena politics.
+>> - Lord Kasmarck.
+>> - Lord Vashian (elf).
+>> - Kira Sellsword = Crimson Dancer.
+>> - Arean Master Throkk.
+>> - Para-countess Zarta Dralneen is here now.
+>> - Intimidation: Establish authority amongst the fighters, trainers and patrons of the Blood Courts.
+>> - ^ Carnon, intimidation, 40, dirty 20.
+>> - Knowledge of games/better/sports/honour OR society: understand the complex betting and honour systems of the Blood Courts.
+>> - ^ This was done by Vaasha with warfare lore (38, master).
+>> - Perception: scout the blood courts and to see what matches are going to be to the death.
+>> - ^ Cardigan notices many idols of unknown gods, some of which are rat idols.
+>> - Diplomacy: convince people to buy & drink tea.
+>> - ^ Selenor, diplomacy, 43, critical success.
+
+> 14:00 -> 18:00. 4 hours. Phase 2: The preliminary fights.
+>> - Medicine. Treat wounded fighters between matches so they are well enough to drink tea.
+>> - Performance. Serve tea while combat rages, maintaining composure and a steady hand under the pressure of weapons and blood nearby.
+>> - ^ Haku 31.
+>> - Tea lore. Brew "Warrior's courage tea". Reduces fear effects, increases aggression, makes people fight ruthlessly.
+>> - ^ Allisee 39.
+>> - Perception. Keep an eye out for cheating, foul play and other unsavoury behaviour like people getting sexually aroused or aggressive. Using this knowledge to avoid trouble and keep the tea flowing.
+>> - ^ Carnon 37.
+>> - Combat. 20 lesser gladiators, 3 beast trainers and 40 peons.
+>> - Infinite, Selenor, Vaasha.
+>> - Mortigus Stonewall joins the fight.
+
+> Combat.
+>> - Round 2.
+>> - Vaasha. Taken.
+>> - Mortigus Stonewall. Taken.
+>> - Selenor. Taken. Selenor brings some dead gladiators back to un-life to destroy a group of gladiators.
+>> - Infinite Fang. Taken.
+>> - Round 3.
+>> - Mortigus: 3 action impulse.
+>> - Vaasha: 2 action: sand snatcher. 1 action: Bon mot.
+>> - Infinite Fangs: Retch rust.
+>> - Selenor: Entropy.
+>> - Round 4. 
+>> - Infinite Fang: Stride, Flurry of blows and elemental blast.
+>> - Vaasha: ?
+>> - Selenor: Entropy.
+>> - Mortigus.
+>> - Round 5.
+>> - Vaasha -> Mortigus -> Infinite Fang -> Selenor.
+>> - Round 6.
+>> - Combat over.
+
+> Sebastian makes a great point about exp.
+>> - Harrow horses never gave exp. 
+>> - I need to work out dwarf battalion exp AFTER harrow horses.
+
+> 18:00 -> 19:00. 1 hour. Phase 3: A meeting with nobility.
+>> - Selenor notices something a bit odd about Lord Vashian.
+
+> 19:00 -> 23:00. 4 hours. Phase 4: The championship matches.
+>> - Kira Sell-Sword The Crimson Dancer.
+>> - Kira has an animated bow.
+>> - Combat.
+>> - Round 2.
+>> - 11/25 + 5 = 16/25.
+>> - 16 - 10 = 6/25.
+>> - Fasting healing 2 for 5 rounds. 
+>> - Fasting healing until round 7.
+>> - Kira has bleed resistance.
+>> - Allisee critically succeeds at knocking Kira's flail out of her hand.
+>> - Allisee picks up the flail.
+>> - Kira reactive strikes.
+>> - Round 3.
+>> - Kira takes 2 attempts to disarm Allisee. 1 action to pick up her flail.
+>> - Allisee. 
+>> - Round 4. 
+>> - Kira.
+>> - Until Round 5 Allisee is blinded.
+>> - 6/25 + 11 = 17/25 - 17 = 0/25.
+>> - 3 regen per turn.
+>> - Round 5.
+>> - 11/25 + 11 = 22/25 - 22 = 0/25.
+>> - 7 regen per turn.
+>> - Allisee sustains the bear.
+>> - 0/25 + 11 = 11/25 - 11 = 0/25.
+>> - Allisee wins!
+
+> Phase 4: The Crimson Dancer's Breakdown.
+>> - Blood tea. Tea lore.
+>> - Diplomacy check: help her regain control.
+>> - Medicine check to stabilise her wounds. 40, critical success.
+>> - Kira Sell-Sword reveals herself to be a previous Gray Maiden.
+
+> Phase 5: Death Spectacle (1 hour). 23:00 -> 24:00.
+>> - Tea: Mercy's End Tea. By Allisee.
+>> - Fortitude to protect the party from vomiting. Haku.
+>> - Will save to protect the party from becoming absorbed in the rage and beautiful violence. Selenor.
+>> - Thievery to pass the tea to the criminals without being noticed. 
+
+> Rova 8th. 4709 AR.
+
+> Phase 6: Memory of Rage (1 hour). 00:00 -> 01:00.
+>> - Performance to visually tell the story of the rageful memory.
+>> - Will save to protect the party from becoming absorbed by the memory.
+>> - Tea lore to make Rage Tea.
+
+> End of Blood Courts.
+
+## Session 259.
+> 2025 September 12th Saturday + 4710 AR, Rova 8th, ???: A work day. + Arc-9 Allisee tea mastery part 9.
+>> - IRL start time: 22:35.
+>> - Delay duration: 2 hours & 35 minutes.
+>> - Players present: Anthony, Horia, Sebastian (Askaran/not Simon) and Syver.
+
+> 12:00. Sleep + daily preparation completed.
+>> - Went to Magnimar, seeing Eldariel Eldarielm.
+>> - Talking to Eldariel Eldarielm.
+>> - Talk about: Korvosa vs Magnimar, asking for the orb of water and talking to Haku about the plane of water.
+>> - Asks where is Maroux (Felaki's sister)?
+>> - Allisee's droplet tattoo.
+>> - Tattoo master in the gauntlight revealed Allisee's droplet tattoo.
+>> - Allisee's asks about her water droplet tattoos.
+>> - Eldariel Eldarielm says that Allisee's droplet tattoo means a connection between multiple things.
+>> - 1 is the plane of water.
+>> - 2 represents an opening between the plane of water and the prime material plane.
+>> - A passed down cursed mark.
+>> - Shard lust teleport to the Lady's Light -> Selenor takes the party to Maroux's swamp shack.
+
+> 15:00.
+>> - Maroux is Allisee's mum's (Yubis) partner's (Korumun) best friend's (Felaki) sister (Marous).
+>> - Marous hates Allisee because Allisee is a cunt.
+>> - 4 hours of herbalism training.
+>> - 15:00 -> +4 hours -> 19:00. 4 hours of herbalism training. 
+>> - 19:30. The Concordance of elements tells Haku that they will have work for him soon (post arc-9).
+>> - Dress squad & Bath squad.
+>> - Dress-a-lots.
+>> - 20:30.
+>> - 21:00.
+>> - 22:00.
+>> - Phase 1: The Gathering.
+>> - Perception, Magic, Nobility and Will.
+>> - 23:00.
+>> - Phase 2: Arrivals.
+>> - 00:00.
+>> - Phase 3: A grand party.
+>> - 01:00.
+>> - Phase 4: Allisee, I have something to tell you.
+>> - Phase 5: Combat versus 6 Night Hags.
+
+> Combat.
+>> - Round 1.
+>> - 18 + 37 + 74 + 37 + 37 + 61 = 264 + 21 = 285.
+
+> Phase 6: The Fall.
+>> - 

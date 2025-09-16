@@ -15,7 +15,7 @@ I recommend you check out the 3rd party race section!
 ## Lore.
 
 > The current story.
->> - The statue known as Curse Breaker (ram) is one of animal statues that once sat upon the walls of the city of Kibwe. 
+>> - The statue known as Curse Breaker (ram) is one of the animal statues that once sat upon the walls of the city of Kibwe. 
 >> - Curse Breaker many years ago was taken down from the walls of Kibwe and placed in the Temple of the Sun Archive.
 >> - The statue is said to have the power to break curses, and it is believed that it was once used to protect the city from evil spirits and curses.
 >> - The sun priests of Kibwe have long revered the statue, and it is considered a sacred relic of the city.
@@ -205,3 +205,32 @@ Two players left.
 - @RyoYamakawa
 
 >> - Kibwe first play by post-message: https://t.me/Path_Wars/40585/40963 
+
+## Play By Post. 2025 September 14th.
+
+> Leilani Kana rebirths Curse Breaker.
+>> - As Tarsus and Kieran wove their threads of the ritual into completion, the primal harmonies converged upon Leilani with inexorable purpose. 
+>> - She stood at the nexus of forces both divine and primordial, her very essence becoming the conduit for something far greater than mere spellcraft. 
+>> - This was blood calling to blood, soul recognising soul across the veil of mortality itself. 
+>> - The phoenix fire that had once consumed her death now blazed anew within her veins.
+>> - This is not borrowed power, but as inheritance rightfully claimed. 
+>> - Each syllable of the incantation drew forth memories carved in flame and shadow: the searing bite of emerald fire, the taste of her own blood on foreign soil, and then that first, impossible breath of rebirth. 
+>> - The Curse Breaker had reached through the boundary between worlds to reclaim her from oblivion's embrace, and now she would return that magnificent transgression in kind. 
+>> - Crimson light spilled from her outstretched palms, each droplet of mystical essence carrying fragments of Eda's scattered form back toward its destined vessel. 
+>> - The air itself seemed to thicken with anticipation as flesh-wrought magic sought its ancient home. 
+>> - Leilani felt the familiar weight of divine attention settling upon her shoulders—not the crushing burden of judgment, but the warm recognition of a shepherd tending to her flock. 
+>> - The statue's obsidian eyes kindled with inner fire, and at that moment of awakening, Leilani understood with crystalline clarity that she was no longer the frightened shepherd girl who had bled out beneath alien stars. 
+>> - She had become something far more dangerous and beautiful: the willing instrument of resurrection itself, the mortal hand that dared to reverse the irreversible. 
+>> - As radiance flooded the chamber with golden intensity, something primal stirred within her throat. 
+>> - The song that emerged was older than words, a melody that seemed to rise from the very marrow of creation. 
+>> - It spoke of death conquered, of bonds that transcended flesh, of the terrible mathematics of sacrifice and renewal. 
+>> - Her voice wove through the ascending light like silver thread through cosmic fire, giving form to the shapeless joy of a god's return to the world.
+When silence finally reclaimed the chamber, it carried within it the weight of completed destiny. 
+>> - The debt had been paid. 
+>> - The shepherd had become the saviour of her own salvation.
+
+> Curse Breaker is reborn.
+>> - Eda "Curse Breaker" Stones-Worth's body is gone burned to ash in the fire of the phoenix.
+>> - Curse Breaker glows with a golden light, blinding in the dim chamber.
+>> - The party cannot see.
+>> - But as the light gently fades, they see a figure standing where Curse Breaker once stood.

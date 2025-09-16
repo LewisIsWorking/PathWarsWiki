@@ -1740,7 +1740,7 @@ They meet the tattoo ghoul.
 
 Allisee spends 1400 GP on tattoos.
 - Allisee has water droplet tattoos on her back that contain a secret illusionary animation.
-- Allisee gets moon sight (sun sight) tattoo on her forehead.
+- Allisee gets access to moon visions (sun sight) tattoo on her forehead.
 - Allisee gets a tattoo of potion of expeditious retreat on her right forearm, this is a trade craft tattoo.
 
 ## Session 196 = 2023 November 18th Saturday+ 4710 AR Erastus 26th + Gaunt-light Part 7.
@@ -1761,7 +1761,7 @@ Temple of the Canker.
 
 13:00
 
-Cardigan accepts the Canker’s blessing.
+Cardigan accepts the Canker's blessing.
 
 Scriptorium.
 

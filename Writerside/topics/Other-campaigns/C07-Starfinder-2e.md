@@ -59,3 +59,17 @@ Bruce you are playing Chua Datafang a Ysoki alchemist/witchwarper.
 @Astra724 is playing Kessel Solarina a solarian/witchwarper.
 
 @Askarans is playing Mausbert Gouda an Ysoki Envoy (Hotshot) / Psychic (Unbound Emotion).
+
+## Ongoing notes.
+
+> Combat!
+>> - Encounter name = Sarcophagus, boxes and 2 x Giant Dust Weevil. 
+>> - Round = 1.
+> Unacted.
+>> - Arcanamirium Occult Campus @wafflemuncher
+>> - Lysae. @Revan1734
+> Acted.
+>> - Mausbert Gouda. @Askarans
+>> - Roneles. @Nemesiux
+>> - ★★★★★★★★★★ Super idol Livy ★★★★★★★★★★. @MrNegetZ
+>> - Chua Datafang. @Ravnos1

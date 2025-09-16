@@ -75,6 +75,7 @@ Unlocked by Selenor by acquiring the Red Raven's cape.
 The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide.
 >> - Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Exquisite Alloy Orb (Standard-Grade). Unlocked: by Haku Stormfan in DF.
 >> - Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
 >> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
 >> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).

@@ -801,3 +801,61 @@ Monster parts:
 > - Allisee. Level 12. Exp: 65.
 > - Selenor. Level 12. Exp: 500.
 > - Cardigan. Level 12. Exp: 1080.
+
+## Session 256.
+
+> 2025 August 23rd Saturday + 4710 AR, Rova 6th, Toilday: A work day. + Arc-9 Allisee tea mastery part 6.
+>> - Encounter: DEADLY Harrow Shadow Horse x 1 & Lesser Harrow Shadow Horse x 3.
+
+> Lesser Harrow Shadow Horse x 3.
+>> - Level 11 = 10 x 3 = 30.
+>> - Level 12 = 0 x 3 = 0.
+
+> Deadly Harrow Shadow Horse x 1.
+>> - Level 11 =	60 x 1 = 60.
+>> - Level 12 = 40 x 1 = 40.
+
+> Totals.
+>> - Level 11 = 30 + 60 = 90.
+>> - Level 12 = 0 + 40 = 40.
+
+> Totals: Exp gained.
+>> - Syver. Level 11. Exp 0 + 90 = 90.
+>> - Haku Stormfan. Level 11. Exp: 607 + 90 = 697.
+>> - Carnon. Level 12. Exp: 0. Not present for this fight.
+>> - Lt. Viole Jule Grace. Level 12. Exp: 40. Not present for this fight.
+>> - Allisee. Level 12. Exp: 65 + 40 = 105.
+>> - Selenor. Level 12. Exp: 500 + 40 = 540.
+>> - Cardigan. Level 12. Exp: 1080 + 40 = 1120.
+
+> Totals.
+>> - Syver. Level 11. Exp: 90.
+>> - Haku Stormfan. Level 11. Exp: 697.
+>> - Carnon. Level 12. Exp: 0.
+>> - Lt. Viole Jule Grace. Level 12. Exp: 40.
+>> - Allisee. Level 12. Exp: 105.
+>> - Selenor. Level 12. Exp: 540.
+>> - Cardigan. Level 12. Exp: 1120.
+
+## Session 258.
+
+> 2025 September 6th Saturday + 4710 AR, Rova 7th, Wealday: A work day. + Arc-9 Allisee tea mastery part 8.
+>> - IRL start time: 01:41.
+>> - Delay duration: 5 hours & 41 minutes.
+>> - Players present: Anthony, Horia, Sebastian (Askaran/not Simon) and Cortez.
+
+> Dwarf battalion x 1.
+>> - Level 11 = 10 x 1 = 10.
+>> - Above 11 = 0.
+
+> Totals.
+>> - Mortigus. Level 11. Exp: 0 + 10 = 10.
+>> - Infinite Fang. Level 11. Exp: 0 + 10 = 10.
+>> - Vaasha. Level 11. Exp: 0 + 10 = 10.
+>> - Syver. Level 11. Exp: 90. Not present for this fight.
+>> - Haku Stormfan. Level 11. Exp: 697. Not present for this fight.
+>> - Carnon. Level 12. Exp: 0. Not present for this fight.
+>> - Lt. Viole Jule Grace. Level 12. Exp: 40. Not present for this fight.
+>> - Allisee. Level 12. Exp: 105. Not present for this fight.
+>> - Selenor. Level 12. Exp: 540. Too high level.
+>> - Cardigan. Level 12. Exp: 1120.
