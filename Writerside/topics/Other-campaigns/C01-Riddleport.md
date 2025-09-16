@@ -98,11 +98,11 @@ Level 2.
 >> - Action 2: Stride further upstairs (35 feet).
 >> - Action 3: Stride further upstairs (35 feet).
 >> - Movement calculation:
->> - First Stride: 10 feet across room + 25 feet climbing = 2 full squares upstairs + 5 feet leftover movement.
->> - Second Stride: 35 feet + 5 feet leftover = 40 feet climbing = 4 squares upstairs.
->> - Third Stride: 35 feet climbing = 3 full squares + 5 feet leftover movement.
+>> - First Stride: 10 feet across room + 25 feet climbing = 2 squares upstairs (35 feet total, 25 feet usable for stairs).
+>> - Second Stride: 35 feet climbing = 3 squares upstairs (30 feet used, 5 feet leftover).
+>> - Third Stride: 35 feet + 5 feet leftover = 40 feet climbing = 4 squares upstairs.
 >> - Total progress:
->> - 2 + 4 + 3 = 9 squares (45 feet vertically) up the spiral stairs.
+>> - 2 + 3 + 4 = 9 squares (45 feet vertically) up the spiral stairs.
 >> - Since you need 13 squares total to reach Beltias Kreun's room, you would be about 70% of the way there in one turn, needing only 4 more squares (1-2 more actions) to reach the top.
 
 > COMBAT.
@@ -118,4 +118,10 @@ Level 2.
 >> - Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC
 > Acted:
 >> - Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars
->> - Rex | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
+>> - Rax | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
+>> - Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
+
+> Round 1.
+>> - Cardigan: 5 feet up the stairs.
+>> - Rax: 45 feet up the stairs (used all 3 actions to Stride, accounting for room crossing).
+>> - Professor Filiaur Bluestar: 45 feet up the stairs (used all 3 actions to Stride, accounting for room crossing).

@@ -10,41 +10,44 @@
 >> - https://www.thegamer.com/yu-gi-oh-maliss-deck-guide/
 
 > Maliss P Dormouse. 
->> - Normal-summon Dormouse -> Banish March hare.
->> - Activate march hare effect -> Add march hare from banishment to hand.
->> - Link dormouse into link decoder.
->> - Activate march hare effect -> Banish dormouse.
->> - Dormouse effect -> Summon dormouse from banishment to field.
->> - Link decoder, dormouse and march hare into red ransom.
->> - Red Ransom effect + chain decoder's effect.
->> - Red Random's effect adds Maliss in Underground to hand.
->> - Red Random + Link decoder into Apollousa.
->> - Active Maliss in Underground effect -> Banish mirror.
->> - Activate red ransom -> Add Rabbit to hand.
->> - Red Ransom summons itself and banishes the cat.
->> - Cat summons itself.
->> - Cat banishes rabbit.
->> - Draw 2.
->> - Rabbit summons itself.
->> - Rabbit effect sets GWC6 from deck.
->> - Link Red Random and either Rabbit or Cat into splash mage.
->> - Splash mage effect -> revive any Maliss monster.
->> - Link Splash mage and revived Maliss into White binder.
->> - DO NOT ACTIVATE WHITE BINDER'S EFFECT.
->> - Active GWC6 -> Banish White Binder -> Summon Red Ransom.
->> - Active white binder effect in banishment -> Summons itself -> Set GWC6 from grave to field.
->> - Link everything into Terror hertz (OR DeCrypt if you do not play terror hertz).
->> - During the end phase terror hertz effect -> Send Wyrm to graveyard.
->> - On the opponent's turn the trap lets you summon white binder to banish the opponent's graveyard.
->> - Use white binder to also banish red random and sometimes rabbit.
->> - Rabbit and Red Ransom can summon themselves back.
->> - Red Ransom banishes Dormouse or another card.
->> - Red Ransom, Rabbit and Dormouse all activate.
->> - Red Ransom adds Maliss in Underground to hand.
->> - Rabbit sets MTP-07 from deck to field.
->> - Active MTP-07 -> Banish White Binder -> to banish an opponent's on field card.
->> - White binder comes back to draw 1 card.
->> - Terror hertz effect -> Send pack bit to graveyard -> Pack bit's effect pushes a monster to the back row.
+>> - 1 = Hand -> Normal-summon Dormouse -> Dormouse (field) banishes March hare (deck).
+>> - 2 = Activate march hare (banishment) effect -> Add march hare from banishment to hand.
+>> - 3 = Link dormouse into link decoder.
+>> - 4 = Activate march hare effect -> Banish dormouse.
+>> - 5 = Dormouse effect -> Summon dormouse from banishment to field.
+>> - 6 = Link decoder, dormouse and march hare into red ransom.
+>> - 7 = Red Ransom effect + chain decoder's effect.
+>> - 8 = Red Random's effect adds Maliss in Underground to hand.
+>> - 9 = Red Random + Link decoder into Apollousa.
+>> - 10 = Active Maliss in Underground effect -> Banish mirror.
+>> - 11 = Mirror banishes red ransom.
+>> - 12 = Mirror Adds Rabbit to hand.
+>> - 13 = Red Ransom summons itself and banishes the cat.
+>> - 14 = Cat summons itself.
+>> - 15 = Cat banishes rabbit.
+>> - 16 = Draw 2.
+>> - 17 = Rabbit summons itself.
+>> - 18 = Rabbit effect sets GWC6 from deck.
+>> - 19 = Link Red Random and either Rabbit or Cat into splash mage.
+>> - 20 = Splash mage effect -> revive any Maliss monster.
+>> - 21 = Link Splash mage and revived Maliss into White binder.
+>> - 22 = DO NOT ACTIVATE WHITE BINDER'S EFFECT.
+>> - 23 = Active GWC6 -> Banish White Binder -> Summon Red Ransom.
+>> - 24 = Active white binder effect in banishment -> Summons itself.
+>> - 25 = DO NOT ACTIVATE WHITE BINDER'S EFFECT.
+>> - 26 = White binder -> Set GWC6 from grave to field.
+>> - 27 = Link everything into Terror hertz (OR DeCrypt if you do not play terror hertz).
+>> - 28 = During the end phase terror hertz effect -> Send Wyrm to graveyard.
+>> - 29 = On the opponent's turn the trap lets you summon the white binder to banish the opponent's graveyard.
+>> - 30 = Use white binder to also banish red random and sometimes rabbit.
+>> - 31 = Rabbit and Red Ransom can summon themselves back.
+>> - 32 = Red Ransom banishes Dormouse or another card.
+>> - 33 = Red Ransom, Rabbit and Dormouse all activate.
+>> - 34 = Red Ransom adds Maliss in Underground to hand.
+>> - 35 = Rabbit sets MTP-07 from deck to field.
+>> - 36 = Active MTP-07 -> Banish White Binder -> to banish an opponent's on field card.
+>> - 37 = White binder comes back to draw 1 card.
+>> - 38 = Terror hertz effect -> Send pack bit to graveyard -> Pack bit's effect pushes a monster to the back row.
 
 > Maliss-in-underground.
 >> - Banish dormouse.
