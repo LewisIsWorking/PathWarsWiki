@@ -234,3 +234,49 @@ When silence finally reclaimed the chamber, it carried within it the weight of c
 >> - Curse Breaker glows with a golden light, blinding in the dim chamber.
 >> - The party cannot see.
 >> - But as the light gently fades, they see a figure standing where Curse Breaker once stood.
+
+> Eda Stone-Worth The Curse Breaker:
+>> - "I must return to the temple of the sun."
+>> - "Those who must be purged are there."
+>> - "And I must connect myself to the city once more."
+>> - Path Wars, [23/09/2025 05:39]
+>> - Eda Stone-Worth The Curse Breaker does not hesitate. 
+>> - Eda Stone-Worth The Curse Breaker turns to the wall walks THROUGH the wall.
+>> - The wall shatters, leaving a huge 'Eda-shaped' gap. 
+>> - Path Wars, [23/09/2025 05:40]
+>> - Eda Stone-Worth The Curse Breaker, now in the courtyard, looks up at the sun. 
+>> - Eda closes her eyes, face tilted up towards the sun and with a sudden clap of her hands, opens a portal. 
+>> - As the party gazes into the portal, you see the impossibly tall walls of your city; it is a portal to Kibwe!
+>> - Eda Stone-Worth The Curse Breaker steps through the portal. 
+>> - It will close in less than 30 seconds, what does the party do!?
+>> - On the other side of the portal, Eda Stone-Worth seems to be standing in front of a female red slime woman who has just appeared in front of Eda.
+>> - It is Lysae, slimed.
+
+> Antoine / Anthony = Allisee, [23/09/2025 05:58]
+>> - "Well, at least the return trip will be less tedious." 
+>> - "Come one people do not just stand around! Let us follow the curse breaker."
+>> - Daichi grabs Theron:
+>> - "And you are coming too."
+>> - And I throw him in the portal and walk in too.
+
+> Roster.
+>> - #1 Lorn. Horia. @Nemesiux
+>> - #2 Daichi Kenshin. Anthony. @MrNegetZ
+>> - #3 Tiny. @errror01
+>> - #4 Fierce Leopard @RyoYamakawa
+>> - #5 Tarsus Longstaff. @buffetraider
+>> - #6 Kieran. @Linksanelf2006
+>> - #7 Leilani Kana. @HistoricallyInaccurate
+>> - #8 Akwa. @Askarans
+
+> Going through the portal?
+>> - Not yet.
+>> - #1 Lorn. Horia. @Nemesiux
+>> - #3 Tiny. @errror01
+>> - #5 Tarsus Longstaff. @buffetraider
+>> - #6 Kieran. @Linksanelf2006
+>> - #7 Leilani Kana. @HistoricallyInaccurate
+>> - #8 Akwa. @Askarans
+>> - Yes!
+>> - #2 Daichi Kenshin. Anthony. @MrNegetZ
+>> - #4 Fierce Leopard @RyoYamakawa

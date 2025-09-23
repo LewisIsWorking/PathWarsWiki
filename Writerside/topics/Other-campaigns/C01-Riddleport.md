@@ -98,12 +98,12 @@ Level 2.
 >> - Action 2: Stride further upstairs (35 feet).
 >> - Action 3: Stride further upstairs (35 feet).
 >> - Movement calculation:
->> - First Stride: 10 feet across room + 25 feet climbing = 2 squares upstairs (35 feet total, 25 feet usable for stairs).
->> - Second Stride: 35 feet climbing = 3 squares upstairs (30 feet used, 5 feet leftover).
->> - Third Stride: 35 feet + 5 feet leftover = 40 feet climbing = 4 squares upstairs.
+>> - First Stride: 10 feet across room + 25 feet climbing = 2.5 squares upstairs.
+>> - Second Stride: 35 feet climbing = 3.5 squares upstairs.
+>> - Third Stride: 35 feet climbing = 3.5 squares upstairs.
 >> - Total progress:
->> - 2 + 3 + 4 = 9 squares (45 feet vertically) up the spiral stairs.
->> - Since you need 13 squares total to reach Beltias Kreun's room, you would be about 70% of the way there in one turn, needing only 4 more squares (1-2 more actions) to reach the top.
+>> - 2.5 + 3.5 + 3.5 = 9.5 squares (47.5 feet vertically) up the spiral stairs.
+>> - Since you need 13 squares total to reach Beltias Kreun's room, you would be about 73% of the way there in one turn, needing only 3.5 more squares (1 more action) to reach the top.
 
 > COMBAT.
 >> - Encounter name = The Bell Tower of Beltias Kreun.
@@ -122,6 +122,56 @@ Level 2.
 >> - Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
 
 > Round 1.
+>> - Note: Movement is calculated continuously within each action. No rounding down mid-action.
 >> - Cardigan: 5 feet up the stairs.
->> - Rax: 45 feet up the stairs (used all 3 actions to Stride, accounting for room crossing).
->> - Professor Filiaur Bluestar: 45 feet up the stairs (used all 3 actions to Stride, accounting for room crossing).
+>> - Rax: 47.5 feet up the stairs (used all 3 actions to Stride, accounting for room crossing).
+>> - Professor Filiaur Bluestar: 40 feet up the stairs (used all 3 actions to Stride, accounting for room crossing).
+
+> 2025-09-23rd September, Tuesday.
+>> - Remainder of Round 1.
+>> - Everyone is going to move up the stairs at max speed.
+>> - Except Yaseitori (Flurry Ranger and Monk, @Askarans) who is already at the top of the bell tower.
+>> - Everyone's speeds:
+>> - Cardigan: 25 feet.
+>> - Lenma Moonshine: 30 feet.
+>> - Necrila: 35 feet.
+>> - Prof. Filiaur Bluestar | Allisee & Riddleport: 30 feet.
+>> - Rax | Ryo Riddleport: 35 feet.
+>> - Sinhow | Carnon & Riddleport: 25 feet.
+
+> Based on the session notes for the Riddleport campaign, here is how far everyone is up the bell tower stairs at the end of their turns.
+>> - In the first round of combat:
+>> - Yaseitori: Is already at the top of the bell tower. 
+>> - Rax & Necrila: 47.5 feet up the stairs. 
+>> - Professor Filiaur Bluestar & Lenma Moonshine: 40 feet up the stairs. 
+>> - Sinhow: 32.5 feet up the stairs.
+>> - Cardigan: 5 feet up the stairs.
+
+> Round 1.
+>> - Enemy turn.
+>> - Beltias Kreun's turn.
+>> - Beltias Kreun: Speed = 35 feet.
+>> - With a speed of 35 feet, Beltias Kreun can open his door and reach the bell at the top of the tower in a single turn.
+>> - Here is the breakdown:
+>> - • Action 1: Open the door to the stairs. 
+>> - • Actions 2 & 3: Use two Stride actions for a total of 70 feet of movement. 
+>> - The distance from his room to the bell is about 25-30 feet up the stairs. 
+>> - Since stairs are difficult terrain when moving up, this would cost 50-60 feet of movement. 
+>> - As he has 70 feet of movement available, he can comfortably reach the bell.
+
+> Round 2.
+
+> COMBAT.
+>> - Encounter name = The Bell Tower of Beltias Kreun.
+>> - Encounter started = 2025 September 12th at 12:42pm.
+>> - Round = 2. 
+>> - Unacted:
+>> - #1 Necrila | Fighter and justice champion | @Nemesiux
+>> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
+>> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
+>> - #4 Yaseitori | Flurry Ranger and Monk | @Askarans
+>> - Mad Rat | A pirate working for a Crime Lord | @PathWars.
+>> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC 
+>> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars
+>> - #7 Rax | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
+>> - Acted:
