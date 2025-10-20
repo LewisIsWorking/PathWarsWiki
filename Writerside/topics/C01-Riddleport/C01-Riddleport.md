@@ -28,3 +28,5 @@ Level 2.
 >> - The bell tower from bell to ground is 100 feet tall.
 >> - The hallway is on the 2nd floor of the temple.
 
+> Beltias-Kreun-fight.md
+>> See: topics/C01-Riddleport/Beltias-Kreun-fight.md.
