@@ -59,7 +59,7 @@
 >> - 7 = Splash mage revives any Maliss monster.
 >> - 8 = Link the splash mage and revived Maliss into red ransom.
 >> - 9 = Active the red ransom -> Add Mirror.
->> - 10 = Active GWC6 -> Banish red ransom -> Summon rabbit from grave.
+>> - 10 = Active GWC6 -> Banish red ransom -> Summon rabbit from grave DO NOT SELECT RED RANSOM.
 >> - 11 = Red ransom summons itself and banishes the cat. Put red ransom in column 3.
 >> - 12 = Cat summons itself.
 >> - 13 = Cat banishes mirror -> Draw 2.
