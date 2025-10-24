@@ -859,3 +859,23 @@ Monster parts:
 >> - Allisee. Level 12. Exp: 105. Not present for this fight.
 >> - Selenor. Level 12. Exp: 540. Too high level.
 >> - Cardigan. Level 12. Exp: 1120.
+
+## Session 260.
+> 2025 October 19th Sunday + 4710 AR, Rova 9th, Fireday: A work day that is most often the market day. + Arc-9 Allisee tea mastery part 10.
+>> - IRL start time: 21:46.
+>> - Delay duration: 1 hours & 46 minutes.
+>> - Players present: Anthony, Horia, Sebastian and Syver.
+
+> 2 x Bone Devils.
+>> - Level 11 = 20 x 2 = 40. 
+>> - Level 12 = 15 x 2 = 30. 
+
+> Totals.
+>> - Infinite Fang. Level 11. Exp: 10. Not present for this fight.
+>> - Mortigus. Level 11. Exp: 10 + 40 = 50.
+>> - Syver. Level 11. Exp: 90 + 40 = 130.
+>> - Haku Stormfan. Level 11. Exp: 697 + 40 = 737.
+>> - Carnon. Level 12. Exp: 0 + 30 = 30.
+>> - Allisee. Level 12. Exp: 105 + 30 = 135.
+>> - Selenor. Level 12. Exp: 540 + 30 = 570.
+>> - Cardigan. Level 12. Exp: 1120 + 30 = 1150.

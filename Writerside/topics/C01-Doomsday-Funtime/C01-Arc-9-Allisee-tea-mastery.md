@@ -555,7 +555,7 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 > 2025 October 19th Sunday + 4710 AR, Rova 9th, Fireday: A work day that is most often the market day. + Arc-9 Allisee tea mastery part 10.
 >> - IRL start time: 21:46.
 >> - Delay duration: 1 hours & 46 minutes.
->> - Players present: Anthony and Horia.
+>> - Players present: Anthony, Horia, Sebastian and Syver.
 
 > 21:00
 >> - Zarta has been arrested.
@@ -576,3 +576,26 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 > 22:20.
 >> - Lord-Mayor Haldmeer Grobaras is here.
 >> - Selenor: "This is actually what the daemons want. The god of war wants this."
+>> - Lord-Mayor Haldmeer Grobaras wants: 
+>> - Allisee to form an alliance between Taldor and Magnimar.
+>> - Gauntlight = Magnimar land.
+>> - Train the Magni Watch.
+>> - Mayor offers to pay Allisee/Haku for tasks.
+>> - Mayor tasks Mortigus to go to the Sky Citadels to form an alliance.
+>> - Magnimar puts a bounty out on Allisee's sister.
+
+> 23:00.
+>> - Keleri is not in a good way.
+>> - Keleri was imprisoned and her father was nearly imprisoned too.
+>> - The Mayor stopped her father being arrested.
+>> - Viole is now one of the generals of the Magnimarian army.
+>> - Viole is building a war airship for Magnimar.
+>> - The party rests.
+
+> 09:00.
+>> - Magnimar to see a harrow lady.
+>> - Selenor recalls he must go see Jacky.
+>> - Jacky runs a shop called "always 1 step ahead".
+
+> 10:00.
+>> - 

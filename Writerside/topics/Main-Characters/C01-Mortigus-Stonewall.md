@@ -85,7 +85,8 @@
 >> - Question: What God (if any) does your character follow?
 >> - Answer: Torag
 >> - Question: What are your character's personal beliefs?
->> - Answer: That magic is bad and prevents people from ever truly growing. He believes in physical strength and hard work to achieve his goals and knows that his path will be a bloody one.
+>> - Answer: That magic is bad and prevents people from ever truly growing. 
+>> - He believes in physical strength and hard work to achieve his goals and knows that his path will be a bloody one.
 >> - Question: Does your character have any personality quirks?
 >> - Answer: Yes, he has a sense of humour, often referring to those smaller than him as, “small warrior” people.
 >> - Question: Are they anti-social?
