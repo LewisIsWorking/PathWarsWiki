@@ -16,38 +16,44 @@ Start typing here...
 
 ## DF P2 Arc list.
 
-> Arc 1: Skull Hill. Session 134 -> 138.
->> - 5 sessions.
+> Arc 1: Skull Hill. 
+>> - Session 134 -> 138.
+>> - Session count: 5
 >> - The Moon-Flower.
 >> - Drekk-Zal used the power of lunar magic to defeat the moon flower.
 
 > Arc 2: Collapsing Halls.
->> - 3 sessions.
 >> - Session 142 → 146.
+ >> - Session count: 5
 
 > Arc 3: Truth Teller.
->> - 3 sessions.
 >> - Session 148 → 150.
+>> - 3 sessions.
 
 > Arc 4: The Harrow.
 >> - Session 153 → 189.
->> - 37 sessions.
+>> - Session count: 37n
 >> - Amar became the Harrower.
 >> - Session 158: Allisee (Anthony) joined the campaign.
 
 >> Arc 5: Necropolis.
->> - Session 184 → 187. 
->> - 4 sessions.
+>> - Session 184 → 187.
+>> - Session count: 4.
 
-> Arc 6: Gaunt Light. 
->> - Session 190 -> ONGOING.
+> Arc 6: Gaunt Light part 1. 
+>> - Session 190 -> Session 212.
+>> - Session count: 23.
 
 > Arc 7: Junima rescue. 
 >> - Session 213 -> 224. 
 >> - 13 sessions.
+>> - 
 
-> Arc 8: Untangle the past.
->> - Session 225 -> ONGOING.
+> Arc 8: Eto.
+>> - Session 225 -> 251.
+
+> Arc 9: Allisee tea mastery.
+>> - Session 252 -> 
 
 > Arc 999: Kaer Maga.
 >> - LOL.

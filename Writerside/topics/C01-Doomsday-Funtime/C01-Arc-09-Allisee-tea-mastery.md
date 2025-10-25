@@ -592,10 +592,10 @@ A vertical stone tablet shows a bar chart of the votes (runestone activations) o
 >> - Viole is building a war airship for Magnimar.
 >> - The party rests.
 
+> Rova 10th.
+
 > 09:00.
 >> - Magnimar to see a harrow lady.
 >> - Selenor recalls he must go see Jacky.
 >> - Jacky runs a shop called "always 1 step ahead".
 
-> 10:00.
->> - 
