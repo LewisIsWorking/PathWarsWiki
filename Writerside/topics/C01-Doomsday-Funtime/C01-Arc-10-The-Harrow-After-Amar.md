@@ -24,7 +24,7 @@
 >> - Room 3: Office / sleeping quarters.
 >> - Conspiracy board.
 >> - Pictures of the party.
->> - History of artifacts, Sea monster tats and Paradise Reclamation.
+>> - History of artifacts, Sea monster tattoos and Paradise Corporation Reclamation.
 >> - The Harrow Barrow Supplies = Harrow supplier.
 >> - The Deck of Harrowed Tales is glowing.
 >> - Carnon uses occultism to see if it glows more strongly in different parts of the office.
@@ -48,3 +48,28 @@
 >> - Locke: "So the city sent you to investigate?"
 >> - Haku: "Yes, we are investigating the tea party incident and finding out who is responsible."
 >> - Locke offers to board up the hole in the wall for them.
+>> - Locke goes back to her shop and gets her employee to gather wooden boards and tools to board up the hole.
+
+> 10:30.
+>> - Room 3: Office / sleeping quarters.
+>> - Locke's employees boards up the hole in the wall.
+>> - Haku finds a hollowed out anti-magic book containing THE VISION Destiny Deck Card!
+>> - 20 mins searching the office.
+>> - Haku finds 4 scrolls:
+>> - A scroll of quench = 6 rank.
+>> - A scroll of heroism = 6th rank. 
+>> - A scroll of slow = 6th rank. 
+>> - A scroll of telepathic bond = 6th rank.
+
+> 10:50.
+
+## Session 262.
+> 2025 November 7th Saturday + 4710 AR, Rova 10th + Arc-10 The Harrow after Amar part 2.
+>> - IRL start time: 23:51.
+>> - Delay duration: 3 hours & 51 minutes.
+>> - Players present: Anthony, Horia, Cortex and Jeremy.
+
+> Location: Always 1 Step ahead, Magnimar.
+
+> 11:00.
+>> - 

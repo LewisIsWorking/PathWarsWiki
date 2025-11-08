@@ -52,3 +52,13 @@ Cards collected so far:
 >>   - You bring the might of the mountain into your body. 
 >>   - You cast 2nd-level or 4th-level enlarge upon yourself. 
 >>   - If you are 15th level or higher, the duration increases to 1 hour. 
+
+> #7: Ownership: The Vision.
+>> - Arcane knowledge.
+>> - Found by Haku Stormfan in Always 1 step ahead.
+>> - As long as you have The Vision invested, it grants you a +2 item bonus to all checks made to Identify Magic. This increases to a +3 item bonus if you are at least 17th level. 
+>> - Activate [free-action] envision; Frequency once per day; Effect A visible bolt of blue energy bursts from your head. 
+>> - Attempt to Recall Knowledge about a subject, rolling the check with the most appropriate Lore skill check. 
+>> - This check always resolves as if you were master in the most appropriate Lore skill to Recall Knowledge on the subject (or if you're at least 15th level, as if you were legendary in that Lore skill). 
+>> - If you're already master (or legendary) in that Lore, the result of your Recall Knowledge check is one degree of success better than it would otherwise be.
+>> - Harrow upgrade: Gain the Vision's item bonus to "Borrow a spell", "identify alchemy/magic" and/or "Learn a spell" checks.
