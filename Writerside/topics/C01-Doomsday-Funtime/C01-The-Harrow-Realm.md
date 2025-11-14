@@ -3,6 +3,7 @@
 - Amar has used the upgrade: The Mountain Man.
 - Session 205. Allisee gets 2 items for the Zubiri.
 - Session 226. Distributing the cards among: Selenor, Allisee, Carnon and Viole.
+- Session 262: Haku Stormfan found The Vision in Always 1 step ahead.
 
 Cards collected so far:
 

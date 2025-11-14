@@ -14,7 +14,7 @@
 >> - Jacky.
 >> - Room 1: Shop.
 >> - Room 2: Séance room.
->> - They found chalk map but not the understanding of the 4 locations. 3 moderately important, 1 majorly important.
+>> - They found chalk map but not the understanding of the 4 locations: 3 moderately important, 1 majorly important.
 >> - Haku and Infinite fang steal a fine harrow deck each.
 >> - Cardigan helps Infinite Fang steal 300 GP worth of harrowing materials (3 bulk).
 >> - Allisee steals a fine harrow deck as well.
@@ -72,4 +72,57 @@
 > Location: Always 1 Step ahead, Magnimar.
 
 > 11:00.
->> - 
+>> - Part of Jacky's soul has been captured inside a soul gem.
+
+> 11:00 -> +10 min - 11:10. Selenor casts talking corpse.
+>> - 1/3 questions: What were they looking for?
+>> - 2/3 questions: What harrow knowledge were they seeking?
+>> - 3/3 questions: Where is the next destiny card?
+
+> 12:00.
+>> - Location: Reclaimed island, Kyver's island.
+
+> Discussion with Anthony.
+>> - Jaul Mezmin is a werewolf who turned a woman into a wolf and had sex with her.
+>> - The party captured Jaul Mezmin and are bringing him to Korvosa for trial.
+>> - Jaul Mezmin is currently imprisoned in the Harrow.
+>> - Jaul Mezmin is in the cage in the striding fortress.
+>> - Jaul Mezmin is being fed and cleaned by the harrow staff, the storylings.
+
+> 12:30.
+>> - Allisee is now a Master of Trade.
+>> - They enter of the junkyard of the reclaimed paradise.
+>> - The junkyard is full of old paradise corporation vehicles and machinery.
+>> - They find a paradise corporation salvage yard worker.
+>> - Clem the orc.
+>> - Steampunk pickaxe.
+>> - 2/8.
+>> - Derek is a magic card collector.
+>> - 7 pointed star hand tattoo.
+>> - Allisee helps to fix Clem's Neurocam. 
+>> - Clem is likely to help on Viole's airship project.
+
+> 13:00.
+>> - The Kraken. Ran by Aaron.
+>> - Aaron Mayo.
+>> - Talking about Allisee's droplet tattoos, says it came from fey magic.
+>> - Someone has a tattoo that pairs with Allisee.
+
+> Bonus feats, 1 day per feat.
+>> - Tattoo artist.
+>> - Arcane tattoo.
+>> - Ornate tattoo.
+>> - Virtue forged tattoo.
+
+> 13:30.
+>> - Allisee UNLOCKS Fiend Warding Tattoo.
+>> - Allisee also gets a free fiend warding tattoo.
+>> - Allisee gets it on her back.
+>> - Mr Mayo had visions of a celestial crow.
+>> - Mr Mayo is unsure if Allisee is a saviour or conqueror from his dreams of Cheliax being destroyed.
+>> - Derek's happy place has horses.
+
+> 15:00. Allisee got a tattoo and walks to history reliquary.
+>> - Allisee goes inside and talks to the history reliquary curator lizardman, Mr Zorak Grimbsy.
+>> - Zorak Grimbsy is a lizardfolk historian.
+>> - Zorak Grimbsy recognises Allisee's droplet tattoos as being from the fey.

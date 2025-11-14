@@ -879,3 +879,21 @@ Monster parts:
 >> - Allisee. Level 12. Exp: 105 + 30 = 135.
 >> - Selenor. Level 12. Exp: 540 + 30 = 570.
 >> - Cardigan. Level 12. Exp: 1120 + 30 = 1150.
+
+## Session 262.
+> 2025 November 7th Saturday + 4710 AR, Rova 10th + Arc-10 The Harrow after Amar part 2.
+>> - IRL start time: 23:51.
+>> - Delay duration: 3 hours & 51 minutes.
+>> - Players present: Anthony, Horia, Cortex and Jeremy.
+
+> +30 exp for Allisee for activating a divine spark battery.
+
+> Totals.
+>> - Infinite Fang. Level 11. Exp: 10. Not present for this fight.
+>> - Mortigus. Level 11. Exp: 50.
+>> - Syver. Level 11. Exp: 130.
+>> - Haku Stormfan. Level 11. Exp: 737.
+>> - Carnon. Level 12. Exp: 30.
+>> - Allisee. Level 12. Exp: 135 + 30 = 165.
+>> - Selenor. Level 12. Exp: 570.
+>> - Cardigan. Level 12. Exp: 1150.

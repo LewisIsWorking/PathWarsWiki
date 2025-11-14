@@ -250,3 +250,9 @@ Selenor = 2/34.
 > 2025 August 15th Friday + 4710 AR, Rova 5th, Moonday + Arc-9 Allisee tea mastery part 5.
 
 Allisee buys sage of crafting for 5 PP = 18/23 = 18--5=13/23.
+
+## Session 262.
+> 2025 November 7th Saturday + 4710 AR, Rova 10th + Arc-10 The Harrow after Amar part 2.
+>> - Allisee buys a title.
+>> - Master of Trade (Title, 4 PP).
+>> - Allisee = 13/23 - 4 = 9/23.
