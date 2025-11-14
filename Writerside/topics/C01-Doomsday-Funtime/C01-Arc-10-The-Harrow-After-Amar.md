@@ -84,6 +84,7 @@
 
 > Discussion with Anthony.
 >> - Jaul Mezmin is a werewolf who turned a woman into a wolf and had sex with her.
+>> - Jaul Mezmin is also a serial killer who killed multiple people.
 >> - The party captured Jaul Mezmin and are bringing him to Korvosa for trial.
 >> - Jaul Mezmin is currently imprisoned in the Harrow.
 >> - Jaul Mezmin is in the cage in the striding fortress.
@@ -125,4 +126,10 @@
 > 15:00. Allisee got a tattoo and walks to history reliquary.
 >> - Allisee goes inside and talks to the history reliquary curator lizardman, Mr Zorak Grimbsy.
 >> - Zorak Grimbsy is a lizardfolk historian.
->> - Zorak Grimbsy recognises Allisee's droplet tattoos as being from the fey.
+>> - Zorak Grimbsy lives tea and biscuits.
+
+## Session 263.
+> 2025 November 14th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 3.
+>> - IRL start time: ?.
+>> - Delay duration: ?.
+>> - Players present: ?

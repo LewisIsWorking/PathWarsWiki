@@ -313,3 +313,13 @@
 
 > Sinhow's turn.
 >> - Sinhow, almost out of breath, yells "shit" and starts rushing down the stairs with his actions to stride his movement speed. So he is now 30/35 feet high? Ish.
+
+> Professor Filiaur Bluestar's turn.
+>> - Action 1: Command construct companion to stride and grapple Beltias Kreun.
+>> - They roll a 19, success. Beltias Kreun is grappled.
+>> - Action 2 & 3: stride. 30 feet down the stairs.
+>> - Where is Professor Filiaur Bluestar now?
+
+> 2025-11-14th. I need to take Cardigan's turn.
+>> - Cardigan's turn.
+>> - 
