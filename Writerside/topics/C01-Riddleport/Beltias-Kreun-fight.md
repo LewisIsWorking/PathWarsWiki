@@ -1,6 +1,8 @@
 # Beltias-Kreun-fight
 
 > Campaign: Riddleport. 
+>> - Location: St. Caspian's Salvation bell tower.
+>> - This is Sarenrae's Salvation Temple, a temple to Sarenrae in Riddleport.
 
 > 2025-09-12th.
 >> - Claude:
@@ -303,23 +305,40 @@
 >> - Unacted:
 >> - #1 Necrila | Fighter and justice champion | @Nemesiux
 >> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
->> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
 >> - #4 Yaseitori | Flurry Ranger and Monk | @Askarans
 >> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC.
->> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
 >> - Acted:
 >> - #7 Rax | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
 >> - Mad Rat.
+>> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
+>> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
 
 > Sinhow's turn.
->> - Sinhow, almost out of breath, yells "shit" and starts rushing down the stairs with his actions to stride his movement speed. So he is now 30/35 feet high? Ish.
+>> - Sinhow's movement speed: 25 foot land speed.
+>> - 3 x strides.
+~~>> - Sinhow, almost out of breath, yells "shit" and starts rushing down the stairs with his actions to stride his movement speed. So he is now 30/35 feet high? Ish.~~
+>> - Sinhow, almost out of breath, yells “shit” and sprints down the spiral. 
+>> - With Speed 25 ft and 3 Strides (75 ft total), and going down not being difficult terrain, he covers the 65 ft back to ground level and has 10 ft left to move away from the base. 
+>> - End of turn: Sinhow is at ground level, about 10 ft from the base of the tower.
 
 > Professor Filiaur Bluestar's turn.
 >> - Action 1: Command construct companion to stride and grapple Beltias Kreun.
 >> - They roll a 19, success. Beltias Kreun is grappled.
 >> - Action 2 & 3: stride. 30 feet down the stairs.
->> - Where is Professor Filiaur Bluestar now?
+>> - Starting position: 77.5 ft (12.5 ft up the final staircase).
+>> - Movement: 60 ft total (going down is NOT difficult terrain).
+>> - Path: 12.5 ft down final stairs + 15 ft across Kreun's room + 32.5 ft down main spiral = 60 ft.
+>> - New position: 77.5 - 45 = 32.5 feet up the main spiral staircase.
+>> - Professor Filiaur Bluestar is now at approximately the same height as Sinhow.
 
 > 2025-11-14th. I need to take Cardigan's turn.
 >> - Cardigan's turn.
->> - 
+>> - Cardigan has 25 speed.
+>> - On the main spiral stairs (42.5 ft): Cardigan.
+>> - End of turn: Cardigan is on the 2nd floor, in the hallway near the bell‑tower room, running toward the way out to reach Beltias.
+
+> Round 4 notes.
+>> - Sinhow will be able to reach Beltias Kreun this turn/round.
+>> - Sinhow will stride twice and leap out the window taking 10 fall damage and 5 slashing damage from the glass (reflex to halve the glass damage).
+>> - Sinhow lands near Beltias Kreun, Beltias is a little bit more North and a little bit more West.
+>> - Cardigan will stride, stride, leap, doing the exact same thing as Sinhow.

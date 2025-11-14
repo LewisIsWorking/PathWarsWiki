@@ -407,3 +407,18 @@ In the middle of the circle of arches, a small podium clearly used for rituals s
 
 The only light is provided by floating lanterns that hang in the air.
 They seem to be made of wood with dancing lights inside them that look like dozens of hectic fireflies.
+
+## Play By Post = The Grand Exploration + 2025 November 14th Friday @ 19:23pm.
+
+> COMBAT.
+>> - Encounter name: Old Lady Jeraya and Moss The Fox, I mean... ECO TERRORISTS!
+>> - Encounter started = 2025 November 14th at 19:23pm.
+>> - Round 2!
+>> - Unacted:
+>> - Aekold Black-Steel @Nemesiux
+>> - Rubel @MrNegetZ
+>> - Cyrus @RyoYamakawa
+>> - Anaiel Black-Steel @HistoricallyInaccurate
+>> - Scrit @Askarans
+>> - Illani @ArtyArtillery
+>> - Acted:
