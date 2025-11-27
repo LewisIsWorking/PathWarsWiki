@@ -130,6 +130,40 @@
 
 ## Session 263.
 > 2025 November 14th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 3.
->> - IRL start time: ?.
->> - Delay duration: ?.
->> - Players present: ?
+>> - IRL start time: 21:13.
+>> - Delay duration: 1 hour & 13 minutes.
+>> - Players present: Sebastian, Horia, Anthony and Ross.
+
+> Location: History Reliquary, Magnimar.
+
+> 15:30.
+>> - Allisee makes amazing Classic scones with jam & clotted cream with a natural 20, 44 using expert cooking lore.
+>> - Allisee talks about Otari The Rogue with Zorak Grimbsy.
+>> - Selenor gives Zorak Grimbsy a pint of his blood.
+>> - Haku gives Zorak Grimbsy a Tengu Gale blade.
+>> - Carnon gives Zorak Grimbsy a +1 Mummy Lord Spear.
+
+> 16:00 -> 16:30 walk over to gate area.
+>> - Allisee gets attacked at the eel soup shop.
+
+> 16:30 -> 17:00 Cardigan meditates to regain focus.
+>> - Cardigan regains 3 focus points.
+>> - Askaran spots "Horse Forge".
+>> - Left Carnon at the front door, going through the back.
+
+> COMBAT!
+>> - Selenor won the initiative with 44.
+>> - Encounter name = Combat in the Horse Forge.
+>> - Encounter started = 2025 November 28th at 20:00pm.
+>> - Round = 1. 
+>> - Unacted. ❌
+>> - @Nemesiux | Selenor The Wanderer | Champion & Oracle.
+>> - @MrNegetz | Allisee Tra-Umna | Barbarian & Witch.
+>> - @Askarans | Haku Stormfan | Kineticist & Swashbuckler.
+>> - @PathWars | Cardigan | Party healer and former gnome | Cleric. 
+>> - @Infinitexfang | Infinite Fang | Kineticist & Monk.
+>> - @Mossssssssssssssssssssssssss | Carnon | Exemplar & Gunslinger.
+>> - @Rez_Marsiel | Mortigus Stonewall | Kineticist & Guardian.
+>> - Acted. ✅
+
+> Carnon: As a free action at the start of combat, I'll Shift immance to Gaze Sharp as Steel.
