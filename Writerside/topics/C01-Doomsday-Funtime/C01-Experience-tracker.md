@@ -897,3 +897,70 @@ Monster parts:
 >> - Allisee. Level 12. Exp: 135 + 30 = 165.
 >> - Selenor. Level 12. Exp: 570.
 >> - Cardigan. Level 12. Exp: 1150.
+
+## Session 264.
+> 2025 November 28th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 4.
+>> - IRL start time: 22:10.
+>> - Delay duration: 2 hour & 10 minutes.
+>> - Players present: Horia, Bronwyn, Oscar, Anthony and Luke.
+>> - Unrelated note, Carnon's ring of control sand elemental summons a demon-looking sand elemental.
+
+> The horse forge!
+>> - Daemonic assassins x 9. 
+>> - The Butcher x 1.
+>> - Cult Dagger Devil x 1.
+>> - Alla The Boring Rat x 1.
+
+> Alla The Boring Rat x 1.
+>> - Monster parts: 840 GP. Medium size.
+>> - Level 11: 80 x 1 = 80.
+>> - Level 12: 60 x 1 = 60.
+
+> The Butcher x 1.
+>> - Monster parts: 390 GP. Medium size.
+>> - Level 11: 40 x 1 = 40.
+>> - Level 12: 30 x 1 = 30.
+
+> Cult Dagger Devil x 1.
+>> - Monster parts: 390 GP. Medium size.
+>> - Level 11: 40 x 1 = 40.
+>> - Level 12: 30 x 1 = 30.
+
+> Daemonic assassins x 9.
+>> - Level 11: 20 x 9 = 180.
+>> - Level 12: 15 x 9 = 135.
+
+> Exp for Rino. Rino is level 3.
+>> - It is 1,200 to level up.
+>> - Alla The Boring Rat. Level 7 = 320, Level 5 = 640, Level 3 = 1280.
+>> - The Butcher. Level 7 = 160, Level 5 = 320, Level 3 = 640. Level 8 = 120, Level 6 = 240, Level 4 = 480.
+>> - Cult Dagger Devil. Level 7 = 160, Level 5 = 320, Level 3 = 640.
+>> - Daemonic Assassins. Level 7 = 120, Level 5= 240, Level 3 = 360 x 9 = 3240. Level 6 = 160, Level 4 = 320 x 9 = 2880.
+>> - Rino would be at 0 exp before this fight.
+>> - Applying the exp in order gives us.
+>> - Alla The Boring Rat = 0 + 1280 = 1200! Level up! Level 4. Exp: 0.
+>> - Level 4. The Butcher = 0 + 480 = 480/1200.
+>> - Level 4. Cult Dagger Devil = 480 + 480 = 960/1200.
+>> - Level 4. Daemonic Assassin 1/9 = 960 + 320 = 1280! Level up! Level 5. Exp: 0.
+>> - Level 5. Daemonic Assassin 2/9 = 0 + 240 = 240/1200.
+>> - Level 5. Daemonic Assassin 3/9 = 240 + 240 = 480/1200.
+>> - Level 5. Daemonic Assassin 4/9 = 480 + 240 = 720/1200.
+>> - Level 5. Daemonic Assassin 5/9 = 720 + 240 = 960/1200.
+>> - Level 5. Daemonic Assassin 6/9 = 960 + 240 = 1200! Level up! Level 6. Exp: 0.
+>> - Level 6. Daemonic Assassin 7/9 = 0 + 160 = 160/1200.
+>> - Level 6. Daemonic Assassin 8/9 = 160 + 160 = 320/1200.
+>> - Level 6. Daemonic Assassin 9/9 = 320 + 160 = 480/1200.
+
+> Totals.
+>> - Level 11 = 180 + 40 + 40 + 80 = 340.
+>> - Level 12 = 135 + 30 + 30 + 60 = 255.
+>> - Rino = 2880 + 640 + 640 + 1280 = 5440.
+
+> Totals.
+>> - Infinite Fang. Level 11. Exp: 10 + 340 = 350.
+>> - Mortigus. Level 11. Exp: 50 + 340 = 390.
+>> - Haku Stormfan. Level 11. Exp: 737 + 340 = 1077.
+>> - Carnon. Level 12. Exp: 30 + 255 = 285.
+>> - Allisee. Level 12. Exp: 165 + 255 = 420.
+>> - Selenor. Level 12. Exp: 570 + 255 = 825.
+>> - Cardigan. Level 12. Exp: 1150 + 255 = 1405. LEVEL UP! Level 13. Exp: 0.

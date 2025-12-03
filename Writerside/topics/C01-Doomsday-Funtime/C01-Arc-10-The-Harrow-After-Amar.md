@@ -151,19 +151,41 @@
 >> - Askaran spots "Horse Forge".
 >> - Left Carnon at the front door, going through the back.
 
+## Session 264.
+> 2025 November 28th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 4.
+>> - IRL start time: 22:10.
+>> - Delay duration: 2 hour & 10 minutes.
+>> - Players present: Horia, Bronwyn, Oscar, Anthony and Luke.
+>> - Unrelated note, Carnon's ring of control sand elemental summons a demon-looking sand elemental.
+
 > COMBAT!
 >> - Selenor won the initiative with 44.
 >> - Encounter name = Combat in the Horse Forge.
 >> - Encounter started = 2025 November 28th at 20:00pm.
->> - Round = 1. 
+>> - Round = 1.
 >> - Unacted. ❌
 >> - @Nemesiux | Selenor The Wanderer | Champion & Oracle.
 >> - @MrNegetz | Allisee Tra-Umna | Barbarian & Witch.
 >> - @Askarans | Haku Stormfan | Kineticist & Swashbuckler.
->> - @PathWars | Cardigan | Party healer and former gnome | Cleric. 
+>> - @PathWars | Cardigan | Party healer and former gnome | Cleric.
 >> - @Infinitexfang | Infinite Fang | Kineticist & Monk.
 >> - @Mossssssssssssssssssssssssss | Carnon | Exemplar & Gunslinger.
 >> - @Rez_Marsiel | Mortigus Stonewall | Kineticist & Guardian.
 >> - Acted. ✅
 
-> Carnon: As a free action at the start of combat, I'll Shift immance to Gaze Sharp as Steel.
+> Round 1.
+>> - Carnon: As a free action at the start of combat, I'll Shift immance to Gaze Sharp as Steel.
+>> - Selenor uses the shard of greed to cast haste, 6 creatures, until round 11: (1) Selenor, (2) Allisee Tra-Umna, (3) Carnon, (4) Haku Stormfan, (5) Infinite Fang and (6) Mortigus Stonewall.
+>> - Mark the centre on Ular & Lannad.
+>> - Selenor -> Carnon -> Allisee -> Fuq tank appears -> Infinite Fang
+>> - Infinite fan enters mountain stance and summons grindstone.
+>> - Cardigan mantle of faith: Purity & Providence.
+>> - Faq Tank's turn: Divine Wrath + Courageous anthem. 
+>> - Haku Stormfan's turn.
+
+> Round 2.
+
+> Round 3.
+>> - Selenor -> Fuq Tank -> All of Anthony's characters.
+>> - Fuq Tank gets their first kill of the campaign!
+>> - Haku needs to roll against Daemonic plague after the fight.
