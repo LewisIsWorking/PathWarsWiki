@@ -304,14 +304,31 @@
 >> - Round = 3.
 >> - Unacted:
 >> - #1 Necrila | Fighter and justice champion | @Nemesiux
->> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
 >> - #4 Yaseitori | Flurry Ranger and Monk | @Askarans
 >> - Acted:
+>> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
+>> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
+>> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC.
+>> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
 >> - #7 Rax | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
 >> - Mad Rat.
->> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
->> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
->> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC.
+
+> WHERE EVERYONE IS (End of Round 3 turns taken so far).
+>> - **Top of Bell Tower (100 ft):**
+>> - Yaseitori (hasn't acted Round 3 yet).
+>> - Rax (at edge of platform).
+>> - Necrila (hasn't acted Round 3 yet).
+>> - **32.5 ft up main spiral staircase:**
+>> - Professor Filiaur Bluestar.
+>> - **Bottom of spiral staircase (1st floor, 2.5 ft from hallway):**
+>> - Lenma Moonshine.
+>> - **1st floor hallway:**
+>> - Sinhow (10 ft from base of tower, heading toward window).
+>> - Cardigan (near the bell-tower room, heading toward exit).
+>> - **Ground level outside temple (prone, injured, grappled):**
+>> - Beltias Kreun.
+>> - **Ground level outside temple (grappling Kreun):**
+>> - Professor's Construct Companion.
 
 > Sinhow's turn. Round 3.
 >> - Sinhow's movement speed: 25 foot land speed.
