@@ -306,22 +306,22 @@
 >> - #1 Necrila | Fighter and justice champion | @Nemesiux
 >> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
 >> - #4 Yaseitori | Flurry Ranger and Monk | @Askarans
->> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC.
 >> - Acted:
 >> - #7 Rax | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
 >> - Mad Rat.
 >> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
 >> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
+>> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC.
 
-> Sinhow's turn.
+> Sinhow's turn. Round 3.
 >> - Sinhow's movement speed: 25 foot land speed.
 >> - 3 x strides.
 ~~>> - Sinhow, almost out of breath, yells "shit" and starts rushing down the stairs with his actions to stride his movement speed. So he is now 30/35 feet high? Ish.~~
 >> - Sinhow, almost out of breath, yells “shit” and sprints down the spiral. 
->> - With Speed 25 ft and 3 Strides (75 ft total), and going down not being difficult terrain, he covers the 65 ft back to ground level and has 10 ft left to move away from the base. 
+>> - With Speed 25 ft and 3 Strides (75 ft total), and going down not being difficult terrain, to the 1st floor and has 10 ft left to move into the hallway (10 ft left to move away from the base of the bell tower). 
 >> - End of turn: Sinhow is at ground level, about 10 ft from the base of the tower.
 
-> Professor Filiaur Bluestar's turn.
+> Professor Filiaur Bluestar's turn. Round 3.
 >> - Action 1: Command construct companion to stride and grapple Beltias Kreun.
 >> - They roll a 19, success. Beltias Kreun is grappled.
 >> - Action 2 & 3: stride. 30 feet down the stairs.
@@ -337,8 +337,25 @@
 >> - On the main spiral stairs (42.5 ft): Cardigan.
 >> - End of turn: Cardigan is on the 2nd floor, in the hallway near the bell‑tower room, running toward the way out to reach Beltias.
 
-> Round 4 notes.
+> Notes for Round 4 (it is still round 3 currently).
 >> - Sinhow will be able to reach Beltias Kreun this turn/round.
 >> - Sinhow will stride twice and leap out the window taking 10 fall damage and 5 slashing damage from the glass (reflex to halve the glass damage).
 >> - Sinhow lands near Beltias Kreun, Beltias is a little bit more North and a little bit more West.
 >> - Cardigan will stride, stride, leap, doing the exact same thing as Sinhow.
+
+> Lenma Moonshine's turn. Round 3.
+>> - Lenma Moonshine has a speed of 30 feet.
+>> - Starting position: 77.5 ft (12.5 ft up the final staircase).
+>> - 3 x strides.
+>> - Lenma sprints down the stairs, trying to catch up with her allies.
+>> - With Speed 30 ft and 3 Strides (90 ft total), and going down not being difficult terrain:
+>> - 12.5 ft down final stairs + 15 ft across Kreun's room + 62.5 ft down main spiral = 90 ft.
+>> - End of turn: Lenma is 2.5 ft from the 1st floor hallway entrance, at the very bottom of the spiral staircase.
+
+> CLARIFICATION: Temple Layout (British English floor naming).
+>> - **Ground Floor**: Street level, outside the temple. This is where Beltias Kreun landed after falling from the bell tower.
+>> - **1st Floor**: One level above ground (~10-15 feet up). The bell tower spiral staircase exits here. Characters exiting the staircase must traverse a **20-foot hallway** to reach a window overlooking the back of the temple.
+>> - **Bell Tower**: Rises from the 1st floor at the back of the temple. The tower is 80 feet tall, making the peak 100 feet from ground level.
+>> - **Note**: The "base of the spiral stairs" refers to the 1st floor, NOT ground level. Characters descending the stairs arrive on the 1st floor and must still exit the building (via hallway and window) to reach ground level outside where Kreun fell.
+>> - **Window Jump**: Characters jumping from the 1st floor window fall approximately 10-15 feet to ground level. Sinhow broke the window on his jump, so subsequent characters take no glass damage.
+

@@ -2,6 +2,11 @@
 
 Campaign: Riddleport.
 
+## Stats.
+
+> Level 1.
+>> - Movement speed: 30 feet.
+
 ## Character art.
 
 > Art
