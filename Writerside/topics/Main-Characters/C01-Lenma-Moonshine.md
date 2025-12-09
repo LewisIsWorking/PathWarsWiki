@@ -2,9 +2,11 @@
 
 Campaign: Riddleport.
 
+Classes: Monk + Thaumaturge.
+
 ## Stats.
 
-> Level 1.
+> Level 2.
 >> - Movement speed: 30 feet.
 
 ## Character art.
