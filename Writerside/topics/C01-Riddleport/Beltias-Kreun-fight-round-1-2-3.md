@@ -303,32 +303,43 @@
 >> - Encounter started = 2025 September 12th at 12:42pm.
 >> - Round = 3.
 >> - Unacted:
->> - #1 Necrila | Fighter and justice champion | @Nemesiux
->> - #4 Yaseitori | Flurry Ranger and Monk | @Askarans
+>> - (none — all party members have acted)
 >> - Acted:
+>> - #1 Necrila | Fighter and justice champion | @Nemesiux
 >> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ
 >> - #3 Sinhow | Fighter and seer animist | @Mossssssssssssssssssssssssss
+>> - #4 Yaseitori | Flurry Ranger and Monk | @Askarans
 >> - #5 Lenma Moonshine | Single class Monk winter cat folk | @CapriciousC.
 >> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
 >> - #7 Rax | Chirurgeon alchemist & Thief Rogue Nephilim Rat folk | @RyoYamakawa.
 >> - Mad Rat.
+>> - **NEXT UP: Beltias Kreun's Round 3 turn (prone, injured, grappled by construct).**
 
-> WHERE EVERYONE IS (End of Round 3 turns taken so far).
->> - **Top of Bell Tower (100 ft):**
->> - Yaseitori (hasn't acted Round 3 yet).
->> - Rax (at edge of platform).
->> - Necrila (hasn't acted Round 3 yet).
->> - **32.5 ft up main spiral staircase:**
->> - Professor Filiaur Bluestar.
->> - **Bottom of spiral staircase (1st floor, 2.5 ft from hallway):**
->> - Lenma Moonshine.
->> - **1st floor hallway:**
->> - Sinhow (10 ft from base of tower, heading toward window).
->> - Cardigan (near the bell-tower room, heading toward exit).
->> - **Ground level outside temple (prone, injured, grappled):**
->> - Beltias Kreun.
->> - **Ground level outside temple (grappling Kreun):**
->> - Professor's Construct Companion.
+> Necrila's turn. Round 3.
+>> - Necrila's movement speed: 35 ft.
+>> - 3 x strides = 105 ft total.
+>> - Path: 35 ft down final stairs + 15 ft across Kreun's room + 55 ft down main spiral.
+>> - End of turn: Necrila is 10 ft up the main spiral staircase.
+
+> Yaseitori's turn. Round 3.
+>> - Yaseitori's movement speed: 30 ft.
+>> - 3 x strides = 90 ft total.
+>> - Path: 35 ft down final stairs + 15 ft across Kreun's room + 40 ft down main spiral.
+>> - End of turn: Yaseitori is 25 ft up the main spiral staircase.
+
+> Beltias Kreun's turn. Round 3.
+>> - Beltias Kreun is prone, injured, and grappled by the Professor's construct.
+>> - Action 1: Escape (using unarmed attack modifier).
+>> - Rolled 18, but -2 from prone = 16.
+>> - DC 17.
+>> - Result: Failed by 1. Still grappled.
+>> - Action 2: Escape (using Acrobatics, takes MAP -4).
+>> - Rolled 31 without MAP, -4 = 27.
+>> - DC 17.
+>> - Result: Critical success! Beltias Kreun escapes. (Cannot use the bonus 5 ft Stride because he is prone.)
+>> - Action 3: Stand.
+>> - Beltias Kreun is now standing, no longer prone or grappled, but still adjacent to the construct.
+>> - End of Round 3.
 
 > Sinhow's turn. Round 3.
 >> - Sinhow's movement speed: 25 foot land speed.
@@ -375,4 +386,22 @@
 >> - **Bell Tower**: Rises from the 1st floor at the back of the temple. The tower is 80 feet tall, making the peak 100 feet from ground level.
 >> - **Note**: The "base of the spiral stairs" refers to the 1st floor, NOT ground level. Characters descending the stairs arrive on the 1st floor and must still exit the building (via hallway and window) to reach ground level outside where Kreun fell.
 >> - **Window Jump**: Characters jumping from the 1st floor window fall approximately 10-15 feet to ground level. Sinhow broke the window on his jump, so subsequent characters take no glass damage.
+
+> WHERE EVERYONE IS (End of Round 3).
+>> - **Top of Bell Tower (100 ft):**
+>> - Rax (at edge of platform).
+>> - **32.5 ft up main spiral staircase:**
+>> - Professor Filiaur Bluestar.
+>> - **25 ft up main spiral staircase:**
+>> - Yaseitori.
+>> - **10 ft up main spiral staircase:**
+>> - Necrila.
+>> - **Bottom of spiral staircase (1st floor):**
+>> - Lenma Moonshine.
+>> - **1st floor hallway:**
+>> - Sinhow (10 ft from base of tower, heading toward window).
+>> - Cardigan (near the bell-tower room, heading toward exit).
+>> - **Ground level outside temple (adjacent to each other):**
+>> - Beltias Kreun (standing, injured).
+>> - Professor's Construct Companion.
 
