@@ -1,282 +1,184 @@
-# Campaign~6-Kibwe.
+# Campaign #6: Kibwe
 
-Start typing here…
+**Campaign Start:** 22nd & 23rd April 2023  
+**Format:** In-person sessions + Play-by-Post
 
-## Campaign #6 = Kibwe = 22nd & 23rd April 2023.
+---
 
-## Rules.
+## Campaign Overview
 
-No humans for story reasons.
+The city of Kibwe faces an existential threat. A magical cursed disease is transforming every human within its walls into slime—and time is running out. The party must retrieve a sacred artifact from the demon-haunted ruins of Holy Xatramba to save the city before it's too late.
 
-I recommend you check out the 3rd party race section!
+---
 
-[Rarity-Lock-Status-Tracker.md](PW~Rarity-lock-status-tracker.md)
+## The Story So Far
 
-## Lore.
+### The Curse
 
-> The current story.
->> - The statue known as Curse Breaker (ram) is one of the animal statues that once sat upon the walls of the city of Kibwe. 
->> - Curse Breaker many years ago was taken down from the walls of Kibwe and placed in the Temple of the Sun Archive.
->> - The statue is said to have the power to break curses, and it is believed that it was once used to protect the city from evil spirits and curses.
->> - The sun priests of Kibwe have long revered the statue, and it is considered a sacred relic of the city.
->> - Caster classes have long since been able to use the statues as a source of spell slots.
->> - The statue has been stolen! Taken to the lost holy city (now turned demon-infected city) of Xatramba.
->> - The ruins of Holy Xatramba (sometimes also spelled Xatremba) lie in the eastern jungle of the Mwangi Expanse, southwest of the city of Kibwe.
->> - The party is tasked with retrieving the statue and returning it to Kibwe.
->> - Time is running short as a magical cursed disease is turning every human in Kibwe into a SLIME!
->> - Can the party retrieve the statue and save Kibwe before it is too late?
+A terrible magical plague has begun spreading through Kibwe. Humans exposed to the curse undergo a horrifying transformation, their bodies slowly converting to ooze. Without intervention, the entire human population will be lost.
 
-> Each main character has a connection to Curse Breaker.
->> - Curse breaker has granted each of the main characters at the least access to dual class.
->> - The character may have gained other aspects of their character's build from their connection to Curse Breaker.
->> - Alternatively, non-mechanical aspects may also come from curse breaker. 
->> - Such as a birthmark, a tattoo, a scar, a piece of jewellery, a trinket, a memento, a keepsake, a memory, a dream, a vision, a feeling, an emotion, etc.
+### The Curse Breaker
 
-## What is Kibwe?
+The statue known as **Curse Breaker** (a sacred ram) was once one of the animal statues mounted upon Kibwe's walls. For generations, it protected the city from evil spirits and curses. The sun priests revered it as a sacred relic, and caster classes have long drawn spell slots from its power.
 
-Kibwe is a large, walled trading and mining town with a diverse population of Mwangi humans and other non-humans.
+The statue was moved from the walls to the **Temple of the Sun Archive** for safekeeping—but it has been stolen and taken to Holy Xatramba.
 
-The city is situated in the eastern Mwangi Jungle west of the Ndele Gap.
+### Holy Xatramba
 
-## What is the Ndele Gap?
+The ruins of Holy Xatramba lie in the eastern jungle of the Mwangi Expanse, southwest of Kibwe. Once a magnificent holy city, it was destroyed by demons summoned during an ancient trade war and has been haunted ever since.
 
-The high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south is known as the Ndélé Gap.
+The party journeyed to Xatramba, fought through demon-infested ruins, and successfully retrieved Curse Breaker. Through an elaborate ritual led by Leilani Kana, Eda Stone-Worth was reborn as the living avatar of Curse Breaker herself.
 
-## Original Kibwe party.
+### Return to Kibwe
 
-1. Lorcan.
-2. Ryan.
-3. Paddy.
-4. Rebecca.
-5. Anthony.
-6. James?
+Eda opened a portal directly to Kibwe, and the party followed her through—only to encounter a mysterious red slime woman named **Tal'lysae**, who claims to serve the "Red Flame" and offers an alliance to save the city.
 
-## Original Party Composition.
+---
 
-1. Gringles Snot-Belly = Goblin Fighter + Swashbuckler played by Lorcan.
-2. Cliff Chew-stick = Gunslinger Magus Rat folk Played by Ryan.
-3. ??? = ??? played by Paddy.
-4. Eda "Curse Breaker" Stone-Worth= Dungeon Magus + Witch played by Rebecca.
+## Setting
 
-## Ongoing Notes.
+### What is Kibwe?
 
-Below are the ongoing public notes.
+Kibwe is a large, walled trading and mining town in the eastern Mwangi Jungle, west of the Ndele Gap. It hosts a diverse population of Mwangi humans and non-humans from across Golarion.
 
-## Session #1.
+The city is known for:
+- **Ancient Protective Wards:** Magical statues once lined the walls
+- **The Temple of the Sun Archive:** Repository of sacred artifacts
+- **Diverse Population:** Traders and settlers from many cultures
+- **Strategic Location:** Gateway to the Ndele Gap pass
 
-Part 1 of 3.
+### What is the Ndele Gap?
 
-They talked to Nex diplomat.
+The Ndélé Gap is a high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south—a vital trade route.
 
-They talk to the preacher at sundown.
+---
 
-Khalibi Caravan House
+## Character Creation Rules
 
-They find the book of the demo god.
+### Ancestry Restrictions
+**No humans** for story reasons (the curse affects humans specifically).
 
-Bank Note = 250 GP.
+Third-party ancestries are encouraged! Check the "Rarity Lock Status Tracker".
 
-Apis Consortium.
+### Connection to Curse Breaker
 
-The Ooze-morphing.
+Each main character has a connection to Curse Breaker that manifests as:
+- **Mechanical Benefits:** Access to dual-classing or other build options
+- **Narrative Elements:** Birthmarks, tattoos, scars, jewelry, trinkets, mementos, memories, dreams, visions, or feelings
 
-Hoka took cinnamon and moderate healing potion from the store room.
+---
 
-Ooze Gems.
+## Party Roster
 
-Gringles Snotbelly gets covered in 2,000 ancient preserved scorpions.
+### Current Active Party
 
-The party convinced the scorpions to leave.
+| Character            | Player  | Class/Build |
+|----------------------|---------|-------------|
+| Lorn                 | Horia   | -           |
+| Daichi Kenshin       | Anthony | -           |
+| Tiny                 | -       | -           |
+| Fierce Leopard Cyrus | Ryo     | -           |
+| Tarsus Longstaff     | -       | -           |
+| Kieran               | Tyler   | -           |
+| Leilani Kana         | Eimer   | -           |
+| Akwa                 | -       | -           |
 
-Between session 1 and session 2.
+### Original Party (Session 1)
 
-The party tells the councilwoman,
-and the councilwoman tells them to go to Eda Curse-Breaker The Tower Dungeon’s temple, the sun archive.
+| Character                       | Player                    | Class                         |
+|---------------------------------|---------------------------|-------------------------------|
+| Gringles Snotbelly              | Horia (originally Lorcan) | Goblin Fighter + Swashbuckler |
+| Cliff Chew-stick                | Ryan                      | Gunslinger Magus Ratfolk      |
+| Eda "Curse Breaker" Stone-Worth | Rebecca                   | Dungeon Magus + Witch         |
+| Padraig Dream-Soup              | Jimmy Jack                | Forge-Born Dwarf              |
 
-## Session #2.
+---
 
-The party are at the archive of the Sun.
+## Session Summaries
 
-UNLOCKED: Wand of Noisome Acid by Rebecca.
+### Session #1 (April 2023)
+- Met with the Nex diplomat
+- Spoke with the preacher at sundown
+- Investigated the Khalibi Caravan House
+- Discovered the book of the demon god
+- Obtained a 250 GP banknote from the Apis Consortium
+- Witnessed the ooze-morphing curse in action
+- Acquired ooze gems
+- Gringles Snotbelly had an encounter with 2,000 ancient preserved scorpions (convinced them to leave peacefully)
+- Reported to the councilwoman, who directed them to Eda Curse-Breaker at the Temple of the Sun Archive.
 
-UNLOCKED: Slippery Ribbon
+### Session #2 (April 2023)
+**Location:** Archive of the Sun
 
-UNLOCKED: Oily Button.
+**Unlocked Items:**
+- Wand of Noisome Acid (Rebecca)
+- Slippery Ribbon
+- Oily Button
+- The Wand of Teeming Ghosts (Anthony)
 
-Stage 1.
+**Curse Progression:**
+- Stage 1: Initial symptoms
+- Stage 2: Gringles Snotbelly affected
+- Stage 3: Eda affected
+- Cliff remained unaffected
 
-Stage 2.
-Gringles Snotbelly.
+Gringles Snotbelly acquired a household servant named Marco (15-year-old human male) and Padraig Dream-Soup joined the group.
 
-Stage 3.
-Eda.
+### Session #3 (June 9th, 2023)
+- Crossed a dangerous bridge
+- Jungle dragon encounter
+- Discovered a scene of slaughter with two corpses
 
-Cliff isn't affected.
+### Session #4 (January 6th, 2024)
+**Location:** Holy Xatramba - Plaza of the Feasting Fiend
 
-Archive of the Sun complete.
+- Disarmed 4 chains binding something terrible
+- Fought dinosaurs
+- Recovered: shrunken unicorn head, shrunken ape head, shrunken elven head
+- 3 Hero Points awarded
 
-Gringles Snotbelly steals all loot lol.
+### Play-by-Post Sessions (2024-2025)
+See [Kibwe Play-by-Post Log](C06-Kibwe-PBP.md) for detailed session records.
 
-Gringles Snotbelly buys household slave.
+**Major Events:**
+- Defeated the fiend and cultists in the Plaza
+- Performed the ritual to rebirth Curse Breaker
+- Eda Stone-Worth became the living embodiment of Curse Breaker
+- Opened a portal back to Kibwe
+- Encountered Tal'lysae, the Red Slime Woman
+- Tentatively allied with the Red Flame to save the city
 
-Male.
+---
 
-Skinniest, tanned, weak, submissive.
+## Notable NPCs
 
-15 Years Old.
+### Allies
+- **Eda "Curse Breaker" Stone-Worth:** The reborn avatar of Curse Breaker, now leading the party back to save Kibwe
+- **Tal'lysae:** A mysterious red slime woman who serves the "Red Flame" and offers alliance
 
-Slaver + Marcos The Human Slave are both infected.
+### Former Party Members
+- **Gringles Snotbelly:** Goblin Fighter/Swashbuckler
+- **Cliff Chew-stick:** Ratfolk Gunslinger/Magus
+- **Padraig Dream-Soup:** Forge-Born Dwarf, known for his clan's Dream Soup that restored morale to deep miners
 
-Paddy the Dwarf.
+### Antagonists
+- **Theron (Nyamat Mshwe):** Captured by the party, thrown through the portal to Kibwe
+- Various demon cultists of Holy Xatramba
 
-GS is caved into Marco’s forehead.
+---
 
-Gringles Snotbelly hands Paddy 15 GP.
+## Lore Notes
 
-Paddy Dream-Soup joins the group.
+### Padraig Dream-Soup's Heritage
+Padraig is a Forge-Born dwarf. His clan has long crafted a version of Dream Soup for the deep miners of Sky Citadels. Those dwarves who consumed the Dream Soup would have their morale raised and their psyche restored.
 
-Paddy Dream-Soup is a Forge-Born, his clan has long made a version of Dream Soup for the deep miners of Sky Citadels.
+### The Curse's Nature
+The magical curse transforms humans into slime creatures. Even with Curse Breaker's intervention, affected humans may be permanently changed.
 
-Those dwarves who consumed the Dream Soup would have their morale raised, and their psyche restored.
+---
 
-UNLOCKED: The Wand of Teeming Ghosts by Anthony.
+## Current Status
 
-## Session #3. 2023 June 9th.
-
-Bridge.
-
-Jungle Dragon fight.
-
-Scene of Slaughter.
-
-Two corpses.
-
-## Session #4. 2024 January 6th.
-
-Showed up players: Anthony, Jimmy Jack, Rebecca, Ryan, Horia.
-
-Cliff Chew-stick = Ryan.
-Daichi Ken-shin = Anthony.
-Eda “Curse Breaker” Stones-Worth = Rebecca.
-Gringles Snotbelly = Horia.
-Padraig Dream-Soup = Jimmy Jack.
-
-Map 5. Scene of Slaughter.
-
-In the holy city.
-
-In the plaza of the feasting fiend.
-4 chains remaining.
-Gringles disarms, 3 chains remaining.
-Cliff disarms, 2 chains remaining.
-
-Pronounced: Pod-rig.
-
-Disarm by Padraig: 1 Chain Remains.
-Final chain disarmed.
-
-Dinosaur fight.
-Shrunken unicorn head, shrunken ape head, shrunken elven head.
-3 Hero points awarded.
-
-## Play By Post. 2024 August 18th.
-
-Fiend battle.
-- Fiend x 1.
-- Cultists x 2.
-
-Tiny's turn.
-- A1&2: Stride.
-- A3: Trips the cultist.
-
-Daichi Kenshin's turn.
-- A1: Stride.
-- A2: Take cover.
-- A3: Demoralise. 21, Success! 
-- Reaction: Invigorating fear. +5 temporary HP.
-
-Eda "Curse Breaker" Stones-Worth's turn.
-- A1: Stride.
-- Free action: Device a stratagem. Rolled a 1. 
-- A2&3: Fireball. Cultist #2 fails. 22 points of fire damage.
-
-Two players left.
-- @buffetraider
-- @RyoYamakawa
-
->> - Kibwe first play by post-message: https://t.me/Path_Wars/40585/40963 
-
-## Play By Post. 2025 September 14th.
-
-> Leilani Kana rebirths Curse Breaker.
->> - As Tarsus and Kieran wove their threads of the ritual into completion, the primal harmonies converged upon Leilani with inexorable purpose. 
->> - She stood at the nexus of forces both divine and primordial, her very essence becoming the conduit for something far greater than mere spellcraft. 
->> - This was blood calling to blood, soul recognising soul across the veil of mortality itself. 
->> - The phoenix fire that had once consumed her death now blazed anew within her veins.
->> - This is not borrowed power, but as inheritance rightfully claimed. 
->> - Each syllable of the incantation drew forth memories carved in flame and shadow: the searing bite of emerald fire, the taste of her own blood on foreign soil, and then that first, impossible breath of rebirth. 
->> - The Curse Breaker had reached through the boundary between worlds to reclaim her from oblivion's embrace, and now she would return that magnificent transgression in kind. 
->> - Crimson light spilled from her outstretched palms, each droplet of mystical essence carrying fragments of Eda's scattered form back toward its destined vessel. 
->> - The air itself seemed to thicken with anticipation as flesh-wrought magic sought its ancient home. 
->> - Leilani felt the familiar weight of divine attention settling upon her shoulders—not the crushing burden of judgment, but the warm recognition of a shepherd tending to her flock. 
->> - The statue's obsidian eyes kindled with inner fire, and at that moment of awakening, Leilani understood with crystalline clarity that she was no longer the frightened shepherd girl who had bled out beneath alien stars. 
->> - She had become something far more dangerous and beautiful: the willing instrument of resurrection itself, the mortal hand that dared to reverse the irreversible. 
->> - As radiance flooded the chamber with golden intensity, something primal stirred within her throat. 
->> - The song that emerged was older than words, a melody that seemed to rise from the very marrow of creation. 
->> - It spoke of death conquered, of bonds that transcended flesh, of the terrible mathematics of sacrifice and renewal. 
->> - Her voice wove through the ascending light like silver thread through cosmic fire, giving form to the shapeless joy of a god's return to the world.
-When silence finally reclaimed the chamber, it carried within it the weight of completed destiny. 
->> - The debt had been paid. 
->> - The shepherd had become the saviour of her own salvation.
-
-> Curse Breaker is reborn.
->> - Eda "Curse Breaker" Stones-Worth's body is gone burned to ash in the fire of the phoenix.
->> - Curse Breaker glows with a golden light, blinding in the dim chamber.
->> - The party cannot see.
->> - But as the light gently fades, they see a figure standing where Curse Breaker once stood.
-
-> Eda Stone-Worth The Curse Breaker:
->> - "I must return to the temple of the sun."
->> - "Those who must be purged are there."
->> - "And I must connect myself to the city once more."
->> - Path Wars, [23/09/2025 05:39]
->> - Eda Stone-Worth The Curse Breaker does not hesitate. 
->> - Eda Stone-Worth The Curse Breaker turns to the wall walks THROUGH the wall.
->> - The wall shatters, leaving a huge 'Eda-shaped' gap. 
->> - Path Wars, [23/09/2025 05:40]
->> - Eda Stone-Worth The Curse Breaker, now in the courtyard, looks up at the sun. 
->> - Eda closes her eyes, face tilted up towards the sun and with a sudden clap of her hands, opens a portal. 
->> - As the party gazes into the portal, you see the impossibly tall walls of your city; it is a portal to Kibwe!
->> - Eda Stone-Worth The Curse Breaker steps through the portal. 
->> - It will close in less than 30 seconds, what does the party do!?
->> - On the other side of the portal, Eda Stone-Worth seems to be standing in front of a female red slime woman who has just appeared in front of Eda.
->> - It is Lysae, slimed.
-
-> Antoine / Anthony = Allisee, [23/09/2025 05:58]
->> - "Well, at least the return trip will be less tedious." 
->> - "Come one people do not just stand around! Let us follow the curse breaker."
->> - Daichi grabs Theron:
->> - "And you are coming too."
->> - And I throw him in the portal and walk in too.
-
-> Roster.
->> - #1 Lorn. Horia. @Nemesiux
->> - #2 Daichi Kenshin. Anthony. @MrNegetZ
->> - #3 Tiny. @errror01
->> - #4 Fierce Leopard @RyoYamakawa
->> - #5 Tarsus Longstaff. @buffetraider
->> - #6 Kieran. @Linksanelf2006
->> - #7 Leilani Kana. @HistoricallyInaccurate
->> - #8 Akwa. @Askarans
-
-> Going through the portal?
->> - Not yet.
->> - #1 Lorn. Horia. @Nemesiux
->> - #3 Tiny. @errror01
->> - #5 Tarsus Longstaff. @buffetraider
->> - #6 Kieran. @Linksanelf2006
->> - #7 Leilani Kana. @HistoricallyInaccurate
->> - #8 Akwa. @Askarans
->> - Yes!
->> - #2 Daichi Kenshin. Anthony. @MrNegetZ
->> - #4 Fierce Leopard @RyoYamakawa
+**Location:** Outside the walls of Kibwe 
+**Objective:** Work with Tal'lysae and Eda to restore the city's wards and purge whatever threatens the Temple of the Sun 
+**Immediate Concern:** Tal'lysae has sensed a disturbance—something is happening.
