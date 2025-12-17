@@ -1,3 +1,276 @@
 # C04-Consulting-Detective-Báyakan
 
-Start typing here...
+Out of character.
+
+Question: Player Name?
+Answer: Chase
+Question: Campaign Name?
+Answer: Agents of MagiWatch
+Core.
+
+Question: What is your character's name?
+Answer:Báyakan Tiktik
+Question: What does your character's first name mean?
+Answer:In real world Filipino, it means Megabat, usually specifically a flying fox.
+Question: What does your character's last name mean?
+Answer: Again, in Filipino, this means sleuth, or spy. Thus the entire name said together is a pun, making the character literally "The Great Bat Detective"
+Question: Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"
+Answer: Consulting Detective.
+Age.
+
+Question: How old is your character?
+Answer: 45
+Question: What year was your character born?
+Answer:4665
+Question: What day is your character's birthday?
+Answer:27 Neth
+Question: At what age did the character become an adventurer?
+Answer:40
+Class #1.
+
+Question: What is your character's class?
+Answer:Investigator
+Question: Does your character enjoy their class?
+Answer: Yes
+Question: How did your character become their class?
+Answer: Innate curiosity, coupled with a desire to know things, mostly.
+Question: Who trained your character in their class?
+Answer:Local detectives, who helped hone his natural eclectic talents in order to make his efforts to help less distracting.
+Class #2. (If using dual class) Normally dual class is gained during a session via a powerful artefact or a given boon. You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.
+
+Question: What will/is your character's 2nd class be?
+Answer: Psychic
+Question: Does/Will your character enjoy their 2nd class?
+Answer: Who wouldn't enjoy magic granted by a strong mind?
+Race
+
+Question: What is your character's Race?
+Answer: Sprite
+Question: What is your character's Sub-Race?
+Answer: Nyktera
+Question: Has your character met other members of their race?
+Answer: Yes
+Question: Does your character like your race?
+Answer:Odd phrasing, but he's content with what he is.
+Question: Does your character like any races in particular? Why?
+Answer:All species are curious to study, in their own ways.
+Question: Does your character hate any races in particular? Why?
+Answer: Anything naturally predatory to bats and bat-like beings.
+Parents and Family.
+
+Question: Where was your character born?
+Answer: Within a hidden community of Nyktera within Magnimar
+Question: Where were you raised?
+Answer: Partially in Magnimar, partially in the First World
+Question: Who raised your characters?
+Answer: Other Nyktera. While he is aware of who his parents are, the entire community takes part in raising offspring.
+Question: Who are your parents?
+Answer:Just a pair of sprites.
+Question: What are your parents' names?
+Answer: 
+Question: Are your parents alive?
+Answer:Yes
+Question: What did your parents do for a living?
+Answer: 
+Question: Do you have any other family or friends?
+Answer: The manner in which sprites tend to be raised renders all sprites from his enclave of basically the same age his "brothers" and "sisters." Sprites of other types may be greeted as "cousins."
+Love.
+
+Question: What is your character's sexuality?
+Answer: Heteroflexible
+Question: What is your character's marital status?
+Answer: Single, though unlikely to marry
+Question: Does your character have kids?
+Answer: No
+Question: Does your character want kids?
+Answer: Not particularly
+Question: Is your character in love?
+Answer: Not currently
+Question: Has your character ever been in love?
+Answer: Probably not. Forty five is a little young for a sprite.
+The Mind | Thoughts and Feelings.
+
+Question: What is your character's alignment?
+Answer:For his own purposes, CG
+Question: What is your character's moral code?
+Answer:Complex, and difficult to comprehend.
+Question: Does your character have goals?
+Answer:Studying the tall folk, and their legal system.
+Question: Does your character follow a God?
+Answer: Yes
+Question: What God (if any) does your character follow?
+Answer:The Eldest, with Count Ranalac and Ragadahn at slightly higher import than the others.
+Question: What are your character's personal beliefs?
+Answer:There is magic in all things, and all magic is worth studying.
+Question: Does your character have any personality quirks?
+Answer:Insatiable curiosity.
+Question: Are they anti-social?
+Answer:No.
+Question: Are they Arrogant?
+Answer:Yes.
+Question: Are they Optimistic?
+Answer:Not really.
+Question: Are They Paranoid?
+Answer:It's not paranoia if you're right, even just the once.
+Question: Why does your character adventure?
+Answer:To better study the tall folk, and hone his powers both deductive and magical.
+Question: How does your character view his/her role as an adventurer?
+Answer:There are endless questions that need answering, and somebody's gotta do it.
+Question: How does your character get along with others?
+Answer:With a fang filled smile and a tip of the hat, mostly.
+Question: Is there anything that your character hates?
+Answer:Unanswered questions. Asking forgiveness.
+Question: Is there anything that your character fears?
+Answer:Being eaten by something bigger with unanswered questions still pending.
+Question: What sin does your character align with closest? Greed, Pride, Lust, Envy, Gluttony, Wrath or Sloth?
+Answer: Pride.
+Question: What apocalypse would your character most likely cause: War, Famine, Pestilence or Death?
+Answer:Death
+The Body | Biological Appearance.
+
+Question: What does your character look like?
+Answer:A humanoid bat.
+Question: Gender?
+Answer:Male
+Question: Height?
+Answer:Eight inches.
+Question: Weight?
+Answer:Four ounces or so.
+Question: Skin colour?
+Answer:Ashy grey
+Question: Eye colour?
+Answer:Black
+Question: Hair colour?
+Answer:Brown
+Question: Hair length?
+Answer:Shoulderish
+Question: Hairstyle?
+Answer:Aerodynamic spikes
+Question: Physique and body shape?
+Answer:Average build relative to size. Wings are membrane and affixed to the underside of the arms all the way to the wrist.
+Question: What additional attributes would be noticed upon meeting the character?
+Answer:A habbit of flying up to land on something vaguely eye level (another humanoid's shoulder, bar counter, etc) to whoever he's talking to.
+Question: How do they Speak?
+Answer:Directly.
+Question: What are their Mannerisms?
+Answer:Questions. Always with the questions.
+Question: Does your character have any distinguishing marks?
+Answer:Wings. Prominent fangs.
+Question: Do they have birthmarks?
+Answer:No
+Question: Do they have Scars?
+Answer:No
+Question: Do they have Deformities?
+Answer:No
+Question: Is your character attractive?
+Answer:Are large bats attractive?
+Question: Whatever is applicable: Cock Size? Breast Size? Cock Size = 2d6 for inches. 1d10 for decimal place. If you roll 7 and 5, you get a 7.5-inch dick.
+Answer:It's proportional. Also this is a really weird entry.
+Question: Any aspects of your character that are unusual?
+Answer:Most of them.
+Weapons.
+
+Question: What kind of weapons does your character fight with?
+Answer:A whip, if a physical weapon is needed.
+Question: What does your character's weapon look like?
+Answer:A few feet long length of leather.
+Question: Who made your character's weapon?
+Answer:Another sprite.
+Question: Who added the runes to your character's weapons?
+Answer:No runes so far.
+Question: Who trained your character in using weapons?
+Answer:Basic self defense is taught at home.
+Question: Does your character like using weapons?
+Answer:Unlikely.
+Armour.
+
+Question: What kind of armour does your character wear?
+Answer:Functionally explorer's clothing.
+Question: What does your character's armour look like?
+Answer:A fairly well made suit.
+Question: Who made your character's armour?
+Answer:As with anything at the right size to be used, probably another sprite.
+Question: Who added the runes to your character's armour?
+Answer:No runes.
+Question: Who trained your character in wearing armour?
+Answer:This also falls under self defense.
+Question: Does your character like wearing armour?
+Answer:Absolutely not. Armor just slows you down.
+Magic
+
+Question: What kind of magic does your character use?
+Answer:Mentalism.Especially divination spells designed to see things beyond normal sight.
+Question: Does your character like magic?
+Answer:Yes.
+Question: Is your character magical?
+Answer:Extremely.
+Question: How is your character magical?
+Answer:Magic runs in a sprite's blood. But in his case, also in his mind.
+Question: Who trained your character in using weapons?
+Answer:Undoubtedly one of the sprites that helped raise him.
+Question: Does your character like using weapons?
+Answer:Not particularly.
+Question: Do you have any magical items? Staff? Wands?
+Answer:Not yet.
+Question: Where did you get your magical items?
+Answer:
+Spell Caster.
+
+Question: Can your character cast spells?
+Answer:Yes
+Question: What tradition is your character's magic? Arcane? Primal? Divine? Occult?
+Answer:Occult
+Question: Where does your character's magic come from?
+Answer:Years of practice at releasing the potential of the mind.
+Question: Who trained your character to use your magic?
+Answer:Other sprites.
+Question: What does your character like to do with your magic?
+Answer:Learn things.
+Question: What is the highest level spell slot your character has access to?
+Answer:One. So far.
+Equipment.
+
+Question: Does your character have a backpack?
+Answer:Yes
+Question: What does your character's backpack look like?
+Answer:A messenger style bag.
+Question: Does your character have a bag of holding?
+Answer:Not yet.
+Question: What does your character's bag of holding look like?
+Answer:
+Food and Drink.
+
+Question: What does your character like to eat?
+Answer:Steaks served just above rare.
+Question: What does your character not like to eat?
+Answer:Fish
+Question: What does your character like to drink?
+Answer:Water, small amounts of expensive alchohol.
+Question: What does your character not like to drink?
+Answer:Beer. Tea.
+Question: Does your character cook?
+Answer:Enough to be particular about what he eats.
+Question: Does your character drink alcohol? If so, how heavily?
+Answer:A drink with meals, at most.
+Question: Do they partake in Drugs?
+Answer:Sometimes.
+Alignment Scale.
+
+Question: What is your character's alignment scale?
+Answer:12,5
+Go to this page to find out your alignment scale:
+https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
+Plot hooks.
+
+You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around.
+
+Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? 
+Answer : Goals are generalized as studying the behavior of the tall folk, growing more magically powerful, fully mastering the use of his wings. The longer term stuff will take centuries, and should be beyond the scope of his adventure.
+Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party?
+Answer:Less deliberate secrets that are being hidden, and more the capricious nature of the fae.
+Part 3 of 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. 
+Answer:As a consulting detective, it is certain that he can find common ground with more rank and file officers out in the field.
+Backstory.
+
+Question: Finally, what is your character's backstory?
+Answer:In the immediate, campaign relevant sense, the mana poisoning incident is fascinating, from a magical studies perspective. While he was already studying the local constables from within their organization, the sheer number of people affected by the recent poisoning caused a transfer request. Clearly the affected officers are best studied up close.
