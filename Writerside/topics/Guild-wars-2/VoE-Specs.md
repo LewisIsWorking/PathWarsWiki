@@ -4,11 +4,11 @@
 >> - Ranger: Gale-shot.
 >> - Necromancer: Ritualist.
 >> - Revenant: Conduit.
+>> - Warrior: Paragon.
 
 > In progress:
->> - Warrior: Paragon.
 >> - Rogue: Antiquary.
 >> - Elementalist: Evoker.
 >> - Guardian: Luminary.
->> - Mesmer: Troubadour..
+>> - Mesmer: Troubadour.
 >> - Engineer: Amalgam.

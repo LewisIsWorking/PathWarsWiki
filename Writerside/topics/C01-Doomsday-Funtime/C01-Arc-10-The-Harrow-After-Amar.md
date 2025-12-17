@@ -189,3 +189,8 @@
 >> - Selenor -> Fuq Tank -> All of Anthony's characters.
 >> - Fuq Tank gets their first kill of the campaign!
 >> - Haku needs to roll against Daemonic plague after the fight.
+
+> Combat over.
+>> - Cardigan hits level 13.
+>> - Derek is alive but shaking with fear.
+>> - We are doing a bit of play by posting.

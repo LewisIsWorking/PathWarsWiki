@@ -190,6 +190,77 @@ By the time he stops to catch his breath, he's barely a quarter of the way down.
 >> - #6 Cardigan Green | Eldamon-trainer and dragon-blessed sorcerer | @PathWars.
 
 > Waiting on.
->> - Professor Filiaur Bluestar's turn. @MrNegetZ
+>> - Professor Filiaur Bluestar's turn. Professor Filiaur Bluestar has 30 feet (land speed). @MrNegetZ
 >> - Rax's turn. @RyoYamakawa
 >> - Mad Rat's turn.
+
+---
+
+> Professor Filiaur Bluestar's turn. Round 4.
+>> - Starting: 32.5 ft up main spiral staircase.
+>> - Action 1: Stride (Speed 30 ft) — down stairs to 1st floor.
+>> - Action 2: Stride (Speed 30 ft) — through hallway to window edge.
+>> - Action 3: Command construct — Grapple (rolled 18, fail), Reposition (fail).
+>> - **End: At window edge, 1st floor.**
+
+Professor Filiaur Bluestar descends the remaining stairs and rushes through the hallway, skidding to a halt at the shattered window. Below, she can see the chaos unfolding — her construct grappling at Kreun, her allies surrounding him.
+
+She barks a command to her construct, but Kreun twists away from both the grapple attempt and the follow-up repositioning. The construct's brass fingers close on empty air.
+
+---
+
+> Rax's turn. Round 4.
+>> - Starting: 100 ft (top of bell tower).
+>> - 3 × Stride (Speed 35 ft = 105 ft total).
+>> - Path: 35 ft down final stairs + 15 ft across Kreun's room + 55 ft down main spiral = 105 ft.
+>> - **End: 10 ft up main spiral staircase.**
+
+From the top of the bell tower, Rax can see the situation unfolding below — Kreun back on his feet, the construct looming beside him, and his allies pouring out of the temple. The ratfolk abandons his position on the platform and bolts for the stairs.
+
+He descends as fast as his legs will carry him, tearing through Kreun's abandoned room and into the main spiral staircase. His alchemical bandolier rattles against his chest with every step, vials clinking together. The tower seems endless.
+
+By the time he stops to catch his breath, he's barely a quarter of the way down.
+
+---
+
+> Mad Rat's turn. Round 4.
+>> - Action 1: Strike (crossbow) — miss.
+>> - Action 2: Reload.
+>> - Action 3: Strike (crossbow) — miss.
+>> - **End: Top of bell tower (100 ft).**
+
+Mad Rat steadies his crossbow against the platform railing, sighting down at Kreun far below. The bolt flies wide, clattering off cobblestones. He curses, reloads with practised speed, and fires again. Another miss — the range and the chaos of melee making precision impossible.
+
+---
+
+> Round 4 Combat Tracker (Updated).
+>> - COMBAT.
+>> - Encounter name = The Bell Tower of Beltias Kreun.
+>> - Round = 4.
+>> - **All party members have acted.**
+>> - Acted:
+>> - #1 Necrila ✓
+>> - #2 Professor Filiaur Bluestar ✓
+>> - #3 Sinhow ✓
+>> - #4 Yaseitori ✓
+>> - #5 Lenma Moonshine ✓
+>> - #6 Cardigan Green ✓
+>> - #7 Rax ✓
+>> - Mad Rat ✓
+>> - **NEXT UP: Beltias Kreun's turn.**
+
+> WHERE EVERYONE IS (End of Round 4, Party Side).
+>> - **Top of Bell Tower (100 ft):**
+>> - Mad Rat.
+>> - **At window edge (1st floor):**
+>> - Professor Filiaur Bluestar.
+>> - **10 ft up main spiral staircase:**
+>> - Rax.
+>> - **Ground level outside temple:**
+>> - Sinhow (standing).
+>> - Cardigan (standing).
+>> - Lenma Moonshine (standing, adjacent to Kreun).
+>> - Necrila (standing).
+>> - Yaseitori (**prone**).
+>> - Professor's Construct (adjacent to Kreun).
+>> - Beltias Kreun (standing, **badly injured**).
