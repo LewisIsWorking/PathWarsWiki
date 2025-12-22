@@ -194,3 +194,13 @@
 >> - Cardigan hits level 13.
 >> - Derek is alive but shaking with fear.
 >> - We are doing a bit of play by posting.
+
+## Session 265.
+> 2025 December 20th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 5.
+>> - IRL start time: 00:17.
+>> - Delay duration: 4 hour & 17 minutes.
+>> - Players present: Horia, Anthony and Cortez.
+
+> 17:00 -> 17:20 (20 minutes of treat wounds).
+>> - Derek is still on the ground.
+>> - Derek finds out that Jacky is dead, killed by the daemons.

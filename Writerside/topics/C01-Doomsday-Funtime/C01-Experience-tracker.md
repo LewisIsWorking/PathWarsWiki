@@ -927,6 +927,9 @@ Monster parts:
 >> - Level 12: 30 x 1 = 30.
 
 > Daemonic assassins x 9.
+>> - Monster parts: 140 x 9 = 1260 GP. Medium size.
+>> - Loot:
+>> - +1 striking composite shortbow (20 arrows), lesser darkvision elixir, giant centipede venom (3), invisibility potion, leather armor, +1 rapier, simple injury poison (8 doses, 2d4 poison damage), sleep poison (2)
 >> - Level 11: 20 x 9 = 180.
 >> - Level 12: 15 x 9 = 135.
 
