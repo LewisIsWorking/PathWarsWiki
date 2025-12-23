@@ -216,3 +216,73 @@
 >> - "The Minkaian Trade House is 1.7 miles northeast. Estimated walking time: 21.67 minutes."
 >> - "Korvosan agents have operated in the Dockway before."
 >> - "Remain vigilant."
+
+---
+
+## The Walk to the Trade House
+
+> Báyakan, smiling outwardly, follows along. To the other flesh and blood folk, he says cheerfully:
+>> - "Good to know we are not, currently, classified as an internal threat. Nothing ominous about that at all. Absolutely no sense in looking into any of that at any soon point."
+
+> Though he himself could likely shave time off that twenty minute walk, he keeps steady pace behind the golem.
+
+> Changer:
+>> - "You must understand."
+>> - "<FETCHING RECENT EVENTS OF THREAT LEVEL 1 OR HIGHER>"
+>> - "In the last 15 months the city has experienced severe turmoil."
+>> - "A high judge turned out to be running a murder cult."
+>> - "A leviathan from legend was released from a magical lake/river dam prison by an elder devil."
+>> - "A hoard of sea crabs attacked a fishing tournament."
+>> - "A guild of goblin mercenaries attacked the city."
+>> - "A hive of succubi attempted to open a permanent portal that would create a flow of millions (or more) succubi."
+>> - "Kobold nests were discovered and destroyed in the sewers."
+>> - "A string of murders were stopped when the serial killer behind it was found and eliminated in Standpoint."
+>> - "The arch devil Mammon temporarily manifested inside of an ancient summoning circle, cursing two citizens of the city to a damned infernal afterlife."
+>> - "One of those two individuals went on to sell the souls of 114 homeless people to Mammon."
+>> - "We have an ongoing were-rat issue."
+>> - "3 ancient super battery artifacts (3 of the 7 sin slices) were discovered and retrieved, drawing international attention to the city."
+>> - "A Magnimarian outpost tower was found to be corrupt and infested by dark magic and evil creatures."
+>> - "The famous Magnimarian adventurer Imron The Harrower turned out to be a corrupt serial killer and had to be captured, not before he killed many civilians and disintegrated an adventurer (Amar)."
+>> - "An aasimar attempted a blood ritual to gain demonic demon powers of Lamashtu the goddess of demonmind."
+>> - "An army of giantkind invaded our land, wiping out a stronghold and the army within, leaving only 3 survivors out of hundreds."
+>> - "A gambling boat stole people's souls."
+>> - "A giant wheel that...."
+
+> Changer stops talking for a moment:
+>> - "...Your clearance isn't high enough for that."
+>> - "In the last few days we've had 1,000 important people go into a coma like state, suffering from a worse version of what you all now suffer from."
+>> - "And Amar Rookmoon, the harrower, one day master of fate itself is now banished/dead."
+
+> Changer concludes:
+>> - "And that is only a portion of what has happened in the last 12 months... Some of which is not known to the general public, most of which is publicly available knowledge."
+
+> Báyakan laughs and nods along genuinely happily with the news reel feed. While some of it seems to be news to him, he stops for a brief moment to check himself for thus far unknown signs of being affected by the mana poisoning.
+>> - "Pretty sure my transfer came a little late to have been stricken with the illness. Studying those that were up close was actually one of my motivations to be here in the first place. The rest of what you're describing is just why my people even have a presence in Magnimar... The city is so fascinating. Always some calamity, magical or political or both going on."
+
+> Akuma, when Changer mentions the 1,000 people, glances at the pauldron of his uniform, confirming it covers the mark left from the attack.
+>> - "Are the two Amar's the same person? Or is it just a common name in these parts?"
+
+> Changer:
+>> - "This is the 2nd time Amar Rookmoon Harrower of the Harrow has been pronounced effectively dead within 6 months."
+
+> Akuma nods like he understands, but he most certainly does not.
+>> - "So, if patterns are a thing, there's a fifty-fifty chance that he's still alive."
+
+> Báyakan:
+>> - "Should we chance upon this Amar, remind me to ask how one recovers from disintegration. Effectively dead is quite a turn of phrase. Distinct from actually dead."
+
+> During the walk, the sprite jots down a few more notes, settling on the question: *Why is Changer tasked with keeping tabs on the Magni Watch?* A small mystery this might be, but it seems worth checking into... at least until something more interesting comes along.
+
+> Changer:
+>> - "Amar was resurrected via the combined efforts of the Heroes of Magnimar & the Cathedral of Abadar."
+
+> Changer:
+>> - "Both times Amar was dead, as they are currently."
+
+> Akuma shrugs playfully:
+>> - "Just noting that it hadn't stopped him before. Bet he has some great tales."
+
+> He looks around the area, trying to not let the welcome distraction be too distracting.
+
+> Báyakan, after pursuing this strange lead, gets his eyes back up as well. To the suggestion of being resurrected despite being disintegrated, he whistles a little.
+>> - "Sounds expensive. Sign me up for that guy's insurance plan."

@@ -1,13 +1,15 @@
 # C01-Riddleport
 
-Level 2.
+> Current level: Level 2.
 
 > Main characters.
->> - Cardigan Green. Eldamon trainer and dragon blessed sorcerer.
->> - Necrila. Fighter and justice champion.
->> - Prof. Filiaur Bluestar. Runesmith and School of Ars Grammatica Spell Substitution wizard.
->> - Sinhow. Fighter and seer animist. 
->> - Yaseitori. Flurry Ranger and Monk.
+>> - Cardigan Green. Dragon Blooded Gnome, Eldamon trainer & dragon blessed sorcerer.
+>> - Lenma Moonshine. Winter Cat-folk, Monk & Chalice Thaumaturge.
+>> - Necrila. Human nephilim, Fighter & justice champion.
+>> - Prof. Filiaur Bluestar. Versatile human, Runesmith & School of Ars Grammatica Spell Substitution wizard.
+>> - Rax. ??? Ratfolk Chirurgeon Alchemist & Thief Rogue.
+>> - Sinhow. Fruit leshy, Fighter & seer animist. 
+>> - Yaseitori. Dog-tooth Tengu, Flurry Ranger & Monk.
 
 > 2025-09-10th.
 >> - The party are in St. Caspian's Salvation.
@@ -29,4 +31,4 @@ Level 2.
 >> - The hallway is on the 2nd floor of the temple.
 
 > Beltias-Kreun-fight.md
->> See: topics/C01-Riddleport/Beltias-Kreun-fight.md.
+>> - See: topics/C01-Riddleport/Beltias-Kreun-fight.md.

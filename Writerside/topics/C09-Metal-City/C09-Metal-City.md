@@ -9,6 +9,10 @@
 >> - @Askarans
 >> - 6/6
 
+> Characters ready:
+>> - @Linksanelf2006. Character = Joo-Dee
+>> - 1/6.
+
 > Stages.
 >> - Stage 1. Battle of Nova Rush.
 >> - Stage 2. Murder in Metal city.
