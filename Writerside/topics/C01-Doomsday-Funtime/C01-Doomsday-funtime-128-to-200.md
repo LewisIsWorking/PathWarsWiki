@@ -1152,7 +1152,7 @@ Allissee uses the 245 gold of the 600 dead bug bears to make 2 potions of flying
 
 They free the prisoners.
 
-Yarl’s Sanctum.
+Yarl's Sanctum.
 
 Brambleson joins the party.
 
@@ -1290,7 +1290,7 @@ Allissee’s dad hires the leshys.
 
 Noble woman
 
-## Session 182 = Sunday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady’s Light Moon Flower Ice Dragon.
+## Session 182 = Sunday 15th July 2023 + Oathday 21st Erastus, 4710 AR + Downtime 5 Part 3 + Lady's Light Moon Flower Ice Dragon.
 
 1 hour spent getting Laucian.
 
@@ -1314,7 +1314,7 @@ Selenor does paperwork for the Paracountess.
 
 10:00.
 
-Lady’s Light.
+Lady's Light.
 
 Selenor strips naked, goes swimming and has an orgams.
 
@@ -1700,7 +1700,7 @@ Tangle top tells the Lost Prince about Doomsday.
 
 Selenor destroys the goblin doll, earning a boon from Pharasma.
 
-## Session 193 = 2023 October 8th Sunday + 4710 AR  Erastus 25th + Gauntlight Part 4.
+## Session 193 = 2023 October 8th Sunday + 4710 AR Erastus 25th + Gauntlight Part 4.
 
 Volluk’s workshop.
 
@@ -1724,7 +1724,7 @@ Selenor collects the first soul stone in the cursed washroom.
 
 Big Z.
 
-## Session 194 = 2023 November 5th Sunday + 4710 AR  Erastus 26th + Gauntlight Part 5.
+## Session 194 = 2023 November 5th Sunday + 4710 AR Erastus 26th + Gauntlight Part 5.
 
 Guard room.
 
@@ -1767,7 +1767,7 @@ Scriptorium.
 
 Zozz’s room.
 
-Level 1 & Level 2’s teleportation circles are activated.
+Level 1 & Level 2's teleportation circles are activated.
 
 Cardigan eats human flesh and gains “Sickening Bite”.
 
