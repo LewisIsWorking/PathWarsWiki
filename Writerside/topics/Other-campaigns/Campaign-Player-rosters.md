@@ -17,33 +17,39 @@ Campaign List.
 4. 004 = Nam = Verda Sparrow. INACTIVE.
 5. 005 = Charles = Vrolt Ori. INACTIVE.
 6. 006 = Patrik = Dresden Konstantiniel. INACTIVE.
-7. 007 = Yokai = Misha. ACTIVE?
+7. 007 = Yokai = Misha. INACTIVE.
 8. 008 = Tavo = Laucian Asknäve. INACTIVE.
 9. 009 = Phil = Locus The Expanding Void. INACTIVE. 
 10. 010 = Ross = Carnon. ACTIVE. 
-11. 011 = Tony McMoonlight = Viole Jule Grace. ACTIVE.
+11. 011 = Tony McMoonlight = Viole Jule Grace. INACTIVE.
 12. 012 = Axo & Jessy = Plethryn & San Silver-fall. INACTIVE.
-13. 013 = Sherfield = Lire. ACTIVE.
-14. 014 = Gus = Kaito. ACTIVE.
+13. 013 = Sherfield = Lire. INACTIVE.
+14. 014 = Gus = Kaito. INACTIVE.
+15. 015 = Askaran Ottergryph @Askarans | #1 Haku | #4 Scrit = Haku Stormfan = ACTIVE.
+16. 016 = Cortez James |#1 Infinite Fang @Infinitexfang ACTIVE.
+17. 017 = rezmarsiel @Rez_Marsiel = #1 Mortigus Stonewall = ACTIVE.
 
 ## DF Player Membership Log
 
-- 26/03/2023.
-Anubis-MonRa#6469 leaves the campaign. Anubis played Un-Trul an automaton gunslinger + magus.
+> 26/03/2023.
+>> - Anubis-MonRa#6469 leaves the campaign. Anubis played Un-Trul an automaton gunslinger + magus.
 
-- 29/03/2023.
-Brian C.#0055 leaves the queue due to IRL commitments.
-Brian C was 2nd in the queue.
+> 29/03/2023.
+>> - Brian C.#0055 leaves the queue due to IRL commitments. 
+>> - Brian C was 2nd in the queue.
 
-- 02/04/2023.
-Disbelief_99#0595 has willingly dropped to position #2 in the queue.
-This is because he cannot commit to the DF campaign right now.
-That brings Laucian#1802 to the #1 position in the queue.
-Disbelief is now position #2.
+> 02/04/2023. 
+>> - Disbelief_99#0595 has willingly dropped to position #2 in the queue. 
+>> - This is because he cannot commit to the DF campaign right now. 
+>> - That brings Laucian#1802 to the #1 position in the queue. 
+>> - Disbelief is now position #2.
 
-- 14/04/2023.
-Dragon123459 has wiling dropped out of the queue.
-Then all the people below have moved up.
+> 14/04/2023.
+>> - Dragon123459 has wiling dropped out of the queue.
+>> - Then all the people below have moved up.
+
+> 14/11/2025. 
+>> - Jeremy Babayaga | #1 Svir @Syver23 has dropped out.
 
 ## #1. Doomsday Funtime.
 
@@ -53,9 +59,9 @@ Then all the people below have moved up.
 >> 1. 001 = Horia = Selenor = @Nemesiux.
 >> 2. 002 = Anthony = Allisee = @MrNegetZ.
 >> 3. 010 = Ross = Carnon = @Mossssssssssssssssssssssssss.
->> 4. 011 = Tony McMoonlight = Viole Jule Grace = @Ltviolejuegrace.
->> 5. 013 = Sherfield = Lire = @jay94rn.
->> 6. 014 = Gus Choi = Kaito = @GusChoiSH.
+>> 4. 015 = Askaran Ottergryph @Askarans | #1 Haku | #4 Scrit = Haku Stormfan = @Askarans.
+>> 5. 016 = Cortez James |#1 Infinite Fang = @Infinitexfang.
+>> 6. 017 = rezmarsiel @Rez_Marsiel = #1 Mortigus Stonewall.
 
 ## #2. Crimson Throne. FINISHED!
 ## #3. Etran's Folly. FINISHED!

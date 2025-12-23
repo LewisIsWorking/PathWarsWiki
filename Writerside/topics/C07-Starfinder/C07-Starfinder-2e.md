@@ -67,9 +67,13 @@ Bruce you are playing Chua Datafang a Ysoki alchemist/witchwarper.
 >> - Round = 1.
 > Unacted.
 >> - Arcanamirium Occult Campus @wafflemuncher
->> - Lysae. @Revan1734
 > Acted.
 >> - Mausbert Gouda. @Askarans
 >> - Roneles. @Nemesiux
 >> - ★★★★★★★★★★ Super idol Livy ★★★★★★★★★★. @MrNegetZ
 >> - Chua Datafang. @Ravnos1
+
+> As the combat rages on, a portal opens underneath the feet of Lysae.
+>> - Lysae falls through the portal, as she does, she turns into a slime creature outside the walls of an impossibly tall city.
+>> - The portal immediately closes.
+>> - The echoing sound of the psychic scream is heard by the party echoing in the space she just stood.

@@ -1,5 +1,11 @@
 # Guild-Wars-2-my-characters
 
+## Favourites.
+
+
+
+## By race.
+
 > Sylvari.
 >> - Mesmer: Virtuoso.
 >> - Guardian: Firebrand.
