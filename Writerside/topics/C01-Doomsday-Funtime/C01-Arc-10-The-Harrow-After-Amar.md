@@ -198,9 +198,20 @@
 ## Session 265.
 > 2025 December 20th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 5.
 >> - IRL start time: 00:17.
->> - Delay duration: 4 hour & 17 minutes.
+>> - Delay duration: 4 hours & 17 minutes.
 >> - Players present: Horia, Anthony and Cortez.
 
 > 17:00 -> 17:20 (20 minutes of treat wounds).
 >> - Derek is still on the ground.
 >> - Derek finds out that Jacky is dead, killed by the daemons.
+>> - Derek gives over the Carnival card to Allisee.
+>> - Cardigan cures Haku of his Daemonic plague.
+
+## Session 266.
+> 2025 December 26th Friday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 6.
+>> - IRL start time: 21:55.
+>> - Delay duration: 1 hour & 55 minutes.
+>> - Players present: Horia & Anthony.
+
+> 18:00. We are in the Harrow.
+>> - Selenor tells Sonnorae that Amar is not quite fully dead somewhere.

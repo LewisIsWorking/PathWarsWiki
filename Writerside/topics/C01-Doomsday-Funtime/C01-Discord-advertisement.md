@@ -8,7 +8,7 @@
 - System: PF2e.
 - Open Slots: 4.
 - Time & Frequency: Fridays (main session), sometimes Sundays (role play & shopping session, completely optional).
-- Time zone: UK. Saturday time = 20:00.
+- Time zone: UK. Friday time = 20:00.
 - Campaign Description: Stop the world from ending.
 - THIS IS NOT A WEST MARCH. I do not know why people always assume this.
 - THIS IS NOT A PLAY BY POST. It is played live on the voice channel.
@@ -38,7 +38,6 @@ You can also reach out to our campaign helpers:
 @mrnegetz
 @nemesiux
 @owen.l.h.man
-@.moonlightwander
 
 ## DO NOT PUT LINKS???
 
