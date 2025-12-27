@@ -17,7 +17,7 @@
 >> - The Vision: Allisee.
 >> - The Carnival: Infinite Fang.
 
-Cards collected so far:
+## Cards collected so far:
 
 > #1: Ownership: Brass Dwarf.
 >> - Hardy and resilient. High constitution. Lawful neutral.

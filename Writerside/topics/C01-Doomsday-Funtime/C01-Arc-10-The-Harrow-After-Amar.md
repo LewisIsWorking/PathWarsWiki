@@ -215,3 +215,8 @@
 
 > 18:00. We are in the Harrow.
 >> - Selenor tells Sonnorae that Amar is not quite fully dead somewhere.
+>> - Selenor has Aarlak's magic watch.
+
+> 18:10. Travelled to the Smith's Volcano (Harrow) to find the TickTok Man.
+>> - Selenor talks to Voricose the Harrow Bartender & The female fire giant.
+>> - Selenor tries to comfort Voricose.
