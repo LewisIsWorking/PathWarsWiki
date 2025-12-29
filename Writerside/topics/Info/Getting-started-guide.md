@@ -22,7 +22,7 @@
 >> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
 >> - Join the telegram group.
 >> - Play with us! :3
->> - Get ready to play on Foundry (optional): [Joining-foundry.md](Joining-foundry.md)
+>> - Get ready to play on Foundry (optional): [Joining-foundry.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Info/Joining-foundry.md)
 
 - If you need any help, ask on the discord server / telegram group!
 
@@ -74,7 +74,7 @@
 
 ## Spoilers.
 > The Great Spoiler Warning.
->> - Read = [Spoiler-avoidance-guide.md](Spoiler-avoidance-guide.md)
+>> - Read = [Spoiler-avoidance-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign%20lore/Spoiler-avoidance-guide.md).
 
 ## Build Your Character's Lore.
 >> - Go here and paste the table onto your writerside instance OR your word processor of choice: [Character-Lore-Builder.md.](Character-Lore-Builder.md)
