@@ -217,6 +217,20 @@
 >> - Selenor tells Sonnorae that Amar is not quite fully dead somewhere.
 >> - Selenor has Aarlak's magic watch.
 
-> 18:10. Travelled to the Smith's Volcano (Harrow) to find the TickTok Man.
->> - Selenor talks to Voricose the Harrow Bartender & The female fire giant.
->> - Selenor tries to comfort Voricose.
+> 18:10. Travelled to the Smith's Volcano (Harrow) to find the Ticktock Man.
+>> - Selenor talks to Voricose the Harrow Cyclops Bartender & The female fire giant.
+>> - Selenor tries to comfort Voricose. Voricose appreciates it.
+>> - The Harrow is bleeding.
+>> - Party talking to the Ticktock man: Selenor, Allisee, Carnon & Vaasha.
+>> - Carnon impresses the Ticktock man with his knowledge of engineering.
+
+> 19:00. Party gets Keleri to go to talk to Jyronn Imikar.
+
+> 20:00. Keleri returns from talking to Jyronn Imikar.  
+>> - Allisee & Selenor discuss which member of the party should become the new Harrower.
+>> - Cardigan puts the Deck of Harrowed Tales inside the blood toad that sits upon Selenor's shoulder.
+
+> 21:00. The party go to the Cathedral of Abadar to talk to Jyronn Imikar.
+>> - They are in the stone circle of Abadar.
+>> - They agree to wait until more of the party can cast 7th rank spells (level 13).
+>> - Allisee goes to Idla Lunadream to sell a lot of items.
