@@ -63,7 +63,7 @@
 
 ## Telegram.
 > Telegram.
->> - We use Telegram for out-of-game chat, and some in-session links and image sharing.
+>> - We use Telegram for out-of-game chat and some in-session links and image sharing.
 >> - The link to the Telegram group is below.
 >> - All the links do the same thing.
 >> - Click the link: [https://t.me/Path_Wars](https://t.me/Path_Wars)
@@ -74,7 +74,7 @@
 
 ## Spoilers.
 > The Great Spoiler Warning.
->> - Read = [Spoiler-avoidance-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign%20lore/Spoiler-avoidance-guide.md).
+>> - Read = [https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Spoiler-avoidance-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Spoiler-avoidance-guide.md).
 
 ## Build Your Character's Lore.
 >> - Go here and paste the table onto your writerside instance OR your word processor of choice: [Character-Lore-Builder.md.](Character-Lore-Builder.md)
