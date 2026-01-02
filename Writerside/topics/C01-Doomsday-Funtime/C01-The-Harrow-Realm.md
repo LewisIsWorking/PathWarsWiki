@@ -1,16 +1,28 @@
 # C1~The-Harrow-Realm
 
-- Amar has used the upgrade: The Mountain Man.
-- Session 205. Allisee gets 2 items for the Zubiri.
-- Session 226. Distributing the cards among: Selenor, Allisee, Carnon and Viole.
-- Session 262: Haku Stormfan found The Vision in Always 1 step ahead.
+> Overview.
+>> - Amar has used the upgrade: The Mountain Man.
+>> - Session 205. Allisee gets 2 items for the Zubiri.
+>> - Session 226. Distributing the cards among: Selenor, Allisee, Carnon and Viole.
+>> - Session 262: Haku Stormfan found The Vision in Always 1 step ahead.
+>> - Session 266: Re-distributing the cards among: Selenor, Allisee, Infinite Fang and Vaasha.
 
-Cards collected so far:
+> Ownership (as of session 266).
+>> - The Brass Dwarf: Infinite Fang.
+>> - The Empty Broken Throne: Vaasha.
+>> - The Paladin: Mortigus.
+>> - The Rabbit Prince: Haku Stormfan.
+>> - The Locksmith: Selenor.
+>> - The Mountain Man: Mortigus.
+>> - The Vision: Allisee.
+>> - The Carnival: Infinite Fang.
+
+## Cards collected so far:
 
 > #1: Ownership: Brass Dwarf.
 >> - Hardy and resilient. High constitution. Lawful neutral.
 >> - Passive Ability: You gain resistance to fire equal to your level when you invest the item.
->> - 1 Action (concentrate) Once per an hour: Choose acid, cold, electricity, fire, mental, poison, or sonic. 
+>> - 1 Action (concentrate) Once per an hour: Choose acid, cold, electricity, fire, mental, poison or sonic. 
 >> - You can't choose the damage type for which The Brass Dwarf currently gives you resistance.
 >> - You gain resistance to the damage you chose equal to your level, 
 >> - and you lose the prior resistance that The Brass Dwarf gave you. 
@@ -37,6 +49,7 @@ Cards collected so far:
 >> - Passive ability: As long as you have The Rabbit Prince invested, it grants you a +1 status bonus to attack rolls you make as a readied action.
 >> - Reaction (Fortune, Concentrate) Once per day: If you miss a creature with a melee weapon Strike 
 >>   - Re-roll the triggering Strike with a +1 status bonus. If you hit, attempt a DC 15 Flat Check; on a failure, your weapon gains the broken condition (if your weapon is already broken, it's destroyed). If you're at least 14th level, this flat check is DC 10 Flat Check. If you're at least 17th level, this flat check is DC 5 Flat Check.
+>> - 
 
 > #5: Ownership: Locksmith.
 >> - The unlocking of fate. Lawful neutral.
@@ -44,11 +57,13 @@ Cards collected so far:
 >> - Passive ability: As long as you have The Locksmith invested, it grants you a +2 item bonus to Thievery checks to Pick a Lock. This increases to a +3 item bonus if you are at least 17th level.
 >> - Reaction (Concentrate, Manipulate) Once per day : If you would be afflicted by a curse or disease
 >>   - You attempt to counteract the triggering affliction, using half your level (rounded up) as the counteract level and a counteract check modifier equal to your class DC – 10.
+>> - Session 266: Selenor has the locksmith.
 
 > #6: Ownership: The Mountain Man.
 >> - Incredible physical power. Chaotic neutral.
 >> - Drawn by Amar.
->> - Passive ability: As long as you have The Mountain Man invested, it grants you a +2 item bonus to Athletics checks to Force Open, Grapple, Shove, or Trip. This increases to a +3 item bonus if you are at least 17th level.
+>> - Passive ability: As long as you have The Mountain Man invested, it grants you a +2 item bonus to Athletics checks to Force Open, Grapple, Shove or Trip. 
+>> - This increases to a +3 item bonus if you are at least 17th level.
 >>   - 2 actions (concentrate, manipulate) Once per day :
 >>   - You bring the might of the mountain into your body. 
 >>   - You cast 2nd-level or 4th-level enlarge upon yourself. 
@@ -63,3 +78,9 @@ Cards collected so far:
 >> - This check always resolves as if you were master in the most appropriate Lore skill to Recall Knowledge on the subject (or if you're at least 15th level, as if you were legendary in that Lore skill). 
 >> - If you're already master (or legendary) in that Lore, the result of your Recall Knowledge check is one degree of success better than it would otherwise be.
 >> - Harrow upgrade: Gain the Vision's item bonus to "Borrow a spell", "identify alchemy/magic" and/or "Learn a spell" checks.
+
+> #8: Ownership: The Carnival.
+>> - We will treat these passives as a party-wide buff. 
+>> - Found by Infinite Fang in the Horse Forge. 
+>> - It was handed over to the party by Harrow-user Derek (session 265).
+>> - Session 265: Infinite Fang has the carnival.
