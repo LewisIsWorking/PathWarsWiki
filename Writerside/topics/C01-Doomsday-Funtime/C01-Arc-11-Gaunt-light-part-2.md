@@ -1,5 +1,11 @@
 # Arc-11-Gauntlight-part-2
 
+Moonday -> Toilday -> Wealday -> Oathday -> Fireday -> Star-day -> Sunday.
+
+1 Abadius -> 2 Calistril -> 3 Pharast -> 4 Gozran -> 5 Desnus -> 6 Sarenith -> 7 Erastus -> 8 Arodus -> 9 Rova -> 10 Lamashan -> 11 Neth -> 12 Kuthona.
+
+The beginning of autumn is named after the violent god Rovagug. (Dwarves dispute naming a month after such a destructive and evil deity and instead name the ninth month Torawsh after their creator god, Torag.
+
 ## Session 267.
 > 2026 January 2nd Friday + 4710 AR, Rova 10th (Star-day) + Arc-11 part 1.
 >> - IRL start time: 23:53.
@@ -25,3 +31,8 @@
 >> - Keleri Devrin already told Professor Lozar about the book, and it has been dispelled and contained.
 >> - Keleri suggests the party go to the Gauntlight, then get the 2nd planar key then go to Osirion.
 >> - Gauntlight floor 5.
+>> - They return to Sandpoint and sleep or Selenor goes to his room in the Harrow Realm and rests there.
+
+> New Day! Rova 11th.
+
+> 06:00. The party awakens.
