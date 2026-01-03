@@ -198,9 +198,39 @@
 ## Session 265.
 > 2025 December 20th Saturday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 5.
 >> - IRL start time: 00:17.
->> - Delay duration: 4 hour & 17 minutes.
+>> - Delay duration: 4 hours & 17 minutes.
 >> - Players present: Horia, Anthony and Cortez.
 
 > 17:00 -> 17:20 (20 minutes of treat wounds).
 >> - Derek is still on the ground.
 >> - Derek finds out that Jacky is dead, killed by the daemons.
+>> - Derek gives over the Carnival card to Allisee.
+>> - Cardigan cures Haku of his Daemonic plague.
+
+## Session 266.
+> 2025 December 26th Friday + 4710 AR, Rova 10th (Star-day) + Arc-10 The Harrow after Amar part 6.
+>> - IRL start time: 21:55.
+>> - Delay duration: 1 hour & 55 minutes.
+>> - Players present: Horia & Anthony.
+
+> 18:00. We are in the Harrow.
+>> - Selenor tells Sonnorae that Amar is not quite fully dead somewhere.
+>> - Selenor has Aarlak's magic watch.
+
+> 18:10. Travelled to the Smith's Volcano (Harrow) to find the Ticktock Man.
+>> - Selenor talks to Voricose the Harrow Cyclops Bartender & The female fire giant.
+>> - Selenor tries to comfort Voricose. Voricose appreciates it.
+>> - The Harrow is bleeding.
+>> - Party talking to the Ticktock man: Selenor, Allisee, Carnon & Vaasha.
+>> - Carnon impresses the Ticktock man with his knowledge of engineering.
+
+> 19:00. Party gets Keleri to go to talk to Jyronn Imikar.
+
+> 20:00. Keleri returns from talking to Jyronn Imikar.  
+>> - Allisee & Selenor discuss which member of the party should become the new Harrower.
+>> - Cardigan puts the Deck of Harrowed Tales inside the blood toad that sits upon Selenor's shoulder.
+
+> 21:00. The party go to the Cathedral of Abadar to talk to Jyronn Imikar.
+>> - They are in the stone circle of Abadar.
+>> - They agree to wait until more of the party can cast 7th rank spells (level 13).
+>> - Allisee goes to Idla Lunadream to sell a lot of items.
