@@ -2,6 +2,10 @@
 
 For the official Paizo homebrew rules we use: [](Official-paizo-variant-rules.md)https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Info/Official-paizo-variant-rules.md.
 
+
+## Advanced proficiency = Martial Proficiency.
+Just because fighters weren't strong enough you can now choose any weapon without being feat taxed.
+
 ## 5 plot threads.
 
 Every main character should have 5 plot threads.
@@ -41,7 +45,6 @@ Rogues get a lore increase every time they get a skill increase.
 - 7: Master.
 - 9: Master.
 - 11: Master.
-
 
 ## Main and side characters.
 
