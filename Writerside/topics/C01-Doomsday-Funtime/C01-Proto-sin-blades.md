@@ -85,7 +85,10 @@ Each High-Vale blade is a level 10 item.
 
 Each High-Vale blade has a unique name and a unique property.
 
-## High-Vale Shifting.
+## The Sin Blade's Sin Runes.
+
+> What can't be changed?
+>> - A proto sin blade's potency rune (+2) and striking rune (striking) cannot be changed, transferred or upgraded.
 
 > Shifting.
 >> - Each High-Vale blade has a shifting rune.
@@ -93,13 +96,14 @@ Each High-Vale blade has a unique name and a unique property.
 >> - Note: After every combat encounter, high-vale blades return to their original longsword form.
 
 > The High-Vale Ritual.
-> - During daily preparations or by spending 1 minute later in the day, a high-vale blade wielder can copy their
-    > High-Vale blades +2 potency and striking rune to a single weapon of their choice.
+> - During daily preparations or by spending 1 minute later in the day.
+> - A high-vale blade wielder can copy their High-Vale blade's +2 potency and striking rune to a single weapon of their choice.
+> - This can also copy the property runes on the proto sin blade.
 > - This has to be repeated each day or 24 hours (whichever comes first).
 
 > NOTE:
 >> - The weapon empowered by the ritual still retains its normal potency and striking runes.
->> - When you empower a weapon, make sure to note down what the weapon’s normal runes are.
+>> - When you empower a weapon, make sure to note down what the weapon's normal runes are.
 >> - If your longbow is +1 striking, make sure to write that down before setting the runes on Foundry to be +2 striking.
 
 > High-Vale Dual class.

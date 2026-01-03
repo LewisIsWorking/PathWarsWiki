@@ -80,7 +80,7 @@ End board: S:P Little Knight, Granite, Liger Dancer.
 >> - 3: Normal summon Kaleido chick.
 >> - 4: Kaleido chick effect -> Send black sheep to grave.
 >> - 5: Gold leo effect -> Add black sheep to hand.
->> - 6: Discard black sheep to add polymerization.
+>> - 6: Discard black sheep to add polymerisation.
 >> - 7: Polymerization -> Fusion summon perfume dancer using kaleido chick and gold leo
 >> - 8: Perfume dancer (chain link 1) + Kaleido chick (chain link 2).
 >> - Chick adds poly to hand, dancer adds luna light perfume.
@@ -93,7 +93,7 @@ End board: S:P Little Knight, Granite, Liger Dancer.
 >> - 15: Wolf into pendulum zone.
 >> - 16: Wolf's effect -> Fusion summon Liger Dancer (to cross sheep's pointed zones) using both fusions (perfume dancer & leo dancer), black sheep and gold leo.
 >> - 17: Chain link 1 = Cross sheep effect -> summon kaleido chick from grave.
->> - 18: Chain link 2 = Masquerade effect -> Add polymerization to hand -> DO NOT DISCARD ANY CARDS.
+>> - 18: Chain link 2 = Masquerade effect -> Add polymerisation to hand -> DO NOT DISCARD ANY CARDS.
 >> - 19: Kaleido chick effect -> Send 2nd leo dancer to grave.
 >> - 20: Yellow martin in grave -> Return luna light wolf to hand.
 >> - 21: XYZ summon Tiger King using Kaleido chick and yellow martin.
