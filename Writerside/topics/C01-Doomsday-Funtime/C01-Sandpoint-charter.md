@@ -30,3 +30,7 @@ The following names are the names of the Heroes of Sandpoint:
 18. Mortigus Stonewall
 19. Vaash.
 20. Infinite Fang.
+21. Lunaran.
+22. Mizzik.
+23. Lee Ji Ho.
+24. Viki.

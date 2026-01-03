@@ -2,21 +2,16 @@
 
 ## Moon-bear
 
-Relic
-
-+1 Striking Standard-Grade Silver Flesh gem/Battle Axe
-
-You can switch between the two versions as a free action on your turn.
-
-If you drop or get disarmed of the axe it will go back into the Flesh gem form.
-
-The flesh gem gives you a fist strike that deals 1d6 piercing damage, is in the brawling group and has the magical and unnamed traits.
-
-As a relic the level of Moon-bear is equal to the level of Moon-bear's wielder
+> Relic
+>> - +1 Striking Standard-Grade Silver Flesh gem/Battle Axe.
+>> - You can switch between the two versions as a free action on your turn. 
+>> - If you drop or get disarmed of the axe it will go back into the Flesh gem form. 
+>> - The flesh gem gives you a fist strike that deals 1d6 piercing damage, is in the brawling group and has the magical and unnamed traits. 
+>> - As a relic the level of Moon-bear is equal to the level of Moon-bear's wielder.
 
 ### Gifts
 
-Currently MoonBear has 3 gifts.
+> Currently, the MoonBear has 3 gifts.
 
 **Beast senses:**  
 The relic grants you an animal’s acute senses as long as you wear it. You gain **low-light vision**. If you already have low-light vision, you instead gain **dark vision**. At **10th level**, the relic grants you **imprecise scent with a range of 10 feet**.
