@@ -1,10 +1,15 @@
 # Arc-11-Gauntlight-part-2
 
-Moonday -> Toilday -> Wealday -> Oathday -> Fireday -> Star-day -> Sunday.
+> What is Arc 11 Gauntlight part 2?
+>> - Arc 11 Gauntlight part 2 is the continuation of Arc 6 Gauntlight part 1.
+>> - The party got to the end of floor 4 of the Gauntlight in Arc 11 part 1.
+>> - In Arc 11 part 2, the party will explore floor 5 of the Gauntlight until they reach the deepest floor.
 
-1 Abadius -> 2 Calistril -> 3 Pharast -> 4 Gozran -> 5 Desnus -> 6 Sarenith -> 7 Erastus -> 8 Arodus -> 9 Rova -> 10 Lamashan -> 11 Neth -> 12 Kuthona.
-
-The beginning of autumn is named after the violent god Rovagug. (Dwarves dispute naming a month after such a destructive and evil deity and instead name the ninth month Torawsh after their creator god, Torag.
+> Date and Time Conventions
+>> - Moonday -> Toilday -> Wealday -> Oathday -> Fireday -> Star-day -> Sunday. 
+>> - 1 Abadius -> 2 Calistril -> 3 Pharast -> 4 Gozran -> 5 Desnus -> 6 Sarenith -> 7 Erastus -> 8 Arodus -> 9 Rova -> 10 Lamashan -> 11 Neth -> 12 Kuthona. 
+>> - The beginning of autumn is named after the violent god Rovagug. 
+>> - Dwarves dispute naming a month after such a destructive and evil deity and instead name the ninth month Torawsh after their creator god, Torag.
 
 ## Session 267.
 > 2026 January 2nd Friday + 4710 AR, Rova 10th (Star-day) + Arc-11 part 1.
@@ -35,4 +40,6 @@ The beginning of autumn is named after the violent god Rovagug. (Dwarves dispute
 
 > New Day! Rova 11th.
 
-> 06:00. The party awakens.
+> 06:00. Rova 11th. The party awakens. Sandpoint homebase.
+>> - 1 hour of daily preparation & breakfast -> 07:00.
+>> - Play by post starting point.
