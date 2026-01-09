@@ -1,6 +1,6 @@
 # C1~Book of the Black hole.
 
-Selenors-book
+Selenor's book.
 
 ## Edicts.
 

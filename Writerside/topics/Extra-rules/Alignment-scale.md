@@ -12,14 +12,26 @@
 >> - Higher number = More Evil. 
 
 > First Scale.
->> - Lawful = 1 → 5.
->> - Neutral = 6 → 10.
->> - Chaotic = 11 → 15.
+>> - Paragon of Law = 1.
+>> - Extremely Lawful = 2 & 3. 
+>> - Lawful = 4 & 5. 
+>> - Leans Lawful = 6. 
+>> - Neutral = 7, 8 & 9. 
+>> - Leans Chaotic = 10. 
+>> - Chaotic = 11 & 12. 
+>> - Extremely Chaotic = 13 & 14. 
+>> - Paragon of Chaos = 15.
 
 > Second Scale.
->> - Good = 1 → 5.
->> - Neutral = 6 → 10.
->> - Evil = 11 → 15.
+>> - Paragon of Good = 1.
+>> - Extremely Good = 2 & 3.
+>> - Good = 4 & 5.
+>> - Leans Good = 6.
+>> - Neutral = 7, 8 & 9.
+>> - Leans Evil = 10.
+>> - Evil = 11 & 12.
+>> - Extremely Evil = 13 & 14.
+>> - Paragon of Evil = 15.
 
 > Good | Evil
 >> - 1 <---> 15.

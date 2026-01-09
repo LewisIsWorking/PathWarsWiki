@@ -85,7 +85,7 @@ In play by post, the party talks to the wizard Zarzan Quilit.
 ## Session 229.
 > 2024 December 21st Saturday + 4710 AR, 28th Arodus. + Selenor's 100th Session.
 
-- Events of [DF-100-sessions-of-Selenor.md](C01-100-sessions-of-Selenor.md) happen.
+- Events of [DF-100-sessions-of-Selenor.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/C01-Doomsday-Funtime/C01-100-sessions-of-Selenor.md) happen.
 
 ## Session 230.
 > 2024 December 28th Saturday + 4710 AR, 28th Arodus. + Role play + Lire joins the party.
