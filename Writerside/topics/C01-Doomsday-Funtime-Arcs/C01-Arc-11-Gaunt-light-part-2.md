@@ -43,3 +43,13 @@
 > 06:00. Rova 11th. The party awakens. Sandpoint homebase.
 >> - 1 hour of daily preparation & breakfast -> 07:00.
 >> - Play by post starting point.
+
+## Session 268.
+> 2026 January 10th Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 2.
+>> - IRL start time: 00:44.
+>> - Delay duration: 4 hour & 44 minutes.
+>> - Players present: Horia (Selenor), Daniel (Lee Ji Ho) & Lucas ().
+>> - In-game location: Sandpoint homebase.
+
+> 07:00. Sandpoint homebase.
+>> - The party does daily preparations and breakfast.

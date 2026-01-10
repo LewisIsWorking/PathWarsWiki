@@ -151,7 +151,7 @@ It has been 1-month since the last session! :'(
 Selenor used clairvoyance to see the mayor is not there any more.
 The mayor seemed to have entered the dining room with his staff then it is unknown where he is now.
 
-- Selenor is asleep, Cardigan is also sleeping. See: [Cardigans-Dream.md](C01-Cardigans-Dream.md)
+- Selenor is asleep, Cardigan is also sleeping. See: https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/C01-Doomsday-Funtime/C01-Cardigans-Dream.md
 - Zutlieg is next to Selenor.
 - The party are in the hallway.
 - Laucian, Adjo and Verda Sparrow are all in the hallway.

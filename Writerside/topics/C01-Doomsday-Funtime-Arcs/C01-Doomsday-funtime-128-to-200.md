@@ -681,8 +681,6 @@ An amethyst worth 10 gp. Looted by Selenor.
 
 Selenor has Amethyst vision.
 
-
-
 Idk how much GP for the altars we discovered.
 
 100GP for completing the mission

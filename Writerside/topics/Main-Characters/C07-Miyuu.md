@@ -1,3 +1,5 @@
+# C07-Miyuu.md
+
 Born on a ship travelling through the Drift, Miyuu's destiny was almost predetermined by the brilliant colors of his fur. 
 "Blessed by Triune" many would claim, but that didn't matter to Miyuu, since the rest of his litter were lifeless. 
 His parents were crewmen for hire, and never really talked about that grisly fact of his birth. 
