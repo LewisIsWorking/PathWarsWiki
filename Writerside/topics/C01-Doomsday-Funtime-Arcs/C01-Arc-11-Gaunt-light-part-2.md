@@ -53,3 +53,17 @@
 
 > 07:00. Sandpoint homebase.
 >> - The party does daily preparations and breakfast.
+>> - Lunaran, Mizzik and Viki are kept at Sandpoint homebase.
+>> - Keleri asks Vaasha to look after these new recruits and provide them with training and guidance.
+>> - Selenor's halfling butler can make meals up to and including level 7. 
+>> - The butler has +19 to cooking lore checks so he always critically succeeds on making level 7 (and lower) meals.
+>> - Lee Ji Ho & Leda Altieri eats sweet pancakes for breakfast.
+>> - Allisee, Selenor & Cardigan has an owlbear omelette.
+
+> 08:30. Keystone district, Sarenrae hospital.
+>> - Meets Bright-Spark the gnome.
+>> - Inside the Sarenrae hospital.
+>> - Talking to Brother Tavian Light-Seeker.
+>> - Selenor notices Tavian is wearing a holy symbol of Sarenrae made of sunstone.
+>> - Selenor notices Tavian has a Cheliax accent and seems to be from the Cheliax / spent time there.
+>> - Allisee's arm burns in front of Tavian's sunstone amulet.

@@ -12,3 +12,11 @@
 >> - It leads to a mine shaft that takes you down to the drug den.
 >> - The drug den is a long thin room with cushions and pillows on the floor.
 >> - A couple of small smokeless braziers keep the room warm.
+
+> Temple hosptial of Sarenrae.
+>> - Location: Keystone.
+>> - 2 levels tall.
+>> - Created after the loss/abandonment of the old temple of Sarenrae in the underbridge.
+>> - That old temple was taken over by the water lord worshipping guard.
+>> - Koriah Sunstrike.
+>> - Sister Miravelle.
