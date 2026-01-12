@@ -49,7 +49,7 @@
 >> - 11: Perfume dancer effect -> Return kaleido chick to hand then resummon kaleido chick.
 >> - 12: kaleido chick effect -> Send Yellow martin to grave
 >> - 13: Perfume in grave -> Discard polymerisation to add Luna light wolf to hand.
->> - 14: Perfume dancer + kaleido chick -> Link summon Cross sheep.
+>> - 14: LINK SUMMON: Perfume dancer + kaleido chick -> Link summon Cross sheep.
 >> - 15: Wolf into pendulum zone.
 >> - 16: Wolf's effect -> Fusion summon Liger Dancer (to cross sheep's pointed zones) using both fusions (perfume dancer & leo dancer), black sheep and gold leo.
 >> - 17: Chain link 1 = Cross sheep effect -> summon kaleido chick from grave.

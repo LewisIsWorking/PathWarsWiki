@@ -67,3 +67,12 @@
 >> - Selenor notices Tavian is wearing a holy symbol of Sarenrae made of sunstone.
 >> - Selenor notices Tavian has a Cheliax accent and seems to be from the Cheliax / spent time there.
 >> - Allisee's arm burns in front of Tavian's sunstone amulet.
+>> - Brother Tavian Light-Seeker tells the church of Pharasma that Selenor wants to speak to the high mourner.
+>> - Tavian doesn't think the party was involved in the tea party soul plague.
+>> - Ilumna...?
+>> - Grandmother Zeal-lira awaits the party in the private curse wing.
+>> - 30 minor noble patients here.
+>> - Selenor tells Brother Tavian Light-Seeker about Selenor and co's 3 breakthroughs:
+>> - 1: All 1,000 are awake in a mindscape. 
+>> - 2: They are stabilising some sort of massive magical project.
+>> - 3: Curing 1 person could kill many more.
