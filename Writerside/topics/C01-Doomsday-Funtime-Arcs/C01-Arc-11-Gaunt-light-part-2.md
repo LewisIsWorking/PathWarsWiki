@@ -26,7 +26,7 @@
      total 134 gp.
 >> - Result: +1 ghost touch battleaxe (parent) +2 striking Wounding Whip (child).
 
-> 22:00. Sandpoint homebase.
+> 22:00. Sandpoint home base.
 >> - Lee Ji Ho, Viki and Mizzik introduce themselves to the Sandpoint party.
 >> - They sign the contract to join the Sandpoint party.
 >> - Selenor, Allisee and Cardigan talk to Keleri Devrin in the Harrow Realm.
@@ -42,21 +42,21 @@
 
 > 06:00. Rova 11th. The party awakens. Sandpoint homebase.
 >> - 1 hour of daily preparation & breakfast -> 07:00.
->> - Play by post starting point.
+>> - Play by post's starting point.
 
 ## Session 268.
 > 2026 January 10th Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 2.
 >> - IRL start time: 00:44.
->> - Delay duration: 4 hour & 44 minutes.
+>> - Delay duration: 4 hours & 44 minutes.
 >> - Players present: Horia (Selenor), Daniel (Lee Ji Ho) & Lucas ().
->> - In-game location: Sandpoint homebase.
+>> - In-game location: Sandpoint home base.
 
-> 07:00. Sandpoint homebase.
+> 07:00. Sandpoint home base.
 >> - The party does daily preparations and breakfast.
->> - Lunaran, Mizzik and Viki are kept at Sandpoint homebase.
+>> - Lunaran, Mizzik and Viki are kept at Sandpoint home base.
 >> - Keleri asks Vaasha to look after these new recruits and provide them with training and guidance.
 >> - Selenor's halfling butler can make meals up to and including level 7. 
->> - The butler has +19 to cooking lore checks so he always critically succeeds on making level 7 (and lower) meals.
+>> - The butler has +19 to cooking lore checks, so he always critically succeeds in making level 7 (and lower) meals.
 >> - Lee Ji Ho & Leda Altieri eats sweet pancakes for breakfast.
 >> - Allisee, Selenor & Cardigan has an owlbear omelette.
 
@@ -69,10 +69,13 @@
 >> - Allisee's arm burns in front of Tavian's sunstone amulet.
 >> - Brother Tavian Light-Seeker tells the church of Pharasma that Selenor wants to speak to the high mourner.
 >> - Tavian doesn't think the party was involved in the tea party soul plague.
->> - Ilumna...?
+>> - Illumina...?
 >> - Grandmother Zeal-lira awaits the party in the private curse wing.
 >> - 30 minor noble patients here.
 >> - Selenor tells Brother Tavian Light-Seeker about Selenor and co's 3 breakthroughs:
 >> - 1: All 1,000 are awake in a mindscape. 
->> - 2: They are stabilising some sort of massive magical project.
+>> - 2: They're stabilising some sort of massive magical project.
 >> - 3: Curing 1 person could kill many more.
+
+## Session 268. Play by post.
+
