@@ -29,7 +29,7 @@
 
 ## Combo 1. Gold Leo first.
 
-> Normal summon Gold Leo -> Discard silver hound.
+> Normal summon Gold Leo -> Add & Discard silver hound.
 >> - 1: Silver hound effect -> Summon kaleido chick.
 >> - 2: kaleido chick effect -> Send black sheep to grave.
 >> - 3: Gold leo effect -> Add black sheep to hand.
