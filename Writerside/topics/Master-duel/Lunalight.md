@@ -1,5 +1,32 @@
 # Luna Light
 
+> All possible combos.
+>> - 16:42 Gold Leo (Anti-Droll).
+>> - 21:06 Tenki.
+>> - 37:34 Masquerade. 
+>> - 41:20 Foolish Burial. 
+>> - 45:43 Foolish Burial (Anti-Droll).
+>> - 49:24 Fraktall + Discard. 
+>> - 53:03 Gold Leo + Level 4 Lunalight.
+>> - 1:00:00 Emerald Bird + Yellow Marten.
+>> - 1:07:16 Foolish Burial + Yellow Marten. 
+>> - 1:10:59 Fraktall + Yellow Marten. 
+>> - 1:14:24 Black Sheep + Perfume + Discard. 
+>> - 1:19:04 Masquerade + Level 4 + Discard.
+>> - 1:23:05 Fraktall + Level 4 + Discard. 
+>> - 1:26:24 Foolish Burial + Level 4 + Discard. 
+>> - 1:34:00 Kaleido Chick + Lunalight Name + Fusion. 
+>> - 1:38:30 Gold Leo (Drolled). 
+>> - 1:43:59 Foolish Burial (Drolled). 
+>> - 1:46:26 Fraktall + Discard (Drolled). 
+>> - 1:48:19 Tenki (Drolled). 
+>> - 1:49:49 Kaleido Chick + Silver Hound + Poly (Drolled). 
+>> - 1:55:55 Gold Leo (Silver Hound line) vs Nibiru. 
+>> - 2:07:05 Gold Leo (Shotgun Lancea). 
+>> - 2:14:25 vs Imperm. 
+>> - 2:18:50 Gold Leo + Perfume vs Imperm. 
+>> - 2:21:50 vs Ash.
+
 ## Combo 1. Gold Leo first.
 
 > Normal summon Gold Leo -> Discard silver hound.
@@ -90,7 +117,8 @@
 >> - 12: Link summon Cross sheep using perfume dancer and kaleido chick.
 >> - 13: Activate luna light perfume in the graveyard -> Discard polymerisation to add luna light wolf to hand.
 >> - 14: Wolf into pendulum zone.
->> - 15: Wolf's effect -> Fusion summon Liger Dancer (to cross sheep's pointed zones) using both fusions (perfume dancer & leo dancer), black sheep and gold leo.
+>> - 15: Wolf's effect -> Fusion summon Liger Dancer (to cross sheep's pointed zones) 
+>> - Use both fusions (perfume dancer & leo dancer), black sheep and gold leo.
 >> - 16: Cross sheep effect -> summon kaleido chick from grave.
 >> - 17: kaleido chick effect -> Send 2nd leo dancer to grave.
 >> - 18: Yellow martin in grave -> Return luna light wolf to hand.
