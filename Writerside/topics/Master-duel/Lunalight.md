@@ -23,8 +23,8 @@
 >> - 1:49:49 Kaleido Chick + Silver Hound + Poly (Drolled). 
 >> - 1:55:55 Gold Leo (Silver Hound line) vs Nibiru. 
 >> - 2:07:05 Gold Leo (Shotgun Lancea). 
->> - 2:14:25 vs Imperm. 
->> - 2:18:50 Gold Leo + Perfume vs Imperm. 
+>> - 2:14:25 vs Impermanence. 
+>> - 2:18:50 Gold Leo + Perfume vs Impermanence. 
 >> - 2:21:50 vs Ash.
 
 ## Combo 1. Gold Leo first.
@@ -60,7 +60,7 @@
 
 ## Combo 2. Masquerade.
 
-> Masquerade > Discard silver hound.
+> Masquerade -> Discard silver hound.
 >> - 1: Silver hound effect -> Summon Gold Leo.
 >> - 2: Gold leo effect -> Add kaleido chick to hand.
 >> - Discard ANYTHING that's not kaleido chick.
@@ -68,7 +68,7 @@
 >> - 4: kaleido chick effect -> Send black sheep to grave.
 >> - 5: Gold leo effect -> Add black sheep to hand.
 >> - 6: Discard black sheep to add polymerisation.
->> - 7: Polymerization -> Fusion summon perfume dancer using kaleido chick and gold leo
+>> - 7: Polymerization -> Fusion summon perfume dancer using kaleido chick and gold leo.
 >> - 8: Perfume dancer (chain link 1) + kaleido chick (chain link 2).
 >> - Chick adds poly to hand, dancer adds luna light perfume.
 >> - 9: Perfume -> Resurrect kaleido chick.
