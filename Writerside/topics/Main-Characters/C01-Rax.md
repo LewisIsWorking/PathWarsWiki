@@ -303,7 +303,8 @@
 >> - 4649 AR: Joined with a smaller warren who suffered a similar fate the previous year. 
 >> - Expanded trade across the sea with Drumish Dashers of Andoran and Taldor. 
 >> - Began his education in the small school within the warren's wagons. 
->> - 4650 AR: Started showing signs of his Nephilim ancestry as small protrusions started peeking out from his short fur on his head. Began assisting with fetching supplies for the warren alchemists exclusively, preparing for an eventual apprenticeship when he got older. 
+>> - 4650 AR: Started showing signs of his Nephilim ancestry as small protrusions started peeking out from his short fur on his head. 
+>> - Began assisting with fetching supplies for the warren alchemists exclusively, preparing for an eventual apprenticeship when he got older. 
 >> - 4651 AR: Showing a knack for book learning, he starts getting extra tutor sessions outside his normal lessons. 
 >> - 4652 AR: Started his apprenticeship under Knagi, one of the warren's alchemists. 
 >> - 4653 AR: His warren was attacked by raiders as they travelled through the desert on their way to El-Fatar in Katapesh. 
