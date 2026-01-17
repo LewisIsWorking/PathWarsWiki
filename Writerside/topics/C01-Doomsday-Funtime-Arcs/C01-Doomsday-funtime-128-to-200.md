@@ -158,7 +158,7 @@ Modwinn’s child.
 
 ## Session 151 = Saturday 11th February 2023 + 13th Erastus, 4710 AR + Selenor Bounty #3 Part 2.
 
-Allisee joined the party
+Allisee (Player:Anthony) joined the party.
 
 ## Session 152 = Sunday 12th February 2023 + 14th Erastus, 4710 AR + Keleri Korvosa Update + Selenor & Razorclaw.
 

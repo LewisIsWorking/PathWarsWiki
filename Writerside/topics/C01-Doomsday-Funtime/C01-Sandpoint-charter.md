@@ -34,3 +34,5 @@ The following names are the names of the Heroes of Sandpoint:
 22. Mizzik.
 23. Lee Ji Ho.
 24. Viki.
+25. Taru'kara
+26. Solar.
