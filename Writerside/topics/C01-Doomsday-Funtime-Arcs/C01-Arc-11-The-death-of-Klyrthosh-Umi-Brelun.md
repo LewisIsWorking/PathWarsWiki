@@ -1,4 +1,4 @@
-# Arc-11-Gauntlight-part-2
+# C01-Arc-11-The-death-of-Klyrthosh-Umi-Brelun.md.
 
 > What is Arc 11 Gauntlight part 2?
 >> - Arc 11 Gauntlight part 2 is the continuation of Arc 6 Gauntlight part 1.
@@ -644,8 +644,8 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 
 > Combat: Lonjiku Kaijitsu's fragmented soul.
 >> - Selenor is attempting diplomatic approach.
->> - 106 Exp for banishing Lonjiku Kaijitsu's fragmented soul.
->> - 1250 GP of monster parts for Lonjiku Kaijitsu's ecto-dust.
+>> - 56 Exp for banishing Lonjiku Kaijitsu's fragmented soul.
+>> - 560 GP of monster parts for Lonjiku Kaijitsu's ecto-dust.
 
 > Lonjiku Kaijitsu's fragmented soul gave Cardigan and Ameiko Kaijitsu a vision of their past lives.
 >> - They saw Selenor kill them both in a past life.
@@ -654,3 +654,38 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 > 12:30
 >> - The Sandpoint homebase.
 >> - Selenor tells Keleri Devrin and Amenopheus that Professor Lozar is dead.
+>> - Keleri Devrin is sad about Professor Lozar's death.
+
+## Session 270.
+> 2026 January 23rd Friday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 2.
+>> - IRL start time: 23:18.
+>> - Delay duration: 3 hours & 18 minutes.
+>> - Players present: Horia (Selenor), Anthony (Allisee), Joy (Solar), Lucas (Leda Altieri) and Bronwyn (Fuq Tank).
+>> - In-game location: Sandpoint homebase.
+
+> 13:00.
+>> - Selenor with a 46 diplomacy check convinces Amenopheus to come to the Professor's funeral.
+>> - Infinite Fang places the Ruby Rino Ring on the table.
+>> - Fuq Tank arrives at the Sandpoint homebase.
+>> - Fuq Tank is the new Cheliax faction representative in Magnimar.
+>> - Fuq Tank is Bard & Sorcerer.
+>> - Amenopheus wears loads of Sapphire jewellery.
+>> - Fuq Tank tells the party the Queen has Damrock Berrus.
+
+> 13:30.
+>> - Selenor get a nat 20, 51 diplomacy check on Sheriff Cellar.
+>> - Vauran Grim-Burrow is the head priest of Pharasma in Raven-Grow.
+>> - Allisee, Solar, Leda and Selenor enter the temple of Pharasma
+>> - Keleri Lozar has a type-2 spacious pouch.
+>> - Allisee falls in the mud at funeral (6 in performance).
+>> - Selenor gives a eulogy at Professor Lozar's funeral (in diplomacy).
+>> - Leda hears the number 2 from the DawnFlower.
+>> - Cyrus pours from rum into the professor's grave.
+
+> 14:00. Keleri Lozar's house
+>> - Keleri Lozar is now Keleri Umi-Brelun, she will go by Umi from now on.
+>> - Keleri and Umi are both members of the Order of the Eye.
+>> - The Order of the Eye are allies of the Jewelled Sages.
+>> - Selenor steals some of Led Altieri's soul dust using the Golden Flames from the Tome of Golden Eye.
+>> - Selenor uses all of this to create a single page of a new magical tome.
+>> - Selenor takes 20 of soul damage.

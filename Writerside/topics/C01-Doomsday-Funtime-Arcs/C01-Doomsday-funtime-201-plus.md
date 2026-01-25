@@ -27,7 +27,7 @@ Involving:
 1. Allisee.
 2. Selenor.
 3. Keleri.
-4. Amenphious.
+4. Amenopheus.
 5. Elisa Tammerhawk.
 6. Cardigan.
 

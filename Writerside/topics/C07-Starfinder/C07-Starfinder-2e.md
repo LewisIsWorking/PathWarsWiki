@@ -10,18 +10,16 @@ Start typing here...
 >> - The "gap" represents that the pre-history of this plane does not exist; everything that existed at the moment of the awakening of this plane was the plane being born exactly as it woke up.
 >> - This plane is EXTREMELY hard to get to, it is separated out fully from the res of the multiverse.
 
-> Adventures:
->> - Story 1. Long adventure 1/2. The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
->> - Part 1: Level 1. DONE. Completed on 2025-08-10.
->> - Part 2: Level 2. In progress.
->> - Part 3: Level 3.
->> - Part 4: Level 4.
->> - Story 2. Short adventure 1/4. Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
->> - Story 3. Short adventure 2/4. Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
->> - Story 4. Short adventure 3/4. Monster wheel [Zo!'s Wheel of Monsters]. Level 10.
->> - Story 5. Empires Devoured 2/2. Historic accord. [Empires Devoured]. Level 10 -> 13.
->> - Story 6. Short adventure 4/4. Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
-
+> Campaign roadmap:
+>> - 00: Story 1. Long adventure 1/2. The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
+>> - 01: Part 1: Level 1. DONE. Completed on 2025-08-10.
+>> - 02: Part 2: Level 2. In progress.
+>> - 03: Part 3: Level 3. Level 4 when finished.
+>> - 04: Story 2. Short adventure 1/4. Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
+>> - 05: Story 3. Short adventure 2/4. Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
+>> - 06: Story 4. Short adventure 3/4. Monster wheel [Zo!'s Wheel of Monsters]. Level 10.
+>> - 07: Story 5. Empires Devoured 2/2. Historic accord. [Empires Devoured]. Level 10 -> 13.
+>> - 08: Story 6. Short adventure 4/4. Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
 > How many adventures are there?
 >> - There are 2 long adventures.
 >> - There are 4 short adventures.
