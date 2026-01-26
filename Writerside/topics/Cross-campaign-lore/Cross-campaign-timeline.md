@@ -74,7 +74,7 @@ when determining if specific events have happened and for the purpose of unlocke
 > Doomsday Funtime #1. 4710 AR. Current year.
 
 > Starfinder #7. 4710 AR.
->> - [C07-Starfinder-2e.md](C07-Starfinder-2e.md).
+>> - [C07-Starfinder-2e.md](C07-Hopeful-end-times.md).
 >> - Started: 2024-August-26th.
 
 ## 4719 AR.
@@ -115,7 +115,7 @@ when determining if specific events have happened and for the purpose of unlocke
 >> - Started: 22nd April 2023.
 
 > Starfinder #7. 4710 AR.
->> - [C07-Starfinder-2e.md](C07-Starfinder-2e.md).
+>> - [C07-Starfinder-2e.md](C07-Hopeful-end-times.md).
 >> - Started: 2024-August-26th.
 
 ## Campaign List.

@@ -686,6 +686,8 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> - Keleri Lozar is now Keleri Umi-Brelun, she will go by Umi from now on.
 >> - Keleri and Umi are both members of the Order of the Eye.
 >> - The Order of the Eye are allies of the Jewelled Sages.
->> - Selenor steals some of Led Altieri's soul dust using the Golden Flames from the Tome of Golden Eye.
+>> - Selenor steals some of Led Altieri's soul dust using the Golden Flames from the Tome of the Golden Eye.
 >> - Selenor uses all of this to create a single page of a new magical tome.
->> - Selenor takes 20 of soul damage.
+>> - Selenor takes 20 of soul damage when touching the Tome of the Golden Eye.
+>> - The new tome page has the number 2 on it.
+>> - As the number increases, Leda sees more and more sunlight piercing through the clouds of fear that hang over the town.

@@ -1,3 +1,0 @@
-# C07-Starfinder-PBP
-
-Start typing here...

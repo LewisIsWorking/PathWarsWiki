@@ -1,6 +1,9 @@
-# Campaign~7-Starfinder-2e
+# C07-Hopeful-end-times.md.
 
 Start typing here...
+
+- Hopeful End-Times.
+
 
 ## Path-wars LORE changes.
 

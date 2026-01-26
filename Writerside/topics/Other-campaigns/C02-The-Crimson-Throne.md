@@ -36,7 +36,7 @@ The Hourglass of Time shatters.
 
 Ophelia is possessed by the Time God.
 
-Ophelia becomes the Time God’s new Avatar.
+Ophelia becomes the Time God's new Avatar.
 
 The party are frozen in time, and with their souls infected by the hourglass, the party have no way of fighting back.
 
@@ -47,7 +47,7 @@ This is the most powerful avatar they have ever had due to two reasons.
 
 The Time God claims that they did not create the Korvosa Time Fracture but did use their chronal magic to widen the wound in the continuum.
 
-Wacky Mole uses John Vulso’s memories as a backdoor into the Throne Room.
+Wacky Mole uses John Vulso's memories as a backdoor into the Throne Room.
 
 Along with Wacky Mole is a mysterious figure cloaked in a pale brown coat with an unlit cigarette between his lips.
 
@@ -305,6 +305,5 @@ Recent history.
 The King is Dead.
 
 The death of King Eodred II caused tremendous upheaval in all of the city's classes.
-Not only was it believed that he had been slain by a disease incurable by the best priests of Sarenrae, Abadar, and even Asmodeus, but he was succeeded by his wife, who was seen by the populace of Korvosa as nothing more than a spoiled gold-digger.
-
-.
+Not only was it believed that he had been slain by a disease incurable by the best priests of Sarenrae, Abadar, and even Asmodeus.
+He was succeeded by his wife, who was seen by the populace of Korvosa as nothing more than a spoiled gold-digger.
