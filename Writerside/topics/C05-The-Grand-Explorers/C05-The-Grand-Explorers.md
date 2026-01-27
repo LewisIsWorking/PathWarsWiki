@@ -35,12 +35,13 @@ In the dream, the character is presented with a choice of the following:
 
 ## When do the Grand Explorers Explore each week?
 
-18:00.
+V3.
+The campaign is now a Play-by-Post and thus has no session schedule. :)
 
-Wednesdays.
+V2.
+~~18:00. Wednesdays. Weekly.~~
 
-Weekly.
-
+V1.
 ~~The day that this campaign will run is not set yet.~~
 ~~The day of the week that the campaign runs will nearly definitely change over time and will likely move to either Thursday or Friday in the long term.~~
 ~~The reason that the day of the campaign will change over time is because the game master runs two other campaigns.~~
