@@ -12,9 +12,22 @@
 
 The Temple of the Sun is an ancient building in the southern end of the Mozimba Camp neighbourhood of Kibwe. 
 
-Once a laboratory or library where the Pillar-Watchers were empowered during the age of legends.
+The party must reach it so that **Eda Stone-Worth The Curse-Breaker** can complete her ritual.
 
-The party must clear the Temple so that **Eda Stone-Worth The Curse-Breaker** can reach the Chamber of the Upper Sun and complete her ritual to address the slithering curse.
+According to Tal'lysae, the Temple is currently held by people "who care nothing for Kibwe's survival but their own shallow desires." 
+
+She specifically mentioned **Paga Nikohian** as being in the Sun Temple.
+
+---
+
+## What the Party Knows
+
+- Eda/Cursebreaker has sprinted ahead and is likely already at the Temple
+- The Temple contains ancient magic connected to the Pillar-Watchers
+- Curse-breaker must reach the Temple to address the slithering curse
+- Someone named Paga Nikohian may have accelerated the curse
+
+---
 
 ## Session Log
 
@@ -22,4 +35,4 @@ The party must clear the Temple so that **Eda Stone-Worth The Curse-Breaker** ca
 
 ### Not Yet Reached
 
-The party is still en route to the Temple, dealing with the Irate Dinosaur and White Flame Slime encounter.
+The party is still en route, dealing with the White Flame Slime encounter on the merchant street.
