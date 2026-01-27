@@ -22,10 +22,10 @@ She specifically mentioned **Paga Nikohian** as being in the Sun Temple.
 
 ## What the Party Knows
 
-- Eda/Cursebreaker has sprinted ahead and is likely already at the Temple
-- The Temple contains ancient magic connected to the Pillar-Watchers
-- Curse-breaker must reach the Temple to address the slithering curse
-- Someone named Paga Nikohian may have accelerated the curse
+- Eda/Cursebreaker has sprinted ahead and is likely already at the Temple.
+- The Temple contains ancient magic connected to the Pillar-Watchers.
+- Curse-breaker must reach the Temple to address the slithering curse.
+- Someone named Paga Nikohian may have accelerated the curse.
 
 ---
 
