@@ -57,8 +57,8 @@
 
 ## What to do now!
 
-1. Please read step 0. This step describes the possible content that could come up in-game. Link to step 0: [Content-warning.md
-](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Info/Content-warning.md)
+1. Please read the content warning. This step describes the possible content that could come up in-game. Link: [Content-warning.md
+](Content-warning.md)
 2. Please decide if you consent to this content being possibly in the game.
 3. Go to the ✅-join-the-campaign channel and tick the ✅ emoji.
 
