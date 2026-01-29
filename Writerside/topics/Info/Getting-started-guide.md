@@ -38,7 +38,7 @@
 >> - Campaign 6 Kibwe. Level 6 -> 8.
 >> - Campaign 7 StarFinder. Level 1 -> 15.
 
-> Table of contents.
+## Table of contents.
 >> - Step 0 = Content Warning about Possible Content.
 >> - Step 1 = Telegram.
 >> - Step 2 = Discord.
