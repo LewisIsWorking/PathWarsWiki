@@ -18,7 +18,8 @@
 
 > To join the campaign, please read the following steps:
 >> - Meet the requirements (above this text).
->> - Read the content warning guide.
+>> - Read the [content warning
+](Content-warning.md) guide.
 >> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
 >> - Join the telegram group.
 >> - Play with us! :3
