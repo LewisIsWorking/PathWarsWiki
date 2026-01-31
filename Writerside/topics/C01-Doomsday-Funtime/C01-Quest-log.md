@@ -57,3 +57,8 @@
 >> - SELENOR gained a THIRD OF THE FINAL SPELL from the BLACK SPHINX near the Pillars of the Sun. 
 >> - This butterfly has abilities that Selenor can not access. 
 >> - NEFRETI CLEPATI, in the ALL SEEING EYE TEMPLE in SOTHIS can help Selenor unlock the full potential of the butterfly
+
+> Carnon and The Pale
+>> - Mr. Quirk has agreed to help Carnon fight the Pale and cure him of his Demonness. 
+>> - Whoever has Carnon's Soul Contract will be influence the Ring. 
+>> - Space Dad
