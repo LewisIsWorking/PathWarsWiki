@@ -201,12 +201,12 @@
 >> - Marlo runs a "legitimate" business by Riddleport standards.
 >> - This makes him controversial among crime lords for his non-violent business approach.
 
-> Larur Feldin
+> Grudge Ironbellow
 >> - **Floor Manager**
 >> - Runs the day-to-day operations. 
 >> - Has a grudge against Beltias Kreun for cheating the bounder tables and escaping before punishment could be administered.
 
-> Marzielle Ajuela
+> Scarlet Vayne
 >> - **Barmaid (Part-Time)**
 >> - Fiery woman, good with a sword. 
 >> - Grew up as a bastard, mocked as a child. 
@@ -226,16 +226,3 @@
 >> - Mean. 
 >> - Mid-tier fighter who could kill most people quickly... if not for his dodgy knee, bad back, old age, and missing eye.
 
-## Session Notes
-
-### Session: Arrival at the Silver Succubi (January 2026)
-
-The party (Cardigan, Rax, Necrila, Mad Rat) arrived at the Silver Succubi with a captured Beltias Kreun in tow. They were offered blue bomb shots by a Shisk server upon entry.
-
-> **Key moments:**
->> - Mad Rat warned the party about Marlo's clockwork hand and the importance of respect.
->> - The party observed the full interior
->> - Old Scratch greeted them with typical vulgarity
->> - Drinks were offered
-
-**Pending:** Meeting with Marlo Kaspar Viktor Cyrus regarding Beltias Kreun.
