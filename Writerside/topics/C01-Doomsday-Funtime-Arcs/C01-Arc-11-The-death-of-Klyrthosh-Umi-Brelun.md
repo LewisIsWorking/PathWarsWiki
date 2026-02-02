@@ -79,321 +79,194 @@
 
 ## Session 268. Play by post.
 
-Path Wars, [10/01/2026 08:17]
-@Nemesiux wants to see the High Mourner.
-
-Path Wars, [10/01/2026 12:38]
-Does the party go to the temple of Pharasma?
-
-Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [10/01/2026 23:21]
-Yee
-
-Path Wars, [12/01/2026 03:17]
--= The Church of Pharasma =-
-
-Path Wars, [12/01/2026 05:23]
-Magnimar is the City of Monuments, and the Church of Pharasma is partially a monument itself.
-
-Path Wars, [12/01/2026 05:24]
-This temple is from the age of legends.
-
-Path Wars, [12/01/2026 05:24]
-Since then it has been restored, built around and expanded upon.
-
-Path Wars, [12/01/2026 05:24]
-The building's foundation is Sin Empire stonework: massive blocks of rune-carved basalt and other stone.
-
-Path Wars, [12/01/2026 05:25]
-The empire of sin built everything to last forever.
-
-Pharasma and her faith have outlasted the end of that world and endure forever.
-
-Path Wars, [12/01/2026 05:26]
-Rising from that foundation, the structure itself is pale blue-grey granite quarried from the Mind-spin Mountains.
-
-The surface of the building is carved with endless interlocking spirals that catch light differently throughout the day.
-
-Path Wars, [12/01/2026 05:27]
-At dawn, they seem to rotate sunwise.
-
-At dusk, widdershins (counterclockwise).
-
-The effect is not magical.
-
-It is merely exceptional craftsmanship requiring a patient understanding of how stone and light converse.
-
-Path Wars, [12/01/2026 05:28]
-One object dominates the Magnimarian church of Pharasma.
-
-It makes travelers stop in the street.
-
-It makes locals avert their eyes from habit.
-
-The Monument of Pharasma.
-
-Path Wars, [12/01/2026 05:28]
-A thirty-foot statue of the Lady of Graves stands before the entrance.
-
-Path Wars, [12/01/2026 05:29]
-The statue is carved from a single block of white marble veined with dark silver.
-
-Path Wars, [12/01/2026 05:30]
-The public knows this depiction well: a robed woman of serene authority.
-
-Pharasma's features are obscured by a deep cowl.
-
-One of her hands is extended in judgment while her other hand rests upon the pommel of a ceremonial dagger.
-
-Path Wars, [12/01/2026 05:31]
-The spiral of fate winds around her feet.
-
-For she is:
-
-The Judge of Souls.
-The Midwife.
-The Mortician.
-
-The goddess who ensures all things pass as they should.
-
-Path Wars, [12/01/2026 05:34]
-@Nemesiux
-
-With Selenor's Mastery of Magnimar Lore, you know that this statue is debated; it is odd.
-
-Details that scholars debate and the clergy decline to explain.
-
-Her cowl is carved too deeply.
-
-The shadows within suggest no face at all, just darkness where features should be.
-
-Her extended hand's fingers are perhaps a touch too long, too thin and strangely the joints have one knuckle more than human anatomy permits.
-
-Path Wars, [12/01/2026 05:35]
-Anatomists who've studied the statue note the fingers possess an additional phalange, which means four segments instead of three.
-
-Path Wars, [12/01/2026 05:36]
-The ceremonial dagger at her hip is also wrong: too long, the blade too curved, the handle seems to imply the possibility of dual wielding the dagger.
-
-The dagger: the divine weapon of Pharasma.
-
-Yet why does it look so wrong?
-
-Path Wars, [12/01/2026 05:37]
-At the feet of the statue is an ancient sin-powered clockwork mechanism that tracks time's passage.
-
-Path Wars, [12/01/2026 05:38]
-Gears of brass and silver rotate in precise intervals:
-
-one for heartbeats,
-
-one for breaths,
-
-one for days,
-
-one for years,
-
-one for ages.
-
-When a gear completes its cycle, it clicks and begins again.
-
-The Lady does not move.
-
-She does not need to. Everything comes to her eventually.
-
-Path Wars, [12/01/2026 05:38]
-The statue's pedestal bears words carved in Celestial, Common, and Requian (the language of the bone yard):
-
-Path Wars, [12/01/2026 05:38]
-"THE SPIRAL TURNS.
-
-THE LADY WAITS.
-
-ALL SOULS COME HOME."
-
-Path Wars, [12/01/2026 05:39]
-Tall windows of frosted glass line the church walls behind her, their panes etched with scenes of life's transitions:
-
-A mother in labour...
-
-A child taking first steps...
-
-A warrior falling in battle...
-
-An elder closing their eyes for the last time...
-
-Birth and death are given equal weight, equal dignity.
-
-The spiral connects them all.
-
-Path Wars, [12/01/2026 05:39]
-The entrance doors flank the statue's base.
-
-Silver-chased darkwood, warm to the touch despite the metal.
-
-Path Wars, [12/01/2026 05:40]
-The doors to the church (below the statue) are carved with the symbology of the psychopomps: the death angels of Pharasma.
-
-Path Wars, [12/01/2026 05:46]
-At the entrance, Selenor, you see a statue.
-
-It is a plague doctor.
-
-You look at the statue.
-
-The statue's masked face is elongated into a ceramic beak.
-
-It's body is wrapped in layered robes that move independent of wind.
-
-They carry a staff topped with a soul gem: it is housed in a delicate brass framework that contains pale lights that drift like drowsy fireflies.
-
-Then the statue moves.
-
-It moves with a slick movement that is not of this world.
-
-Path Wars, [12/01/2026 05:47]
-@Nemesiux
-
-Selenor.
-Your spirit sense tells you this is not a mortal being of life or unlife.
-
-Path Wars, [12/01/2026 05:49]
-The Pharasmin Plague Doctor speaks to you.
-
-The Plague Doctor's voice resonates from somewhere other than its throat.
-
-You guess perhaps they speak from the staff...
-
-Or perhaps nowhere physical at all.
-
-Path Wars, [12/01/2026 05:50]
-Plague Doctor:
-
-"Selenor.
-
-Your passage here was calculated to finish seventeen minutes ago.
-
-You are four minutes early.
-
-This creates paperwork."
-
-Path Wars, [12/01/2026 05:55]
-Plague Doctor waits for a moment, not speaking.
-
-Path Wars, [12/01/2026 05:55]
-The clockwork dial CLICKS above the Selenor and the rest of the group.
-
-Path Wars, [12/01/2026 05:58]
-The Plague Doctor:
-"The spiral acknowledges your arrival.
-The Grand Councilwoman Neferpatra Ahnkamen, high priest of Pharasma may have banished you but the lady of the graves has not."
-
-The plague doctor continues:
-You may enter here today but leave your assumptions at the threshold.
-They will not serve you here.
-I will be your guide, do not wander as your title would suggest.
-
-The High Mourner lays awaiting us in the Garden of Endings.
-Follow swiftly behind me.
-We will arrive there is 3 minutes and 42 seconds."
-
-The plague doctor checks an old brass clockwork time piece, attached on a silver chain that leads somewhere into his cloak.
-
-Path Wars, [12/01/2026 06:00]
-The doors swing open as the plague doctor turns.
-
-Path Wars, [12/01/2026 06:00]
--= Inside the Church =-
-
-Path Wars, [12/01/2026 06:01]
-The reception stretches longer than the exterior suggests, a common trick of Pharasmin architecture.
-
-Path Wars, [12/01/2026 06:01]
-This space bending trick to remind mortals that destinations are rarely as close as they appear.
-
-Path Wars, [12/01/2026 06:02]
-Pews carved from pale ash-wood face an altar dominated by a ten-foot silver spiral.
-
-The spiral rotates slowly on mechanisms hidden within the floor.
-
-Path Wars, [12/01/2026 06:02]
-Each rotation takes exactly one minute.
-
-The spiral has completed this rotation for hundreds of years.
-
-It has never stopped.
-
-It has never needed maintenance.
-
-Perhaps part of the original building?
-
-Path Wars, [12/01/2026 06:03]
-The walls bear alcoves containing life-masks and death-masks arranged in pairs: plaster impressions taken at birth and at death, displayed together to show the full journey.
-
-Path Wars, [12/01/2026 06:03]
-Some pairs span decades.
-
-Path Wars, [12/01/2026 06:03]
-Some, tragically, show nearly identical infant faces.
-
-Path Wars, [12/01/2026 06:03]
-The church does not discriminate in life & death.
-
-Path Wars, [12/01/2026 06:03]
-The church records all passages.
-
-Path Wars, [12/01/2026 06:04]
-Clerks in gray vestments move between stations.
-
-Some attending to ledgers thick as tombstones: (births, deaths, marriages, the last rites requested for many years ahead.
-
-Other Pharasmians are calibrating brass instruments that measure life force and divine energy.
-
-A cluster of mourners currently kneel before a side-altar dedicated to stillborn children, their grief held in practiced silence.
-
-Path Wars, [12/01/2026 06:05]
-Nearly everyone stops what they are doing and silently stares at the group.
-
-Path Wars, [12/01/2026 06:05]
-The previously silent room is still silent, but an awkward, heavy silence.
-
-Path Wars, [12/01/2026 06:06]
-Somewhere deeper, an infant cries.
-
-The church also serves as one of Magnimar's most respected midwiferies.
-
-Life and death.
-
-Always both.
-
-The same priestesses who ease souls into the world ease them out of it.
-
-Path Wars, [12/01/2026 06:07]
-A witch of Pharasma gestures toward a door at the reception's far end, marked with a blooming nightshade carved in jet:
-"The Garden. She's awaiting you."
-
-Her hushed words carry across the length of the room and to the ears of the group.
-
-Path Wars, [12/01/2026 06:07]
-The Plague Doctor strides across the room with impossible grace.
-
-Path Wars, [12/01/2026 06:07]
-You go through the door and through a consecrated passage.
-
-Path Wars, [12/01/2026 06:07]
-The Plague Doctor:
-"Welcome to the Garden of Endings."
-
-Path Wars, [12/01/2026 06:08]
-This garden should not exist.
-
-Magnimar's Keystone District is dense urban construction.
-
-There is no room for a garden spanning what appears to be three acres or more.
-
-Yet here it grows, bounded by walls that are always exactly fifty feet away, no matter how far Selenor and the heroes of Magnimar walk.
-
-Path Wars, [12/01/2026 06:09]
-The garden contains plants that flower only in moonlight.
+> PBP
+>> - Path Wars: @Nemesiux wants to see the High Mourner. 
+>> - Path Wars, [10/01/2026 12:38] Does the party go to the temple of Pharasma? 
+>> - Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [10/01/2026 23:21] Yee 
+>> - Path Wars, [12/01/2026 03:17] -= The Church of Pharasma =- 
+>> - Path Wars, [12/01/2026 05:23] Magnimar is the City of Monuments, and the Church of Pharasma is partially a monument itself. 
+>> - Path Wars, [12/01/2026 05:24]
+>> - This temple is from the age of legends. 
+>> - Path Wars, [12/01/2026 05:24]
+>> - Since then it has been restored, built around and expanded upon. 
+>> - Path Wars, [12/01/2026 05:24]
+>> - The building's foundation is Sin Empire stonework: massive blocks of rune-carved basalt and other stone. 
+>> - Path Wars, [12/01/2026 05:25]
+>> - The empire of sin built everything to last forever. 
+>> - Pharasma and her faith have outlasted the end of that world and endure forever. 
+>> - Path Wars, [12/01/2026 05:26]
+>> - Rising from that foundation, the structure itself is pale blue-grey granite quarried from the Mind-spin Mountains. 
+>> - The surface of the building is carved with endless interlocking spirals that catch light differently throughout the day. 
+>> - Path Wars, [12/01/2026 05:27]
+>> - At dawn, they seem to rotate sunwise. 
+>> - At dusk, widdershins (counterclockwise). 
+>> - The effect is not magical. 
+>> - It is merely exceptional craftsmanship requiring a patient understanding of how stone and light converse. 
+>> - Path Wars, [12/01/2026 05:28]
+>> - One object dominates the Magnimarian church of Pharasma. 
+>> - It makes travellers stop in the street. 
+>> - It makes locals avert their eyes from habit. 
+>> - The Monument of Pharasma. 
+>> - Path Wars, [12/01/2026 05:28]
+>> - A thirty-foot statue of the Lady of Graves stands before the entrance. 
+>> - Path Wars, [12/01/2026 05:29]
+>> - The statue is carved from a single block of white marble veined with dark silver. 
+>> - Path Wars, [12/01/2026 05:30]
+>> - The public knows this depiction well: a robed woman of serene authority. 
+>> - Pharasma's features are obscured by a deep cowl. 
+>> - One of her hands is extended in judgment while her other hand rests upon the pommel of a ceremonial dagger. 
+>> - Path Wars, [12/01/2026 05:31]
+>> - The spiral of fate winds around her feet. 
+>> - For she is:
+>> - The Judge of Souls. 
+>> - The Midwife. 
+>> - The Mortician. 
+>> - The goddess who ensures all things pass as they should. 
+>> - Path Wars, [12/01/2026 05:34]
+>> - @Nemesiux 
+>> - With Selenor's Mastery of Magnimar Lore, you know that this statue is debated; it is odd. 
+>> - Details that scholars debate and the clergy decline to explain. 
+>> - Her cowl is carved too deeply. 
+>> - The shadows within suggest no face at all, just darkness where features should be. 
+>> - Her extended hand's fingers are perhaps a touch too long, too thin and strangely the joints have one knuckle more than human anatomy permits. 
+>> - Path Wars, [12/01/2026 05:35]
+>> - Anatomists who've studied the statue note the fingers possess an additional phalange, which means four segments instead of three. 
+>> - Path Wars, [12/01/2026 05:36]
+>> - The ceremonial dagger at her hip is also wrong: too long, the blade too curved, the handle seems to imply the possibility of dual wielding the dagger. 
+>> - The dagger: the divine weapon of Pharasma. 
+>> - Yet why does it look so wrong? 
+>> - Path Wars, [12/01/2026 05:37]
+>> - At the feet of the statue is an ancient sin-powered clockwork mechanism that tracks time's passage. 
+>> - Path Wars, [12/01/2026 05:38]
+>> - Gears of brass and silver rotate in precise intervals:
+>> - one for heartbeats, 
+>> - one for breaths, 
+>> - one for days, 
+>> - one for years, 
+>> - one for ages. 
+>> - When a gear completes its cycle, it clicks and begins again. 
+>> - The Lady does not move. 
+>> - She does not need to. 
+>> - Everything comes to her eventually. 
+>> - Path Wars, [12/01/2026 05:38]
+>> - The statue's pedestal bears words carved in Celestial, Common, and Requian (the language of the bone yard):
+>> - Path Wars, [12/01/2026 05:38]
+>> - "THE SPIRAL TURNS. 
+>> - THE LADY WAITS. 
+>> - ALL SOULS COME HOME."
+>> - Path Wars, [12/01/2026 05:39]
+>> - Tall windows of frosted glass line the church walls behind her, their panes etched with scenes of life's transitions:
+>> - A mother in labour... 
+>> - A child taking first steps... 
+>> - A warrior falling in battle... 
+>> - An elder closing their eyes for the last time... 
+>> - Birth and death are given equal weight, equal dignity. 
+>> - The spiral connects them all. 
+>> - Path Wars, [12/01/2026 05:39]
+>> - The entrance doors flank the statue's base. 
+>> - Silver-chased darkwood, warm to the touch despite the metal. 
+>> - Path Wars, [12/01/2026 05:40]
+>> - The doors to the church (below the statue) are carved with the symbology of the psychopomps: the death angels of Pharasma. 
+>> - Path Wars, [12/01/2026 05:46]
+>> - At the entrance, Selenor, you see a statue. 
+>> - It is a plague doctor. 
+>> - You look at the statue. 
+>> - The statue's masked face is elongated into a ceramic beak. 
+>> - Its body is wrapped in layered robes that move independent of wind. 
+>> - They carry a staff topped with a soul gem: it is housed in a delicate brass framework that contains pale lights that drift like drowsy fireflies. 
+>> - Then the statue moves. 
+>> - It moves with a slick movement that is not of this world. 
+>> - Path Wars, [12/01/2026 05:47]
+>> - @Nemesiux 
+>> - Selenor. 
+>> - Your spirit sense tells you this is not a mortal being of life or unlife. 
+>> - Path Wars, [12/01/2026 05:49]
+>> - The Pharasmin Plague Doctor speaks to you. 
+>> - The Plague Doctor's voice resonates from somewhere other than its throat. 
+>> - You guess perhaps they speak from the staff... 
+>> - Or perhaps nowhere physical at all. 
+>> - Path Wars, [12/01/2026 05:50]
+>> - Plague Doctor:
+>> - "Selenor. 
+>> - "Your passage here was calculated to finish seventeen minutes ago." 
+>> - "You are four minutes early." 
+>> - "This creates paperwork."
+>> - Path Wars, [12/01/2026 05:55]
+>> - Plague Doctor waits for a moment, not speaking. 
+>> - Path Wars, [12/01/2026 05:55]
+>> - The clockwork dial CLICKS above the Selenor and the rest of the group. 
+>> - Path Wars, [12/01/2026 05:58]
+>> - The Plague Doctor:
+>> - "The spiral acknowledges your arrival." 
+>> - "The Grand Councilwoman Neferpatra Ahnkamen, high priest of Pharasma may have banished you but the lady of the graves has not."
+>> - The plague doctor continues:
+>> - "You may enter here today but leave your assumptions at the threshold."
+>> - "They will not serve you here."
+>> - "I will be your guide, do not wander as your title would suggest."
+>> - "The High Mourner lays awaiting us in the Garden of Endings."
+>> - "Follow swiftly behind me."
+>> - "We will arrive there is 3 minutes and 42 seconds."
+>> - The plague doctor checks an old brass clockwork time piece, attached on a silver chain that leads somewhere into his cloak. 
+>> - Path Wars, [12/01/2026 06:00]
+The doors swing open as the plague doctor turns. 
+>> - Path Wars, [12/01/2026 06:00]
+>> - -= Inside the Church =- 
+>> - Path Wars, [12/01/2026 06:01]
+>> - The reception stretches longer than the exterior suggests, a common trick of Pharasmin architecture. 
+>> - Path Wars, [12/01/2026 06:01]
+>> - This space bending trick to remind mortals that destinations are rarely as close as they appear. 
+>> - Path Wars, [12/01/2026 06:02]
+>> - Pews carved from pale ash-wood face an altar dominated by a ten-foot silver spiral. 
+>> - The spiral rotates slowly on mechanisms hidden within the floor. 
+>> - Path Wars, [12/01/2026 06:02]
+>> - Each rotation takes exactly one minute. 
+>> - The spiral has completed this rotation for hundreds of years. 
+>> - It has never stopped. 
+>> - It has never needed maintenance. 
+>> - Perhaps part of the original building? 
+>> - Path Wars, [12/01/2026 06:03]
+>> - The walls bear alcoves containing life-masks and death-masks arranged in pairs: plaster impressions taken at birth and at death, displayed together to show the full journey. 
+>> - Path Wars, [12/01/2026 06:03]
+>> - Some pairs span decades. 
+>> - Path Wars, [12/01/2026 06:03]
+>> - Some, tragically, show nearly identical infant faces. 
+>> - Path Wars, [12/01/2026 06:03]
+>> - The church does not discriminate in life & death. 
+>> - Path Wars, [12/01/2026 06:03]
+>> - The church records all passages. 
+>> - Path Wars, [12/01/2026 06:04]
+>> - Clerks in gray vestments move between stations. 
+>> - Some attending to ledgers thick as tombstones: (births, deaths, marriages, the last rites requested for many years ahead). 
+>> - Other Pharasmians are calibrating brass instruments that measure life force and divine energy. 
+>> - A cluster of mourners currently kneel before a side-altar dedicated to stillborn children, their grief held in practiced silence. 
+>> - Path Wars, [12/01/2026 06:05]
+>> - Nearly everyone stops what they are doing and silently stares at the group. 
+>> - Path Wars, [12/01/2026 06:05]
+>> - The previously silent room is still silent, but an awkward, heavy silence. 
+>> - Path Wars, [12/01/2026 06:06]
+>> - Somewhere deeper, an infant cries. 
+>> - The church also serves as one of Magnimar's most respected midwiferies. 
+>> - Life and death. 
+>> - Always both. 
+>> - The same priestesses who ease souls into the world ease them out of it. 
+>> - Path Wars, [12/01/2026 06:07]
+>> - A witch of Pharasma gestures toward a door at the reception's far end, marked with a blooming nightshade carved in jet:
+>> - "The Garden. She's awaiting you."
+>> - Her hushed words carry across the length of the room and to the ears of the group. 
+>> - Path Wars, [12/01/2026 06:07]
+>> - The Plague Doctor strides across the room with impossible grace. 
+>> - Path Wars, [12/01/2026 06:07]
+>> - You go through the door and through a consecrated passage. 
+>> - Path Wars, [12/01/2026 06:07]
+>> - The Plague Doctor:
+>> - "Welcome to the Garden of Endings."
+>> - Path Wars, [12/01/2026 06:08]
+>> - This garden should not exist. 
+>> - Magnimar's Keystone District is dense urban construction. 
+>> - There is no room for a garden spanning what appears to be three acres or more. 
+>> - Yet here it grows, bounded by walls that are always exactly fifty feet away, no matter how far Selenor and the heroes of Magnimar walk. 
+>> - Path Wars, [12/01/2026 06:09]
+>> - The garden contains plants that flower only in moonlight.
 
 Trees whose leaves fall in perpetual autumn regardless of season, and grave-markers so ancient their names have worn to whispers.
 
@@ -682,12 +555,56 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> - Leda hears the number 2 from the DawnFlower.
 >> - Cyrus pours from rum into the professor's grave.
 
-> 14:00. Keleri Lozar's house
+> 14:00. Professor Klyrthosh Umi Brelun & Keleri Lozar's house
+>> - The party find out the professor's true name.
 >> - Keleri Lozar is now Keleri Umi-Brelun, she will go by Umi from now on.
->> - Keleri and Umi are both members of the Order of the Eye.
->> - The Order of the Eye are allies of the Jewelled Sages.
->> - Selenor steals some of Led Altieri's soul dust using the Golden Flames from the Tome of the Golden Eye.
+>> - Professor Klyrthosh Umi Brelun, Keleri and Umi are all members of the Order of the Golden Eye.
+>> - The Order of the Golden Eye are allies of the Jewelled Sages.
+>> - Selenor coming into contact with the Tome of the Golden Eye causes Selenor to become dominated by the Golden Eye Tome.
+>> - Selenor becomes covered in golden flames, the grey flame runes on Selenor change for a moment to golden runes.
+>> - Selenor is compelled to steal soul dust from Leda Altieri using the Golden Flames from the Tome of the Golden Eye.
 >> - Selenor uses all of this to create a single page of a new magical tome.
->> - Selenor takes 20 of soul damage when touching the Tome of the Golden Eye.
->> - The new tome page has the number 2 on it.
+>> - Selenor regains control.
+>> - Allisee ties up Selenor to test what will happen when Selenor touches the Tome of the Golden Eye again.
+>> - Selenor takes 20 of soul damage when touching the Tome of the Golden Eye for a 2nd time.
+>> - Leda looks at the tome page and see that the new tome page has the number 2 on it.
 >> - As the number increases, Leda sees more and more sunlight piercing through the clouds of fear that hang over the town.
+>> - Leda Altieri should name the magical page at some point in the future.
+
+## Post Session 270 Play by post.
+> PBP started: 2026 January 31rd Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 2.
+>> - In-game location: Professor Klyrthosh Umi Brelun's house.
+>> - Present: Horia (Selenor), Anthony (Allisee), Joy (Solar), Lucas (Leda Altieri).
+>> - Side characters: Cardigan, Umi (aka Keleri Umi Brelun), Keleri Devrin and Amenopheus.
+
+## Session 271.
+> 2026 January 31st Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 3.
+>> - IRL start time: 18:36.
+>> - Delay duration: 0 hours & 0 minutes.
+>> - Players present: Horia (Selenor), Anthony (Allisee), Oscar (Carnon).
+>> - In-game location: Professor Klyrthosh Umi Brelun's house.
+
+> 15:00.
+>> - Carnon in Sandpoint.
+>> - Carnon talks to Brodert Quink to sell his Amaranthine Pavise (1000GP/2=500GP).
+>> - Brodert Quink is happy to help Carnon navigate the choices of his future.
+>> - Brodert Quink shows his Eto Library card to Carnon.
+>> - Brodert Quink explains that Tammerhawk & Brodert have travelled the world together.
+>> - Carnon asks Kendra to get Amenopheus to teleport Carnon.
+>> - Amenopheus teleports to Sandpoint then teleports Carnon to Ravengro.
+>> - Carnon put his hand on the curious goblin owner.
+>> - Carnon did this after asking him to make posters of Keleri with demon horns.
+>> - A ginger haired female guard brought Carnon to the Sandpoint homebase.
+>> - Carnon talked to Kendra about forming a council of 3 to divide the power of the sandpoint charter.
+>> - Carnon was asked for a shortlist, said Selenor but a member of the charter cannot lead the charter.
+>> - Kendra does not tell Amenopheus about Carnon's plan to form a council of 3 to divide the power of the sandpoint charter.
+>> - Selenor casts 10th rank illusionary image using the Sin Shard of Pride.
+>> - The illusion is of Ravengro being destroyed if the party don't stay for a month.
+>> - Selenor says:
+>> - "We are going to do this!"
+>> - We end the session with the group committing to stay in Raven Grow for a month to look after Umi and Raven Grow so that Selenor's vision of the town being destroyed doesn't come to pass.
+
+## Session 271. Play by post.
+> 2026 January 31st Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 3.
+>> - Characters present: Horia (Selenor), Anthony (Allisee), Oscar (Carnon), Joy (Solar), Lucas (Leda Altieri) & Bronwyn (Fuq Tank).
+>> - In-game location: Professor Klyrthosh Umi Brelun's house.
