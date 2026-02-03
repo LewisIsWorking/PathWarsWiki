@@ -98,6 +98,7 @@
 >> - A wheel divided into segments painted with leering undead faces. 
 >> - A skeletal mechanical hand drops the ball. 
 >> - A game that originates in Riddleport, part of the city's cultural history.
+>> - Operated by Whisper Vex, an opportunistic rogue who discovered the magic talking head and invented the game.
 
 > **Skiffs:**
 >> - A nine-square grid where sailors argue over the placement of coloured tokens while a bored dealer referees.
@@ -176,7 +177,7 @@
 >> - Muscled arms crossed. 
 >> - Expressions that invite trouble.
 
-### The Imp.
+### The Imp
 
 > High above the chest, suspended in a brass birdcage, crouches an **imp**.
 >> - Bat-winged, pointy-tailed, red-skinned, eyes like hot coals. 
@@ -184,58 +185,10 @@
 >> - He greets newcomers with vulgar Infernal screaming and heavily accented Common:
 >> - "WELCOME TO DAMNATION, FRESH MEAT! SPEND FREELY! TIP YOUR SERVERS! AND REMEMBER... THE HOUSE ALWAYS WINS!"
 
----
+### The Bar: The Succubus's Kiss
 
-## Key NPCs
-
-> Marlo Kaspar Viktor Cyrus
->> - **Owner**
->> - A short man in his fifties wearing a formal suit of black silk. 
->> - Thinning black hair slicked back. 
->> - His left arm ends just above the wrist, replaced with a masterwork clockwork prosthetic of brass and steel. 
->> - The mechanical hand eternally clutches a skeleton key of black iron covered in shifting runic engravings. 
->> - Everyone calls him "Marlo" or "Mr. Cyrus" (formal). 
->> - Don't stare at the hand. 
->> - Don't ask about it. 
->> - Don't make hand jokes. 
->> - Marlo runs a "legitimate" business by Riddleport standards.
->> - This makes him controversial among crime lords for his non-violent business approach.
-
-> Larur Feldin
->> - **Floor Manager**
->> - Runs the day-to-day operations. 
->> - Has a grudge against Beltias Kreun for cheating the bounder tables and escaping before punishment could be administered.
-
-> Marzielle Ajuela
->> - **Barmaid (Part-Time)**
->> - Fiery woman, good with a sword. 
->> - Grew up as a bastard, mocked as a child. 
->> - Recently discovered her father's name: Beltias Kreun. 
->> - Bears no love for him and intends to gut him publicly.
-
-> Old Scratch
->> - **Caged Imp**
->> - Paying off a debt to Marlo by performing at the establishment. 
->> - Cantankerous, vulgar, entertaining. 
->> - Screams obscenities and insults patrons.
-
-> Davy Crab-Basket
->> - **Door Bouncer**
->> - One-eyed orc. 
->> - Older. 
->> - Mean. 
->> - Mid-tier fighter who could kill most people quickly... if not for his dodgy knee, bad back, old age, and missing eye.
-
-## Session Notes
-
-### Session: Arrival at the Silver Succubi (January 2026)
-
-The party (Cardigan, Rax, Necrila, Mad Rat) arrived at the Silver Succubi with a captured Beltias Kreun in tow. They were offered blue bomb shots by a Shisk server upon entry.
-
-> **Key moments:**
->> - Mad Rat warned the party about Marlo's clockwork hand and the importance of respect.
->> - The party observed the full interior
->> - Old Scratch greeted them with typical vulgarity
->> - Drinks were offered
-
-**Pending:** Meeting with Marlo Kaspar Viktor Cyrus regarding Beltias Kreun.
+> The main bar serves the entire house.
+>> - A long bar of polished dark wood extends along the back wall and curves at each end.
+>> - Behind are mirrored shelves holding glassware, kegs of ale, beer and mead, and bottles of wine and liquor.
+>> - A constant line of servers take orders and carry trays of drinks between the bar and the casino floor.
+>> - The bar is named "The Succubus's Kiss", and a silver-plated statue of a succubus with outstretched arms forms the base of the bar itself, her lips parted in a seductive smile.

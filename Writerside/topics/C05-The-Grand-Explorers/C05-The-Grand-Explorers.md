@@ -35,7 +35,7 @@ In the dream, the character is presented with a choice of the following:
 
 ## When do the Grand Explorers Explore each week?
 
-V3.
+V3. CURRENT VERSION.
 The campaign is now a Play-by-Post and thus has no session schedule. :)
 
 V2.
