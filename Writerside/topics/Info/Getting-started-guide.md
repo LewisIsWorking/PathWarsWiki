@@ -6,7 +6,7 @@
 >> - Most players will be in their 20s and do not want to play with children.
 >> - If you are under 18: PLEASE LEAVE THE DISCORD SERVER AND TELEGRAM GROUP.
 
-> REQUIREMENT #2 = ONLY JOIN IF YOU ARE COMFORTABLE WITH THE CONTENT GUIDE.
+> REQUIREMENT #2 = ONLY JOIN IF YOU ARE COMFORTABLE WITH THE [CONTENT WARNING](Content-warning.md).
 
 > REQUIREMENT #3 = Commitment.
 >> - ONLY JOIN IF YOU CAN COMMIT TO MULTIPLE SESSIONS / THE DURATION OF THE PLAY BY POST.
@@ -18,7 +18,7 @@
 
 > To join the campaign, please read the following steps:
 >> - Meet the requirements (above this text).
->> - Read the content warning guide.
+>> - Read the [content warning](Content-warning.md) guide.
 >> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
 >> - Join the telegram group.
 >> - Play with us! :3
@@ -37,6 +37,30 @@
 >> - Campaign 5 The Grand Explorers. Level 1 -> 20.
 >> - Campaign 6 Kibwe. Level 6 -> 8.
 >> - Campaign 7 StarFinder. Level 1 -> 15.
+
+## Table of contents.
+>> - Step 0 = Content Warning about Possible Content.
+>> - Step 1 = Telegram.
+>> - Step 2 = Discord.
+>> - Step 3 = The Great Spoiler Warning.
+>> - Step 4 = How to Build Your Character’s Life.
+>> - Step 5 = Paizo Variant Rules.
+>> - Step 6 = Talk to the Game Master, me!
+>> - Step 7 = Path Builder 2e + Character Creation.
+>> - Step 8 = Foundry.
+>> - Step 9 = What is the Forge?
+>> - Step 10 = Join The Forge Campaign.
+>> - Step 11 = Request a Foundry User.
+>> - Step 12 = Log into the Foundry.
+>> - Step 13 = Desktop-ing Foundry.
+>> - Step 14 = Pick your player colour.
+>> - Step 15 = Request a Character sheet.
+>> - Step 16 = Open your character sheet.
+>> - Step 17 = Set up your character sheet on the Forge VTT.
+>> - Step 18 = Pick a token image.
+>> - Step 19 = Request Vision Setup + Token Placement.
+>> - Step 20 = Talk to the Game Master.
+>> - Step 21 = Everything might be ready.
 
 ## Welcome!
 
@@ -57,7 +81,8 @@
 
 ## What to do now!
 
-1. Please read step 0. This step describes the possible content that could come up in-game.
+1. Please read the content warning. This step describes the possible content that could come up in-game. Link: [Content-warning.md
+](Content-warning.md)
 2. Please decide if you consent to this content being possibly in the game.
 3. Go to the ✅-join-the-campaign channel and tick the ✅ emoji.
 
