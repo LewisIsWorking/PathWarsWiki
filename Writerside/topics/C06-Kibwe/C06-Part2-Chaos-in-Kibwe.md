@@ -11,12 +11,12 @@
 ## The State of Kibwe
 
 When the party entered the city, they found:
-- Guard towers unmanned—massive slimes had fused with the defensive walls
-- Small hamlets, stables, and markets outside the walls destroyed or deserted
-- Streets nearly empty; only non-human corpses visible
-- Shops shuttered, market stalls abandoned
-- Burning buildings throughout the city
-- Distant screams cut off with wet, bubbling gurgles
+- Guard towers unmanned—massive slimes had fused with the defensive walls.
+- Small hamlets, stables and markets outside the walls destroyed or deserted.
+- Streets nearly empty; only non-human corpses visible.
+- Shops shuttered, market stalls abandoned.
+- Burning buildings throughout the city.
+- Distant screams cut off with wet, bubbling gurgles.
 
 **Tal'lysae mentioned:** A halfling named **Paga Nikohian** may have accelerated the curse and is likely in the Sun Temple.
 
@@ -45,15 +45,15 @@ When the party entered the city, they found:
 
 ## Party Status
 
-| Character | Status |
-|-----------|--------|
-| Kieran | Calming the triceratops |
-| Lorn | Sensed kinship with the slime |
-| Fierce Leopard Cyrus | Active |
-| Tarsus Longstaff | Active |
-| Daichi Kenshin | Active |
-| Leilani Kana | Active |
-| Akwa | Active |
+| Character            | Status                        |
+|----------------------|-------------------------------|
+| Kieran               | Calming the triceratops       |
+| Lorn                 | Sensed kinship with the slime |
+| Fierce Leopard Cyrus | Active                        |
+| Tarsus Longstaff     | Active                        |
+| Daichi Kenshin       | Active                        |
+| Leilani Kana         | Active                        |
+| Akwa                 | Active                        |
 
 **NPCs with Party:**
 - **Tal'lysae** - Red Flame servant, guiding the party

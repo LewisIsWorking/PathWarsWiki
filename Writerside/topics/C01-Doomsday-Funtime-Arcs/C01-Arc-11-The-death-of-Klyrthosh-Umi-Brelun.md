@@ -608,3 +608,42 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 > 2026 January 31st Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 3.
 >> - Characters present: Horia (Selenor), Anthony (Allisee), Oscar (Carnon), Joy (Solar), Lucas (Leda Altieri) & Bronwyn (Fuq Tank).
 >> - In-game location: Professor Klyrthosh Umi Brelun's house.
+
+## Session 272.
+> 2026 February 07th Saturday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 4.
+>> - IRL start time: 00:46.
+>> - Delay duration: 4 hours & 46 minutes.
+>> - Players present: Horia (Selenor), Anthony (Allisee) & Lucas (Leda).
+>> - In-game location: Professor Klyrthosh Umi Brelun's house.
+>> - Raven Grow Day 1/30.
+
+> From now on the session start time will be 22:00.
+
+> 15:30.
+>> - In the professor's study.
+>> - Selenor reads about how the town's stone conducts protective magic currently, neutralising Ustalv's bonus to fear magic but the stone's protections could be flipped.
+>> - Professor's note: "Foundational stone created by ritual magic."
+>> - The party reads for about 30 minutes.
+
+> 16:00.
+>> - Walking around Raven Grow.
+>> - The party have dinner with Umi at 18:30.
+>> - The party has 2.5 hours to explore Raven Grow before dinner.
+>> - Leda Altieri is walking around the town, getting to know the town and its people. If there are any sick or needy, they will try to help (Leda is an expert in medicine).
+>> - Allisee was going to check out the crypt because the professor's notes mentioned stashing equipment in the crypt but gonna hold off until later.
+>> - Allisee saw that the deck of Harrowed Tales was reacting to a source of Harrow Magic in the town, so she is going to try to find the source of the Harrow Magic.
+>> - Viki is a main character (Void-Dragon Druid & Guardian). Viki is going to just go around the town.
+>> - Leda goes into the laughing demon. 
+>> - Leda meets Zokar, the owner of the laughing demon. Zokar is a cheerful and friendly guy who is happy to see a new face in town.
+>> - Leda offered help. 
+>> - Leda asks about the theme. Leda also says about where she's from they like festivals. 
+>> - Zokar tells Leda about services and shops. 
+>> - At the end I had Leda do a religion check, they got a 41 and I said that they see within Zokar the spark of potential.
+>> - One day Zokar could become a Sarenar worshipper if Leda brings light and hope to the town in the same Zokar brings light and hope to the town. 
+>> - Despite being offered the bowl of corpse chowder (which turned out to be fish stew) for free, Leda paid 1 silver piece then leaves.
+
+> 18:30. Arriving at Umi's house for dinner.
+
+> 19:30. Finished dinner.
+>> - Allisee is considering going to the crypt after dinner to check it out.
+>> - Allisee thinks that the professor (who they know was murdered) was a 4ish rank water spell caster so it wasn't a random villager that killed him.

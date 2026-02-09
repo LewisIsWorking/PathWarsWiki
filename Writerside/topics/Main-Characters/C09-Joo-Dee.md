@@ -16,4 +16,4 @@ But soon after, those insecurities disappeared.
 Not only was her pain gone, but she felt empowered by the hardened skin. 
 Her mood shifted drastically, and she found herself taking on more augmentations as her life went on. 
 She worked for The Professor for only a year before beginning her journey through the stars, but it was a year she cherished, as it marked a key turning point in her life. 
-Then, one day, about five years after she departed from Aballon, she received a message from the Professor and a rendezvous point for her transfer onto "The Nova Rush." 
+Then, one day, about five years after she departed from Aballon, she received a message from the Professor and a rendezvous point for her transfer onto "The Stargazer." 

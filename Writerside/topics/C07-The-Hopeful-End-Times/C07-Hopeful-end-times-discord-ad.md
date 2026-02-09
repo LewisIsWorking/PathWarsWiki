@@ -1,30 +1,29 @@
 # C7~StarFinder-2e-discord-ad.
 
-- Title: Starfinder 2e (play by post).
-- There is a lot of information here, but you do not need to read all or any of it. DM me, and I will walk you 
-  through everything.
+- Title: Hopeful Endtimes (play by post).
+- There is a lot of information here.
+- DM me, and I will walk you through everything.
 - I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
-- Campaign name: Starfinder.
-- System: Starfinder 2e (Pathfinder 2e with Starfinder 2e playtest).
+- System: Starfinder 2e.
 - Open Slots: 4.
-- Time & Frequency: constant (play by post).
+- Time & Frequency: constant but slow (play by post).
 - Campaign Description: The same group of characters is going to play through all of the Starfinder 2e play test's 
   adventures.
-- THIS IS NOT A WEST MARCH. I do not know why people always seem to assume this.
+- THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
 
 >> Where does the group play? 
 >> - The Platform the group rolls on is Foundry, you do not need to buy anything, I will help you get set up, and it is 
 totally free for players.
 >> - The group uses our telegram group chat for the play-by-post.
 
-- Setting: StarFinder's default Gap setting.
-- Level: 1. The campaign will go to level 15+.
+- Setting: StarFinder's default Gap setting with a few homebrew tweaks.
+- Level: 2. The campaign will go to level 15+.
 - I recommend using Path Builder to build your character.
-- You can use any PF2e content for character creation as well as the StarFinder 2e playtest content.
-- We have the StarFinder 2e playtest foundry module.
+- You can use any PF2e content for character creation as well as the StarFinder 2e.
 - What can I play regarding race, class, background, etc? Well, you can play anything.
-- You do not need to make your character a dual class.
+- You do not need to make your character a dual class, but you can if you want to.
 - The vetting process is on our discord server, **it is NOT in my DMs with you**.
+- Discord link is in my bio. :) 
 
 New players are welcome to DM me to join.
 :slight_smile:
@@ -35,7 +34,7 @@ You can also reach out to our campaign helpers:
 @mrnegetz
 @nemesiux
 
-## DO NOT PUT LINKS???
+## DO NOT PUT LINKS!
 
 - Getting started guide = [https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md)
 - Campaign wiki = [https://github.com/LewisIsWorking/PathWarsWiki](https://github.com/LewisIsWorking/PathWarsWiki)
