@@ -1,296 +1,296 @@
-<img width="447" height="658" alt="2026-02-16 21_03_20-AI Character Generator (free, no sign-up, unlimited) — Mozilla Firefox" src="https://github.com/user-attachments/assets/518a9984-06ad-4ac2-9749-c7e05f18665b" />  
-Out of character.  
-Question: Player Name?  
-Answer: Richard / CzarChasm23  
-Question: Campaign Name?  
-Answer: Hopeful End-Times  
-Core.  
-Question: What is your character's name?  
-Answer: Lowda Medina  
-Question: What does your character's first name mean?  
-Answer: OOC: cribbed from beltalowda from The Expanse  
-Question: What does your character's last name mean?  
-Answer: OOC: from Medina Station from the same series, a stronghold of the beltalowda.  
-Question: Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"  
-Answer:  
-Age.  
-For help on days, months and years of the world, click the following links:  
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.  
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md.  
-Question: How old is your character?  
-Answer: 25  
-Question: What year was your character born?  
-Answer: 285 AG  
-Question: What day is your character's birthday?  
-Answer: Neth 5  
-Question: At what age did the character become an adventurer?   
-Answer: 15  
-Class #1.  
-Question: What is your character's class?  
-Answer: Witchwarper  
-Question: Does your character enjoy their class?  
-Answer: Yes  
-Question: How did your character become their class?  
-Answer: They chose it.  
-Question: Who trained your character in their class?  
-Answer: Trained by Xylos, a Sarcesian recluse and former SFS member.  
-Class #2. (If using dual class) Normally dual class is gained during a session via a powerful artefact or a given boon. You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.  
-Question: What will/is your character's 2nd class be?  
-Answer: Witch  
-Question: Does/Will your character enjoy their 2nd class?  
-Answer: Yes  
-Race  
-Question: What is your character's Race?  
-Answer: Sarcesian  
-Question: What is your character's Sub-Race?  
-Answer: Prismeni  
-Question: Has your character met other members of their race?  
-Answer: Yes  
-Question: Does your character like your race?  
-Answer: Yes  
-Question: Does your character like any races in particular? Why?   
-Answer: They like ysoki for their community-oriented nature.  
-Question: Does your character hate any races in particular? Why?  
-Answer: Eoxians, clearly.  
-Parents and Family.  
-Question: Where was your character born?  
-Answer: The Diaspora  
-Question: Where were you raised?  
-Answer: In an ysoki creche in the Diaspora.  
-Question: Who raised your characters?  
-Answer: Grandmother Niska  
-Question: Who are your parents?  
-Answer: Two sarcesians.  
-Question: What are your parents' names?  
-Answer: Elara and Kaelen Medina  
-Question: Are your parents alive?  
-Answer: Yes  
-Question: What did your parents do for a living?  
-Answer: A cartographer and a mycologist  
-Question: Do you have any other family or friends?  
-Answer: Yes, Chik, an ysoki engineer.  
-Love.  
-Question: What is your character's sexuality?  
-Answer: Pan/Sapio  
-Question: What is your character's marital status?  
-Answer: Uninvolved.  
-Question: Does your character have kids?  
-Answer: No  
-Question: Does your character want kids?  
-Answer: Possibly  
-Question: Is your character in love?  
-Answer: Yes. With SPACE!!!  
-Question: Has your character ever been in love?  
-Answer: Briefly.  
-The Mind | Thoughts and Feelings.  
-Question: What is your character's alignment?  
-Answer: Chaotic Good  
-Question: What is your character's moral code?  
-Answer: One of the most noble purposes in life is adding to the collective knowledge of the known universe by exploration.   
-Question: Does your character have goals?  
-Answer: Find out what The Traveler (and possibly Weydan) have planned for him.  
-Question: Does your character follow a God?  
-Answer: Yes  
-Question: What God (if any) does your character follow?  
-Answer: Weydan  
-Question: What are your character's personal beliefs?  
-Answer: Always side with the underdog.  
-Question: Does your character have any personality quirks?  
-Answer: They talk with their hands a lot.  
-Question: Are they anti-social?  
-Answer: Not quite, but they do value periods of solitude.   
-Question: Are they Arrogant?  
-Answer: No  
-Question: Are they Optimistic?  
-Answer: Yes.  
-Question: Are They Paranoid?  
-Answer: No  
-Question: Why does your character adventure?   
-Answer: To explore the unknown regions of space.  
-Question: How does your character view his/her role as an adventurer?  
-Answer: They have a responsibility to aid the communities they travel through.  
-Question: How does your character get along with others?  
-Answer: Yes.  
-Question: Is there anything that your character hates?  
-Answer: Injustice, tyranny, cruelty.  
-Question: Is there anything that your character fears?  
-Answer: Not being able to see it all.  
-Question: What sin does your character align with closest? Greed, Pride, Lust, Envy, Gluttony, Wrath or Sloth?  
-Answer: Lust or Gluttony  
-Question: What apocalypse would your character most likely cause: War, Famine, Pestilence or Death?  
-Answer: War  
-The Body | Biological Appearance.  
-Question: What does your character look like?  
-Answer: Tall grey and slender, like all sarcesians.   
-Question: Gender?  
-Answer: Male  
-Question: Height?  
-Answer: 14 feet  
-Question: Weight?  
-Answer: 250lbs? Not sure what a sarcesian should weigh.  
-Question: Skin colour?  
-Answer: Grey   
-Question: Eye colour?  
-Answer: White glowing  
-Question: Hair colour?  
-Answer: None  
-Question: Hair length?  
-Answer: None  
-Question: Hairstyle?  
-Answer: None  
-Question: Physique and body shape?  
-Answer: Slim but not frail.  
-Question: What additional attributes would be noticed upon meeting the character?  
-Answer: At the moment they are still injured from the first scream slamming them against a wall, so there are bruises and scrapes everywhere.  
-Question: How do they Speak?  
-Answer: His voice is very gentle and smooth.  
-Question: What are their Mannerisms?  
-Answer: They are very expressive when they speak, using their hands along with whatever they are saying whether they are in vacuum or not, if they have a free hand or two.  
-Question: Does your character have any distinguishing marks?  
-Answer: No  
-Question: Do they have birthmarks?  
-Answer: When studied closely, their eyes are actually opalescent, containing fractured shafts of multicolored light that, combined together, produce a faint white glow.  
-Question: Do they have Scars?  
-Answer: No  
-Question: Do they have Deformities?  
-Answer: No  
-Question: Is your character attractive?  
-Answer: Are giant, bald drow with space wings your thing? Then yes, probably.  
-Question: Whatever is applicable: Cock Size? Breast Size? Cock Size = 2d6 for inches. 1d10 for decimal place. If you roll 7 and 5, you get a 7.5-inch dick.  
-Answer: I’ll roll for dick size if it ever becomes relevant, which I’m not planning on.  
-Question: Any aspects of your character that are unusual?  
-Answer: They seem to be drawing an awful lot of attention from other realms.  
-Weapons.  
-Question: What kind of weapons does your character fight with?  
-Answer: They prefer to use their crossbolter from a distance, and their baton when people get too close.  
-Question: What does your character's weapon look like?  
-Answer: The crossbolter is painted a dull, dark metallic blue with various physics formulae etched into the paint in thin bright white lines across the back of the bow.  
-Question: Who made your character's weapon?  
-Answer: They purchased it on the Farabarrium.  
-Question: Who added the runes to your character's weapons?  
-Answer: They don’t have any yet.  
-Question: Who trained your character in using weapons?  
-Answer: They learned alongside the various expeditioners they’ve worked with over the last 10 years.  
-Question: Does your character like using weapons?  
-Answer: Not particularly, they prefer problems that can be solved with a spell or better pre-planning.  
-Armour.  
-Question: What kind of armour does your character wear?  
-Answer: They wear regular explorer’s clothing.  
-Question: What does your character's armour look like?  
-Answer: A thick cloth duster/trenchcoat.  
-Question: Who made your character's armour?  
-Answer: Purchased from a warehouse outlet, it would take too much effort to find out.  
-Question: Who added the runes to your character's armour?  
-Answer: They don’t have any runes.  
-Question: Who trained your character in wearing armour?  
-Answer: They are untrained.  
-Question: Does your character like wearing armour?  
-Answer: Not applicable.  
-Magic  
-Question: What kind of magic does your character use?  
-Answer: All sorts - arcane, occult, and divine so far.  
-Question: Does your character like magic?  
-Answer: Very much so.  
-Question: Is your character magical?  
-Answer: Seems that way.  
-Question: How is your character magical?  
-Answer: Born in the Drift, became a witchwarper, then a witch, and now an animist. There’s four ways right there.  
-Question: Who trained your character in using weapons?  
-Answer: Their compatriots on their expeditions around the Diaspora.  
-Question: Does your character like using weapons?   
-Answer: No.  
-Question: Do you have any magical items? Staff? Wands?  
-Answer: No.  
-Question: Where did you get your magical items?  
-Answer: Not applicable.  
-Spell Caster.  
-Question: Can your character cast spells?  
-Answer: Yes.  
-Question: What tradition is your character's magic? Arcane? Primal? Divine? Occult?  
-Answer: All but primal.  
-Question: Where does your character's magic come from?  
-Answer: The witchwarping is innate, possibly fuelled by their prismeni heritage. Then they made a deal with an extradimensional being that they assumed was an envoy of their god Weydan and became a Witch, and now they are also developing Animist powers.  
-Question: Who trained your character to use your magic?  
-Answer: A sarcesian hermit, an outsider, and some ghosts.  
-Question: What does your character like to do with your magic?  
-Answer: Learn more about how the universe works.  
-Question: What is the highest level spell slot your character has access to?  
-Answer: Level 1.  
-Equipment.  
-Question: Does your character have a backpack?  
-Answer: Yes.  
-Question: What does your character's backpack look like?  
-Answer: A long round canvas duffel almost the length of their torso.  
-Question: Does your character have a bag of holding?  
-Answer: No.  
-Question: What does your character's bag of holding look like?  
-Answer: Not applicable.  
-Food and Drink.  
-Question: What does your character like to eat?  
-Answer: They are fond of the various bland nutrient nuggets, pastes and broths found on Diasporan ships and stations.  
-Question: What does your character not like to eat?  
-Answer: They try their best not to eat sentient life.  
-Question: What does your character like to drink?  
-Answer: They enjoy fruit juices and other high-calorie drinks and will occasionally have that instead of a meal.  
-Question: What does your character not like to drink?  
-Answer: Alcohol.  
-Question: Does your character cook?  
-Answer: They can cook basic Diasporan cuisine, which basically means they can mix the correct proportions of the various base pastes to make something palatable.  
-Question: Does your character drink alcohol? If so, how heavily?  
-Answer: No, they prefer a better sense of control when inebriated.  
-Question: Do they partake in Drugs?  
-Answer: They are partial to spiritual doses of hallucinogens from time to time, in controlled and safe settings.  
-Alignment Scale.  
-Question: What is your character's alignment scale?  
-Answer: Very Chaotic Good?  
-Go to this page to find out your alignment scale:  
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md  
-Plot hooks.  
-You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around.  
-Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:  
-Question: What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a power or finding their calling)?  
-Answer: Finding out what The Traveler truly wants of them.  
-Question: Does your character have a relationship they want to build or repair (for example, with a family member, a mentor or even an estranged enemy)?  
-Answer: They would like to be able to travel with their friend Chik again, but realize that is unlikely to happen.  
-Question: Is there a location they have always wanted to visit or conquer? Why?  
-Answer: All of the great mysteries of the Pact World systems call to him, Salvation’s End, the Threshold Enigma, the Ghost Levels.  
-Question: Does your character have an ideal legacy they wish to leave behind?  
-Answer: They want to discover something that makes a positive difference for all life in the galaxy.  
-Question: What is one immediate, achievable goal they are pursuing right now?  
-Answer: To get to Aballon Station to find out what The Traveler is seeking, and to figure out why he can suddenly see ghosts - and it all seems to be tied into these Screams.  
-Question: Is there a wrong they feel compelled to make right, either for themselves or someone else?  
-Answer: They tend to have a bleeding heart for those in need as it is, and exposure to ghosts with tragic pasts might also mean he will have a lot of windmills to tilt at soon.  
-Question: What is a selfish desire they may not admit to others but secretly want to fulfill?  
-Answer:   
-Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party? Examples include:   
-Question: Do they have a past mistake or failure they are ashamed of?  
-Answer:   
-Question: Is there a relationship, alliance or obligation they have not told the party about (for example, a debt to a villain or membership in a questionable group)?  
-Answer: They don’t like to get into too many details about their relationship with The Traveler, partly because they are starting to wonder if he really is an envoy of Weydan, and partly because they don’t like admitting that they are, ultimately, a servant now, despite their current master seeming to have a beneficent disposition.  
-Question: Are they concealing something magical, cursed or otherwise unusual about themselves?  
-Answer: They like to present their patron’s relationship with them as “working together,” because admitting that they are bound is slightly embarrassing to them as a sarcesian. They are also likely to keep their ability to see ghosts to themselves for the time being, or at least until it becomes relevant to discovering what caused them to develop those abilities in the first place.  
-Question: Do they harbour feelings of jealousy, resentment or distrust toward a party member? Why?  
-Answer: They don’t know any of them yet.  
-Question: Is there an ulterior motive behind their reason for adventuring with the party that they have not shared?  
-Answer: They might not share their mission from the Traveler immediately, and may try to come up with some other excuse for why they are on Absalom Station.  
-Part 3 of 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:  
-Question: Does your character have an unspoken grudge or tension with another party member?  
-Answer: Don’t know them yet.  
-Question: Are their goals or ideals incompatible with the party's mission?  
-Answer: Unlikely - hopefully they are interested in figuring out what the Screams were as well, which Lowda assumes is part of his mission from The Traveler.   
-Question: Is there anything about their personality that might clash with others?  
-Answer: He would only have issues with those who are pro-undead or those who are willing to throw away or destroy undiscovered knowledge.  
-Question: Are they hiding something that could potentially harm or betray the party?  
-Answer: Not that they’re aware of. Depends on how rowdy these ghosts get.  
-Backstory.  
-Question: Finally, what is your character's backstory?  
-Answer:   
-Backstory by each Year.  
-Now find out the current campaign's current in-game year. For Doomsday Funtime it is currently 4710 AR. If your character is 25 years old, then your character was born in 4685 AR.  
-Take each year, put a colon and write what the character did that year, starting with their birth year. In the above example, it would go like this: 4685 AR, age 0: Born to my parents in Deep-Water. 4686 AR, age 1: The dragon attack on Deep-Water, parents are dead. ... (You would fill this in). 4705 AR, age 20: Achieved first level in rogue. 4708 AR, age 23: Joined the party.  
-If you have any other questions about this, please contact me on my telegram.  
-  
-Lowda Medina: A Life in the Drift  
+<img width="447" height="658" alt="2026-02-16 21_03_20-AI Character Generator (free, no sign-up, unlimited) — Mozilla Firefox" src="https://github.com/user-attachments/assets/518a9984-06ad-4ac2-9749-c7e05f18665b"/>  <br/>
+Out of character.  <br/>
+Question: Player Name?  <br/>
+Answer: Richard / CzarChasm23  <br/>
+Question: Campaign Name?  <br/>
+Answer: Hopeful End-Times  <br/>
+Core.  <br/>
+Question: What is your character's name?  <br/>
+Answer: Lowda Medina  <br/>
+Question: What does your character's first name mean?  <br/>
+Answer: OOC: cribbed from beltalowda from The Expanse  <br/>
+Question: What does your character's last name mean?  <br/>
+Answer: OOC: from Medina Station from the same series, a stronghold of the beltalowda.  <br/>
+Question: Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"  <br/>
+Answer:  <br/>
+Age.  <br/>
+For help on days, months and years of the world, click the following links:  <br/>
+https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.  <br/>
+https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md.  <br/>
+Question: How old is your character?  <br/>
+Answer: 25  <br/>
+Question: What year was your character born?  <br/>
+Answer: 285 AG  <br/>
+Question: What day is your character's birthday?  <br/>
+Answer: Neth 5  <br/>
+Question: At what age did the character become an adventurer?   <br/>
+Answer: 15  <br/>
+Class #1.  <br/>
+Question: What is your character's class?  <br/>
+Answer: Witchwarper  <br/>
+Question: Does your character enjoy their class?  <br/>
+Answer: Yes  <br/>
+Question: How did your character become their class?  <br/>
+Answer: They chose it.  <br/>
+Question: Who trained your character in their class?  <br/>
+Answer: Trained by Xylos, a Sarcesian recluse and former SFS member.  <br/>
+Class #2. (If using dual class) Normally dual class is gained during a session via a powerful artefact or a given boon. You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.  <br/>
+Question: What will/is your character's 2nd class be?  <br/>
+Answer: Witch  <br/>
+Question: Does/Will your character enjoy their 2nd class?  <br/>
+Answer: Yes  <br/>
+Race  <br/>
+Question: What is your character's Race?  <br/>
+Answer: Sarcesian  <br/>
+Question: What is your character's Sub-Race?  <br/>
+Answer: Prismeni  <br/>
+Question: Has your character met other members of their race?  <br/>
+Answer: Yes  <br/>
+Question: Does your character like your race?  <br/>
+Answer: Yes  <br/>
+Question: Does your character like any races in particular? Why?   <br/>
+Answer: They like ysoki for their community-oriented nature.  <br/>
+Question: Does your character hate any races in particular? Why?  <br/>
+Answer: Eoxians, clearly.  <br/>
+Parents and Family.  <br/>
+Question: Where was your character born?  <br/>
+Answer: The Diaspora  <br/>
+Question: Where were you raised?  <br/>
+Answer: In an ysoki creche in the Diaspora.  <br/>
+Question: Who raised your characters?  <br/>
+Answer: Grandmother Niska  <br/>
+Question: Who are your parents?  <br/>
+Answer: Two sarcesians.  <br/>
+Question: What are your parents' names?  <br/>
+Answer: Elara and Kaelen Medina  <br/>
+Question: Are your parents alive?  <br/>
+Answer: Yes  <br/>
+Question: What did your parents do for a living?  <br/>
+Answer: A cartographer and a mycologist  <br/>
+Question: Do you have any other family or friends?  <br/>
+Answer: Yes, Chik, an ysoki engineer.  <br/>
+Love.  <br/>
+Question: What is your character's sexuality?  <br/>
+Answer: Pan/Sapio  <br/>
+Question: What is your character's marital status?  <br/>
+Answer: Uninvolved.  <br/>
+Question: Does your character have kids?  <br/>
+Answer: No  <br/>
+Question: Does your character want kids?  <br/>
+Answer: Possibly  <br/>
+Question: Is your character in love?  <br/>
+Answer: Yes. With SPACE!!!  <br/>
+Question: Has your character ever been in love?  <br/>
+Answer: Briefly.  <br/>
+The Mind | Thoughts and Feelings.  <br/>
+Question: What is your character's alignment?  <br/>
+Answer: Chaotic Good  <br/>
+Question: What is your character's moral code?  <br/>
+Answer: One of the most noble purposes in life is adding to the collective knowledge of the known universe by exploration.   <br/>
+Question: Does your character have goals?  <br/>
+Answer: Find out what The Traveler (and possibly Weydan) have planned for him.  <br/>
+Question: Does your character follow a God?  <br/>
+Answer: Yes  <br/>
+Question: What God (if any) does your character follow?  <br/>
+Answer: Weydan  <br/>
+Question: What are your character's personal beliefs?  <br/>
+Answer: Always side with the underdog.  <br/>
+Question: Does your character have any personality quirks?  <br/>
+Answer: They talk with their hands a lot.  <br/>
+Question: Are they anti-social?  <br/>
+Answer: Not quite, but they do value periods of solitude.   <br/>
+Question: Are they Arrogant?  <br/>
+Answer: No  <br/>
+Question: Are they Optimistic?  <br/>
+Answer: Yes.  <br/>
+Question: Are They Paranoid?  <br/>
+Answer: No  <br/>
+Question: Why does your character adventure?   <br/>
+Answer: To explore the unknown regions of space.  <br/>
+Question: How does your character view his/her role as an adventurer?  <br/>
+Answer: They have a responsibility to aid the communities they travel through.  <br/>
+Question: How does your character get along with others?  <br/>
+Answer: Yes.  <br/>
+Question: Is there anything that your character hates?  <br/>
+Answer: Injustice, tyranny, cruelty.  <br/>
+Question: Is there anything that your character fears?  <br/>
+Answer: Not being able to see it all.  <br/>
+Question: What sin does your character align with closest? Greed, Pride, Lust, Envy, Gluttony, Wrath or Sloth?  <br/>
+Answer: Lust or Gluttony  <br/>
+Question: What apocalypse would your character most likely cause: War, Famine, Pestilence or Death?  <br/>
+Answer: War  <br/>
+The Body | Biological Appearance.  <br/>
+Question: What does your character look like?  <br/>
+Answer: Tall grey and slender, like all sarcesians.   <br/>
+Question: Gender?  <br/>
+Answer: Male  <br/>
+Question: Height?  <br/>
+Answer: 14 feet  <br/>
+Question: Weight?  <br/>
+Answer: 250lbs? Not sure what a sarcesian should weigh.  <br/>
+Question: Skin colour?  <br/>
+Answer: Grey   <br/>
+Question: Eye colour?  <br/>
+Answer: White glowing  <br/>
+Question: Hair colour?  <br/>
+Answer: None  <br/>
+Question: Hair length?  <br/>
+Answer: None  <br/>
+Question: Hairstyle?  <br/>
+Answer: None  <br/>
+Question: Physique and body shape?  <br/>
+Answer: Slim but not frail.  <br/>
+Question: What additional attributes would be noticed upon meeting the character?  <br/>
+Answer: At the moment they are still injured from the first scream slamming them against a wall, so there are bruises and scrapes everywhere.  <br/>
+Question: How do they Speak?  <br/>
+Answer: His voice is very gentle and smooth.  <br/>
+Question: What are their Mannerisms?  <br/>
+Answer: They are very expressive when they speak, using their hands along with whatever they are saying whether they are in vacuum or not, if they have a free hand or two.  <br/>
+Question: Does your character have any distinguishing marks?  <br/>
+Answer: No  <br/>
+Question: Do they have birthmarks?  <br/>
+Answer: When studied closely, their eyes are actually opalescent, containing fractured shafts of multicolored light that, combined together, produce a faint white glow.  <br/>
+Question: Do they have Scars?  <br/>
+Answer: No  <br/>
+Question: Do they have Deformities?  <br/>
+Answer: No  <br/>
+Question: Is your character attractive?  <br/>
+Answer: Are giant, bald drow with space wings your thing? Then yes, probably.  <br/>
+Question: Whatever is applicable: Cock Size? Breast Size? Cock Size = 2d6 for inches. 1d10 for decimal place. If you roll 7 and 5, you get a 7.5-inch dick.  <br/>
+Answer: I’ll roll for dick size if it ever becomes relevant, which I’m not planning on.  <br/>
+Question: Any aspects of your character that are unusual?  <br/>
+Answer: They seem to be drawing an awful lot of attention from other realms.  <br/>
+Weapons.  <br/>
+Question: What kind of weapons does your character fight with?  <br/>
+Answer: They prefer to use their crossbolter from a distance, and their baton when people get too close.  <br/>
+Question: What does your character's weapon look like?  <br/>
+Answer: The crossbolter is painted a dull, dark metallic blue with various physics formulae etched into the paint in thin bright white lines across the back of the bow.  <br/>
+Question: Who made your character's weapon?  <br/>
+Answer: They purchased it on the Farabarrium.  <br/>
+Question: Who added the runes to your character's weapons?  <br/>
+Answer: They don’t have any yet.  <br/>
+Question: Who trained your character in using weapons?  <br/>
+Answer: They learned alongside the various expeditioners they’ve worked with over the last 10 years.  <br/>
+Question: Does your character like using weapons?  <br/>
+Answer: Not particularly, they prefer problems that can be solved with a spell or better pre-planning.  <br/>
+Armour.  <br/>
+Question: What kind of armour does your character wear?  <br/>
+Answer: They wear regular explorer’s clothing.  <br/>
+Question: What does your character's armour look like?  <br/>
+Answer: A thick cloth duster/trenchcoat.  <br/>
+Question: Who made your character's armour?  <br/>
+Answer: Purchased from a warehouse outlet, it would take too much effort to find out.  <br/>
+Question: Who added the runes to your character's armour?  <br/>
+Answer: They don’t have any runes.  <br/>
+Question: Who trained your character in wearing armour?  <br/>
+Answer: They are untrained.  <br/>
+Question: Does your character like wearing armour?  <br/>
+Answer: Not applicable.  <br/>
+Magic  <br/>
+Question: What kind of magic does your character use?  <br/>
+Answer: All sorts - arcane, occult, and divine so far.  <br/>
+Question: Does your character like magic?  <br/>
+Answer: Very much so.  <br/>
+Question: Is your character magical?  <br/>
+Answer: Seems that way.  <br/>
+Question: How is your character magical?  <br/>
+Answer: Born in the Drift, became a witchwarper, then a witch, and now an animist. There’s four ways right there.  <br/>
+Question: Who trained your character in using weapons?  <br/>
+Answer: Their compatriots on their expeditions around the Diaspora.  <br/>
+Question: Does your character like using weapons?   <br/>
+Answer: No.  <br/>
+Question: Do you have any magical items? Staff? Wands?  <br/>
+Answer: No.  <br/>
+Question: Where did you get your magical items?  <br/>
+Answer: Not applicable.  <br/>
+Spell Caster.  <br/>
+Question: Can your character cast spells?  <br/>
+Answer: Yes.  <br/>
+Question: What tradition is your character's magic? Arcane? Primal? Divine? Occult?  <br/>
+Answer: All but primal.  <br/>
+Question: Where does your character's magic come from?  <br/>
+Answer: The witchwarping is innate, possibly fuelled by their prismeni heritage. Then they made a deal with an extradimensional being that they assumed was an envoy of their god Weydan and became a Witch, and now they are also developing Animist powers.  <br/>
+Question: Who trained your character to use your magic?  <br/>
+Answer: A sarcesian hermit, an outsider, and some ghosts.  <br/>
+Question: What does your character like to do with your magic?  <br/>
+Answer: Learn more about how the universe works.  <br/>
+Question: What is the highest level spell slot your character has access to?  <br/>
+Answer: Level 1.  <br/>
+Equipment.  <br/>
+Question: Does your character have a backpack?  <br/>
+Answer: Yes.  <br/>
+Question: What does your character's backpack look like?  <br/>
+Answer: A long round canvas duffel almost the length of their torso.  <br/>
+Question: Does your character have a bag of holding?  <br/>
+Answer: No.  <br/>
+Question: What does your character's bag of holding look like?  <br/>
+Answer: Not applicable.  <br/>
+Food and Drink.  <br/>
+Question: What does your character like to eat?  <br/>
+Answer: They are fond of the various bland nutrient nuggets, pastes and broths found on Diasporan ships and stations.  <br/>
+Question: What does your character not like to eat?  <br/>
+Answer: They try their best not to eat sentient life.  <br/>
+Question: What does your character like to drink?  <br/>
+Answer: They enjoy fruit juices and other high-calorie drinks and will occasionally have that instead of a meal.  <br/>
+Question: What does your character not like to drink?  <br/>
+Answer: Alcohol.  <br/>
+Question: Does your character cook?  <br/>
+Answer: They can cook basic Diasporan cuisine, which basically means they can mix the correct proportions of the various base pastes to make something palatable.  <br/>
+Question: Does your character drink alcohol? If so, how heavily?  <br/>
+Answer: No, they prefer a better sense of control when inebriated.  <br/>
+Question: Do they partake in Drugs?  <br/>
+Answer: They are partial to spiritual doses of hallucinogens from time to time, in controlled and safe settings.  <br/>
+Alignment Scale.  <br/>
+Question: What is your character's alignment scale?  <br/>
+Answer: Very Chaotic Good?  <br/>
+Go to this page to find out your alignment scale:  <br/>
+https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md  <br/>
+Plot hooks.  <br/>
+You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around.  <br/>
+Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:  <br/>
+Question: What is a personal milestone your character dreams of reaching (for example, mastering a skill, unlocking a power or finding their calling)?  <br/>
+Answer: Finding out what The Traveler truly wants of them.  <br/>
+Question: Does your character have a relationship they want to build or repair (for example, with a family member, a mentor or even an estranged enemy)?  <br/>
+Answer: They would like to be able to travel with their friend Chik again, but realize that is unlikely to happen.  <br/>
+Question: Is there a location they have always wanted to visit or conquer? Why?  <br/>
+Answer: All of the great mysteries of the Pact World systems call to him, Salvation’s End, the Threshold Enigma, the Ghost Levels.  <br/>
+Question: Does your character have an ideal legacy they wish to leave behind?  <br/>
+Answer: They want to discover something that makes a positive difference for all life in the galaxy.  <br/>
+Question: What is one immediate, achievable goal they are pursuing right now?  <br/>
+Answer: To get to Aballon Station to find out what The Traveler is seeking, and to figure out why he can suddenly see ghosts - and it all seems to be tied into these Screams.  <br/>
+Question: Is there a wrong they feel compelled to make right, either for themselves or someone else?  <br/>
+Answer: They tend to have a bleeding heart for those in need as it is, and exposure to ghosts with tragic pasts might also mean he will have a lot of windmills to tilt at soon.  <br/>
+Question: What is a selfish desire they may not admit to others but secretly want to fulfill?  <br/>
+Answer:   <br/>
+Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party? Examples include:   <br/>
+Question: Do they have a past mistake or failure they are ashamed of?  <br/>
+Answer:   <br/>
+Question: Is there a relationship, alliance or obligation they have not told the party about (for example, a debt to a villain or membership in a questionable group)?  <br/>
+Answer: They don’t like to get into too many details about their relationship with The Traveler, partly because they are starting to wonder if he really is an envoy of Weydan, and partly because they don’t like admitting that they are, ultimately, a servant now, despite their current master seeming to have a beneficent disposition.  <br/>
+Question: Are they concealing something magical, cursed or otherwise unusual about themselves?  <br/>
+Answer: They like to present their patron’s relationship with them as “working together,” because admitting that they are bound is slightly embarrassing to them as a sarcesian. They are also likely to keep their ability to see ghosts to themselves for the time being, or at least until it becomes relevant to discovering what caused them to develop those abilities in the first place.  <br/>
+Question: Do they harbour feelings of jealousy, resentment or distrust toward a party member? Why?  <br/>
+Answer: They don’t know any of them yet.  <br/>
+Question: Is there an ulterior motive behind their reason for adventuring with the party that they have not shared?  <br/>
+Answer: They might not share their mission from the Traveler immediately, and may try to come up with some other excuse for why they are on Absalom Station.  <br/>
+Part 3 of 3: Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:  <br/>
+Question: Does your character have an unspoken grudge or tension with another party member?  <br/>
+Answer: Don’t know them yet.  <br/>
+Question: Are their goals or ideals incompatible with the party's mission?  <br/>
+Answer: Unlikely - hopefully they are interested in figuring out what the Screams were as well, which Lowda assumes is part of his mission from The Traveler.   <br/>
+Question: Is there anything about their personality that might clash with others?  <br/>
+Answer: He would only have issues with those who are pro-undead or those who are willing to throw away or destroy undiscovered knowledge.  <br/>
+Question: Are they hiding something that could potentially harm or betray the party?  <br/>
+Answer: Not that they’re aware of. Depends on how rowdy these ghosts get.  <br/>
+Backstory.  <br/>
+Question: Finally, what is your character's backstory?  <br/>
+Answer:   <br/>
+Backstory by each Year.  <br/>
+Now find out the current campaign's current in-game year. For Doomsday Funtime it is currently 4710 AR. If your character is 25 years old, then your character was born in 4685 AR.  <br/>
+Take each year, put a colon and write what the character did that year, starting with their birth year. In the above example, it would go like this: 4685 AR, age 0: Born to my parents in Deep-Water. 4686 AR, age 1: The dragon attack on Deep-Water, parents are dead. ... (You would fill this in). 4705 AR, age 20: Achieved first level in rogue. 4708 AR, age 23: Joined the party.  <br/>
+If you have any other questions about this, please contact me on my telegram.  <br/>
+  <br/>
+Lowda Medina: A Life in the Drift
 Born: 285 AG  
 Birthplace: The Drift (within the prismeni-warped vessel The Resonant Chorus)  
 Ancestry: Sarcesian (with Prismeni-Versatile Heritage)  
