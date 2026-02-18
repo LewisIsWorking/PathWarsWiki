@@ -25,3 +25,5 @@ Pathfinder class = Guild Wars 2 class
 - Thaumaturge = Scrapper? 
 - Witch = Revenant? 
 - Wizard = Mesmer.
+
+2026-02-18: This needs redone with VoE out.
