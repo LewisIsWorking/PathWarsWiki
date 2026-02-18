@@ -1,3 +1,4 @@
+<img width="447" height="658" alt="2026-02-16 21_03_20-AI Character Generator (free, no sign-up, unlimited) — Mozilla Firefox" src="https://github.com/user-attachments/assets/518a9984-06ad-4ac2-9749-c7e05f18665b" />
 Out of character.
 Question: Player Name?
 Answer: Richard / CzarChasm23
@@ -37,8 +38,7 @@ Class #2. (If using dual class) Normally dual class is gained during a session v
 Question: What will/is your character's 2nd class be?
 Answer: Witch
 Question: Does/Will your character enjoy their 2nd class?
-Answer: Yes<img width="447" height="658" alt="2026-02-16 21_03_20-AI Character Generator (free, no sign-up, unlimited) — Mozilla Firefox" src="https://github.com/user-attachments/assets/92c332da-e5d7-4931-8cc2-cf42644c059b" />
-
+Answer: Yes
 Race
 Question: What is your character's Race?
 Answer: Sarcesian
