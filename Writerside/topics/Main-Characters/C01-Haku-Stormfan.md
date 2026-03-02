@@ -1,5 +1,7 @@
 # C01-Haku-Stormfan
 
+They have left the campaign.
+
 > Core.
 >> - Question: What is your character's name?
 >> - Answer: Haku Stormfan

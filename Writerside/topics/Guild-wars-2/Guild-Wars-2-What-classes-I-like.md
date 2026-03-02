@@ -3,13 +3,14 @@
 > S
 
 > A
->> - Condition Druid: Lacks range.
 >> - Condition Conduit Spear/Mace&Axe: Feels a bit clunky.
-
-> B
 >> - Power Ritualist: No range.
 
+> B
+>> - Condition Scepter&dagger Spectre. 11 to 12K.
+
 > C
+>> - Condition Druid: Lacks range.
 
 > D
 
