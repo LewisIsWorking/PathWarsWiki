@@ -1,5 +1,12 @@
 # C06-Kieran
 
+**Player:** Tyler (@Linksanelf2006)
+**Campaign:** #6 Kibwe
+
+---
+
+## Backstory
+
 Okay, this is my "rough draft" to help you keep the game moving:
 
 > Backstory:
@@ -38,3 +45,54 @@ Okay, this is my "rough draft" to help you keep the game moving:
 >> - He has even gathered a few powerful relics along the way.
 >> - Recently, he has heard of a curse affecting the city of Kibwe. 
 >> - Even though he doubts the curse is from the same source that plagues his village, he hopes it will provide valuable clues and insight that could help.
+
+---
+
+## Companions
+
+### Eda
+
+A small slime creature bonded to Kieran.
+Eda absorbed spatial slime from the White Flame Merchant Slime encounter and grew in power.
+Eda is the living avatar of Curse Breaker.
+
+### Navilar
+
+A flame wisp guardian elemental assigned to Kieran by Tree before Tree's death.
+Loud.
+
+### Dimitri
+
+A triceratops that trauma-bonded to Kieran during the White Flame Slime encounter.
+The merchant who owned Dimitri beat him regularly and painted garish crimson and gold stripes on his frill.
+When the merchant transformed into a slime, Kieran stood between Dimitri and danger.
+This was the only kindness the triceratops had ever known.
+
+After the battle, Kieran tried to shoo Dimitri away.
+The triceratops refused to leave.
+It pressed its frill gently against Kieran's chest and followed him.
+
+Kieran wiped the paint from Dimitri's frill and placed Eda on him as a guardian.
+Eda's slime sank into the triceratops and glowed green momentarily.
+
+---
+
+## Key Events
+
+### The White Flame Slime
+
+Kieran was engulfed by the White Flame Merchant Slime (critical failure on Reflex, spent Hero Point to reroll to regular failure).
+Took 22 force damage from the engulfment.
+
+### The Watchtower Choice
+
+Ademe pointed at Kieran and connected the curse's origins to a slime god's holy book from thousands of years ago.
+This directly links Kieran's slime nature to the curse affecting Kibwe.
+
+Kieran agreed with Ademe that the temple is the priority, but expressed reluctance to abandon the people in the watchtower.
+
+### Slime Telepathy
+
+Kieran attempted to communicate telepathically with Theron through their shared slime link.
+Pidge spoke in Kieran's mind: "It is very possible to use your powers. Focus your mind. Create the mindscape."
+Slime Lore check pending.

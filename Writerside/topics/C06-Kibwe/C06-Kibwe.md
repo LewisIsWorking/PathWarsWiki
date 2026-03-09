@@ -98,16 +98,24 @@ Each main character has a connection to Curse Breaker that manifests as:
 
 ### Current Active Party
 
-| Character            | Player  | Class/Build |
-|----------------------|---------|-------------|
-| Lorn                 | Horia   | -           |
-| Daichi Kenshin       | Anthony | -           |
-| Tiny                 | -       | -           |
-| Fierce Leopard Cyrus | Ryo     | -           |
-| Tarsus Longstaff     | -       | -           |
-| Kieran               | Tyler   | -           |
-| Leilani Kana         | Eimer   | -           |
-| Akwa                 | -       | -           |
+| Character            | Player         | Class/Build |
+|----------------------|----------------|-------------|
+| Daichi Kenshin       | Anthony        | -           |
+| Fierce Leopard Cyrus | Ryo            | -           |
+| Kieran               | Tyler          | -           |
+| Lorn                 | Horia          | -           |
+| Master Cho Kobo      | Bruce (Ravnos) | -           |
+| Tarsus Longstaff     | Buffet Raider  | -           |
+
+**GM-Piloted:** Tal'lysae (transformed human, red flame slime form).
+
+### Former Party Members
+
+| Character    | Player | Status                           |
+|--------------|--------|----------------------------------|
+| Akwa         | -      | Left the campaign.               |
+| Bashevis     | -      | Taralu dwarf cleric. Absorbed by White Flame Slime. Spirit destroyed. |
+| Leilani Kana | Eimer  | Left the campaign.               |
 
 ### Original Party (Session 1)
 
@@ -208,7 +216,7 @@ Even with Curse Breaker's intervention, affected humans may be permanently chang
 
 ## Current Status
 
-**Location:** Inside Kibwe - Merchant Street (en route to the Archive of the Sun).
+**Location:** Inside Kibwe - En route to the Temple of the Sun.
 **Part:** 3/3.
-**Objective:** Reach the Archive of the Sun, defeat Paga Nikohian and allow Eda/Cursebreaker to complete her ritual.
-**Immediate Situation:** The Irate Dinosaur encounter is in progress. A White Flame Slime has formed after absorbing a Pharasmin dwarf's divine spirit. Kieran is calming the triceratops.
+**Objective:** Reach the Temple of the Sun, defeat Paga Nikohian and allow Eda/Cursebreaker to complete her ritual.
+**Immediate Situation:** The party has defeated the White Flame Merchant Slime. Fierce Leopard experienced a vision of an alien armada. Master Cho Kobo has joined the party. Kieran has bonded with a triceratops named Dimitri. The party has reached a watchtower where exhausted Nexian mages are running a failing ritual to stabilize the curse. The party must decide whether to help or push on to the temple.
