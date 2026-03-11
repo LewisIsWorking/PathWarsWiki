@@ -14,15 +14,16 @@ Start typing here...
 >> - This plane is EXTREMELY hard to get to, it is separated out fully from the res of the multiverse.
 
 > Campaign roadmap:
->> - 00: Story 1. Long adventure 1/2. The Birthday Scream [A Cosmic Birthday]. Level 1 -> 4.
->> - 01: Part 1: Level 1. DONE. Completed on 2025-08-10.
->> - 02: Part 2: Level 2. In progress.
->> - 03: Part 3: Level 3. Level 4 when finished.
->> - 04: Story 2. Short adventure 1/4. Birna's Bubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
+>> - 01->03: Story 1. Long adventure 1/2. The Scream [A Cosmic Birthday]. Level 1 -> 4.
+>> - 01: Part 1/3: Level 1. DONE. Completed on 2025-08-10.
+>> - 02: Part 2/3: Level 2. In progress.
+>> - 03: Part 3/3: Level 3. Level 4 when finished.
+>> - 04: Story 2. Short adventure 1/4. TheBirnaBubble [Shards of the Glass Planet]. Level 1. 2 -> 3 hours.
 >> - 05: Story 3. Short adventure 2/4. Bloom. [It Came from the Vast!]. Level 5. 2 -> 3 hours.
->> - 06: Story 4. Short adventure 3/4. Monster wheel [Zo!'s Wheel of Monsters]. Level 10.
->> - 07: Story 5. Empires Devoured 2/2. Historic accord. [Empires Devoured]. Level 10 -> 13.
->> - 08: Story 6. Short adventure 4/4. Shimmer-stone [Rescue at Shimmer-stone Mine]. Level 15.
+>> - 06: Story 4. Short adventure 3/4. Monster-Wheel [Zo!'s Wheel of Monsters]. Level 10.
+>> - 07: Story 5. Empires Devoured 2/2. Historic-Accord. [Empires Devoured]. Level 10 -> 13.
+>> - 08: Story 6. Short adventure 4/4. Shimmer-Stone [Rescue at Shimmer-stone Mine]. Level 15.
+>> - 09: The End Times. What is the scream? Time to be hopeful for the start of something new...
 > How many adventures are there?
 >> - There are 2 long adventures.
 >> - There are 4 short adventures.

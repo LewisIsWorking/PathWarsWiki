@@ -1,3 +1,0 @@
-# C07-Hopeful-end-times-PBP.md.
-
-Start typing here...
