@@ -16,21 +16,25 @@
 
 ## The Party
 
-> Current Group (as of 2025-12-07):
->> - @StorybookRhizome = **Arctus**. Tinkerer and scientist. Has a personal lab. Analytical, dry wit.
->> - @Ravnos1 = **Holis** (Chua Datafang). Multi-limbed. Holographic projection abilities. VR visor. Sleeps constantly.
+> Current Group:
+>> - @StorybookRhizome = **Arctus**. Tinkerer and scientist. Floats. Has a personal lab and robot dog LUKA. Analytical, dry wit.
+>> - @Ravnos1 = **Holis**. Multi-limbed. Holographic eidolon (knight form). Summoner. VR visor. Sleeps constantly.
 >> - @Linksanelf2006 = **Joo-Dee**. Augmented with prosthetics (arm, leg, eye). Follower of Weydan. Born on Akiton, worked on Aballon for Professor Tier-99.
->> - @RyoYamakawa = Character TBD. Stowaway. Either on the Stargazer or the pirate ship. Currently being integrated.
->> - @Aiiden101 = **Damon**. Mostly organic body. Quick-tempered, pragmatic.
->> - ~~@Askarans = Antoine/Anthony. No longer playing.~~
->> - 5/6.
+>> - @RyoYamakawa = Character TBD. Stowaway. Either on the Stargazer or the pirate ship. Not yet appeared in RP.
+>> - @Aiiden101 = **Damon**. Mostly organic body. Quick-tempered, pragmatic. Skilled marksman.
+>> - CzarChasm23 = **Chik**. Ysoki. Solarian (Unfailing Bow ikon). Magnetar rifle. Force needle. Was in a separate cell.
+>> - Cobalt Quail = **Kae-Vo (The Kaepra-Voliax Symposium)**. Merged barathu collective. Telepathic. Temporal arcana. Was in a separate cell.
+>> - 7 active (Ryo pending RP introduction).
 
-> New Player (Pending Introduction):
+> Former:
+>> - ~~@Askarans = Antoine/Anthony. No longer playing.~~
+
+> Pending Introduction:
 >> - **James** = **Zip**. Scittermander mystic. Aspiring musician. Planet-hops by sneaking aboard ships.
->> - Build: [Pathbuilder Link](https://pathbuilder2e.com/launch.html?build=1366709).
 
 > Key NPCs:
 >> - **Professor Tier-99**. Robot academic on Aballon. Funded Joo-Dee's early augmentations. The party's boss; they were en route to dinner with him when captured.
+>> - **Ooofy**. Sentient automaton. Pirate crew forced into cleaning duty. Wants to be an engineer. Helped the party escape the brig. Reads engineering journals in secret.
 
 ---
 
@@ -44,7 +48,8 @@
 >> - The Scream is the source of the Starfinder group's power (dual-class origin).
 >> - 1 week later: party woke in the Stargazer's brig, restrained with keycard-locked bonds.
 >> - Pirates plundered anything easily removable (Joo-Dee's prosthetic arm and leg taken, eye left).
->> - Current status: **Brig escape in progress**.
+>> - Ooofy freed the party. Dekker killed. Party armed and moving through the ship.
+>> - Current status: **Clearing the Stargazer. Rec Room (A2) next.**
 
 > Stage 2. Murder in Metal City.
 
