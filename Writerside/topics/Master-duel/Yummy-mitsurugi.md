@@ -38,7 +38,7 @@ https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 >> - Murakumo effect -> Resurrects itself from grave.
 >> - SYNCHRO-SUMMON: Lollipop Yummy Way using both Sky Strikers.
 >> - Lollipop Yummy Way effect -> Resurrect any two yummy cards from grave.
->> - LINK-SUMMON: Spright Elf using Lollipop Yummy Way and Saji.
+>> - LINK-SUMMON: Spright Elf using Lollipop Yummy Way and Kusanagi.
 >> - Samsara Sorrow Cat effect -> Add Herald of arc light from grave to extra deck -> Which then Special Summons Samsara Sorrow Cat from grave.
 >> - SYNCHRO-SUMMON: Herald of Arc light using Samsara Sorrow Cat and any yummy card (this example is Cupsy).
 >> - Elf effect -> Resurrect any Yummy Synchro monster from grave (this example is Lollipop Yummy Way).
