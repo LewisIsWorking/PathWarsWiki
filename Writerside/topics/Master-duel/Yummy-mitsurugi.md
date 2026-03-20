@@ -5,8 +5,8 @@
 https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 
 > Any yummy card.
->> - Normal summon 1 yummy card (this example is Cookie).
->> - Link into Yummy Snatchy.
+>> 1. Normal summon 1 yummy card (this example is Cookie).
+>> 2. Link into Yummy Snatchy. 
 >> - Snatch places Mignon.
 >> - Mignon -> resurrects the yummy card from the grave.
 >> - Synchro summon into Cupsy Yummy Way using the yummy link and the resurrected yummy card.
@@ -17,10 +17,12 @@ https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 >> - Cupsy/Cookie/Marshmallow effect -> Special summon itself from hand.
 >> - If you special summon Cupsy, add Yummy Surprise.
 >> - Synchro summon into Shamisen Samsara Sorrow Cat using Cupsy Yummy Way and the other yummy card (this example is Cupsy).
->> - Synchro summon Herald of arc light -> Shamisen Samsara Sorrow Cat + the other yummy card (this example is Cookie).
+>> - Synchro summon Herald of arc light -> 
+>> - No Marshmallow: Shamisen Samsara Sorrow Cat + the other yummy card (this example is Cookie).
+>> - MARSHMALLOW ON FIELD: Shamisen Samsara Sorrow Cat + Marshmallow.
 >> - Yummy surprise -> Resurrect marshmallow from grave.
 >> - Marshmallow adds back yummy surprise to hand.
->> - LINK summon Sky Striker Ace - Camellia.
+>> - LINK summon Sky Striker Ace - Camellia using Herald of arc light and any non-yummy-way yummy monster (this example is Marshmallow).
 >> - Herald of arc light effect -> Add Ame No Habakiri No Mitsurugi.
 >> - Camellia effect -> Send Sky Striker Mech - Hornet Drones.
 >> - LINK SUMMON: Sky Strike Ace - Kagari using Camellia.
@@ -28,20 +30,23 @@ https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 >> - LINK SUMMON: Sky Striker Ace - Kagari using Camellia.
 >> - Kagari effect -> Add Sky Striker Mech - Hornet Drones from grave to hand.
 >> - Sky Striker Mech - Hornet Drones effect -> Special summons the Sky Striker Token.
+>> - [MITSURUGI BRIDGE]
+>> - Current board at start of the bridge: Kagari & the Sky Striker token.
 >> - Mitsurugi Habakiri effect -> Special summon Mitsurugi Saji.
 >> - Saji effect -> Add Mitsurugi Ritual.
 >> - Mitsurugi Ritual -> Special summon Murakumo from deck TRIBUTING Mitsurugi Habakiri.
 >> - Habakiri effect -> Add back Mitsurugi Prayers to hand from deck.
->> - Mitsurugi Prayers -> Tribute Murakumo -> Special summon Mitsurugi Saji.
->> - Saji adds prayers.
->> - Murakumo adds purification.
+>> - Mitsurugi Prayers -> Tribute Murakumo -> Special summon Mitsurugi Kusanagi.
+>> - CHAIN LINK 1: Murakumo adds purification.
 >> - Murakumo effect -> Resurrects itself from grave.
+>> - CHAIN LINK 2: Kusanagi adds prayers.
 >> - SYNCHRO-SUMMON: Lollipop Yummy Way using both Sky Strikers.
->> - Lollipop Yummy Way effect -> Resurrect any two yummy cards from grave.
+>> - Lollipop Yummy Way effect -> Resurrect any two yummy cards from grave (doesn't matter which yummy monsters).
 >> - LINK-SUMMON: Spright Elf using Lollipop Yummy Way and Kusanagi.
->> - Samsara Sorrow Cat effect -> Add Herald of arc light from grave to extra deck -> Which then Special Summons Samsara Sorrow Cat from grave.
+>> - 1/2 -> Samsara Sorrow Cat effect -> Add Herald of arc light from grave to extra deck -> 
+>> - 2/2 -> Samsara Sorrow Cat effect then Special Summons Samsara Sorrow Cat from grave.
 >> - SYNCHRO-SUMMON: Herald of Arc light using Samsara Sorrow Cat and any yummy card (this example is Cupsy).
->> - Elf effect -> Resurrect any Yummy Synchro monster from grave (this example is Lollipop Yummy Way).
+>> - Elf effect -> Resurrect any Yummy Synchro monster (level 2) from grave (this example is Lollipop Yummy Way).
 >> - LINK-SUMMON: I:P Masquerena using the resurrected Yummy synchro and any non-yummy-way yummy monster (this example was Marshmallow).
 >> - Set Yummy Surprise, Mitsurugi Prayers and Mitsurugi Purification.
 
