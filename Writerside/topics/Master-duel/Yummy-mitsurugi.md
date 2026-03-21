@@ -219,3 +219,12 @@ https://youtu.be/m0esG0-GFhY?si=QNoXYUTNoegZf-5B
 >> 17. Link summon spright elf using Cupsy and Lollipop Yummy Way.
 >> 18. Spright elf should point to Herald of Arc Light.
 >> 19. Spright elf effect -> Resurrect Lollipop Yummy Way from grave.
+
+> Test
+>> - Not important
+>> - [Important!!!]
+>> - Meh
+
+> Weird list.
+>> 69. Test
+>> 2. Test
