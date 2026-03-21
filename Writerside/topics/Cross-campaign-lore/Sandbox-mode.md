@@ -18,9 +18,9 @@
 >> - C03 = 1/1 [COMPLETED]. This is too long ago to continue in sandbox mode.
 >> - C04 = 0/6.
 >> - C05 = 0/6.
->> - C06 = 2/3 + 0/3. 
+>> - C06 = 2/3 + 1/3. 
 >> - C07 = 2/15.
->> - C09 = 0/1.
+>> - C09 = 0/1 (intro) + 0/1 (level 1) + 0.1 (grave).
 
 > What happens when a campaign ends?
 >> - When a campaign ends I'm going to open up a sandbox mode for players to continue playing in that world with their characters. 

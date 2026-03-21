@@ -73,15 +73,18 @@ https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 >> 20. Yummy Snatchy effect -> Place Mignon from deck to field.
 >> 21. Mignon effect -> Resurrect anything (Marshmallow in this example) from grave.
 >> 22. SYNCHRO-SUMMON: Herald of Arc light using Samsara Sorrow Cat and Marshmallow (in the centre monster zone).
->> 23. Yummy surprise -> Resurrect marshmallow from grave.
->> 24. Marshmallow adds back yummy surprise to hand.
->> 25. Sorrow Cat effect -> Add Herald of arc light from grave to extra deck -> Which then Special Summons Samsara Sorrow Cat from grave.
->> 26. SYNCHRO-SUMMON: Lollipop Yummy Way using Samsara Sorrow Cat and the other yummy card (this example is Cookie).
->> 27. Lollipop Yummy Way effect -> Resurrect Cupsy & Marshmallow from the grave.
->> 28. LINK-SUMMON: Spright Elf using Lollipop Yummy Way and Marshmallow.
->> 29. Spright elf effect -> Resurrect Lollipop Yummy Way from grave.
->> 30. LINK-SUMMON: I:P Masquerena using Samara Sorrow Cat and Cupsy.
->> 31. Set Yummy Surprise, Mitsurugi Prayers and Mitsurugi Purification.
+>> 23. Current board: Yummy Snatchy (EMZ) and Herald of Arc Light (centre monster zone).
+>> 24. Yummy surprise -> Resurrect marshmallow from grave.
+>> 25. Marshmallow adds back yummy surprise to hand.
+>> 26. Sorrow Cat effect -> Add Cupsy Yummy Way from grave to extra deck -> Which then Special Summons Samsara Sorrow Cat from grave.
+>> 27. Current board: Yummy Snatchy (EMZ), Herald of Arc Light (centre monster zone), Samsara Sorrow Cat & Marshmallow.
+>> 28. SYNCHRO-SUMMON: Lollipop Yummy Way using Samsara Sorrow Cat and the other yummy card (this example is Cookie).
+>> 29. Lollipop Yummy Way effect -> Resurrect Cupsy & Marshmallow from the grave.
+>> 30. LINK-SUMMON: Spright Elf using Lollipop Yummy Way and Marshmallow.
+>> 31. Spright elf effect -> Resurrect Lollipop Yummy Way from grave.
+>> 32. LINK-SUMMON: I:P Masquerena using Samara Sorrow Cat and Cupsy.
+>> 33. Set Yummy Surprise, Mitsurugi Prayers and Mitsurugi Purification.
+>> 34. Final board: Spright Elf (EMZ), I:P Masquerena (elf points to IP), Lollipop Yummy Way & Herald of Arc Light.
 
 > Habakiri & Marshmallow.
 >> 1. Habakiri effect -> Special summon Mitsurugi Saji -> Tribute Saji -> Add Mitsurugi Ritual.
@@ -109,10 +112,7 @@ https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 >> 23. LINK-SUMMON: Spright Elf using I:P Masquerena and Mitsurugi Murakumo.
 >> 24. Spright elf effect -> Resurrect Cupsy Yummy Way from grave (to Spright elf pointing zone).
 >> 25. SYNCHRO-SUMMON: Herald of Arc light using Shamisen Samsara Sorrow Cat and Marshmallow.
->> 26. 
 
-> Test
->> 69. 
 
 ## V2.
 
@@ -220,11 +220,3 @@ https://youtu.be/m0esG0-GFhY?si=QNoXYUTNoegZf-5B
 >> 18. Spright elf should point to Herald of Arc Light.
 >> 19. Spright elf effect -> Resurrect Lollipop Yummy Way from grave.
 
-> Test
->> - Not important
->> - [Important!!!]
->> - Meh
-
-> Weird list.
->> 69. Test
->> 2. Test
