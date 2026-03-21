@@ -12,8 +12,8 @@
 >> - C09: Metal City Stargazing.
 
 > Campaign progression.
+>> - C00 = 1/1 (intro) + 6/6 (main story).
 >> - C01 = ∞/∞+1
->> - C01.5 = 1/7
 >> - C02 = 6/6 [COMPLETED]. This is too long ago to continue in sandbox mode.
 >> - C03 = 1/1 [COMPLETED]. This is too long ago to continue in sandbox mode.
 >> - C04 = 0/6.
@@ -28,4 +28,4 @@
 
 > What campaign will end next?
 >> - C06: Kibwe is likely to end next, as we are approaching the conclusion of the main storyline.
->> - Then: C06 -> C05 -> C04 -> C09 -> C07. 
+>> - Then: C06 -> C05 -> C04 -> C09 -> C07 -> C00 -> C01. 
