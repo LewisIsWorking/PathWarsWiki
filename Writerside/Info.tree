@@ -18,6 +18,12 @@
     </toc-element>
     <toc-element toc-title="Extra Rules">
         <toc-element topic="Homebrew-rules.md"/>
+        <toc-element topic="Advanced-proficiency.md"/>
+        <toc-element topic="Plot-threads.md"/>
+        <toc-element topic="Champions-dual-reactions.md"/>
+        <toc-element topic="Initiative.md"/>
+        <toc-element topic="Lore-increases.md"/>
+        <toc-element topic="Main-and-side-characters.md"/>
         <toc-element topic="3rd-party-content-and-options.md"/>
         <toc-element topic="Alignment-scale.md"/>
         <toc-element topic="Available-classes.md"/>
