@@ -19,7 +19,7 @@
 >> - A forest so hot the dew sizzles at dawn.
 >> - Malia Brass was born from two equally questionable life choices.
 >> - Her mother, a whimsical sprite named Floria Dewstep, fell in love with a mysterious stranger who wore too much cologne and smelled faintly of brimstone.
->> - That stranger turned out to be, inconveniently, the Devil.
+>> - That stranger turned out to be a Diabolic Fire Genie from the city of Brass (hence Malia's last name).
 >> - Nine months later, Malia emerged from a sunflower that had spontaneously combusted, giggling like a coal in the wind.
 >> - Growing up wasn't easy when your lullaby was a demonic laugh echoing through your dreams and your bathwater sometimes boiled itself.
 >> - The other sprites nicknamed her "Matchstick," half out of affection, half because she'd accidentally set the Elder Tree on fire — twice.

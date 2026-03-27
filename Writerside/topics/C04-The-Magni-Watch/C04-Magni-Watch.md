@@ -3,6 +3,10 @@
 - It was originally intended to be a 1 Player to 1 GM campaign.
 - It is now a 6-player play by post.
 
+## What is the Magni-Watch?
+
+The Heroes of Magnimar are the powerful heroes who deal with extremee threats but they can't deal with the day-to-day crime and corruption in the city. So the mayor of Magnimar has established a new elite policing division: MagniWatch. The MagniWatch is a group of heroes who are tasked with dealing with the crime and corruption in the city. They are given special powers and resources to help them in their mission.
+
 ## Progress.
 
 > Fraction completed
