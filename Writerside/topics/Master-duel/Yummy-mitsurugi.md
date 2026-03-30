@@ -78,7 +78,7 @@ https://youtu.be/qemYoro8H4s?si=H-83dlXOJQrYUoBb
 >> 25. Marshmallow adds back yummy surprise to hand.
 >> 26. Sorrow Cat effect -> Add Cupsy Yummy Way from grave to extra deck -> Which then Special Summons Samsara Sorrow Cat from grave.
 >> 27. Current board: Yummy Snatchy (EMZ), Herald of Arc Light (centre monster zone), Samsara Sorrow Cat & Marshmallow.
->> 28. SYNCHRO-SUMMON: Lollipop Yummy Way using Samsara Sorrow Cat and the other yummy card (this example is Cookie).
+>> 28. SYNCHRO-SUMMON: Lollipop Yummy Way using Snatchy and the other yummy card (this example is Cookie).
 >> 29. Lollipop Yummy Way effect -> Resurrect Cupsy & Marshmallow from the grave.
 >> 30. LINK-SUMMON: Spright Elf using Lollipop Yummy Way and Marshmallow.
 >> 31. Spright elf effect -> Resurrect Lollipop Yummy Way from grave.
