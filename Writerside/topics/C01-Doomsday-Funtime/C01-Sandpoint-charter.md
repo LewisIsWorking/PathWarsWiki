@@ -35,3 +35,4 @@ The following names are the names of the Heroes of Sandpoint:
 25. Taru'kara
 26. Solar.
 27. Fuq Tank.
+28. Elinoa.

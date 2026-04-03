@@ -647,3 +647,24 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 > 19:30. Finished dinner.
 >> - Allisee is considering going to the crypt after dinner to check it out.
 >> - Allisee thinks that the professor (who they know was murdered) was a 4ish rank water spell caster so it wasn't a random villager that killed him.
+
+## Session 272. Play by post.
+
+> Add PBP content.
+>> 1. [] I NEED TO ADD THIS LATER!
+>> 2. [] Format it.
+
+## Session 273.
+
+> 2026 March 27th Friday + 4710 AR, Rova 11th (Sun-day) + Arc-11 part 5.
+>> - IRL start time: 22:01.
+>> - Delay duration: 2 hours & 1 minute.
+>> - Players present: Horia (Selenor), Anthony (Allisee), Oscar (Carnon) & New Player Elinoa.
+>> - In-game location: In front of the Raven Grow temple of Pharasma.
+>> - Raven Grow Day 1/30.
+
+> New main character: Elinoa.
+>> 1. Elinoa is a monk & storm druid slyph.
+>> 2. Pronunciation: "El-in-o-a".
+>> 3. Elinoa signs the Sandpoint charter and teleports to Raven Grow.
+>> 4. Elinoa sees the party & the party see her.
