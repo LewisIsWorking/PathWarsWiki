@@ -668,3 +668,18 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> 2. Pronunciation: "El-in-o-a".
 >> 3. Elinoa signs the Sandpoint charter and teleports to Raven Grow.
 >> 4. Elinoa sees the party & the party see her.
+
+## Session 274.
+
+> Arc-11 part 5
+>> - 2026 April 4th Saturday + 4710 AR, Rova 11th (Sun-day).
+>> - IRL start time: 21:47.
+>> - Delay duration: 1 hours & 47 minute.
+>> - Players present: Horia (Selenor), Anthony (Allisee), Wig (Elinoa), Chris Warlock (Sestina) and Luke (Rino).
+>> - In-game location: In front of the Raven Grow temple of Pharasma.
+>> - Raven Grow Day 1/30.
+
+> 20:00.
+>> - Elinoa & Sestina "The Bannerwitch" join the group in Raven Grow.
+>> - Cardigan has 3 hero points so 2 of the centipedes are focused on her.
+>> - Allisee has the deck of harrow tales, so 1 centipede is focused on Allisee.
