@@ -15,7 +15,7 @@
 >> 4. Lorn: Point-Blank Stance --> Strike (Phalanx Piercer, Concussive) on Slime #3 = Crit (immune to crits, downgraded to hit) = 13 damage. SPLIT TRIGGERED (piercing weapon). Slime #3 splits. --> Reload.
 >> 5. Master Cho Kobo: RITUAL. Esoteric Lore 36. SUCCESS.
 >> 6. Tal'lysae: RITUAL. Medicine 27 --> Hero Point reroll = 29. SUCCESS. HERO POINT USED.
->> 7. Tarsus Longstaff: Stride --> Spellstrike (Staff of Water + Hydraulic Push rank 2) on Slime #1 = Crit (immune to crits, downgraded to hit) = 13 bludgeoning. Spell damage: 17 + 21 = 38. Total 51 damage. Pushed 10ft to tower edge. Fearsome = NO EFFECT (immune to mental).
+>> 7. Tarsus LongStaff: Stride --> Spell strike (Staff of Water + Hydraulic Push rank 2) on Slime #1 = Crit (immune to crits, downgraded to hit) = 13 bludgeoning. Spell damage: 17 + 21 = 38. Total 51 damage. Pushed 10ft to tower edge. Fearsome = NO EFFECT (immune to mental).
 
 > Log of Round 1: Enemies.
 >> 1. Slime #2 SPLITS into Slime #3 and Slime #4.
@@ -76,7 +76,7 @@
 >> 6. Slime #9.
 
 > Acted Enemies.
->> - (none yet)
+>> 1. (none yet)
 
 > Active Conditions.
 >> 1. Fierce Leopard: SUFFOCATING (crushed trachea, 7 rounds of air remaining, suffocates Round 11). 11/70 stamina, 50/50 HP. No longer grabbed.
