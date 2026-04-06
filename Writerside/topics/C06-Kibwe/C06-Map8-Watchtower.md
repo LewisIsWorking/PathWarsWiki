@@ -5,7 +5,7 @@
 > COMBAT.
 >> 1. Encounter name: Slime Orb Watch Tower.
 >> 2. Encounter started = 2026-March-27th at 15:41.
->> 3. Round 2!
+>> 3. Round 3!
 >> 4. Who won initial initiative: Allies (Daichi Kenshin, 31).
 
 > Log of Round 1: Allies.
@@ -33,17 +33,19 @@
 >> 4. Tal'lysae: RITUAL. Medicine 27 --> Hero Point reroll = 38. CRITICAL SUCCESS. HERO POINT USED.
 >> 5. Tarsus Longstaff: Steel Your Resolve --> Stride --> Spinning Staff (Focus 4): Strike 1 on Slime #1 = 19 = hit = 10 bludgeoning. Strike 2 on Slime #6 = 17 = hit = 16 bludgeoning.
 >> 6. Master Cho Kobo: RITUAL. Esoteric Lore 28. SUCCESS.
->> 7. Lorn: Strike (Phalanx Piercer, Concussive) on Slime #2 = hit = 12 damage. --> Reload.
+>> 7. Lorn: Strike (Phalanx Piercer, Concussive) on Slime #2 = hit = 12 damage. SPLIT TRIGGERED (piercing weapon). Slime #2 splits into Slime #2 and Slime #7. --> Reload.
 >> 8. Ji Yun: Act Together (Eidolon + Ji Yun Stride). Ji Yun casts Soothe on Tarsus. Tarsus healed to 43/43 HP, 17/35 stamina.
 
 > Log of Round 2: Enemies.
 >> 1. Slime #5 and Slime #6 spawned at start of round.
->> 2. (Enemy turns pending.)
+>> 2. Slime #2 SPLITS into Slime #2 and Slime #7 (from Lorn's piercing hit).
+>> 3. Slime #5 (Eyeball Slime): Attempts to teleport an eyeball out of Fierce Leopard's skull --> Fierce Leopard resists with CRITICAL SUCCESS (36, nat 20).
+>> 4. Slime #6 (Eyeball Slime): Attempts to teleport an eyeball out of Tarsus --> Tarsus resists with SUCCESS (27 Fortitude). --> Flings acidic eyeball glob at Tarsus --> 25 = miss (vs 26 AC).
+>> 5. Slime #1: Strike Tarsus --> 29 = hit = 20 damage --> Grab --> 35 = Critical Success --> Tarsus is RESTRAINED. --> Constrict --> 22 Tarsus fails = 15 damage. Tarsus: broken bones, 0/35 stamina, 25/43 HP.
+>> 6. Slime #2: Strike Fierce Leopard --> Critical Success --> 38 damage --> Critical Hit Deck #27: Crushed trachea. FIERCE LEOPARD IS SUFFOCATING. --> Grab --> 33 = Success --> Fierce is GRABBED. --> Constrict --> Fierce successfully resists (Juggernaut: Success becomes Crit Success) --> 0 damage.
+>> 7. Slime #7: Strike 1 Fierce Leopard --> 20 = miss. --> Strike 2 --> 16 = miss. --> Strike 3 --> 13 = miss.
 
 > Unacted Allies.
->> - (none)
-
-> Acted Allies.
 >> 1. Daichi Kenshin. Anthony. @MrNegetZ.
 >> 2. Fierce Leopard. @RyoYamakawa.
 >> 3. Ji Yun. Aether. @Awnii_Vihn.
@@ -53,20 +55,24 @@
 >> 7. Tal'lysae. @PathWars.
 >> 8. Tarsus Longstaff. @buffetraider.
 
+> Acted Allies.
+>> - (none yet)
+
 > Unacted Enemies.
 >> 1. Slime #1.
 >> 2. Slime #2.
 >> 3. Slime #5.
 >> 4. Slime #6.
+>> 5. Slime #7.
 
 > Acted Enemies.
 >> - (none yet)
 
 > Active Conditions.
->> 1. Slime #2: Fatigued (crit fumble from Round 1).
->> 2. HERO POINTS USED: Tal'lysae (x2, out of hero points).
->> 3. Tarsus: 43/43 HP, 17/35 stamina.
->> 4. Fierce Leopard: 49/70 stamina, 50/50 HP.
+>> 1. Fierce Leopard: GRABBED (by Slime #2). SUFFOCATING (crushed trachea, 9 rounds of air, suffocates Round 11). 11/70 stamina, 50/50 HP.
+>> 2. Tarsus: RESTRAINED (by Slime #1). Broken bones. 0/35 stamina, 25/43 HP.
+>> 3. Slime #2: Fatigued (crit fumble from Round 1).
+>> 4. HERO POINTS USED: Tal'lysae (x2, out of hero points).
 >> 5. DEAD: Slime #3, Slime #4.
 
 > Round 1: Ritual Checks.
