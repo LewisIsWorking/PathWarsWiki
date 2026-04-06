@@ -138,7 +138,7 @@
 >> - Discard ANYTHING that's not kaleido chick.
 >> - 3: Normal summon kaleido chick.
 
-## Combo 6. Under droll and lock bird.
+## Combo 6. Under "droll & lock bird".
 
 > Normal summon Gold Leo -> Discard silver hound.
 >> - 1: Silver hound effect -> Summon kaleido chick.

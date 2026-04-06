@@ -61,4 +61,3 @@
 >> - 08: Mace effect -> Destroy itself to add memento fusion.
 >> - 09: Activate memento fusion -> Fusion summon Twin dragon using horse and mace.
 >> - 10: Twin dragon effect -> Destroy itself to add sleepy & combined creation to hand.
->> - 

@@ -1,39 +1,6 @@
-# Combat Tracker Template.
+# C01 Arc 11 Combat.
 
-> COMBAT.
->> 1. Encounter name: 
->> 2. Encounter started = Year-MonthName-Day at 24-hour timestamp.
->> 3. Round X!
->> 4. Who won initial initiative: Allies/Enemies.
-
-> Log of Round 1: Allies.
->> 1. 
-
-> Log of Round 1: Enemies.
->> 1. 
-
-> Log of Round 2: Allies.
->> 1. 
-
-> Log Round 2: Enemies.
->> 1. 
-
-> Unacted Allies.
->> 1. 
-
-> Acted Allies.
->> 1. 
-
-> Unacted Enemies.
->> 1. 
-
-> Acted Enemies.
->> 1. 
-
-> Active Conditions.
->> 1. 
-
-## Example from Doomsday FunTime.
+## Session 274.
 
 > COMBAT.
 >> 1. Encounter name: Fate-Devouring Centipedes in the Professor's Fake Crypt.
