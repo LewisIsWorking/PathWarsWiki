@@ -92,12 +92,12 @@ Start typing here...
 >> 12. Link mermaid using Phoenix.
 >> 13. Mermaid summons nightmare.
 >> 14. Link into Galatea 1 using Nightmare.
->> 15. Galatea 1 -> Discard, add babel, activate babale.
+>> 15. Galatea 1 -> Discard, add babel, activate babel.
 >> 16. Link Galatea 2 using mermaid & Galatea 1.
 >> 17. Nightmare -> Send harp horror.
 >> 18. Harp horror -> Summon Girsu.
 >> 19. Girsu -> Send skeleton.
->> 20. Activate Galatea 2 -> Shuffle harp horrow -> Set Crescendo.
+>> 20. Activate Galatea 2 -> Shuffle harp horror -> Set Crescendo.
 >> 21. LINK Enlilgirsu using Galatea 2 & Sequence.
 >> 22. Skeleton -> Revive Galatea 2.
 >> 23. XYZ Dingirsu using Galatea 2.

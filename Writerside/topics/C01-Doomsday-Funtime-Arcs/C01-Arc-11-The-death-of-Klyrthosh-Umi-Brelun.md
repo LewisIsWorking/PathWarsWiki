@@ -683,3 +683,16 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> - Elinoa & Sestina "The Bannerwitch" join the group in Raven Grow.
 >> - Cardigan has 3 hero points so 2 of the centipedes are focused on her.
 >> - Allisee has the deck of harrow tales, so 1 centipede is focused on Allisee.
+
+## Session 275.
+
+> Arc-11 part 6
+>> - 2026 April 10th Friday + 4710 AR, Rova 11th (Sun-day).
+>> - IRL start time: 22:49.
+>> - Delay duration: 2 hours & 49 minute.
+>> - Players present: 5 = Horia (Selenor), Anthony (Allisee), Wig (Elinoa), Chris Warlock (Sestina) & Oscar (Carnon).
+>> - In-game location: In the Fake Crypt.
+>> - Raven Grow Day 1/30.
+
+> 20:30.
+>> 1. Combat with the fate eating centipedes in the fake crypt ends.

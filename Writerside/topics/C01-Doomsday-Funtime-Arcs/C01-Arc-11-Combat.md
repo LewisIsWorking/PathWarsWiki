@@ -53,6 +53,40 @@
 
 > Log of Round 1: Allies.
 >> 1. Start of Allies's Round 1.
+>> 2. Allisee notices a harrow-like glyph on one of the centipede's back.
+>> 3. Allisee nat20s the perception but fails the occultism check.
+>> 4. Elinoa goes -> Attacks centipede 02.
+>> 5. Allisee's turn -> Phantasmal killer on 03 -> 03 is frightened 2 now.
+>> 6. Selenor -> Strikes 02.
+>> 7. Cardigan -> Heals Carnon.
+>> 8. Carnon (due to Fate Flicker) sees an ancient shrine of Pharasma.
+>> 9. Sestina -> Taunting.
+
+> Log of Round 2: Enemies.
+>> 1. All taunted by Sestina so they all attack her.
+
+> Log of Round 2: Allies.
+>> 1. Allisee -> Shroud of night & Fear.
+>> 2. Elinoa -> Stride + Fireball.
+>> 3. Sestina -> Taunt + Battle Medicine on herself + Strike
+>> 4. Cardigan -> Disintegrate + mantle of faith.
+>> 5. Selenor -> Strike + Strike + Soul Siphon.
+>> 6. Carnon -> Stride (Flow of battle) + Strike + Switched ikon + Mark the centre.
+>> 7. Rino -> Shooting star stance + Flurry of blows + Raise shield.
+
+> Log of Round 3: Enemies.
+>> 1. 01 -> Attacked and grabbed Sestina.
+>> 2. 02 -> Attacked and injured Sestina.
+>> 3. Sestina current HP: 115.
+
+> Log of Round 3: Allies.
+>> 1. Elinoa -> Strike + Strike + Trip.
+>> 2. Allisee -> Moonstone Spear.
+>> 3. Sestina -> Charge + Shield taunt.
+>> 4. Cardigan -> Agonizing Despair.
+>> 5. Rino -> 5 damage.
+>> 6. Selenor -> Strike + Vision of Death. Kills Centipede 03.
+>> 7. Carnon -> Kills the last centipede with a strike.
 
 > Unacted Allies.
 >> 1. Cardigan. @PathWars
