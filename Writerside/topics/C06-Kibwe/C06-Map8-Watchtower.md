@@ -90,18 +90,15 @@
 >> 2. Kieran: Slime Lore 29. SUCCESS.
 >> 3. Master Cho Kobo: Esoteric Lore 36. SUCCESS.
 >> 4. Tal'lysae: Medicine 29 (hero point reroll). SUCCESS.
->> 5. Round 1 total: 4 successes. Running total: 4.
 
 > Round 2: Ritual Checks.
 >> 1. Daichi Kenshin: Kibwe Lore 35. SUCCESS.
 >> 2. Kieran: Slime Lore 30. SUCCESS.
 >> 3. Master Cho Kobo: Esoteric Lore 28. SUCCESS.
 >> 4. Tal'lysae: Medicine 38 (hero point reroll). CRITICAL SUCCESS.
->> 5. Round 2 total: 5 successes (including 1 crit = 2). Running total: 9.
 
 > Round 3: Ritual Checks.
 >> 1. Daichi Kenshin: Kibwe Lore 27 FAIL --> reroll = 32. SUCCESS.
 >> 2. Kieran: Slime Lore. PENDING.
 >> 3. Master Cho Kobo: Esoteric Lore. PENDING.
 >> 4. Tal'lysae: Medicine 38 (nat 20). CRITICAL SUCCESS.
->> 5. Round 3 so far: 3 successes (including 1 crit = 2). Running total: 12. Kieran and Cho Kobo pending.
