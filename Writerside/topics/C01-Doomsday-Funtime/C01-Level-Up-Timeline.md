@@ -86,7 +86,7 @@
 >> - Session 146 (10th December 2022) → Session 185 (12th August 2023).
 >> - 40 sessions. Approximately 8 months.
 >> - Arcs: Arc 2 Collapsing Halls concludes (S142–S146), Arc 3 Truth Teller (S148–S150), Arc 4 The Harrow (S153–S189).
->> - Obtained the proto-sin blade Truth-Teller. Arc 3, Session 148–150.
+>> - Obtained the proto-sin blade Truth-Teller. Arc 3, Sessions 148–150.
 >> - Allisee joins the party. Session 151 (11th February 2023).
 >> - Modwinn retires. Session 152 (12th February 2023).
 >> - Completed Bounties 1, 2, and 3. Sessions 150-1, 150-2, 151.
