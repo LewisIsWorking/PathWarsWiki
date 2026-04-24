@@ -36,7 +36,7 @@ For a look at how things roughly fit together:
 - Status: PAUSED.
 - Session count: 2.
 - Started 2023.
-- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C04-Agents-of-Magni-Watch.md
+- https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Other-campaigns/C04-Agents-of-Magni-Guard.md
 
 ## #5. The Grand Explorers.
 - Status: ongoing.

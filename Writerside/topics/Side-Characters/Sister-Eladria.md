@@ -2,7 +2,7 @@
 
 ## Overview
 
-> Sister Eladria is a young acolyte at the Temple of Pharasma in Raven Grow.
+> Sister E-lad-ria is a young acolyte at the Temple of Pharasma in Raven Grow.
 >> - Cleric of the Lady of the Graves.
 >> - Record keeper of the temple.
 >> - She has taken her first spiral vow but has not yet received the Grave Blessing.

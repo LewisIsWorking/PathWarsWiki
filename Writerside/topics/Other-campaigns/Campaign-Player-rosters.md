@@ -4,7 +4,7 @@ Campaign List.
 1. DF.
 2. CT.
 3. EF.
-4. Agents of Magni-Watch.
+4. Agents of Magni-Guard.
 5. The Grand Explorers.
 6. Kibwe.
 7. StarFinder.
@@ -65,7 +65,7 @@ Campaign List.
 
 ## #2. Crimson Throne. FINISHED!
 ## #3. Etran's Folly. FINISHED!
-## #4. Agents of Magni-Watch.
+## #4. Agents of Magni-Guard.
 
 - 6/6.
 

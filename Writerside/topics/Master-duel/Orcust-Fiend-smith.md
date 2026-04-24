@@ -1,9 +1,11 @@
-# Orcust-Fiend-smith
+# Orcust-Fiend-Smith
 
 Start typing here...
 
 > General tips.
 >> - Generally send harp?
+
+## Girsu.
 
 > Girsu.
 >> 1. Girsu -> Sends harp horror.
@@ -41,6 +43,8 @@ Start typing here...
 >> 33. Nightmare -> Boost Enlilgirsu's attack -> Send Wand.
 >> 34. Wand -> Summon Crown.
 
+## Harp Horror.
+
 > Harp Horror.
 >> 1. Normal summon harp horror.
 >> 2. Link -> Galatea 1 -> Add Crown.
@@ -77,6 +81,8 @@ Start typing here...
 >> 33. Girsu send wand.
 >> 34. Wand summon crown.
 
+## Engraver.
+
 > Engraver.
 >> 1. Engraver -> Add tract.
 >> 2. Tract -> Search Lurrie, discard it, summons itself.
@@ -109,6 +115,28 @@ Start typing here...
 >> 29. Galatea 1 -> Discard nightmare, add crown.
 >> 30. Nightmare -> Target I:P -> Send wand.
 >> 31. Wand -> Summons crown.
+
+## Foolish Burial.
+
+> Foolish Burial.
+>> 1. Send harp horror.
+>> 2. Harp horror -> Summon Girsu.
+>> 3. Girsu -> Send Orcust Knightmare.
+>> 4. Girsu -> Summon tokens.
+>> 5. Link -> Galatea 1 using token.
+>> 6. Galatea 1 -> Discard 1 for babel.
+>> 7. Link -> Galatea 2 using Galatea 1 & Girsu.
+>> 8. Orcust Knightmare Chain 1 + Galatea 1 Chain 2 -> ...
+>> 9. Galatea 1 -> Banish Knightmare -> Summons Galatea 1.
+>> 10. Orcust Knightmare -> Sends skeleton.
+>> 11. Galatea 2 -> Shuffle orcust knightmare -> Set crescendo.
+>> 12. Link -> Longirsu using Galatea 2 & Galatea 1.
+>> 13. Skeleton -> Revive Galatea 2.
+>> 14. Xyz -> Dingirsu using Galatea 2.
+>> 15. Link -> Enlilgirsu using Longirsu & Dingirsu.
+>> 16. Enlilgirsu -> Add skeleton to hand -> Shuffle skeleton -> Take control of opponent's token.
+>> 17. If you have a summon in hand, normal summon it then link into I:P Masquerena using the summon and token.
+>> 18. Otherwise normal summon anything and link into I:P Masquerena using the normal summon and token.
 
 > Horus.
 >> 1. Summon the 2x Horus.

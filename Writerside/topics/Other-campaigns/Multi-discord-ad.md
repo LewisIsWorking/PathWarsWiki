@@ -29,9 +29,9 @@ There are slots open in all of these campaigns.
 - Level 2 → 20.~~
 Full!
 
-__04-The-Magni-Watch-The-Elite-Guards-Of-Magnimar__
+__04-The-Magni-Guard-The-Elite-Guards-Of-Magnimar__
 **Campaign Description: **
-- Set in Magnimar, the party will take on the roles of agents of Magni-Watch, dealing with various threats to the city.
+- Set in Magnimar, the party will take on the roles of agents of Magni-Guard, dealing with various threats to the city.
 - The campaign will involve investigations, combat and exploration of the city and its surroundings.
 - (This is the agents of Edge watch, but set in Magnimar instead of Absalom).
 - Level 1 → 20.

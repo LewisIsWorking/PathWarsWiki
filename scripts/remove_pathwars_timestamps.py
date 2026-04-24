@@ -2,7 +2,7 @@ import re
 import shutil
 from pathlib import Path
 
-file_path = Path(r"c:\Users\Lewis\WritersideProjects\PathWarsWiki\Writerside\topics\C04-Guards-of-Magni-Watch\Allisee-Tea-Magni-Watch.md")
+file_path = Path(r"c:\Users\Lewis\WritersideProjects\PathWarsWiki\Writerside\topics\C04-Guards-of-Magni-Guard\Allisee-Tea-Magni-Guard.md")
 backup_path = file_path.with_suffix(file_path.suffix + '.bak2')
 
 # make a backup

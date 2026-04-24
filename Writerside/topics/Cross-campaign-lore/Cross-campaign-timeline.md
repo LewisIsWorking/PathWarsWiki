@@ -62,7 +62,7 @@ when determining if specific events have happened and for the purpose of unlocke
 ## **4710 AR.**
 
 > Edge-watch #4. 4710 AR.
->> - [C04-Agents-of-Magni-Watch.md](C04-Magni-Watch.md)
+>> - [C04-Agents-of-Magni-Guard.md](C04-Magni-Guard.md)
 
 > The Grand Explorers #5. 4710 AR.
 >> - [C05-The-Grand-Explorers.md](C05-The-Grand-Explorers.md)
@@ -102,7 +102,7 @@ when determining if specific events have happened and for the purpose of unlocke
 >> - This campaign was completed twice, once in 2020/2021 over many sessions and once as a one shot in 2021.
 
 > Edge-watch, campaign 4.
->> - [C04-Agents-of-Magni-Watch.md](C04-Magni-Watch.md).
+>> - [C04-Agents-of-Magni-Guard.md](C04-Magni-Guard.md).
 >> - Campaign #4. 2022 → Ongoing.
 
 > The Grand Explorers #5.
