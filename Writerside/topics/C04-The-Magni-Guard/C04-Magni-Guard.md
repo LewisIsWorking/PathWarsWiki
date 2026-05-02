@@ -1,11 +1,16 @@
-# Campaign~4-Agents-of-MagniWatch.
+# Campaign-4-Magni-Guard.
 
 - It was originally intended to be a 1 Player to 1 GM campaign.
 - It is now a 6-player play by post.
 
-## What is the Magni-Watch?
+## What is the Magni-Guard?
 
-The Heroes of Magnimar are the powerful heroes who deal with extremee threats but they can't deal with the day-to-day crime and corruption in the city. So the mayor of Magnimar has established a new elite policing division: MagniWatch. The MagniWatch is a group of heroes who are tasked with dealing with the crime and corruption in the city. They are given special powers and resources to help them in their mission.
+> The Heroes of Magnimar are the powerful heroes who deal with extreme threats...
+>> 1. ...but they can't deal with the day-to-day crime and corruption in the city.
+>> 2. So the mayor of Magnimar has established a new elite policing division: Magni Guard. 
+>> 3. The Magni Guard is a group of heroes who are tasked with dealing with the crime and corruption in the city. 
+>> 4. They are given special powers and resources to help them in their mission. 
+>> 5. They draw upon the power of the city's monuments, using their golemwork-crafted HellKnight-infused monument badges to issue fines on the spot at certain times.
 
 ## Progress.
 
@@ -40,7 +45,7 @@ The Heroes of Magnimar are the powerful heroes who deal with extremee threats bu
 ## Ongoing notes.
 
 > Overview.
->> - The mayor of Magnimar has established a new elite policing division: MagniWatch.
+>> - The mayor of Magnimar has established a new elite policing division: Magni-Guard.
 >> - You can issue fines on the spot at certain times using your monument badge.
 
 > The South Hall - Magnimar Menagerie

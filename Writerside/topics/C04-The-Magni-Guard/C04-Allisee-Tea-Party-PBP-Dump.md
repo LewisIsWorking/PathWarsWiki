@@ -684,7 +684,7 @@ James Darkmoon sighs:
 
 "....and you'll all need to wear guard suitwear and dressware.
 
-I have Magni-Watch versions of both in the armoury downstairs.
+I have Magni-Guard versions of both in the armoury downstairs.
 
 Feel free to pick whatever one suits you best, there are a couple slightly different colour and appearance variations.
 
@@ -1317,7 +1317,7 @@ The rat imagery has faded somewhat; eventually it'll fade altogether...if things
 
 Askaran Ottergryph | #1 Haku | #4 Scrit, [24/10/2025 23:24]
 Machiq stands up, resting a paw on the bed while reassuring his balance. He still feels wobbly so he stays leaned against the bed.
-"What is the meaning of this? Why have we survived? The MagniWatch people of all..?"
+"What is the meaning of this? Why have we survived? The Magni-Guard people of all..?"
 Machiq's voice is still weak and shaky.
 
 Path Wars, [03/11/2025 15:36]

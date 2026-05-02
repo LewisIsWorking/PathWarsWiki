@@ -696,3 +696,71 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 
 > 20:30.
 >> 1. Combat with the fate eating centipedes in the fake crypt ends.
+
+## Session 276.
+
+> Arc-11 part 7
+>> - 2026 April 18th Saturday + 4710 AR, Rova 11th (Sun-day).
+>> - IRL start time: 22:21.
+>> - Delay duration: 2 hours & 21 minute.
+>> - Players present: 3 = Horia (Selenor), Anthony (Allisee) & Oscar (Carnon).
+>> - In-game location: In the Fake Crypt.
+>> - Raven Grow Day 1/30.
+
+> 21:00.
+>> 1. Father Vauran is with the group.
+>> 2. Ghost hunting supplies + Greater Ghost Holders x 4 + Brass ouji spirit board.
+
+> 21:15.
+>> 1. Back to Umi with the supplies.
+>> 2. She serves fish stew with blue-green Marid spices that taste of deep ocean, fresh bread, sharp cheese, dark wine.
+>> 3. Selenor asks about Umi's mother, Umi says she doesn't know who her mother is.
+>> 4. Selenor tells Umi about meeting the Yarl-Genie and how he said that the Genies created the universe.
+>> 5. Everyone succeeds against the nightmare.
+
+> 21:30 -> +8 hours -> 05:30am -> 1 hour of daily preparation -> 06:30am.
+>> 1. Rova 12th (Moonday).
+>> 2. Day 2/30 in Raven Grow.
+>> 3. Keleri is back in Sandpoint.
+>> 4. Selenor and Umi talk about the sleep-over breakfast.
+>> 5. What are the party doing until 9am? That gives everyone 2.5 hours.
+
+> Carnon.
+>> 1. Carnon is looking for a rock to carve a statue out of.
+>> 2. Expert survival check to find a good rock -> 20 minutes go by -> 28 on the check...
+>> 3. Carnon sees that in the river bed there are some large boulders that would be perfect for carving a statue out of.
+
+> Elinoa.
+>> 1. Elinoa is unsure of what to do with her time.
+
+> Selenor.
+>> 1. Selenor is going to Father Vauran to ask if Vauran has anything for Selenor to do.
+>> 2. Selenor shows Father Vauran if Vauran knows more about Sarenrae and asks if Sarenrae has a special connection to the town.
+>> 3. Father Vauran says no to knowing specifics about Sarenrae.
+>> 4. Father Vauran offers 3 jobs:
+>> 5. - 1. Restlands patrol - 2. Church records research - 3. The ward proposal.
+>> 6. Vauran thought about what Selenor said. He wants to see it done properly, with Pharasma's blessing, not around it.
+>> 7. Vauran explains that creating the wards will take several days.
+>> 8. Selenor also wants to look into building a teleportation circle on the teleportation platform in town.
+>> 9. But for now, Selenor wants to build the ward. Selenor only has 2.5 hours right now until 9am.
+>> 10. Vauran assigns the work table to Selenor.
+>> 11. Selenor uses arcana skill [master] to locate where the sense of undead magic is strongest.
+>> 12. 32 total master arcaana check.
+>> 13. Selenor places both hands flat on the worktable map.
+>> 14. Selenor's Three eyes open.
+>> 15. Selenor's mind allows him to understand the field of the Restlands.
+>> 16. Vauran watches. Doesn't speak.
+>> 17. What Selenor finds:
+>> 18. The consecration is intact across most of the graveyard.
+>> 19. Selenor feels Pharasma's blessing (as he did when he was a chidld).
+>> 20. The blessing is old and deep, soaked into the stone and soil over centuries.
+>> 21. But there are energies pushing through from below.
+>> 22. From the direction of the hills and from deep down.
+>> 23. The pressure flows upward through the bedrock layer but through the stone the graves sit on.
+>> 24. Selenor shows on the map where the spots are.
+>> 25. Selenor's 3rd eye does not follow where Selenor's main eyes go.
+>> 26. Vauran says that they will need to anchor themselves to the checkpoint.
+>> 27. Selenor gets out his Pharasmian-eyeball in a jar to show Vauran.
+>> 28. Selenor explains that the eyeball was not his doing but the eyeball points in the direction of the nearest undead.
+>> 29. Selenor has an idea to use undead summoning to train the church acolytes and town guards to fight the undead.
+
