@@ -1,4 +1,132 @@
-## Magnet Warriors.
+# Magnet Warriors.
+
+## Moha.
+
+> Conduction Warrior.
+>> 1. We can get to this via Duoterion or Bonding.
+>> 2. Duoterion -> Bonding EFFECT 1 -> Bonding adds Conduction Warrior.
+>> 3. Conduction warrior -> Send Epsilon and Sigma Plus to the GY.
+>> 4. Sigma Plus -> Revive Epsilon.
+>> 5. Epsilon -> Sends Omega Plus.
+>> 6. Epsilon -> Summons Sigma Plus or any level 4.
+>> 7. XYZ -> Gallant Granite using Epsilon and Sigma Plus.
+>> 8. Gallant Granite -> Add Block Dragon.
+>> 9. Link -> Earth Charmer using Gallant Granite and Conduction Warrior.
+>> 10. Block Dragon -> Banish any 3 BUT never banish the sigmas. Banish Gallant Granite, Conduction Warrior and Epsilon.
+>> 11. Cross Sheep using Earth Charmer and Block Dragon.
+>> 12. Block Dragon -> Add researcher & 2x Beta.
+>> 13. Normal summon Beta.
+>> 14. Beta -> Add Sigma Minus.
+>> 15. Sigma Minus -> Special summons Plasma Magnum -> Use Sigma Minus & the Beta that is on the field.
+>> 16. ^ Summon Plasma Magnum to a zone that Cross Sheep points to.
+>> 17. DO NOT ACTIVATE CROSS SHEEP YET.
+>> 18. Plasma Magnum -> Add Bonding.
+>> 19. Plasma Magnum -> Sends Tellusion -> Summons beta from hand.
+>> 20. Special summon researcher.
+>> 21. Researcher -> Summon ANY rock.
+>> 22. Synchro -> Naturia Beast using Beta and researcher.
+>> 23. ^ SUMMON BEAST TO A ZONE THAT CROSS SHEEP POINTS TO.
+>> 24. Cross sheep -> Resurrect researcher.
+>> 25. Link -> Elf using Cross sheep and the rock that researcher summoned.
+>> 26. Block Dragon -> DO NOT BANISH SIGMA PLUS OR MINUS.
+>> 27. Block Dragon -> Banish Cross sheep, beta and earth charmer.
+>> 28. Synchro -> Baronne De Fleur using block dragon & researcher.
+>> 29. Block dragon -> Banish Omega, Beta and whatever researcher summoned.
+>> 30. Elf -> Revive researcher.
+>> 31. Link- > I:P Masquerena using researcher and Block dragon.
+>> 32. Tellusion -> Special summon itself by banishing sigma plus & sigma minus from the GY.
+>> 33. Set bonding.
+>> 34. END TURN.
+>> 35. Bonding to create Flux Ochsenfeld.
+>> 36. I:P Masquerena -> to Link into Little Knight using itself and Plasma Magma.
+>> 37. Tellusion can destroy a monster.
+>> 38. Bonding -> Summon Flux Ochsenfeld using Gallant Granite and Conduction Warrior.
+
+> Beta.
+>> 1. Normal summon Beta.
+>> 2. Beta -> Add Sigma Minus.
+>> 3. Sigma Minus -> Special summons Plasma Magnum (to a cross sheep zone) -> Use Sigma Minus & Beta.
+>> 4. Put Plasma Magnum in defense mode.
+>> 5. Plasma Magnum adds Magnet bonding.
+>> 6. Magnet bonding adds Conduction Warrior.
+>> 7. Conduction Warrior -> Sends Sigma Plus & Epsilon.
+>> 8. Sigma Plus -> Revive Epsilon.
+>> 9. Epsilon -> Sends Omega Plus.
+>> 10. Epsilon -> Summon any level 4 like Sigma Minus.
+>> 11. XYZ -> Gallant Granite using Epsilon and Sigma Minus (or whatever level 4 you summoned).
+>> 12. Gallant Granite -> Adds block dragon.
+>> 13. Link -> Earth Charmer using Gallant Granite and Conduction Warrior.
+>> 14. Block dragon -> Banish conduction warrior, Gallant Granite and Epsilon.
+>> 15. Link -> Cross Sheep using Earth Charmer and Block Dragon.
+>> 16. Block Dragon -> Add researcher & 2x Beta.
+>> 17. Plasma magnum -> Sends Tellusion -> Summons beta from hand.
+>> 18. Special summon researcher.
+>> 19. DID YOU HIT A ROCK? 
+>> 20. Researcher -> Summon ANY rock.
+>> 21. Synchro -> Naturia Beast using Beta and researcher.
+>> 22. ^ SUMMON BEAST TO A ZONE THAT CROSS SHEEP POINTS TO.
+>> 23. Cross sheep -> Resurrect researcher.
+>> 24. Link -> Elf using Cross sheep and the rock that researcher summoned.
+>> 25. Block Dragon -> DO NOT BANISH SIGMA PLUS OR MINUS.
+>> 26. Block Dragon -> Banish Cross sheep, beta and earth charmer.
+>> 27. Synchro -> Baronne De Fleur using block dragon & researcher.
+>> 28. Block dragon -> Banish Omega, Beta and whatever researcher summoned.
+>> 29. Elf -> Revive researcher.
+>> 30. Link- > I:P Masquerena using researcher and Block dragon.
+>> 31. Tellusion -> Special summon itself by banishing sigma plus & sigma minus from the GY.
+>> 32. Set bonding.
+>> 33. END TURN.
+>> 34. Bonding to create Flux Ochsenfeld.
+>> 35. I:P Masquerena -> to Link into Little Knight using itself and Plasma Magma.
+>> 36. Tellusion can destroy a monster.
+>> 37. Bonding -> Summon Flux Ochsenfeld using Gallant Granite and Conduction Warrior.
+
+> Sigma Minus + ANY Earth Rock.
+>> 1. Sigma Minus -> Fusion Summon Plasma Magnum using Sigma Minus and ANY Earth Rock.
+>> 2. Plasma Magnum -> adds Magnet Bonding.
+>> 3. Bonding -> Add Conduction Warrior.
+>> 4. Conduction Warrior -> Sends Sigma Plus & Epsilon.
+>> 5. Sigma Plus -> Revive Epsilon.
+>> 6. Epsilon -> Sends Omega Plus.
+>> 7. Epsilon -> Summons Sigma Minus or any level 4.
+>> 8. XYZ -> Gallant Granite using Epsilon and Sigma Minus (or whatever level 4 you summoned).
+>> 9. Gallant Granite -> Adds block dragon.
+>> 10. Link -> Earth Charmer using Gallant Granite and Conduction Warrior.
+>> 11. Block dragon -> Banish conduction warrior, Gallant Granite and Epsilon.
+>> 12. Link -> Cross Sheep using Earth Charmer and Block Dragon.
+>> 13. Block Dragon -> Add researcher & 2x Beta.
+>> 14. Normal summon Beta.
+>> 15. Beta -> Add Sigma Minus.
+>> 16. Special summon Researcher.
+>> 17. Researcher -> Summon ANY rock.
+>> 18. Didn't hit a rock?
+>> 19. Synchro -> Naturia Beast using Beta and researcher.
+>> 20. ^ SUMMON BEAST TO A ZONE THAT CROSS SHEEP POINTS TO.
+>> 21. Cross sheep -> Resurrect researcher.
+>> 22. Block dragon -> Banish Beta, Earth charmer and a spare sigma minus or plus.
+>> 23. Synchro -> Baronne De Fleur using block dragon & researcher.
+>> 24. Plasma Magnum -> Send Tellusion -> Summon Beta from hand.
+>> 25. Link -> Elf using Cross sheep and Beta.
+>> 26. Block dragon -> Banish cross sheep, beta and omega.
+>> 27. Elf -> Revive researcher.
+>> 28. Link -> I:P Masquerena using researcher and Block dragon.
+>> 29. Tellusion -> Special summon itself by banishing sigma plus & sigma minus from the GY.
+
+
+> What if researcher doesn't hit a rock?
+>> 1. Synchro -> Naturia Beast using Beta and researcher.
+>> 2. ^ Summon it to a zone that cross sheep points to.
+>> 3. Cross sheep -> Resurrect researcher.
+>> 4. Link -> Elf using Cross sheep and researcher.
+>> 5. Elf -> Revive researcher.
+>> 6. Block dragon -> Banish cross sheep, beta and earth charmer.
+>> 7. Synchro -> Baronne De Fleur using block dragon & researcher.
+>> 8. Tellusion -> Special summon itself by banishing sigma plus & sigma minus from the GY.
+>> 9. Block dragon -> Banish Researcher, Omega, Beta.
+>> 10. YOU CAN END HERE!
+>> 11. OR Link -> I:P Masquerena using block dragon & plasma magnum.
+
+## Hex Lex Combos.
 
 > Plus Minus.
 >> 1. Activate Plus Minus.
@@ -6,7 +134,7 @@
 >> 3. Send Beta.
 >> 4. Activate Beta in GY.
 >> 5. Beta Adds Sigma Minus.
->> 6. Sigma Minus -> Special summons Plasma Magma -> Use Sigma Minus & Beta.
+>> 6. Sigma Minus -> Special summons Plasma Magnum -> Use Sigma Minus & Beta.
 >> 7. ^ Put Plasma Magnum in defense mode.
 >> 8. Plasma Magnum adds Magnet bonding.
 >> 9. Bonding adds Epsilon.
@@ -31,7 +159,7 @@
 > Beta.
 >> 1. Normal summon Beta.
 >> 2. Beta -> Add Sigma Minus.
->> 3. Sigma Minus -> Special summons Plasma Magma -> Use Sigma Minus & Beta.
+>> 3. Sigma Minus -> Special summons Plasma Magnum -> Use Sigma Minus & Beta.
 >> 4. Put Plasma Magnum in defense mode.
 >> 5. Plasma Magnum adds Magnet bonding.
 >> 6. Magnet bonding adds Conduction Warrior.

@@ -634,7 +634,8 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> - Allisee saw that the deck of Harrowed Tales was reacting to a source of Harrow Magic in the town, so she is going to try to find the source of the Harrow Magic.
 >> - Viki is a main character (Void-Dragon Druid & Guardian). Viki is going to just go around the town.
 >> - Leda goes into the laughing demon. 
->> - Leda meets Zokar, the owner of the laughing demon. Zokar is a cheerful and friendly guy who is happy to see a new face in town.
+>> - Leda meets Zokar, the owner of the laughing demon. 
+>> - Zokar is a cheerful and friendly guy who is happy to see a new face in town.
 >> - Leda offered help. 
 >> - Leda asks about the theme. Leda also says about where she's from they like festivals. 
 >> - Zokar tells Leda about services and shops. 
@@ -722,7 +723,7 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> 1. Rova 12th (Moonday).
 >> 2. Day 2/30 in Raven Grow.
 >> 3. Keleri is back in Sandpoint.
->> 4. Selenor and Umi talk about the sleep-over breakfast.
+>> 4. Selenor and Umi talk about the nightmares over their breakfast.
 >> 5. What are the party doing until 9am? That gives everyone 2.5 hours.
 
 > Carnon.
@@ -764,3 +765,152 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> 28. Selenor explains that the eyeball was not his doing but the eyeball points in the direction of the nearest undead.
 >> 29. Selenor has an idea to use undead summoning to train the church acolytes and town guards to fight the undead.
 
+## Session 276. Play by post.
+
+[21/04/2026 12:38] Path Wars: So what happens next?
+[21/04/2026 13:38] Path Wars: @MrNegetZ 
+@Nemesiux 
+@Mossssssssssssssssssssssssss
+[21/04/2026 14:30] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Describe the scene. Is it a new day after this activity or the same day?
+[21/04/2026 14:47] Path Wars: You're in the temple of Pharasma's main room. 
+
+You were provided a desk.
+[21/04/2026 15:04] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: I already did the checks for the planning phase and explained to the father what must be done. He needs to respond now
+[21/04/2026 20:09] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: 
+[28/04/2026 02:42] Path Wars: When Selenor lifts his hands from the map and marks the pressure points, Vauran leans in.
+
+Father Vauran studies the marks without touching them.
+[28/04/2026 02:43] Path Wars: Vauran says:
+'The consecration holds at the surface. Pharasma's blessing is still in the stone and the soil. What you have found is that the pressure predates where the blessing reaches.'
+[28/04/2026 02:43] Path Wars: Vauran goes still.
+He looks at the eyeball for a long moment without reaching for it.
+Vauran asks:
+'Where did you come by this?'
+[28/04/2026 02:45] Path Wars: Vauran says, looking at the pressure points:
+"That is where we begin the anchoring."
+[28/04/2026 02:45] Path Wars: Vauran:
+"Bring your materials. 
+We go at dusk, when the light is between, neither full day nor full dark. 
+Pharasma holds both thresholds within her power. 
+That is when the consecration responds best."
+[28/04/2026 02:47] Path Wars: Father Vauran:
+'The work will take more than one evening. 
+You understand this already I am sure.
+Come back at six. 
+Before supper."
+
+Vauran turns back to the map and says:
+"You are capable of great and terrible things, I praise the sands of Pharasma's hourglass that you are on our side..."
+[28/04/2026 04:18] PathWarsNudge: ━━━━━━━━━━━━━━━━
+✅ All caught up!
+[28/04/2026 06:48] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: (Selenor already explained the lore of the eye in the jar. He told him that they could use it to expose undead who pose as living beings and that he is sorry for the pharasmian eye.)
+[28/04/2026 07:03] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor stops before he leaves the room and the third eye stares at the priest and says "we are dying..... high priest. 
+
+Instead of spending our final years with our family or seeking a way to stop it, we honor the wish of a dead ally to protect his daughter and this town/village.  We are giving you a month out of the 9 years that we have left of our existence in this reality
+
+ I still offer you and your goddess my aid even after all the abuse and attempts on my life caused by your church and indirectly by Pharasma.
+
+If even after all of this you don't see that I am on your side, you simply disappoint me high priest"
+
+Selenor is then silent for a few seconds and then says one more thing before leaving "I was brought back against my will because you the mortals and the gods of this world betrayed it....
+
+The dead and undead of your country shall be avenged. You have no reason to fear me high priest. You shall have my aid and wisdom as long as you allow me to give it to you.
+
+My price is worse than any infernal contract, demonic deal or angelic oath, for I ask for your honesty and trust. Something that is dying just like us in those dark times."
+[28/04/2026 11:47] PathWarsNudge: ━━━━━━━━━━━━━━━━
+📋 Unreplied: 2
+Age: 🆕<1h 🌱6h 🌿12h 🌳1d 🟢2d 🟩3d 🟡4d 🟨5d 🟠6d 🟧7d 🔴8d 🟥9d 🟣10d 🟪11d 🔵12d 🟦13d 🟤14d 🟫15d ⚫16d ⬛17d 💀21d ☠️25d
+01 [149387] 🌱 4h. Kaer'maga when?: (Selenor already explained the lore of the eye in the jar. He told him that... 🔗 https://t.me/Path_Wars/25059/149387
+02 [149388] 🌱 4h. Kaer'maga when?: Selenor stops before he leaves the room and the third eye stares at the priest... 🔗 https://t.me/Path_Wars/25059/149388
+[02/05/2026 23:06] Path Wars: 01.
+That's no problem.
+[02/05/2026 23:07] Path Wars: 02. 
+Father Vauran nods, affirming your points:
+"Come back at 6, then we will get to work."
+
+## Session 277.
+
+> Arc-11 part 8
+>> - 2026 May 2nd Saturday + 4710 AR, Rova 12th (Moonday).
+>> - IRL start time: 23:14.
+>> - Delay duration: 3 hours & 14 minutes.
+>> - Players present: 3 = Horia (Selenor) & Anthony (Allisee).
+>> - In-game location: Raven Grow.
+>> - Raven Grow Day 2/30.
+
+> Player mini-downtime.
+>> 1. Selenor wrapped up his downtime.
+>> 2. Allisee: undecided.
+>> 3. Elinoa: undecided.
+>> 4. 2.5 hours until 9am.
+
+> 4710 AR, Rova 12th = 06:30am -> 09:30am.
+>> 1. Allisee considers making a wand of sending, it would cost 700 GP.
+>> 2. Cardigan says she has 1,069 GP but needs it for Boggly's legal defence / prison break equipment.
+>> 3. The party is also considering a pact of Hag Vision (50GP) or a ghost crow that Selenor can telepathically communicate with.
+>> 4. Allisee is also considering crafting a Shell of Sending (703 GP)or a Slates of Distant Letters (2,450GP).
+>> 5. Party go to the Harrow.
+>> 6. Allisee talks to Wrin about the Gauntlight.
+>> 7. Wrin recaps that the Pharasmian Church are guarding the edges of the Gauntlight & suppressing its void magic.
+>> 8. Allisee asks Sonnorae for 2 services.
+>> 9. 1. To guard the town.
+>> 10. 2. Interpret the harrow reading of the town.
+>> 11. Sonnorae explains what she wants:
+>> 12. 1. 50 GP.
+>> 13. 2. Access to Umi's library.
+>> 14. 3. Enter into a coven with Allisee.
+>> 15. The coven was originally formed to restore Sonnorae's eyes.
+>> 16. Sonnorae explains that she missed the opportunity to enter into a coven with Yubis.
+>> 17. The coven of 3: Allisee, Modwinn and Sonnorae.
+>> 18. Sonnorae says in one of her visions, Modwinn has Sonnorae's eyes.
+>> 19. Sonnorae is going to go to the halfling servant and with a pluck of her hag claws is going rip out one of the servant's eyes.
+>> 20. Cardigan gives Sonnorae 5 platnium pieces.
+>> 21. Sonnorae puts the hag's eye on her neck, like a necklace.
+>> 22. IF Sonnorae's eyes are ever lost then Sonnorae gets Allisee's eyes.
+
+> 4710 AR, Rova 12th = 09:00am.
+>> 1. Time for the town tour.
+>> 2. The Laughing Demon -> Party meet Zokar -> Selenor asks about how to help the town.
+>> 3. Zokar kind of looks like Mario but taller, fatter and stronger.
+>> 4. Selenor says Selenor plays music. Bass Guitar.
+>> 5. Zokar says to Umi that he is sorry about "her father".
+>> 6. Lore Estate is haunted.
+>> 7. Manor on the edge of town.
+>> 8. Harvest Lady painting.
+>> 9. Lord Lore.
+>> 10. General store -> Luke and Martha.
+>> 11. Selenor gives Luke 10 GP.
+>> 12. Selenor will be at 780 GP.
+>> 13. 39 diplomacy check: Luke & Martha warm to Selenor.
+>> 14. Jominda's Apothecary
+>> 15. Jomina recognises Allisee.
+>> 16. Selenor buys 1 grave salt, that's enough to cover 1 square.
+>> 17. Town hall.
+>> 18. Critical success -> Party get a letter of introduction.
+>> 19. Selenor hands Jimmy the halfling boy 1GP.
+>> 20. The Whispering Way want the "Celestial Coronet".
+>> 21. The Celestial Coronet is one of several headpieces that denote rulership of big areas of land.
+>> 22. Likely a major artefact.
+>> 23. The page now says "3".
+
+> 4710 AR, Rova 12th = 12:00.
+>> 1. Umi says about going to the laughing demon at 20:00.
+>> 2. Selenor asks Umi about a date.
+>> 3. Umi blushes, thinking Selenor was asking Umi on a date.
+>> 4. Selenor invites Cardigan on a hunting date.
+>> 5. Umi is embarrassed for thinking Selenor wanted to go on a date with her.
+>> 6. The party have 8 hours.
+>> 7. Cardigan suggests doing a BOUNTY BOARD MISSION! 
+>> 8. A bog mummy has been stolen in a nearby town.
+>> 9. Anactoria.
+>> 10. Mother Belch, Pharasmian Cleric.
+>> 11. Sheriff Door.
+>> 12. Anikia Dom: Abadar Merchant, blonde hair.
+>> 13. Jah The Elf Archeologist Witch of Sarenrae.
+>> 14. Jah studies orbs of light.
+>> 15. The Toulouse family.
+>> 16. The party go to the merchant's guild.
+>> 17. Then to Anikia Dom's house.
+>> 18. Allisee notices that Anikia has a wedding ring on.
+
+## Session 277 Play-By-Post.
