@@ -902,15 +902,97 @@ Father Vauran nods, affirming your points:
 >> 6. The party have 8 hours.
 >> 7. Cardigan suggests doing a BOUNTY BOARD MISSION! 
 >> 8. A bog mummy has been stolen in a nearby town.
->> 9. Anactoria.
->> 10. Mother Belch, Pharasmian Cleric.
->> 11. Sheriff Door.
->> 12. Anikia Dom: Abadar Merchant, blonde hair.
->> 13. Jah The Elf Archeologist Witch of Sarenrae.
->> 14. Jah studies orbs of light.
->> 15. The Toulouse family.
->> 16. The party go to the merchant's guild.
->> 17. Then to Anikia Dom's house.
->> 18. Allisee notices that Anikia has a wedding ring on.
+>> 9. Selenor teleports the party to the nearby town to investigate the bounty.
+>> 10. Anac-toria.
+>> 11. Mother Belch, Pharasmian Cleric.
+>> 12. Sheriff Door.
+>> 13. Anikia Dom: Abadar Merchant, blonde hair.
+>> 14. Jah The Elf Archeologist Witch of Sarenrae.
+>> 15. Jah studies orbs of light.
+>> 16. The Toulouse family.
+>> 17. The party go to the merchant's guild.
+>> 18. Then to Anikia Dom's house.
+>> 19. Allisee notices that Anikia has a wedding ring on.
 
 ## Session 277 Play-By-Post.
+
+> Session 277 PBP.
+>> 1. [03/05/2026 06:27] Path Wars: @MrNegetZ
+>> 2. @Nemesiux
+>> 3. @Wigglero
+>> 4. @Sestina_The_Banner_Witch
+>> 5. Etc.
+>> 6. What do you say to Anikia Dom
+>> 7. [03/05/2026 06:27] Path Wars: and do you have any of her lovely sandwiches/drinks?
+>> 8. [03/05/2026 12:15] Path Wars: @Nemesiux
+>> 9. Do you step into the room?
+>> 10. [03/05/2026 12:15] Path Wars: You are in the hallway of the 4-storey townhouse
+>> 11. [03/05/2026 12:16] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor steps into the room and greets Anikia
+>> 12. [03/05/2026 12:17] Path Wars: You see a long rectangular room.
+>> 13. [03/05/2026 12:17] Path Wars: There is a roaring fireplace.
+>> 14. [03/05/2026 12:17] Path Wars: A long rectangular table.
+>> 15. [03/05/2026 12:17] Path Wars: Made of white marble.
+>> 16. [03/05/2026 12:17] Path Wars: On the table is a load of fancy sandwiches and various wines & juices.
+>> 17. [03/05/2026 12:17] Path Wars: Sitting there is Anikia.
+>> 18. [03/05/2026 12:18] Path Wars: Anikia wears a white garb with gold accents.
+>> 19. [03/05/2026 12:18] Path Wars: Anikia wears an Abadarian holy symbol.
+>> 20. [03/05/2026 12:18] Path Wars: Selenor.
+>> 21. [03/05/2026 12:19] Path Wars: You notice that Anikia's eyes goes slightly wider when you enter from the hallway.
+>> 22. [03/05/2026 12:20] Path Wars: Anikia:
+>> 23. "Ah Selenor."
+>> 24. [03/05/2026 12:20] Path Wars: Anikia:
+>> 25. "It is an honour."
+>> 26. [03/05/2026 12:30] Path Wars: @Nemesiux What do you say/do?
+>> 27. [03/05/2026 12:32] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor bows and says "It is a pleasure to meet you"
+>> 28. [03/05/2026 12:33] Path Wars: Anikia:
+>> 29. "No, no, the great sage of the arcane, son of John, etc, etc.
+>> 30. It is my honour to host you."
+>> 31. [03/05/2026 12:34] Path Wars: Anikia:
+>> 32. "Please please, take a seat, have some food, have some wine."
+>> 33. [03/05/2026 12:52] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor sits down and asks "We picked up your bounty regarding the kidnapping of a mummy. What can you tell us?"
+>> 34. [03/05/2026 12:53] Path Wars: Anikia:
+>> 35. "You mean the bounty of the Toulouse family.
+>> 36. It is a shame to lose such a valuable asset.
+>> 37. As for what I can tell you?
+>> 38. Information isn't free, and even if it was, I have no information for you."
+>> 39. [03/05/2026 13:54] laughable Logan: Landon: Landon would be walking in minutes after the 3rd humanoid walked in, with one hand already mid-gesture as if he'd been in the middle of explaining something important  or at least pretending to. His goggles sat pushed up holding back his curls, and his clothes while not clean, far from it as the patch work was half assed. he lacked the telltale grime of grease and oil one would expect from a full day at the workshop. Instead, there was a faint, unmistakable scent of ale and roasted meat clinging to him he smelled like a house that had a crockpot cooking, along with crumbs of left over cookies caught on his hoodie. along with stains of grease and condiments, of the food variety.
+>> 40. "see ya later, oscillator" he said loud enough for the boss to hear, but in reality he was talking to no one.
+>> 41. behind him was a construct, visibly similar to a man eating plant. Her movement was awkward in a way that took a second to fully register. short steps carried her forward , each limb placed was  working with her heavy upper half being her large bulbous  head. her wide, tooth-lined maw flexing subtly as if tasting the air. She loomed just a half-step behind Landon, not menacingly, but protectively.  her mouth seemed to be more dangerous then a standard  bear strap,  more rows of teeth made it easier for a cleaner cut for whoever was on the other side of it. magical  black exhaust drooled pools  on the wood floor . Landon would clap with his  hands together, along with a warm friendly smile.
+>> 42. " shifts done, no fingers were lost,  no toes either."
+>> 43. he strolled further in like he owned the place, going directly towards the table he gently sat down, along with vera being his shadow.  Landon of course quickly jumped towards the sandwiches quickly grabbing 5 only to shove one partly in his mouth, and the other 4 he threw one by one into his constructs mouth.  like it was a ring toss game.
+>> 44. " oh, by the way kiki, i put in a safety slip to add some railings, wouldn't want anyone getting hurt"
+>> 45. [03/05/2026 15:08] Path Wars: Anikia quickly goes from embarrassment to rage.
+>> 46. [03/05/2026 15:09] Path Wars: Anikia:
+>> 47. "I had a messenger leave a note on your DESK.
+>> 48. The DESK you have CLEARLY not been at.
+>> 49. A note that said to stay NEAR the house after your shift but NOT to come inside."
+>> 50. [03/05/2026 15:09] Path Wars: Anikia's left eye twitches.
+>> 51. [03/05/2026 15:09] Path Wars: Anikia's fist is clenched.
+>> 52. [03/05/2026 15:09] Path Wars: The sandwich Anikia was holding in the clenched hand turns to mangled mush.
+>> 53. [03/05/2026 15:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Anikia "There is no need to be angry. We are not offended by his behaviour.  
+>> 54. Let us continue our conversation"
+>> 55. [03/05/2026 15:47] Path Wars: Anikia takes a deep breathe, smiles politely and says:
+>> 56. "Yes, yes, of course.
+>> 57. You see, Landon and I have just had some... disagreements recently.
+>> 58. It is... fine.
+>> 59. Anyways, Landon, you are a... smart man.
+>> 60. Please, join us."
+>> 61. [03/05/2026 15:47] Path Wars: Anikia adds:
+>> 62. "And help yourself...."
+>> 63. [03/05/2026 16:21] PathWarsNudge: ━━━━━━━━━━━━━━━━
+>> 64. ✅ All caught up!
+>> 65. [08/05/2026 20:41] Path Wars: What next?
+
+## Session 278.
+
+> Arc-11 part 9
+>> - Session 278.
+>> - 2026 May 10th Sunday + 4710 AR, Rova 12th (Moonday).
+>> - IRL attempted start time: 22:00.
+>> - IRL start time: 01:35.
+>> - Delay duration: 5 hours & 35 minutes.
+>> - Players present: 2 = Horia (Selenor) & Anthony (Allisee).
+>> - In-game location:  Anac-toria..
+>> - Raven Grow Day 2/30.
+>> - In-game time: 13:00pm.
+
