@@ -4,7 +4,9 @@ You stand now in an empty place.
 
 Slowly fading in from places further are mighty mythical beings.
 
-And thus surrounding you are 13 creatures.
+And thus surrounding you are 17 creatures.
+
+The largest of which are a Dragon, a Troll, and a Wraith.
 
 You can sense they want you to choose.
 
