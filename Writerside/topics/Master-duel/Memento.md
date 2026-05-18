@@ -1,28 +1,28 @@
 # Memento
 
 > Combo 1: Dark blade.
->> - 01: Normal summon Dark blade.
->> - 02: Destroy itself -> Summon Witch.
->> - 03: Witch effect -> Add Sleep to hand.
->> - 04: Activate Sleep -> Summoning itself.
->> - 05: Sleep effect -> Fusion into twin headed dragon.
->> - 06: Twin headed dragon effect -> Destroy itself to add horse and tri horned dragon.
->> - 07: Activate twin headed dragon in grave -> Summon witch from grave.
->> - 08: Horse effect -> Summons itself.
->> - 09: Horse on field -> Destroys itself to send Mace, Ghattic and goblin to grave. 
->> - 10: Ghattic revives itself.
->> - 11: Ghattic effect -> Add sleepy to hand.
->> - 12: Summon Tri horned dragon from hand.
->> - 13: Link tri horned dragon and Ghattic to summon spright elf.
->> - 14: Spright elf effect -> Revive ghattic from grave.
->> - 15: Witch destroys ghattic to revive mace.
->> - 16: Mace effect -> Destroyies itself to add memento fusion.
->> - 17: Activate memento fusion -> Fusion summon Creation King using Twin Dragon, Horse and Dark Blade in the grave.
->> - 18: Creation King effect -> Send creation king, combined creation and Akihiron from deck to grave.
->> - 19: Activate creation king in grave -> Banishes itself to add the field spell.
->> - 20: Field spell activate.
->> - 21: Activate memento fusion in grave -> Destroy witch -> Add bone party.
->> - 22: This triggers the field spell and akihiron's effect. 
+>> 1. Normal summon Dark blade.
+>> 2. Destroy itself -> Summon Witch.
+>> 3. Witch effect -> Add Sleep to hand.
+>> 4. Activate Sleep -> Summoning itself.
+>> 5. Sleep effect -> Fusion into twin headed dragon.
+>> 6. Twin headed dragon effect -> Destroy itself to add horse and tri horned dragon.
+>> 7. Activate twin headed dragon in grave -> Summon witch from grave.
+>> 8. Horse effect -> Summons itself.
+>> 9. Horse on field -> Destroys itself to send Mace, Ghattic and goblin to grave. 
+>> 10. Ghattic revives itself.
+>> 11. Ghattic effect -> Add sleepy to hand.
+>> 12. Summon Tri horned dragon from hand.
+>> 13. Link tri horned dragon and Ghattic to summon spright elf.
+>> 14. Spright elf effect -> Revive ghattic from grave.
+>> 15. Witch destroys ghattic to revive mace.
+>> 16. Mace effect -> Destroyies itself to add memento fusion.
+>> 17: Activate memento fusion -> Fusion summon Creation King using Twin Dragon, Horse and Dark Blade in the grave.
+>> 18: Creation King effect -> Send creation king, combined creation and Akihiron from deck to grave.
+>> 19: Activate creation king in grave -> Banishes itself to add the field spell.
+>> 20: Field spell activate.
+>> 21: Activate memento fusion in grave -> Destroy witch -> Add bone party.
+>> 22: This triggers the field spell and akihiron's effect. 
 >> - 23: Field spell effect -> Summons goblin.
 >> - 24: Akihiron effect -> Summons itself.
 >> - 25: Goblin destroys akihiron to send cranium burst AND any monster from deck to grave.
@@ -61,3 +61,8 @@
 >> - 08: Mace effect -> Destroy itself to add memento fusion.
 >> - 09: Activate memento fusion -> Fusion summon Twin dragon using horse and mace.
 >> - 10: Twin dragon effect -> Destroy itself to add sleepy & combined creation to hand.
+
+> Test
+>> 1. Foo
+>> 2. Bar
+>> 3. Bar

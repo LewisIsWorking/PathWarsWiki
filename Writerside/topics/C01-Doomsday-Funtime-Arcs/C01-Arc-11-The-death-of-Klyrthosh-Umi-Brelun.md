@@ -982,17 +982,566 @@ Father Vauran nods, affirming your points:
 >> 63. [03/05/2026 16:21] PathWarsNudge: ━━━━━━━━━━━━━━━━
 >> 64. ✅ All caught up!
 >> 65. [08/05/2026 20:41] Path Wars: What next?
+[10/05/2026 01:27] Christopher | C04 Natalia Ordranti: Going to bed now, since I have an early start tomorrow
+[10/05/2026 01:39] Path Wars: This is the PBP. 
+
+Do you want to reply here before bed in terms of what Sestina The Banner Witch does next in the room with Anikia?
+[10/05/2026 14:44] Path Wars: Anikia:
+"So, where were we?"
+[10/05/2026 20:06] Path Wars: @Nemesiux
+[10/05/2026 20:06] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor asks "Why do you think someone would want the mummy?
+
+Beside we are in Ustalav disturbing the dead might be a bad idee. Don't you think?"
+[10/05/2026 20:14] Path Wars: Anikia:
+"I suppose the mummy was claimed to be the most magical mummy the bog has ever released..."
+[10/05/2026 20:15] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: "What was magical about it?"
+[10/05/2026 20:16] Path Wars: Anikia:
+"Do you not know the magics of the bog?"
+[10/05/2026 20:16] Path Wars: Anikia:
+"The people of this town commit their dead to the bog, and after an unknowable amount of time, the bog releases our dead back to us, mummified, magical and with anywhere from minor to moderate magical powers."
+[10/05/2026 20:17] Path Wars: Anikia:
+
+"The mummy that is missing is both the oldest (far older than it was thought that mummies were put into the bog) and because of that, the most magical."
+[10/05/2026 20:20] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says then "I see. but what exactly was magical about it? Did it have healing properties or something?"
+[10/05/2026 20:28] Path Wars: Anikia:
+
+"For what I heard, yes.
+
+Blood tears that healed wounds and cursed disease, like that of a fellow Abadarian cleric."
+[10/05/2026 20:30] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor "I assume someone would steal them to sell the tears, no? However, it seems they wouldn't account for the fact that the mummy might come back to life as a vengeful undead if they realized that they were mistreated."
+[10/05/2026 20:50] Path Wars: Anikia:
+"Perhaps. 
+A passive supply of high level healing liquid material is not something to pass on." 
+
+Anikia shrugs:
+"Still.
+I have no interest in such an item."
+[10/05/2026 20:51] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor stares at Anikia eyes "I never asked what you would do with the mummy
+
+I wonder why you would respond= like that"
+[10/05/2026 20:52] Path Wars: Anikia seems a bit taken back:
+
+"I did not think the legendary Selenor would be so direct!"
+[10/05/2026 20:54] Path Wars: Anikia:
+"I simply mean that your group are trying to recover the mummy, you've come here for information and as a merchant (and as an Abadarian), I see the world as trades: what, when and how, to buy and sell. 
+
+I would pass on the mummy. 
+
+I don't do crime."
+[10/05/2026 20:59] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "True crime would be an anathema to your god. From what I understood you sell saffron. A spice that was detected in the victim's family food.
+
+Do you know who might use your product to put the family to sleep?
+
+I believe a way to prove your innocence would be with a truth spell which I am capable of casting."
+[10/05/2026 21:02] Path Wars: Anikia:
+"I do not primarily sell saffron. 
+I sell a variety of different products across several businesses I own or partially own."
+[10/05/2026 21:03] Path Wars: Anikia seems to flinch a little at the mention of a truth spell.
+[10/05/2026 21:03] Path Wars: Anikia:
+"I.... I am innocent."
+[10/05/2026 21:04] Path Wars: Anikia regains her composure:
+"I have not stolen this mummy."
+[10/05/2026 21:06] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says calmly "You have nothing to fear. I am an oracle. An ally of your god. I merely asks that you allow me to cast the spell. The whereabout of the mummy doesn't just endanger trade, a key domain of your god but also the laws of civilization another domain of your god. By narrowing down the suspect we can return this town to its natural lawful state. As compensation I am willing to give you the bounty reward once I find the one who stole the mummy."
+[10/05/2026 21:07] Path Wars: Diplomacy check.
+[10/05/2026 21:07] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: 
+[10/05/2026 21:08] Path Wars: Critical success.
+[10/05/2026 21:08] Path Wars: Anikia:
+
+"Logan, Selenor, and the others follow me...."
+[10/05/2026 21:08] Path Wars: And she will walk down her hallway.
+[10/05/2026 21:19] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: The party follows
+[10/05/2026 21:33] Path Wars: They go down some stairs to a basement
+[10/05/2026 21:42] Path Wars: Anikia comes to a metal & stone door.
+[10/05/2026 21:44] Path Wars: Anikia says:
+"10 coins for the lord, 1 coin for the peasant and no coins for the merchant, for they own the lord and the peasant."
+[10/05/2026 21:44] Path Wars: The door opens to a circular room with runic walls.
+[10/05/2026 21:45] Path Wars: Selenor recognises this room from John's books.
+[10/05/2026 21:45] Path Wars: For in John's retelling of the crimson throne, Cressida Croft also had...
+[10/05/2026 21:45] Path Wars: A MAGE'S SANCTUM!
+[10/05/2026 21:46] Path Wars: As the group steps into the room, you can feel being cut off from the rest of the world. 
+
+No one can hear you here.
+[10/05/2026 21:46] Path Wars: Anikia sits down at the table and pulls from her bag of holding an ever filling kettle of tea:
+
+"Tea anyone?"
+[10/05/2026 21:47] Path Wars: Anikia seems to be acting cool, but is obviously very nervous.
+[10/05/2026 21:47] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "there is no need to be afraid
+I am not here to cause trouble.
+I am here to make sure the mummy doesn't endanger anyone."
+[10/05/2026 21:48] Path Wars: Anikia:
+"It is not you who I am worried about..."
+[10/05/2026 21:52] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Miss Anikia, tell me how I can make the worries go away then."
+[10/05/2026 21:52] Path Wars: Anikia looks at a mostly quiet Landon.
+
+@LoafableLoaf
+[10/05/2026 22:00] Path Wars: Anikia:
+"My worries..."
+[10/05/2026 22:01] Path Wars: Anikia seems to be thinking.
+[10/05/2026 22:02] Path Wars: After a few seconds Anikia says:
+"I... I was told about you. 
+
+Selenor. 
+
+And your companions. 
+
+Briefed."
+[10/05/2026 22:10] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks curious "I am listening
+Who briefed you about us?"
+[10/05/2026 22:13] Path Wars: Anikia is thinking.
+[10/05/2026 22:33] Path Wars: Anikia:
+
+"I work for someone who... You... Kind of know..."
+[10/05/2026 22:36] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor continues to listen
+[10/05/2026 22:37] Path Wars: Anikia:
+
+"I report to....Ademe."
+[10/05/2026 22:38] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks relaxed "Ahh my son's wife"
+[10/05/2026 22:39] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor " I expect a grandkids from them for all the trouble they cause me"
+[10/05/2026 22:44] Path Wars: Anikia laughs.
+It is the first time she has laughed since you arrived.
+[10/05/2026 22:45] Path Wars: Anikia says:
+"I... I was not expecting that response." 
+
+Anikia continues:
+"The briefing said you might be... difficult."
+[10/05/2026 22:47] Path Wars: Anikia:
+"I have had strange owners and visions since I was a child."
+[10/05/2026 22:49] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks disappointed "I know by mortal standards as a oracle my behavior may be unpredictable. Ademe forgets that many people say I am very reasonable.  I am only difficult to deal with if you are a daemon, a demon or someone who wants to cause unnecessary death. 
+
+Beside I agreed to help Ademe break her people curse as long as they don't cause trouble."
+[10/05/2026 22:50] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks serious "I am listening. How may I help?"
+[10/05/2026 22:51] Path Wars: Cardigan:
+
+"The Paradise corporation have killed several members of the party in the past. 
+
+In fact they've killed nearly everyone who's ever been killed in the group minus the goblin and Amar."
+[10/05/2026 22:51] Path Wars: Cardigan sounds sad.
+[10/05/2026 22:51] Path Wars: Anikia nods along to this.
+[10/05/2026 22:51] Path Wars: Anikia is thinking.
+[10/05/2026 22:55] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Right.... why are you working with terrorists if you are an abbadarian. wouldn't that go againt your god?"
+[11/05/2026 00:41] Path Wars: Anikia:
+
+"They aren't terrorists.
+
+The Paradise Corporation are a powerful yet shadowy business group."
+[11/05/2026 00:41] Path Wars: Anikia looks dismayed:
+
+"....that commit corporate crimes."
+[11/05/2026 01:03] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then says "Right, then where does your visions and the mummy fit in all of this?"
+[11/05/2026 01:28] Path Wars: Anikia:
+
+"I can't answer all of that, because I do not know..."
+[11/05/2026 01:28] Path Wars: Anikia:
+
+"But...
+The Paradise's agents have the mummy."
+[11/05/2026 01:32] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then says "I assume you helped them get it then? May I know why they are using it and if I can retrieve it. It would at least be fair for them to pay for the mummy"
+[11/05/2026 16:31] Path Wars: Anikia:
+
+"I did not steal it...
+I... they used some of my workers, I provided cover, distractions, information.
+
+I helped them.
+
+Ademe said they need the mummy to fuel something, they have a slogan or saying about bringing about Paradise. 
+
+I don't know much more than that..."
+[11/05/2026 16:33] Path Wars: Anikia looks at Selenor:
+"If you retrieve it, there will be consequences.
+For Paradise's operations.
+For me.
+For my husband."
+
+Anikia turns the wedding ring slowly on her finger, then says quieter:
+"Sheldon has been away from home for some weeks now.
+Paradise knows where he is.
+Ademe knows.
+She told me to wait."
+
+Anikia pauses.
+
+Anikia:
+"After you get the mummy.
+I want to hire you.
+To get Sheldon back."
+[11/05/2026 16:36] Path Wars: Anikia:
+
+"Also, I don't know if this helps but I have... strange powers."
+
+Anikia puts out her hand and some kind of electric powered rifle appears, then disappears:
+
+"I have a dream of a pyramid with 10s of thousands of wires coming into it, in a desert far from here..."
+[11/05/2026 16:53] Path Wars: Cardigan:
+
+"I don't like you people..."
+[11/05/2026 16:54] Path Wars: Anikia:
+
+"I am sorry about what happened to your friends.
+
+I did what I did for Abadar and for Sheldon...."
+[11/05/2026 20:14] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor listens to all that Anikia has to say with the expression similar to a judge and then says "I met two people who were in a similar issue like you.
+
+A man whose daughter life is in the hands of daemon, he became their slave cursed to doom other people's family to save his own.
+
+The other person is  none other than the husband of the high priestess of Pharasma from Magnimar. Their daughter died during the events of the Crimson Throne. The queen unleashed a plague that killed a good chunk of the population.
+
+That man turned innocent people into undead daemons. Of course I managed save the people without violence, but the man died. He was killed by the man enslaved by the daemons.
+
+From what you said. You betrayed your god and these people because they blackmailed you and your husband,
+
+I shall help you as a reward for telling the truth and for being reasonable, but I will remind you that you didn't just break  the law of the land, but also the divine law of your god as well as disturbing the dead which could cause them to become a vengeful undead and damage other people souls in the process.
+
+I believe we can reach something that could satisfy both of our parties. Us and you. I don't care about your gold. In order for me to agree to saving your husband I require you to fulfill two conditions.
+
+After we save your husband and recover the mummy. I want you to agree to an exile from Ustalav. I am willing to arrange a transport to Magnimar far away from the paradise thugs in Ustalav. From there you can choose where to go. If you settle in Magnimar I can provide financial help within reason.
+
+The second condition is you will repent in the eyes of your god according to his laws.  What is your opinion about these conditions. I am willing to hear you. As an oracle my job is to advise, punish and help the divine as well as their servants. My domains are death, undeath and vigil. 
+
+As for your visions. The pyramid you speak of is it Osirian in nature?"
+
+Selenor after all of that also adds "I met Ademe through my son's eyes. She is rather a strange nerdy woman. I will tell you this about her. She helped a group of demons to curse the city of Kibwer turning the people into slimes. She helped the heroes undue the curse yes, but I think it is rather rude of her to lie to you that I am unreasonable."
+[11/05/2026 20:16] Path Wars: Anikia:
+"What happened to their daughter?"
+[11/05/2026 20:18] Path Wars: Anikia:
+"I didn't betray Abadar. 
+I'm lawful neutral. 
+
+The actions of the Paradise Corporation are always lawful, they just do it in ways that are technically legal, not morally good." 
+
+Anikia seems a bit annoyed at this proposition.
+[11/05/2026 20:18] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says the following in a tone that only someone who was there to witness the plague could say it in such a way: " I assume you speak of the daemon man. His daughter is alive, but only as long as the daemon rider of death as use of her."
+[11/05/2026 20:19] Path Wars: Anikia:
+
+".... And the Paradise Corporation, I joined of my own free will, including my husband, he was already in their sphere due to his research."
+[11/05/2026 20:20] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Stealing the mummy wasn't lawful. Working with people who unlawfully cursed an entire city to become slimes as well as working with the gorilla demon lord, I might add."
+[11/05/2026 20:20] Path Wars: Anikia:
+"I don't care about the undead of an ancient mummy. 
+
+I don't think taking the mummy from the Toulouse family was morally correct..."
+[11/05/2026 20:21] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor calmly says "Tell me the edicts and anathemas of Abadar then Anikiar priestess of Abadar."
+[11/05/2026 20:24] Path Wars: Anikia:
+
+"EXILE?"
+[11/05/2026 20:27] Path Wars: Anikia seems curious about this:
+"Is she unconscious?"
+[11/05/2026 20:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor sighs "You don't need to yell. I said that we can find a solution to your problem. You want us to find your husband. We can do that, but we can't protect you forever from the paradise once you become their enemies. I might also add that the authorities of this town will want to know who stole the mummy and how. I can't lie Anikia. How am I going to explain the priestess of Pharasma and the town sheriff about the paradise people stealing the mummy?"
+[11/05/2026 20:28] Path Wars: Anikia speaks like a lawyer, matching your judge voice:
+
+"The movement of the mummy was conducted lawfully under the laws of the land."
+[11/05/2026 20:28] Path Wars: Anikia:
+
+"I'm not your priest, oracle."
+[11/05/2026 20:28] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor simply replies "I don't know much more than that. I assumer you do? You seem rather interested in this topic"
+[11/05/2026 20:28] Path Wars: Anikia:
+"I think I understand you now..."
+[11/05/2026 20:29] Path Wars: Anikia:
+"I only just found out about it from you."
+[11/05/2026 20:30] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "I am sorry I thought you were a priest of Abadar. As far as I know his anathemas are as follow : engage in banditry or piracy, steal, undermine a law-abiding court.
+
+Based on these it seems that you more or less broke two of them. Engage in banditry or piracy and steal. Being part of the paradise counts as banditry and well stealing the mummy is well just that stealing something from someone."
+[11/05/2026 20:30] Path Wars: Anikia:
+
+"I'll make you a deal. 
+
+I'll lend you my head engineer. 
+
+He will help you retrieve the mummy. 
+
+Then afterwards we shall go our separate ways."
+[11/05/2026 20:32] Path Wars: Anikia pulls out a gold coin, flips the coin. 
+
+The coin shimmers in the air that of blue and golden light. 
+
+Then she catches it in her palm.
+[11/05/2026 20:33] Path Wars: Anikia:
+"I have not engaged in banditry, piracy, stealing nor have I undermined a law-abiding court."
+[11/05/2026 20:33] Path Wars: Anikia:
+"I'm not *your* priest."
+[11/05/2026 20:34] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor blinks slowly "I am sorry. I don't understand the "I am not your priest part,
+
+I never said that you were my priestess."
+[11/05/2026 20:35] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor listens " What about your husband?
+
+I did say that I am willing to aid you in finding him. As long as you no longer wish to cause trouble to the people of the town.
+
+I would rather have a positive standing with you than enemies for no reason."
+[11/05/2026 20:37] Path Wars: Anikia:
+
+"I do not *need* to explain my god to you. 
+
+I *know* I am following the commandments and tenants of Abadar. 
+
+Both the ones you know..." 
+
+Anikia says more quietly:
+
+"... And the ones you don't know."
+
+[11/05/2026 20:38] Path Wars: Anikia sighs:
+
+"I... If you can get Sheldon back, that would be... Amazing."
+[11/05/2026 20:39] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then says "I am sorry if I offended you then. If you wish you can tell me about these edicts that I don't know. I am also a sage. My job is to also unravel the mysteries of the divine."
+[11/05/2026 20:40] Path Wars: Anikia calms down a lot as you are very diplomatic.
+[11/05/2026 20:42] Path Wars: Anikia says more calmly:
+
+"The Paradise corporation may *seem* chaotic but they are extremely lawful. 
+They actually align pretty much perfectly with the lawful and consumerism aspects of Abadar. 
+
+There are... Aspects of Abadar that I think they can also help me with..."
+[11/05/2026 20:42] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Then we have a deal Anikia. The only thing you need to do for me is to trust me and always be honest. The divine work differently compared to mortals. I am sorry if you found my behaviour strange. Oracles are far more different than you priests. You choose your gods and how you worship them. We do not."
+[11/05/2026 20:42] Path Wars: Anikia swaps back to the previous topic and says:
+
+"Anyways, whatever the paradise corporation did or does, always remember it was lawful. 
+
+That should be a massive hint to how they stole the mummy."
+[11/05/2026 20:43] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor asks like a scientist. "Wouldn't it be unlawful to work with a daemon cult? Wouldn't;t it be unlawful to curse a city against their will into slimes that would then kill people?"
+[11/05/2026 20:43] Path Wars: Anikia:
+
+"I think Abadar and I, we chose each other..."
+[11/05/2026 20:45] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor stands up "As you say Anikia. Now that we have concluded our deal. What is the next step?
+
+Where are the thieves. I will try to spare them. I only seek the mummy.
+What do you know about your husband whereabouts?"
+[11/05/2026 20:47] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor listens and then says "I see. So gods my choose priests outside of their established edicts and anathemas. Very strange."
+[11/05/2026 20:51] Path Wars: Anikia:
+
+"I have no idea."
+[11/05/2026 20:51] Path Wars: Anikia flips her coin again:
+
+"The gods are like coins, they all have 2 sides..."
+[11/05/2026 20:52] Path Wars: Anikia:
+
+"I follow all the edicts and anathemas, as well as others."
+[11/05/2026 20:57] PathWarsNudge: ━━━━━━━━━━━━━━━━
+📋 Unreplied: 1
+Age: 🆕<1h 🌱6h 🌿12h 🌳1d 🟢2d 🟩3d 🟡4d 🟨5d 🟠6d 🟧7d 🔴8d 🟥9d 🟣10d 🟪11d 🔵12d 🟦13d 🟤14d 🟫15d ⚫16d ⬛17d 💀21d ☠️25d
+01 [152623] 🆕 0h. Kaer'maga when?: Selenor asks like a scientist. "Wouldn't it be unlawful to work with a daemon cult?... 🔗 https://t.me/Path_Wars/25059/152623
+[11/05/2026 21:33] Path Wars: Anikia:
+
+"Whatever way they did it, they had the consent of the law."
+[11/05/2026 21:34] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor stares at Anikia "Do you not have a meeting point? What about their tracks that you covered? We could use them as a way to get to them."
+[11/05/2026 21:36] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Regardless of alignment. Working with demons will always be a CE action. If they enslaved them in a LN or LE manner would have been a different story. I might also add their slime plague almost destroyed the civilization known as Kibwe. Either way the fact that Ademe later helped the heroes undue the chaos caused by her research was a lawful action."
+[11/05/2026 22:11] Path Wars: Anikia:
+
+"I didn't take it.
+
+Someone else did.
+
+As for where it is now?
+
+I have no idea, probably not in town."
+[11/05/2026 22:12] Path Wars: Anikia:
+
+"I don't know enough to deliberate that event or topic with you."
+[11/05/2026 22:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Alissee "Well miss detective what now. I have no clue what else to do now."
+[11/05/2026 22:28] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then asks "I have a crystal ball in my possesion. What if we were to use scrying on your husband or the mummy?"
+[12/05/2026 00:56] Path Wars: Anikia:
+
+"Well I think that depends on what Landon wants to do..."
+[12/05/2026 00:57] Path Wars: Anikia:
+
+"Landon is a..."
+
+Anikia seems hesitant to say this but:
+
+"Very smart individual, amongst his talents is the ability to navigate the Deep Bog.
+
+If you want to find where my merchants are, and Landon's engineers, then Landon can definitely find them."
+[12/05/2026 00:58] Path Wars: Anikia turns fully to Landon:
+
+"What do you think?"
+[12/05/2026 02:02] Path Wars: @MrNegetZ 
+@Mossssssssssssssssssssssssss 
+@Sestina_The_Banner_Witch 
+@Luke_Skillen 
+@LoafableLoaf 
+
+What do your characters say? :)
+[12/05/2026 02:02] Path Wars: 1
+[12/05/2026 02:02] Path Wars: 2
+[12/05/2026 02:02] Path Wars: 3
+[12/05/2026 02:03] Path Wars: 4
+[12/05/2026 02:03] Path Wars: 5
+[12/05/2026 02:13] Path Wars: What next?
+[12/05/2026 12:11] laughable Logan | C01 Landon: Landon: landons contruct would poke landon , using one of many  plant like tendrils  it had trying to grab landons attention or perhaps was telling him something., landon would wake up  with his  goggles over his eyes the blue tint covering anyone from actually seeing his eyes. landon would pet his contruct as he shrugged giving a cheeky smile. 
+
+"someones  gotta keep you guys from getting swamped" 
+
+Landon  would chuckle to himself lightly, as vera ( landons contruct)  super charger would begin  humming lightly almost it was laughing as well.  a slight low mechanical whine would be heard coming from above its head.  hed go back to more of serious/ but still casual tone.
+
+"as my sister Riko would say 'No treasure outweighs a heartbeat'  we should focus on saving as many people as possible,  "
+[12/05/2026 12:35] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor simply blinks slowly at both Lando and Anikia and then says "Oke show us the way Landon. If we are lucky we may might the husband too."
+[12/05/2026 12:57] Path Wars: /markdone https://t.me/Path_Wars/25059/152937
+[12/05/2026 12:57] Path Wars: /markdone https://t.me/Path_Wars/25059/152938
+[12/05/2026 12:58] Path Wars: /markdone https://t.me/Path_Wars/25059/152942
+[12/05/2026 12:58] Path Wars: /markdone https://t.me/Path_Wars/25059/152943
+[12/05/2026 12:58] Path Wars: /markdone https://t.me/Path_Wars/25059/152944
+[12/05/2026 12:58] Path Wars: /markdone https://t.me/Path_Wars/25059/152945
+[12/05/2026 13:00] Path Wars: Anikia, having known you a long time, eyes you, suspicious of the way you initially spoke up but given the situation Anikia is forced to say:
+
+"Very good, head engineer Landon. 
+Do you need anything for your expedition? 
+I'll supply you all with gear and equipment necessary then I'll wait for you all here in this sanctuary."
+[12/05/2026 13:01] Path Wars: Anikia looks sad:
+
+"As much as it would be great for Sheldon to be in the bog, I doubt it."
+[12/05/2026 13:54] PathWarsNudge: ✅ Cleared message 152937 from Doomsday Funtime queue.
+[12/05/2026 13:54] PathWarsNudge: ✅ Cleared message 152938 from Doomsday Funtime queue.
+[12/05/2026 13:55] PathWarsNudge: ✅ Cleared message 152942 from Doomsday Funtime queue.
+[12/05/2026 13:55] PathWarsNudge: ✅ Cleared message 152943 from Doomsday Funtime queue.
+[12/05/2026 13:55] PathWarsNudge: ✅ Cleared message 152944 from Doomsday Funtime queue.
+[12/05/2026 13:55] PathWarsNudge: ✅ Cleared message 152945 from Doomsday Funtime queue.
+[12/05/2026 13:55] PathWarsNudge: ━━━━━━━━━━━━━━━━
+✅ All caught up!
+[13/05/2026 03:59] Path Wars: What next? :)
+[14/05/2026 18:14] laughable Logan | C01 Landon: Landon: "Hmm i think we will be fine but if the others needs to stop to get something i dont mind." 
+
+Landon would press a button on his goggles causeing thr blue tint to turn into a more greenish cyan color. Hed walk over to anikia  and with one arm by his waist  lift the other one making a gun sign with his hands winking. 
+
+"Dont worry kiki. After this i think we can  all agree to look for Sheldon. Im not my sister so i aint no hero nor real fighter . But i think i can help assist with some saving."
+
+Hed  turn towards vera an put his whole  arm into her mouth.  Hed eventually pull out a  metal umbrella  (shield)  before looking back at the party.
+
+" so you ready to go out. Id recommend bringing long pants and shoes. Rain shoes if possible an some pairs of socks"
+[14/05/2026 18:26] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Cardigan "I am starting to share your opinion about them. They are not very serious about the situation. I am sorry if they ruined our date." 
+
+Selenor then looks at the engineer and merchant and says "All right, show us the way."
+[14/05/2026 19:15] Path Wars: Cardigan looks confused and super happy at Selenor.
+[14/05/2026 19:15] Path Wars: Cardigan:
+
+"We get to go explore AND murder?"
+[14/05/2026 19:15] Path Wars: Cardigan:
+
+"This is a great date!"
+[14/05/2026 19:15] Path Wars: Cardigan:
+
+"All we need to do now is get ice cream later..."
+[14/05/2026 19:17] Path Wars: Anikia seems pleased that you are on board, but her usual doubt in you is clear in her eyes:
+
+"I... I... 
+I know how effective you can be when you focus.
+So please. 
+Please focus."
+[14/05/2026 19:22] Path Wars: Do yous talk more or leave?
+[15/05/2026 00:56] laughable Logan | C01 Landon: Landon: " heh, yeah,yeah  i hear ya." 
+
+landon would throw the metal umbrella over his shoulder. before he and vera would begin walking out the door.
+[15/05/2026 01:04] Path Wars: Anikia:
+
+"Landon, good luck!"
+[15/05/2026 01:06] Path Wars: Does Landon bring the party across down and through the bog?
+[15/05/2026 01:06] Path Wars: @LoafableLoaf
+[15/05/2026 01:15] laughable Logan | C01 Landon: yes
+[15/05/2026 01:15] Path Wars: Landon, you walk the group...
+[15/05/2026 01:15] Path Wars: Out of the mansion...
+[15/05/2026 01:15] Path Wars: Past your workshop...
+[15/05/2026 01:15] Path Wars: Past the factories...
+[15/05/2026 01:15] Path Wars: Past the housing and the town proper.
+[15/05/2026 01:15] Path Wars: And to the edge of town.
+[15/05/2026 01:16] Path Wars: Beyond lays the bog.
+[15/05/2026 01:16] Path Wars: You proceed onwards?
+[15/05/2026 01:16] laughable Logan | C01 Landon: correct
+[15/05/2026 01:21] Path Wars: You go along the floating paths as far as they go.
+[15/05/2026 01:22] Path Wars: Then the group steps off the edge.
+[15/05/2026 01:22] Path Wars: And onto the wet earth of the bog.
+[15/05/2026 01:22] Path Wars: It is a dark, nasty, wet, stinking place.
+[15/05/2026 01:28] Path Wars: The bog counts as difficult terrain.
+[15/05/2026 01:28] Path Wars: With some parts requiring the group to go up to waist deep.
+[15/05/2026 01:29] Path Wars: @LoafableLoaf 
+
+Would you like to describe how the 2 hours go?
+[15/05/2026 01:29] Path Wars: ((( In the end you DO find the camp )))
+[15/05/2026 02:50] laughable Logan | C01 Landon: Landon: before landon touchs the bogs wet floor,  he hops ontop of  veras large head, vera lowering her large frame to assist her creator ontop. laying on his stomach hed crawl over to the edge of veras head, once again hed dig  through veras mouth like it was a chest. 
+
+"lets see what we can do"
+
+  hed take out what seemed like junk as they traveled. A cracked monocle lens.  a broken compass. A bent bit of copper piping/ copper wires. Something that might’ve once been a music box spring. And a small, dim crystal that looked like it had already been through hell.
+He put the pipe agaisnt vera,  and begin working with the copper wire , with a couple of sharp bends against  veras blower, he shaped the wires around the pipe  it into a rough circular housing. Not perfect but solid enough to hold together.  He popped the cracked monocle into place at the front, adjusting it until the fracture lines angled outward instead of inward.  
+hed clean up the glass on the compass  and stick onto the wires.
+
+The spring came next.
+He unwound part of it, feeding the metal through the frame it  formed a crude stabilization cage.
+
+" now for the crystal" 
+
+He slotted it into place and began connecting everything together  wire to crystal, crystal to needle, needle to spring. His fingers moved quickly , Landons  contraption looked like it had no right to function.
+
+
+the crystal sparked faintly, and the compass needle twitched then spun, small shifting lines of light would stretch out from the device. the device gave a low hum sound. 
+
+" so, its a bit finicky , but i think this will lead us on the right path, or itll lead us to something else. what else is i have no idea. "
+
+he tweaks at the small antenna that stood ontop of the device.
 
 ## Session 278.
 
 > Arc-11 part 9
->> - Session 278.
->> - 2026 May 10th Sunday + 4710 AR, Rova 12th (Moonday).
->> - IRL attempted start time: 22:00.
->> - IRL start time: 01:35.
->> - Delay duration: 5 hours & 35 minutes.
->> - Players present: 2 = Horia (Selenor) & Anthony (Allisee).
->> - In-game location:  Anac-toria..
->> - Raven Grow Day 2/30.
->> - In-game time: 13:00pm.
+>> 1. Session 278.
+>> 2. 2026 May 16th Sautday + 4710 AR, Rova 12th (Moonday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 23:39.
+>> 5. Delay duration: 1 hours & 39 minutes.
+>> 6. IRL finish time: 02:44.
+>> 7. Session duration: 23:39 -> 02:44 = 3 hours & 5 minutes.
+>> 8. Players present: 2 = Horia (Selenor) & Christoper (Sestina).
+>> 9. In-game location:  Anac-Toria..
+>> 10. Raven Grow Day 2/30.
+>> 11. In-game time: 13:00pm.
 
+> Session Notes.
+>> 1. 13:00.
+>> 2. 2 hours of bog navigation.
+>> 3. 15:00
+>> 4. Kasputin the bog fey.
+>> 5. Selenor gets along well with Kasputin.
+>> 6. 1 hour of going deeper into the bog = 16:00.
+>> 7. Arrow the Ranger Half elf
+>> 8. Harp bard female human tiefling
+>> 9. Beara Druid female halfling.
+>> 10. Harp HP: 15.
+>> 11. 66 + 30 + 15 = 101 HP + 36 = 136 HP.
+>> 12. 20 workers die from the metal liquid pool ritual failing.
+>> 13. 10 minutes of ritual.
+>> 14. 30 minutes of healing.
+>> 15. 10 workers will try to build some crude defences.
+>> 16. 16:50.
+>> 17. Ritual attempt #2.
+>> 18. 17:00.
+>> 19. DC 35.
+>> 20. Ritual attempt #3.
+>> 21. Sestina: 30 to aid Cardigan.
+>> 22. Cardigan: 44 success.
+>> 23. Allisee: 37 success.
+>> 24. Selenor: 29 fail -> hero point -> 39 success!
+>> 25. Mellow Macrìa.
+>> 26. I served in the court of Ustalav.
+>> 27. Selenor says to Ademe [SENDING]:
+>> 28. "Hello daughter in law, I saved your minions, what do you want of the key?"
+>> 29. Ademe:
+>> 30. "Selenor. I take it the bog team got the key. Keep it for now. The data they collected is enough. Glad you're alive, stay well."
+>> 31. Arrow shakes Selenor's hand.
+>> 32. 19:30.
+>> 33. Otto (son)
+>> 34. Peter (dad)
+>> 35. Solice (mum)
+>> 36. The party return to Anac-Toria.
+>> 37. Selenor goes and talks to Mother Belch (the Pharasmanin head priest of the town).
+>> 38. Mother Belch goes to Sheriff Door to talk to the Sheriff about all this.
+>> 39. The priest returns out of breath saying that a cargo bus has went off the road and into the bog.
+>> 40. The bus is sinking.
+>> 41. Mother Belch provides the party with horses and they set out.
+>> 42. Selenor notices that the cargo bug is being pulled down by magical vines and roots.
+>> 43. 4 massive tree people come out of the bog.
+>> 44. Selenor uses the lust shard to cast 10th rank suggestion.
+>> 45. One of the tree people fails.
+>> 46. Selenor talks to the tree dude.
+>> 47. The tree people sense dark magic from the cargo section of the bus.
+>> 48. The driver "Greg Bolt" was hired by Otto to do a special delivery.
+>> 49. Greg helped move something out of Anac Toria a few weeks ago.
+>> 50. Selenor asks Greg about the cargo.
+>> 51. The cargo spilt blood.
+>> 52. Selenor asks Greg where Otto is.
+>> 53. Greg says Otto is at an abandoned farmhouse down the road.
+>> 54. The party walks down the road for 10 minutes.
+>> 55. The party arrive at the farmhouse.
+>> 56. There is a sense of dread in the air.
