@@ -1543,5 +1543,5 @@ he tweaks at the small antenna that stood ontop of the device.
 >> 52. Selenor asks Greg where Otto is.
 >> 53. Greg says Otto is at an abandoned farmhouse down the road.
 >> 54. The party walks down the road for 10 minutes.
->> 55. The party arrive at the farmhouse.
+>> 55. The party arrives at the farmhouse.
 >> 56. There is a sense of dread in the air.
