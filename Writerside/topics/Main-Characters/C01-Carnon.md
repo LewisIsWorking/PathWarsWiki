@@ -74,3 +74,9 @@
 	7. Make Numeria safe/great again. Reduce the threat to the local populace (druids and the town of Torch).
 	8. Why is Carnon pulled so strongly towards the shards of sin/aeon stones?
 	9. Who is the Aeon?
+
+> Carnon description:
+>> 1. Metal mask, gems in their eyes, one gem is a greenish tiny, the other crystal has a pinkish tint to it.
+>> 2. Their armour is a bunch of metal bands and chains over a strangely shaped chest.
+>> 3. They have nails pointed out from their shoulders.
+>> 4. They are 5'4.

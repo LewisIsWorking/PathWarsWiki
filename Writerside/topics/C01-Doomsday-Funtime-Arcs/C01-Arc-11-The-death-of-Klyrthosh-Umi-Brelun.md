@@ -1477,7 +1477,7 @@ he tweaks at the small antenna that stood ontop of the device.
 
 > Arc-11 part 9
 >> 1. Session 278.
->> 2. 2026 May 16th Sautday + 4710 AR, Rova 12th (Moonday).
+>> 2. 2026 May 16th Saturday + 4710 AR, Rova 12th (Moonday).
 >> 3. IRL attempted start time: 22:00.
 >> 4. IRL start time: 23:39.
 >> 5. Delay duration: 1 hours & 39 minutes.
@@ -1545,3 +1545,601 @@ he tweaks at the small antenna that stood ontop of the device.
 >> 54. The party walks down the road for 10 minutes.
 >> 55. The party arrives at the farmhouse.
 >> 56. There is a sense of dread in the air.
+
+## Session 278 PBP.
+
+[18/05/2026 00:10] Path Wars: @Nemesiux
+@MrNegetZ
+@Mossssssssssssssssssssssssss
+@LoafableLoaf
+@Sestina_The_Banner_Witch
+@Luke_Skillen
+[18/05/2026 00:10] Path Wars: ^ What do you do next?
+[18/05/2026 00:11] Path Wars: ^ Landon.
+
+Anikia has tasked you to help retrieve the blood mummy.
+[18/05/2026 00:25] PathWarsNudge: ━━━━━━━━━━━━━━━━
+✅ All caught up!
+[20/05/2026 11:32] laughable Logan | C01 Landon:
+[20/05/2026 12:58] Path Wars: This is the PBP topic.
+
+What would you like to do next in-game?
+[20/05/2026 13:23] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: I guess he wants to drown in the bog
+[20/05/2026 13:29] laughable Logan | C01 Landon: (Whoops sorry i thought it was the ooc chat)
+[20/05/2026 13:29] Path Wars: This is the PBP topic.
+
+Do you go into the farmhouse?
+[20/05/2026 13:29] Path Wars: Np.
+[20/05/2026 14:09] PathWarsNudge: 📋 All caught up. Time for players to post!
+Kaer'maga when? (@Nemesiux) Anthony NegetZ (@MrNegetZ) Moss (@Mossssssssssssssssssssssssss) Loaf BREAD (@LoafableLoaf) Chris Warlock (@Sestina_The_Banner_Witch)
+[23/05/2026 08:10] laughable Logan | C01 Landon: Landon: Landon cleared his throat and dug through his pockets, producing a small tin of mints like it was a lifeline.
+“Alright… good news, you can still keep your lunch down. Bad news? This place reeks of bad  magic. whatever is in here...its bad"
+
+He tossed a mint into his mouth,having it sit on his tongue.
+He tapped the side of Vera’s frame lightly, more for his own comfort than hers.
+
+“Alright, you’re up first. If something jumps out, you get to be the heroic distraction.”
+[23/05/2026 10:43] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Alright, I am going in"
+[24/05/2026 17:32] Path Wars: Cardigan:
+"We deal with bad magic all the time, don't worry newbie."
+
+Cardigan grips her battle axe enthusiastically, excited for battle.
+[24/05/2026 17:32] Path Wars: Cardigan:
+"I'll also be going in then!"
+[24/05/2026 17:33] Path Wars: Does the part approach the farm house?
+[24/05/2026 20:27] Path Wars: Cardigan:
+
+"Shit, shit, shit."
+[24/05/2026 21:32] Path Wars: Cardigan looks at Allisee and Selenor:
+
+"Uh, guys..."
+[24/05/2026 21:34] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks confused "Do you have to go to the bathroom?"
+[24/05/2026 21:37] Path Wars: Cardigan:
+
+"Yes but I can just go now..."
+[24/05/2026 21:37] Path Wars: Cardigan:
+
+"Yeah, just so yous know... we kinda... killed his sons."
+[24/05/2026 21:38] Path Wars: Cardigan:
+
+"OR well... we do...like in the future...of the past..."
+[24/05/2026 21:38] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks confused "You or me? I don't remember meeting them. We can always give him the bodies back to bury them or we can resurrect them."
+[24/05/2026 21:39] Path Wars: Cardigan:
+
+"I killed Eric when we first started out, he was one of Nualia's bodyguards."
+[24/05/2026 21:39] Path Wars: Cardigan:
+
+"And John Vulso killed Ivan in Korvosa."
+[24/05/2026 21:40] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor blinks "Oh. Well said Cardigan. Shit indeed"
+[24/05/2026 21:41] Path Wars: Cardigan:
+
+"Yeah...
+
+Also, I *think* Marlo is dead, like now.
+But I dunno.
+This Runewheel shit makes my head fuzzy."
+[24/05/2026 21:42] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor sighs "I guess next time we see Tomahawk, I will ask her for guidance. Necrila right now has no clue what to do hence why I took over for a second."
+[24/05/2026 21:47] Path Wars: Cardigan:
+
+"Yeah, no problem."
+[24/05/2026 21:47] Path Wars: Cardigan scratches her back:
+
+"So...farm house?"
+[24/05/2026 21:48] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "Yes"
+[24/05/2026 21:49] Path Wars: The party walk down the road, approaching the farmhouse.
+[25/05/2026 00:32] laughable Logan | C01 Landon: landon sends vera to go through the door first
+[25/05/2026 02:14] Path Wars: The door opens.
+[25/05/2026 02:14] Path Wars: The hallway is a pit of darkness.
+[25/05/2026 02:16] Path Wars: Do you have a light?
+[25/05/2026 02:16] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor has dark vision
+[25/05/2026 02:16] Path Wars: @Nemesiux
+
+You have dark vision.
+[25/05/2026 02:17] Path Wars: SO you can see into the hallway.
+[25/05/2026 02:17] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: also roll with advantage his perception to detect illlusions
+[25/05/2026 02:17] Path Wars: There seems to be light coming from down the hall, around a corner.
+[25/05/2026 02:17] Path Wars: The doors to the various rooms on the way sit open, their rooms ruined and vacant.
+[25/05/2026 02:19] Path Wars: @LoafableLoaf
+
+There are signs of people moving through the hallway recently.
+[25/05/2026 02:19] Path Wars: Also it's worth asking in here @LoafableLoaf
+[25/05/2026 02:20] Path Wars: @LoafableLoaf
+
+Please type so others can follow the conversation, I can hear you though.
+
+:)
+[25/05/2026 02:21] laughable Logan | C01 Landon: ( can i roll to see how many differnt footsteps)
+[25/05/2026 02:22] Path Wars: You look at the group, two sets of footprints.
+[25/05/2026 02:23] laughable Logan | C01 Landon: landon: landon follows the foot prints, vera leading the front
+[25/05/2026 02:24] laughable Logan | C01 Landon: ( landon has trackers goggles on)
+[25/05/2026 02:31] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: The group goes towards the light
+[25/05/2026 02:45] Path Wars: You go to the end of the hallway.
+[25/05/2026 02:45] Path Wars: The hallway splits into a T shape.
+[25/05/2026 02:45] Path Wars: To the west, where the light is, is a backroom beyond the hallway.
+[25/05/2026 02:45] Path Wars: There are two men here, next to a glass coffin.
+[25/05/2026 02:47] Path Wars: One has short red-brown hair and thick sideburns.
+
+He is dressed like a doctor or a surgeon and has a gold earring.
+[25/05/2026 02:49] Path Wars: The other wears a black cloak, black hair and has several scars across his face.
+He's thin.
+[25/05/2026 02:49] Path Wars: The two men are arguing.
+[25/05/2026 02:50] Path Wars: The light comes from an ever burning lantern sitting on the ground.
+[25/05/2026 02:51] Path Wars: The room is sparce with broken bits of belongings and debris.
+[25/05/2026 02:55] Path Wars: From their argument you can seduce that the man with the gold earring is Otto Toulouse.
+[25/05/2026 02:55] laughable Logan | C01 Landon: ( would i have any idea what professsion these guys have by their outfits?)
+[25/05/2026 02:55] Path Wars: And the other man is Evan.
+[25/05/2026 02:55] Path Wars: Otto looks like a doctor or surgeon.
+[25/05/2026 02:55] Path Wars: Evan seems like a rogue, thief or assassin based on his dark garb and thieves tools.
+[25/05/2026 02:57] laughable Logan | C01 Landon: (is he apart of any guild? that can be seen?)
+[25/05/2026 02:57] Path Wars: None that can be seen.
+[25/05/2026 02:57] Path Wars: Otto has a lanyard showing the university of Lepidstadt.
+[25/05/2026 03:00] laughable Logan | C01 Landon: ( high class i assume)
+[25/05/2026 03:00] Path Wars: It's one of the world's best universities.
+[25/05/2026 03:01] Path Wars: Not impossible that Landon went there.
+[25/05/2026 03:01] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor uses his cloak to dramatically teleport between them and calmy says "Greetings, Mister Otto and strange fellow. I am Selenor an Oracle of death, undeath and vigil. May I ask what are you doing here?
+Are you aware that your interactions with the Paradise agents have disturbed the fey living in the bog and if we don't return the mummy by dawn your beloved city might be destroyed by treants."
+[25/05/2026 03:02] laughable Logan | C01 Landon: nah landon isnt the type to, lack of motivation, his father on the otherhand tho prob)
+[25/05/2026 03:06] Path Wars: Okie dokie.
+[25/05/2026 03:07] Path Wars: Otto falls back against the coffin, knocking it over.
+[25/05/2026 03:07] Path Wars: Evan screams:
+"Ahhhhh"
+[25/05/2026 03:07] laughable Logan | C01 Landon: landon would walk with vera into the opening leaning against her,
+
+" you know ive heard of people going far out to make drug deals, but this is ridiculous "
+[25/05/2026 03:08] Path Wars: Otto looks up at Selenor from the ground:
+"Ahhhhh who are you???"
+[25/05/2026 03:08] Path Wars: Evan:
+"I know!
+You're that fat engineer who works for the merchant lady!"
+[25/05/2026 03:09] Path Wars: Otto:
+"You idiot!
+They are mercenaries, don't antagonise them!"
+[25/05/2026 03:11] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor simply blinks "It is very rude to scream at a person." Selenor offers a hand to help Otto stand up from the group. and then replies to his question "I have already said who I am. I am Selenor a death, undeath, vigil Oracle. I am here to fix whatever you are doing here since it has angered the locate fey into trying to murder your town."
+
+Selenor then adds "If I was a mercenary you found have been either dead or asleep. Please explain to me what are you doing to that poor mummy? I doubt your relative gave you consent to desecrate their corpse"
+[25/05/2026 03:14] Path Wars: Otto panics and says:
+"I, no, look...."
+[25/05/2026 03:14] laughable Logan | C01 Landon: "ey, im not fat im just packing extra rations."
+
+landon would close his right eye, keeping his left eye on the two.
+
+" like selenor said, we arent mercenaries, while i do like money, coin isnt everything."
+[25/05/2026 03:15] Path Wars: Otto tries to get to his feet without Selenor's hand and looks down at the glass coffin:
+
+"My ancestor's mummy is very special and my parents have no desire to study it!"
+[25/05/2026 03:16] Path Wars: Evan grunts:
+"Yeah whatever.
+Look, I think I'm a victim of circumstances here fellas, some I'm gonna be popping along if you'd don't mind.
+[25/05/2026 03:16] Path Wars: Evan will try to leave.
+[25/05/2026 03:18] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor gives Evan a death stare. "You leave that door and you will become a dead man Evan. Are you deaf, if I don't fix your little sorry excuse of a childish stealing and desecration of the mummy and the bog, the fey will have your head and soul. I promise you if you leave I will not hesitate to tell the fey you were behind this."
+[25/05/2026 03:18] laughable Logan | C01 Landon: vera will stand infront of the door an shes a large creature so good luck*
+[25/05/2026 03:19] Path Wars: Otto:
+"I did not desecrate the bog.
+I was merely offered a deal by... A woman.
+
+She said I could come and work for her."
+[25/05/2026 03:19] Path Wars: Evan stops walking, goes over to a crate, sits on it and lights a pipe:
+
+"Ah fuck it, hash it out then.
+I ain't going back to prison though."
+[25/05/2026 03:21] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then turns to Otto "I am still in a very reasonable mood Otto. I spared Anikia and her Paradise goons. Now speak. Was this woman name Ademe? Beside you think just being a mere doctor gives you the right to disturb your dead relative.You are lucky you haven't angered them yet. The fey said that they sensed a dark aura coming from the mummy. What did you do?"
+[25/05/2026 03:22] laughable Logan | C01 Landon: landon will be listening in , making sure if he can sense any lies*
+[25/05/2026 03:23] Path Wars: Otto looks very surprised when you say Ademe's name:
+
+"I... You... How do you know her?"
+[25/05/2026 03:25] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: One of Selenor's eyes twitch "I know her because she is my son's wife. I am here because her moronic crew of good for nothing people are causing trouble.
+[25/05/2026 03:25] Path Wars: Otto looks at the coffin, laying on the ground, the mummy's bare, mummified face looking back at him:
+
+"I...
+I was giving it some animal blood.
+I was experimenting to understand how it works.
+I'm not powerful nor skilled enough to identify her.
+
+That's why I called for a cargo bus to bring her to the city.
+
+There an expert could do what I cannot."
+[25/05/2026 03:26] Path Wars: Otto:
+
+"Your son's wife...?
+
+I had no idea.
+
+She was, clearly not a woman to be messed with.
+
+But she has resources and connections."
+
+[25/05/2026 03:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Seleno sighs "your cargo bus was sensed by the fey.  Here is what we are going to do. I am going to send a message to Ademe about what do to with you and the mummy and we move from there Ok?"
+[25/05/2026 03:28] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor casts sending to Ademe "Greetings once again Ademe my darling I found the mummy and the dumb Otto. what to do with them and they fey attacking the town?"
+[25/05/2026 03:29] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor rolls his eyes "Yeah connection to dumb people maybe"
+[25/05/2026 03:29] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor places the mummy back on the table and does a necromancer/arcana check on her
+[25/05/2026 03:32] Path Wars: Otto:
+
+"I, uh, ok."
+[25/05/2026 03:32] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor other normal eye twitches from seeing how careless Otto is.
+[25/05/2026 03:34] Path Wars: Ademe:
+"I want the mummy (4)
+Teleport it away from the bog (6)
+(4+6=10)
+The fey will calm (4)
+You can keep it if absolutely necessary (7)
+(4+7=11)
+(10+11=21)
+Stay safe much love (4).
+(21+4=25)."
+[25/05/2026 03:35] Path Wars: (25 exactly, nice)
+[25/05/2026 03:35] Path Wars: Evan laughs.
+[25/05/2026 03:36] Path Wars: As you touch the coffin you have a vision, a woman in a black dress with an umbrella open:
+
+"Selenor, why won't you free me?"
+
+The shard of lust glows.
+[25/05/2026 03:37] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor shakes his head and responds in necril "Who are you? What did you do to anger the fey? Come with me willingly and I will free you. I... I need allies."
+[25/05/2026 03:38] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor shares the information with the people in the room
+[25/05/2026 03:41] Path Wars: Otto:
+
+"I... I feel a presence..."
+[25/05/2026 03:43] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Otto and the undead eye stares at him like a feral beast and says in common but with a necril accent "Who is this woman. What is her name. What kind of relative is she?!"
+[25/05/2026 03:44] laughable Logan | C01 Landon: "pretty sure thats what people call sins "
+
+landon lays his back on the wall, looking at  his ' corpse compass'   hed use his thumb/nail to rub any  grime off it
+[25/05/2026 03:47] Path Wars: The woman in the black dress twirls her umbrella:
+
+"Free me and we shall speak, oh child of the book keeper."
+[25/05/2026 03:48] Path Wars: Cardigan:
+"So... We fight the mummy next?"
+[25/05/2026 03:48] Path Wars: Otto:
+"I... I don't know yet, she was in my family's patch!"
+[25/05/2026 03:49] Path Wars: What does it do?
+[25/05/2026 03:49] Path Wars: Evan looks a bit scared:
+"This is well and truly beyond me, I don't want to get caught up in this, please, let me go!"
+[25/05/2026 03:51] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: The ghoul eye stares at the two mortals in front of him  and says "She wants to be free..... I want you to stay back. I am going to open the cage. I don't want to risk you being hurt."
+[25/05/2026 03:53] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: The ghoul eye then looks at Cardigan " I don't know my kindred. The .... shard.... of lust is overwhelming me. She wants to be free..."
+[25/05/2026 04:17] Path Wars: Evan will run out of the room, if allowed to.
+[25/05/2026 04:18] Path Wars: Otto takes several steps back.
+[25/05/2026 04:18] Path Wars: Cardigan puts a hand on Selenor's shoulder:
+
+"Uh, Selenor, you... Ok?"
+[25/05/2026 04:19] Path Wars: Cardigan:
+"Selenor is just, uh, I dunno..."
+[25/05/2026 04:19] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Cardigan " My answer to that question will always be yes. Prepare for possible combat." Selenor tries to open the coffin with the greater skeletal key from the bog
+[25/05/2026 04:19] Path Wars: The key fits.
+[25/05/2026 04:20] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then says "Arise. Who are you?"
+[25/05/2026 04:24] Path Wars: The coffin opens, the mummy begins to pour blood from its flesh.
+[25/05/2026 04:25] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Necromancy lore check?
+[25/05/2026 04:26] Path Wars: Sure
+[25/05/2026 04:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+[25/05/2026 04:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: My bonus was +21 and I got a 33
+[25/05/2026 04:28] Path Wars: ^2
+I don't know why it didn't register this earlier.
+[25/05/2026 04:43] Path Wars: 33, master in necromancy
+[25/05/2026 04:43] Path Wars: This is an ancient undead that feeds on blood, coming back to life...
+[25/05/2026 04:44] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor donates a drop of his blood and repeats the same sentence "Arise. Who are you?"
+[25/05/2026 04:44] Path Wars: A vampire
+[25/05/2026 04:45] Path Wars: As your blood touches the mummy, it explodes.
+[25/05/2026 04:45] Path Wars: The mummy becomes covered in a thick veil of blood and darkness.
+[25/05/2026 04:45] Path Wars: Your blood...
+[25/05/2026 04:46] Path Wars: ???:
+
+"The blood of Sorshen???"
+[25/05/2026 04:46] Path Wars:
+[25/05/2026 04:46] Path Wars: This woman stands in the coffin.
+[25/05/2026 04:46] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor offers to help her stand
+[25/05/2026 04:47] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor then says "Answer my question and then I shall answer yours. It is impolite to be silent."
+[25/05/2026 04:48] Path Wars: She takes your hand, partially floating to her feet.
+[25/05/2026 04:51] Path Wars: The vampire looks at you with confusion but she is smiling:
+
+"Lady Sor... No.
+Selenor is your name.
+
+I am Lady Isabella Vex."
+[25/05/2026 04:55] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor respons in necril "Greetings I am Selenor the warden of death, undeath and vigil. I have beeen summon to this town because the mortal caused some trouble and because I wanted to go on a date with Cardigan. Mainly interfering with the local divine fey in the bog and being around one of the Tyrant's lieutenant strongholds causing a ruckus. I need to have you far from this town, the fey can sense your presence and it angers them. Your family and this town is in danger as long as you stay here.
+
+I can relocate you safely. My question is who is Sorshen to you?"
+[25/05/2026 05:05] Path Wars: Lady Isabelle Vex:
+
+"Lady Sorshen ruled the realm of Lust.
+
+And so I served her.
+
+But I was a vampire long before that.
+
+I served a different Lady...."
+[25/05/2026 05:06] Path Wars: Lady Isabelle Vex:
+
+"Why did your vessel destroy my lady's shrine in the city of the arch, the one you call Riddleport?"
+[25/05/2026 05:07] Path Wars: Isabella does not look enraged, more curious and a little disappointed.
+[25/05/2026 05:11] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "I did not destroy the shrine.
+
+Necrila my daughter has full autonomy that is slightly limited by my directives. She decided that your shrine killed the good people of the church and considered your servant rude, therefore she killed them. An eye for an eye I suppose.
+
+I am willing to rebuild you a new shrine on the condition that it only kills "rude mortals" as my daughter likes to call them or evil fiends. There is a great imbalance in the divine at the moment.
+
+Evil has gained too much ground and good has become too weak to fight back, law as well as become rather well stupid and chaos forces have become more active than before.
+
+In short, if we don't limit the expansion of the forces that have outgrown their counterpart we are doomed. We or rather I only have 9 years left."
+[25/05/2026 05:14] Path Wars: Lady Isabelle Vex smiles at you warmly:
+
+"I am very lucky to be here at the moment.
+
+And I thank you greatly for your blood, Lord Selenor of the book keepers.
+
+I think my lady would like you greatly.
+
+And I can tell you wish undeath to be more of this world.
+
+Such a thing is possible..."
+[25/05/2026 05:14] Path Wars: Lady Isabelle Vex looks at you Landon:
+
+"And who are you?
+A great architect of this era?"
+
+@LoafableLoaf
+[25/05/2026 05:15] Path Wars: Cardigan:
+
+"Uh, I'm confused.
+
+I thought we were going to kill her?"
+[25/05/2026 05:15] Path Wars: Evan was allowed to leave the room (?)
+[25/05/2026 05:16] Path Wars: Otto walks over and says:
+
+"I am your ancestor?"
+[25/05/2026 05:21] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor continues to say in Necril please have patience with the boy. He is rather careless and rude for his age, I may add he is a doctor with bad mannerism. He claims that he and his family are related to you. Is this true?"
+[25/05/2026 05:28] Path Wars: Lady Isabelle Vex looks at Otto and with a wave of her hand:
+
+"Ha!
+You are a Toulouse, a man, of which to whom I gave a Dhampir child.
+And now, sweet Otto."
+
+Otto's eyes glow red, the colour of enchantment magic.
+[25/05/2026 05:29] Path Wars: Lady Isabelle Vex:
+
+"My understanding is that this man has committed crimes against the people of this land.
+
+I also understand that Lady Ademe has called for me.
+
+Which means the time of ritual is nearly upon us.
+
+I shall keep Otto as a servant, Lord Selenor."
+[25/05/2026 05:30] Path Wars: Lady Isabelle Vex smiles at Selenor:
+
+"And if I may not be too bold.
+
+I would turn you into a vampire, if you so desired it."
+[25/05/2026 05:30] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "I will allow it only if Otto wants to go. he is your blood not your servant."
+[25/05/2026 05:33] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor ghoul eye looks at her and says "Why become a vampire when we could become everything that our kind represents. Vampires have many weaknesses and strengths. We only have use for your strengths. We have only 9 years left.
+
+Your complicated immortality doesn't not aid us in our endeavors. I also request that you replace the lord with warden. I don't lead the dead or undead. I shepherd them or punish them if they get out of line.
+
+We seek the assimilation of all undead shells, limiting ourselves to a vampiric would be a downgrade"
+[25/05/2026 05:35] Path Wars: Otto (whose eyes are now red):
+
+"It would be an honour to serve Lady Vex."
+[25/05/2026 05:36] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks disappointed she is not your master Otto. She is your great, great etc grandma. Both should understand that much. Family should not be tarnished.
+[25/05/2026 05:36] Path Wars: Lady Isabelle Vex:
+
+"Ah, but you are a Lord, a lord of books.
+
+And if I have my way, the world shall not end.
+
+We shall take a great battle to the enemy.
+
+I hope you will be alongside us."
+[25/05/2026 05:37] Path Wars: Otto Toulouse:
+
+"I shall serve my family."
+[25/05/2026 05:39] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at the vampire "Lady Vex, free the child of the enhancement. This only shows me why Otto has such bad mannerism. Abusing your kind is a sin. I advice you learn to respect even your lesser members of your bloodline, lest you anger the dead."
+[25/05/2026 05:40] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor adds "The boy went through the trouble of freeing you. Allowing him freedom is enough. His punishment will be to learn to be better like you"
+[25/05/2026 05:46] Path Wars: Lady Isabelle Vex waves her hand, releasing Otto, who falls asleep with a thud on the ground.
+[25/05/2026 05:46] Path Wars: Lady Isabelle Vex:
+
+"You are a kind man.
+
+I wonder if that kindness will break or be the breaking of you."
+[25/05/2026 05:47] Path Wars: Lady Isabelle:
+
+"The boy doctor wanted my power, that is all the mortals want of us.
+You shall accept that one day."
+[25/05/2026 05:48] Path Wars: Lady Isabelle Vex:
+
+"I shall take my leave, warden, if you'll allow me."
+[25/05/2026 05:52] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Otto and then Isabelle "You speak as if you weren't once like him. We have all been young and foolish. It is normal behavior. I am not kind. I am being reasonable here.
+
+You may leave as long as you will not cause me trouble."
+
+All of Selenor eyes looks at her "Just like you are capable of saving this world if you have it your way. I am capable of spreading death and horror worse than the one witnessed in the age of darkness if you toy with my temper. The Tyrant shall be made an example for our kind. He shall be devoured. "
+[25/05/2026 05:53] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor holds the lust rune towards the vampire "Not kindness, but love. My family and friends love shall be the death of me. The same way love was the death of Sorshen."
+[25/05/2026 05:56] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor with a sad smile then says "Also tell, Ademe to stop hiring idiots for those dangerous jobs or disrespecting me by badmouthing me to people otherwise  the first time I see her I will give her a earful.
+[25/05/2026 06:03] Path Wars: Lady Isabelle Vex:
+
+"I hope you devour the tyrant and all those who stand against you.
+I can't wait to see what you do, my lord."
+[25/05/2026 06:03] Path Wars: Lady Isabelle Vex:
+"Love is the greatest of all sins, in all senses of the meaning."
+[25/05/2026 06:04] Path Wars: Lady Isabelle Vex looks curiously at Selenor again:
+"Hmm of course you'd know about him..."
+[25/05/2026 06:04] Path Wars: Lady Isabelle Vex laughs, genuinely:
+
+"I shall inform her.
+
+I think that her forces will be more effective from now onwards..."
+[25/05/2026 06:09] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor still looks midly irritated when he hears the word lord "You say that I am lord of books therefore only books shall have the right to use that title. You an undead regardless of who you are or what you are. You are to adress me either as Selenor or warden. The living on the other hand address me as either the oracle or wanderer. Understood?"
+
+Selenor opens the door to the vampire lady "Farewell and safe travels, Lady Vex. I have one final advice for you. You may be ancient vampire but that doesn't mean you have to neglect your bloodline. A vampire who doesn't take care of their bloodline ends up weak and alone."
+[25/05/2026 06:52] Path Wars: Lady Isabelle Vex strides past Selenor, puts a hand on the chest of his armour and smiles:
+
+"Warden Selenor.
+I won't be alone."
+
+Lady Vex looks at Cardigan, Allisee, Sestina and Landon:
+
+"And neither will you."
+
+@MrNegetZ
+@Sestina_The_Banner_Witch
+@LoafableLoaf
+[25/05/2026 06:52] Path Wars: Lady Isabelle Vex leaves.
+[25/05/2026 06:52] Path Wars: What does the party do next?
+[25/05/2026 16:00] Path Wars: Not much really.
+[25/05/2026 16:12] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: We grab Otto and Evan and take them back to the Sherrif
+[25/05/2026 16:13] Antoine / Anthony = Allisee: "Well Selenor, now that our mummy is not a mummy anymore how do you plan on explaining that to the family huh?"
+[25/05/2026 16:14] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor scratches his head "Well. That will be an issue for Otto to explain not me"
+[25/05/2026 16:16] Antoine / Anthony = Allisee: Alisee is speechless at this level of stupidity and irresponsibility and just sighs...
+[25/05/2026 16:17] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+[25/05/2026 17:51] PathWarsNudge: 📋 Unreplied: 5
+↗ Kaer'maga · 🌱 1h · https://t.me/Path_Wars/25059/156506
+↗ Anthony · 🌱 1h · https://t.me/Path_Wars/25059/156507
+↗ Kaer'maga · 🌱 1h · https://t.me/Path_Wars/25059/156508
+↗ Anthony · 🌱 1h · https://t.me/Path_Wars/25059/156509
+↗ Kaer'maga · 🌱 1h · https://t.me/Path_Wars/25059/156510
+[27/05/2026 01:10] Path Wars: The blood toad looks at Landon with lust in its bloody toad eyes. @LoafableLoaf
+[27/05/2026 01:11] laughable Logan | C01 Landon: Vera eats said toad*
+
+[27/05/2026 01:11] Path Wars: Actually?
+[27/05/2026 01:11] Path Wars: The blood toad disappears inside of Selenor.
+[27/05/2026 18:28] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+[27/05/2026 18:30] Path Wars: The blood toad 🐸 pokes his eyes out then re-emerges:
+
+"Rib-bit."
+[27/05/2026 18:32] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor considers to cast the reverse curse of a hag spell that turns frogs into people on the frog (a reverse frog curse hag spell)
+[27/05/2026 18:42] Path Wars: Then you realise it's not "really" a toad but a magical concept.
+[27/05/2026 18:44] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: the toad has no concept of being a toad.  it is not a toad therefore it ceased to exist
+[27/05/2026 18:44] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+[28/05/2026 00:55] laughable Logan | C01 Landon: ( it went up his ass)
+[28/05/2026 10:29] Path Wars: Cardigan:
+
+"Uh.
+That was... Fun?
+Not enough killing Paradisers...."
+[28/05/2026 10:30] Path Wars: Cardigan looks naughty and says:
+
+"Exactly!!!
+We should have killed the vampire woman and then we could have brought her mum to the family!"
+[28/05/2026 10:50] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor "I am sorry Cardigan I promise the next date will be more deadly. At least we can end it with an ice cream"
+[28/05/2026 18:25] Path Wars: Cardigan jumps in the air with delight and gives you a warm embracing hug.
+[28/05/2026 18:25] Path Wars: Cardigan says softly:
+
+"Hopefully we can kill some Paradisers too...."
+[28/05/2026 18:33] Path Wars: Otto wakes up, slowly stands and shakes his head, dazed:
+
+"What... What happened?
+
+I seem to have... Blacked out a bit there?"
+[28/05/2026 18:33] Path Wars: Cardigan:
+
+"You ok?"
+[28/05/2026 18:33] Path Wars: This is not the OOC topic...
+[28/05/2026 18:36] Path Wars: This isn't the OOC topic 💀
+[28/05/2026 18:42] Antoine / Anthony = Allisee: "You know i don't think we're very good at this Cardigan... Maybe we should let some other people handle it...
+People that won't you know :
+-unseal ancient seals meant to keep any evil shit in it sealed,
+-wake up mummies just because they felt like it,
+-Reanimate dead daemons
+-Genocide a village
+-Accept to keep a cursed book
+-Make deals with hags
+etc... etc...
+"
+[28/05/2026 18:43] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor nods "At least this time you mentioned yourself."
+[28/05/2026 18:46] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor looks at Otto with  a mix of pity and disappointment" Your lust for knowledge and power angered your great grandma. I managed to diplomatically remind her that even tho you have caused so much trouble turning you into a charmed slave is a sin against her bloodline.
+
+You and your friend Evan are coming with us and together with the pharasmian we shall discuss your punishment."
+[28/05/2026 18:49] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor gently holds Cardigan hands and says "We shall. Those stone giants that worked for them. We shall find them and make them suffer. I will turn their own bodies  into their prisons."
+[28/05/2026 19:39] PathWarsNudge: 📋 Unreplied: 8
+↗ Kaer'maga · 🟢 1d 1h · https://t.me/Path_Wars/25059/156765
+↗ Kaer'maga · 🟢 1d 0h · https://t.me/Path_Wars/25059/156773
+↗ Kaer'maga · 🟢 1d 0h · https://t.me/Path_Wars/25059/156774
+↗ Loaf · 🌳 18h · https://t.me/Path_Wars/25059/156800
+↗ Anthony · 🆕 0h · https://t.me/Path_Wars/25059/156907
+↗ Kaer'maga · 🆕 0h · https://t.me/Path_Wars/25059/156908
+↗ Kaer'maga · 🆕 0h · https://t.me/Path_Wars/25059/156909
+↗ Kaer'maga · 🆕 0h · https://t.me/Path_Wars/25059/156921
+[31/05/2026 20:41] Path Wars: /markdone https://t.me/Path_Wars/25059/156765
+[31/05/2026 20:48] Path Wars: Cardigan:
+
+"I remember when Korumun got the blood toad from the incest ogre big momma, good times..."
+[31/05/2026 20:48] Path Wars: Cardigan:
+
+"So...back to town?"
+[31/05/2026 20:48] Path Wars: Cardigan:
+
+"You coming too Landon?"
+[31/05/2026 20:49] Path Wars: Cardigan:
+
+"Uhhhh.... we saved the town... I think?"
+[31/05/2026 20:49] Path Wars: Cardigan giggles at this.
+[31/05/2026 20:50] Path Wars: Otto looks around the room:
+
+"I will...I will face the law and my parents..."
+
+Otto sags a bit:
+
+"The university will be so disappointed."
+
+Otto looks a bit panicked:
+
+"And that woman.... she is going to be... very unhappy."
+[31/05/2026 20:52] Path Wars: Otto says to Selenor:
+
+"Can you ensure my safety from her?"
+[31/05/2026 20:52] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor raises an eyebrow " what woman? Ademe?"
+[31/05/2026 20:52] Path Wars: Evan is still trying to get away from the plant minion.
+[31/05/2026 20:53] Path Wars: Otto:
+
+"Yes. She did not seem like someone to be trifled with.
+
+She had connections at the university, which seemed impossible."
+[31/05/2026 20:59] Path Wars: Cardigan looks very happy and says:
+
+"Yes, and we will kill the evil ginger lady!!!"
+[31/05/2026 20:59] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "I am sure she will not unless she wants to piss me off."
+[31/05/2026 21:00] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor smiles "The dead told me gingers are the most evil mortals. The legends says they are born without souls!"
+[31/05/2026 21:04] Path Wars: Otto lets out a nervous laugh and says:
+
+"Ah, uh, very well then..."
+[31/05/2026 21:06] Path Wars: Cardigan:
+
+"Her name is Lucresha."
+[31/05/2026 21:13] Path Wars: Cardigan:
+
+"Lucresha said she was the sister of Xanesha...
+
+Xanesha killed Felaki..."
+
+[31/05/2026 21:14] Horia/Mike/Michael/Nem (Selenor) [Pathfinder]: Selenor says "I remember"
+[31/05/2026 21:16] Path Wars: Cardigan:
+
+"I am not... like... this isn't a hard promise-promise, but I think I might kill all the Paradisers at some point."
+
+## Session 279.
+
+> Arc-11 part 10
+>> 1. Session 279.
+>> 2. 2026 May 31st Sunday + 4710 AR, Rova 12th (Moonday).
+>> 3. IRL attempted start time: 20:00.
+>> 4. IRL start time: 21:58.
+>> 5. Delay duration: 1 hours & 58 minutes.
+>> 6. IRL finish time: --.
+>> 7. Session duration: 21:58 -> --- = - hours & - minutes.
+>> 8. Players present: 2 = Horia (Selenor) & Ross (Carnon).
+>> 9. In-game location: Anactoria..
+>> 10. Raven Grow Day 2/30.
+>> 11. In-game time: 21:00pm.
+
+> 4710 AR, Rova 12th, 21:00.
+>> 1. In the farm house.
+>> 2. The blood mummy became a vampire and left.
+>> 3. Kothis, servant of Jack Frost appears.
+>> 4. Selenor and Carnon have a conversation with Kothis and defuse the situation.
+>> 5. Kothis takes some swamp tree-beings as minions.
+>> 6. Kothis goes to Haku (and kidnaps him)...
+>> 7. The party return to Anactoria and go to the Temple of Pharasma.
+>> 8. Peter, Solstice and Otto could move to Magnimar.
+>> 9. Peter is currently a merchant.
+>> 10. Solstice is a lecturer in a local community college.
+>> 11. Selenor is going to help them start a new life elsewhere.
+>> 12. The Toulouse family agree.
+>> 13. Selenor asks Mother Belch to write to the high priest of Pharasma to get Selenor undenounced.
+>> 14. Mother Belch agrees to write the letter.
+>> 15. Selenor: 754 GP + 150 GP reward = 904 GP.
+>> 16. Just noting that the page says 3.
+

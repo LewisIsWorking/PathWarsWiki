@@ -86,35 +86,36 @@ Start typing here...
 > Engraver.
 >> 1. Engraver -> Add tract.
 >> 2. Tract -> Search Lurrie, discard it, summons itself.
->> 3. Link requiem using Lurrie.
+>> 3. Link -> Requiem using Lurrie.
 >> 4. Requiem summon Lacrima.
 >> 5. Lacrima send engraver.
 >> 6. Engraver shuffle Lurrie.
->> 7. Link Sequence -> Engraver & Lacrima.
+>> 7. Link -> Sequence using Engraver & Lacrima.
 >> 8. Sequence -> FS Lacrima using Requiem & Engraver.
 >> 9. FS Lacrima resurrect Engraver.
->> 10. Link Phoenix using Engraver & FS Lacrima.
+>> 10. Link -> Phoenix using Engraver & FS Lacrima.
 >> 11. FS Lacrima shuffles Normal Lacrima to deal damage.
->> 12. Link mermaid using Phoenix.
->> 13. Mermaid summons nightmare.
->> 14. Link into Galatea 1 using Nightmare.
->> 15. Galatea 1 -> Discard, add babel, activate babel.
->> 16. Link Galatea 2 using mermaid & Galatea 1.
->> 17. Nightmare -> Send harp horror.
->> 18. Harp horror -> Summon Girsu.
->> 19. Girsu -> Send skeleton.
->> 20. Activate Galatea 2 -> Shuffle harp horror -> Set Crescendo.
->> 21. LINK Enlilgirsu using Galatea 2 & Sequence.
->> 22. Skeleton -> Revive Galatea 2.
->> 23. XYZ Dingirsu using Galatea 2.
->> 24. Dingirsu attach skeleton.
->> 25. LINK I:P Masquerena using Dingirsu & Girsu.
->> 26. Enlilgirsu -> Add nightmare to hand.
->> 27. END TURN.
->> 28. Galatea 1 -> Banish Girsu.
->> 29. Galatea 1 -> Discard nightmare, add crown.
->> 30. Nightmare -> Target I:P -> Send wand.
->> 31. Wand -> Summons crown.
+>> 12. END OF FIEND SMITH COMBO.
+>> 13. Link -> Mermaid using Phoenix.
+>> 14. Mermaid summons nightmare.
+>> 15. Link -> Galatea 1 using Nightmare.
+>> 16. Galatea 1 -> Discard, add babel, activate babel.
+>> 17. Link -> Galatea 2 using mermaid & Galatea 1.
+>> 18. Nightmare -> Send harp horror.
+>> 19. Harp horror -> Summon Girsu.
+>> 20. Girsu -> Send skeleton.
+>> 21. Activate Galatea 2 -> Shuffle harp horror -> Set Crescendo.
+>> 22. LINK Enlilgirsu using Galatea 2 & Sequence.
+>> 23. Skeleton -> Revive Galatea 2.
+>> 24. XYZ Dingirsu using Galatea 2.
+>> 25. Dingirsu attach skeleton.
+>> 26. LINK I:P Masquerena using Dingirsu & Girsu.
+>> 27. Enlilgirsu -> Add nightmare to hand.
+>> 28. END TURN.
+>> 29. Galatea 1 -> Banish Girsu.
+>> 30. Galatea 1 -> Discard nightmare, add crown.
+>> 31. Nightmare -> Target I:P -> Send wand.
+>> 32. Wand -> Summons crown.
 
 ## Foolish Burial.
 
