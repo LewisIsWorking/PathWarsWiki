@@ -35,13 +35,12 @@ Pikk-Pikk was the one to acquire the Giant's Vault Swords.
 
 ## Ownership: Heat-death.
 
-- Heat Death.
-- 
-- 5: Available.
-- 4: Zutlieg left the sword at the town hall before joining Zillith's group.
-- 3: Zillith -> Zutlieg.
-- 2: Selenor -> Zillif.
-- 1: Sir Reinhold gave this to Selenor.
+> Heat Death.
+>> 1. Sir Reinhold gave this to Selenor. 
+>> 2. Selenor -> Zillif.
+>> 3. Zillith -> Zutlieg.
+>> 4. Zutlieg left the sword at the town hall before joining Zillith's group.
+>> 5. Available.
 
 ## Ownership: Iron Oath.
 

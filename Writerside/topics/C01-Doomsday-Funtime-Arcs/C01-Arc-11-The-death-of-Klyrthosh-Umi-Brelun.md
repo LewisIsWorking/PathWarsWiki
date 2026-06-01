@@ -2140,6 +2140,13 @@ Xanesha killed Felaki..."
 >> 12. The Toulouse family agree.
 >> 13. Selenor asks Mother Belch to write to the high priest of Pharasma to get Selenor undenounced.
 >> 14. Mother Belch agrees to write the letter.
->> 15. Selenor: 754 GP + 150 GP reward = 904 GP.
+>> 15. Selenor: 754 GP + 150 GP reward = 904.23 GP.
 >> 16. Just noting that the page says 3.
+>> 17. Zokar greets the party.
+>> 18. Selenor plays guitar (38 performance check).
+>> 19. Carnon does comedy/stand-up.
+>> 20. The Golden page changes from a 3 to a 5.
+>> 21. Fun fact, Carnon joined 17 days ago.
 
+> 4710 AR, Rova 12th, 22:30.
+>> 1. 
