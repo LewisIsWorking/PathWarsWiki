@@ -2,15 +2,14 @@
 
 Start typing here...
 
-## Name of the blades.
-
-1. Charm-Breaker.
-2. Eclipse.
-3. Glimmer-Bane.
-4. Heat-Death.
-5. Iron-Oath.
-6. Sin-Reaver.
-7. Truth-Teller.
+> Name of the blades. 
+>> 1. Charm-Breaker.
+>> 2. Eclipse.
+>> 3. Glimmer-Bane.
+>> 4. Heat-Death.
+>> 5. Iron-Oath.
+>> 6. Sin-Reaver.
+>> 7. Truth-Teller.
 
 ## Ownership.
 
@@ -26,12 +25,12 @@ Pikk-Pikk was the one to acquire the Giant's Vault Swords.
 
 ## Ownership: Glimmer-Bane
 
-- Glimmer Bane.
-- 5: From party storage -> Haku Stormfan.
-- 4: Modwinn left her sword at the town hall before disappearing...
-- 3: Laucian Asknäve -> Modwinn.
-- 2: Darian Chalk -> Laucian Asknäve.
-- 1: Drek Val -> Darian Chalk.
+> Glimmer Bane.
+>> 1. Drek Val -> Darian Chalk. 
+>> 2. Darian Chalk -> Laucian Asknäve.
+>> 3. Laucian Asknäve -> Modwinn.
+>> 4. Modwinn left her sword at the town hall before disappearing...
+>> 5. From party storage -> Haku Stormfan.
 
 ## Ownership: Heat-death.
 
@@ -44,24 +43,26 @@ Pikk-Pikk was the one to acquire the Giant's Vault Swords.
 
 ## Ownership: Iron Oath.
 
-- Iron's Oath.
-- 5: Viole has iron-oath (session 226).
-- 4: Isilynor Pranäe -> Viole.
-- 3: Un-Trul -> Isilynor Pranäe.
-- 2: Aarlak -> Un-Trul.
-- 1: Aarlak was the original owner of the sword.
+> Iron's Oath.
+>> 1. Aarlak was the original owner of the sword.
+>> 2. Aarlak -> Un-Trul.
+>> 3. Un-Trul -> Isilynor Pranäe.
+>> 4. Isilynor Pranäe -> Viole.
+>> 5. Viole has iron-oath (session 226).
+>> 6. Viole leaves Iron Oath at the town hall upon being promoted to assissant general of the Magnimar army.
+>> 7. Session 279: Keleri gives Iron Oath to Landon.
 
 ## Ownership: Sin-Reaver.
 
-- Sin Reaver.
-- 2: Allisee's sword.
-- 1: Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
+> Sin Reaver.
+>> 1. Modwinn gives her sword to Allisee. Asking Allisee to defeat evil as Modwinn needs to look over her child.
+>> 2. Allisee's sword.
 
 ## Ownership: Truth-teller.
 
-- Truth Teller.
-- 2: Selenor’s sword.
-- 1: Acquired by Selenor from the Broken Lord.
+> Truth Teller. 
+>> 1. Acquired by Selenor from the Broken Lord. 
+>> 2. Selenor's sword.
 
 ## Ownership: Eclipse.
 
@@ -94,16 +95,16 @@ Each High-Vale blade has a unique name and a unique property.
 >> - This can also be done as a free action outside combat.
 >> - Note: After every combat encounter, high-vale blades return to their original longsword form.
 
-> The High-Vale Ritual.
-> - During daily preparations or by spending 1 minute later in the day.
-> - A high-vale blade wielder can copy their High-Vale blade's +2 potency and striking rune to a single weapon of their choice.
-> - This can also copy the property runes on the proto sin blade.
-> - This has to be repeated each day or 24 hours (whichever comes first).
+> The High-Vale Ritual. 
+>> 1. During daily preparations or by spending 1 minute later in the day. 
+>> 2. A high-vale blade wielder can copy their High-Vale blade's +2 potency and striking rune to a single weapon of their choice. 
+>> 3. This can also copy the property runes on the proto sin blade. 
+>> 4. This has to be repeated each day or 24 hours (whichever comes first).
 
 > NOTE:
->> - The weapon empowered by the ritual still retains its normal potency and striking runes.
->> - When you empower a weapon, make sure to note down what the weapon's normal runes are.
->> - If your longbow is +1 striking, make sure to write that down before setting the runes on Foundry to be +2 striking.
+>> 1. The weapon empowered by the ritual still retains its normal potency and striking runes. 
+>> 2. When you empower a weapon, make sure to note down what the weapon's normal runes are. 
+>> 3. If your longbow is +1 striking, make sure to write that down before setting the runes on Foundry to be +2 striking.
 
 > High-Vale Dual class.
 >> - The High-Vale blades were created by one of the greatest magical users of all time.
@@ -140,7 +141,7 @@ Each High-Vale blade has a unique name and a unique property.
 	- Whenever you hit a living creature with this weapon, that creature must make a Class-DC Fortitude saving throw.
 	- The creature cannot regain hit points for 1 minute on a failure.
 	- At the end of each of the affected creature's turns, the creature can repeat the saving throw to end the effect.
-5. Iron’s Oath. Conjuration. Sloth. Blue.
+5. Iron Oath. Conjuration. Sloth. Blue.
 	- While you wield this weapon, you ignore difficult terrain caused by plants (both natural and magical).
 	- When you hit a plant creature with this weapon, that creature takes an extra 7 points of slashing damage.
 	- A creature that takes this extra slashing damage automatically releases any creature it has grappled or restrained.

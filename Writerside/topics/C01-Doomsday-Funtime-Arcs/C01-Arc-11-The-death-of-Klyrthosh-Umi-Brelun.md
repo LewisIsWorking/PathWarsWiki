@@ -2149,4 +2149,11 @@ Xanesha killed Felaki..."
 >> 21. Fun fact, Carnon joined 17 days ago.
 
 > 4710 AR, Rova 12th, 22:30.
->> 1. 
+>> 1. The party go to Sandpoint. 
+>> 2. The party return to Ravengrow and sleep.
+>> 3. Everyone rolls against the nightmare [DC30] and succeeds!
+
+> 4710 AR, Rova 13th, 08:00.
+>> 1. The party wake up and have breakfast.
+>> 2. Anyone who succeeded but didn't critical succeed on the nightmare check has a -2 penalty to fear effects until they sleep.
+>> 3. Carnon and Landon are the two who have the -2 penalty.
