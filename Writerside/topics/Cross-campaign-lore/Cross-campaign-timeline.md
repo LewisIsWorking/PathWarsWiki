@@ -61,7 +61,7 @@ when determining if specific events have happened and for the purpose of unlocke
 
 ## **4710 AR.**
 
-> Edge-watch #4. 4710 AR.
+> Magni Guard #4. 4710 AR.
 >> - [C04-Agents-of-Magni-Guard.md](C04-Magni-Guard.md)
 
 > The Grand Explorers #5. 4710 AR.

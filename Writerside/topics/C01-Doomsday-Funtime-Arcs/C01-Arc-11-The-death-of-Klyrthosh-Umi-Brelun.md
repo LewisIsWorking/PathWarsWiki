@@ -2158,3 +2158,5 @@ Xanesha killed Felaki..."
 >> 2. The party wake up and have breakfast.
 >> 3. Anyone who succeeded but didn't critical succeed on the nightmare check has a -2 penalty to fear effects until they sleep.
 >> 4. Carnon and Landon are the two who have the -2 penalty.
+>> 5. The party have breakfast.
+>> 6. 
