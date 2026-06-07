@@ -100,3 +100,6 @@
 >> - If you answer all of the above with: “Yes”, then you are ready to play in the next session!
 >> - You should find your campaigns on this wiki on the Path Wars Homepage.
 >> - See more pages here on GitHub.
+
+> Questions?
+>> - See the Foundry FAQ: [Foundry-FAQ.md](Foundry-FAQ.md)
