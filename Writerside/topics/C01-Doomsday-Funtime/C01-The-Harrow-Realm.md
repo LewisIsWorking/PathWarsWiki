@@ -2,7 +2,7 @@
 
 > Overview.
 >> - Amar has used the upgrade: The Mountain Man.
->> - Session 205. Allisee gets 2 items for the Zubiri.
+>> - Session 205. Allisee gets 2 items for the Zubiri from the mountain man.
 >> - Session 226. Distributing the cards among: Selenor, Allisee, Carnon and Viole.
 >> - Session 262: Haku Stormfan found The Vision in Always 1 step ahead.
 >> - Session 266: Re-distributing the cards among: Selenor, Allisee, Infinite Fang and Vaasha.
@@ -48,7 +48,7 @@
 >> - Drawn by Allisee.
 >> - Passive ability: As long as you have The Rabbit Prince invested, it grants you a +1 status bonus to attack rolls you make as a readied action.
 >> - Reaction (Fortune, Concentrate) Once per day: If you miss a creature with a melee weapon Strike 
->>   - Re-roll the triggering Strike with a +1 status bonus. If you hit, attempt a DC 15 Flat Check; on a failure, your weapon gains the broken condition (if your weapon is already broken, it's destroyed). If you're at least 14th level, this flat check is DC 10 Flat Check. If you're at least 17th level, this flat check is DC 5 Flat Check.
+>> - Re-roll the triggering Strike with a +1 status bonus. If you hit, attempt a DC 15 Flat Check; on a failure, your weapon gains the broken condition (if your weapon is already broken, it's destroyed). If you're at least 14th level, this flat check is DC 10 Flat Check. If you're at least 17th level, this flat check is DC 5 Flat Check.
 >> - 
 
 > #5: Ownership: Locksmith.

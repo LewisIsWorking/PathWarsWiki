@@ -53,20 +53,20 @@ You can only buy fame awards when you have an amount of fame equal than or great
 
 ## Fame Tiers & Fame Awards.
 
-### Fame 1.
+### Fame 1. Unknown adventurer. Village wide.
 
 1. Hero's Luck = 1 PP = One time, +4 to one roll.
 2. Palm Greaser = 4PP = Title.
 3. Planar Pact = 5 PP = Improved familiar.
 
-### Fame 10.
+### Fame 10. An adventurer who has done a few adventurers. Town wide.
 
 1. Tier-1 Arcane Study = 1 PP or 2 PP.
 2. Character Witness = 5 PP.
 3. Lore of ages = 1 PP.
 4. Wanderer = 1 PP = Title.
 
-### Fame 20.
+### Fame 20. People start to know your name. City wide.
 
 1. Tier-2 Arcane Study = 3 PP = Permanent 2nd level arcane spell slot.
 2. Favoured Territory = 5PP = Title.
@@ -79,7 +79,7 @@ You can only buy fame awards when you have an amount of fame equal than or great
 9. Servant Cohort = 1PP. Permanent servant.
 10. Vindicator = 2PP = Title. +1 to attack rolls & damage rolls.
 
-### Fame 30.
+### Fame 30. Local Hero. Country-wide.
 
 1. Tier-3 Arcane Study. 3 PP. Permanent.
 2. Blood-Bound. 2 PP. Title. Permanent.
@@ -87,6 +87,12 @@ You can only buy fame awards when you have an amount of fame equal than or great
 4. Officer. 5 PP. Title Permanent.
 5. Warden. 5 PP. Title. Permanent.
 6. Wordly fame. 2 PP. 24 hours.
+
+### Fame 40. Celebrity. Continental.
+
+1. Commander. 4 PP. Title. Permanent.
+2. Patriot. 4 PP. Title. Permanent.
+3. Privileged Meeting. 2 PP per use.
 
 ## The party's current awards.
 
@@ -256,3 +262,12 @@ Allisee buys sage of crafting for 5 PP = 18/23 = 18--5=13/23.
 >> - Allisee buys a title.
 >> - Master of Trade (Title, 4 PP).
 >> - Allisee = 13/23 - 4 = 9/23.
+
+## Session 279.
+> Arc-11 part 10
+>> 1. Session 279.
+>> 2. 2026 May 31st Sunday + 4710 AR, Rova 12th (Moonday).
+>> 3. Party complete the blood mummy bounty.
+>> 4. +4 PP for Selenor. +2 PP for everyone else.
+>> 5. 5/37 + 4 = 9/41 for Selenor.
+>> 6. 18/23 + 4 = 22/27 for Allisee.

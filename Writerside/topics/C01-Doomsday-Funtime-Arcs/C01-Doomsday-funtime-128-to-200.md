@@ -1600,7 +1600,7 @@ See PP tracker Page for more.
 
 24th Erastus. 09:00.
 
-Selenor removes Laucian’s Mummification curse.
+Selenor removes Laucian's Mummification curse.
 
 10:00.
 
@@ -1616,9 +1616,9 @@ They go to the mushfens, save 2 halflings, Selenor gets his 2nd slave in the for
 
 Amar Rookmoon talks to Selenor.
 
-Selenor’s arm is now necrotic.
+Selenor's arm is now necrotic.
 
-Selenor’s full plate is not etched with half-finished strange esoteric magical runes, Keleri does not recognise the runes.
+Selenor's full plate is not etched with half-finished strange esoteric magical runes, Keleri does not recognise the runes.
 
 ## Session 190 = 2023 September 17th Sunday + 4710 AR Erastus 24th + Gauntlight Part 1.
 

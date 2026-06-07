@@ -5,18 +5,17 @@
 >> 2. Encounter started = 2026 May 18th at 05:42am.
 >> 3. Round 1!
 
-> Unacted Allies.
->> 1. Awnii Vihn @Awnii_Vihn
->> 2. Fierce Leopard @RyoYamakawa.
->> 3. Ji Yun @Thien_Ming.
->> 4. Kieran @Linksanelf2006.
->> 5. Master Cho Kobo @Ravnos1 .
->> 6. Tarsus LongStaff @buffetraider .
+> Unacted Allies. 
+>> 1. Fierce Leopard @RyoYamakawa.
+>> 2. Ji Yun @Thien_Ming.
+>> 3. Master Cho Kobo @Ravnos1.
+>> 4. Tarsus LongStaff @buffetraider.
 
 > Acted Allies.
->> 1. Lorn @Nemesiux.
->> 2. Tal'Lysae @PathWars.
->> 3. Daichi Kenshin @MrNegetZ.
+>> 1. Tal'Lysae @PathWars.
+>> 2. Lorn @Nemesiux.
+>> 3. Awnii Vihn @Awnii_Vihn.
+>> 4. Daichi Kenshin @MrNegetZ.
 
 > Unacted Enemies.
 >> 1. Dark-Fey-Guard 1.
@@ -43,4 +42,31 @@
 >> 14. Action 1 = Shield.
 >> 15. Action 2 = Arcane Cascade.
 >> 16. Action 3 = Stride.
->> 17. 
+>> 17. [01/06/2026 03:59] Path Wars: Kieran's turn:
+>> 18. [01/06/2026 03:59] Path Wars: Action 1: Lightning swap.
+>> 19. [01/06/2026 03:59] Path Wars: Kieran draws his bow.
+>> 20. [01/06/2026 03:59] Path Wars: Action 2: Strike
+>> 21. [01/06/2026 03:59] Path Wars: Action 3: Strike.
+>> 22. [01/06/2026 03:59] Path Wars: Both are natural 20s!
+>> 23. [01/06/2026 04:00] Path Wars: Critical Hit Deck #37
+>> 24. [01/06/2026 04:00] Path Wars: Dark Fey Guard 3 gets a 31, succeeding at the infection fortitude save.
+>> 25. [01/06/2026 04:00] Path Wars: Critical Hit Deck #24
+>> 26. [01/06/2026 04:00] Path Wars: Muscle Severed.
+>> 27. [01/06/2026 04:02] Path Wars: The problem is that this is going to heal their severed muscles now:
+>> 28. https://discord.com/channels/260066959238889472/474043975376961546/1510840769852870828
+>> 29. [01/06/2026 04:03] Path Wars: 35 and 13 damage.
+>> 30. [01/06/2026 04:03] Path Wars: End of Kieran's turn.
+>> 31. [01/06/2026 04:03] Path Wars: Awnii Vihn's turn: Gravity weapon -> Weapon swap -> Stride.
+>> 32. [01/06/2026 04:03] Path Wars: END OF THE ALLY TURN.
+ 
+> Round 1: Enemies.
+>> 1. [01/06/2026 04:05] Path Wars: Dark Fey Guard 1. Stand -> Fix Grip -> Stride.
+>> 2. [01/06/2026 04:06] Path Wars: Dark Fey Guard 2 & 3: Stride -> Stride -> Stride.
+>> 3. [01/06/2026 04:06] Path Wars: Within 100 feet.
+>> 4. [01/06/2026 04:08] Path Wars: END OF ROUND 1, ROUND 2 STARTS NOW!
+
+> Round 2: Allies.
+>> 1. Tal'Lysae -> A1 Mobile aim -> Aim at Dark Fey Guard 3 -> A2 Shoot Dark-Fey-Guard 3 -> Critical hit -> 58 damage -> Dark-Fey-Guard 3 is dying 2 -> A3 Reload.
+>> 2. Lorn -> A1 Hunt Prey -> A2 Hunted Shot, both shots against Dark-Fey-Guard 2 -> Hit & Hit -> 21 & 18 damage -> A3 Strike -> Hit Dark Fey Guard 2 -> 13 damage. Dark Fey Guard 2 is still standing.
+>> 3. Awnii Vibn -> A1 Hunt Prey -> A2 Strike -> Hit Dark Fey Guard 2 -> 20 damage -> A3 Strike -> Hit Dark Fey Guard 2 -> 25 to hit -> 10 damage.
+>> 4. Kieran -> A1 Strike -> Natural 20! -> HEART SHOT (triple damage + bleed) -> 43 damage -> A3 Lightning Swap.
