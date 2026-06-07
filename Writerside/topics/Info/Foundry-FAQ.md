@@ -7,11 +7,11 @@ New to Foundry? Start with [Joining-foundry.md](Joining-foundry.md).
 
 > We have three Foundry worlds hosted on the Forge.
 
-| World   | Invite link                                                                 | Campaigns hosted                                                    |
-|---------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
-| World 1 | https://eu.forge-vtt.com/invite/world1/ed52fc86-0d24-461e-afba-7d7d316347ba | Campaign 01 Doomsday Funtime and Campaign 00 Riddleport.            |
-| World 2 | https://eu.forge-vtt.com/invite/world2/04a37f0a-ce3d-4bdf-be77-781e4b302fd2 | All other Pathfinder play-by-post campaigns.                        |
-| World 3 | https://eu.forge-vtt.com/invite/world3/a8d83350-36c6-4c1e-95e2-a4635ac72727 | Campaign 07 Hopeful Endtimes and Campaign 09 Metal City Stargazing. |
+| World   | Invite link                          | Campaigns hosted                                                    |
+|---------|--------------------------------------|---------------------------------------------------------------------|
+| World 1 | https://world1.eu.forge-vtt.com/game | Campaign 01 Doomsday Funtime and Campaign 00 Riddleport.            |
+| World 2 | https://world2.eu.forge-vtt.com/game | All other Pathfinder play-by-post campaigns.                        |
+| World 3 | https://world3.eu.forge-vtt.com/game | Campaign 07 Hopeful Endtimes and Campaign 09 Metal City Stargazing. |
 
 > “BUT THIS LINK DOES NOT WORK!!!”
 >> - If a link does not work, just ask on the telegram chat for a new one.
