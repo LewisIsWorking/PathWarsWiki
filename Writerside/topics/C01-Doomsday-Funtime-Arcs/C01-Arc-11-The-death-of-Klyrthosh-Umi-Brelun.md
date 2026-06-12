@@ -2157,6 +2157,32 @@ Xanesha killed Felaki..."
 >> 1. Day 3/30.
 >> 2. The party wake up and have breakfast.
 >> 3. Anyone who succeeded but didn't critical succeed on the nightmare check has a -2 penalty to fear effects until they sleep.
->> 4. Carnon and Landon are the two who have the -2 penalty.
+>> 4. Just Landon has the -2 penalty.
 >> 5. The party have breakfast.
->> 6. 
+
+## Session 280.
+
+> Arc-11 part 11
+>> 1. Session 280.
+>> 2. 2026 June 7th Sunday + 4710 AR, Rova 13th (Toilday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 00:34.
+>> 5. Delay duration: 2 hours & 34 minutes.
+>> 6. IRL finish time: --.
+>> 7. Session duration: 00:34 -> --- = - hours & - minutes.
+>> 8. Players present: 4 = Horia (Selenor), Ross (Carnon), @Wigglero (Elinoa) & Anthony (Allisee).
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 3/30.
+>> 11. In-game time: 09:00am.
+
+> 4710 AR, Rova 13th, 09:00.
+>> 1. Talking to Umi-Keleri.
+>> 2. Selenor is planning on going to Father Vauren to do the warding.
+>> 3. Allisee is being summoned to talk to Councilwoman Shanda.
+>> 4. Selenor asks Scholar Div to write a letter to the mayor/Head Pharasmian Priest.
+>> 5. Selenor tells Div about why Selenor is in Ustalav.
+>> 6. Scholar Div Driss explains how a new undead leader could destroy the influence of the Gods on this world and bring about an age of reason, learning and undead-acceptance.
+>> 7. Selenor spends over an hour with Allisee's help to build the 1st anchor of the undeath ward.
+
+> 4710 AR, Rova 13th, 10:30.
+>> 1. Allisee is now going to Councilwoman Shanda's office.
