@@ -25,3 +25,12 @@
 >> - (none yet)
 
 > Round 1: Allies.
+>> 1. Hinata did combat actions.
+>> 2. Holis did combat actions.
+>> 3. The Kaepra-Voliax Symposium cast two-action Enhance Weapon on Damon's weapon of choice then 1 action crown of prophets.
+>> 4. Arktos = One Action Step, Second Action Debris Field -> Free Action Sustain and Recall Knowledge.
+>> 5. Chik Spallchewer = 1 action stride + 2 action disable device, occultism, 16, success. 1/3 successes.
+>> 6. Damon -> Stride -> Disable device [thievery] -> 22 -> Success -> 2/3 successes.
+
+> Round 1: Enemies.
+>> 1. 

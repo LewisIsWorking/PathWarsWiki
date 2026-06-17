@@ -64,9 +64,9 @@
 > Masquerade -> Discard silver hound.
 >> 1. Silver hound effect -> Summon Gold Leo.
 >> 2. Gold leo effect -> Add kaleido chick to hand.
->> - Discard ANYTHING that's not kaleido chick.
+>>    - Discard ANYTHING that's not kaleido chick.
 >> 3. Normal summon kaleido chick.
->> 4. kaleido chick effect -> Send black sheep to grave.
+>> 4. kaleido chick effect -> Send black sheep to grave (Gold leo grabs black sheep).
 >> 5. Gold leo effect -> Add black sheep to hand.
 >> 6. Discard black sheep to add polymerisation.
 >> 7. Polymerization -> Fusion summon perfume dancer using kaleido chick and gold leo.
@@ -119,7 +119,7 @@
 >> 13. Activate luna light perfume in the graveyard -> Discard polymerisation to add luna light wolf to hand.
 >> 14. Wolf into pendulum zone.
 >> 15. Wolf's effect -> Fusion summon Liger Dancer (to cross sheep's pointed zones) 
->> - Use both fusions (perfume dancer & leo dancer), black sheep and gold leo.
+>>     - Use both fusions (perfume dancer & leo dancer), black sheep and gold leo.
 >> 16. Cross sheep effect -> summon kaleido chick from grave.
 >> 17. kaleido chick effect -> Send 2nd leo dancer to grave.
 >> 18. Yellow martin in grave -> Return luna light wolf to hand.
@@ -151,8 +151,8 @@
 >> 7. Kaleido chick effect -> Send yellow martin to grave.
 >> 8. Yellow martin in grave -> Return luna light wolf to hand.
 >> 9. XYZ summon Dugares using kaleido chick and yellow martin.
->> 10. Dugares effect -> detach kaleido chicken -> to revive kaleido Chick
+>> 10. Dugares effect -> detach kaleido chicken -> to revive kaleido Chick.
 >> 11. kaleido chick effect -> Send leo dancer to grave.
->> 12. Link summon I:P Masquerade using kaleido chick and perfume dancer
+>> 12. Link summon I:P Masquerade using kaleido chick and perfume dancer.
 >> 13. Wolf -> Banish leo dancer + everything in the grave.
 >> - END BOARD: I:P Masquerade, Number 60: Dugares and Liger Dancer.
