@@ -2186,3 +2186,53 @@ Xanesha killed Felaki..."
 
 > 4710 AR, Rova 13th, 10:30.
 >> 1. Allisee is now going to Councilwoman Shanda's office.
+
+## Session 281.
+
+> Arc-11 part 12
+>> 1. Session 281.
+>> 2. 2026 June 27th Saturday + 4710 AR, Rova 13th (Toilday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 23:33.
+>> 5. Delay duration: 1 hours & 33 minutes.
+>> 6. IRL finish time: --.
+>> 7. Session duration: 23:34 -> --- = - hours & - minutes.
+>> 8. Players present: 4 = Horia (Selenor)& Anthony (Allisee).
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 3/30.
+>> 11. In-game time: 10:30am.
+
+> Day 3/30. 11:00am.
+>> 1. Selenor tells Father Vauren that the party are going to have a look at Grey-wall prison.
+>> 2. Selenor gets to the prison.
+
+> Day 3/30. 11:30am.
+>> 1. Selenor uses the Golden Page to reduce the door's DC by 10.
+>> 2. Selenor uses Occultism to suppress the ward, success, ward suppressed for 1 minute.
+>> 3. Selenor uses athletics to open the door.
+>> 4. Warden's house.
+>> 5. Selenor finds a box of sealing wax, Selenor can use this to fake being a warden of Grey-wall prison.
+>> 6. Selenor finds a book that tells Selenor the order of the Golden Eye have secretly been running the prison for centuries.
+>> 7. 3 stacks of warden's house building instability.
+>> 8. Selenor finds a love-daisy (two answers: loves me/loves me not), it has 2 petals left. A minor occult divination charm.
+>> 9. 4 stacks.
+>> 10. Selenor fails the build stability check but succeeds the reflex save, taking 15 bludgeoning damage from debris.
+>> 11. Selenor natural 20s to explore the house, 43, expect in perception.
+>> 12. Selenor finds 2 x moderate healing potions and a Small gold ingot worth 50GP.
+>> 13. 5 stacks.
+>> 14. Instability check fail.
+>> 15. Selenor takes 50 bludgeoning damage.
+>> 16. Selenor leaves the house and Cardigan does treat wounds.
+
+> Day 3/30. 12:00.
+>> 1. Observation tower.
+>> 2. Selenor kills 140 giant rats.
+>> 3. Selenor puts down food that can feet around 90 to 100 normal rats and says sorry to Lao Sha Po the goddess of rats.
+>> 4. Selenor gathers 4 SP worth of Common Herbs (gathered from the walls of Grey-wall Prison).
+>> 5. Selenor has 6 HARM SLOTS per day, this will use 3 of them. 
+>> 6. 2 critical fails, 1 fail.
+>> 7. Selenor re-binds the Burning Prisoner Skeleton that failed.
+>> 8. It critically fails, 2 Harm uses left.
+>> 9. Selenor is planning to use create undead to bind these Burning Prisoner Skeletons as GHOST Burning Prisoner Skeletons.
+>> 10. 300 GP per skeleton & 1 day per skeleton.
+>> 11. For now Selenor puts them into the Frozen Prison.

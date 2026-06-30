@@ -818,18 +818,15 @@ The book is locked.
 
 The grey book is covered in chains, padlocks, ethereal-bindings and arcane lock markings.
 
-The name of the book is blue in colour, written in Thassilonian runic arcane notation.
+The name of the book is blue in colour, written in Sin-Speak runic arcane notation.
 
 Saying the name of this book causes locks to open and the cover to flip open.
 
 The book opens with the following text:
 
 “The Doomsday Door Must Never Be Opened.
-
 The Doomsday Keys Must Be Hidden.
-
 She has the Coin.
-
 Reality Will Die In Thassilon.”
 
 The rest of the first half of the book is the line:

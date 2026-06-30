@@ -52,3 +52,31 @@
 >> 5. Allisee. Level 12. Exp: 448 + 90 = 538.
 >> 6. Selenor. Level 12. Exp: 853 + 90 = 943.
 >> 7. Cardigan. Level 13. Exp: 14 + 60 = 74.
+
+## Session 281.
+
+> Combat: 140 Giant Rats.
+>> - Monster parts: 64 GP. 4.5 Bulk.
+>> - Exp:
+>> - Level 7 = 60 x 1 = 60
+>> - Level 11 = 15 x 1 = 15.
+>> - Level 12 = 10 x 1 = 10.
+>> - Level 13 = 0 x 1 = 0.
+
+> Characters present: 140 Giant Rats.
+>> - Rino. Level 7. Exp: 0.
+>> - Allisee. Level 12. Exp: 538.
+>> - Selenor. Level 12. Exp: 943.
+>> - Cardigan. Level 13. Exp: 74.
+
+> Addition: 140 Giant Rats.
+>> 1. Rino. Level 7. Exp: 0 + 60 = 60. 
+>> 2. Allisee. Level 12. Exp: 538 + 10 = 548.
+>> 3. Selenor. Level 12. Exp: 943 + 10 = 953.
+>> 4. Cardigan. Level 13. Exp: 74 + 0 = 74.
+
+> New totals: 140 Giant Rats.
+>> 1. Rino. Level 7. Exp: 60.
+>> 2. Allisee. Level 12. Exp: 548.
+>> 3. Selenor. Level 12. Exp: 953.
+>> 4. Cardigan. Level 13. Exp: 74.
