@@ -102,7 +102,7 @@
 
 ## Regular Patrons
 
-> Mira Ash-vane.
+> Mira Ashvane.
 >> - **Cypher mage Initiate**
 >> - Often found at a corner table, surrounded by books and papers.
 >> - Nurses a single drink for hours while she studies.

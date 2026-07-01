@@ -80,4 +80,4 @@
 
 > **Canon note.**
 >> - Mira was previously listed only as a Regular Patron of the Silver Succubi; running the arcane counter is a promotion of that role.
->> - Spelling: this page uses "Ashvane" per the current in-game posts; the side-characters entry spells it "Ash-vane." Worth normalising to one.
+>> - Name is spelled "Ashvane" wiki-wide (normalised 2026-07-01; the side-characters entry previously read "Ash-vane").
