@@ -4,7 +4,7 @@
 > This can be a lot of information. Feel free to DM me, and I will walk you through everything.
 >> 1. I like putting everything down in writing so new players have it all to refer back to.
 >> 2. System: Starfinder 2e (Pathfinder 2e Remaster compatible).
->> 3. Open Slots: [TODO: confirm. The wiki lists 7 players already, so this may be recruiting for activity rather than headcount].
+>> 3. Open Slots: 5.
 >> 4. Time & Frequency: constant but slow (play by post).
 >> 5. Campaign Description: A crew aboard the starship Stargazer, captured by pirates and shaken by "the Scream," fights free and makes for Metal City. The same group plays on through Murder in Metal City and beyond.
 >> 6. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
