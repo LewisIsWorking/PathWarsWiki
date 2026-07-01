@@ -1,11 +1,11 @@
-# C7~StarFinder-2e-discord-ad.
+# C7-Hopeful-Endtimes-discord-ad.
 
 - Title: Hopeful Endtimes (play by post).
 - There is a lot of information here.
 - DM me, and I will walk you through everything.
-- I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
+- I like putting everything down in writing so new players have it all to refer back to.
 - System: Starfinder 2e.
-- Open Slots: 4.
+- Open Slots: 5.
 - Time & Frequency: constant but slow (play by post).
 - Campaign Description: The same group of characters is going to play through all of the Starfinder 2e play test's 
   adventures.
@@ -22,6 +22,7 @@ totally free for players.
 - You can use any PF2e content for character creation as well as the StarFinder 2e.
 - What can I play regarding race, class, background, etc? Well, you can play anything.
 - You do not need to make your character a dual class, but you can if you want to.
+- House rules: we also run Automatic Bonus Progression and Ancestral Paragon (a free bonus ancestry feat). I'll help you switch these on in Pathbuilder.
 - The vetting process is on our discord server, **it is NOT in my DMs with you**.
 - Discord link is in my bio. :) 
 
