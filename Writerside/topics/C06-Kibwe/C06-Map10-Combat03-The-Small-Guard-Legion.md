@@ -161,4 +161,4 @@
 >> 4. Guard Legion of The Anti-Human Short-Alliance #01 takes 21 damage.
 >> 5. Guards #01 got a 28 Fortitude save versus stunning blows.
 >> 6. A bunch (1 segment) of the troops are dead, killed by the Master's flurry of stunning blows!
-
+>> 7. END OF MASTER CHO KOBO'S TURN.
