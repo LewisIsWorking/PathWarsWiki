@@ -1,4 +1,4 @@
-# C06-Map10-Combat03-The-Small-Guard-Legion.md
+# C06-Map10-Combat03-Guard-Legion-Of-The-Anti-Human-Short-Alliance.md.
 
 > COMBAT.
 >> 1. Encounter name: The-Small-Guard-Legion.
