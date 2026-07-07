@@ -147,12 +147,12 @@
 >> 1. Lorn @Nemesiux.
 >> 2. Daichi Kenshin @MrNegetZ.
 >> 3. Fierce Leopard @RyoYamakawa.
->> 4. Tal'Lysae @PathWars.
->> 5. Ji Yun @Thien_Ming.
+>> 4. Ji Yun @Thien_Ming.
 
 > Round 2: Acted Allies.
 >> 1. 1st Master Cho Kobo @Ravnos1.
 >> 2. 2nd Tarsus LongStaff @buffetraider.
+>> 3. 3rd Tal'Lysae @PathWars.
 
 > Round 2: Ally Turns.
 >> 1. Master Cho Kobo.
