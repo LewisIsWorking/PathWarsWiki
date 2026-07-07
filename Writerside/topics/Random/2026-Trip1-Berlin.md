@@ -25,7 +25,7 @@
 >> - 22: Jordan Horrocks. ASKED. NOT GOING.
 >> - 23: Riley. ASKED. Said no. NOT GOING.
 >> - 24: Michael Wilkinson. ASKED. NOT GOING.
->> - 25: Ethan Sloan. ASKED. Replied: "Gonna skip it, thanks." NOT GOING.
+>> - 25: Ethan Sloan. ASKED. Replied: "Going to skip it, thanks." NOT GOING.
 >> - 26: Patrick Cox. ASKED. NOT GOING
 >> - 27: Abbie (Elicia's friend). ASKED. NOT GOING.
 >> - 28: Rebecca Gibson. ASKED. Replied: "No sorry I'm not." NOT GOING.
@@ -84,3 +84,8 @@
 >> - Are you all still planning on going on the group trip to Berlin? 
 >> - Please let me know so I can finalise numbers. 
 >> - Thanks!
+
+> Attempt 2.
+>> 1. Attempt 1 failed.
+>> 2. Bronwyn & Eimer are the only strong advocates.
+>> 3. Jack is considering it.
