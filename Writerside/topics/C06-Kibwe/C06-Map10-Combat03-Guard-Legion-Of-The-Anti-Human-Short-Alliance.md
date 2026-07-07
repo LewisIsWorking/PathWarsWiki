@@ -132,7 +132,7 @@
 >> 48. Both of the gnomes run towards the party with wild crazed looks in their eyes.
 >> 49. Wide: Stride x 2.
 >> 50. Wide: Acid flask vs Red Flame, 29 hits, 11 acid damage, persistent acid damage applied.
->> 51. Wide: "Ha! Beat that Narrow, I've been calibrating the aero-alcho-dynamics of my bomb's!"
+>> 51. Wide: "Ha! Beat that Narrow, I've been calibrating the aero-alcho-dynamics of my bombs!"
 >> 52. END OF WIDE THE GNOME'S TURN.
 >> 53. Narrow: Stride x 2.
 >> 54. Narrow: Acid flash vs Ji Yun's Eidolon, 29 hits, 9 acid damage, persistent acid damage applied.
@@ -144,15 +144,15 @@
 ## Round 2.
 
 > Round 2: Unacted Allies.
->> 1. Tarsus LongStaff @buffetraider.
->> 2. Lorn @Nemesiux.
->> 3. Daichi Kenshin @MrNegetZ.
->> 4. Fierce Leopard @RyoYamakawa.
->> 5. Tal'Lysae @PathWars.
->> 6. Ji Yun @Thien_Ming.
+>> 1. Lorn @Nemesiux.
+>> 2. Daichi Kenshin @MrNegetZ.
+>> 3. Fierce Leopard @RyoYamakawa.
+>> 4. Tal'Lysae @PathWars.
+>> 5. Ji Yun @Thien_Ming.
 
 > Round 2: Acted Allies.
->> 1. Master Cho Kobo @Ravnos1.
+>> 1. 1st Master Cho Kobo @Ravnos1.
+>> 2. 2nd Tarsus LongStaff @buffetraider.
 
 > Round 2: Ally Turns.
 >> 1. Master Cho Kobo.
@@ -162,3 +162,17 @@
 >> 5. Guards #01 got a 28 Fortitude save versus stunning blows.
 >> 6. A bunch (1 segment) of the troops are dead, killed by the Master's flurry of stunning blows!
 >> 7. END OF MASTER CHO KOBO'S TURN.
+>> 8. Ji Yun's HP = 46/50.
+>> 9. Tarsus LongStaff's turn.
+>> 10. Tarsus: Recharge spell strike + Spell strike against Guard Legion of The Anti-Human Short-Alliance #02.
+>> 11. 12 & 11 damage.
+>> 12. The flesh is BROKEN across the Guard Legion of The Anti-Human Short-Alliance #02.
+>> 13. Tal'lysae's turn.
+>> 14. A1 Aim.
+>> 15. A2 Strike.
+>> 16. 21, miss, reroll, 37 critical hit!
+>> 17. 77 damage.
+>> 18. Over 100 of the Guards in the Guard Legion of The Anti-Human Short-Alliance #01, all die from this strike, the power of the bullet causes their flesh to evaporate from the sheer force of the bullet.
+>> 19. A3 Reload.
+>> 20. The Red Flame strides towards the 2nd legion with his free action.
+>> 21. END OF TAL'LYSAE'S TURN.
