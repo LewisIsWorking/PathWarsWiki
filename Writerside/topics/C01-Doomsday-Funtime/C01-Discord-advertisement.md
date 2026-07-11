@@ -6,7 +6,7 @@
 >> 2. System: PF2e.
 >> 3. Open Slots: 6.
 >> 4. Time & Frequency: Fridays (main session, live on the voice channel), sometimes Sundays (roleplay & shopping session, completely optional).
->> 5. Time zone: UK. Friday time = 20:00.
+>> 5. Time zone: UK. Friday time = 23:50.
 >> 6. Campaign Description: Stop the world from ending. The party travel the world to discover what will cause the end of times, while discovering more about themselves.
 >> 7. THIS IS NOT A WEST MARCH. THIS IS NOT A PLAY BY POST, it is played live on the voice channel. THIS IS NOT A PAID GAME.
 >> 8. Age: 18 or older.

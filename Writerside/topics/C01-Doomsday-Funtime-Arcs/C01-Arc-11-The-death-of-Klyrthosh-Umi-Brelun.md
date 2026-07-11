@@ -2236,3 +2236,80 @@ Xanesha killed Felaki..."
 >> 9. Selenor is planning to use create undead to bind these Burning Prisoner Skeletons as GHOST Burning Prisoner Skeletons.
 >> 10. 300 GP per skeleton & 1 day per skeleton.
 >> 11. For now Selenor puts them into the Frozen Prison.
+
+## Session 282.
+
+> Arc-11 part 13
+>> 1. Session 282.
+>> 2. 2026 July 10th Friday + 4710 AR, Rova 13th (Toilday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 23:48.
+>> 5. Delay duration: 1 hours & 48 minutes.
+>> 6. IRL finish time: --.
+>> 7. Session duration: 23:34 -> --- = - hours & - minutes.
+>> 8. Players present: 3 = Horia (Selenor), Anthony (Allisee), Oscar (Carnon).
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 3/30.
+>> 11. In-game time: 12:30pm.
+
+> Day 3/30. 12:30.
+>> 1. Selenor looks 15 broken stone chairs.
+>> 2. First floor.
+>> 3. Andaisin seems to recognise the prison or something about the prison.
+>> 4. R = Room.
+>> 5. R1
+>> 6. R2 Teleports past haunted door.
+>> 7. R3 explores office block.
+>> 8. R4 In Warden's office. Finds Safe, it is locked.
+>> 9. R5 Changing village.
+>> 10. Selenor drills a hole into room 6 and the central hallway.
+>> 11. R6 Branding room.
+>> 12. Selenor gets branded as a prisoner.
+>> 13. Selenor deactivates the branding room for 1 day using chilling darkness (cold damage).
+>> 14. R11. Veronica Hawk.
+>> 15. Veronica wants Greywall to fix the prison.
+>> 16. Veronica says someone with Selenor's essence has visited the prison before.
+>> 17. Selenor has a vision of the warden's badge.
+>> 18. R13 Selenor feels a strange emotion, as if they have been here before.
+>> 19. R8 Selenor loots the chapel: Scroll of 4th rank restoration, Wand of 2nd Rank Heal, 5 vials of holy water.
+>> 20. That leaves Room 7 and Room 12.
+>> 21. Room 12.
+>> 22. Selenor puts the chest with the undead-cursed straitjacket into the ice realm.
+>> 23. Room 7.
+>> 24. Selenor defeats the undead manacles, gaining 5 GP of Monster Parts.
+>> 25. Room 15.
+>> 26. Selenor neutralises an elemental water shark, it seems the stones of this place echo across different planes.
+>> 27. Room 16 hallway. Selenor takes some cargo carts.
+>> 28. Room 18. Selenor puts 3x flaming skulls in the Harrow in fire-chests made by the fire dwarves.
+>> 29. Room 19. Selenor destroys Old Ember Maw.
+>> 30. Selenor reports to Veronica and Veronica asks Selenor to destroy the Doctor Spirit which Selenor then does.
+>> 31. A pair of healer’s kits
+>> 32. 3 vials of antitoxin
+>> 33. 2 vials of antiplague
+>> 34. 3 doses of bloodblock
+>> 35. 3 doses of smelling salts 
+>> 36. 2 vials of soothe syrup
+>> 37. 4 moderate healing potions.
+
+> Day 3/30. 13:30.
+>> 1. Upstairs.
+>> 2. Room 2. Kitchen. Selenor scares off a group of giant flies.
+>> 3. Pied Piper of Fogmere fight.
+>> 4. Round 3 can use pipes again.
+>> 5. Cardigan uses her once per day usage of Ghost Strike.
+>> 6. Round 7 can use pipes again.
+>> 7. Selenor beats the Pied Piper of Fogmere.
+>> 8. Selenor uses 2x vials of holy water to destroy the music on the wall of the Pied Piper's cell.
+>> 9. The Pied Piper tells Selenor that destroying the wall will cause him to become part of Selenor's soul forever.
+>> 10. 1 of 5 prisoners defeated.
+>> 11. After 30 days, the Prisoner's souls inside Selenor will be small embers, unable to mess with Selenor.
+>> 12. If Selenor dies the spirits will roam free, Selenor is the prison (warden) now!
+
+> Brother Hollow Fight.
+>> 1. Round 1.
+>> 2. Selenor restrained underwater.
+>> 3. Round 10 Selenor will start drowning.
+>> 4. Round 2.
+>> 5. Selenor is on breathing round 2/10.
+>> 6. It's Brother Hollow's turn, he succeeded in hitting Selenor with the Drown attack, Selenor did iron command, he took 1 mental damage and succeeded the recovery check.
+>> 7. So I need to apply the effects of the attack.

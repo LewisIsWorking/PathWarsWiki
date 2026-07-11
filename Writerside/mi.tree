@@ -11,6 +11,7 @@
         <toc-element topic="Spell-casting-changes.md"/>
         <toc-element topic="The-Monster-Parts-System.md"/>
     </toc-element>
+    <toc-element topic="C07-Story1-Combat-Scrapyard.md"/>
     <toc-element topic="C05-Alitheia.md"/>
     <toc-element topic="C06-Map10-Combat03-Guard-Legion-Of-The-Anti-Human-Short-Alliance.md"/>
     <toc-element topic="C06-Map10-Combat02-The-Golden-Guardian.md"/>
@@ -44,7 +45,7 @@
     <toc-element topic="Test.md"/>
     <toc-element topic="Dimitri-The-Triceratops.md"/>
     <toc-element topic="C06-Awnii-Vihn.md"/>
-    <toc-element topic="C07-Story1-TheScream.md"/>
+    <toc-element topic="C07-Story1-Lore-TheScream.md"/>
     <toc-element topic="C07-Hopeful-end-times-PBP.md"/>
     <toc-element topic="Classes-in-PathWars.md"/>
     <toc-element topic="C04-Consulting-Detective-Báyakan.md"/>
@@ -115,11 +116,11 @@
     <toc-element topic="C07-Lowda-Medina.md"/>
     <toc-element topic="C07-Miyuu.md"/>
     <toc-element topic="C07-Rune.md"/>
-    <toc-element topic="C07-Story2-TheBirnaBubble.md"/>
-    <toc-element topic="C07-Story3-Bloom.md"/>
-    <toc-element topic="C07-Story4-MonsterWheel.md"/>
-    <toc-element topic="C07-Story5-HistoricAccord.md"/>
-    <toc-element topic="C07-Story6-ShimmerStone.md"/>
+    <toc-element topic="C07-Story2-Lore-TheBirnaBubble.md"/>
+    <toc-element topic="C07-Story3-Lore-Bloom.md"/>
+    <toc-element topic="C07-Story4-Lore-MonsterWheel.md"/>
+    <toc-element topic="C07-Story5-Lore-HistoricAccord.md"/>
+    <toc-element topic="C07-Story6-Lore-ShimmerStone.md"/>
     <toc-element topic="C09-Arctus.md"/>
     <toc-element topic="C09-Chik.md"/>
     <toc-element topic="C09-Combat-Polly-&amp;-the-Spiritual-Sinkwell.md"/>

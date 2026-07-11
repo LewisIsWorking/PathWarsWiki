@@ -80,3 +80,19 @@
 >> 2. Allisee. Level 12. Exp: 548.
 >> 3. Selenor. Level 12. Exp: 953.
 >> 4. Cardigan. Level 13. Exp: 74.
+
+## Session 282.
+
+> Combat: The Pied Piper of Fogmere.
+>> 1. Monster Parts: 560 GP, medium bulk.
+>> 2. Exp:
+>> 3. Level 12 = 80 x 1 = 80. 
+>> 4. Level 13 = 60 x 1 = 60.
+
+> Characters present: Cardigan, Selenor.
+>> 1. Selenor. Level 12. Exp: 953 + 80 = 1,033.
+>> 2. Cardigan. Level 13. Exp: 74 + 60 = 134.
+
+> New totals: The Pied Piper of Fogmere.
+>> 1. Selenor. Level 12. Exp: 1,033.
+>> 2. Cardigan. Level 13. Exp: 134.

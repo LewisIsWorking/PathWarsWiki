@@ -1777,7 +1777,7 @@ Mining room.
 
 4 wooden pillars.
 
-## Session 199 = 2023 december 9th saturday + 4710 AR Erastus 26th + Gaunt-light part 10.
+## Session 199 = 2023 December 9th saturday + 4710 AR Erastus 26th + Gaunt-light part 10.
 
 Players in the VC: Laucian, Anthony, Horia, Nam, Simon.
 Back in the mist alien room.
