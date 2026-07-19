@@ -34,3 +34,46 @@ Critical Failure = 24 hours of control.
 +2 Circumstance bonus to diplomacy against undead.
 Undead will generally give the eternal warden a chance to reason with them.
 Like 1 diplomacy chance.
+
+## Void Nightmare.
+
+USES 1 CHARGE OF HARM.
+
+Nightmare
+Spell 4
+Concentrate
+Divine
+Exploration
+Illusion
+Manipulate
+Mental
+Cast 10 minutes.
+
+Range planetary; Targets 1 creature you know by name
+Defense = Will; 
+Duration = 1 day.
+
+You send disturbing nightmares to your target. 
+
+The next time the target falls asleep, it must attempt a Will save. 
+
+If you know the target only by name and have never met them, the target gets a +4 circumstance bonus to the Will save.
+
+The target experiences waking nightmares.
+
+They get the flat-footed condition.
+
+They get a –2 circumstance penalty on attacks, checks and saves for:
+- 1 round on a successful save.
+- 1 minute on a failure.
+- 10 minutes on a critical failure.
+
+If you know the target's name, the degree of success on its save is one worse than the result of its roll.
+
+Critical Success The target suffers no adverse effects and is temporarily immune for 1 week.
+
+Success The target experiences the nightmares but suffers no adverse effects other than unpleasant memories.
+
+Failure The target experiences the nightmares and awakens.
+
+Critical Failure The target experiences the nightmares, awakens Fatigued, and is until it is no longer Fatigued.

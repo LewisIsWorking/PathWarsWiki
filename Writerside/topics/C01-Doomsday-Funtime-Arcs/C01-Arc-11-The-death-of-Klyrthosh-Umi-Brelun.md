@@ -2245,8 +2245,8 @@ Xanesha killed Felaki..."
 >> 3. IRL attempted start time: 22:00.
 >> 4. IRL start time: 23:48.
 >> 5. Delay duration: 1 hours & 48 minutes.
->> 6. IRL finish time: --.
->> 7. Session duration: 23:34 -> --- = - hours & - minutes.
+>> 6. IRL finish time: 08:15am.
+>> 7. Session duration: 23:34 -> 08:15 = 8 hours & 41 minutes.
 >> 8. Players present: 3 = Horia (Selenor), Anthony (Allisee), Oscar (Carnon).
 >> 9. In-game location: Raven Grow.
 >> 10. Raven Grow Day 3/30.
@@ -2313,3 +2313,36 @@ Xanesha killed Felaki..."
 >> 5. Selenor is on breathing round 2/10.
 >> 6. It's Brother Hollow's turn, he succeeded in hitting Selenor with the Drown attack, Selenor did iron command, he took 1 mental damage and succeeded the recovery check.
 >> 7. So I need to apply the effects of the attack.
+>> 8. Round 3.
+>> 9. Brother Hollow.
+>> 10. Round 4.
+>> 11. Cardigan has 9 rounds of air.
+>> 12. Round 5.
+>> 13. Selenor uses Void Nightmare.
+>> 14. Selenor has 1 HARM per day left.
+>> 15. Round 6.
+>> 16. Selenor almost-completely convinces Brother Hollow to stand down.
+>> 17. Brother Hollow surrenders against Selenor.
+
+## Session 283.
+
+> Arc-11 part 14
+>> 1. Session 283.
+>> 2. 2026 July 19th Friday + 4710 AR, Rova 13th (Toilday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 02:19.
+>> 5. Delay duration: 4 hours & 19 minutes.
+>> 6. IRL finish time: --:--am.
+>> 7. Session duration: 02:19 -> --:-- = hours & minutes.
+>> 8. Players present: 4 = Horia (Selenor), Lucky (Barbet Gorebag), Dal (Katmidlar).
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 3/30.
+>> 11. In-game time: 12:30pm.
+>> 12. ^ This is Lucky and Dal's first session.
+
+> Day 3/30. 14:00.
+>> 1. Barbet GoreBag introduced: 1 gimmick, a big orc, massive orc assassin. 
+>> 2. Katmidlar was an executioner, and now he is a pretend doctor.
+>> 3. Monster Parts of Brother Hollow. 560 GP.
+>> 4. Father Hollow wanders Selenor's soul-mind prison, seeing the Pied Piper getting tortured, whereras Hollow laughs, enjoying the scene.
+>> 5. Selenor tells Veronica about their progress.

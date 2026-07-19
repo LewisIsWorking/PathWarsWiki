@@ -22,6 +22,29 @@
 >> 1. 
 
 > Round 1: Unacted Enemies.
->> 1. 
+>> 1.
+
 > Round 1: Acted Enemies.
 >> 1. 
+
+## Round 2.
+
+> Round 2: Unacted Allies.
+>> 1. Chua DataFang @Ravnos1
+>> 2. Roneles @Nemesiux
+>> 3. Rune @RyoYamakawa
+
+> Round 2: Acted Allies.
+>> 1. ★ Super idol livy ★ @MrNegetZ
+
+> Round 2: Ally turns.
+>> 1. Livy sustains anthem. 
+>> 2. Livy boosts her boom pistol.
+>> 3. Livy shoots the slime with her BOOM PISTOL. "YAAAAAAY!!!!"
+
+> Round 2: Unacted Enemies.
+>> 1.
+
+> Round 2: Acted Enemies.
+>> 1.
+ 
