@@ -176,3 +176,17 @@
 >> 19. A3 Reload.
 >> 20. The Red Flame strides towards the 2nd legion with his free action.
 >> 21. END OF TAL'LYSAE'S TURN.
+
+## Round 3.
+
+> Round 3: Unacted Allies.
+>> 1. N/A
+
+> Round 3: Acted Allies.
+>> 1. 1st = Tal'Lysae @PathWars.
+>> 2. 2nd = Ji Yun @Thien_Ming.
+>> 3. 3rd = Fierce Leopard @RyoYamakawa.
+>> 4. 4th = Lorn @Nemesiux.
+>> 5. 5th = Master Cho Kobo @Ravnos1.
+>> 6. 6th = Daichi Kenshin @MrNegetZ. 3 actions to stride.
+>> 7. 7th = Tarsus LongStaff @buffetraider. Stride + Thunder Strike.

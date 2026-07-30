@@ -2332,9 +2332,9 @@ Xanesha killed Felaki..."
 >> 3. IRL attempted start time: 22:00.
 >> 4. IRL start time: 02:19.
 >> 5. Delay duration: 4 hours & 19 minutes.
->> 6. IRL finish time: --:--am.
->> 7. Session duration: 02:19 -> --:-- = hours & minutes.
->> 8. Players present: 4 = Horia (Selenor), Lucky (Barbet Gorebag), Dal (Katmidlar).
+>> 6. IRL finish time: 05:19am.
+>> 7. Session duration: 02:19 -> 05:19 = 3 hours & 0 minutes.
+>> 8. Players present: 3 = Horia (Selenor), Lucky (Barbet Gorebag), Dal (Katmidlar).
 >> 9. In-game location: Raven Grow.
 >> 10. Raven Grow Day 3/30.
 >> 11. In-game time: 12:30pm.
@@ -2344,5 +2344,19 @@ Xanesha killed Felaki..."
 >> 1. Barbet GoreBag introduced: 1 gimmick, a big orc, massive orc assassin. 
 >> 2. Katmidlar was an executioner, and now he is a pretend doctor.
 >> 3. Monster Parts of Brother Hollow. 560 GP.
->> 4. Father Hollow wanders Selenor's soul-mind prison, seeing the Pied Piper getting tortured, whereras Hollow laughs, enjoying the scene.
->> 5. Selenor tells Veronica about their progress.
+>> 4. Cardigan does a prayer and purifies the chains of Father Hollow, destroying his soul anchor.
+
+> Day 3/30. 14:30.
+>> 1. Father Hollow wanders Selenor's soul-mind prison, seeing the Pied Piper getting tortured, whereas Hollow laughs, enjoying the scene.
+>> 2. Selenor tells Veronica about their progress.
+>> 3. Selenor says the party are going to go bak
+>> 4. Monster part total in party stash: 64 + 5 + 560 + 560 + 525 + 30 + 60 + 30 = 1,834 GP.
+>> 5. Selenor needs 4,000 GP to make a new +2 Greater Striking Weapon.
+>> 6. Father Hollow surrendered to Selenor because of several things:
+>> 7. 1: Father Hollow was losing, at about 65% HP.
+>> 8. 2: Selenor made a good argument that to best serve the Shark Emperor (Elemental Lord of Water), Father Hollow should work for Selenor by killing Daemons and conquering their worlds.
+>> 9. 3: Selenor promises to bind him as a servant.
+>> 10. 4: Katmidlar did a 92 damage attack, brining Father Hollow to under 15% HP.
+>> 11. Veronica tells Selenor that he has relatively plenty of time as the spirits of Greywalls won't be able to break out for another 27 days.
+>> 12. Selenor brings the group (including his new companions) back to the town of RavenGrow.
+>> 13. 

@@ -33,4 +33,4 @@
 
 ## Post history.
 
-- [TODO: date + posted message link].
+- 2026-07-30. [https://discord.com/channels/260066959238889472/1532290382719619222](https://discord.com/channels/260066959238889472/1532290382719619222).
