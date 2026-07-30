@@ -7,7 +7,8 @@
 >> 3. Open Slots: 4.
 >> 4. Time & Frequency: constant but slow (play by post).
 >> 5. Campaign Description: A crew aboard the starship Stargazer, captured by pirates and shaken by "the Scream," fights free and makes for Metal City. The same group plays on through Murder in Metal City and beyond.
->> 6. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
+>> 6. This campaign is relaunching. Two players are staying on and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
+>> 7. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
 
 > Where does the group play?
 >> 1. The Platform the group rolls on is Foundry, you do not need to buy anything; I will help you get set up, and it is totally free for players.
