@@ -190,3 +190,71 @@
 >> 5. 5th = Master Cho Kobo @Ravnos1.
 >> 6. 6th = Daichi Kenshin @MrNegetZ. 3 actions to stride.
 >> 7. 7th = Tarsus LongStaff @buffetraider. Stride + Thunder Strike.
+
+> Round 3: Acted Enemies.
+>> 1. [] NOT LOGGED. Fill in from the PBP topic if it is still scrollable.
+
+## Round 4.
+
+> Round 4: Unacted Allies.
+>> 1. None. N/A.
+
+> Round 4: Acted Allies.
+>> 1. 1st = Fierce Leopard @RyoYamakawa. Stride x3.
+>> 2. 2nd = Daichi Kenshin @MrNegetZ. Stride x3.
+>> 3. 3rd = Lorn @Nemesiux. Stride x3.
+>> 4. 4th = Tarsus LongStaff @buffetraider. Stride x3.
+>> 5. 5th = Ji Yun @Thien_Ming. Cancel eidolon then stride.
+>> 6. 6th = Tal'Lysae @PathWars. Stride x3. Blood Elemental strides x1.
+>> 7. 7th = Master Cho Kobo @Ravnos1. Moved 120 feet closer, following the party.
+
+> Round 4: Ally Turns.
+>> 1. This is a pursuit round. The gnomes have opened the range and every ally spends the round closing it.
+>> 2. Anthony suggested Snipe for Tal'Lysae. Horia called Hunter's Aim then Shoot for Lorn.
+>> 3. Anthony pointed out the targets are not visible, and that Hunt Prey has to come first.
+>> 4. Lorn has 30 speed.
+>> 5. 2 strides from Lorn was not enough to bring the gnomes into view.
+>> 6. So Lorn instead went 90 feet up from his original position.
+>> 7. Ji Yun is at 3/50 HP.
+>> 8. Ji Yun passed the recovery check and is no longer taking persistent acid damage.
+>> 9. Ji Yun cancels the eidolon to free up movement.
+>> 10. Tarsus runs after the trifling gnomes.
+>> 11. Master Cho Kobo's player could not unpause on tablet or phone, so the move was made for him.
+>> 12. END OF THE ALLIES'S TURNS OF ROUND 4.
+
+> Round 4: Acted Enemies.
+>> 1. Wide [The Gnome Paradise Magi-Tech Alchemist].
+>> 2. A1 Feint vs Fierce Leopard. Value of 25 beats a DC of 23.
+>> 3. Fierce Leopard is flat footed against the next attack.
+>> 4. A2 Rapier strike vs Fierce Leopard. 24 vs AC 23. Hits.
+>> 5. Fierce Leopard takes 21 damage.
+>> 6. Critical success against the rapier's poison, Fierce Leopard is not poisoned.
+>> 7. Flat footed removed.
+>> 8. A3 Another rapier strike. NATURAL 1.
+>> 9. Fumble: Pulled muscle. Until healed, Wide is Enfeebled 2.
+>> 10. END OF WIDE'S TURN.
+>> 11. Narrow.
+>> 12. A1 Bomb vs Fierce Leopard. NATURAL 1. Two natural 1s in a row across both gnomes.
+>> 13. Fumble: Overcompensate. Cover provides a +4 circumstance bonus to AC against Narrow's ranged attacks for 1 minute.
+>> 14. A2 Acid Flask vs Fierce Leopard. Hit.
+>> 15. Fierce Leopard takes 11 damage + 2d6 + 2 persistent acid.
+>> 16. Daichi Kenshin takes 4 splash damage.
+>> 17. The acid is also poisoned. Fierce Leopard critically succeeds against the poison.
+>> 18. A3 Alchemist's fire vs Fierce Leopard. 28, hits.
+>> 19. Fierce Leopard takes 12 damage + 4 persistent fire. Fierce resisted 5 fire.
+>> 20. Daichi Kenshin takes 4 splash damage.
+>> 21. END OF NARROW'S TURN.
+>> 22. END OF ROUND 4: ENEMIES.
+
+> Round 4: Rules discussion (unresolved, moved to Kibwe Chat).
+>> 1. Anthony argued Overcompensate's +4 should also interact with lesser cover, since any non-tiny creature in the way grants lesser cover, and Wide is between Narrow and the Leopard.
+>> 2. GM position: Wide is 3 or 4 foot tall and Fierce Leopard is significantly bigger, and Narrow aims for the head.
+>> 3. Not settled in the PBP topic. Continued in Kibwe Chat.
+
+## Round 5.
+
+> Round 5: Unacted Allies.
+>> 1. TBC.
+
+> Round 5: Acted Allies.
+>> 1. 1st = Fierce Leopard @RyoYamakawa. Wide takes 28 damage.
