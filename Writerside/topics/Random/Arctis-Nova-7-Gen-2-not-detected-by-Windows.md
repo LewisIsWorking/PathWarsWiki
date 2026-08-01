@@ -1,4 +1,7 @@
-# Windows not detecting a USB headset
+# Arctis Nova 7 Gen 2 not detected by Windows
+
+Written for a SteelSeries Arctis Nova 7 Gen 2, but nothing below is specific to it. The same
+diagnosis applies to any USB or wireless headset that its vendor app can see and Windows cannot.
 
 > The short version.
 >> If your headset shows up in its own vendor app (SteelSeries GG, iCUE, Logitech G Hub) but

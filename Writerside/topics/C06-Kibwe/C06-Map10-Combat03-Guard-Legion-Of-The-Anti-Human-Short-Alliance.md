@@ -272,7 +272,7 @@
 >> 5. END OF TAL'LYSAE'S TURN.
 
 > Round 5: OPEN ITEMS.
->> 1. [] Fierce Leopard's persistent damage was not rolled at the end of his turn.
+>> 1. [X] Fierce Leopard's persistent damage was not rolled at the end of his turn.
 >> 2. He is carrying 2d6 + 2 persistent acid and 4 persistent fire from Narrow's Round 4 turn.
 >> 3. He resists 5 fire, so the 4 persistent fire should be fully resisted each tick.
 >> 4. Two flat DC 15 recovery checks are also owed.
