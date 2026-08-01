@@ -2359,4 +2359,307 @@ Xanesha killed Felaki..."
 >> 10. 4: Katmidlar did a 92 damage attack, brining Father Hollow to under 15% HP.
 >> 11. Veronica tells Selenor that he has relatively plenty of time as the spirits of Greywalls won't be able to break out for another 27 days.
 >> 12. Selenor brings the group (including his new companions) back to the town of RavenGrow.
->> 13. 
+
+> Session 283 PBP.
+>> 1. [20/07/2026 12:49] Fuzzy in reply to Path Wars:
+      > The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+      In the outskirts of ravenGrow, right next to a large tree, there's what looks like a helmet covering a bright lamp.
+
+It's incredibly hard to miss.
+[20/07/2026 19:16] Path Wars in reply to Fuzzy:
+> ‎⁨In the outskirts of ravenGrow, right next to a large tree,...
+The group are travelling near the helmet on the road.
+[20/07/2026 19:57] Path Wars in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Cardigan:
+
+"Is that a helmet with glowsticks inside?"
+[20/07/2026 19:58] Path Wars in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Cardigan:
+
+"So... We gonna check it out?"
+[20/07/2026 19:58] Path Wars in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Cardigan:
+
+"Because personally, I'd quite like to wear that helmet..."
+[20/07/2026 20:00] Path Wars in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Cardigan:
+
+"Also, I'm glad the new fodder stopped us from drowning, Selenor."
+[20/07/2026 20:37] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Selenor says "Yes I am grateful for their aid."
+[20/07/2026 20:47] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+As Cardigan approaches the helmet, the light coming from under it glows more intensely, and it starts shaking slightly.
+[22/07/2026 10:27] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Fuzzy:
+> ‎⁨As Cardigan approaches the helmet,...
+Selenor jumps in front of Cardigan readying his shield
+[23/07/2026 11:21] Dalaxiss in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Katmidlar stays few steps back, in one hand holding his axe, while in the other he holds one of his elixirs of life, remembering that Cardigan left the last fight somewhat hurt, unsure what to do, so he just waits and observes.
+[23/07/2026 11:22] Fuzzy in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨Selenor jumps in front of Cardigan readying his shield⁩
+Very faintly, as selenor approaches with their shield, a voice comes out of the helmet.
+
+"Please dig me out. I sense chaos and I must address it."
+[23/07/2026 11:22] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+The dirt-muffled voice sounds calm, but stern and formal.
+[23/07/2026 11:23] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Selenor raises an eyebrow then proceeds to  turn truthteller into a truthshovel and starts digging
+[23/07/2026 11:26] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+As you start digging, you realize that the helmet calling for help has an entire metallic body attached to them.
+[25/07/2026 05:26] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Selenor digs more?
+[25/07/2026 08:22] PathWarsNudge in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+📋 Unreplied: 9
+↗ Horia · 🟨 4d 11h · https://t.me/Path_Wars/25059/168196
+↗ Fuzzy · 🟨 4d 11h · https://t.me/Path_Wars/25059/168197
+↗ Horia · 🟩 2d 21h · https://t.me/Path_Wars/25059/168272
+↗ Dalaxiss · 🟢 1d 21h · https://t.me/Path_Wars/25059/168311
+↗ Fuzzy · 🟢 1d 21h · https://t.me/Path_Wars/25059/168312
+↗ Fuzzy · 🟢 1d 21h · https://t.me/Path_Wars/25059/168313
+↗ Horia · 🟢 1d 20h · https://t.me/Path_Wars/25059/168314
+↗ Fuzzy · 🟢 1d 20h · https://t.me/Path_Wars/25059/168315
+↗ Horia · 🌱 2h · https://t.me/Path_Wars/25059/168443
+[27/07/2026 10:54] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨Selenor says "Yes I am grateful for their aid."⁩
+Cardigan looks at the new fodder:
+
+"So why were you there again?"
+[27/07/2026 10:54] Path Wars in reply to Fuzzy:
+> ‎⁨As Cardigan approaches the helmet,...
+Cardigan raises her shield saying:
+
+"Well that can only be a good thing..."
+[27/07/2026 10:55] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨Selenor jumps in front of Cardigan readying his shield⁩
+Cardigan:
+
+"Thanks Selenor, I'll heal you whenever the helmet blows your head open."
+[27/07/2026 10:55] Path Wars in reply to Dalaxiss:
+> ‎⁨Katmidlar stays few steps back, in one hand holding his axe,...
+Cardigan:
+
+"Fodder, get in here!"
+[27/07/2026 10:56] Path Wars in reply to Fuzzy:
+> ‎⁨Very faintly, as selenor approaches with their shield,...
+Cardigan says slightly quieter:
+
+"Chaos?
+Do you think the helmet is talking about us?"
+[27/07/2026 10:56] Path Wars in reply to Fuzzy:
+> ‎⁨The dirt-muffled voice sounds calm, but stern and formal.⁩
+Cardigan:
+
+"Well, the worst case scenario is more monster parts..."
+[27/07/2026 10:57] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨Selenor raises an eyebrow then proceeds to  turn truthteller...
+Cardigan assists, using her ghoul claw.
+[27/07/2026 10:57] Path Wars in reply to Fuzzy:
+> ‎⁨As you start digging, you realize that the helmet calling for...
+Cardigan, very delayed:
+
+"Selenor, this is a metal statue!"
+[27/07/2026 10:57] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨Selenor digs more?⁩
+Cardigan assists, also digging more.
+[27/07/2026 11:03] Path Wars in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+@Nemesiux
+
+Crafting/Survival check to dig for 10 minutes?
+[27/07/2026 11:28] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+my brother in Christ I am digging dirt
+[27/07/2026 11:28] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+why would I need a check?
+[27/07/2026 12:11] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨my brother in Christ I am digging dirt⁩
+Fair point, I just meant more for how long it takes as you don't have much beyond a shovel.
+[27/07/2026 12:12] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨why would I need a check?⁩
+Digging is very slow and labour intensive.
+[27/07/2026 12:12] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨why would I need a check?⁩
+But it's fair enough.
+
+I'll say you spend 20 minutes with Cardigan and unbury Fuzzy
+[27/07/2026 12:48] Fuzzy in reply to Path Wars:
+> ‎⁨But it's fair enough.   I'll say you spend 20 minutes with...
+Can I attempt to aid using my athletics? (Master+assurance=guaranteed 27)
+[27/07/2026 12:50] Horia/Mike/Michael/Nem (Selenor) [Pathfinder] in reply to Path Wars:
+> ‎⁨Digging is very slow and labour intensive.⁩
+so is fighting world ending monsters
+[27/07/2026 13:02] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Well, by the time that the dirt is at my waist instead of my neck, I climb out of the pit.
+[27/07/2026 13:03] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+This reveals my oxidized bronze body for everyone to see.
+[27/07/2026 13:06] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+My right arm is bulky and oversized, while my left is quite skinny. At my center, there's a bulb glowing a faint light similar to that on my face.
+
+And overall, I'm built like a dwarf, if only somewhat scaled up.
+[27/07/2026 15:18] Path Wars in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+/markdone https://t.me/Path_Wars/25059/168734
+[27/07/2026 15:18] Path Wars in reply to Fuzzy:
+> ‎⁨Can I attempt to aid using my athletics?...
+Absolutely.
+[27/07/2026 15:18] Path Wars in reply to Horia/Mike/Michael/Nem (Selenor) [Pathfinder]:
+> ‎⁨so is fighting world ending monsters⁩
+Selenor and Cardigan have more experience with that lol.
+[27/07/2026 15:19] Path Wars in reply to Fuzzy:
+> ‎⁨Well, by the time that the dirt is at my waist instead of my...
+You climb out of the pit, Cardigan, still weary and always down to bash in skulls have her battle axe and shield at the ready!
+[27/07/2026 15:20] Path Wars in reply to Fuzzy:
+> ‎⁨This reveals my oxidized bronze body for everyone to see.⁩
+Cardigan:
+
+"Ooooh bronze"
+[27/07/2026 15:20] Path Wars in reply to Fuzzy:
+> ‎⁨My right arm is bulky and oversized,...
+Cardigan:
+
+"So, a buried robot?
+What's up with that?
+What's up with YOU?"
+[27/07/2026 15:27] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+I am a human-forged emissary of the city of Axis, and of the plane of Order as a whole.
+[27/07/2026 15:28] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Whenever I sense excess in chaos, I become active. Once the chaos is addressed, I leave, and then shut down.
+[27/07/2026 15:28] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+However, this is the first time that nature overtook my body this thoroughly.
+[27/07/2026 15:29] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+It must have been a very long stretch of time since I was last needed.
+[27/07/2026 15:32] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Even during a 100 year slumber, I usually am covered by light roots and foliage, at most.
+[27/07/2026 15:38] Path Wars in reply to Fuzzy:
+> ‎⁨I am a human-forged emissary of the city of Axis,...
+Cardigan:
+
+"I'm Cardigan.
+I'm a gnome."
+
+Cardigan does not appear to be a gnome, and instead some kind of flesh warped tiefling.
+[27/07/2026 15:42] Path Wars in reply to Fuzzy:
+> ‎⁨Whenever I sense excess in chaos, I become active....
+Cardigan immediately starts to grin, a wickedly sharp teethed grin.
+[27/07/2026 15:44] Path Wars in reply to Fuzzy:
+> ‎⁨However, this is the first time that nature overtook my body...
+Cardigan, still smiling:
+
+"Well...
+Uh, the world is uh, yeah.
+...
+You could say it's been very chaotic...
+And it's going to get more chaotic..."
+[27/07/2026 15:44] Path Wars in reply to Fuzzy:
+> ‎⁨It must have been a very long stretch of time since I was last...
+Cardigan:
+"Well, we could use some anti chaos.
+Maybe some anti-neural evil whilst you're at it....?"
+[27/07/2026 15:45] Path Wars in reply to Fuzzy:
+> ‎⁨Even during a 100 year slumber,...
+Cardigan:
+"The root of the issue is the foliage of man..."
+[27/07/2026 15:51] Dalaxiss in reply to Fuzzy:
+> ‎⁨Even during a 100 year slumber,...
+Listening to this conversation, Katmidlar offers the construct one of his versatile vials.
+"Here, it is acidic. If you want to clean off the oxidization and plants and whatnot."
+[27/07/2026 16:47] PathWarsNudge in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+✅ Cleared message 168734 from Doomsday Funtime queue.
+[27/07/2026 20:30] Path Wars in reply to Dalaxiss:
+> ‎⁨Listening to this conversation,...
+Cardigan:
+
+"I'm a medicy kinda person if you also want some medicine-y attention."
+
+Cardigan draws a bone saw.
+[27/07/2026 22:37] Fuzzy in reply to Dalaxiss:
+> ‎⁨Listening to this conversation,...
+Thank you, but I have my personal mix.
+
+Although I'd appreciate if you could assist me after I'm done cleaning my exoskeleton. I need someone to apply the chemicals onto my back to blacken my finish once more.
+[28/07/2026 03:27] Path Wars in reply to Fuzzy:
+> ‎⁨Thank you, but I have my personal mix....
+Cardigan:
+
+"SO, you are a chaos slaying golem?
+Could we like, learn a bit more about you?
+Cause while I don't think we have a problem with you... You could be kinda insane."
+[28/07/2026 17:22] Fuzzy in reply to Path Wars:
+> ‎⁨Cardigan:  "SO, you are a chaos slaying golem?...
+I fight excessive outbreaks of chaos, the ones that can cause harm to the balance. Otherwise, I have permission to act at my own discretion and to pursue my own goals.
+[28/07/2026 17:23] Fuzzy in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+Well... As long as I don't make the chaos worse.
+[30/07/2026 02:28] Path Wars in reply to Fuzzy:
+> ‎⁨I fight excessive outbreaks of chaos,...
+Cardigan:
+
+"Uh, we made a law golem not that long ago"
+
+Cardigan looks at Allisee @MrNegetZ.
+[30/07/2026 02:28] Path Wars in reply to Fuzzy:
+> ‎⁨I fight excessive outbreaks of chaos,...
+Cardigan:
+
+"Who made you?"
+[30/07/2026 02:29] Path Wars in reply to Fuzzy:
+> ‎⁨Well... As long as I don't make the chaos worse.⁩
+Cardigan:
+
+"Well, you should come with us...
+
+Would you fight to the death to destroy CHAOS?"
+[31/07/2026 04:24] Fuzzy in reply to Path Wars:
+> ‎⁨Cardigan:  "Well, you should come with us......
+If necessary.
+[31/07/2026 22:54] Path Wars in reply to Fuzzy:
+> ‎⁨If necessary.⁩
+Cardigan:
+
+"Hmmmm."
+[31/07/2026 23:11] PathWarsNudge in reply to Path Wars:
+> The topic "@ ‎⁨DF PBP Outer Planes⁩ (https://t.me/c/1661053273/25059)" was created
+📋 All caught up. Time for players to post!
+Horia Constantinescu (@Nemesiux) Anthony NegetZ (@MrNegetZ) Moss (@Mossssssssssssssssssssssssss) Jay Fuzzy (@fuzzystudios) Dalaxiss Ryo Yamakawa (@RyoYamakawa)
+
+## Session 284.
+
+> Arc-11 part 15
+>> 1. Session 284.
+>> 2. 2026 August 1st Saturday + 4710 AR, Rova 13th (Toilday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 00:03.
+>> 5. Delay duration: 2 hours & 3 minutes.
+>> 6. IRL finish time: :am.
+>> 7. Session duration: 00:03 -> : = x hours & x minutes.
+>> 8. Players present: 3 = Horia (playing Selenor), Lucky (playing Barbet Gorebag), Dal (playing Katmidlar), Oscar (playing Carnon), PJ (playing Baylan Hilom), Fuzzy (playing Warden) & Theaitetos (playing Melody).
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 3/30.
+>> 11. In-game time: 15:30pm.
+>> 12. ^ This is PJ, Fuzzy and Theaitetos's first session.
+
+> Day 3/30. 15:30.
+>> 1. Carnon is "irrigating" with his leshies.
+>> 2. Carigan gets Carnon from his room in the Harrow tower (striding fortress).
+>> 3. 

@@ -4,6 +4,7 @@
 >> - The Sandpoint charter is a magical contract.
 >> - You cannot attack Keleri Devrin or Eliza Tammerhawk.
 >> - You cannot attack citizens of the town of Sandpoint.
+>> - The contract can let Keleri or Eliza stop someone who is possessed.
 
 ## The Heroes of Sandpoint charter.
 
@@ -38,3 +39,4 @@
 >> 28. Elinoa.
 >> 29. Sestina "The Bannerwitch".
 >> 30. Landon.
+>> 31. 
