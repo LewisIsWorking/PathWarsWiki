@@ -2662,4 +2662,11 @@ Horia Constantinescu (@Nemesiux) Anthony NegetZ (@MrNegetZ) Moss (@Mosssssssssss
 > Day 3/30. 15:30.
 >> 1. Carnon is "irrigating" with his leshies.
 >> 2. Carigan gets Carnon from his room in the Harrow tower (striding fortress).
->> 3. 
+
+> Day 3/30. 16:00.
+>> 1. Keleri disappears into the ground to go have the location based contract made.
+>> 2. Keleri says she will be back in 2 hours.
+>> 3. Katmidlar, Barbet and Warden discuss signing the Sandpoint Charter.
+>> 4. Barbet gets to the laughing demon first and Barbet sits in a corner.
+>> 5. The party walk to the Laughing Demon.
+>> 6. Selenor and Cardigan go into a broom closet.

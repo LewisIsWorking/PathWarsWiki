@@ -5,6 +5,7 @@
 >> - You cannot attack Keleri Devrin or Eliza Tammerhawk.
 >> - You cannot attack citizens of the town of Sandpoint.
 >> - The contract can let Keleri or Eliza stop someone who is possessed.
+>> - The contract expires in 9 years at the year 4719 AR (current year 4710 AR).
 
 ## The Heroes of Sandpoint charter.
 
@@ -40,3 +41,16 @@
 >> 29. Sestina "The Bannerwitch".
 >> 30. Landon.
 >> 31. 
+
+## The Mini Sandpoint Charter: Location based minor contract.
+
+> Rules.
+>> 1. Can't leave Ustalav until 27 days have passed. Exceptions include: The Harrow. Further exceptions can be made by Carnon, Keleri & Eliza Tammerhawk.
+>> 2. Carnon can make exceptions but is a lesser master.
+>> 3. This contract is written in plain language.
+
+> Mini Charter:
+>> 1. Katmidlar (session 284).
+>> 2. Warden (session 284).
+>> 3. Princess Melody (session 284).
+>> 4. Baylan Hilom (session 284).
