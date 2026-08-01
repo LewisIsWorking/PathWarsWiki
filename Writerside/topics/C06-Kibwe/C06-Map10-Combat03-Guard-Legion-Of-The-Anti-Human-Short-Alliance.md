@@ -254,7 +254,26 @@
 ## Round 5.
 
 > Round 5: Unacted Allies.
->> 1. TBC.
+>> 1. Ji Yun @Thien_Ming.
+>> 2. Lorn @Nemesiux.
+>> 3. Master Cho Kobo @Ravnos1.
+>> 4. Tarsus LongStaff @buffetraider.
+>> 5. Daichi Kenshin @MrNegetZ.
 
 > Round 5: Acted Allies.
->> 1. 1st = Fierce Leopard @RyoYamakawa. Wide takes 28 damage.
+>> 1. 1st = Fierce Leopard @RyoYamakawa. Wide takes 28 + 31 + 30 = 89 damage.
+>> 2. 2nd = Tal'Lysae @PathWars. Stride x3. Red-flame elemental strides x1.
+
+> Round 5: Ally Turns.
+>> 1. Fierce Leopard reaches Wide and lands three hits: 28, then 31, then 30.
+>> 2. Wide [The Gnome Paradise Magi-Tech Alchemist] takes 89 damage in a single turn.
+>> 3. Wide was already Enfeebled 2 from the natural 1 pulled muscle in Round 4.
+>> 4. Tal'Lysae strides x3. Her red-flame elemental strides x1.
+>> 5. END OF TAL'LYSAE'S TURN.
+
+> Round 5: OPEN ITEMS.
+>> 1. [] Fierce Leopard's persistent damage was not rolled at the end of his turn.
+>> 2. He is carrying 2d6 + 2 persistent acid and 4 persistent fire from Narrow's Round 4 turn.
+>> 3. He resists 5 fire, so the 4 persistent fire should be fully resisted each tick.
+>> 4. Two flat DC 15 recovery checks are also owed.
+>> 5. [] Ji Yun is at 3/50 HP going into his Round 5 turn. One splash hit kills him.
