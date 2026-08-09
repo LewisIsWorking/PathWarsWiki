@@ -118,54 +118,197 @@ Card text on this page checked against the card database on 2026-08-09.
 >> - Detach 1 -> gains 2000 ATK, but only it may attack this turn.
 >> - Attacks up to materials +1 times per Battle Phase. This is your actual kill.
 
-## How the lines run.
+## Combos.
 
-These follow directly from the card text above. They are not copied from a tournament combo guide,
-so treat them as the shape of the deck rather than as an optimised list.
+Every step below was checked against card text. Where a line depends on a card only one of the two
+reference builds plays, it is tagged AMELIA BUILD or YUKINON BUILD. Both are listed in the deck
+variants section further down.
 
-> Opening for rank 10. Do not touch Smiger.
->> 1. Night Train Blue Traveler, discard -> search Revolving Switchyard.
->> 2. Activate Switchyard.
->> 3. Summon any level 10 EARTH machine.
->> 4. Switchyard effect B -> summon Flying Pegasus Railroad Stampede from deck, it becomes level 10.
->> 5. Two level 10 monsters -> Xyz into Gustav Max.
->> 6. REMEMBER: effect B means your opponent takes no battle damage this turn.
+> How to read these.
+>> - Each route is named after the card you OPEN with.
+>> - "Locks Synchro" means Machine Synchro only for the turn. No Xyz, no Link.
+>> - "Locks Machine" means Machine monsters only. Xyz and Link are still legal.
+>> - Decide which lock you are accepting on your FIRST activation. See the lock section above.
 
-> Opening for disruption instead.
->> 1. Crystron Inclusion -> search a Crystron piece.
->> 2. Smiger -> destroy a face-up card you control -> summon a Crystron Tuner from deck.
->> 3. You are now locked to Machine Synchro. No Xyz this turn. Accept it.
->> 4. Set up Synchros, keep Tristaros in hand for your opponent's turn.
->> 5. Smiger from GY -> banish -> add Crystron Cluster.
+### Starter quality.
 
-> The Diagram Token trick.
->> 1. Exceptional Schedule -> add Urgent Schedule.
->> 2. Give your opponent the level 10 / 3000 Diagram Token.
->> 3. They now control more monsters than you, which is Urgent Schedule's activation condition.
->> 4. Urgent Schedule -> summon a level 4 or lower and a level 5 or higher EARTH machine from deck.
->> 5. You cannot attack with non-machines this turn. In this deck that costs you nothing.
+> Starts on its own.
+>> - Crystron Inclusion. The best one. Searches any Crystron, and is itself a Crystron card on the field.
+>> - Exceptional Schedule. Searches, and manufactures Urgent Schedule's activation condition.
+>> - Night Train Blue Traveler. Searches Switchyard, and its GY revive is two bodies.
+>> - Crystron Smiger. One body into a Tuner from deck, but locks you out of Xyz.
 
-> Closing with Babeldecker on turn 2.
->> 1. Your opponent activated something on their turn, so Babeldecker's condition is live.
->> 2. Normal summon Babeldecker without tributing.
->> 3. On summon -> special summon an EARTH machine from hand.
->> 4. Babeldecker alone -> Xyz into a rank 10 EARTH machine.
->> 5. Rank 10 -> Juggernaut Liebe using it as material, transferring materials.
->> 6. Detach for +2000 ATK and multiple attacks.
+> Needs a partner. Do not count these as starters.
+>> - Scrap Recycler. Mills brilliantly but cannot convert a mill into a board by itself. See below.
+>> - Crystron Sulfador. Needs a Crystron CARD already on your field to destroy.
+>> - Crystron Sulfefnir. Needs a second Crystron card in hand to discard.
+>> - Heavy Armored Knight Babeldecker. Needs an EARTH machine in hand, and its Xyz effect needs
+>>   your opponent to have activated something, so it is a turn 2 card.
+>> - Urgent Schedule. Needs your opponent to control more monsters than you.
+>> - Revolving Switchyard. On its own it is one search.
 
-## The current build.
+### Route 1: Crystron Inclusion.
 
-> Roughly what the lists look like.
->> - Trains: 3 Night Train Blue Traveler, 3 Scrap Recycler, 1 Derricrane, 1 Babeldecker, 1 Flying Pegasus.
->> - Spells: 3 Exceptional Schedule, 2 Urgent Schedule, 1 Revolving Switchyard.
->> - Crystron: 3 Inclusion, 2 Sulfador, 2 Sulfefnir, 1 Tristaros, 1 Citree, 1 Smiger, 1 Thystvern, 1 Cluster.
->> - Hand traps and interaction: Ash, Maxx "C", Droll, Mulcharmy Fuwalos, Forbidden Droplet, Triple Tactics Talent.
->> - Extra deck: the five Rail Cannons, Eleskeletus x2, Quariongandrax, plus machine Links.
+The flagship one-card line. Nothing here is optional until step 6.
 
-> Things the deck does NOT play, despite what you might expect.
+> Steps.
+>> 1. Activate Crystron Inclusion -> add Crystron Sulfador from deck.
+>> 2. Sulfador, from hand: target Crystron Inclusion, the Crystron card you control -> destroy it -> summon Sulfador.
+>> 3. ^ Locks Machine. Xyz is still legal. Destroying your own Inclusion is the POINT, not a cost.
+>> 4. Sulfador on summon: send 2 differently named Crystron cards from deck to GY -> send Tristaros and Sulfefnir.
+>> 5. Inclusion is now in your GY. Banish it -> revive Crystron Tristaros.
+>> 6. Sulfador (5) + Tristaros (2) = level 7 -> Synchro summon Crystron Eleskeletus.
+>> 7. Eleskeletus on summon: add 1 Crystron card from GY or banishment -> take Inclusion back for next turn.
+>> 8. Tristaros is in the GY as used material. Banish it -> destroy Eleskeletus -> summon 2 Crystrons from deck.
+>> 9. Eleskeletus destroyed -> its float summons another Crystron from GY or banishment.
+>> 10. You now hold three Crystron bodies and have not used your normal summon.
+
+> Why it works.
+>> - Inclusion is a Continuous SPELL, so it counts as "1 Crystron card you control" for Sulfador.
+>> - Every destruction in this line is your own card, and each one turns on a float or a GY effect.
+
+### Route 2: Night Train Blue Traveler.
+
+> Steps.
+>> 1. Discard Night Train Blue Traveler -> add Revolving Switchyard from deck.
+>> 2. Activate Switchyard. Do NOT use a Switchyard effect yet, you only get one.
+>> 3. Get a second EARTH machine into the GY. Normal summon Scrap Recycler -> send Derricrane to GY.
+>> 4. Blue Traveler from GY: target Derricrane -> summon BOTH. Locks Machine, Xyz still legal.
+>> 5. ^ ONCE PER DUEL. Not per turn. You never get this back.
+>> 6. Two level 10 EARTH machines on the field.
+>> 7. Now spend Switchyard. See the branch below.
+
+> The Switchyard branch, and it is a real decision.
+>> - Going FIRST: use effect B. Summon Flying Pegasus Railroad Stampede from deck, it becomes level 10.
+>> - ^ Three level 10s, which is Gustav Rocket directly. The no-battle-damage clause costs nothing on turn 1.
+>> - ^ AMELIA BUILD ONLY. Yukinon plays no level 4 EARTH machine with 1800+ ATK, so effect B has no target.
+>> - Going SECOND and killing: use effect A instead. Send a card from hand -> add Babeldecker or Derricrane.
+>> - ^ Effect B would switch off your own battle damage for the turn, even after Switchyard leaves the field.
+
+### Route 3: Exceptional Schedule.
+
+The Diagram Token looks like a misplay. It is the activation condition.
+
+> Steps.
+>> 1. Activate Exceptional Schedule -> add Urgent Schedule from deck.
+>> 2. Give your OPPONENT the Diagram Token. Level 10 EARTH machine, 3000/3000.
+>> 3. They now control more monsters than you, which is exactly what Urgent Schedule requires.
+>> 4. Urgent Schedule -> summon 1 level 4 or lower AND 1 level 5 or higher EARTH machine from deck, in defence.
+>> 5. ^ Their effects are NEGATED. A Scrap Recycler summoned this way does NOT mill. Take Blue Traveler and Recycler for bodies, not effects.
+>> 6. You may not attack with non-machines this turn. This deck has none, so it costs nothing.
+
+> Dealing with the token you just gave away.
+>> - You have handed your opponent a 3000 ATK body. Do not leave it there.
+>> - Level 10 + Tristaros (2) = level 12 -> Synchro summon Centur-Ion Legatia.
+>> - Legatia on summon: draw 1, then destroy the monster your opponent controls with the HIGHEST ATK.
+>> - ^ At 3000 the Diagram Token is almost always the highest. You draw a card and take it straight back.
+>> - Legatia is a Machine Synchro, so this line survives even the Synchro lock.
+
+### Route 4: Crystron Smiger. The disruption plan.
+
+Take this line when you want an opponent's-turn board rather than damage.
+
+> Steps.
+>> 1. Normal summon Crystron Smiger.
+>> 2. Target a face-up card you control -> destroy it -> summon 1 Crystron TUNER from deck.
+>> 3. ^ Locks SYNCHRO. Xyz and Link are gone for the turn. This is the trade you are making.
+>> 4. Build Machine Synchros and keep Tristaros in hand for your opponent's turn.
+>> 5. Smiger from GY: banish it -> add 1 Crystron Spell/Trap from deck -> take Crystron Cluster.
+>> 6. Set Cluster. Pass.
+
+> What you are holding for their turn.
+>> - Tristaros in hand: any activation they make turns into a summon from deck plus a Synchro.
+>> - Cluster set: shuffle a Crystron from GY or banishment -> destroy 1 card, or 2 with a Crystron Synchro out.
+>> - Therion "King" Regulus in hand, if you have it, is a free negate. See below.
+
+### Route 5: Heavy Armored Knight Babeldecker. Turn 2 only.
+
+> Steps.
+>> 1. Your opponent activated something on their turn, so Babeldecker's Xyz condition is live.
+>> 2. Normal summon Babeldecker WITHOUT tributing.
+>> 3. On summon -> special summon 1 EARTH machine from your HAND.
+>> 4. Babeldecker alone -> Xyz summon a rank 10 EARTH machine using only itself as material.
+>> 5. Rank 10 -> Juggernaut Liebe, using the rank 10 as material and transferring its materials.
+>> 6. Detach for +2000 ATK. It attacks up to materials +1 times.
+
+### Scrap Recycler is not a starter. Play it as an extender.
+
+> What it actually does.
+>> - Normal or special summoned -> send 1 MACHINE from deck to GY. This has NO once per turn clause.
+>> - ^ So every time you re-summon it, you mill again. That is the engine.
+>> - At 900 ATK it is Clockwork Knight material, and Clockwork Knight can revive it from the GY.
+
+> Why it cannot start alone.
+>> - Milling Sulfador does nothing, because Sulfador needs a Crystron card already on your field.
+>> - Milling Blue Traveler does nothing until a second EARTH machine is in the GY.
+>> - Linking Recycler away fixes that, but then you have no second machine to tribute for Clockwork Knight.
+>> - Recycler plus any of Inclusion, Blue Traveler or Exceptional Schedule is excellent. Recycler alone is a body and a mill.
+
+### Two-card upgrades.
+
+> Inclusion plus Scrap Recycler.
+>> - Run Route 1, but normal summon Recycler first and mill a second Crystron to deepen the GY.
+>> - Recycler is also a spare Link body once its mill is spent.
+
+> Blue Traveler plus Qliphort Genius on the field.
+>> - Blue Traveler's revive summons TWO monsters at the same time.
+>> - Genius: when 2 monsters are special summoned at once to its zones -> add 1 level 5 or higher machine from deck.
+>> - ^ So make Genius BEFORE you use Blue Traveler's GY effect, never after. Ordering is the whole trick.
+
+> Any line plus Therion "King" Regulus.
+>> - Regulus is an EARTH MACHINE, so it fits every lock this deck applies.
+>> - Target any machine in your GY -> summon Regulus from hand and equip that monster to it.
+>> - Then, when your opponent activates anything: send 1 Therion monster card from hand or face-up field -> NEGATE.
+>> - ^ Regulus is itself a Therion monster on your face-up field, so it can send ITSELF. That is a free negate on any board.
+
+### Traps to avoid.
+
+> Derricrane does NOT trigger off Barrage Blast. [YUKINON BUILD]
+>> - Derricrane destroys only when detached "to activate that monster's effect", meaning the Xyz's own effect.
+>> - Detaching it for Gustav Max's burn -> Derricrane destroys a card. Correct.
+>> - Detaching it for Barrage Blast -> nothing. Barrage Blast is not the Xyz monster's effect.
+
+> Do not use Switchyard effect B on a turn you want to attack for game.
+>> - The no-battle-damage clause persists even after Switchyard leaves the field.
+
+> Urgent Schedule negates what it summons.
+>> - Do not plan on the summoned Recycler milling or the summoned Blue Traveler doing anything on summon.
+
+> Blue Traveler's revive is once per DUEL.
+>> - Spending it turn 1 for a rank 10 means it is gone for the rest of the game.
+
+## Deck variants.
+
+Two reference builds. The routes above are tagged where they depend on one of them.
+
+> The shared core. Both builds run all of this.
+>> - 3 Night Train Blue Traveler, 3 Scrap Recycler, 1 Derricrane, 1 Babeldecker, 1 Therion "King" Regulus.
+>> - 3 Exceptional Schedule, 2 Urgent Schedule, 1 Revolving Switchyard.
+>> - 3 Crystron Inclusion, 2+ Sulfador, 2 Sulfefnir, 1 Tristaros, 1 Smiger, 1 Crystron Cluster.
+>> - 3 Ash Blossom, 3 Mulcharmy Fuwalos, 1 Maxx "C", 1 Triple Tactics Talent, 1 Called by the Grave, 1 Crossout Designator.
+>> - Extra: all five Rail Cannons, Eleskeletus, Centur-Ion Legatia, F.A. Dawn Dragster, Infinitrack River Stormer,
+>>   Clockwork Knight, Qliphort Genius, Double Headed Anger Knuckle.
+
+> AMELIA BUILD. 44 cards, Master I, 2026-07-31.
+>> - Adds Flying Pegasus Railroad Stampede, which is the ONLY reason Switchyard effect B is live.
+>> - Adds Crystron Citree and Crystron Thystvern, so a second tuner and a second Crystron searcher.
+>> - Adds Spell Canceller, 2 Droll & Lock Bird, 3 Forbidden Droplet.
+>> - Extra deck adds Crystron Quariongandrax, a second Eleskeletus, Ancient Gear Ballista.
+>> - Plays 44 cards, so it draws its one-ofs less often than the maths on a 40 would suggest.
+
+> YUKINON BUILD. 40 cards, Rating Duels, 2026-07-19.
+>> - Runs 3 Sulfador rather than 2, and adds Foolish Burial to load the GY directly.
+>> - Adds 2 Ghost Belle & Haunted Mansion and 1 Barrage Blast.
+>> - Barrage Blast is searchable off Flying Launcher, which is why a single copy is worth the slot.
+>> - Extra deck swaps toward Cyber Dragon Nova, Cyber Dragon Infinity and AA-ZEUS.
+>> - ^ Nova is 2 level 5 MACHINES, which Sulfador and Sulfefnir both are. That is the Nova into Infinity line.
+>> - NO Flying Pegasus, so Revolving Switchyard is a search card only. Effect B can never resolve.
+
+> Things neither build plays, despite what you might expect.
 >> - Super Express Bullet Train. It needs ALL your monsters to be EARTH machines, and yours are not.
 >> - ^ It also does not search. Its second effect is an End Phase GY effect that recovers a machine.
->> - The older Crystron Tuners. Quan and Rion are too slow. Tristaros and Citree carry the engine.
+>> - Crystron Quan and Crystron Rion. Too slow. Tristaros carries the engine.
+>> - Crystron Ametrix. Neither extra deck has room for it.
 
 ## Weaknesses.
 
