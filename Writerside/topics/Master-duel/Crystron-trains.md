@@ -277,6 +277,91 @@ Take this line when you want an opponent's-turn board rather than damage.
 > Blue Traveler's revive is once per DUEL.
 >> - Spending it turn 1 for a rank 10 means it is gone for the rest of the game.
 
+### Route 6: Flying Launcher into Barrage Blast. [YUKINON BUILD]
+
+> Steps.
+>> 1. Any two level 10 monsters -> Xyz summon Superdreadnought Rail Cannon Flying Launcher.
+>> 2. On Xyz summon: add 1 EARTH machine OR Barrage Blast from deck. Take Barrage Blast.
+>> 3. Set Barrage Blast. It is a trap, so it is live from your opponent's turn onward.
+>> 4. Flying Launcher also grants an EXTRA normal summon of a machine this Main Phase.
+>> 5. ^ Use it on Babeldecker or a second Scrap Recycler. Free body, most people forget this line exists.
+>> 6. Flying Launcher can also detach any number of materials -> destroy that many spells and traps.
+
+> Why one copy of Barrage Blast is worth a slot.
+>> - It is searchable off Flying Launcher, so the single copy behaves like more.
+>> - Once per turn: detach any number from your Machine Xyz -> destroy that many cards on the field.
+>> - From the GY, if your Machine Xyz is destroyed: banish it and a Machine Xyz from GY -> damage equal to Rank x 200.
+>> - ^ Rank 10 is 2000. Rank 11 Liebe is 2200. Rank 12 AA-ZEUS is 2400.
+
+## Playing through interaction.
+
+This is the part that decides games. Each route breaks in a different place.
+
+> Ash Blossom & Joyous Spring hits almost every card in the deck.
+>> - Ash negates adding from deck, special summoning from deck, and sending from deck to GY.
+>> - That is Inclusion, Exceptional Schedule, Blue Traveler's search, Smiger both ways, Sulfador's mill,
+>>   Scrap Recycler's mill, Urgent Schedule, both Switchyard effects and Tristaros's quick effect.
+>> - Practically speaking, assume Ash stops whatever you activate first.
+
+> What Ash CANNOT touch. Route around it.
+>> - Night Train Blue Traveler's GY revive. It summons from the GY, not the deck.
+>> - Crystron Inclusion's GY revive, and Exceptional Schedule's GY revive.
+>> - Sulfador and Sulfefnir special summoning THEMSELVES from hand or GY.
+>> - ^ Only Sulfador's mill is Ash bait. The self summon resolves regardless.
+>> - Derricrane, Regulus and Babeldecker summoning from the hand.
+>> - Every Synchro and Xyz summon.
+
+> Droll & Lock Bird is weaker against this deck than it looks.
+>> - Route 1 searches exactly ONCE, at step 1. Everything after that is GY and deck summons, not searches.
+>> - Route 3 searches once for Urgent Schedule, and Urgent Schedule then SUMMONS from deck rather than searching.
+>> - ^ So Droll after your first search costs you very little on those two routes.
+>> - Route 2 is the exception. Droll blocks Switchyard effect A, which pushes you onto effect B.
+
+> Maxx "C" is the real problem, not Ash.
+>> - Route 1 summons six or more times. Sulfador, Tristaros, Eleskeletus, two from deck, then the float.
+>> - Resolving the full line into Maxx "C" hands your opponent six cards. Do not do it.
+>> - Under Maxx "C": stop after step 6. Take Eleskeletus and pass. Two summons, two cards.
+>> - This is why both builds run Called by the Grave and Crossout Designator.
+
+> Ghost Belle & Haunted Mansion. [YUKINON BUILD runs 2]
+>> - Cleanly stops anything that special summons FROM the GY.
+>> - That is Blue Traveler's revive, Inclusion's revive, Exceptional Schedule's GY revive,
+>>   and Eleskeletus adding a Crystron from GY on summon.
+>> - Losing Blue Traveler's revive to Belle is the worst case, because it is once per DUEL.
+>> - ^ If you suspect Belle, bait with Inclusion's revive first.
+
+> Nibiru, the Primal Being.
+>> - Needs five or more normal or special summons from you in the turn.
+>> - Route 1 reaches five at step 8, when Tristaros summons two Crystrons from deck.
+>> - Rank 10 lines get there faster still.
+>> - If you are worried, stop at four summons and hold the rest for your opponent's turn.
+>> - That is not a real cost in this deck, since the opponent's turn is where Crystron wants to operate anyway.
+
+> The general shape.
+>> - Almost nothing here is a hard combo deck. Each route has a natural stopping point.
+>> - Passing on a smaller board with tuners in hand is a legitimate outcome, not a failed turn.
+
+## Damage and OTK maths.
+
+Actual numbers, since "rank 10 beatdown" is not a plan on its own.
+
+> Burn, before you attack at all.
+>> - Superdreadnought Rail Cannon Gustav Max, detach 1 -> 2000 damage, once per turn.
+>> - ^ Detach Derricrane specifically and you also destroy 1 card your opponent controls.
+>> - Superdreadnought Rail Cannon Gustav Rocket, on negating a monster effect -> 1000 damage.
+>> - Barrage Blast from GY -> Rank x 200, so 2000 off a rank 10. [YUKINON BUILD]
+
+> The Juggernaut Liebe kill.
+>> - Xyz summon Liebe using 1 rank 10 MACHINE Xyz you control, transferring its materials.
+>> - Base 4000 ATK. Detach 1 -> gains 2000, so 6000, but only Liebe may attack this turn.
+>> - It attacks up to materials +1 times per Battle Phase.
+>> - ^ With 2 materials left after the boost that is three attacks at 6000. That is lethal from full.
+
+> Sequencing that actually matters.
+>> - Take the Gustav Max burn BEFORE climbing into Liebe, since the climb transfers the materials.
+>> - Do NOT use Switchyard effect B on a kill turn. It stops all battle damage for the turn.
+>> - Liebe restricting attacks to itself is fine, because nothing else you control matters in a kill turn.
+
 ## Deck variants.
 
 Two reference builds. The routes above are tagged where they depend on one of them.
