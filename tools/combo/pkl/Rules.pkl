@@ -1,0 +1,99 @@
+// AUTHORED, not generated. Material requirements cannot be parsed reliably out of card text,
+// so they are transcribed by hand from the material line of each Extra Deck monster.
+// Generated facts live in Cards.pkl; this is the human half. Same split as CooSource.
+module crystron.Rules
+
+class MaterialRule {
+  summonType: "synchro"|"xyz"|"link"
+  minMaterials: Int(this >= 1)
+  /// null means "or more".
+  maxMaterials: Int?
+  minTuners: Int = 0
+  maxTuners: Int?
+  /// Xyz only: every material must share the result's Rank.
+  sameLevel: Boolean = false
+  /// Synchro only: material Levels must total the result's Level exactly.
+  levelsMustTotal: Boolean = false
+  /// e.g. "Machine" for Cyber Dragon Nova.
+  requiresRace: String?
+  /// Synchro materials that must themselves be Synchro monsters (Crystron Phoenix).
+  materialsMustBeSynchro: Boolean = false
+  /// A documented alternate summon path that bypasses the material rule above.
+  altSummon: String?
+}
+
+requirements: Mapping<String, MaterialRule> = new {
+  // Synchro: 1 Tuner + 1 or more non-Tuners, Levels total exactly.
+  ["Crystron Eleskeletus"] { summonType = "synchro"; minMaterials = 2; maxMaterials = null; minTuners = 1; maxTuners = 1; levelsMustTotal = true }
+  ["Centur-Ion Legatia"] { summonType = "synchro"; minMaterials = 2; maxMaterials = null; minTuners = 1; maxTuners = 1; levelsMustTotal = true }
+  ["F.A. Dawn Dragster"] { summonType = "synchro"; minMaterials = 2; maxMaterials = null; minTuners = 1; maxTuners = 1; levelsMustTotal = true }
+  // "2 or more Tuners + 1 non-Tuner monster". The only one in the deck that needs multiple Tuners.
+  ["Crystron Quariongandrax"] { summonType = "synchro"; minMaterials = 3; maxMaterials = null; minTuners = 2; maxTuners = null; levelsMustTotal = true }
+
+  // Xyz: N monsters of the same Level.
+  ["Infinitrack River Stormer"] { summonType = "xyz"; minMaterials = 2; maxMaterials = 2; sameLevel = true }
+  ["Cyber Dragon Nova"] { summonType = "xyz"; minMaterials = 2; maxMaterials = 2; sameLevel = true; requiresRace = "Machine" }
+  ["Cyber Dragon Infinity"] { summonType = "xyz"; minMaterials = 3; maxMaterials = 3; sameLevel = true; requiresRace = "Machine"; altSummon = "using Cyber Dragon Nova you control as material" }
+  ["Superdreadnought Rail Cannon Gustav Max"] { summonType = "xyz"; minMaterials = 2; maxMaterials = 2; sameLevel = true }
+  ["Number 81: Superdreadnought Rail Cannon Super Dora"] { summonType = "xyz"; minMaterials = 2; maxMaterials = 2; sameLevel = true }
+  ["Superdreadnought Rail Cannon Flying Launcher"] { summonType = "xyz"; minMaterials = 2; maxMaterials = 2; sameLevel = true }
+  ["Superdreadnought Rail Cannon Gustav Rocket"] { summonType = "xyz"; minMaterials = 3; maxMaterials = 3; sameLevel = true; altSummon = "discard 1 and use a Gustav Max you control, transferring its materials" }
+  ["Superdreadnought Rail Cannon Juggernaut Liebe"] { summonType = "xyz"; minMaterials = 3; maxMaterials = 3; sameLevel = true; altSummon = "use 1 Rank 10 Machine Xyz you control as material" }
+  ["Divine Arsenal AA-ZEUS - Sky Thunder"] { summonType = "xyz"; minMaterials = 2; maxMaterials = 2; sameLevel = true; altSummon = "use 1 Xyz you control as material, if an Xyz battled this turn" }
+
+  // Link: material count equals the Link rating for these.
+  ["Clockwork Knight"] { summonType = "link"; minMaterials = 1; maxMaterials = 1; requiresRace = "Machine" }
+  ["Qliphort Genius"] { summonType = "link"; minMaterials = 2; maxMaterials = 2; requiresRace = "Machine" }
+  ["Double Headed Anger Knuckle"] { summonType = "link"; minMaterials = 2; maxMaterials = 2; requiresRace = "Machine" }
+  ["Ancient Gear Ballista"] { summonType = "link"; minMaterials = 2; maxMaterials = 2; requiresRace = "Machine" }
+}
+
+/// Decklists, for "is this card even in the deck" and copy-count checks.
+decks: Mapping<String, Mapping<String, Int>> = new {
+  ["amelia"] = new {
+    ["Crystron Tristaros"] = 1; ["Crystron Citree"] = 1; ["Crystron Smiger"] = 1
+    ["Crystron Thystvern"] = 1; ["Crystron Sulfefnir"] = 2; ["Crystron Sulfador"] = 2
+    ["Crystron Inclusion"] = 3; ["Crystron Cluster"] = 1
+    ["Night Train Blue Traveler"] = 3; ["Scrap Recycler"] = 3
+    ["Heavy Freight Train Derricrane"] = 1; ["Heavy Armored Knight Babeldecker"] = 1
+    ["Flying Pegasus Railroad Stampede"] = 1; ["Therion \"King\" Regulus"] = 1
+    ["Spell Canceller"] = 1; ["Exceptional Schedule"] = 3; ["Urgent Schedule"] = 2
+    ["Revolving Switchyard"] = 1; ["Called by the Grave"] = 1; ["Crossout Designator"] = 1
+    ["Triple Tactics Talent"] = 1; ["Forbidden Droplet"] = 3
+    ["Ash Blossom & Joyous Spring"] = 3; ["Maxx \"C\""] = 1; ["Droll & Lock Bird"] = 2
+    ["Mulcharmy Fuwalos"] = 3
+    // Extra
+    ["Crystron Eleskeletus"] = 2; ["Crystron Quariongandrax"] = 1; ["Centur-Ion Legatia"] = 1
+    ["F.A. Dawn Dragster"] = 1; ["Infinitrack River Stormer"] = 1
+    ["Superdreadnought Rail Cannon Gustav Max"] = 1
+    ["Number 81: Superdreadnought Rail Cannon Super Dora"] = 1
+    ["Superdreadnought Rail Cannon Flying Launcher"] = 1
+    ["Superdreadnought Rail Cannon Gustav Rocket"] = 1
+    ["Superdreadnought Rail Cannon Juggernaut Liebe"] = 1
+    ["Clockwork Knight"] = 1; ["Qliphort Genius"] = 1
+    ["Double Headed Anger Knuckle"] = 1; ["Ancient Gear Ballista"] = 1
+  }
+  ["yukinon"] = new {
+    ["Crystron Tristaros"] = 1; ["Crystron Smiger"] = 1
+    ["Crystron Sulfefnir"] = 2; ["Crystron Sulfador"] = 3
+    ["Crystron Inclusion"] = 3; ["Crystron Cluster"] = 1
+    ["Night Train Blue Traveler"] = 3; ["Scrap Recycler"] = 3
+    ["Heavy Freight Train Derricrane"] = 1; ["Heavy Armored Knight Babeldecker"] = 1
+    ["Therion \"King\" Regulus"] = 1
+    ["Exceptional Schedule"] = 3; ["Urgent Schedule"] = 2; ["Revolving Switchyard"] = 1
+    ["Foolish Burial"] = 1; ["Called by the Grave"] = 1; ["Crossout Designator"] = 1
+    ["Triple Tactics Talent"] = 1; ["Barrage Blast"] = 1
+    ["Ash Blossom & Joyous Spring"] = 3; ["Maxx \"C\""] = 1
+    ["Ghost Belle & Haunted Mansion"] = 2; ["Mulcharmy Fuwalos"] = 3
+    // Extra
+    ["Crystron Eleskeletus"] = 1; ["Centur-Ion Legatia"] = 1; ["F.A. Dawn Dragster"] = 1
+    ["Infinitrack River Stormer"] = 1; ["Cyber Dragon Nova"] = 1; ["Cyber Dragon Infinity"] = 1
+    ["Superdreadnought Rail Cannon Gustav Max"] = 1
+    ["Number 81: Superdreadnought Rail Cannon Super Dora"] = 1
+    ["Superdreadnought Rail Cannon Flying Launcher"] = 1
+    ["Superdreadnought Rail Cannon Gustav Rocket"] = 1
+    ["Superdreadnought Rail Cannon Juggernaut Liebe"] = 1
+    ["Divine Arsenal AA-ZEUS - Sky Thunder"] = 1
+    ["Clockwork Knight"] = 1; ["Qliphort Genius"] = 1; ["Double Headed Anger Knuckle"] = 1
+  }
+}

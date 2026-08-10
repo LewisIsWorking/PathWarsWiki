@@ -1,0 +1,51 @@
+// 2026-08-10: FIXTURE, not a real line. Deliberately illegal so the guards can be PROVED by
+// feeding them. check-combos.ps1 asserts an exact expected problem count here: if it ever drops,
+// a check has silently stopped working, which is the failure mode that motivated this whole tool.
+// Keep the Pkl and CUE copies of this fixture identical; the runner diffs their findings.
+module crystron.RouteBroken
+
+import "Combo.pkl"
+
+route: Combo.Route = new {
+  name = "Broken on purpose"
+  build = "yukinon"
+  opening { "Crystron Smiger"; "Night Train Blue Traveler" }
+  steps {
+    // A: Smiger applies the Machine SYNCHRO lock.
+    new { n = 1; card = "Crystron Smiger"; action = "normal-summon"; from = "hand"; to = "field"
+          appliesLock = "machine-synchro"
+          text = "Normal summon Smiger." }
+
+    // B: a second Normal Summon with nothing granting one, and from the DECK.
+    new { n = 2; card = "Scrap Recycler"; action = "normal-summon"; from = "deck"; to = "field"
+          text = "Illegal second Normal Summon." }
+
+    // C: revived from the GY before anything put it there.
+    new { n = 3; card = "Crystron Tristaros"; action = "special-summon"; from = "gy"; to = "field"
+          text = "Claims to revive a card still in the deck." }
+
+    // D: Xyz after the Machine Synchro lock, with materials that are not on the field.
+    new { n = 4; card = "Superdreadnought Rail Cannon Gustav Max"; action = "xyz"; from = "extra"; to = "field"
+          result = "Superdreadnought Rail Cannon Gustav Max"
+          materials { "Night Train Blue Traveler"; "Heavy Freight Train Derricrane" }
+          text = "Blue Traveler is still in hand, Derricrane is still in the deck." }
+
+    // E: Synchro maths wrong, and zero Tuners among the materials.
+    new { n = 5; card = "Crystron Eleskeletus"; action = "synchro"; from = "extra"; to = "field"
+          result = "Crystron Eleskeletus"
+          materials { "Crystron Smiger"; "Scrap Recycler" }
+          text = "3 + 3 = 6, but Eleskeletus is Level 7, and neither material is a Tuner." }
+
+    // F: not in the Yukinon decklist at all.
+    new { n = 6; card = "Crystron Citree"; action = "search"; from = "deck"; to = "hand"
+          text = "Not in this build." }
+
+    // G: a once per DUEL effect used twice.
+    new { n = 7; card = "Night Train Blue Traveler"; action = "special-summon"; from = "gy"; to = "field"
+          oncePerDuel = "Night Train Blue Traveler:revive"
+          text = "First use." }
+    new { n = 8; card = "Night Train Blue Traveler"; action = "special-summon"; from = "gy"; to = "field"
+          oncePerDuel = "Night Train Blue Traveler:revive"
+          text = "Second use of a once per DUEL effect." }
+  }
+}

@@ -1,0 +1,160 @@
+// Master Duel combo route model. Pkl side of the bake-off.
+module crystron.Combo
+
+import "Cards.pkl"
+import "Rules.pkl"
+
+typealias Zone = "hand"|"deck"|"field"|"gy"|"banished"|"extra"|"opponent-field"
+
+typealias Lock = "none"|"machine"|"machine-synchro"
+
+typealias Action = "activate"|"normal-summon"|"special-summon"|"synchro"|"xyz"|"link"|"search"|"mill"|"destroy"|"banish"
+
+class Step {
+  n: Int(this > 0)
+  card: String(Cards.cards.containsKey(this))
+  action: Action
+  text: String(!isEmpty)
+  /// Where the card is when it acts. Checked against the tracked state.
+  from: Zone
+  /// Where it ends up. null means it does not move.
+  to: Zone?
+  materials: Listing<String> = new Listing {}
+  result: String?
+  appliesLock: Lock = "none"
+  /// Identifier for a once-per-turn effect, e.g. "Crystron Inclusion:search".
+  oncePerTurn: String?
+  /// Identifier for a once-per-DUEL effect, e.g. "Night Train Blue Traveler:revive".
+  oncePerDuel: String?
+  /// Extra Normal Summons this step grants (Flying Launcher grants 1 Machine).
+  grantsNormalSummon: Int = 0
+  /// Set when the step uses a card's documented alternate summon path.
+  usesAltSummon: Boolean = false
+}
+
+class Route {
+  name: String(!isEmpty)
+  build: "amelia"|"yukinon"
+  /// The opening hand this route assumes.
+  opening: Listing<String>
+  steps: Listing<Step>
+
+  hidden stepList: List<Step> = steps.toList()
+  hidden deck: Map<String, Int> = Rules.decks[build].toMap()
+
+  function facts(c: String): Cards.CardFacts = Cards.cards[c]
+  function isExtra(c: String): Boolean = List("synchro", "xyz", "link").contains(facts(c).kind)
+  function levelOf(c: String): Int = facts(c).level
+
+  // ---- zone tracking -------------------------------------------------------
+  hidden startZones: Map<String, String> =
+    deck.keys.fold(Map(), (acc, c) -> acc.put(c, if (isExtra(c)) "extra" else "deck"))
+  hidden initialZones: Map<String, String> =
+    opening.toList().fold(startZones, (acc, c) -> acc.put(c, "hand"))
+
+  function applyStep(acc: Map<String, String>, s: Step): Map<String, String> =
+    let (moved = if (s.to != null) acc.put(s.card, s.to) else acc)
+      s.materials.toList().fold(moved, (m, mat) -> m.put(mat, if (s.action == "xyz") "attached" else "gy"))
+
+  function zonesBefore(i: Int): Map<String, String> =
+    stepList.take(i).fold(initialZones, (acc, s) -> applyStep(acc, s))
+
+  // ---- checks --------------------------------------------------------------
+
+  /// R2. Every card named must actually be in this build's decklist.
+  hidden deckErrors: List<String> = stepList
+    .filter((s) -> !deck.containsKey(s.card))
+    .map((s) -> "step \(s.n): \(s.card) is not in the \(build) decklist")
+
+  /// R9. The acting card must really be in the zone the step claims.
+  hidden zoneErrors: List<String> = IntSeq(0, stepList.length - 1).toList()
+    .filter((i) -> zonesBefore(i).getOrNull(stepList[i].card) != stepList[i].from)
+    .map((i) -> "step \(stepList[i].n): \(stepList[i].card) is claimed to act from \(stepList[i].from), but it is in \(zonesBefore(i).getOrNull(stepList[i].card) ?? "nowhere tracked")")
+
+  /// R9b. Materials must be on the field when consumed.
+  hidden materialZoneErrors: List<String> = IntSeq(0, stepList.length - 1).toList()
+    .flatMap((i) -> stepList[i].materials.toList()
+      .filter((m) -> zonesBefore(i).getOrNull(m) != "field")
+      .map((m) -> "step \(stepList[i].n): material \(m) is not on the field, it is in \(zonesBefore(i).getOrNull(m) ?? "nowhere tracked")"))
+
+  /// R3. One Normal Summon per turn, plus anything granted earlier in the route.
+  hidden normalSummonErrors: List<String> =
+    let (used = stepList.filter((s) -> s.action == "normal-summon").length)
+    let (granted = stepList.map((s) -> s.grantsNormalSummon).fold(0, (a, b) -> a + b))
+      if (used > 1 + granted)
+        List("route uses \(used) Normal Summons but only \(1 + granted) are available")
+      else List()
+
+  /// R4/R5/R6. Material composition against the authored rule for the result.
+  hidden materialErrors: List<String> = stepList
+    .filter((s) -> List("synchro", "xyz", "link").contains(s.action) && !s.usesAltSummon)
+    .flatMap((s) -> checkMaterials(s))
+
+  function checkMaterials(s: Step): List<String> =
+    let (rule = Rules.requirements.toMap().getOrNull(s.result))
+      if (rule == null) List("step \(s.n): no material rule authored for \(s.result)")
+      else checkCount(s, rule) + checkTuners(s, rule) + checkLevels(s, rule) + checkRace(s, rule)
+
+  function checkCount(s: Step, rule: Rules.MaterialRule): List<String> =
+    let (n = s.materials.toList().length)
+      if (n < rule.minMaterials) List("step \(s.n): \(s.result) needs at least \(rule.minMaterials) materials, got \(n)")
+      else if (rule.maxMaterials != null && n > rule.maxMaterials) List("step \(s.n): \(s.result) takes at most \(rule.maxMaterials) materials, got \(n)")
+      else List()
+
+  function checkTuners(s: Step, rule: Rules.MaterialRule): List<String> =
+    let (t = s.materials.toList().filter((m) -> facts(m).tuner).length)
+      if (t < rule.minTuners) List("step \(s.n): \(s.result) needs at least \(rule.minTuners) Tuner(s), got \(t)")
+      else if (rule.maxTuners != null && t > rule.maxTuners) List("step \(s.n): \(s.result) takes at most \(rule.maxTuners) Tuner(s), got \(t)")
+      else List()
+
+  function checkLevels(s: Step, rule: Rules.MaterialRule): List<String> =
+    let (total = s.materials.toList().map((m) -> levelOf(m)).fold(0, (a, b) -> a + b))
+      if (rule.levelsMustTotal && total != levelOf(s.result))
+        List("step \(s.n): materials total \(total), but \(s.result) is Level \(levelOf(s.result))")
+      else if (rule.sameLevel && s.materials.toList().any((m) -> levelOf(m) != levelOf(s.result)))
+        List("step \(s.n): \(s.result) is Rank \(levelOf(s.result)) but materials are Levels \(s.materials.toList().map((m) -> levelOf(m)))")
+      else List()
+
+  function checkRace(s: Step, rule: Rules.MaterialRule): List<String> =
+    if (rule.requiresRace != null && s.materials.toList().any((m) -> facts(m).race != rule.requiresRace))
+      List("step \(s.n): \(s.result) requires \(rule.requiresRace) materials")
+    else List()
+
+  /// R7. The Extra Deck lock. machine-synchro forbids Xyz and Link outright;
+  /// machine forbids summoning a non-Machine from the Extra Deck.
+  hidden lockErrors: List<String> = stepList
+    .filter((s) -> List("synchro", "xyz", "link").contains(s.action))
+    .flatMap((s) -> checkLock(s))
+
+  function priorLocks(s: Step, kind: String): List<Step> =
+    stepList.filter((t) -> t.n < s.n && t.appliesLock == kind)
+
+  function checkLock(s: Step): List<String> =
+    let (synchroLocks = priorLocks(s, "machine-synchro"))
+    let (machineLocks = priorLocks(s, "machine"))
+      if (synchroLocks.length > 0 && s.action != "synchro")
+        List("step \(s.n): \(s.action) summon of \(s.result) is illegal. \(synchroLocks.first.card) applied the Machine Synchro lock at step \(synchroLocks.first.n)")
+      else if (synchroLocks.length > 0 && facts(s.result).race != "Machine")
+        List("step \(s.n): \(s.result) is not a Machine, blocked by the lock from step \(synchroLocks.first.n)")
+      else if (machineLocks.length > 0 && facts(s.result).race != "Machine")
+        List("step \(s.n): \(s.result) is not a Machine, blocked by the Machine lock from step \(machineLocks.first.n)")
+      else List()
+
+  /// R8. Once per turn and once per Duel effects.
+  hidden optErrors: List<String> =
+    let (keys = stepList.filter((s) -> s.oncePerTurn != null).map((s) -> s.oncePerTurn))
+      keys.distinct
+        .filter((k) -> keys.filter((x) -> x == k).length > 1)
+        .map((k) -> "once per turn effect used \(keys.filter((x) -> x == k).length) times: \(k)")
+
+  hidden opdErrors: List<String> =
+    let (keys = stepList.filter((s) -> s.oncePerDuel != null).map((s) -> s.oncePerDuel))
+      keys.distinct
+        .filter((k) -> keys.filter((x) -> x == k).length > 1)
+        .map((k) -> "ONCE PER DUEL effect used \(keys.filter((x) -> x == k).length) times: \(k)")
+
+  /// Everything, so one run reports every problem.
+  errors: List<String> =
+    deckErrors + zoneErrors + materialZoneErrors + normalSummonErrors +
+    materialErrors + lockErrors + optErrors + opdErrors
+}

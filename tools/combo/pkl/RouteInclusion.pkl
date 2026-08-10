@@ -1,0 +1,45 @@
+// 2026-08-10: Route 1 from the Crystron Trains page, the Crystron Inclusion one-card line.
+// Every zone transition is declared so the model can check the line actually holds together.
+module crystron.RouteInclusion
+
+import "Combo.pkl"
+
+route: Combo.Route = new {
+  name = "Crystron Inclusion, one card"
+  build = "amelia"
+  opening { "Crystron Inclusion" }
+  steps {
+    new { n = 1; card = "Crystron Inclusion"; action = "activate"; from = "hand"; to = "field"
+          oncePerTurn = "Crystron Inclusion:activate"
+          text = "Activate Inclusion. On activation, add 1 Crystron card from deck." }
+
+    new { n = 2; card = "Crystron Sulfador"; action = "search"; from = "deck"; to = "hand"
+          text = "Added by Inclusion." }
+
+    new { n = 3; card = "Crystron Inclusion"; action = "destroy"; from = "field"; to = "gy"
+          text = "Sulfador targets Inclusion, the Crystron card you control, and destroys it." }
+
+    new { n = 4; card = "Crystron Sulfador"; action = "special-summon"; from = "hand"; to = "field"
+          appliesLock = "machine"
+          oncePerTurn = "Crystron Sulfador:summon"
+          text = "Sulfador summons itself. Locks Machine, so Xyz stays legal." }
+
+    new { n = 5; card = "Crystron Tristaros"; action = "mill"; from = "deck"; to = "gy"
+          text = "Sulfador on summon sends 2 differently named Crystron cards to the GY." }
+
+    new { n = 6; card = "Crystron Sulfefnir"; action = "mill"; from = "deck"; to = "gy"
+          text = "The second of the two." }
+
+    new { n = 7; card = "Crystron Inclusion"; action = "banish"; from = "gy"; to = "banished"
+          oncePerTurn = "Crystron Inclusion:revive"
+          text = "Banish Inclusion from the GY to pay for its revive." }
+
+    new { n = 8; card = "Crystron Tristaros"; action = "special-summon"; from = "gy"; to = "field"
+          text = "Inclusion revives Tristaros." }
+
+    new { n = 9; card = "Crystron Eleskeletus"; action = "synchro"; from = "extra"; to = "field"
+          result = "Crystron Eleskeletus"
+          materials { "Crystron Sulfador"; "Crystron Tristaros" }
+          text = "5 + 2 = 7. On summon, add a Crystron card from GY or banishment." }
+  }
+}
