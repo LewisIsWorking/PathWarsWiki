@@ -32,5 +32,14 @@ routeBroken: #Route & {
 		// G: a once per DUEL effect used twice.
 		{n: 7, card: "Night Train Blue Traveler", action: "special-summon", from: "gy", to: "field", oncePerDuel: "Night Train Blue Traveler:revive", text: "First use."},
 		{n: 8, card: "Night Train Blue Traveler", action: "special-summon", from: "gy", to: "field", oncePerDuel: "Night Train Blue Traveler:revive", text: "Second use of a once per DUEL effect."},
+		// H: an ALTERNATE summon after the Machine Synchro lock. An alt summon bypasses the
+		// MATERIAL rule; it does not bypass the LOCK.
+		{
+			n: 9, card: "Superdreadnought Rail Cannon Juggernaut Liebe", action: "xyz", from: "extra", to: "field"
+			result:        "Superdreadnought Rail Cannon Juggernaut Liebe"
+			usesAltSummon: true
+			materials: ["Superdreadnought Rail Cannon Gustav Max"]
+			text: "Climbing off Gustav Max, which is still illegal under the lock from step 1."
+		},
 	]
 }

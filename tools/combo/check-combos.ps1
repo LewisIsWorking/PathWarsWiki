@@ -32,9 +32,10 @@ $routes = @(
   @{ name = 'smiger';         pkl = 'RouteSmiger.pkl';         cue = 'route_smiger.cue';          expr = 'routeSmiger';         expect = 0 }
   @{ name = 'babeldecker';    pkl = 'RouteBabeldecker.pkl';    cue = 'route_babeldecker.cue';     expr = 'routeBabeldecker';    expect = 0 }
   @{ name = 'flying-launcher';pkl = 'RouteFlyingLauncher.pkl'; cue = 'route_flying_launcher.cue'; expr = 'routeFlyingLauncher'; expect = 0 }
-  # 2026-08-10: bumped 12 -> 13 when R3b (a Normal Summon must come from the hand) was added.
-  # Step 2 of the fixture normal summons Scrap Recycler from the DECK, which now also reports.
-  @{ name = 'broken';         pkl = 'RouteBroken.pkl';         cue = 'route_broken.cue';          expr = 'routeBroken';         expect = 13 }
+  # 2026-08-10: 12 -> 13 when R3b (a Normal Summon must come from the hand) was added, since the
+  # fixture's step 2 normal summons from the DECK. Then 13 -> 14 when step 9 added an ALTERNATE
+  # summon under the lock, which CUE had been skipping.
+  @{ name = 'broken';         pkl = 'RouteBroken.pkl';         cue = 'route_broken.cue';          expr = 'routeBroken';         expect = 14 }
 )
 
 # 2026-08-10: Every finding is diffed, with nothing excluded.

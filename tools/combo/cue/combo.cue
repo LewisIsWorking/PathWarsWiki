@@ -105,8 +105,14 @@ import (
 	_summonSteps: [for s in steps if list.Contains(["synchro", "xyz", "link"], s.action) && !s.usesAltSummon {s}]
 
 	// R7. The Extra Deck lock.
+	// 2026-08-10: iterates ALL Extra Deck summons, NOT `_summonSteps`. `_summonSteps` excludes
+	// `usesAltSummon` steps, which is right for MATERIAL checks (an alternate summon bypasses the
+	// material rule) and wrong for LOCKS (a lock applies however you summoned). Caught reviewing
+	// the diff: Pkl checked these and CUE did not, and no route yet combined a lock with an alt
+	// summon, so the models agreed by luck. RouteBroken now carries that combination.
+	_edSummons: [for s in steps if list.Contains(["synchro", "xyz", "link"], s.action) {s}]
 	_lockErrors: list.FlattenN([
-		for s in _summonSteps {
+		for s in _edSummons {
 			let synchroLocks = [for t in steps if t.n < s.n && t.appliesLock == "machine-synchro" {t}]
 			let machineLocks = [for t in steps if t.n < s.n && t.appliesLock == "machine" {t}]
 			list.Concat([
