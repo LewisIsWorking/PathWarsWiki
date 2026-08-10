@@ -1,0 +1,32 @@
+// 2026-08-10: Route 5, the Heavy Armored Knight Babeldecker turn 2 kill.
+// Babeldecker's own Xyz effect (summon a rank 10 using ONLY itself) needs the opponent to have
+// activated something this turn, which is a condition the model does not check. This route takes
+// the plain two-material line instead, then climbs with Liebe's documented alternate summon.
+module crystron.RouteBabeldecker
+
+import "Combo.pkl"
+
+route: Combo.Route = new {
+  name = "Babeldecker into Juggernaut Liebe"
+  build = "amelia"
+  opening { "Heavy Armored Knight Babeldecker"; "Heavy Freight Train Derricrane" }
+  steps {
+    new { n = 1; card = "Heavy Armored Knight Babeldecker"; action = "normal-summon"; from = "hand"; to = "field"
+          text = "Normal summon WITHOUT tributing, despite being level 10." }
+
+    new { n = 2; card = "Heavy Freight Train Derricrane"; action = "special-summon"; from = "hand"; to = "field"
+          oncePerTurn = "Heavy Armored Knight Babeldecker:summon"
+          text = "Babeldecker on summon: special summon 1 EARTH machine from HAND. Derricrane's ATK/DEF halve." }
+
+    new { n = 3; card = "Superdreadnought Rail Cannon Gustav Max"; action = "xyz"; from = "extra"; to = "field"
+          result = "Superdreadnought Rail Cannon Gustav Max"
+          materials { "Heavy Armored Knight Babeldecker"; "Heavy Freight Train Derricrane" }
+          text = "Two level 10s. Detach Derricrane for the 2000 burn and it ALSO destroys a card." }
+
+    new { n = 4; card = "Superdreadnought Rail Cannon Juggernaut Liebe"; action = "xyz"; from = "extra"; to = "field"
+          result = "Superdreadnought Rail Cannon Juggernaut Liebe"
+          usesAltSummon = true
+          materials { "Superdreadnought Rail Cannon Gustav Max" }
+          text = "Alternate summon: use 1 rank 10 Machine Xyz you control, transferring its materials. Take the Gustav Max burn BEFORE this." }
+  }
+}

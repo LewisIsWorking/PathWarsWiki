@@ -26,8 +26,15 @@ Need-Tool 'pkl'
 # 2026-08-10: Route pairs. A route must exist in BOTH models or the diff is meaningless, so a
 # missing counterpart is itself a failure rather than a silent skip.
 $routes = @(
-  @{ name = 'inclusion'; pkl = 'RouteInclusion.pkl'; cue = 'route_inclusion.cue'; expr = 'routeInclusion'; expect = 0 }
-  @{ name = 'broken';    pkl = 'RouteBroken.pkl';    cue = 'route_broken.cue';    expr = 'routeBroken';    expect = 12 }
+  @{ name = 'inclusion';      pkl = 'RouteInclusion.pkl';      cue = 'route_inclusion.cue';       expr = 'routeInclusion';      expect = 0 }
+  @{ name = 'blue-traveler';  pkl = 'RouteBlueTraveler.pkl';   cue = 'route_blue_traveler.cue';   expr = 'routeBlueTraveler';   expect = 0 }
+  @{ name = 'schedule';       pkl = 'RouteSchedule.pkl';       cue = 'route_schedule.cue';        expr = 'routeSchedule';       expect = 0 }
+  @{ name = 'smiger';         pkl = 'RouteSmiger.pkl';         cue = 'route_smiger.cue';          expr = 'routeSmiger';         expect = 0 }
+  @{ name = 'babeldecker';    pkl = 'RouteBabeldecker.pkl';    cue = 'route_babeldecker.cue';     expr = 'routeBabeldecker';    expect = 0 }
+  @{ name = 'flying-launcher';pkl = 'RouteFlyingLauncher.pkl'; cue = 'route_flying_launcher.cue'; expr = 'routeFlyingLauncher'; expect = 0 }
+  # 2026-08-10: bumped 12 -> 13 when R3b (a Normal Summon must come from the hand) was added.
+  # Step 2 of the fixture normal summons Scrap Recycler from the DECK, which now also reports.
+  @{ name = 'broken';         pkl = 'RouteBroken.pkl';         cue = 'route_broken.cue';          expr = 'routeBroken';         expect = 13 }
 )
 
 # 2026-08-10: Every finding is diffed, with nothing excluded.

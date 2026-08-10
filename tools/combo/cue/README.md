@@ -12,8 +12,13 @@ Both models currently produce **identical** findings on every route, with nothin
 | `cards.cue` | **GENERATED** by `../gen-cards.ps1`. The closed `#CardName` vocabulary plus Level, Rank, Tuner, Race and Attribute for all 48 cards. Do not hand-edit. |
 | `rules.cue` | **AUTHORED.** Material requirements per Extra Deck monster, transcribed by hand from each card's material line, plus both reference decklists. |
 | `combo.cue` | The `#Step` and `#Route` schema, every check, and the indexed zone accumulation. Emits an `errors` list. |
-| `route_inclusion.cue` | Route 1 from the wiki page, the Crystron Inclusion one-card line. Expected to be clean. |
-| `route_broken.cue` | Fixture carrying seven planted illegalities, so the guards can be proved by feeding them. |
+| `route_inclusion.cue` | Route 1, the Crystron Inclusion one-card line. Amelia. |
+| `route_blue_traveler.cue` | Route 2, Night Train Blue Traveler into a rank 10. Amelia only; it needs Switchyard's summon effect. |
+| `route_schedule.cue` | Route 3, Exceptional Schedule into Centur-Ion Legatia. Yukinon. |
+| `route_smiger.cue` | Route 4, the Smiger disruption plan. Amelia, because it runs two Crystron tuners. |
+| `route_babeldecker.cue` | Route 5, Babeldecker into Juggernaut Liebe. Amelia. |
+| `route_flying_launcher.cue` | Route 6, Flying Launcher fetching Barrage Blast. Yukinon only. |
+| `route_broken.cue` | Fixture carrying planted illegalities, so the guards can be proved by feeding them. |
 
 ## Running it
 

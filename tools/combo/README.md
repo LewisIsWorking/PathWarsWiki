@@ -23,6 +23,7 @@ the check by construction.
 |---|---|
 | `gen-cards.ps1` | Pulls the 48 cards in the reference decklists from `db.ygoprodeck.com` and writes the card vocabulary and facts into **both** models. Re-run after a decklist change. |
 | `check-combos.ps1` | Runs every route through both models, diffs their findings, and enforces the folder README rule. This is the entry point. |
+| `CUE-vs-Pkl.md` | Decision record: why both languages are here, what each is good at, and the correction that changed the verdict from "on correctness" to "on ergonomics". |
 | `cue/` | The CUE model. See `cue/README.md`. |
 | `pkl/` | The Pkl model. See `pkl/README.md`. |
 
@@ -70,4 +71,20 @@ step claims and materials are really on the field.
 - **Generated vocabularies beat review.** The `Superior Dora` class of error survives any number of
   careful readings and dies instantly to a closed disjunction of real names.
 - **A README naming every file catches what presence and length miss.** Presence is a property of
-  the file; accuracy is a property of its relationship to the directory.
+  the file; accuracy is a property of its relationship to the directory. Naming is only half:
+  it catches an *undocumented* file, not a *deleted* one, so backticked filenames must also exist.
+- **Matching a claim is not the claim being legal.** The zone check asserted that a step's declared
+  source zone matched the tracked one, so "Normal Summon Scrap Recycler from the deck" passed
+  happily, because Recycler really was in the deck. Writing Route 6 surfaced it; a Normal Summon
+  must now come from the hand.
+
+## Known limits
+
+The model checks **material legality**, not **effect legality**. It does not read card text, so it
+cannot tell that Crystron Smiger's search must fetch a *Tuner*, or that Babeldecker's rank 10
+effect needs the opponent to have activated something first. Writing a route that violates one of
+those will pass. Activation conditions are likewise unchecked, which is why the Diagram Token in
+Route 3 is described in prose rather than modelled.
+
+What it does check is everything structural: names, deck membership, summon limits, material
+composition, locks, usage limits, and whether each card was actually where the step claimed.

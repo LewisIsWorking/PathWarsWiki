@@ -1,0 +1,42 @@
+// 2026-08-10: Route 4, the Crystron Smiger disruption plan. Deliberately ends on a SMALL board
+// with a tuner still in hand, which is the correct shape for this deck rather than a failed turn.
+// There is no Xyz here: Smiger locks Machine SYNCHRO for the turn.
+//
+// AMELIA BUILD. Smiger fetches a Crystron TUNER from the deck, and Amelia is the build that runs
+// two of them (Tristaros and Citree), so one can be held in hand for the opponent's turn while the
+// other is fetched. Yukinon runs Tristaros alone, so holding it would leave Smiger nothing to get.
+//
+// ⚠️ The model does NOT verify that the fetched card satisfies Smiger's "Crystron Tuner"
+// restriction; it checks material legality, not effect legality. Writing this route with a
+// non-Tuner would pass. See README.md.
+module crystron.RouteSmiger
+
+import "Combo.pkl"
+
+route: Combo.Route = new {
+  name = "Crystron Smiger, the disruption plan"
+  build = "amelia"
+  opening { "Crystron Inclusion"; "Crystron Smiger"; "Crystron Tristaros" }
+  steps {
+    new { n = 1; card = "Crystron Inclusion"; action = "activate"; from = "hand"; to = "field"
+          oncePerTurn = "Crystron Inclusion:activate"
+          text = "Activate Inclusion, add 1 Crystron card from deck." }
+
+    new { n = 2; card = "Crystron Cluster"; action = "search"; from = "deck"; to = "hand"
+          text = "Take the continuous trap rather than a monster; the monsters are already here." }
+
+    new { n = 3; card = "Crystron Smiger"; action = "normal-summon"; from = "hand"; to = "field"
+          text = "Normal summon Smiger." }
+
+    new { n = 4; card = "Crystron Inclusion"; action = "destroy"; from = "field"; to = "gy"
+          text = "Smiger destroys your own Inclusion, which turns on its GY revive later." }
+
+    new { n = 5; card = "Crystron Citree"; action = "special-summon"; from = "deck"; to = "field"
+          appliesLock = "machine-synchro"
+          oncePerTurn = "Crystron Smiger:summon"
+          text = "Smiger summons a Crystron TUNER from deck. Locks Machine SYNCHRO: no Xyz, no Link." }
+
+    new { n = 6; card = "Crystron Cluster"; action = "activate"; from = "hand"; to = "field"
+          text = "SET Crystron Cluster. Live from the opponent's turn onward." }
+  }
+}

@@ -30,6 +30,11 @@ class Step {
   grantsNormalSummon: Int = 0
   /// Set when the step uses a card's documented alternate summon path.
   usesAltSummon: Boolean = false
+  /// 2026-08-10: The Level this card BECOMES, when an effect changes it.
+  /// Revolving Switchyard summons a Level 4 EARTH Machine and makes it Level 10; without this
+  /// the model rejects a correct Rank 10 line because the material is still Level 4 on paper.
+  /// Modelling Route 2 is what surfaced the gap.
+  becomesLevel: Int?
 }
 
 class Route {
@@ -45,6 +50,14 @@ class Route {
   function facts(c: String): Cards.CardFacts = Cards.cards[c]
   function isExtra(c: String): Boolean = List("synchro", "xyz", "link").contains(facts(c).kind)
   function levelOf(c: String): Int = facts(c).level
+
+  /// 2026-08-10: The EFFECTIVE Level of a card at the point step index `i` resolves, i.e. its
+  /// printed Level unless an earlier step changed it. Material checks must use this, not the
+  /// printed Level, or a legal line that relies on a Level change reads as illegal.
+  hidden levelChanges: List<Step> = stepList.filter((s) -> s.becomesLevel != null)
+  function effectiveLevel(c: String, i: Int): Int =
+    let (changed = levelChanges.filter((s) -> s.card == c && stepList.indexOf(s) < i))
+      if (changed.isEmpty) levelOf(c) else changed.last.becomesLevel!!
 
   // ---- zone tracking -------------------------------------------------------
   hidden startZones: Map<String, String> =
@@ -85,6 +98,14 @@ class Route {
         List("route uses \(used) Normal Summons but only \(1 + granted) are available")
       else List()
 
+  /// R3b. A Normal Summon must come from the HAND.
+  /// 2026-08-10: found while writing RouteFlyingLauncher. The zone check only asserts the claimed
+  /// zone matches the tracked one, so "Normal Summon Scrap Recycler from the deck" passed happily:
+  /// Recycler really WAS in the deck. Matching a claim is not the same as the claim being legal.
+  hidden normalSummonZoneErrors: List<String> = stepList
+    .filter((s) -> s.action == "normal-summon" && s.from != "hand")
+    .map((s) -> "step \(s.n): \(s.card) is Normal Summoned from \(s.from), but a Normal Summon must come from the hand")
+
   /// R4/R5/R6. Material composition against the authored rule for the result.
   hidden materialErrors: List<String> = stepList
     .filter((s) -> List("synchro", "xyz", "link").contains(s.action) && !s.usesAltSummon)
@@ -94,6 +115,10 @@ class Route {
     let (rule = Rules.requirements.toMap().getOrNull(s.result))
       if (rule == null) List("step \(s.n): no material rule authored for \(s.result)")
       else checkCount(s, rule) + checkTuners(s, rule) + checkLevels(s, rule) + checkRace(s, rule)
+
+  /// Material Levels are read AS AT this step, so a Level changed earlier in the route counts.
+  function matLevels(s: Step): List<Int> =
+    s.materials.toList().map((m) -> effectiveLevel(m, stepList.indexOf(s)))
 
   function checkCount(s: Step, rule: Rules.MaterialRule): List<String> =
     let (n = s.materials.toList().length)
@@ -108,11 +133,15 @@ class Route {
       else List()
 
   function checkLevels(s: Step, rule: Rules.MaterialRule): List<String> =
-    let (total = s.materials.toList().map((m) -> levelOf(m)).fold(0, (a, b) -> a + b))
+    let (lv = matLevels(s))
+    let (total = lv.fold(0, (a, b) -> a + b))
       if (rule.levelsMustTotal && total != levelOf(s.result))
         List("step \(s.n): materials total \(total), but \(s.result) is Level \(levelOf(s.result))")
-      else if (rule.sameLevel && s.materials.toList().any((m) -> levelOf(m) != levelOf(s.result)))
-        List("step \(s.n): \(s.result) is Rank \(levelOf(s.result)) but materials are Levels \(s.materials.toList().map((m) -> levelOf(m)))")
+      // 2026-08-10: joined by hand rather than interpolating the list, because Pkl renders a List
+      // as `List(10, 10, 4)` and CUE as `[10, 10, 4]`. The runner diffs message STRINGS, so any
+      // rendering difference reads as the two models disagreeing.
+      else if (rule.sameLevel && lv.any((l) -> l != levelOf(s.result)))
+        List("step \(s.n): \(s.result) is Rank \(levelOf(s.result)) but materials are Levels \(lv.join(", "))")
       else List()
 
   function checkRace(s: Step, rule: Rules.MaterialRule): List<String> =
@@ -156,5 +185,5 @@ class Route {
   /// Everything, so one run reports every problem.
   errors: List<String> =
     deckErrors + zoneErrors + materialZoneErrors + normalSummonErrors +
-    materialErrors + lockErrors + optErrors + opdErrors
+    normalSummonZoneErrors + materialErrors + lockErrors + optErrors + opdErrors
 }

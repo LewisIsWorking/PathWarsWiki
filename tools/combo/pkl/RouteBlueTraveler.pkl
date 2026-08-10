@@ -1,0 +1,50 @@
+// 2026-08-10: Route 2 from the Crystron Trains page, the Night Train Blue Traveler line,
+// taken down the "going first" branch into three Level 10s.
+//
+// AMELIA BUILD ONLY. It depends on Revolving Switchyard's summon effect, which needs a Level 4
+// EARTH Machine with 1800+ ATK in the deck. Amelia runs Flying Pegasus Railroad Stampede;
+// Yukinon runs nothing lower than Level 3 / 900 ATK, so this route cannot exist there.
+module crystron.RouteBlueTraveler
+
+import "Combo.pkl"
+
+route: Combo.Route = new {
+  name = "Night Train Blue Traveler into a rank 10"
+  build = "amelia"
+  opening { "Night Train Blue Traveler"; "Scrap Recycler" }
+  steps {
+    new { n = 1; card = "Night Train Blue Traveler"; action = "activate"; from = "hand"; to = "gy"
+          oncePerTurn = "Night Train Blue Traveler:search"
+          text = "Discard it to add Revolving Switchyard from deck." }
+
+    new { n = 2; card = "Revolving Switchyard"; action = "search"; from = "deck"; to = "hand"
+          text = "Added by Blue Traveler." }
+
+    new { n = 3; card = "Revolving Switchyard"; action = "activate"; from = "hand"; to = "field"
+          text = "Activate the field spell. Its own effect is NOT spent yet." }
+
+    new { n = 4; card = "Scrap Recycler"; action = "normal-summon"; from = "hand"; to = "field"
+          text = "Normal summon Recycler to get a second EARTH machine into the GY." }
+
+    new { n = 5; card = "Heavy Freight Train Derricrane"; action = "mill"; from = "deck"; to = "gy"
+          text = "Recycler on summon sends 1 Machine from deck to the GY." }
+
+    new { n = 6; card = "Night Train Blue Traveler"; action = "special-summon"; from = "gy"; to = "field"
+          appliesLock = "machine"
+          oncePerDuel = "Night Train Blue Traveler:revive"
+          text = "Blue Traveler's GY effect. ONCE PER DUEL. Locks Machine, so Xyz stays legal." }
+
+    new { n = 7; card = "Heavy Freight Train Derricrane"; action = "special-summon"; from = "gy"; to = "field"
+          text = "The other half of that revive: it summons BOTH." }
+
+    new { n = 8; card = "Flying Pegasus Railroad Stampede"; action = "special-summon"; from = "deck"; to = "field"
+          becomesLevel = 10
+          oncePerTurn = "Revolving Switchyard:effect"
+          text = "Switchyard effect B, off a level 10 being summoned. It BECOMES level 10. Costs you all battle damage this turn." }
+
+    new { n = 9; card = "Superdreadnought Rail Cannon Gustav Rocket"; action = "xyz"; from = "extra"; to = "field"
+          result = "Superdreadnought Rail Cannon Gustav Rocket"
+          materials { "Night Train Blue Traveler"; "Heavy Freight Train Derricrane"; "Flying Pegasus Railroad Stampede" }
+          text = "Three level 10s. Flying Pegasus only counts because step 8 changed its Level." }
+  }
+}

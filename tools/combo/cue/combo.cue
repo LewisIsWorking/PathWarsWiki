@@ -2,7 +2,10 @@
 // Same ruleset as pkl/Combo.pkl, so the comparison is language versus language.
 package crystron
 
-import "list"
+import (
+	"list"
+	"strings"
+)
 
 #Zone: "hand" | "deck" | "field" | "gy" | "banished" | "extra" | "opponent-field" | "attached"
 
@@ -26,6 +29,10 @@ import "list"
 	oncePerDuel:        string | *""
 	grantsNormalSummon: int | *0
 	usesAltSummon:      bool | *false
+	// 2026-08-10: The Level this card BECOMES when an effect changes it. 0 means unchanged.
+	// Revolving Switchyard summons a Level 4 EARTH Machine and makes it Level 10; without this
+	// the model rejects a correct Rank 10 line because the material is still Level 4 on paper.
+	becomesLevel: int | *0
 })
 
 #Route: {
@@ -53,14 +60,34 @@ import "list"
 		},
 	]
 
+	// R3b. A Normal Summon must come from the HAND.
+	// 2026-08-10: found while writing route_flying_launcher. The zone check only asserts the
+	// claimed zone matches the tracked one, so "Normal Summon Scrap Recycler from the deck"
+	// passed: Recycler really WAS in the deck. Matching a claim is not the claim being legal.
+	_nsZoneErrors: [
+		for s in steps if s.action == "normal-summon" && s.from != "hand" {
+			"step \(s.n): \(s.card) is Normal Summoned from \(s.from), but a Normal Summon must come from the hand"
+		},
+	]
+
 	// R4/R5/R6. Material composition.
-	_summonSteps: [for s in steps if list.Contains(["synchro", "xyz", "link"], s.action) && !s.usesAltSummon {s}]
+	//
+	// 2026-08-10: iterates `for i, s in steps` rather than over a pre-filtered list, because the
+	// effective-Level lookup needs the step's INDEX to know which Level changes happened before it.
+	// CUE has no functions, so the lookup is inlined per material.
 	_matErrors: list.FlattenN([
-		for s in _summonSteps {
+		for i, s in steps if list.Contains(["synchro", "xyz", "link"], s.action) && !s.usesAltSummon {
 			let r = requirements[s.result]
 			let n = len(s.materials)
 			let t = len([for m in s.materials if cards[m].tuner {m}])
-			let total = list.Sum([for m in s.materials {cards[m].level}])
+			// Effective Level per material: the last becomesLevel set before this step, else printed.
+			let lv = [
+				for m in s.materials {
+					let changes = [for j, u in steps if j < i && u.card == m && u.becomesLevel != 0 {u.becomesLevel}]
+					[if len(changes) > 0 {changes[len(changes)-1]}, cards[m].level][0]
+				},
+			]
+			let total = list.Sum(lv)
 			let want = cards[s.result].level
 			list.Concat([
 				[if n < r.minMaterials {"step \(s.n): \(s.result) needs at least \(r.minMaterials) materials, got \(n)"}],
@@ -68,11 +95,14 @@ import "list"
 				[if t < r.minTuners {"step \(s.n): \(s.result) needs at least \(r.minTuners) Tuner(s), got \(t)"}],
 				[if t > r.maxTuners {"step \(s.n): \(s.result) takes at most \(r.maxTuners) Tuner(s), got \(t)"}],
 				[if r.levelsMustTotal && total != want {"step \(s.n): materials total \(total), but \(s.result) is Level \(want)"}],
-				[if r.sameLevel && len([for m in s.materials if cards[m].level != want {m}]) > 0 {"step \(s.n): \(s.result) is Rank \(want) but materials are not all that Level"}],
+				// Joined by hand so the string matches Pkl's exactly; see the note in Combo.pkl.
+				[if r.sameLevel && len([for l in lv if l != want {l}]) > 0 {"step \(s.n): \(s.result) is Rank \(want) but materials are Levels \(strings.Join([for l in lv {"\(l)"}], ", "))"}],
 				[if r.requiresRace != "" && len([for m in s.materials if cards[m].race != r.requiresRace {m}]) > 0 {"step \(s.n): \(s.result) requires \(r.requiresRace) materials"}],
 			])
 		},
 	], 1)
+
+	_summonSteps: [for s in steps if list.Contains(["synchro", "xyz", "link"], s.action) && !s.usesAltSummon {s}]
 
 	// R7. The Extra Deck lock.
 	_lockErrors: list.FlattenN([
@@ -191,5 +221,5 @@ import "list"
 		},
 	], 1)
 
-	errors: list.Concat([_deckErrors, _nsErrors, _matErrors, _lockErrors, _optErrors, _opdErrors, _zoneErrors, _matZoneErrors])
+	errors: list.Concat([_deckErrors, _nsErrors, _nsZoneErrors, _matErrors, _lockErrors, _optErrors, _opdErrors, _zoneErrors, _matZoneErrors])
 }

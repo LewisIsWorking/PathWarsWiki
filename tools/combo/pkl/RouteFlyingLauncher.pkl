@@ -1,0 +1,36 @@
+// 2026-08-10: Route 6, Flying Launcher into Barrage Blast.
+// YUKINON BUILD ONLY: Amelia does not run Barrage Blast, which is the whole point of the line.
+// One copy earns its slot precisely because Flying Launcher searches it.
+module crystron.RouteFlyingLauncher
+
+import "Combo.pkl"
+
+route: Combo.Route = new {
+  name = "Flying Launcher fetches Barrage Blast"
+  build = "yukinon"
+  opening { "Heavy Armored Knight Babeldecker"; "Night Train Blue Traveler"; "Scrap Recycler" }
+  steps {
+    new { n = 1; card = "Heavy Armored Knight Babeldecker"; action = "normal-summon"; from = "hand"; to = "field"
+          text = "Normal summon WITHOUT tributing." }
+
+    new { n = 2; card = "Night Train Blue Traveler"; action = "special-summon"; from = "hand"; to = "field"
+          oncePerTurn = "Heavy Armored Knight Babeldecker:summon"
+          text = "Babeldecker on summon: special summon 1 EARTH machine from HAND." }
+
+    new { n = 3; card = "Superdreadnought Rail Cannon Flying Launcher"; action = "xyz"; from = "extra"; to = "field"
+          result = "Superdreadnought Rail Cannon Flying Launcher"
+          grantsNormalSummon = 1
+          materials { "Heavy Armored Knight Babeldecker"; "Night Train Blue Traveler" }
+          text = "Two level 10s. Also grants an EXTRA normal summon of a Machine, which is easy to miss." }
+
+    new { n = 4; card = "Barrage Blast"; action = "search"; from = "deck"; to = "hand"
+          oncePerTurn = "Superdreadnought Rail Cannon Flying Launcher:search"
+          text = "Flying Launcher on Xyz summon: add 1 EARTH machine OR Barrage Blast from deck." }
+
+    new { n = 5; card = "Barrage Blast"; action = "activate"; from = "hand"; to = "field"
+          text = "SET it. A trap, so it is live from the opponent's turn onward." }
+
+    new { n = 6; card = "Scrap Recycler"; action = "normal-summon"; from = "hand"; to = "field"
+          text = "The extra normal summon Flying Launcher granted. Recycler then mills a Machine." }
+  }
+}

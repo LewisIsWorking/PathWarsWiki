@@ -10,8 +10,13 @@ The Pkl model of the Master Duel combo ruleset. The CUE model in `../cue` encode
 | `Cards.pkl` | **GENERATED** by `../gen-cards.ps1`. The closed `CardName` vocabulary plus Level, Rank, Tuner, Race and Attribute for all 48 cards. Do not hand-edit. |
 | `Rules.pkl` | **AUTHORED.** Material requirements per Extra Deck monster, transcribed by hand from each card's material line, plus both reference decklists. |
 | `Combo.pkl` | The `Step` and `Route` classes and every check, including the zone fold. Emits an `errors` list. |
-| `RouteInclusion.pkl` | Route 1 from the wiki page, the Crystron Inclusion one-card line. Expected to be clean. |
-| `RouteBroken.pkl` | Fixture carrying seven planted illegalities, so the guards can be proved by feeding them. |
+| `RouteInclusion.pkl` | Route 1, the Crystron Inclusion one-card line. Amelia. |
+| `RouteBlueTraveler.pkl` | Route 2, Night Train Blue Traveler into a rank 10. Amelia only; it needs Switchyard's summon effect. |
+| `RouteSchedule.pkl` | Route 3, Exceptional Schedule into Centur-Ion Legatia. Yukinon. |
+| `RouteSmiger.pkl` | Route 4, the Smiger disruption plan. Amelia, because it runs two Crystron tuners. |
+| `RouteBabeldecker.pkl` | Route 5, Babeldecker into Juggernaut Liebe. Amelia. |
+| `RouteFlyingLauncher.pkl` | Route 6, Flying Launcher fetching Barrage Blast. Yukinon only. |
+| `RouteBroken.pkl` | Fixture carrying planted illegalities, so the guards can be proved by feeding them. |
 
 ## Running it
 
