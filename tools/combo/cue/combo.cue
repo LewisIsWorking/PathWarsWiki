@@ -122,11 +122,48 @@ import "list"
 		for c in opening {(c): "hand"}
 	}
 
-	_zonesBefore: [
-		for i, _ in steps {
-			(#ZoneFold & {inSteps: list.Slice(steps, 0, i), acc: _initZones}).out
+	// 2026-08-10: State accumulates by INDEX, not by recursion.
+	//
+	// The first attempt used a recursive definition (`#ZoneFold & {inSteps: list.Drop(...)}`) and
+	// silently applied only the FIRST step. The cause was a self-reference: inside that struct
+	// literal, `inSteps` resolves to the field being defined THERE, not the outer one, so the tail
+	// was never passed. Binding the tail to a `let` first fixes the self-reference and then hits
+	// CUE's `structural cycle` detector, which rejects recursive definitions of this shape outright.
+	//
+	// Indexed accumulation has neither problem: finite keys, each derived from the previous, so
+	// there is no recursion for the cycle detector to reject. Verified against the Pkl fold.
+	//
+	// The route is first flattened into ATOMIC MOVES, because a single step can move several cards
+	// (the acting card plus every material). Accumulating over moves rather than steps keeps this
+	// to one accumulation instead of one nested inside another.
+	_matZoneOf: [for s in steps {[if s.action == "xyz" {"attached"}, "gy"][0]}]
+
+	_stepMoves: [
+		for i, s in steps {
+			list.Concat([
+				[if s.to != "" {{card: s.card, zone: s.to}}],
+				[for m in s.materials {{card: m, zone: _matZoneOf[i]}}],
+			])
 		},
 	]
+
+	_allMoves: list.FlattenN(_stepMoves, 1)
+
+	// How many moves happen before step i, so a step can look up the state as it was on entry.
+	_moveOffset: [for i, _ in steps {list.Sum([for j, ms in _stepMoves if j < i {len(ms)}])}]
+
+	_moveStates: {
+		"0": _initZones
+		for i, mv in _allMoves {
+			"\(i+1)": {
+				let prev = _moveStates["\(i)"]
+				for k, v in prev if k != mv.card {(k): v}
+				(mv.card): mv.zone
+			}
+		}
+	}
+
+	_zonesBefore: [for i, _ in steps {_moveStates["\(_moveOffset[i])"]}]
 
 	// FINDING 2: a missing key is a HARD ERROR in CUE, and it kills the whole evaluation rather
 	// than producing a finding. Pkl says `getOrNull(x) ?? "nowhere tracked"`. CUE needs the keys

@@ -55,10 +55,15 @@ step claims and materials are really on the field.
 
 ## Learnings
 
-- **CUE cannot fold state across a sequence, and it fails silently.** Folding a struct over three
-  updates returns the result of the *first* one with no error. There is no `list.Reduce`, and
-  structs cannot be updated by unification because `acc & {x: "b"}` *fails* when `acc` already has
-  `x: "a"`. This is why zone findings are reported but not diffed: CUE's are known-unreliable.
+- **A wrong answer that arrives silently costs more than an error.** CUE's first zone fold applied
+  only the first step and reported nothing, and that was believed long enough to get written into
+  a README as a limitation of the language. It was a self-reference bug: in
+  `#Fold & {in: list.Drop(in, 1)}`, the `in` on the right resolves to the field being defined on
+  the left. Both models now agree on every finding with nothing excluded. Full account in
+  `cue/README.md`.
+- **"The tool cannot do X" deserves the same scepticism as any other claim.** Two attempts failed
+  before the third worked. Recursion is genuinely out (CUE rejects it as a `structural cycle`), but
+  indexed accumulation was there the whole time.
 - **A guard must be proved by feeding it.** `RouteBroken` is a fixture carrying seven planted
   illegalities, and the runner asserts an exact problem count. If that count ever drops, a check
   has stopped working. Without the fixture the suite would go green either way.

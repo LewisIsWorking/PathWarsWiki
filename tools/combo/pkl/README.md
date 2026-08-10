@@ -23,16 +23,23 @@ pkl eval -f json .\pkl\RouteInclusion.pkl
 
 Pkl is a single native binary. Put `pkl.exe` in `~/.local/bin`, which is already on PATH.
 
-## What this model does that the CUE one cannot
+## Zone tracking
 
-**Zone tracking.** Each step declares the zone it acts from and the zone it moves to, and
-`Combo.pkl` folds that across the route to check the claim. This is what catches a line that looks
-legal and cannot actually be executed, for example reviving a card that is still in the deck, or
-Xyz summoning with a material that is still in hand. CUE cannot express this fold at all, so its
-sequential findings are reported but excluded from the diff.
+Each step declares the zone it acts from and the zone it moves to, and `Combo.pkl` folds that
+across the route to check the claim. This catches a line that looks legal and cannot actually be
+executed: reviving a card still in the deck, or Xyz summoning with a material still in hand.
 
-That fold is the single most valuable check here, because every other check validates a step in
-isolation while this one validates the route as a *sequence*.
+It is the single most valuable check here, because every other check validates a step in isolation
+while this one validates the route as a *sequence*.
+
+The CUE model now does this too, by indexed accumulation, and produces identical findings. An
+earlier version of this README claimed CUE could not express the fold at all. That was wrong, and
+the mistake is worth keeping visible: the first CUE attempt returned a wrong answer **silently**,
+which is easy to mistake for a limitation of the tool rather than a bug in the code. See
+`../cue/README.md` for what actually went wrong.
+
+Pkl still writes it in three lines against CUE's twenty-odd, and Pkl's `fold` needs no explanation
+to a reader. That is an ergonomics argument, not a capability one.
 
 ## Why `errors` is unconstrained
 

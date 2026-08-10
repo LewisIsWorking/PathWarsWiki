@@ -30,13 +30,14 @@ $routes = @(
   @{ name = 'broken';    pkl = 'RouteBroken.pkl';    cue = 'route_broken.cue';    expr = 'routeBroken';    expect = 12 }
 )
 
-# 2026-08-10: A finding is "sequential" when it depends on state accumulated across earlier steps.
-# CUE cannot fold state (it returns a wrong answer SILENTLY, proven in the bake-off), so its
-# sequential findings are known-unreliable and are reported but NOT diffed. Everything else must
-# match exactly. Delete this split the day CUE grows a working fold.
-function Is-Sequential($msg) {
-  return ($msg -match 'is claimed to act from' -or $msg -match 'is not on the field')
-}
+# 2026-08-10: Every finding is diffed, with nothing excluded.
+#
+# An earlier version of this file excluded zone findings from the diff, on the belief that CUE
+# could not fold state across a sequence. That was wrong. CUE could not fold it RECURSIVELY -
+# a recursive definition either self-references (silently applying one step) or trips the
+# `structural cycle` detector - but INDEXED accumulation works, and now produces findings
+# identical to Pkl's. See cue/combo.cue. If an exclusion ever reappears here it needs the same
+# burden of proof, because an excluded check is an unchecked check.
 
 function Get-PklErrors($file) {
   $json = pkl eval -f json $file 2>&1 | Out-String
@@ -66,21 +67,19 @@ foreach ($r in $routes) {
     $fail += "route '$($r.name)': Pkl reported $($p.Count) problems, expected exactly $($r.expect)"
   }
 
-  $pShared = @($p | Where-Object { -not (Is-Sequential $_) } | Sort-Object)
-  $cShared = @($c | Where-Object { -not (Is-Sequential $_) } | Sort-Object)
-  $onlyPkl = @($pShared | Where-Object { $cShared -notcontains $_ })
-  $onlyCue = @($cShared | Where-Object { $pShared -notcontains $_ })
+  $pSorted = @($p | Sort-Object)
+  $cSorted = @($c | Sort-Object)
+  $onlyPkl = @($pSorted | Where-Object { $cSorted -notcontains $_ })
+  $onlyCue = @($cSorted | Where-Object { $pSorted -notcontains $_ })
 
   if ($onlyPkl.Count -or $onlyCue.Count) {
     $fail += "route '$($r.name)': the two models DISAGREE"
     $onlyPkl | ForEach-Object { $fail += "    only Pkl: $_" }
     $onlyCue | ForEach-Object { $fail += "    only CUE: $_" }
   } else {
-    Write-Host ("  {0,-12} agree on {1} shared findings" -f $r.name, $pShared.Count) -ForegroundColor Green
+    Write-Host ("  {0,-12} both models agree, {1} findings" -f $r.name, $pSorted.Count) -ForegroundColor Green
   }
 
-  $pSeq = @($p | Where-Object { Is-Sequential $_ })
-  if ($pSeq.Count) { $notes += "route '$($r.name)': $($pSeq.Count) sequential findings (Pkl only, CUE cannot fold state)" }
   if ($Verbose) { $p | ForEach-Object { Write-Host "    - $_" -ForegroundColor DarkGray } }
 }
 
@@ -95,7 +94,18 @@ foreach ($dir in @($root, "$root\cue", "$root\pkl")) {
   if ($text.Length -lt 400) { $fail += "README.md in $dir is too short to be useful ($($text.Length) chars)" }
   $missing = @(Get-ChildItem $dir -File | Where-Object { $_.Name -ne 'README.md' } | Where-Object { $text -notmatch [regex]::Escape($_.Name) })
   if ($missing.Count) { $missing | ForEach-Object { $fail += "README.md in $dir does not name $($_.Name)" } }
-  if (-not $missing.Count) { Write-Host ("  {0} names all its files" -f (Split-Path $dir -Leaf)) -ForegroundColor Green }
+
+  # 2026-08-10: The other half of the rule. Naming every file catches an UNDOCUMENTED file;
+  # it does not catch a file that was DELETED while the README kept describing it. That gap was
+  # real - cue/README.md went on naming zonefold.cue after the file was removed, and this check
+  # passed. A backticked bare filename (no path separator) must exist in this directory.
+  $named = [regex]::Matches($text, '`([A-Za-z0-9_.-]+\.(?:cue|pkl|ps1|md|json))`') | ForEach-Object { $_.Groups[1].Value } | Sort-Object -Unique
+  $stale = @($named | Where-Object { -not (Test-Path (Join-Path $dir $_)) })
+  if ($stale.Count) { $stale | ForEach-Object { $fail += "README.md in $dir names $_ which does not exist" } }
+
+  if (-not $missing.Count -and -not $stale.Count) {
+    Write-Host ("  {0} names all its files, no stale entries" -f (Split-Path $dir -Leaf)) -ForegroundColor Green
+  }
 }
 
 Write-Host ""
