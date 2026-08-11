@@ -91,6 +91,31 @@ foreach ($r in $routes) {
   if ($Verbose) { $p | ForEach-Object { Write-Host "    - $_" -ForegroundColor DarkGray } }
 }
 
+# 2026-08-11: Tie the models to the PROSE. Until now the checker validated routes that no reader
+# ever sees, while the wiki page could say anything. This closes half that gap: every modelled
+# route must be named on the combo page, so deleting or renaming a route without touching the page
+# fails. It does NOT verify the steps match - the page is prose and the model is data - so treat
+# this as a drift alarm rather than a proof of agreement.
+Write-Host "== models vs prose ==" -ForegroundColor Cyan
+$prosePage = Join-Path $root '..\..\Writerside\topics\Master-duel\Crystron-trains\Crystron-trains-combos.md'
+if (-not (Test-Path $prosePage)) {
+  $fail += "combo page not found at $prosePage"
+} else {
+  # Matched on the model FILENAME rather than the route's display name. A display name is prose and
+  # drifts for harmless reasons; a filename is an identifier, so the link stays exact and a rename
+  # on either side breaks the build loudly. Same reasoning as identifying by name, never by recency.
+  $prose = Get-Content $prosePage -Raw
+  $unnamed = @()
+  foreach ($r in $routes) {
+    if ($r.name -eq 'broken') { continue }  # a fixture, deliberately not in the prose
+    if ($prose -notmatch [regex]::Escape($r.pkl)) {
+      $unnamed += "route '$($r.name)' is modelled in $($r.pkl) but that model is not cited on the combo page"
+    }
+  }
+  if ($unnamed.Count) { $unnamed | ForEach-Object { $fail += $_ } }
+  else { Write-Host "  every modelled route is cited on the combo page" -ForegroundColor Green }
+}
+
 # 2026-08-10: Folder README rule, scoped to this tool. A README must exist and NAME EVERY FILE in
 # its directory - presence alone is a property of the file, accuracy is a property of its
 # relationship to the directory, and only the second catches a file nobody documented.
