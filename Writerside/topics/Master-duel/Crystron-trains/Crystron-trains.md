@@ -68,7 +68,7 @@ Card text on this page checked against the card database on 2026-08-09.
 > The Schedule spells.
 >> - Exceptional Schedule. Add Special Schedule or Urgent Schedule from deck.
 >> - ^ Then you MAY give your opponent a level 10 / 3000 ATK Diagram Token.
->> - ^ That looks insane. It is deliberate. See below.
+>> - ^ That looks insane. It is deliberate. See Route 3 on [Crystron Trains combos](Crystron-trains-combos.md).
 >> - Exceptional Schedule GY effect: send 1 card you control -> revive a level 10 machine.
 >> - Urgent Schedule. Requires YOUR OPPONENT TO CONTROL MORE MONSTERS THAN YOU.
 >> - ^ The Diagram Token you just gave them is how you turn that condition on.

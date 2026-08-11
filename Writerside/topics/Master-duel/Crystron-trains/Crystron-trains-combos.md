@@ -14,14 +14,15 @@ Card text checked against the card database on 2026-08-09.
 ## Combos.
 
 Every step below was checked against card text. Where a line depends on a card only one of the two
-reference builds plays, it is tagged AMELIA BUILD or YUKINON BUILD. Both are listed in the deck
-variants section further down.
+reference builds plays, it is tagged AMELIA BUILD or YUKINON BUILD. Both builds are listed in the
+deck variants section of [Crystron Trains](Crystron-trains.md).
 
 > How to read these.
 >> - Each route is named after the card you OPEN with.
 >> - "Locks Synchro" means Machine Synchro only for the turn. No Xyz, no Link.
 >> - "Locks Machine" means Machine monsters only. Xyz and Link are still legal.
->> - Decide which lock you are accepting on your FIRST activation. See the lock section above.
+>> - Decide which lock you are accepting on your FIRST activation.
+>> - ^ The two locks are explained on [Crystron Trains](Crystron-trains.md). Read that first.
 
 ### Starter quality.
 
