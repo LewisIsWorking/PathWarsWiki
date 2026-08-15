@@ -639,7 +639,7 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> - Leda offered help. 
 >> - Leda asks about the theme. Leda also says about where she's from they like festivals. 
 >> - Zokar tells Leda about services and shops. 
->> - At the end I had Leda do a religion check, they got a 41 and I said that they see within Zokar the spark of potential.
+>> - At the end I had Leda do a religion check, they got a 41, and I said that they see within Zokar the spark of potential.
 >> - One day Zokar could become a Sarenar worshipper if Leda brings light and hope to the town in the same Zokar brings light and hope to the town. 
 >> - Despite being offered the bowl of corpse chowder (which turned out to be fish stew) for free, Leda paid 1 silver piece then leaves.
 
@@ -746,7 +746,7 @@ Horia/Mike/Michael/Nem (Selenor) [Pathfinder], [16/01/2026 14:29]
 >> 9. But for now, Selenor wants to build the ward. Selenor only has 2.5 hours right now until 9am.
 >> 10. Vauran assigns the work table to Selenor.
 >> 11. Selenor uses arcana skill [master] to locate where the sense of undead magic is strongest.
->> 12. 32 total master arcaana check.
+>> 12. 32 total master arcana check.
 >> 13. Selenor places both hands flat on the worktable map.
 >> 14. Selenor's Three eyes open.
 >> 15. Selenor's mind allows him to understand the field of the Restlands.

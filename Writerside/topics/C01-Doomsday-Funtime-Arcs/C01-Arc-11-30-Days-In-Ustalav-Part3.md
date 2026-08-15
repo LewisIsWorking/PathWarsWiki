@@ -581,3 +581,69 @@ Horia Constantinescu (@Nemesiux) Anthony NegetZ (@MrNegetZ) Moss (@Mosssssssssss
 > Day 4/30. 10:00.
 >> 1. It is Wealday.
 >> 2. The party are preparing to go back to the prison.
+>> 3. Pevrin was the girl they saved.
+>> 4. Pevrin's father is Zokar the inn keeper.
+
+## Session 285.
+
+> Arc-11 part 16
+>> 1. Session 284.
+>> 2. 2026 August 14th Saturday + 4710 AR, Rova 14th (Wealday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 23:18.
+>> 5. Delay duration: 1 hours & 18 minutes.
+>> 6. IRL finish time: ???.
+>> 7. Session duration: 23:18 -> : = x hours & x minutes.
+>> 8. Players present: 4 = Horia (playing Selenor), PJ (playing Baylan Hilom), Fuzzy (playing Warden) 2nd session & Theaitetos (playing Melody) 2nd session.
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 4/30.
+>> 11. In-game time: 10:30am.
+>> 12. ^ Lucky left the campaign.
+
+> Day 4/30. 10:30.
+>> 1. It is Wealday.
+>> 2. The party are having breakfast.
+>> 3. The Golden Page is currently at 6, the Professor's page burns up and the page goes from 6 to 7.
+
+> Day 4/30. 11:30.
+>> 1. Raven Grow town hall.
+>> 2. Old halfling woman is Shanda's receptionist.
+>> 3. Talking to Councilwoman Shanda.
+>> 4. Selenor tells the councilwoman about going to Grey wall prison.
+>> 5. Selenor says he has met Shanda.
+>> 6. Selenor thinks he met someone who was an illusion of Shanda.
+>> 7. Shanda knows Allisee's father (years of diplomatic missions with Taldor).
+>> 8. Selenor makes a good impression on Shanda (45 diplomacy check).
+
+> Day 4/30. 12:00.
+>> 1. The party enter the basement Raven Grow archive and spend 2 hours doing each.
+>> 2. Occultism: Allisee, 45, critical success. 
+>> 3. Society: Katmidlar, 35, success.
+>> 4. Religion: Princess Melody, 36, success.
+>> 5. Diplomacy: Selenor, 38, success.
+>> 6. 12:00 -> 14:00.
+>> 7. Research is done.
+
+> Day 4/30. 14:00.
+>> 1. Egan Murl (farming association) waits for the party outside the town hall.
+>> 2. Egan's goat Betty is dead.
+>> 3. Some people are gathered around the Warden's mural.
+>> 4. Egan is about to take the party out of town.
+>> 5. A crowd has gathered around the statue and see the "A" in blood.
+>> 6. The warden's wife was/is called Veronica.
+>> 7. Melody figures out that there are two layers of magic, one inside the statue, one is the blood letter "A".
+>> 8. Melody uses a rainbow beam from the cosmos projected from her staff "Wish upon a star" (aka Cleanse Affliction) on the letter.
+>> 9. Melody gets a 40, wiping the blood way.
+>> 10. The Golden Page goes from 7 to 8.
+
+> Day 4/30. 14:30.
+>> 1. Egan's farm.
+>> 2. Medicine, Survival, Occultism.
+>> 3. ^ Did all the checks.
+>> 4. Walk back to Raven Grow.
+
+> Day 4/30. 14:40.
+>> 1. Katmidlar goes to the harrow with Warden and Melody, buys a bunch of recipes (mostly drugs & bombs) from Ever-Ready Jacob.
+>> 2. ^ I am going to spell his name Jacob from now on.
+
+> END OF SESSION 05:57am.
