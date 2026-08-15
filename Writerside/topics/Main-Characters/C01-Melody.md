@@ -57,7 +57,7 @@ You should write your character assuming they do not have their 2nd class yet as
 >> - Question: What is your character's Race?
 >> - Answer: Elf
 >> - Question: What is your character's Sub-Race?
->> - Answer: Ancient Elf
+>> - Answer: Mixed Heritage (Sarcesian)
 >> - Question: Has your character met other members of their race?
 >> - Answer: Yes, raised in high-elven aristocracy in Jinin.
 >> - Question: Does your character like your race?
