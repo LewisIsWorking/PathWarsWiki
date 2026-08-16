@@ -54,8 +54,13 @@ jobs:
             https://github.com/LewisIsWorking/telegram-pbp-reminder.git \
             /tmp/botrepo
           cd /tmp/botrepo
-          git sparse-checkout set data/pbp_logs config.json
+          # --no-cone because cone mode treats every argument as a
+          # DIRECTORY, and config.json is a file: cone mode fails with
+          # "'config.json' is not a directory". Found by running this
+          # workflow rather than by reading it.
+          git sparse-checkout set --no-cone /data/pbp_logs/ /config.json
           test -d data/pbp_logs || { echo "archive missing"; exit 1; }
+          test -f config.json  || { echo "config missing";  exit 1; }
 
       - name: Publish into the wiki
         run: |
