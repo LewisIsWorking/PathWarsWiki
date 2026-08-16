@@ -1,0 +1,78 @@
+name: Sync PBP transcripts
+
+# Publish the PathWarsNudge bot's play-by-post archive into this wiki.
+#
+# ⭐ This PULLS, it does not get pushed to. The bot's repo is public, so
+# this workflow can read it with no credentials at all, and it writes only
+# to its own repository using the built-in GITHUB_TOKEN. The alternative —
+# the bot pushing here — would mean storing a personal access token with
+# write access to this repo in another repo's secrets. Pulling needs no
+# new credential to exist anywhere, so that is what this does.
+#
+# The bot repo stays the source of truth. Everything under
+# topics/Play-by-posts/Transcripts/ is generated and gets overwritten.
+
+on:
+  schedule:
+    # Twice a day. The transcripts change constantly, but nobody reads a
+    # wiki mirror minute-to-minute, and every run that finds a change is
+    # a commit — hourly would make the history unreadable for no gain.
+    - cron: '20 6,18 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: sync-pbp-transcripts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install test dependencies
+        run: pip install pytest
+
+      # Run before syncing, not after. The sync writes 170+ files; finding
+      # out afterwards that the naming rule regressed means reviewing a
+      # commit that has already renamed everything.
+      - name: Test the sync logic
+        run: python -m pytest scripts/pbp_sync -q
+
+      - name: Fetch the transcript archive
+        run: |
+          # Sparse + blobless: the bot repo carries years of state files
+          # and we want two paths out of it.
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/LewisIsWorking/telegram-pbp-reminder.git \
+            /tmp/botrepo
+          cd /tmp/botrepo
+          git sparse-checkout set data/pbp_logs config.json
+          test -d data/pbp_logs || { echo "archive missing"; exit 1; }
+
+      - name: Publish into the wiki
+        run: |
+          python scripts/pbp_sync/sync.py \
+            --source /tmp/botrepo/data/pbp_logs \
+            --config /tmp/botrepo/config.json
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Writerside/topics/Play-by-posts/Transcripts Writerside/pbp.tree
+          # `git diff --cached --quiet` exits 1 when there IS something
+          # staged, which is the success case here.
+          if git diff --cached --quiet; then
+            echo "No transcript changes."
+          else
+            git commit -m "Sync PBP transcripts from the nudge bot [skip ci]"
+            git push
+          fi
