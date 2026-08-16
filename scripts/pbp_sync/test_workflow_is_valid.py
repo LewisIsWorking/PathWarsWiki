@@ -88,6 +88,23 @@ def test_sparse_checkout_is_not_in_cone_mode():
     assert "sparse-checkout set --no-cone" in body
 
 
+def test_only_the_policy_failure_is_tolerated():
+    """The PR step swallows one named condition and no other.
+
+    "Allow GitHub Actions to create and approve pull requests" is off by
+    default, and the branch push — the actual job — has already
+    succeeded by then, so failing the run over it would be noise. But a
+    step that swallowed EVERY error is how a broken sync reports success
+    for a month. The tolerance must be narrow and the error path must
+    still exit non-zero.
+    """
+    body = SYNC.read_text(encoding="utf-8")
+    assert "not permitted to create or approve pull requests" in body, (
+        "the tolerated condition must be matched by name, not by exit code")
+    assert "exit $CODE" in body, "any other failure must still fail the run"
+    assert "::error::" in body, "and must be visible as an error"
+
+
 def test_the_workflow_never_pushes_to_master():
     """master is protected and requires a review. A workflow that tries
     fails at the last step, after doing all the work."""
