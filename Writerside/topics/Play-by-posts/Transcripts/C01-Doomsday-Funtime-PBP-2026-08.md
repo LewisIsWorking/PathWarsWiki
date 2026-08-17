@@ -414,3 +414,11 @@ You did the skill checks, found out more information then left.
 **PJ** (2026-08-15 23:09:26) msg#172309@25059:
 Interviewed farmers in town to find a pattern and possible next target but was adviced that there's no pattern so no idea yet where the next attack will be... Ü
 
+### 📅 Sunday, Aug 16
+
+**Path Wars** [GM] (2026-08-16 22:58:26) msg#172536@25059:
+So what does the group do next?
+
+**Path Wars** [GM] (2026-08-16 22:59:01) msg#172537@25059:
+It is 15:00, in the Harrow, ready to go back to Raven Grow.
+
