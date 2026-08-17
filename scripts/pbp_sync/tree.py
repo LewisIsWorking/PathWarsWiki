@@ -27,13 +27,22 @@ _HEADER = """<?xml version="1.0" encoding="UTF-8"?>
 _FOOTER = "</instance-profile>\n"
 
 
-def render_tree(jobs) -> str:
+def render_tree(jobs, master_index: str, index_for) -> str:
     """Build the instance profile XML from the sync plan.
 
     ``jobs`` is the list of ``(src, dest_name, code, slug, month)`` tuples
     that ``sync`` is about to publish, so the tree can never list a page
     that was not written — the two come from one plan rather than two
     independent walks of the directory.
+
+    ``master_index`` becomes the start page, and ``index_for(code, slug)``
+    supplies each campaign's index page, which becomes the campaign's own
+    node with its months nested underneath. Both are REQUIRED arguments
+    rather than optional extras: the first version of this function took
+    only ``jobs`` and made the newest transcript the start page, so adding
+    index pages without changing the signature would have left them
+    written to disk and absent from the sidebar — published, unreachable,
+    and looking finished.
     """
     by_campaign: dict[tuple, list] = defaultdict(list)
     for _src, dest, code, campaign_slug, month in jobs:
@@ -44,18 +53,14 @@ def render_tree(jobs) -> str:
         # refuses to build, so emit nothing at all instead.
         return _HEADER.format(start="") + _FOOTER
 
-    ordered = sorted(by_campaign.items())
-    newest = max(month for months in by_campaign.values()
-                 for month, _ in months)
-    start = next(dest for months in by_campaign.values()
-                 for month, dest in months if month == newest)
-
-    out = [_HEADER.format(start=start)]
-    for (code, campaign_slug), months in ordered:
-        title = f"{code} {campaign_slug.replace('-', ' ')}"
-        out.append(f'    <toc-element toc-title="{title}">\n')
+    out = [_HEADER.format(start=master_index)]
+    out.append(f'    <toc-element topic="{master_index}">\n')
+    for (code, campaign_slug), months in sorted(by_campaign.items()):
+        out.append(
+            f'        <toc-element topic="{index_for(code, campaign_slug)}">\n')
         for _month, dest in sorted(months, reverse=True):
-            out.append(f'        <toc-element topic="{dest}"/>\n')
-        out.append("    </toc-element>\n")
+            out.append(f'            <toc-element topic="{dest}"/>\n')
+        out.append("        </toc-element>\n")
+    out.append("    </toc-element>\n")
     out.append(_FOOTER)
     return "".join(out)

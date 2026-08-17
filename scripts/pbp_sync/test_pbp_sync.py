@@ -19,6 +19,7 @@ import pytest
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import sync as sync_mod
+from index import campaign_index_name
 from tree import render_tree
 
 CONFIG = json.dumps({"topic_pairs": [
@@ -43,7 +44,7 @@ def test_page_has_one_h1_and_a_do_not_edit_banner(tmp_path, monkeypatch):
     monkeypatch.setattr(sync_mod, "TREE_PATH", tmp_path / "pbp.tree")
     monkeypatch.setattr(sync_mod, "TOPICS_DIR", tmp_path / "out")
     sync_mod.sync(_archive(tmp_path), CONFIG)
-    page = (tmp_path / "out" / "C06-Kibwe-PBP-2026-08.md").read_text(
+    page = (tmp_path / "out" / "2026" / "C06-Kibwe-PBP-2026-08.md").read_text(
         encoding="utf-8")
     assert page.count("\n# ") + page.startswith("# ") == 1
     assert "do not edit here" in page
@@ -67,10 +68,11 @@ def test_pruning_removes_a_page_whose_source_vanished(tmp_path, monkeypatch):
     monkeypatch.setattr(sync_mod, "TOPICS_DIR", tmp_path / "out")
     src = _archive(tmp_path)
     sync_mod.sync(src, CONFIG)
-    (out / "C06-Kibwe-PBP-1999-01.md").write_text("stale", encoding="utf-8")
+    (out / "1999").mkdir(parents=True, exist_ok=True)
+    (out / "1999" / "C06-Kibwe-PBP-1999-01.md").write_text("stale", encoding="utf-8")
     sync_mod.sync(src, CONFIG)
-    assert not (out / "C06-Kibwe-PBP-1999-01.md").exists()
-    assert (out / "C06-Kibwe-PBP-2026-08.md").exists()
+    assert not (out / "1999" / "C06-Kibwe-PBP-1999-01.md").exists()
+    assert (out / "2026" / "C06-Kibwe-PBP-2026-08.md").exists()
 
 
 # ── The wider collision invariant ────────────────────────────────────────────
@@ -109,22 +111,30 @@ def test_tree_lists_every_published_page_and_nothing_else():
     """Tree and pages come from ONE plan, so they cannot disagree."""
     jobs = [(Path("a"), "C06-Kibwe-PBP-2026-08.md", "C06", "Kibwe", "2026-08"),
             (Path("b"), "C06-Kibwe-PBP-2026-07.md", "C06", "Kibwe", "2026-07")]
-    xml = render_tree(jobs)
+    xml = render_tree(jobs, "PBP-Transcripts.md", campaign_index_name)
     for _s, dest, *_ in jobs:
         assert f'topic="{dest}"' in xml
-    assert xml.count("<toc-element topic=") == len(jobs)
+    # Every transcript, plus the master index, plus one index per
+    # campaign. Counting exactly is what catches a page written to disk
+    # and left out of the sidebar.
+    assert xml.count("<toc-element topic=") == len(jobs) + 2
 
 
-def test_tree_groups_by_campaign_newest_first():
+def test_tree_nests_months_under_their_campaign_index():
+    """The index is the campaign's node, not a sibling of it."""
     jobs = [(Path("a"), "C06-K-PBP-2026-07.md", "C06", "K", "2026-07"),
             (Path("b"), "C06-K-PBP-2026-08.md", "C06", "K", "2026-08")]
-    xml = render_tree(jobs)
-    assert xml.index("2026-08") < xml.index("2026-07")
-    assert xml.count("toc-title=") == 1
+    xml = render_tree(jobs, "PBP-Transcripts.md", campaign_index_name)
+    idx = xml.index(campaign_index_name("C06", "K"))
+    assert idx < xml.index("2026-08") < xml.index("2026-07"), (
+        "campaign index first, then its months newest-first")
 
 
-def test_tree_start_page_is_a_page_it_lists():
-    """A start-page Writerside cannot resolve fails the build."""
+def test_tree_start_page_is_the_master_index():
+    """A reader opening the instance should land on the overview, not on
+    whichever transcript happened to be newest."""
     jobs = [(Path("a"), "C06-K-PBP-2026-08.md", "C06", "K", "2026-08")]
-    xml = render_tree(jobs)
-    assert 'start-page="C06-K-PBP-2026-08.md"' in xml
+    xml = render_tree(jobs, "PBP-Transcripts.md", campaign_index_name)
+    assert 'start-page="PBP-Transcripts.md"' in xml
+    assert 'topic="PBP-Transcripts.md"' in xml, (
+        "a start-page Writerside cannot resolve fails the build")

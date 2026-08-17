@@ -22,9 +22,17 @@ import argparse
 import sys
 from pathlib import Path
 
+from guards import _assert_unique, assert_no_duplicate_topics  # noqa: F401
+from index import (campaign_index_name, render_campaign_index,
+                   render_master_index)
 from naming import (NOT_A_CAMPAIGN, is_month_file, published_name,
                     resolve_campaigns, title_for)
+from publish import _body, _group_username, _year_of
+from render import count_messages, date_span, speakers
 from tree import render_tree
+
+# The one page to link to from the rest of the wiki.
+MASTER_INDEX = "PBP-Transcripts.md"
 
 WIKI_ROOT = Path(__file__).resolve().parent.parent.parent
 TOPICS_DIR = WIKI_ROOT / "Writerside" / "topics"
@@ -37,12 +45,6 @@ TREE_PATH = WIKI_ROOT / "Writerside" / "pbp.tree"
 # the source archive. A path computed by counting parents silently means
 # something different the moment its base moves.
 
-BANNER = (
-    "> ⚠️ **Generated page — do not edit here.**\n"
-    "> This transcript is archived automatically by the PathWarsNudge bot\n"
-    "> and copied into the wiki. Any change made on this page is lost on\n"
-    "> the next sync. Fix it in the bot's `data/pbp_logs/` instead.\n"
-    "{#generated-banner}\n\n")
 
 
 def _plan(source_root: Path, config_text: str):
@@ -59,65 +61,28 @@ def _plan(source_root: Path, config_text: str):
     return jobs, unmapped, dirs
 
 
-def _assert_unique(jobs) -> None:
-    """No two published pages may share a filename.
+def _write_indexes(by_campaign: dict, expected: set,
+                   expected_paths: set) -> int:
+    """Write the per-campaign and master index pages. Returns files written."""
+    written = 0
+    for (code, campaign_slug), months in by_campaign.items():
+        name = campaign_index_name(code, campaign_slug)
+        expected.add(name)
+        body = render_campaign_index(code, campaign_slug, months)
+        target = OUT_DIR / name
+        expected_paths.add(target)
+        if not target.exists() or target.read_text(encoding="utf-8") != body:
+            target.write_text(body, encoding="utf-8")
+            written += 1
 
-    Writerside resolves ``.tree`` topics by bare filename across the whole
-    topics tree, so a collision does not error — it silently points every
-    reference at one of the twins. Fail here instead.
-    """
-    seen: dict[str, Path] = {}
-    for src, dest, *_ in jobs:
-        if dest in seen:
-            raise SystemExit(
-                f"Filename collision: {dest} would be written from both "
-                f"{seen[dest]} and {src}. Writerside resolves topics by "
-                f"bare filename, so this would silently publish one and "
-                f"hide the other.")
-        seen[dest] = src
-
-
-def assert_no_duplicate_topics(topics_root: Path) -> None:
-    """No two .md files anywhere under topics/ may share a basename.
-
-    ``_assert_unique`` only compares the pages this script is about to
-    write. This is the wider invariant, and it is the one that actually
-    protects the wiki: Writerside resolves ``.tree`` topics by bare
-    filename across the WHOLE topics tree, so a generated page colliding
-    with a hand-written one is just as silent as two generated pages
-    colliding with each other — and far easier to introduce, because the
-    person adding the hand-written page has no reason to look here.
-
-    Checked after writing, over the real tree, so it cannot be fooled by
-    a stale plan.
-    """
-    seen: dict[str, Path] = {}
-    clashes = []
-    for path in topics_root.rglob("*.md"):
-        other = seen.get(path.name)
-        if other is not None:
-            clashes.append((path.name, other, path))
-        seen[path.name] = path
-    if clashes:
-        lines = "\n".join(f"  {n}: {a} and {b}" for n, a, b in clashes)
-        raise SystemExit(
-            f"Duplicate topic filenames under {topics_root}:\n{lines}\n"
-            f"Writerside resolves topics by bare filename, so one of each "
-            f"pair would silently never be published. Rename one.")
-
-
-def _body(src: Path, code: str, campaign_slug: str, month: str) -> str:
-    """The published page: a title, the banner, then the archive verbatim.
-
-    The source's own ``# Campaign — YYYY-MM`` heading is dropped so the
-    page has exactly one H1, which is what Writerside wants.
-    """
-    raw = src.read_text(encoding="utf-8", errors="replace")
-    lines = raw.splitlines()
-    if lines and lines[0].startswith("# "):
-        lines = lines[1:]
-    return (f"# {title_for(code, campaign_slug, month)}\n\n"
-            + BANNER + "\n".join(lines).lstrip("\n") + "\n")
+    expected.add(MASTER_INDEX)
+    body = render_master_index(by_campaign, [])
+    target = OUT_DIR / MASTER_INDEX
+    expected_paths.add(target)
+    if not target.exists() or target.read_text(encoding="utf-8") != body:
+        target.write_text(body, encoding="utf-8")
+        written += 1
+    return written
 
 
 def sync(source_root: Path, config_text: str, *, prune: bool = True) -> int:
@@ -133,32 +98,59 @@ def sync(source_root: Path, config_text: str, *, prune: bool = True) -> int:
             f"than a failed run.")
     _assert_unique(jobs)
 
+    group_username = _group_username(config_text)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     written, expected = 0, set()
+    expected_paths: set[Path] = set()
+    by_campaign: dict = {}
     for src, dest, code, campaign_slug, month in jobs:
         expected.add(dest)
-        target = OUT_DIR / dest
-        body = _body(src, code, campaign_slug, month)
+        # Year folders: a human browsing the repo wants 2026/ not 173
+        # files in one directory. Writerside resolves topics by bare
+        # filename, so the nesting is free.
+        target = OUT_DIR / _year_of(month) / dest
+        expected_paths.add(target)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        raw = src.read_text(encoding="utf-8", errors="replace")
+        body = _body(raw, code, campaign_slug, month, group_username)
+        # ⚠️ Stats come from RAW, never from the rendered body. Rendering
+        # rewrites exactly the lines these functions match, so counting
+        # the output reports zero of everything — which it did, silently,
+        # on the first run: "0 messages" across all ten campaigns, in a
+        # table that otherwise looked perfectly correct.
+        by_campaign.setdefault((code, campaign_slug), []).append(
+            (month, dest, count_messages(raw), date_span(raw), speakers(raw)))
         # Compare before writing so an unchanged month does not churn the
-        # git history every hour.
+        # git history every sync.
         if target.exists() and target.read_text(encoding="utf-8") == body:
             continue
         target.write_text(body, encoding="utf-8")
         written += 1
 
+    written += _write_indexes(by_campaign, expected, expected_paths)
+
     removed = 0
     if prune:
-        # Only ever inside Transcripts/, which this script owns entirely.
-        # Hand-written pages live one level up in Play-by-posts/ and are
-        # never touched.
-        for stale in OUT_DIR.glob("*.md"):
-            if stale.name not in expected:
+        # ⚠️ Prune by PATH, not by basename. When the pages moved into
+        # year folders the old flat copy and the new nested one shared a
+        # name, so a name-based sweep kept both — and the duplicate-topic
+        # guard then failed the whole run, correctly, on files this step
+        # was supposed to have removed. A name is not an identity once
+        # the same name can live in two places.
+        #
+        # rglob, not glob, for the same reason: a glob would have quietly
+        # stopped pruning anything the moment the pages nested.
+        for stale in OUT_DIR.rglob("*.md"):
+            if stale not in expected_paths:
                 stale.unlink()
                 removed += 1
+        for empty in sorted(OUT_DIR.rglob("*"), reverse=True):
+            if empty.is_dir() and not any(empty.iterdir()):
+                empty.rmdir()
 
     assert_no_duplicate_topics(TOPICS_DIR)
 
-    tree = render_tree(jobs)
+    tree = render_tree(jobs, MASTER_INDEX, campaign_index_name)
     if not TREE_PATH.exists() or TREE_PATH.read_text(encoding="utf-8") != tree:
         TREE_PATH.write_text(tree, encoding="utf-8")
         written += 1

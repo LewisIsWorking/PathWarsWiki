@@ -30,6 +30,36 @@ python scripts/pbp_sync/sync.py \
 Idempotent — a run that changes nothing writes nothing. `.github/workflows/sync-pbp-transcripts.yml`
 does the same twice a day and commits only on a real change.
 
+## What the pages look like
+
+Message headers are rewritten. The archive stores
+
+    **Ryo Yamakawa** (2026-08-15 07:51:12) msg#172171@40585:
+
+which repeats the date the day heading already gave, the seconds nobody
+needs, and thirteen digits of ids. Published, that becomes
+
+    **Ryo Yamakawa** · 07:51 · [↗](https://t.me/Path_Wars/40585/172171)
+
+⭐ The id is not dropped, it is **spent**: those two numbers are exactly
+what a `t.me` deep link needs, so the noisiest part of the line becomes
+the one thing the wiki could not otherwise offer — a jump straight to the
+message. Ids only exist from 2026, so earlier lines render without a link
+rather than with a broken one.
+
+⚠️ **Only headers change.** Prose, images, week and day headings all pass
+through byte for byte, and `test_only_header_lines_differ` pins that.
+
+## Layout
+
+    Transcripts/
+      PBP-Transcripts.md          master index, the instance start page
+      C06-Kibwe-PBP-Index.md      one per campaign: months, counts, voices
+      2023/ 2024/ 2025/ 2026/     the transcripts themselves
+
+Year folders are for humans browsing the repo; Writerside resolves topics
+by bare filename and does not care where they sit.
+
 ## The trap worth knowing about
 
 ⛔ **Writerside resolves `.tree` topics by bare filename**, recursively
