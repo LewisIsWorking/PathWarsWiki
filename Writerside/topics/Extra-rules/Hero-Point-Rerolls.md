@@ -1,23 +1,26 @@
 # Hero Point rerolls — what ours is actually worth
 
-> **The rule we use.** Spend 1 Hero Point to reroll a check. You must take the new result — **but if the reroll lands under 10, it gets +10.**
->> Handled automatically by the PF2e Workbench module. You do not have to do the maths at the table.
+> **Core rule (Player Core).** Spend 1 Hero Point to reroll a check. **You must use the second result.** It is a *fortune* effect, so you can only use one on a given check. You hold at most 3, and unspent points are lost at the end of the session.
+
+> **Our house variant**, applied automatically by the PF2e Workbench module: **if the reroll die comes up 10 or lower, you get +10 to the check.**
 >> See also: [Foundry-FAQ.md](Foundry-FAQ.md) and [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md).
 
-There are several Hero Point variants doing the rounds. We compared them properly, and **the one Path Wars already runs is the strongest of the lot.** This page is here so you actually use it that way.
+Several Hero Point variants get discussed. We compared all of them properly, and **ours is the strongest.** This page exists so you use it that way.
 
 ---
 
 ## The one thing to take away
 
-> ⭐ **Your Hero Point reroll can never land below 10.**
+> ⭐ **Your reroll contributes at least 11 to the check. Always.**
 
-A reroll of 1 becomes 11. A 9 becomes 19. A 10 stays 10. **The floor is 10, always.**
+A reroll of 1 gives 11. A 9 gives 19. **A 10 gives 20.** Anything 11 or higher is left alone. There is no result below 11.
 
-That has two consequences worth remembering mid-fight:
+- **Anything you needed an 11 or less for is now a guaranteed success.**
+- The average contribution is **15.5**. If your die showed less than that, a reroll expects to beat it — including rerolling a mediocre *success* to reach for a critical.
 
-- **You cannot critically fail a Hero Point reroll on the die.** The low end simply does not exist any more.
-- **Anything you needed a 10 or less for is now a guaranteed success.** Not likely. Guaranteed.
+> ⚠️ **But you can still critically fail.** Our variant adds **+10 to the total**; it does not change the number on the die. A natural 1 is still a natural 1, and a natural 1 still drops you one degree of success. That is a flat **5% of rerolls**, and it is the one weakness our rule has.
+>
+> ⚠️ The same quirk cuts the other way: a rerolled **10** contributes 20, but the die still shows 10 — so it does **not** count as a natural 20 and does **not** upgrade you to a critical success.
 
 ---
 
@@ -25,65 +28,61 @@ That has two consequences worth remembering mid-fight:
 
 | You needed… | Chance the reroll saves you |
 |---|---|
-| **10 or less** | **100%** |
-| 11 | 95% |
-| 12 | 85% |
-| 13 | 75% |
-| 14 | 65% |
-| 15 | 55% |
-| 16 | 45% |
-| 17 | 35% |
-| 18 | 25% |
-| 19 | 15% |
-| 20 | 5% |
+| **11 or less** | **100%** |
+| 12 | 90% |
+| 13 | 80% |
+| 14 | 70% |
+| 15 | 60% |
+| 16 | 50% |
+| 17 | 40% |
+| 18 | 30% |
+| 19 | 20% |
+| 20 | 10% |
 
 *(“Needed” = the number you had to roll on the die, after all your modifiers.)*
 
-> 💡 Compare that to a plain reroll, where needing a 15 leaves you on **30%**. Ours puts you on **55%** — you are more likely than not to make it.
+> 💡 A plain reroll leaves you on **30%** when you need a 15. Ours puts you on **60%** — twice the chance, and better than a coin flip.
 
 ---
 
 ## When to spend one
 
-> **Spend on the hard checks.** This is the opposite of the usual advice, and it is because of how our specific variant works.
->> Some variants only rescue easy rolls. Ours keeps helping all the way up the scale — needing a 17 goes from 20% to 35%, which is most of the way to doubling your chances.
+> **Spend on the hard checks.** This is the opposite of the usual advice, and it is specific to our variant: some rules only rescue easy rolls, whereas ours keeps helping all the way up. Needing a 17 goes from 20% to 40%.
 
-> **The average result of a Hero Point reroll is 15.**
->> Rough rule of thumb: **if your die came up under 15, a reroll expects to beat it.** That includes rerolling a mediocre *success* to reach for a critical, not just rescuing failures.
->> ⚠️ Treat that as a guide, not gospel — what matters is the degree of success you need, not the number on the die.
+> **You must take the new result.** There is no “keep the better one” here — the floor of 11 is what protects you instead.
 
-> **You must take the new result.** There is no "keep the better one" here. The floor of 10 is what protects you instead.
+> **One per check.** It is a fortune effect, so a second Hero Point cannot be spent on the same roll, and it will not stack with another reroll effect.
 
 ---
 
-## Why we use this one
+## Why ours is the strongest
 
-Four variants get discussed. Here is how they compare **for the thing you actually use a Hero Point for — rescuing a check you just failed.**
+Four variants get discussed. Averaged across the checks a mid-level party actually faces (needing 8–18 on the die), and counting full degrees of success rather than just pass/fail:
 
-| Variant | Needed 10 | Needed 15 | Needed 18 |
-|---|---|---|---|
-| **Ours (+10 if under 10)** | **100%** | **55%** | **25%** |
-| Floor of 10 (“Galactic”) | 100% | 30% | 15% |
-| Keep the highest of the two | 55% | 30% | 15% |
-| Plain reroll (core rules) | 55% | 30% | 15% |
+| Variant | Success or better | Critical failures |
+|---|---|---|
+| **Ours (+10 if the die is ≤10)** | **73%** | 3.2% |
+| Set the die to 10 (“Heroic”) | 51% | **0%** |
+| Keep the higher of the two rolls | 40% | 6.3% |
+| Plain reroll (core rules) | 40% | 17.7% |
 
-Two things fall out of that table:
+Two results worth knowing:
 
-> **“Floor of 10” stops helping the moment you need an 11 or more.** Setting a floor at 10 does nothing when 10 was never going to be enough. It looks generous and quietly does nothing on the rolls that matter most.
+> **“Set the die to 10” stops helping the moment you need an 11 or more.** Forcing the die to 10 does nothing when 10 was never going to be enough. It reads as generous and is quietly dead weight on the hard rolls. Its one genuine advantage over ours is that it erases the natural 1 completely — so it never critically fails.
 
-> ⭐ **“Keep the highest” is worth nothing at all for rescuing a failure.** You are spending the point *because you failed* — so your original roll was too low to succeed, and it cannot help. Only the reroll can. It is mathematically identical to a plain reroll.
->> Its value is that it can never make things *worse*. That is a real comfort, but it is not power.
+> ⭐ **“Keep the higher of the two” does nothing at all to turn a failure into a success.** You spend the point *because* you failed — so your first roll was too low to clear the DC, and it cannot help. Only the reroll can. For getting you over the line it is **exactly** a plain reroll.
+>> What it does do is stop things getting *worse*: it can never land below your original, so it protects you from turning a failure into a critical failure. That is comfort, not power.
 
-Ours is the only one of the four that both **removes the floor risk** and **keeps scaling on hard checks**.
+Ours is the only one that both removes almost all of the downside **and** keeps scaling on hard checks.
 
 ---
 
 ## The Hero Point Deck
 
-We also use the **Hero Point Deck** variant, and it is required. Drawing and trading cards happens through the Foundry character sheet.
+We also use the **Hero Point Deck**, and it is required. Drawing and trading cards is done through the Foundry character sheet.
 
-The deck is separate from the reroll rule above and stacks with it — the cards give you extra options, the +10 governs what happens when you use a point to reroll.
+The deck is separate from the reroll rule above and stacks with it — the cards give you extra options, the +10 governs what happens when you spend a point to reroll.
 
 ---
 
-> <sub>Maths worked through 2026-08-18 across all 20 die faces for each variant, comparing outcomes conditioned on the check having already failed — which is the situation a Hero Point is actually spent in. If you want the workings, ask in the OOC topic.</sub>
+> <sub>Worked through 2026-08-18 across every die face and every DC, scored on PF2e's four degrees of success with natural 1 and natural 20 applied, and checked against the Workbench module's source so the numbers match what actually happens at the table rather than what the rule sounds like. Ask in the OOC topic if you want the workings.</sub>
