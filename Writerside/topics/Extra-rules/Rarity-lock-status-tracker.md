@@ -76,10 +76,12 @@ The cape's design has allowed the creation of lesser Charlatan's Capes to be des
 >> - Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Exquisite Alloy Orb (Standard-Grade). Unlocked: by Haku Stormfan in DF.
+>> - Madcap Top. Unlocked: by C06 Tarsus Longstaff (Buffet Raider) in the Sun Temple. 2026/08/18th.
 >> - Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
 >> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
 >> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
 >> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Rod of Wonder. Unlocked: by C06 Tarsus Longstaff (Buffet Raider) in the Sun Temple. 2026/08/18th.
 >> - Sceptic's Elixir. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 >> - Six fingers elixir. Unlocked: [C06-Kibwe.md](C06-Kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi.
 >> - Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
