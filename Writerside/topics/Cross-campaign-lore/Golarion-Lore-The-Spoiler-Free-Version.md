@@ -1,7 +1,10 @@
 # Golarion Lore = The Spoiler-Free Version!
 
 ## Golarion Map.
-[Inner-Sea-Map](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/Inner-Sea-Map.pdf)
+The Inner Sea map is a Paizo product, so it is not hosted here. Get it from
+[Paizo](https://paizo.com/store) directly. See
+[NOTICE.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/NOTICE.md) for the
+Community Use notice.
 
 > Days of the week.
 >> - Moonday: Generally a work day with some religions holding ceremonies at night.
