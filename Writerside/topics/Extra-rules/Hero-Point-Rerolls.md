@@ -19,8 +19,34 @@ A reroll of 1 gives 11. A 9 gives 19. **A 10 gives 20.** Anything 11 or higher i
 - The average contribution is **15.5**. If your die showed less than that, a reroll expects to beat it — including rerolling a mediocre *success* to reach for a critical.
 
 > ⚠️ **But you can still critically fail.** Our variant adds **+10 to the total**; it does not change the number on the die. A natural 1 is still a natural 1, and a natural 1 still drops you one degree of success. That is a flat **5% of rerolls**, and it is the one weakness our rule has.
->
+>> How bad that is depends on the check. A natural 1 gives you 11 with a face of 1, so:
+>> - needing **11 or less** → the +10 got you to a success, the natural 1 knocks it back to a **failure**
+>> - needing **12 or more** → **critical failure**
+
 > ⚠️ The same quirk cuts the other way: a rerolled **10** contributes 20, but the die still shows 10 — so it does **not** count as a natural 20 and does **not** upgrade you to a critical success.
+
+---
+
+## What the dice actually do
+
+Our rule catches **10 or lower**, which surprises people — it sounds like "under 10". So a rerolled 10 gets the +10 as well and lands on 20.
+
+| Reroll shows | Contributes | How often |
+|---|---|---|
+| 1 | 11 | 5% — **and it is still a natural 1** |
+| 2–9 | 12–19 | 5% each |
+| 10 | **20** | 5% — but the face is 10, so **no** critical |
+| 11–19 | 11–19 | 5% each |
+| 20 | 20 | 5% — natural 20, upgrades a degree |
+
+Collapsed, that is **every value from 11 to 20 at 10% each**, with two hidden halves: half the 11s are natural 1s, and half the 20s are natural 20s.
+
+For comparison, the "set the die to 10" variant looks like this:
+
+| Reroll shows | Contributes | How often |
+|---|---|---|
+| 1–10 | 10 | **50%** |
+| 11–20 | 11–20 | 5% each |
 
 ---
 
@@ -74,6 +100,20 @@ Two results worth knowing:
 >> What it does do is stop things getting *worse*: it can never land below your original, so it protects you from turning a failure into a critical failure. That is comfort, not power.
 
 Ours is the only one that both removes almost all of the downside **and** keeps scaling on hard checks.
+
+### The honest case for the other one
+
+> Credit to **Anthony**, who worked the percentages out independently and made a point worth keeping.
+
+> **"Set the die to 10" respects a normal d20's odds more.**
+
+| Result | Normal d20 | Set-die-to-10 | Ours |
+|---|---|---|---|
+| any of 11–20 | 5% each | **5% each** | 10% each |
+
+Above 10 the "set the die" variant is **exactly a normal d20** — it only squashes the bottom half onto a single value and leaves everything else alone. Ours reshapes the whole distribution and doubles every result from 11 up.
+
+So it is a smaller intervention: *a d20 that cannot roll low*, rather than *a different die*. Add its **0% critical failures** against our 3.2%, and there is a real argument for it — just not an argument that it is stronger.
 
 ---
 
