@@ -42,7 +42,7 @@ New to Foundry? Start with [Joining-foundry.md](Joining-foundry.md).
 
 > How do rerolls work?
 >> - Spend 1 hero point to reroll a check. You must take the new result.
->> - House variant (via the PF2e Workbench module): if the reroll lands under 10, it gets +10.
+>> - House variant (via the PF2e Workbench module): if the reroll die is **10 or lower**, the check gets +10.
 >> - What that is worth, and when to spend one: [Hero-Point-Rerolls.md](Hero-Point-Rerolls.md)
 
 ## Point of truth
