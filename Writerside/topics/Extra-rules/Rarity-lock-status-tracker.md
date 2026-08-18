@@ -27,13 +27,13 @@ If you have a question, just ask on the telegram group! :)
 
 - ANYTHING IN THIS SECTION CAN BE FOUND IN-GAME!
 
-> Common.
+> Common rarity.
 >> - Nothing common is disallowed.
 
-> Uncommon.
+> Uncommon rarity.
 >> - Equipment, feat or spell: Especially if the source is from an adventure path, module, etc.
 
-> Rare.
+> Rare rarity.
 >> - Equipment, feat or spell: Especially if the source is from an adventure path, module, etc.
 
 ## Unlocked.
@@ -74,13 +74,13 @@ If you have a question, just ask on the telegram group! :)
 Unlocked by Selenor by acquiring the Red Raven's cape. 
 The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide.
 >> - Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
->> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran`s-Folly.md](C03-Etran's-Folly.md).
 >> - Exquisite Alloy Orb (Standard-Grade). Unlocked: by Haku Stormfan in DF.
 >> - Madcap Top. Unlocked: by C06 Tarsus Longstaff (Buffet Raider) in the Sun Temple. 2026/08/18th.
 >> - Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
 >> - Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor?
->> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
->> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Ring of Minor Arcana. Unlocked: [Campaign~3-Etran`s-Folly.md](C03-Etran's-Folly.md).
+>> - Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran`s-Folly.md](C03-Etran's-Folly.md).
 >> - Rod of Wonder. Unlocked: by C06 Tarsus Longstaff (Buffet Raider) in the Sun Temple. 2026/08/18th.
 >> - Sceptic's Elixir. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 >> - Six fingers elixir. Unlocked: [C06-Kibwe.md](C06-Kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi.
@@ -140,7 +140,7 @@ Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 - Demolitionist
 - Dragon Disciple
 - Drow Shootist
-- Edgewatch Detective
+- Edge-Watch Detective
 - Eldritch Researcher
 - Firebrand Braggart
 - Fireworks Technician
@@ -156,10 +156,10 @@ Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 - Halcyon Speaker
 - Hallowed Necromancer
 - Harrower
-- Hellknight
-- Hellknight Armiger
-- Hellknight Signifer
-- Jalmeri Heavenseeker
+- Hell-Knight
+- Hell-Knight Armiger
+- Hell-Knight Signifier
+- Jalmeri HeavenSeeker
 
 ## ALL ALLOWED.
 
@@ -193,22 +193,22 @@ If an option has the same name as a preexisting option then it is an alt-option 
 
 > General feats.
 >> - Covert channeler.
->> - Patron's negotions.
->> - Sanctifiction.
+>> - Patron's negations.
+>> - Sanctification.
 >> - Abject belief
 >> - Evangelise.
->> - Sanftify water
+>> - Sanctify water
 >> - Battle prayer
 >> - blessed alchemy
 >> - Domain dabbler.
 >> - Minor channeling.
->> - Sacrred defense
+>> - Sacred defence
 >> - Domain practitioner.
 
 > Class feats.
 >> - Prayer-touched weapon.
 >> - Acolyte of apocrypha.
->> - Apocaltpic spell.
+>> - Apocalyptic spell.
 
 > Consignment feats.
 >> - Cruelty (Accursed One), 
@@ -216,7 +216,7 @@ If an option has the same name as a preexisting option then it is an alt-option 
 >> - Realignment (Beacon of Order), 
 >> - Red Mantis Assassin Dedication, 
 >> - Crimson Shroud, 
->> - Achaekek’s Grip, 
+>> - Achaekek's Grip, 
 >> - Pact of Infernal Prowess.
 >> - Consigned dedication.
 >> - Celestial heart.
