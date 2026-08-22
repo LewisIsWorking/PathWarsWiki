@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**25 month(s)**, **1,426 messages** archived by the PathWarsNudge bot.
+**25 month(s)**, **1,453 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Aug 2026](C05-Grand-Explorers-PBP-2026-08.md) | 34 | 2026-08-01 → 2026-08-15 | Laetheron, Buffet Raider, Cannon McMahon, Path Wars… |
+| [Aug 2026](C05-Grand-Explorers-PBP-2026-08.md) | 61 | 2026-08-01 → 2026-08-19 | Laetheron, Buffet Raider, Cannon McMahon, Path Wars… |
 | [Jul 2026](C05-Grand-Explorers-PBP-2026-07.md) | 105 | 2026-07-01 → 2026-07-31 | Path Wars, Laetheron, Cannon McMahon, Anthony NegetZ… |
 | [Jun 2026](C05-Grand-Explorers-PBP-2026-06.md) | 56 | 2026-06-01 → 2026-06-29 | Path Wars, Cannon McMahon, Laetheron, Ryo Yamakawa… |
 | [May 2026](C05-Grand-Explorers-PBP-2026-05.md) | 195 | 2026-05-09 → 2026-05-29 | Path Wars, Laetheron, Cannon McMahon, Ryo Yamakawa… |

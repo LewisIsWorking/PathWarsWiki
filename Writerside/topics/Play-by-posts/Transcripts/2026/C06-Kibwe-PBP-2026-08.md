@@ -408,3 +408,340 @@ This city is done, and that's your best possible outcome, even if you beat Paga!
 
 **Ryo Yamakawa** · 10:15 · [↗](https://t.me/Path_Wars/40585/172414)
 "Kibwe is stronger than you think. Plus I think seeing some of the assholes responsible for this shit getting their due will be rather unifying."
+
+## Week 34 (Aug 17–Aug 23)
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 04:33 · [↗](https://t.me/Path_Wars/40585/172556)
+Tal'Lysae:
+
+"I am going to do some gathering..."
+
+**Path Wars** *(GM)* · 04:33 · [↗](https://t.me/Path_Wars/40585/172557)
+Tal'Lysae goes over to the hundreds of dead guards and harvests their flesh and blood, forging magical reagents:
+
+**Path Wars** *(GM)* · 04:34 · [↗](https://t.me/Path_Wars/40585/172558)
+*[image]*
+
+**Path Wars** *(GM)* · 04:34 · [↗](https://t.me/Path_Wars/40585/172559)
+Tal'Lysae:
+
+"I understand you may have moral hesitancy in the harvesting of humanoid flesh but I cannot factor in your morality for the final battle ahead of us."
+
+**Path Wars** *(GM)* · 04:35 · [↗](https://t.me/Path_Wars/40585/172560)
+Tal'Lysae gathers 320 GP worth of body parts.
+
+**Path Wars** *(GM)* · 04:35 · [↗](https://t.me/Path_Wars/40585/172561)
+There are hundreds of piece of weapons and armour from the legions but all shoddy low quality.
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 04:51 · [↗](https://t.me/Path_Wars/40585/172566)
+Narrow:
+
+"If you look to the North, you'll see our magi-tech set-up."
+
+Narrow indicated the far North side of the room.
+
+The Sun Sigil of the Sun temple is attached to many, many wires that lead to a BIG black steel mechanical machine, with hundreds more wires, crystals, mechanical gears and more. 
+
+Narrow:
+
+"Help my friend, and I will give you two pieces of information."
+
+### 📅 Monday, Aug 17
+
+**Ryo Yamakawa** · 05:52 · [↗](https://t.me/Path_Wars/40585/172587)
+"Fine, fine I'll save your companion. Now where did I put those cards."
+
+Leopard starts digging around in his bag for several moments before pulling out a small leather pouch.
+
+"There we are. Now visualize the effect and..."
+
+As he concentrates on the spell and the fat, dying gnome in front of him the card glimmers for a moment then crumbles to dust casting the spell.
+
+"There, he's stabilized. You're welcome, I wasted a valuable Stabilize cantrip on him. Now talk."
+
+**Ryo Yamakawa** · 05:53 · [↗](https://t.me/Path_Wars/40585/172588)
+*[image]* (It doesn't let me set the cantrip but it has always been Stabilize as I have mentioned before.)
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 06:12 · [↗](https://t.me/Path_Wars/40585/172595)
+As you waste your cantrip card (or before if you are really quick on your feet), you realise Wide is not dying per say but has passed out from blood loss.
+
+**Path Wars** *(GM)* · 06:12 · [↗](https://t.me/Path_Wars/40585/172596)
+She needs HP regain, not dying resolution.
+
+**Anthony NegetZ** · 06:15 · [↗](https://t.me/Path_Wars/40585/172607)
+(So he's going to be fine he doesn't need healing)
+
+**Path Wars** *(GM)* · 06:16 · [↗](https://t.me/Path_Wars/40585/172608)
+She is laying on the ground with major wounds, she will die eventually if not healed.
+
+**Anthony NegetZ** · 06:18 · [↗](https://t.me/Path_Wars/40585/172620)
+Daichi checks if there are any elixir of life in the confiscated belongings.
+
+**Path Wars** *(GM)* · 06:19 · [↗](https://t.me/Path_Wars/40585/172623)
+Narrow has at least 2 x Elixir of Life (Lesser).
+
+**Path Wars** *(GM)* · 06:22 · [↗](https://t.me/Path_Wars/40585/172642)
+As you splash the elixir of life onto Wide, the gnome's eyes flutter open.
+
+**Path Wars** *(GM)* · 06:23 · [↗](https://t.me/Path_Wars/40585/172643)
+Wide immediately looks around, sees Narrow captured and Wide's look of confusion turns to frustration and annoyance.
+
+**Path Wars** *(GM)* · 06:23 · [↗](https://t.me/Path_Wars/40585/172644)
+Wide immediately swears in gnomish then continues swearing at Narrow in gnomish.
+
+**Path Wars** *(GM)* · 06:23 · [↗](https://t.me/Path_Wars/40585/172645)
+Narrow just sighs.
+
+**Anthony NegetZ** · 06:25 · [↗](https://t.me/Path_Wars/40585/172648)
+"Yeah yeah. Whatever you say. Don't care. Now what was that about the experimental tools and the library's secret?"
+
+**Path Wars** *(GM)* · 06:25 · [↗](https://t.me/Path_Wars/40585/172649)
+Narrow locks eyes with Daichi.
+
+**Anthony NegetZ** · 06:27 · [↗](https://t.me/Path_Wars/40585/172650)
+Daichi stares back, MENACINGLY
+
+**Path Wars** *(GM)* · 06:27 · [↗](https://t.me/Path_Wars/40585/172651)
+Narrow:
+
+"We work on magical energy source research.
+
+This temple, it's... extraordinary. 
+
+I have measured all sorts over the last few hundred years: ruins, rifts, magical juggling balls, beast hides, unicorn horns...
+
+Nothing has come close to this.
+
+Well, besides some of the artefacts and legendary items I have had the opportunity to measure."
+
+**Path Wars** *(GM)* · 06:28 · [↗](https://t.me/Path_Wars/40585/172652)
+Narrow:
+
+"One of my research projects was to manipulate magical energy to create a rod of wonder."
+
+**Path Wars** *(GM)* · 06:29 · [↗](https://t.me/Path_Wars/40585/172653)
+Narrow:
+
+"There are two kinds of rods of wonder: ancient style and new style.
+
+The separation is runic vs post-runic magical enchantment.
+
+Essentially, the ancients would use runes to bend magic, creating a far more varied list of effects."
+
+**Path Wars** *(GM)* · 06:30 · [↗](https://t.me/Path_Wars/40585/172654)
+Narrow:
+
+"Modern enchantment magic is more low-level looping magic, creating a more stable but less... exciting list."
+
+**Path Wars** *(GM)* · 06:31 · [↗](https://t.me/Path_Wars/40585/172655)
+Narrow:
+
+"Either way, Rods of Wonder are highly controlled substances.
+
+Illegal, banned, licensed in nearly all countries of the world...
+
+Well, friend, I know no such fear, and I accept no such limitations!"
+
+**Path Wars** *(GM)* · 06:31 · [↗](https://t.me/Path_Wars/40585/172656)
+Narrow:
+
+"The magic of this temple was easily enough to fuel my fabricator.
+
+However..."
+
+**Path Wars** *(GM)* · 06:32 · [↗](https://t.me/Path_Wars/40585/172657)
+Wide chimes in, finally in common, her voice echoes around the chamber:
+
+"You can't be serious, Narrow!
+
+You can't be giving them the Rod!"
+
+**Path Wars** *(GM)* · 06:33 · [↗](https://t.me/Path_Wars/40585/172658)
+Narrow:
+
+"You'll shut your mouth Wide!
+It's one rod!
+There's always the future.
+
+And besides, 
+If they weren't as forgiving as they appear to be, we would both certainly be dead."
+
+**Path Wars** *(GM)* · 06:34 · [↗](https://t.me/Path_Wars/40585/172660)
+Narrow looks at Daichi:
+
+"Over to the North is my one working Rod of Wonder.
+
+It'll require a little knowledge of arcana to get un-wired but it should work."
+
+**Path Wars** *(GM)* · 06:35 · [↗](https://t.me/Path_Wars/40585/172662)
+Narrow's eyes change, a look of excitement:
+
+"For this is no simple rod of wonder, this is the world's ONLY dual-mode rod of wonder.
+
+Runes AND enchantment magic, powered by SUN MAGIC.
+
+Flip the switch, and it can use ancient OR modern magic!"
+
+**Path Wars** *(GM)* · 06:37 · [↗](https://t.me/Path_Wars/40585/172663)
+Narrow thinks for a second before grinning:
+
+"And you lot seem to have a death wish, so what a wonderful test run!
+
+Plus...
+Regardless of what happens here today, my design will greatly ease the burden of crafting rods of wonder.
+
+Which means they will become COMMON ACROSS THE WORLD!!!!!!"
+
+**Path Wars** *(GM)* · 06:37 · [↗](https://t.me/Path_Wars/40585/172664)
+Wide sighs this time.
+
+**Path Wars** *(GM)* · 06:38 · [↗](https://t.me/Path_Wars/40585/172665)
+[ Roll arcana if you wish to unwire and claim the unique dual-mode rod of wonder ]
+
+### 📅 Monday, Aug 17
+
+**Buffet Raider** · 15:22 · [↗](https://t.me/Path_Wars/40585/172774)
+*[image]* Tarsus takes a few minutes to examine the rod, then extracts it from the workstation with relative ease.
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 17:12 · [↗](https://t.me/Path_Wars/40585/172806)
+The sun-powered magi tech workstation almost super novas as you tap deeply into the power of the astral plane. 
+
+The rod of wonders responds to you, echoes out to your power.
+
+Bound to your will.
+
+**Path Wars** *(GM)* · 17:12 · [↗](https://t.me/Path_Wars/40585/172807)
+Tarsus. 
+
+You are now the master of the rod of ancient and modern wonders.
+
+**Path Wars** *(GM)* · 17:13 · [↗](https://t.me/Path_Wars/40585/172808)
+Narrow raised an eyebrow:
+
+"Now friend, by the first world, consider me impressed.
+
+You may even survive your fight with the unstable alchemical golem..."
+
+**Path Wars** *(GM)* · 17:17 · [↗](https://t.me/Path_Wars/40585/172809)
+Narrow:
+
+"Now we are on the ground floor. 
+
+You have the stairway of the west, and the library to your right. 
+
+The stairway is booby trapped. 
+
+And the stair room beyond it is guarded by these special mirror scientist AMATEURS."
+
+**Path Wars** *(GM)* · 17:17 · [↗](https://t.me/Path_Wars/40585/172810)
+Wide clears her throat.
+
+**Path Wars** *(GM)* · 17:17 · [↗](https://t.me/Path_Wars/40585/172811)
+Narrow:
+
+"Ah, yes, ahem. 
+
+Well the way I see it. 
+
+You have either 2 or 3 more fights ahead of you.
+
+Not including the trap."
+
+**Path Wars** *(GM)* · 17:19 · [↗](https://t.me/Path_Wars/40585/172812)
+Narrow:
+
+"Why 2 or 3, you are probably asking yourselves, friends. 
+
+Well, to the East lies the library."
+
+**Path Wars** *(GM)* · 17:27 · [↗](https://t.me/Path_Wars/40585/172819)
+Wide:
+
+"Maybe someone with actual expertise on this subject should be the one to tell our enemies?"
+
+**Path Wars** *(GM)* · 17:28 · [↗](https://t.me/Path_Wars/40585/172820)
+Narrow snorts but conceded murmuring something along the lines of:
+
+"One side module in elemental time binding and suddenly she's an expert..... '
+
+**Path Wars** *(GM)* · 17:28 · [↗](https://t.me/Path_Wars/40585/172821)
+Wide glares
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 18:34 · [↗](https://t.me/Path_Wars/40585/172828)
+Then Wide says:
+
+"There is a time in the sun temple library. 
+
+A few minutes of incantation summons a Greater Earth Elemental. 
+
+The lore of the elemental is lost to time but many have challenged it over the years." 
+
+Wide grins, despite still being in pain:
+
+"All have died."
+
+### 📅 Tuesday, Aug 18
+
+**Path Wars** *(GM)* · 02:07 · [↗](https://t.me/Path_Wars/40585/172969)
+Those who have Kibwe lore will be aware of this BUT
+
+**Path Wars** *(GM)* · 02:08 · [↗](https://t.me/Path_Wars/40585/172970)
+You will also be aware that challenging the Greater Earth Elemental is literally illegal without the Kibwe Council's permission.
+
+**Path Wars** *(GM)* · 02:08 · [↗](https://t.me/Path_Wars/40585/172971)
+Due to the high death rate.
+
+**Path Wars** *(GM)* · 02:08 · [↗](https://t.me/Path_Wars/40585/172972)
+Narrow:
+
+"You may be aware that this challenge is illegal but you are the city's champions, I think you'll be fine...."
+
+**Path Wars** *(GM)* · 02:09 · [↗](https://t.me/Path_Wars/40585/172973)
+Wide:
+
+"BUT, I would say, the elemental is stronger than Paga...
+
+It's almost as strong as a 6th tier caster..."
+
+**Path Wars** *(GM)* · 02:09 · [↗](https://t.me/Path_Wars/40585/172974)
+Narrow:
+
+"They beat us, didn't they?"
+
+**Path Wars** *(GM)* · 02:09 · [↗](https://t.me/Path_Wars/40585/172975)
+Wide:
+
+"Yeah but... we aren't as strong as that..."
+
+**Path Wars** *(GM)* · 02:09 · [↗](https://t.me/Path_Wars/40585/172976)
+Narrow shrugs:
+
+"If you beat him the tome mentions great treasures."
+
+### 📅 Friday, Aug 21
+
+**Anthony NegetZ** · 08:15 · [↗](https://t.me/Path_Wars/40585/173630)
+Daichi looks and them and chuckles a little at the ridiculous thought.
+"Y'all just want us to die to the elemental so you can get away scot free... It's not like we need the money right now... Can't really buy much in the state the city's in."
+
+Then he continues more seriously:
+" Also we didn't get the council's approval. Even if we're the city champions we can't just decide we're gonna do that . And can't really ask the council right now... So you guys stay here and we'll disarm some traps..."
+
+### 📅 Friday, Aug 21
+
+**Path Wars** *(GM)* · 08:53 · [↗](https://t.me/Path_Wars/40585/173688)
+Narrow smiles softly but a glint in his eyes tells a different story, a look of malice flashes in a blink:
+
+"Well, it had perhaps crossed my mind... 
+
+But I just want to live, I care not for Paga's campaign for the small people."

@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**11 month(s)**, **716 messages** archived by the PathWarsNudge bot.
+**11 month(s)**, **737 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Aug 2026](C09-Metal-City-PBP-2026-08.md) | 4 | 2026-08-10 → 2026-08-15 | Path Wars |
+| [Aug 2026](C09-Metal-City-PBP-2026-08.md) | 25 | 2026-08-10 → 2026-08-22 | Path Wars, Laetheron |
 | [Jul 2026](C09-Metal-City-PBP-2026-07.md) | 15 | 2026-07-01 → 2026-07-31 | Path Wars, Laetheron, Bruce |
 | [Jun 2026](C09-Metal-City-PBP-2026-06.md) | 53 | 2026-06-01 → 2026-06-23 | Path Wars, Chris Warlock, Bruce |
 | [May 2026](C09-Metal-City-PBP-2026-05.md) | 152 | 2026-05-02 → 2026-05-25 | Christopher, Link, Chris Warlock, Path Wars… |
