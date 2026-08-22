@@ -72,3 +72,33 @@ Just need 2 more :)
 
 **Path Wars** *(GM)* · 06:49 · [↗](https://t.me/Path_Wars/66154/172147)
 Just need 2 more :)
+
+## Week 34 (Aug 17–Aug 23)
+
+### 📅 Monday, Aug 17
+
+**Anthony NegetZ** · 15:00 · [↗](https://t.me/Path_Wars/66154/172767)
+So we have @Sasuken09 and @RyoYamakawa ?
+
+**Sasuken09** · 15:02 · [↗](https://t.me/Path_Wars/66154/172768)
+You do!
+
+**Sasuken09** · 15:03 · [↗](https://t.me/Path_Wars/66154/172769)
+Well, we do
+
+**Anthony NegetZ** · 15:03 · [↗](https://t.me/Path_Wars/66154/172770)
+Ok only need @RyoYamakawa then
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172843)
+3/4
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172844)
+Awesome
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172845)
+Yepi
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172846)
+You also technically have other DF players.

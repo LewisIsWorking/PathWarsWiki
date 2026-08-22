@@ -48,3 +48,15 @@ Do you wish me to go in first now?"
 
 **Path Wars** *(GM)* · 07:15 · [↗](https://t.me/Path_Wars/76799/171831)
 Changer is ready to start the encounter, if the party wishes him to.
+
+## Week 34 (Aug 17–Aug 23)
+
+### 📅 Tuesday, Aug 18
+
+**Path Wars** *(GM)* · 01:28 · [↗](https://t.me/Path_Wars/76799/172919)
+Changer is ready to start the encounter, if the party wishes him to...
+
+### 📅 Tuesday, Aug 18
+
+**Path Wars** *(GM)* · 21:49 · [↗](https://t.me/Path_Wars/76799/173216)
+I'll take the thumb up as a yes lol

@@ -207,3 +207,149 @@ REQUIRED CHECKS.
 *DC 16 Nature.*
 
 *DC 16 Survival.*
+
+## Week 34 (Aug 17–Aug 23)
+
+### 📅 Monday, Aug 17
+
+**Anthony NegetZ** · 11:57 · [↗](https://t.me/Path_Wars/51357/172730)
+*[image]* First nature check.
+
+### 📅 Monday, Aug 17
+
+**Ryo Yamakawa** · 13:28 · [↗](https://t.me/Path_Wars/51357/172737)
+*[image]* Diplomacy Check
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 14:25 · [↗](https://t.me/Path_Wars/51357/172753)
+REQUIRED CHECKS.
+
+*DC 12 First World Lore or Nature.*
+*25 by Rubel. Critical success.*
+
+*DC 16 Diplomacy.*
+*27 by Cyrus. Critical success.*
+
+*DC 16 Nature.*
+
+*DC 16 Survival.*
+
+**Path Wars** *(GM)* · 14:30 · [↗](https://t.me/Path_Wars/51357/172755)
+As you search the misty hills and make your way across the low valleys, you have taken on the role of searching for the power of fey magic, where the lining of the world feels thinnest. 
+
+Rubel is quite good at this. 
+
+Rubel's nature, in combination with the tattoo seems to be exactly the kind of otherworldly presence that senses this magic quite easily.
+
+**Path Wars** *(GM)* · 14:32 · [↗](https://t.me/Path_Wars/51357/172756)
+Cyrus. 
+
+If anyone was going to get the stubborn, semi-isolated farmers who normally dislike outsiders to talk, well I suppose a cow-like being seems almost more natural to them than other beings. 
+
+Your curse mark tattoos would normally make these conversations a little more difficult as they make your appearance seem strange. 
+
+But here in the hills, these people have seen strange things. 
+
+And they let you know as much. 
+
+With the idea that you might be the one to quell their fey blights, they give you the directions and help you need.
+
+### 📅 Monday, Aug 17
+
+**Buffet Raider** · 15:34 · [↗](https://t.me/Path_Wars/51357/172795)
+*[image]*
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 19:35 · [↗](https://t.me/Path_Wars/51357/172840)
+REQUIRED CHECKS.
+
+*DC 12 First World Lore or Nature.*
+*25 by Rubel. Critical success.*
+
+*DC 16 Diplomacy.*
+*27 by Cyrus. Critical success.*
+
+*DC 16 Nature.*
+
+*DC 16 Survival.*
+*26 by Alitheia. Critical success!*
+
+**Path Wars** *(GM)* · 19:37 · [↗](https://t.me/Path_Wars/51357/172841)
+Alitheia, you help the group navigate the hills.
+
+**Path Wars** *(GM)* · 19:41 · [↗](https://t.me/Path_Wars/51357/172842)
+There ain't no mountain high enough, ain't no river wide enough, ain't no valley low to keep you from getting to your goals!
+
+### 📅 Tuesday, Aug 18
+
+**Laetheron** · 00:54 · [↗](https://t.me/Path_Wars/51357/172883)
+*[image]*
+
+**Path Wars** *(GM)* · 01:13 · [↗](https://t.me/Path_Wars/51357/172902)
+19 nature check by Twilight Garden, but is it a 1?
+
+**Path Wars** *(GM)* · 01:14 · [↗](https://t.me/Path_Wars/51357/172903)
+Does it bring down the rank of your outcome?
+
+**Laetheron** · 01:31 · [↗](https://t.me/Path_Wars/51357/172921)
+I think so?
+
+**Laetheron** · 01:31 · [↗](https://t.me/Path_Wars/51357/172922)
+It's still a one, even though it'd pass otherwise
+
+**Path Wars** *(GM)* · 01:32 · [↗](https://t.me/Path_Wars/51357/172923)
+Success becomes a fail for the nature check then.
+
+**Laetheron** · 01:32 · [↗](https://t.me/Path_Wars/51357/172924)
+Yeah
+
+**Path Wars** *(GM)* · 01:32 · [↗](https://t.me/Path_Wars/51357/172925)
+Fail then.
+
+**Laetheron** · 01:32 · [↗](https://t.me/Path_Wars/51357/172926)
+☹
+
+**Path Wars** *(GM)* · 01:35 · [↗](https://t.me/Path_Wars/51357/172927)
+^ Twilight is unable to provide the knowledge of nature needed to find out more about the region.
+
+**Path Wars** *(GM)* · 01:35 · [↗](https://t.me/Path_Wars/51357/172928)
+You lead the group through a thicket of trees, something is pulling you there.
+
+**Path Wars** *(GM)* · 01:36 · [↗](https://t.me/Path_Wars/51357/172929)
+Inside a clearing in the trees, you find a bird with its wings elaborately broken into unnatural angles.
+
+Surrounding the bird is a strange symbol made out of sticks: halfway between a seven-pointed star and an elongated stick figure.
+
+**Path Wars** *(GM)* · 01:37 · [↗](https://t.me/Path_Wars/51357/172930)
+Twilight, you get a strange feeling that this bird's death and the formation of sticks are your fault.
+
+**Path Wars** *(GM)* · 01:38 · [↗](https://t.me/Path_Wars/51357/172931)
+Twilight, you may have waste a few hours but would you like to dig deep & try again?
+
+### 📅 Tuesday, Aug 18
+
+**Anthony NegetZ** · 02:27 · [↗](https://t.me/Path_Wars/51357/173014)
+That's why galactic hero points is better
+
+### 📅 Tuesday, Aug 18
+
+**Path Wars** *(GM)* · 03:06 · [↗](https://t.me/Path_Wars/51357/173033)
+@MrNegetZ Please don't delete messages.
+
+### 📅 Wednesday, Aug 19
+
+**Laetheron** · 12:22 · [↗](https://t.me/Path_Wars/51357/173402)
+Twilight treads lightly through the copse of trees towards the ritual site. As they walk; they hum. Their leaves rustle, their branch-like arms creak, forming a strange melody in the quiet.
+
+It sounds sad, mournful of a life cut short.
+
+They take a minute to hold a short rite over the corpse, before standing up, leaving it for nature to reclaim.
+
+### 📅 Wednesday, Aug 19
+
+**Path Wars** *(GM)* · 14:37 · [↗](https://t.me/Path_Wars/51357/173421)
+With a nature check of 18, Twilight is able to follow the trail of primal magic, leaking from the ritualist murder of the bird. 
+
+And take the party to it's source...

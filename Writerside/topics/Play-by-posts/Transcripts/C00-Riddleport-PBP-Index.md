@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**21 month(s)**, **1,732 messages** archived by the PathWarsNudge bot.
+**21 month(s)**, **1,740 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Aug 2026](C00-Riddleport-PBP-2026-08.md) | 13 | 2026-08-01 → 2026-08-15 | Anthony NegetZ, Path Wars, Horia Constantinescu |
+| [Aug 2026](C00-Riddleport-PBP-2026-08.md) | 21 | 2026-08-01 → 2026-08-17 | Anthony NegetZ, Path Wars, Horia Constantinescu, Sasuken09 |
 | [Jul 2026](C00-Riddleport-PBP-2026-07.md) | 33 | 2026-07-01 → 2026-07-30 | Path Wars, Anthony NegetZ, Kaer'maga when?, Bre Irish |
 | [Jun 2026](C00-Riddleport-PBP-2026-06.md) | 81 | 2026-06-01 → 2026-06-29 | Anthony NegetZ, Bre Irish, Path Wars, Bo… |
 | [May 2026](C00-Riddleport-PBP-2026-05.md) | 69 | 2026-05-10 → 2026-05-31 | Path Wars, Bo, Kaer'maga when?, Ryo Yamakawa… |
