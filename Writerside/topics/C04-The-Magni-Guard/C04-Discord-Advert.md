@@ -121,9 +121,9 @@ bot topic, so the bot can tell you later which venue actually produced players.
 When someone joins: `/recruitjoined <venue-id> <name>`. Run `/recruitads` for the
 venue ids and each venue's repost rule.
 
-| date | venue | outcome |
-|---|---|---|
-| | | |
+| date | venue | link | outcome |
+|---|---|---|---|
+| 2026-08-25 | Pathfinder 2e Discord (`pf2e-discord-lfg`) | [post](https://discord.com/channels/260066959238889472/1541798442513211463) | recorded in the bot, cooling down 7d |
 
 ## Fact check
 
