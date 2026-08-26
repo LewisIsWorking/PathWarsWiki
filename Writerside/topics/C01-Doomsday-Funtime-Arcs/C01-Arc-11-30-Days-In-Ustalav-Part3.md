@@ -645,5 +645,6 @@ Horia Constantinescu (@Nemesiux) Anthony NegetZ (@MrNegetZ) Moss (@Mosssssssssss
 > Day 4/30. 14:40.
 >> 1. Katmidlar goes to the harrow with Warden and Melody, buys a bunch of recipes (mostly drugs & bombs) from Ever-Ready Jacob.
 >> 2. ^ I am going to spell his name Jacob from now on.
+>> 3. Ending session with shopping in the Harrow Realm.
 
 > END OF SESSION 05:57am.

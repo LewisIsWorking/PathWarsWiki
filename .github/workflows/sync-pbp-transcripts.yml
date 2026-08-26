@@ -1,0 +1,133 @@
+name: Sync PBP transcripts
+
+# Publish the PathWarsNudge bot's play-by-post archive into this wiki.
+#
+# ⭐ This PULLS, it does not get pushed to. The bot's repo is public, so
+# this workflow can read it with no credentials at all, and it writes only
+# to its own repository using the built-in GITHUB_TOKEN. The alternative —
+# the bot pushing here — would mean storing a personal access token with
+# write access to this repo in another repo's secrets. Pulling needs no
+# new credential to exist anywhere, so that is what this does.
+#
+# The bot repo stays the source of truth. Everything under
+# topics/Play-by-posts/Transcripts/ is generated and gets overwritten.
+
+on:
+  schedule:
+    # Twice a day. The transcripts change constantly, but nobody reads a
+    # wiki mirror minute-to-minute, and every run that finds a change is
+    # a commit — hourly would make the history unreadable for no gain.
+    - cron: '20 6,18 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: sync-pbp-transcripts
+  cancel-in-progress: false
+
+permissions:
+  contents: write        # push the bot branch
+  pull-requests: write   # open/update the sync PR
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install test dependencies
+        run: pip install pytest pyyaml   # pyyaml: the workflow self-check
+
+      # Run before syncing, not after. The sync writes 170+ files; finding
+      # out afterwards that the naming rule regressed means reviewing a
+      # commit that has already renamed everything.
+      - name: Test the sync logic
+        run: python -m pytest scripts/pbp_sync -q
+
+      - name: Fetch the transcript archive
+        run: |
+          # Sparse + blobless: the bot repo carries years of state files
+          # and we want two paths out of it.
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/LewisIsWorking/telegram-pbp-reminder.git \
+            /tmp/botrepo
+          cd /tmp/botrepo
+          # --no-cone because cone mode treats every argument as a
+          # DIRECTORY, and config.json is a file: cone mode fails with
+          # "'config.json' is not a directory". Found by running this
+          # workflow rather than by reading it.
+          git sparse-checkout set --no-cone /data/pbp_logs/ /config.json
+          test -d data/pbp_logs || { echo "archive missing"; exit 1; }
+          test -f config.json  || { echo "config missing";  exit 1; }
+
+      - name: Publish into the wiki
+        run: |
+          python scripts/pbp_sync/sync.py \
+            --source /tmp/botrepo/data/pbp_logs \
+            --config /tmp/botrepo/config.json
+
+      - name: Open or update the sync PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # master requires an approving review, so the Actions bot cannot
+          # push to it — the first real run failed with GH006. Rather than
+          # ask for that protection to be weakened for the sake of a
+          # generated mirror, this opens a PR and leaves the merge to a
+          # human.
+          #
+          # ONE stable branch, updated in place, so twice-daily runs keep
+          # refreshing a single PR instead of opening a new one each time.
+          BRANCH=bot/pbp-transcripts
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Writerside/topics/Play-by-posts/Transcripts Writerside/pbp.tree
+          # `git diff --cached --quiet` exits 1 when something IS staged,
+          # which is the case worth acting on.
+          if git diff --cached --quiet; then
+            echo "No transcript changes; nothing to open."
+            exit 0
+          fi
+          git checkout -b "$BRANCH"
+          git commit -m "Sync PBP transcripts from the nudge bot"
+          # Overwrites the bot's own branch only. Never touches master,
+          # and the branch is disposable by construction — its whole
+          # content is regenerated from the bot repo on every run.
+          git push --force origin "$BRANCH"
+          if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
+            echo "PR already open for $BRANCH; it now carries the latest sync."
+            exit 0
+          fi
+          # Pushing the branch above IS the job. Opening the PR is
+          # convenience, and it is subject to a repository setting the
+          # workflow cannot control: "Allow GitHub Actions to create and
+          # approve pull requests" is off by default, and without it
+          # `gh pr create` fails with "GitHub Actions is not permitted to
+          # create or approve pull requests".
+          #
+          # ⚠️ ONLY that named condition is tolerated. Any other failure
+          # still fails the run — a step that swallows every error is how
+          # a broken sync reports success for a month.
+          set +e
+          OUT=$(gh pr create --base master --head "$BRANCH" \
+            --title "Sync PBP transcripts from the nudge bot" \
+            --body "Automated mirror of the PathWarsNudge bot's transcript archive, generated by scripts/pbp_sync. The bot repo is the source of truth and everything under Transcripts/ is regenerated on every sync, so reviewing the diff is a formality." 2>&1)
+          CODE=$?
+          set -e
+          echo "$OUT"
+          if [ $CODE -ne 0 ]; then
+            if echo "$OUT" | grep -q "not permitted to create or approve pull requests"; then
+              echo "::warning::Branch $BRANCH is updated, but this repo does not"
+              echo "::warning::let Actions open PRs. Enable Settings > Actions >"
+              echo "::warning::General > Workflow permissions > 'Allow GitHub"
+              echo "::warning::Actions to create and approve pull requests', or"
+              echo "::warning::open one by hand:"
+              echo "::warning::https://github.com/LewisIsWorking/PathWarsWiki/pull/new/$BRANCH"
+              exit 0
+            fi
+            echo "::error::gh pr create failed for a reason other than policy."
+            exit $CODE
+          fi

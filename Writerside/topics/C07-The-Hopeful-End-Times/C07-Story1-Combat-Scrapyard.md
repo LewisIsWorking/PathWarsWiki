@@ -2,7 +2,7 @@
 
 > COMBAT.
 >> 1. Encounter name: Scrapyard of Cursed Metal and Metal Slime!.
->> 2. Encounter location: Nikk-Nikk's scrapyard.
+>> 2. Encounter location: Nikk-Nakk's scrapyard.
 >> 3. Encounter started = 2026 July 7th at 06:47am.
 >> 4. Round 1!
 
