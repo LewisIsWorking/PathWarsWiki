@@ -5,11 +5,12 @@
 {#generated-banner}
 
 
-**32 month(s)**, **1,977 messages** archived by the PathWarsNudge bot.
+**33 month(s)**, **2,014 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Aug 2026](C01-Doomsday-Funtime-PBP-2026-08.md) | 61 | 2026-08-01 → 2026-08-16 | Path Wars, Fuzzy, Dalaxiss, PJ… |
+| [Sep 2026](C01-Doomsday-Funtime-PBP-2026-09.md) | 9 | 2026-09-02 → 2026-09-05 | PJ, Path Wars, Anthony NegetZ, Fuzzy… |
+| [Aug 2026](C01-Doomsday-Funtime-PBP-2026-08.md) | 89 | 2026-08-01 → 2026-08-30 | Path Wars, Fuzzy, Dalaxiss, PJ… |
 | [Jul 2026](C01-Doomsday-Funtime-PBP-2026-07.md) | 105 | 2026-07-07 → 2026-07-31 | Path Wars, Kaer'maga when?, Jay, Fuzzy… |
 | [Jun 2026](C01-Doomsday-Funtime-PBP-2026-06.md) | 9 | 2026-06-01 → 2026-06-28 | Path Wars, Kaer'maga when? |
 | [May 2026](C01-Doomsday-Funtime-PBP-2026-05.md) | 450 | 2026-05-02 → 2026-05-31 | Path Wars, Kaer'maga when?, laughable Logan, Chris Warlock… |
