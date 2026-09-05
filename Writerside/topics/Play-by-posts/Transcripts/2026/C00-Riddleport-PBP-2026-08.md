@@ -72,3 +72,99 @@ Just need 2 more :)
 
 **Path Wars** *(GM)* · 06:49 · [↗](https://t.me/Path_Wars/66154/172147)
 Just need 2 more :)
+
+## Week 34 (Aug 17–Aug 23)
+
+### 📅 Monday, Aug 17
+
+**Anthony NegetZ** · 15:00 · [↗](https://t.me/Path_Wars/66154/172767)
+So we have @Sasuken09 and @RyoYamakawa ?
+
+**Sasuken09** · 15:02 · [↗](https://t.me/Path_Wars/66154/172768)
+You do!
+
+**Sasuken09** · 15:03 · [↗](https://t.me/Path_Wars/66154/172769)
+Well, we do
+
+**Anthony NegetZ** · 15:03 · [↗](https://t.me/Path_Wars/66154/172770)
+Ok only need @RyoYamakawa then
+
+### 📅 Monday, Aug 17
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172843)
+3/4
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172844)
+Awesome
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172845)
+Yepi
+
+**Path Wars** *(GM)* · 19:42 · [↗](https://t.me/Path_Wars/66154/172846)
+You also technically have other DF players.
+
+### 📅 Saturday, Aug 22
+
+**Path Wars** *(GM)* · 19:46 · [↗](https://t.me/Path_Wars/66154/173923)
+I'm probably going to pause their campaign, as I did with C09. 
+
+Until we have 6 players.
+
+**Path Wars** *(GM)* · 19:47 · [↗](https://t.me/Path_Wars/66154/173924)
+*[empty message]*
+
+**Horia Constantinescu** · 19:48 · [↗](https://t.me/Path_Wars/66154/173926)
+*[gif]*
+
+### 📅 Saturday, Aug 22
+
+**Path Wars** *(GM)* · 21:03 · [↗](https://t.me/Path_Wars/66154/173957)
+*@Nemesiux*
+
+Please vote yes as well. 
+😭
+
+**Path Wars** *(GM)* · 21:03 · [↗](https://t.me/Path_Wars/66154/173958)
+4/6 now
+
+**Anthony NegetZ** · 21:03 · [↗](https://t.me/Path_Wars/66154/173959)
+I thought it was 4/4 ?
+
+**Anthony NegetZ** · 21:03 · [↗](https://t.me/Path_Wars/66154/173960)
+...
+
+**Horia Constantinescu** · 21:04 · [↗](https://t.me/Path_Wars/66154/173961)
+I dod
+
+### 📅 Sunday, Aug 23
+
+**Path Wars** *(GM)* · 09:22 · [↗](https://t.me/Path_Wars/66154/174004)
+*[image]*
+
+**Path Wars** *(GM)* · 09:22 · [↗](https://t.me/Path_Wars/66154/174005)
+Yeah but I'd rather avoid this in future.
+
+**Path Wars** *(GM)* · 09:22 · [↗](https://t.me/Path_Wars/66154/174006)
+4/6
+
+## Week 35 (Aug 24–Aug 30)
+
+### 📅 Wednesday, Aug 26
+
+**Fuzzy** · 18:34 · [↗](https://t.me/Path_Wars/66154/175419)
+A small gnomish woman behind a desk in the corner of the room perks up an ear at the word "Attack"
+
+**Fuzzy** · 18:34 · [↗](https://t.me/Path_Wars/66154/175420)
+So, what's that about an "attack"?
+
+**Fuzzy** · 18:35 · [↗](https://t.me/Path_Wars/66154/175422)
+She's hard to see, because her desk is completely swamped with piles of paperwork.
+
+### 📅 Sunday, Aug 30
+
+**Alastair Tan** · 13:19 · [↗](https://t.me/Path_Wars/66154/176223)
+A young server, what looks like a blonde-haired teenager, about 1.2 metres tall, in a light blue tunic and linen trousers, is carrying an empty tray, before he trips and falls onto the ground with a soft whelp and a grunt, right in front of Davy. While nothing breaks, he's instantly apologetic.
+
+"I'm sorry, I won't do it again!"
+
+Rin wasn't a very good server, even part-time, but he did occasionally glow weirdly when excited or apologetic. And sometimes, his shadow moved only after he did, as if it was doing a bad pantomime.

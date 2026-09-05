@@ -5,28 +5,30 @@
 {#generated-banner}
 
 
-Every play-by-post message the PathWarsNudge bot has archived: **15,625 messages** across **10 campaigns**, the oldest from **Aug 2023**.
+Every play-by-post message the PathWarsNudge bot has archived: **16,177 messages** across **11 campaigns**, the oldest from **Aug 2023**.
 
 ## Campaigns
 
 | Campaign | Months | Messages | First | Latest |
 |---|---:|---:|---|---|
-| [C00 Riddleport](C00-Riddleport-PBP-Index.md) | 21 | 1,732 | Dec 2024 | Aug 2026 |
-| [C01 Doomsday Funtime](C01-Doomsday-Funtime-PBP-Index.md) | 32 | 1,977 | Aug 2023 | Aug 2026 |
-| [C04 Magni Guard](C04-Magni-Guard-PBP-Index.md) | 4 | 222 | May 2026 | Aug 2026 |
+| [C00 Riddleport](C00-Riddleport-PBP-Index.md) | 21 | 1,755 | Dec 2024 | Aug 2026 |
+| [C01 Doomsday Funtime](C01-Doomsday-Funtime-PBP-Index.md) | 33 | 2,014 | Aug 2023 | Sep 2026 |
+| [C04 Magni Guard](C04-Magni-Guard-PBP-Index.md) | 5 | 265 | May 2026 | Sep 2026 |
 | [C04b Magni Watch](C04b-Magni-Watch-PBP-Index.md) | 15 | 1,720 | Mar 2025 | May 2026 |
-| [C05 Grand Explorers](C05-Grand-Explorers-PBP-Index.md) | 25 | 1,426 | Aug 2024 | Aug 2026 |
-| [C06 Kibwe](C06-Kibwe-PBP-Index.md) | 29 | 4,566 | Apr 2024 | Aug 2026 |
-| [C07 Hopeful End Times](C07-Hopeful-End-Times-PBP-Index.md) | 23 | 2,092 | Aug 2024 | Aug 2026 |
-| [C08 Theria](C08-Theria-PBP-Index.md) | 9 | 756 | Sep 2025 | May 2026 |
-| [C09 Metal City](C09-Metal-City-PBP-Index.md) | 11 | 716 | Sep 2025 | Aug 2026 |
+| [C05 Grand Explorers](C05-Grand-Explorers-PBP-Index.md) | 26 | 1,524 | Aug 2024 | Sep 2026 |
+| [C06 Kibwe](C06-Kibwe-PBP-Index.md) | 30 | 4,672 | Apr 2024 | Sep 2026 |
+| [C07 Hopeful End Times](C07-Hopeful-End-Times-PBP-Index.md) | 24 | 2,243 | Aug 2024 | Sep 2026 |
+| [C08 Theria](C08-Theria-PBP-Index.md) | 10 | 757 | Sep 2025 | Aug 2026 |
+| [C09 Metal City](C09-Metal-City-PBP-Index.md) | 12 | 801 | Sep 2025 | Sep 2026 |
+| [C10 The Junction](C10-The-Junction-PBP-Index.md) | 1 | 8 | Aug 2026 | Aug 2026 |
 | [C11 Dark Pockets](C11-Dark-Pockets-PBP-Index.md) | 4 | 418 | Mar 2026 | Jun 2026 |
 
 ## Everything, month by month
 
 The same transcripts read across campaigns instead of down one, which is how a month actually happened.
 
-- **Aug 2026** — [C00](C00-Riddleport-PBP-2026-08.md) · [C01](C01-Doomsday-Funtime-PBP-2026-08.md) · [C04](C04-Magni-Guard-PBP-2026-08.md) · [C05](C05-Grand-Explorers-PBP-2026-08.md) · [C06](C06-Kibwe-PBP-2026-08.md) · [C07](C07-Hopeful-End-Times-PBP-2026-08.md) · [C09](C09-Metal-City-PBP-2026-08.md)
+- **Sep 2026** — [C01](C01-Doomsday-Funtime-PBP-2026-09.md) · [C04](C04-Magni-Guard-PBP-2026-09.md) · [C05](C05-Grand-Explorers-PBP-2026-09.md) · [C06](C06-Kibwe-PBP-2026-09.md) · [C07](C07-Hopeful-End-Times-PBP-2026-09.md) · [C09](C09-Metal-City-PBP-2026-09.md)
+- **Aug 2026** — [C00](C00-Riddleport-PBP-2026-08.md) · [C01](C01-Doomsday-Funtime-PBP-2026-08.md) · [C04](C04-Magni-Guard-PBP-2026-08.md) · [C05](C05-Grand-Explorers-PBP-2026-08.md) · [C06](C06-Kibwe-PBP-2026-08.md) · [C07](C07-Hopeful-End-Times-PBP-2026-08.md) · [C08](C08-Theria-PBP-2026-08.md) · [C09](C09-Metal-City-PBP-2026-08.md) · [C10](C10-The-Junction-PBP-2026-08.md)
 - **Jul 2026** — [C00](C00-Riddleport-PBP-2026-07.md) · [C01](C01-Doomsday-Funtime-PBP-2026-07.md) · [C04](C04-Magni-Guard-PBP-2026-07.md) · [C05](C05-Grand-Explorers-PBP-2026-07.md) · [C06](C06-Kibwe-PBP-2026-07.md) · [C07](C07-Hopeful-End-Times-PBP-2026-07.md) · [C09](C09-Metal-City-PBP-2026-07.md)
 - **Jun 2026** — [C00](C00-Riddleport-PBP-2026-06.md) · [C01](C01-Doomsday-Funtime-PBP-2026-06.md) · [C04](C04-Magni-Guard-PBP-2026-06.md) · [C05](C05-Grand-Explorers-PBP-2026-06.md) · [C06](C06-Kibwe-PBP-2026-06.md) · [C07](C07-Hopeful-End-Times-PBP-2026-06.md) · [C09](C09-Metal-City-PBP-2026-06.md) · [C11](C11-Dark-Pockets-PBP-2026-06.md)
 - **May 2026** — [C00](C00-Riddleport-PBP-2026-05.md) · [C01](C01-Doomsday-Funtime-PBP-2026-05.md) · [C04](C04-Magni-Guard-PBP-2026-05.md) · [C04b](C04b-Magni-Watch-PBP-2026-05.md) · [C05](C05-Grand-Explorers-PBP-2026-05.md) · [C06](C06-Kibwe-PBP-2026-05.md) · [C07](C07-Hopeful-End-Times-PBP-2026-05.md) · [C08](C08-Theria-PBP-2026-05.md) · [C09](C09-Metal-City-PBP-2026-05.md) · [C11](C11-Dark-Pockets-PBP-2026-05.md)

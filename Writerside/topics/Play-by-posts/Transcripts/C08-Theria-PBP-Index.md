@@ -5,10 +5,11 @@
 {#generated-banner}
 
 
-**9 month(s)**, **756 messages** archived by the PathWarsNudge bot.
+**10 month(s)**, **757 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
+| [Aug 2026](C08-Theria-PBP-2026-08.md) | 1 | 2026-08-25 → 2026-08-25 | Path Wars |
 | [May 2026](C08-Theria-PBP-2026-05.md) | 5 | 2026-05-01 → 2026-05-24 | Chase Darkthorne, Link, Path Wars |
 | [Apr 2026](C08-Theria-PBP-2026-04.md) | 165 | 2026-04-07 → 2026-04-28 | Chase Darkthorne, Link, Cannon McMahon, Moss… |
 | [Mar 2026](C08-Theria-PBP-2026-03.md) | 93 | 2026-03-02 → 2026-03-19 | Link, Chase Darkthorne, Moss, Bruce… |
