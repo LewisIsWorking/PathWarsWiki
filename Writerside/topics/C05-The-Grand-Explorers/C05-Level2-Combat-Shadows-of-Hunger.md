@@ -4,7 +4,8 @@
 >> 1. Encounter name: Shadows-of-Hunger.
 >> 2. Encounter location: The farmlands of Seven Arches.
 >> 3. Encounter started = 2026 August 26th at 06:31am.
->> 4. Round 1!
+>> 4. Encounter finished = 2026 August 26th at 20:52pm.
+>> 5. Round 1!
 
 > Allies.
 >> 1. Aekold Black-Steel.
@@ -37,3 +38,7 @@
 
 > Round 1: Ally turns.
 >> 1. Annie shoots Shadow of Hunger 01 for 10 damage and blasts Shadow of Hunger 01 and Shadow of Hunger 03 for 2 & 5 damage from electric arc.
+>> 2. Rubel doubles slices Shadow of Hunger 03, killing it.
+>> 3. Twilight kills the 1st Hungry Shadow.
+>> 4. Illiani shoots her bow, killing the 3rd Hungry Shadow.
+>> 5. COMBAT OVER!

@@ -10,11 +10,11 @@
 >> 1. 
 
 > Unacted Allies.
->> 1. Changer. @PathWars. 2 ACTIONS REMAINING THIS TURN.
->> 2. Akuma. Tyler. @Linksanelf2006. 4 damage.
+>> 1. Changer. Lewis. @PathWars.
+>> 2. Akuma. Tyler. @Linksanelf2006.
 >> 3. Báyakan. Chase. @ChaseDarkthorne.
 >> 4. Kitt. Ryo. @RyoYamakawa.
->> 5. Nadya Rudean. @ArtyArtillery.
+
 
 > Acted Allies.
 >> 1. (none yet)
