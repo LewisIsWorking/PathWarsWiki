@@ -226,6 +226,11 @@ Start typing here...
 >> - Race: Fetching.
 >> - Subrace: aasimar nephilim.
 
+> Name.
+>> - Anaiel, the name Eimer chose for her.
+>> - Went by "Anna" in play for a time, which is why transcripts from May to September 2026 use that name.
+>> - Renamed back to Anaiel on 2026-09-13.
+
 - A possible backstory #1 for character-x.
 
 Character-x is Aekold Black-steel's younger sister.
