@@ -53,6 +53,14 @@ def group_areas(visits: list[Visit]) -> list[tuple[str, list[int]]]:
     return groups
 
 
+def capitalise(name: str) -> str:
+    """First letter up, the rest as written. The model copies names as the
+    posts use them mid-sentence ("pawn shop", "church of Sarenrae"), which
+    reads wrong as a heading. Only the first letter changes, so "ROOM 1" or
+    "St. Caspian's" are never flattened; fix those with a rename."""
+    return name[:1].upper() + name[1:]
+
+
 def area_in_game(hours: list[float | None]) -> float | None:
     """An area's in-game time: the sum of its rooms, but only once every room
     has one. A partial sum would read as a total and understate it."""
@@ -73,8 +81,8 @@ def build_visits(data: dict, months: dict[str, list[Message]]) -> list[Visit]:
             if s["last"] > len(msgs):
                 continue  # archive shrank under the data; skip, never guess
             raw_area = s.get("area") or s["location"]
-            area = area_renames.get(raw_area, raw_area)
-            location = renames.get(s["location"], s["location"])
+            area = capitalise(area_renames.get(raw_area, raw_area))
+            location = capitalise(renames.get(s["location"], s["location"]))
             first, last = msgs[s["first"] - 1], msgs[s["last"] - 1]
             if not visits or (visits[-1].area, visits[-1].location) != (area, location):
                 visits.append(Visit(f"{month}#{s['first']}", location, first, last,

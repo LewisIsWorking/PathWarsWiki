@@ -234,3 +234,11 @@ def test_in_game_time_is_read_or_refused(text, hours):
 ])
 def test_durations(hours, shown):
     assert duration(hours) == shown
+
+
+def test_names_get_a_capital_first_letter_and_nothing_else():
+    from page_render import capitalise
+    assert capitalise("pawn shop") == "Pawn shop"
+    assert capitalise("St. Caspian's Salvation") == "St. Caspian's Salvation"
+    assert capitalise("ROOM 1") == "ROOM 1"
+    assert capitalise("") == ""
