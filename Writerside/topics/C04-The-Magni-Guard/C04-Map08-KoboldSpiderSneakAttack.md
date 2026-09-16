@@ -17,13 +17,13 @@
 
 > Round 1: Unacted Allies.
 >> 1. Báyakan Tiktik = @ChaseDarkthorne.
->> 2. Kitt. Ryo = @RyoYamakawa.
->> 3. Nadya Rudean = @ArtyArtillery.
->> 4. Steele = @altan19931993.
->> 5. Rex = @RexVolf.
+>> 2. Steele = @altan19931993.
+>> 3. Rex = @RexVolf.
 
 > Round 1: Acted Allies.
 >> 1. Changer = @PathWars.
+>> 2. Kitt. Ryo = @RyoYamakawa.
+>> 3. Nadya Rudean = @ArtyArtillery.
 
 > Round 1: Ally turns.
 >> 1. Changer strides forward and uses telekinetic projectile, misses, rerolls and deals 6 damage. Kreski is bloodied.
