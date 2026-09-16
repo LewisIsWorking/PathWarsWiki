@@ -251,3 +251,11 @@ def test_months_from_a_fallback_model_are_redone():
     assert needs_extracting({"messages": 2, "model": PREFERRED_MODEL}, msgs), "grown"
     assert needs_extracting({"messages": 3, "model": "gemini/gemini-flash-lite-latest"}, msgs)
     assert not needs_extracting({"messages": 3, "model": PREFERRED_MODEL}, msgs)
+
+
+def test_unknown_places_say_what_they_are():
+    from page_render import name_unstated
+    assert name_unstated("Unknown", "unknown", first_place=True) == ("Before play", "Setup posts")
+    assert name_unstated("Unknown", "Unknown", first_place=False) == ("Location not stated", "Not stated")
+    assert name_unstated("Kibwe", "Unknown", first_place=False) == ("Kibwe", "Not stated")
+    assert name_unstated("Kibwe", "Sun Temple", first_place=True) == ("Kibwe", "Sun Temple")

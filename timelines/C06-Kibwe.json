@@ -1,0 +1,2327 @@
+{
+  "code": "C06",
+  "campaign": "Kibwe",
+  "months": {
+    "2024-04": {
+      "messages": 10,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 10,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 1,
+              "text": "Found themselves in a magical testing facility."
+            },
+            {
+              "at": 2,
+              "text": "Defeated demonic-dinosaurs and an enchanted divine chain trap."
+            },
+            {
+              "at": 5,
+              "text": "Found an open door to the north."
+            },
+            {
+              "at": 6,
+              "text": "Found a closed door to the south."
+            },
+            {
+              "at": 7,
+              "text": "Stood in a sun deprived courtyard with west double doors."
+            },
+            {
+              "at": 8,
+              "text": "Lorn opened the door."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-05": {
+      "messages": 60,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 2,
+              "text": "Lorn, Daichi Kenshin, Cliff Chewstick, Padraig Dream-Soup, Gringles Snotbelly and Eda stood by the side."
+            },
+            {
+              "at": 3,
+              "text": "GM described a room with meat-covered low tables and a northern double door."
+            },
+            {
+              "at": 5,
+              "text": "Party chose to proceed onward through the northern doors."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 43,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "primary supply room",
+          "events": [
+            {
+              "at": 7,
+              "text": "Group opened the door and found the primary supply room."
+            },
+            {
+              "at": 9,
+              "text": "Group saw bedrolls, ropes, cooking pots and other expedition supplies."
+            },
+            {
+              "at": 14,
+              "text": "Padraig Dream-Soup noticed something strange about the equipment pile."
+            },
+            {
+              "at": 25,
+              "text": "Daichi cast detect magic before opening."
+            },
+            {
+              "at": 30,
+              "text": "Lorn gained a green slime-flesh arm on his skeletal arm."
+            },
+            {
+              "at": 39,
+              "text": "Daichi went to the west door to open it carefully."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 44,
+          "last": 60,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "multi-purpose room",
+          "events": [
+            {
+              "at": 44,
+              "text": "GM described a multi-purpose room with runed wall, holy symbols and mirrors."
+            },
+            {
+              "at": 49,
+              "text": "Group saw purple-skinned mossy ghoul-like corpses hanging from ceiling beams."
+            },
+            {
+              "at": 52,
+              "text": "Lorn shot the hanging corpses."
+            },
+            {
+              "at": 54,
+              "text": "Daichi walked up to decipher the runes on the wall."
+            },
+            {
+              "at": 55,
+              "text": "GM described notes pointing to a scratched-over dissolving symbol."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-06": {
+      "messages": 14,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 4,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "multi-purpose room",
+          "events": [
+            {
+              "at": 1,
+              "text": "Tarsus entered the ancient city with the others and called out to a departing dwarf."
+            },
+            {
+              "at": 2,
+              "text": "Pádraig sniffed brown-grey powder from a spoon and offered alchemy help."
+            },
+            {
+              "at": 3,
+              "text": "Tarsus asked for a spare healing elixir and directions to the team's point of interest."
+            },
+            {
+              "at": 4,
+              "text": "Tiny skulked up and demanded an elixir too."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 5,
+          "last": 5,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "entrance ramp",
+          "events": [
+            {
+              "at": 5,
+              "text": "Pádraig left Tarsus and Tiny standing in the entrance ramp and went to the carriage."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 8,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "path",
+          "events": [
+            {
+              "at": 6,
+              "text": "Tiny grabbed the elixir and ran down the path."
+            },
+            {
+              "at": 7,
+              "text": "Fierce Leopard adjusted his pack and shield and moved to follow Tiny."
+            },
+            {
+              "at": 8,
+              "text": "Tarsus thanked the dwarf and followed the others toward the other adventurers' structure."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 14,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "room",
+          "events": [
+            {
+              "at": 9,
+              "text": "The pair caught up to the group."
+            },
+            {
+              "at": 10,
+              "text": "The party found themselves surrounded by ghouls hanging by nooses from concrete beams."
+            },
+            {
+              "at": 11,
+              "text": "Tiny poked a ghoul with his spear and asked what the ghouls had done."
+            },
+            {
+              "at": 12,
+              "text": "Tarsus investigated the runes on the bodies and walls with detect magic."
+            },
+            {
+              "at": 13,
+              "text": "Allisee rolled 1d20+11."
+            },
+            {
+              "at": 14,
+              "text": "Fierce Leopard searched the rest of the room for hidden secrets."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-07": {
+      "messages": 55,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 31,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "room",
+          "events": [
+            {
+              "at": 8,
+              "text": "Tarsus identified two languages including Sin-speak intermingled with magic."
+            },
+            {
+              "at": 9,
+              "text": "Tarsus described lab notes about bio-hacking with ooze form."
+            },
+            {
+              "at": 10,
+              "text": "Fierce Leopard found a possible secret room or passage."
+            },
+            {
+              "at": 12,
+              "text": "The party found a lock mechanism with an anvil symbol."
+            },
+            {
+              "at": 27,
+              "text": "The party attempted to open the lock and used guidance and a hero point."
+            },
+            {
+              "at": 31,
+              "text": "Tarsus diagrammed the room and the party decided to move on."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 32,
+          "last": 34,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "lobby",
+          "events": [
+            {
+              "at": 32,
+              "text": "The party made their way back to the lobby."
+            },
+            {
+              "at": 33,
+              "text": "The party found unlocked double doors to the south."
+            },
+            {
+              "at": 34,
+              "text": "Tiny pushed the doors open."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 35,
+          "last": 55,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "crumbling ruins of Holy Xatramba",
+          "events": [
+            {
+              "at": 35,
+              "text": "Flies swarmed out of the room and bit the party."
+            },
+            {
+              "at": 42,
+              "text": "The party saw a blood-stained rectangular room with benches, gore-filled tubs and corpses."
+            },
+            {
+              "at": 46,
+              "text": "A blood-soaked fiend stood with two cultists giving a prayer and tutorial."
+            },
+            {
+              "at": 49,
+              "text": "The fiend raised his cleaver and combat began."
+            },
+            {
+              "at": 55,
+              "text": "The party rolled initiative with a highest result of 32."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-08": {
+      "messages": 143,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 93,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "crumbling ruins of Holy Xatramba",
+          "events": [
+            {
+              "at": 4,
+              "text": "Daichi cast Time Sense, entered arcane cascade and tripped the fiend."
+            },
+            {
+              "at": 6,
+              "text": "Lorn dealt 46 piercing damage to the demonic creature."
+            },
+            {
+              "at": 46,
+              "text": "Lorn's arrows destroyed the fiend."
+            },
+            {
+              "at": 48,
+              "text": "Eda sprinted around the corner and joined the party in the room."
+            },
+            {
+              "at": 65,
+              "text": "The second cultist was slain."
+            },
+            {
+              "at": 85,
+              "text": "Eda killed the fleeing cultist with an eldritch shot."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 94,
+          "last": 143,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "beautiful converted premium suite",
+          "events": [
+            {
+              "at": 94,
+              "text": "Tarsus cast gale blast and shut the door after everyone moved into the next room."
+            },
+            {
+              "at": 95,
+              "text": "Ademe sat on the massive bed and invited the party in."
+            },
+            {
+              "at": 97,
+              "text": "Tarsus said they were after the statue taken from Kibwe."
+            },
+            {
+              "at": 125,
+              "text": "Tiny listened at the western door."
+            },
+            {
+              "at": 129,
+              "text": "Lorn saw a ghostly transparent Selenor standing next to him."
+            },
+            {
+              "at": 143,
+              "text": "Tarsus recalled knowledge on the seven pointed star and examined the contract."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-09": {
+      "messages": 23,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 23,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "beautiful converted premium suite",
+          "events": [
+            {
+              "at": 3,
+              "text": "Lorn stood up and told the group to remember what he said."
+            },
+            {
+              "at": 5,
+              "text": "A circle of power opened beneath Lorn and a being stepped forth from the wall."
+            },
+            {
+              "at": 12,
+              "text": "Lorn was claimed as Sin-Lorn, weapon of the dead god."
+            },
+            {
+              "at": 13,
+              "text": "Sin-Lorn's skeleton turned to multicoloured crystal with flesh and shackles."
+            },
+            {
+              "at": 17,
+              "text": "Edeme told Sin-Lorn to go with his group and free the curse breaker."
+            },
+            {
+              "at": 19,
+              "text": "Tarsus inspected Lorn's changed form with read aura and an Arcana check."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-10": {
+      "messages": 15,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 15,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "beautiful converted premium suite",
+          "events": [
+            {
+              "at": 1,
+              "text": "Tarsus commented on defaced gnoll bones and asked about deactivating security measures beyond the door."
+            },
+            {
+              "at": 2,
+              "text": "Ademe explained the laboratory layout and the original purposes of the rooms."
+            },
+            {
+              "at": 5,
+              "text": "Daichi searched the wall by hand for the hidden panel."
+            },
+            {
+              "at": 9,
+              "text": "The party found a well hidden detection panel that would have exploded if the door was opened."
+            },
+            {
+              "at": 14,
+              "text": "Daichi tried to disable the wiring using infiltrator tools."
+            },
+            {
+              "at": 15,
+              "text": "The detection panel remained untriggered after a very close attempt."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-11": {
+      "messages": 70,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 28,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "beautiful converted premium suite",
+          "events": [
+            {
+              "at": 4,
+              "text": "Lorn moved toward the panel and tried to disable it."
+            },
+            {
+              "at": 11,
+              "text": "The panel was disabled and the forward door appeared safe."
+            },
+            {
+              "at": 17,
+              "text": "Fierce Leopard carried Lorn back away from the door."
+            },
+            {
+              "at": 23,
+              "text": "Fierce Leopard checked the panel and found no traps."
+            },
+            {
+              "at": 28,
+              "text": "Fierce Leopard raised his shield and touched the panel to open the door."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 29,
+          "last": 70,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "room",
+          "events": [
+            {
+              "at": 29,
+              "text": "The party found an arcane machine at the end of the room."
+            },
+            {
+              "at": 37,
+              "text": "Tarsus opened the hatch on the device."
+            },
+            {
+              "at": 45,
+              "text": "The ooze flushed down a central ventilation shaft."
+            },
+            {
+              "at": 49,
+              "text": "Leilani Kana entered and said she was sent to recover curse breaker."
+            },
+            {
+              "at": 56,
+              "text": "The party searched the room and found nothing additional."
+            },
+            {
+              "at": 69,
+              "text": "The party agreed to go down D stairs."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-12": {
+      "messages": 119,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 4,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "room",
+          "events": [
+            {
+              "at": 1,
+              "text": "Group traveled downwards."
+            },
+            {
+              "at": 2,
+              "text": "Walls showed old steam valves, many rusted and broken."
+            },
+            {
+              "at": 3,
+              "text": "Steam blasts singed hairs and burned flesh lightly."
+            },
+            {
+              "at": 4,
+              "text": "Group reached the bottom of the stairs."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 5,
+          "last": 23,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "long one way corridor",
+          "events": [
+            {
+              "at": 5,
+              "text": "Group found a long one way corridor."
+            },
+            {
+              "at": 6,
+              "text": "Corridor showed more valves and gauges."
+            },
+            {
+              "at": 10,
+              "text": "Leopard scouted down the corridor with shield raised."
+            },
+            {
+              "at": 15,
+              "text": "Group started up the stairs quietly."
+            },
+            {
+              "at": 18,
+              "text": "Leopard checked the door for traps and opening method."
+            },
+            {
+              "at": 21,
+              "text": "Leilani pressed the button panel."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 24,
+          "last": 119,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "THE FORGE",
+          "events": [
+            {
+              "at": 24,
+              "text": "Group entered THE FORGE."
+            },
+            {
+              "at": 26,
+              "text": "Combat started against the gorilla cultist and demonic dinosaur."
+            },
+            {
+              "at": 70,
+              "text": "Ape cultist died."
+            },
+            {
+              "at": 105,
+              "text": "Demon-dinosaur died."
+            },
+            {
+              "at": 115,
+              "text": "Tiny searched all the crevices."
+            },
+            {
+              "at": 118,
+              "text": "Tarsus refocused and checked for other exits."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-01": {
+      "messages": 148,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 19,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "THE FORGE",
+          "events": [
+            {
+              "at": 6,
+              "text": "Tarsus examined the unfinished chain armor."
+            },
+            {
+              "at": 9,
+              "text": "Tarsus failed his forging attempt."
+            },
+            {
+              "at": 12,
+              "text": "Tarsus and Daichi completed the moonlit chain armour."
+            },
+            {
+              "at": 19,
+              "text": "Daichi opened the sliding double doors."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 20,
+          "last": 148,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "room",
+          "events": [
+            {
+              "at": 23,
+              "text": "Party found a half-finished metal-plate book on a table."
+            },
+            {
+              "at": 26,
+              "text": "Party saw four cultists repairing weapons and equipment."
+            },
+            {
+              "at": 29,
+              "text": "Combat began as the cultists grabbed weapons."
+            },
+            {
+              "at": 109,
+              "text": "Leilani killed one cultist."
+            },
+            {
+              "at": 139,
+              "text": "Party killed the last cultist and ended combat."
+            },
+            {
+              "at": 142,
+              "text": "Daichi healed Tiny and started searching the room."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-02": {
+      "messages": 26,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 26,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sweatshop",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM described the sweatshop as a long strangely designed room."
+            },
+            {
+              "at": 2,
+              "text": "GM described three doors to the west, south and east."
+            },
+            {
+              "at": 7,
+              "text": "The party found a chest with a spyglass, runestones and blood-soaked bags."
+            },
+            {
+              "at": 15,
+              "text": "The party resisted the temptation."
+            },
+            {
+              "at": 18,
+              "text": "Tiny took the talking book and shoved it into his waistband."
+            },
+            {
+              "at": 23,
+              "text": "Poking the blood-soaked bags caused metal clinking and flesh popping sounds."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-03": {
+      "messages": 321,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 28,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sweatshop",
+          "events": [
+            {
+              "at": 8,
+              "text": "Found various keys inside the meatballs."
+            },
+            {
+              "at": 10,
+              "text": "Collected a keyring of many keys."
+            },
+            {
+              "at": 17,
+              "text": "Learned the western door was locked with a matching key."
+            },
+            {
+              "at": 18,
+              "text": "Learned the eastern doors were sealed by magic and mechanical forces."
+            },
+            {
+              "at": 20,
+              "text": "Learned the southern door locks matched the keyring."
+            },
+            {
+              "at": 27,
+              "text": "Decided to go where the keys would take them."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 29,
+          "last": 50,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "room",
+          "events": [
+            {
+              "at": 29,
+              "text": "Found the secret passage to the Warehouse room from the Forge."
+            },
+            {
+              "at": 30,
+              "text": "Unlocked and explored the western door."
+            },
+            {
+              "at": 31,
+              "text": "Found a square room with Angazhan, Azlanti and Pharasma artwork and a covered painting."
+            },
+            {
+              "at": 33,
+              "text": "Opened a west door leading to tunnels into other buildings."
+            },
+            {
+              "at": 41,
+              "text": "Found a lever hidden behind several paintings."
+            },
+            {
+              "at": 47,
+              "text": "Pulled the lever and theorized a second lever by the southern door."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 51,
+          "last": 134,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "prison",
+          "events": [
+            {
+              "at": 51,
+              "text": "Entered the prison with dozens of chained prisoners."
+            },
+            {
+              "at": 62,
+              "text": "Found a torture altar with bags of dried leaves in the center."
+            },
+            {
+              "at": 65,
+              "text": "Found the southern door carved with demon runes."
+            },
+            {
+              "at": 78,
+              "text": "Met prisoners Dhira Graycheeks and Tavik."
+            },
+            {
+              "at": 111,
+              "text": "Sacrificed the old man and unlocked the runed door with his blood."
+            },
+            {
+              "at": 117,
+              "text": "Watched the freed prisoners flee leaving only the orc and rat woman."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 135,
+          "last": 227,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "Hand Gallery",
+          "events": [
+            {
+              "at": 142,
+              "text": "Found plaques for the Hand Gallery and the private shrine."
+            },
+            {
+              "at": 150,
+              "text": "Heard Eda Curse Breaker speak from behind the vault door."
+            },
+            {
+              "at": 151,
+              "text": "Saw hundreds of six-fingered hands with plaques."
+            },
+            {
+              "at": 184,
+              "text": "Learned the paws belonged to Gorilla Kings serving Angazhan."
+            },
+            {
+              "at": 211,
+              "text": "Deciphered the arcane lock and unlocked the paws."
+            },
+            {
+              "at": 223,
+              "text": "Found a storage box with magical gorilla gloves and six fingers elixir."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 228,
+          "last": 302,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "private shrine",
+          "events": [
+            {
+              "at": 228,
+              "text": "Stepped into the black metal private shrine."
+            },
+            {
+              "at": 232,
+              "text": "Felt alignment sickness threatening to turn them chaotic evil."
+            },
+            {
+              "at": 241,
+              "text": "Met the tired whipped gorilla cultist Ngira cleaning the floor."
+            },
+            {
+              "at": 281,
+              "text": "Saw Sanura appear in a flash of red light."
+            },
+            {
+              "at": 291,
+              "text": "Unlocked both doors including the courtyard door via the shrine runes."
+            },
+            {
+              "at": 297,
+              "text": "Noticed a divine gemstone worth 140 GP."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 303,
+          "last": 321,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "Sacrificial Plaza of Forgotten Gods",
+          "events": [
+            {
+              "at": 303,
+              "text": "Entered the Sacrificial Plaza of Forgotten Gods."
+            },
+            {
+              "at": 305,
+              "text": "Saw twelve obsidian broken pillars weeping amber fluid."
+            },
+            {
+              "at": 310,
+              "text": "Identified the western doors as Sweat Shop and Hand Gallery entries."
+            },
+            {
+              "at": 313,
+              "text": "Found the old man with a demon raptor and two gorilla cultists."
+            },
+            {
+              "at": 316,
+              "text": "Heard the old man introduce himself as Nyamat Mshwe called Theron."
+            },
+            {
+              "at": 319,
+              "text": "Saw Theron had six fingers and wore the Angazhan symbol."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-04": {
+      "messages": 110,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 31,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "Sacrificial Plaza of Forgotten Gods",
+          "events": [
+            {
+              "at": 3,
+              "text": "Leopard angrily confronted Theron about the threat, pain, suffering and murder."
+            },
+            {
+              "at": 7,
+              "text": "Theron claimed his god approved his quest and asked about Ademe's planned experiment."
+            },
+            {
+              "at": 10,
+              "text": "Theron claimed he saved people from death or monstrous transformation."
+            },
+            {
+              "at": 14,
+              "text": "Theron called Paga Nikohian a halfling supremacist and said he accepted all races."
+            },
+            {
+              "at": 30,
+              "text": "Eda told Lorn a complex rune was written on the vault and needed magic to read."
+            },
+            {
+              "at": 31,
+              "text": "Theron smirked and allowed Lorn to leave unimpeded."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 32,
+          "last": 47,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "private shrine",
+          "events": [
+            {
+              "at": 33,
+              "text": "Lorn attempted a religion check on the seal."
+            },
+            {
+              "at": 39,
+              "text": "Lorn asked Eda if she could read the seal."
+            },
+            {
+              "at": 40,
+              "text": "Lorn left the shrine and asked Daichi if he could read the seal."
+            },
+            {
+              "at": 41,
+              "text": "Lorn suggested the seal was powered by an outside source linked to Theron."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 48,
+          "last": 110,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 48,
+              "text": "The group reunited in the courtyard where Theron waited by the pond with companions."
+            },
+            {
+              "at": 52,
+              "text": "Lorn fired an arrow meant for one of Theron's women."
+            },
+            {
+              "at": 59,
+              "text": "Theron struck Daichi for 26 points of damage."
+            },
+            {
+              "at": 68,
+              "text": "A female cultist critically hit Tarsus Longstaff for 20 damage."
+            },
+            {
+              "at": 83,
+              "text": "Lorn struck the raptor demon twice for 32 damage in total."
+            },
+            {
+              "at": 110,
+              "text": "Eimer cast courageous anthem and fireball."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-05": {
+      "messages": 277,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 277,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 1,
+              "text": "The party opened combat with a flame orb that exploded on the enemy."
+            },
+            {
+              "at": 26,
+              "text": "Tarsus was blasted beside the pool of dark water by demonic magic."
+            },
+            {
+              "at": 192,
+              "text": "Tiny went down to Dying 1 after cultist strikes."
+            },
+            {
+              "at": 253,
+              "text": "Fierce Leopard felled the demon raptor and a female cultist."
+            },
+            {
+              "at": 258,
+              "text": "Iwao sheathed his sword and ran off into a tunnel."
+            },
+            {
+              "at": 264,
+              "text": "Theron offered his complete and full surrender."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-06": {
+      "messages": 39,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 39,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 5,
+              "text": "Lorn contacted Aderme regarding Theron's fate and Ademe arrived."
+            },
+            {
+              "at": 11,
+              "text": "Ademe thanked for the tablets and said she would take them and whatever else she wished."
+            },
+            {
+              "at": 13,
+              "text": "Ademe put a dagger to Theron's throat in a rage."
+            },
+            {
+              "at": 17,
+              "text": "Farai arrived saying Kibwe sent her to aid in acquiring the statue of curse breaking."
+            },
+            {
+              "at": 23,
+              "text": "Farai exploded and turned into a slime monster."
+            },
+            {
+              "at": 35,
+              "text": "Kieran swung his blade at the slime and the slime ruptured a spleen for 26 points of damage."
+            }
+          ],
+          "time_cues": [
+            "10 minutes pass"
+          ]
+        }
+      ]
+    },
+    "2025-07": {
+      "messages": 228,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 89,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 4,
+              "text": "Kieran struck the slime with radiant sword strikes."
+            },
+            {
+              "at": 12,
+              "text": "The slime split into two smaller slimes."
+            },
+            {
+              "at": 24,
+              "text": "Lorn killed one slime."
+            },
+            {
+              "at": 37,
+              "text": "Eda blasted the last slime dead and combat ended."
+            },
+            {
+              "at": 64,
+              "text": "Kieran drank from the demon pool."
+            },
+            {
+              "at": 66,
+              "text": "Leilani went south towards the door of the vault."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 90,
+          "last": 98,
+          "area": "demon pool",
+          "location": "inky void",
+          "events": [
+            {
+              "at": 90,
+              "text": "Kieran fell through a dark void."
+            },
+            {
+              "at": 93,
+              "text": "Kieran saw a slimy black stand holding a flesh book covered in watching eyes."
+            },
+            {
+              "at": 98,
+              "text": "Kieran learned he could command the book to show knowledge without unsealing it."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 99,
+          "last": 104,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 102,
+              "text": "Theron proclaimed the green flame had saved the world."
+            },
+            {
+              "at": 103,
+              "text": "Akwa and Welsa drank from the pool."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 105,
+          "last": 201,
+          "area": "demon pool",
+          "location": "inky void",
+          "events": [
+            {
+              "at": 112,
+              "text": "The book showed Kieran a future with dead children and Serena."
+            },
+            {
+              "at": 122,
+              "text": "Kieran recited the ritual words from the book."
+            },
+            {
+              "at": 126,
+              "text": "Pidge stepped out of the activated gateway."
+            },
+            {
+              "at": 157,
+              "text": "Kieran rose reborn as a Divine Slime and the waters turned green."
+            },
+            {
+              "at": 182,
+              "text": "Akwa became a much lesser divine-slime and her eidolon changed."
+            },
+            {
+              "at": 200,
+              "text": "Juiblex revealed himself as the God of Slimes and awakened."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 202,
+          "last": 228,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 202,
+              "text": "Kieran and Akwa returned to the material plane and Eda collapsed."
+            },
+            {
+              "at": 203,
+              "text": "Eda said something used over 100% of Curse Breaker power to break a beyond mythical curse."
+            },
+            {
+              "at": 214,
+              "text": "Theron swallowed some of Kieran slime."
+            },
+            {
+              "at": 216,
+              "text": "Kieran kicked Theron in the gut."
+            },
+            {
+              "at": 223,
+              "text": "The door was found unlocked."
+            },
+            {
+              "at": 228,
+              "text": "Kieran and Akwa pushed open the vault."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-08": {
+      "messages": 371,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 371,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 12,
+              "text": "The vault door opened and revealed two demon guardians and the restrained Curse Breaker."
+            },
+            {
+              "at": 24,
+              "text": "The demons threw spears and Akwa was critically hit and left dying."
+            },
+            {
+              "at": 64,
+              "text": "Leopard charged into the room and struck a demon with his shield."
+            },
+            {
+              "at": 300,
+              "text": "Lorn's attack killed the final demon guardian."
+            },
+            {
+              "at": 332,
+              "text": "Eda touched the statue and collapsed to the ground."
+            },
+            {
+              "at": 344,
+              "text": "Tarsus explained Curse Breaker had burned its soul and Eda could revive it with her life force."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-09": {
+      "messages": 119,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 13,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 6,
+              "text": "A black-furred fox left a sealed letter and scurried away"
+            },
+            {
+              "at": 8,
+              "text": "The party read Aberith's letter offering assistance"
+            },
+            {
+              "at": 9,
+              "text": "Kieran asked about a red-leaved tree in Spring"
+            },
+            {
+              "at": 10,
+              "text": "Tarsus warned they had less than two days to act"
+            },
+            {
+              "at": 12,
+              "text": "The fox waited by a previously unnoticed passageway"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 14,
+          "last": 24,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "Japanese maple tree",
+          "events": [
+            {
+              "at": 14,
+              "text": "Tarsus followed the fox down the passageway"
+            },
+            {
+              "at": 16,
+              "text": "Tarsus found a Japanese maple tree and a stone obelisk"
+            },
+            {
+              "at": 19,
+              "text": "A voice spoke inside Tarsus's head"
+            },
+            {
+              "at": 20,
+              "text": "Tarsus explained the dilemma about rejuvenating Curse Breaker"
+            },
+            {
+              "at": 21,
+              "text": "The voice offered help in exchange for service"
+            },
+            {
+              "at": 23,
+              "text": "Tarsus realized the letter ritual was a communication spell"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 25,
+          "last": 101,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "chamber",
+          "events": [
+            {
+              "at": 25,
+              "text": "Kieran pressed his forehead against the Curse Breaker statue"
+            },
+            {
+              "at": 38,
+              "text": "A much smaller Eda was vomited out"
+            },
+            {
+              "at": 58,
+              "text": "Tarsus began the ritual"
+            },
+            {
+              "at": 84,
+              "text": "Curse Breaker was reborn and Eda's body burned to ash"
+            },
+            {
+              "at": 94,
+              "text": "The group leveled up to level 7"
+            },
+            {
+              "at": 101,
+              "text": "Eda walked through the wall leaving an Eda-shaped gap"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 102,
+          "last": 103,
+          "area": "crumbling ruins of Holy Xatramba",
+          "location": "sun deprived courtyard",
+          "events": [
+            {
+              "at": 102,
+              "text": "Eda opened a portal to Kibwe in the courtyard"
+            },
+            {
+              "at": 103,
+              "text": "Eda stepped through the portal"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 104,
+          "last": 119,
+          "area": "Kibwe",
+          "location": "Kibwe",
+          "events": [
+            {
+              "at": 104,
+              "text": "Eda stood before a female red slime woman on the other side"
+            },
+            {
+              "at": 107,
+              "text": "Leopard made his way through the portal"
+            },
+            {
+              "at": 109,
+              "text": "Tarsus entered the portal"
+            },
+            {
+              "at": 111,
+              "text": "Kieran hopped through the portal"
+            },
+            {
+              "at": 117,
+              "text": "Akwa followed inside"
+            },
+            {
+              "at": 118,
+              "text": "Everyone had gone through the portal"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 36,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 36,
+          "area": "Kibwe",
+          "location": "Kibwe",
+          "events": [
+            {
+              "at": 1,
+              "text": "The portal closed behind the party"
+            },
+            {
+              "at": 12,
+              "text": "Tal'lysae introduced herself and said she travelled to speak to them"
+            },
+            {
+              "at": 14,
+              "text": "Tal'lysae said she wished to help with their cause"
+            },
+            {
+              "at": 15,
+              "text": "Eda said her connection to Kibwe was severed and she must use the temple of the sun to reconnect"
+            },
+            {
+              "at": 36,
+              "text": "Kieran asked what the terms of the alliance were"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 4,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 4,
+          "area": "Kibwe",
+          "location": "Kibwe",
+          "events": [
+            {
+              "at": 1,
+              "text": "Kieran asked what was expected of the city and of them."
+            },
+            {
+              "at": 2,
+              "text": "Tal'lysae said defending the city was acceptable but they were capable of more."
+            },
+            {
+              "at": 3,
+              "text": "Lorn said they could become more than their assigned roles by trusting one another."
+            },
+            {
+              "at": 4,
+              "text": "Kieran nodded and agreed to do this."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 9,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 8,
+          "area": "Kibwe",
+          "location": "Kibwe",
+          "events": [
+            {
+              "at": 2,
+              "text": "Tal'lysae felt a disturbance in the air and earth."
+            },
+            {
+              "at": 3,
+              "text": "Leilani asked Tal'lysae to speak plainly about what was felt."
+            },
+            {
+              "at": 5,
+              "text": "Leopard hefted his shield and urged the party to move."
+            },
+            {
+              "at": 6,
+              "text": "Tiny said he was not hired for this and wandered off."
+            },
+            {
+              "at": 7,
+              "text": "Tal'lysae said dark forces clouded Tiny's soul."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 9,
+          "area": "the city",
+          "location": "the city",
+          "events": [
+            {
+              "at": 9,
+              "text": "Kieran led the party into the city with his glowing bow."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 92,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "the city",
+          "location": "the city",
+          "events": [
+            {
+              "at": 2,
+              "text": "Saw the guard towers of Kibwe stood unguarded."
+            },
+            {
+              "at": 3,
+              "text": "Saw large slimes filled the guard towers."
+            },
+            {
+              "at": 4,
+              "text": "Heard Tal'lysae say they would avoid the threats."
+            },
+            {
+              "at": 5,
+              "text": "Followed Tal'lysae around the walls past destroyed hamlets."
+            }
+          ],
+          "time_cues": [
+            "for over 30 minutes"
+          ]
+        },
+        {
+          "first": 6,
+          "last": 11,
+          "area": "service tunnel",
+          "location": "service tunnel",
+          "events": [
+            {
+              "at": 6,
+              "text": "Climbed down the steel ladder into the service tunnel."
+            },
+            {
+              "at": 7,
+              "text": "Saw slime drips formed tiny crawling organisms."
+            },
+            {
+              "at": 9,
+              "text": "Arrived at a large stone door locked by a magical rune."
+            },
+            {
+              "at": 11,
+              "text": "Watched Eda turn the stone door to ash and leap away."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 12,
+          "last": 27,
+          "area": "Kibwe",
+          "location": "Kibwe",
+          "events": [
+            {
+              "at": 12,
+              "text": "Walked into the light of the city of Kibwe."
+            },
+            {
+              "at": 15,
+              "text": "Saw the merchant streets stood nearly empty."
+            },
+            {
+              "at": 16,
+              "text": "Saw corpses of non-humans littered the way."
+            },
+            {
+              "at": 23,
+              "text": "Heard Tal'lysae point to the golden dome Sun Temple."
+            },
+            {
+              "at": 26,
+              "text": "Heard Tal'lysae guess Paga Nikohian was in the Sun Temple."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 28,
+          "last": 92,
+          "area": "Kibwe",
+          "location": "wide merchant streets",
+          "events": [
+            {
+              "at": 32,
+              "text": "Watched the merchant collapse into sewage-brown slime."
+            },
+            {
+              "at": 39,
+              "text": "Saw the triceratops round on the group."
+            },
+            {
+              "at": 46,
+              "text": "Saw the dwarf explode and the slime evolve."
+            },
+            {
+              "at": 63,
+              "text": "Watched the triceratops calm and wait."
+            },
+            {
+              "at": 66,
+              "text": "Saw the White Flame Slime surge toward the group."
+            },
+            {
+              "at": 90,
+              "text": "Watched Master Cho dust his blade and strike the slime."
+            }
+          ],
+          "time_cues": [
+            "for days"
+          ]
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 171,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 118,
+          "area": "Kibwe",
+          "location": "wide merchant streets",
+          "events": [
+            {
+              "at": 8,
+              "text": "Tarsus rushed up and spellstruck the slime with lightning."
+            },
+            {
+              "at": 18,
+              "text": "Tarsus collapsed the slime's dimensional rift to counter its teleport."
+            },
+            {
+              "at": 28,
+              "text": "Daichi struck the slime hard as it tried to teleport."
+            },
+            {
+              "at": 66,
+              "text": "The slime grabbed Daichi and Kieran and dealt force damage."
+            },
+            {
+              "at": 114,
+              "text": "Fierce Leopard stepped into the slime's portal and vanished."
+            },
+            {
+              "at": 118,
+              "text": "Slime monster parts worth 300 Gold Pieces lay scattered."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 119,
+          "last": 171,
+          "area": "endless void",
+          "location": "paper-stone",
+          "events": [
+            {
+              "at": 123,
+              "text": "Fierce Leopard arrived far from Kibwe and vomited blood."
+            },
+            {
+              "at": 134,
+              "text": "Leopard found himself on a platform in an endless void."
+            },
+            {
+              "at": 139,
+              "text": "Leopard saw hundreds of thousands of huge starships in the clouds."
+            },
+            {
+              "at": 152,
+              "text": "The dwarf warned that something was coming for them all."
+            },
+            {
+              "at": 161,
+              "text": "Bashevis warned time was short as the rift shrank to a crack."
+            },
+            {
+              "at": 169,
+              "text": "Bashevis moved to press his hands into the rift and asked if ready."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 172,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 11,
+          "area": "endless void",
+          "location": "paper-stone",
+          "events": [
+            {
+              "at": 3,
+              "text": "Bashevis poured flame magic into the rift."
+            },
+            {
+              "at": 6,
+              "text": "Bashevis form was poured into the rift."
+            },
+            {
+              "at": 7,
+              "text": "The platform shattered."
+            },
+            {
+              "at": 11,
+              "text": "Ryo was violently lurched through time and space."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 12,
+          "last": 75,
+          "area": "Kibwe",
+          "location": "wide merchant streets",
+          "events": [
+            {
+              "at": 12,
+              "text": "Party stood on the sandy ground of Kibwe streets."
+            },
+            {
+              "at": 14,
+              "text": "Fierce Leopard returned in a burst of white light covered in slime."
+            },
+            {
+              "at": 36,
+              "text": "Fierce Leopard and Daichi Kenshin were at full health."
+            },
+            {
+              "at": 47,
+              "text": "Party started walking towards the temple of the sun."
+            },
+            {
+              "at": 55,
+              "text": "Kieran tried to shoo the triceratops away and it stayed."
+            },
+            {
+              "at": 68,
+              "text": "The slime layer sank into the triceratops and glowed green."
+            }
+          ],
+          "time_cues": [
+            "about 30 seconds",
+            "20 minutes"
+          ]
+        },
+        {
+          "first": 76,
+          "last": 172,
+          "area": "Kibwe",
+          "location": "watchtower",
+          "events": [
+            {
+              "at": 78,
+              "text": "Party approached a tall wooden watchtower."
+            },
+            {
+              "at": 86,
+              "text": "A circle of mages was seen casting a ritual on the roof."
+            },
+            {
+              "at": 90,
+              "text": "A green orb manifested while purple lightning popped it."
+            },
+            {
+              "at": 93,
+              "text": "Tavik reported the curse was evolving."
+            },
+            {
+              "at": 166,
+              "text": "A massive crack split the air and the green orb flickered."
+            },
+            {
+              "at": 170,
+              "text": "Tarsus ran up the stairs to help with the ritual."
+            }
+          ],
+          "time_cues": [
+            "Within an hour",
+            "within the hour"
+          ]
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 800,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 800,
+          "area": "Kibwe",
+          "location": "watchtower",
+          "events": [
+            {
+              "at": 40,
+              "text": "Ji Yun's flamethrower destroyed Slime #07."
+            },
+            {
+              "at": 204,
+              "text": "Awnii appeared at the top of the watchtower."
+            },
+            {
+              "at": 459,
+              "text": "Tal'lysae declared the ritual complete."
+            },
+            {
+              "at": 719,
+              "text": "Fierce Leopard killed the last standing slime."
+            },
+            {
+              "at": 735,
+              "text": "Tal'lysae went downstairs to give medical attention."
+            },
+            {
+              "at": 763,
+              "text": "Lorn went downstairs and found the dead and survivors."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 314,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 65,
+          "area": "Kibwe",
+          "location": "watchtower",
+          "events": [
+            {
+              "at": 31,
+              "text": "Orb shrank and looked like a seed"
+            },
+            {
+              "at": 38,
+              "text": "Slime tree grew in centre of tower roof"
+            },
+            {
+              "at": 43,
+              "text": "Flower sprouted at base of tree"
+            },
+            {
+              "at": 47,
+              "text": "Kieran saw translucent woman on roots then she vanished"
+            },
+            {
+              "at": 54,
+              "text": "Tal'lysae lay on ground glitching out"
+            },
+            {
+              "at": 56,
+              "text": "Tarsus hurried out of tower to street"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 66,
+          "last": 193,
+          "area": "Kibwe",
+          "location": "wide merchant streets",
+          "events": [
+            {
+              "at": 90,
+              "text": "Moffat said he must leave for backup shelter"
+            },
+            {
+              "at": 92,
+              "text": "Moffat left with Nexians, mercenaries and citizens"
+            },
+            {
+              "at": 152,
+              "text": "Kieran made his way out of tower to group"
+            },
+            {
+              "at": 155,
+              "text": "Petals appeared in hands of group members"
+            },
+            {
+              "at": 174,
+              "text": "Tal'lysae loaded slimes onto party mule"
+            },
+            {
+              "at": 183,
+              "text": "Tal'lysae described bridge between flames and slime-kind"
+            }
+          ],
+          "time_cues": [
+            "10 minutes",
+            "10 minutes pass"
+          ]
+        },
+        {
+          "first": 194,
+          "last": 247,
+          "area": "Sun Temple",
+          "location": "Sun Temple",
+          "events": [
+            {
+              "at": 194,
+              "text": "Party came close to Sun temple"
+            },
+            {
+              "at": 202,
+              "text": "Guards with scythes guarded entrance"
+            },
+            {
+              "at": 204,
+              "text": "Ademe identified guards as dark fey mercenaries"
+            },
+            {
+              "at": 213,
+              "text": "Tal'lysae said grey flame was Wandering Chronicler"
+            },
+            {
+              "at": 231,
+              "text": "Lorn equipped composite longbow"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 248,
+          "last": 314,
+          "area": "Sun Temple",
+          "location": "alleyway",
+          "events": [
+            {
+              "at": 248,
+              "text": "Group ducked into alleyway and rested"
+            },
+            {
+              "at": 258,
+              "text": "Lorn fired two arrows at Dark Fey guard and flesh healed"
+            },
+            {
+              "at": 264,
+              "text": "Tal'lysae blew head off Dark Fey Guard 1 and it regenerated"
+            },
+            {
+              "at": 286,
+              "text": "Leopard raised shield and waited"
+            },
+            {
+              "at": 309,
+              "text": "Tarsus recognised guards as Red Caps"
+            },
+            {
+              "at": 311,
+              "text": "Tarsus learned hat loss removed regeneration"
+            }
+          ],
+          "time_cues": [
+            "30 minutes pass"
+          ]
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 428,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 211,
+          "area": "Sun Temple",
+          "location": "alleyway",
+          "events": [
+            {
+              "at": 6,
+              "text": "Kieran scored two natural 20s against the Dark Fey Guards."
+            },
+            {
+              "at": 105,
+              "text": "Tal'Lysae critically hit and killed Dark Fey Guard 1."
+            },
+            {
+              "at": 149,
+              "text": "Kieran killed Dark Fey Guard 3 and all guards lay dead."
+            },
+            {
+              "at": 159,
+              "text": "Tal'Lysae said the Sun Temple lay before the party."
+            },
+            {
+              "at": 178,
+              "text": "The party stood ready outside the sealed stone doors."
+            },
+            {
+              "at": 189,
+              "text": "Anna slid down her spear and asked what was going on."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 212,
+          "last": 253,
+          "area": "Sun Temple",
+          "location": "the entryway",
+          "events": [
+            {
+              "at": 212,
+              "text": "The party shoved open the doors of the Temple of the Sun."
+            },
+            {
+              "at": 213,
+              "text": "Tarsus saw room 1 of the Sun Temple open into the entryway."
+            },
+            {
+              "at": 222,
+              "text": "Daichi recalled the western door led to a sleeping room."
+            },
+            {
+              "at": 223,
+              "text": "Daichi recalled the eastern door led to the Chamber of Welcome."
+            },
+            {
+              "at": 228,
+              "text": "Masters in perception heard growing in the Chamber of Sleep."
+            },
+            {
+              "at": 247,
+              "text": "Daichi saw a flash of red fur and golden chains."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 254,
+          "last": 335,
+          "area": "Sun Temple",
+          "location": "Chamber of Sleeping",
+          "events": [
+            {
+              "at": 261,
+              "text": "A cat-like Golden Guardian leapt at Daichi and combat began."
+            },
+            {
+              "at": 296,
+              "text": "The Golden Guardian died and the party saved Daichi."
+            },
+            {
+              "at": 302,
+              "text": "The party found beds and a scratched Eda statue."
+            },
+            {
+              "at": 313,
+              "text": "Tarsus repaired Daichi's armour with scrap metal."
+            },
+            {
+              "at": 328,
+              "text": "Cho heard Halfling and Dwarvish through the thick doors."
+            },
+            {
+              "at": 330,
+              "text": "The party finished healing and faced the Welcome doors."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 336,
+          "last": 428,
+          "area": "Sun Temple",
+          "location": "Chamber of Welcome",
+          "events": [
+            {
+              "at": 336,
+              "text": "The party swung open the doors to the Chamber of Welcome."
+            },
+            {
+              "at": 340,
+              "text": "Around 48 armed guards stood before the party."
+            },
+            {
+              "at": 344,
+              "text": "The guards unleashed a prepared round of crossbow bolts."
+            },
+            {
+              "at": 355,
+              "text": "Combat against the small guards began in the Chamber of Welcome."
+            },
+            {
+              "at": 368,
+              "text": "The guards spread out in groups sharing HP and actions."
+            },
+            {
+              "at": 369,
+              "text": "Lorn and Tal'Lysae won initiative with 34."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 286,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 286,
+          "area": "Sun Temple",
+          "location": "Chamber of Welcome",
+          "events": [
+            {
+              "at": 32,
+              "text": "The Northern Doors swung open and two gnomes confronted the party."
+            },
+            {
+              "at": 46,
+              "text": "Tal'Lysae shot and destroyed the first guard legion."
+            },
+            {
+              "at": 71,
+              "text": "Fierce Leopard struck and destroyed the second guard legion."
+            },
+            {
+              "at": 115,
+              "text": "Ji Yun burned and killed the remains of the fourth legion."
+            },
+            {
+              "at": 130,
+              "text": "Narrow and Wide threw bombs and ran north to retreat."
+            },
+            {
+              "at": 284,
+              "text": "The gnomes continued running while the party strode after them."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 191,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 165,
+          "area": "Sun Temple",
+          "location": "Chamber of Welcome",
+          "events": [
+            {
+              "at": 65,
+              "text": "Wide took 89 damage from Fierce Leopard."
+            },
+            {
+              "at": 81,
+              "text": "Narrow stowed bomb and rapier and surrendered."
+            },
+            {
+              "at": 90,
+              "text": "Combat ended on the first floor of the Sun Temple."
+            },
+            {
+              "at": 111,
+              "text": "Tal'Lysae gathered 320 GP worth of body parts from dead guards."
+            },
+            {
+              "at": 144,
+              "text": "Tarsus became master of the dual-mode Rod of Wonder."
+            },
+            {
+              "at": 165,
+              "text": "Party decided to head toward the trapped staircase."
+            }
+          ],
+          "time_cues": [
+            "anywhere from hours to a day at most"
+          ]
+        },
+        {
+          "first": 166,
+          "last": 191,
+          "area": "Sun Temple",
+          "location": "scribing chamber",
+          "events": [
+            {
+              "at": 167,
+              "text": "Party stood before the doors to the scribing chamber."
+            },
+            {
+              "at": 176,
+              "text": "No magic was found on the door except sigils."
+            },
+            {
+              "at": 185,
+              "text": "The door did not seem trapped."
+            },
+            {
+              "at": 190,
+              "text": "Tal'Lysae asked about forging a creation from slain foes."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 98,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 98,
+          "area": "Sun Temple",
+          "location": "scribing chamber",
+          "events": [
+            {
+              "at": 8,
+              "text": "Daichi opened the door of the chamber of scribing."
+            },
+            {
+              "at": 9,
+              "text": "The party entered the scribing chamber covered in maps and stone slabs."
+            },
+            {
+              "at": 15,
+              "text": "The slabs emitted lightning bolts and combat began."
+            },
+            {
+              "at": 21,
+              "text": "Master Cho Kobo stayed out of combat to guard the gnomes."
+            },
+            {
+              "at": 52,
+              "text": "Eda Stone-Worth's voice said a new temple Guardian was needed."
+            },
+            {
+              "at": 65,
+              "text": "The lightning sigils glowed and struck five allies."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {},
+  "area_renames": {}
+}

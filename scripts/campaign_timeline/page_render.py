@@ -61,6 +61,23 @@ def capitalise(name: str) -> str:
     return name[:1].upper() + name[1:]
 
 
+def name_unstated(area: str, location: str, first_place: bool) -> tuple[str, str]:
+    """Give "Unknown" places a name that says what they are.
+
+    The model answers "Unknown" when the posts name no place. Across all 11
+    campaigns (2026-09-16) that was almost always the opening setup posts
+    ("Please make level 2 characters"), and occasionally a stretch mid-game
+    with no location stated. Both read as a mistake when labelled "Unknown".
+    """
+    def unknown(name):
+        return name.strip().lower() in ("unknown", "")
+    if unknown(area):
+        area = "Before play" if first_place else "Location not stated"
+    if unknown(location):
+        location = "Setup posts" if first_place else "Not stated"
+    return area, location
+
+
 def area_in_game(hours: list[float | None]) -> float | None:
     """An area's in-game time: the sum of its rooms, but only once every room
     has one. A partial sum would read as a total and understate it."""
@@ -83,6 +100,7 @@ def build_visits(data: dict, months: dict[str, list[Message]]) -> list[Visit]:
             raw_area = s.get("area") or s["location"]
             area = capitalise(area_renames.get(raw_area, raw_area))
             location = capitalise(renames.get(s["location"], s["location"]))
+            area, location = name_unstated(area, location, first_place=not visits)
             first, last = msgs[s["first"] - 1], msgs[s["last"] - 1]
             if not visits or (visits[-1].area, visits[-1].location) != (area, location):
                 visits.append(Visit(f"{month}#{s['first']}", location, first, last,

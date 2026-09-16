@@ -1,0 +1,989 @@
+{
+  "code": "C08",
+  "campaign": "Theria",
+  "months": {
+    "2025-09": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM tagged Linksanelf2006"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 232,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 14,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "Party stood on deck of vessel in morning fog for final briefing."
+            },
+            {
+              "at": 3,
+              "text": "Warpriest Valerius Kael briefed party about shore of Isle of Nith."
+            },
+            {
+              "at": 5,
+              "text": "Brother Elias introduced himself as lieutenant leading the party."
+            },
+            {
+              "at": 10,
+              "text": "Bereket, Waldemar and Heron introduced themselves to Elias."
+            },
+            {
+              "at": 11,
+              "text": "Elias laid out route across island and discussed formations."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 15,
+          "last": 35,
+          "area": "Isle of Nith",
+          "location": "forest",
+          "events": [
+            {
+              "at": 15,
+              "text": "Heron spotted figure running deeper into forest and party followed trail."
+            },
+            {
+              "at": 23,
+              "text": "Party discussed seeing in dark and shared torches."
+            },
+            {
+              "at": 28,
+              "text": "Heron raised shield and torch and moved forward into dark."
+            },
+            {
+              "at": 35,
+              "text": "Ali and Waldemar noticed figure and Bereket saw trail and footprints."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 36,
+          "last": 181,
+          "area": "Isle of Nith",
+          "location": "Cave",
+          "events": [
+            {
+              "at": 36,
+              "text": "Elias climbed down hole first and signaled it was clear."
+            },
+            {
+              "at": 55,
+              "text": "Elias fell into spiked pit ahead in tunnel and died."
+            },
+            {
+              "at": 105,
+              "text": "Party charged lit room and ambushed three cloaked individuals at table."
+            },
+            {
+              "at": 137,
+              "text": "Party opened door and entered empty hallway with four doors."
+            },
+            {
+              "at": 157,
+              "text": "Party sent owl message then breached door into small damp room."
+            },
+            {
+              "at": 173,
+              "text": "Party left one cultist dead and one unconscious and bound him."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 182,
+          "last": 232,
+          "area": "Isle of Nith",
+          "location": "Cavern",
+          "events": [
+            {
+              "at": 182,
+              "text": "Waldemar smashed barricaded door revealing large cavern with dais and crystals."
+            },
+            {
+              "at": 190,
+              "text": "Bereket shot arrows at eastern archer from walkway."
+            },
+            {
+              "at": 194,
+              "text": "Heron taunted archer and advanced with raised shield."
+            },
+            {
+              "at": 219,
+              "text": "Waldemar struck chanting cultist with empowered maul."
+            },
+            {
+              "at": 228,
+              "text": "Ali killed shielded cultist and moved toward chanting cultists."
+            },
+            {
+              "at": 229,
+              "text": "Lead cultist stabbed Waldemar as chanting continued."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 92,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 33,
+          "area": "Isle of Nith",
+          "location": "Cavern",
+          "events": [
+            {
+              "at": 4,
+              "text": "Berekit downed the final archer and the wounded leader warned the ritual could not be stopped."
+            },
+            {
+              "at": 11,
+              "text": "The lead cultist went down leaving only the chanting chorus."
+            },
+            {
+              "at": 12,
+              "text": "The chanters stabbed themselves and their blood pooled in the floor glyphs."
+            },
+            {
+              "at": 13,
+              "text": "A woman's voice said she was free as the party felt changed."
+            },
+            {
+              "at": 24,
+              "text": "The woman left through the passageway and the stone sealed behind her."
+            },
+            {
+              "at": 29,
+              "text": "The party heard a cry for help and moved toward it."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 34,
+          "last": 54,
+          "area": "Isle of Nith",
+          "location": "locked door",
+          "events": [
+            {
+              "at": 34,
+              "text": "Shouting led the party to a locked door which Ali opened."
+            },
+            {
+              "at": 35,
+              "text": "The party found a distressed elvish man inside."
+            },
+            {
+              "at": 39,
+              "text": "The man said he was to be sacrificed and wanted to go home."
+            },
+            {
+              "at": 51,
+              "text": "The man thanked the party and asked which way was out."
+            },
+            {
+              "at": 53,
+              "text": "Waldemar handed the elf a cultist shortsword for protection."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 55,
+          "last": 62,
+          "area": "Isle of Nith",
+          "location": "tunnel",
+          "events": [
+            {
+              "at": 55,
+              "text": "The party found a dead dwarf in the spear trap and heard commotion from the entrance."
+            },
+            {
+              "at": 57,
+              "text": "Ali heard outsiders arguing about entering because of traps."
+            },
+            {
+              "at": 59,
+              "text": "Waldemar smelled various people of different races outside."
+            },
+            {
+              "at": 60,
+              "text": "Berekit decided to clear the traps and meet the patrols at the entrance."
+            },
+            {
+              "at": 61,
+              "text": "The party navigated the tunnel toward the entrance voices."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 63,
+          "last": 68,
+          "area": "Isle of Nith",
+          "location": "entrance",
+          "events": [
+            {
+              "at": 63,
+              "text": "The party was lifted out of the entrance and surrounded by soldiers."
+            },
+            {
+              "at": 64,
+              "text": "Waldemar reported the cultists succeeded in the ritual."
+            },
+            {
+              "at": 65,
+              "text": "Berekit presented the kidnapped man and relayed the freed entity's message."
+            },
+            {
+              "at": 66,
+              "text": "Silas Dimroot said the cultists intended to sacrifice him."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 69,
+          "last": 79,
+          "area": "Domusirex",
+          "location": "military district",
+          "events": [
+            {
+              "at": 69,
+              "text": "The party arrived by teleportation platform in the Domusirex military district."
+            },
+            {
+              "at": 70,
+              "text": "Heron invited the party to a quiet tavern to agree on a story."
+            },
+            {
+              "at": 78,
+              "text": "Heron pointed out The Garden View tavern ahead."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 80,
+          "last": 92,
+          "area": "Domusirex",
+          "location": "The Garden View",
+          "events": [
+            {
+              "at": 80,
+              "text": "The party arrived at The Garden View and an elvish server seated them."
+            },
+            {
+              "at": 84,
+              "text": "Heron questioned how wizards could change the entire world."
+            },
+            {
+              "at": 85,
+              "text": "Berekit ordered ale and discussed remembering two worlds."
+            },
+            {
+              "at": 88,
+              "text": "Ali said she died as a human child and a higher power revived her."
+            },
+            {
+              "at": 89,
+              "text": "Waldemar said he was born human and cursed by cultists."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 22,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 17,
+          "area": "Domusirex",
+          "location": "The Garden View",
+          "events": [
+            {
+              "at": 2,
+              "text": "Waitress served ale and offered stew"
+            },
+            {
+              "at": 5,
+              "text": "Waitress shared gossip about the college and city guard"
+            },
+            {
+              "at": 9,
+              "text": "Heron questioned waitress about strange feelings and missing time"
+            },
+            {
+              "at": 15,
+              "text": "Waitress said she had never heard the tale of warring gods"
+            },
+            {
+              "at": 16,
+              "text": "Berekit suggested the library might hold answers"
+            },
+            {
+              "at": 17,
+              "text": "Heron spoke about needing coin for his sick mother"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 18,
+          "last": 20,
+          "area": "Domusirex",
+          "location": "local inn",
+          "events": [
+            {
+              "at": 18,
+              "text": "Party found a local inn and heard birds saying Come Follow"
+            },
+            {
+              "at": 19,
+              "text": "Berekit gathered his travel pack and agreed to follow the birds"
+            },
+            {
+              "at": 20,
+              "text": "Heron followed Berekit while still groggy"
+            }
+          ],
+          "time_cues": [
+            "In the morning",
+            "the next morning"
+          ]
+        },
+        {
+          "first": 21,
+          "last": 22,
+          "area": "Domusirex",
+          "location": "college",
+          "events": [
+            {
+              "at": 21,
+              "text": "Birds led the group through the streets toward the college where fewer people remained"
+            },
+            {
+              "at": 22,
+              "text": "Berekit hoped for scribing supplies and wondered who sent the birds"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 47,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 39,
+          "area": "Domusirex",
+          "location": "college",
+          "events": [
+            {
+              "at": 1,
+              "text": "Met amber-eyed woman in foliage dress who walked into empty college."
+            },
+            {
+              "at": 5,
+              "text": "Chased child-form woman down hall after she asked to be caught."
+            },
+            {
+              "at": 9,
+              "text": "Arrived in large room with stone arches and table and met old man."
+            },
+            {
+              "at": 16,
+              "text": "Recounted mercenary mission against cult trying to summon Nith M'aera."
+            },
+            {
+              "at": 18,
+              "text": "Received owl figurines and task to go to three marked locations."
+            },
+            {
+              "at": 35,
+              "text": "Watched old man leave through portal after ordering Atrix to prepare party."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 40,
+          "last": 47,
+          "area": "Domusirex",
+          "location": "Domusirex",
+          "events": [
+            {
+              "at": 40,
+              "text": "Followed Atrix through halls and out of college while building bustled."
+            },
+            {
+              "at": 42,
+              "text": "Met dwarf companion Varalia and received vision through green light."
+            },
+            {
+              "at": 44,
+              "text": "Berekit introduced himself to dwarf and offered time for questions."
+            },
+            {
+              "at": 46,
+              "text": "Learned from Atrix that party would have time and resources for supplies."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 99,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "Domusirex",
+          "location": "Domusirex",
+          "events": [
+            {
+              "at": 3,
+              "text": "Varalia apologized for a mistaken sense and planted a seed and chanted over it."
+            },
+            {
+              "at": 5,
+              "text": "Varalia learned the swamp had expanded, engulfed a village, and held rumors of dangerous creatures and a hag."
+            },
+            {
+              "at": 6,
+              "text": "Varalia told the party about the dangers and offered help treating diseases and wounds."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 11,
+          "area": "Domusirex",
+          "location": "military district",
+          "events": [
+            {
+              "at": 7,
+              "text": "Captain Valerius said reports were thorough enough and a goblin removed symbols from hands."
+            },
+            {
+              "at": 9,
+              "text": "The captain freed the party and Atrix waited outside the barracks entrance."
+            },
+            {
+              "at": 10,
+              "text": "Heron agreed to take leave and asked Berekit if they were ready."
+            },
+            {
+              "at": 11,
+              "text": "Berekit said he copied a scroll and was ready to head out."
+            }
+          ],
+          "time_cues": [
+            "Days pass"
+          ]
+        },
+        {
+          "first": 12,
+          "last": 28,
+          "area": "Domusirex",
+          "location": "southern gate",
+          "events": [
+            {
+              "at": 12,
+              "text": "Atrix led the party out through the southern gate and changed back to her earlier form."
+            },
+            {
+              "at": 14,
+              "text": "Atrix introduced Leaf as an aid imbued with grace."
+            },
+            {
+              "at": 22,
+              "text": "Heron discovered his coin pouch was not where he had placed it."
+            },
+            {
+              "at": 24,
+              "text": "The party heard a jingling sound coming from Leaf."
+            },
+            {
+              "at": 26,
+              "text": "Atrix said Leaf had direction sense, then crumbled into leaves and blew away."
+            },
+            {
+              "at": 28,
+              "text": "Berekit thanked Atrix and said Leaf would help with small spaces."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 29,
+          "last": 66,
+          "area": "Wanhoop Swamp",
+          "location": "Wanhoop Swamp",
+          "events": [
+            {
+              "at": 29,
+              "text": "The party traveled south for days to Wanhoop Swamp and heard a village lay nearby."
+            },
+            {
+              "at": 47,
+              "text": "Leaf stabbed the cockatrice twice and brought it down."
+            },
+            {
+              "at": 51,
+              "text": "The party recognized the creature as a larger-than-normal cockatrice that could petrify."
+            },
+            {
+              "at": 56,
+              "text": "Leaf treated Heron and restored health."
+            },
+            {
+              "at": 60,
+              "text": "Leaf guided the party to a damaged and nearly deserted village."
+            },
+            {
+              "at": 64,
+              "text": "The party noticed something small with a large head dart behind a building."
+            }
+          ],
+          "time_cues": [
+            "A few days pass",
+            "nearly the entire day"
+          ]
+        },
+        {
+          "first": 67,
+          "last": 99,
+          "area": "Wanhoop Swamp",
+          "location": "village inn",
+          "events": [
+            {
+              "at": 67,
+              "text": "The party entered the inn and met the dwarven innkeeper."
+            },
+            {
+              "at": 69,
+              "text": "Quacksalver greeted the travelers and asked about the marshlands."
+            },
+            {
+              "at": 76,
+              "text": "Quacksalver drank a mutagen and showed its effects were temporary."
+            },
+            {
+              "at": 88,
+              "text": "The innkeeper broke a broom and complained it was the second that month."
+            },
+            {
+              "at": 90,
+              "text": "The innkeeper said damage had increased about two weeks ago."
+            },
+            {
+              "at": 99,
+              "text": "Berekit cast detect magic before moving off."
+            }
+          ],
+          "time_cues": [
+            "That's the second one this month!",
+            "about two weeks ago"
+          ]
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 93,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 11,
+          "area": "Wanhoop Swamp",
+          "location": "village inn",
+          "events": [
+            {
+              "at": 1,
+              "text": "Berekit noticed faint magic on various broken items."
+            },
+            {
+              "at": 2,
+              "text": "Party rested for the evening and found gear damaged in the morning."
+            },
+            {
+              "at": 5,
+              "text": "Leaf rounded the corner jingling and answered inquisitively."
+            },
+            {
+              "at": 8,
+              "text": "Heron claimed Leaf was created by a god to guide them."
+            }
+          ],
+          "time_cues": [
+            "for the evening",
+            "in the morning"
+          ]
+        },
+        {
+          "first": 12,
+          "last": 22,
+          "area": "Wanhoop Swamp",
+          "location": "Wanhoop Swamp",
+          "events": [
+            {
+              "at": 12,
+              "text": "Leaf walked out the door, looked around and pointed right."
+            },
+            {
+              "at": 13,
+              "text": "Berekit noticed two tiny creatures diving behind a bush."
+            },
+            {
+              "at": 18,
+              "text": "Party learned the creatures were small bipeds with disproportionately large heads."
+            },
+            {
+              "at": 20,
+              "text": "Party recognized the creatures as Jinkins able to curse objects as a group."
+            },
+            {
+              "at": 22,
+              "text": "Berekit offered to track the Jinkins to a nearby warren."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 23,
+          "last": 64,
+          "area": "Wanhoop Swamp",
+          "location": "abandoned home",
+          "events": [
+            {
+              "at": 23,
+              "text": "Party followed the trail to an abandoned home and faced expected battle."
+            },
+            {
+              "at": 30,
+              "text": "Jinkins swarmed Leaf, Quacksalver and Heron and inflicted damage."
+            },
+            {
+              "at": 35,
+              "text": "Leaf stabbed two Jinkins and killed them."
+            },
+            {
+              "at": 51,
+              "text": "Leaf finished the remaining Jinkin and ended combat."
+            },
+            {
+              "at": 53,
+              "text": "A villager shouted asking what the creatures were."
+            },
+            {
+              "at": 64,
+              "text": "The innkeeper gave directions to Lady Inda deeper in the swamp."
+            }
+          ],
+          "time_cues": [
+            "After about a minute"
+          ]
+        },
+        {
+          "first": 65,
+          "last": 77,
+          "area": "Wanhoop Swamp",
+          "location": "roadside stall",
+          "events": [
+            {
+              "at": 65,
+              "text": "The innkeeper led the party to a kitsune finishing a transaction."
+            },
+            {
+              "at": 68,
+              "text": "Húxiān introduced herself as recent inheritor of an ancient lineage."
+            },
+            {
+              "at": 70,
+              "text": "Húxiān collected supplies from the roadside stall and agreed to help."
+            },
+            {
+              "at": 74,
+              "text": "Quacksalver explained gremlins had cursed their important gear."
+            },
+            {
+              "at": 76,
+              "text": "Húxiān said her mother knew about curses."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 78,
+          "last": 93,
+          "area": "Wanhoop Swamp",
+          "location": "run-down cabin",
+          "events": [
+            {
+              "at": 78,
+              "text": "Party carried items out of town and reached a run-down cabin."
+            },
+            {
+              "at": 80,
+              "text": "Lady Inda sharply said they were late."
+            },
+            {
+              "at": 86,
+              "text": "Lady Inda invited the party inside but told Berekit to use a window."
+            },
+            {
+              "at": 91,
+              "text": "Lady Inda served stew to Húxiān and yelled at Leaf for examining the pot."
+            },
+            {
+              "at": 92,
+              "text": "Lady Inda stopped yelling and tilted her head at Leaf."
+            }
+          ],
+          "time_cues": [
+            "a couple of hours"
+          ]
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 165,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Wanhoop Swamp",
+          "location": "run-down cabin",
+          "events": [
+            {
+              "at": 1,
+              "text": "Quacksalver gestured and kept walking toward the pull."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 7,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party traveled south for days and spotted a smoking village on the horizon."
+            },
+            {
+              "at": 5,
+              "text": "Heron urged haste to help possible survivors."
+            },
+            {
+              "at": 6,
+              "text": "Berekit advised approaching to observe first."
+            },
+            {
+              "at": 7,
+              "text": "Quacksalver continued toward the village without sneaking."
+            }
+          ],
+          "time_cues": [
+            "the morning of the eighth day since leaving the swamp"
+          ]
+        },
+        {
+          "first": 8,
+          "last": 130,
+          "area": "destroyed village",
+          "location": "destroyed village",
+          "events": [
+            {
+              "at": 8,
+              "text": "The party arrived at a burning village and found orcs killing villagers."
+            },
+            {
+              "at": 54,
+              "text": "The party defeated the orcs and ended combat."
+            },
+            {
+              "at": 61,
+              "text": "Huxian and Berekit found a living infant and a hiding halfling."
+            },
+            {
+              "at": 82,
+              "text": "The halfling gave his name as Wrenwick Willowberry."
+            },
+            {
+              "at": 112,
+              "text": "Wrenwick moved villager bodies to a field while the orc revealed raiders heading southeast."
+            },
+            {
+              "at": 125,
+              "text": "The party rested at the southern edge and spotted a distant white plume to the southeast."
+            }
+          ],
+          "time_cues": [
+            "for the evening",
+            "In the morning, shortly before dawn's first light"
+          ]
+        },
+        {
+          "first": 131,
+          "last": 148,
+          "area": "small village",
+          "location": "small village",
+          "events": [
+            {
+              "at": 131,
+              "text": "The party arrived at a small village of clustered buildings and planted trees."
+            },
+            {
+              "at": 139,
+              "text": "A human child shouted at Berekit and drew the villagers attention."
+            },
+            {
+              "at": 141,
+              "text": "Heron warned an old man and Dura that Buros raiders were a day or two away."
+            },
+            {
+              "at": 144,
+              "text": "Dura left to have villagers pack their belongings."
+            },
+            {
+              "at": 147,
+              "text": "Heron asked about Gremm and challenging him to a duel."
+            }
+          ],
+          "time_cues": [
+            "five full days",
+            "the morning of the sixth"
+          ]
+        },
+        {
+          "first": 149,
+          "last": 165,
+          "area": "small village",
+          "location": "small cottage-style home",
+          "events": [
+            {
+              "at": 149,
+              "text": "The old man led the party inside his home and discussed Gremm and boats."
+            },
+            {
+              "at": 150,
+              "text": "Heron asked the old man to send warnings to nearby villages."
+            },
+            {
+              "at": 156,
+              "text": "The old man quieted the panicking villagers outside."
+            },
+            {
+              "at": 160,
+              "text": "The old man spread a village map to plan the defense."
+            },
+            {
+              "at": 165,
+              "text": "Dura reported that Thomas was leading villagers to the cave."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 5,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "small village",
+          "location": "small cottage-style home",
+          "events": [
+            {
+              "at": 1,
+              "text": "Chase called the plan complicated, asked if raids happened seasonally, and rolled something to smoke."
+            },
+            {
+              "at": 2,
+              "text": "The old man told the party to run if things went wrong and said destroying the building at the right time could cut the raider numbers."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 5,
+          "area": "small village",
+          "location": "small village",
+          "events": [
+            {
+              "at": 3,
+              "text": "Quacksalver rigged the home to explode and set up barricades, while Húxiān and Heron organized villagers for the oil trap and ambushes."
+            },
+            {
+              "at": 4,
+              "text": "Chase dosed up the party and readied his bow for a long-range engagement against the orcs."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "small village",
+          "location": "small village",
+          "events": [
+            {
+              "at": 1,
+              "text": "An empty message was posted"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {},
+  "area_renames": {}
+}

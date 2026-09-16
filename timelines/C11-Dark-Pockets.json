@@ -1,0 +1,243 @@
+{
+  "code": "C11",
+  "campaign": "Dark Pockets",
+  "months": {
+    "2026-04": {
+      "messages": 319,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 143,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 2,
+              "text": "The group was restored to good health by medicine."
+            },
+            {
+              "at": 9,
+              "text": "Olla woke first and sat up changed with grey-tinted irises."
+            },
+            {
+              "at": 19,
+              "text": "A Nature check confirmed Olla held deeper shadow magic."
+            },
+            {
+              "at": 46,
+              "text": "Olla mistook Ger for her father and called him dad."
+            },
+            {
+              "at": 61,
+              "text": "Ger learned Olla was evolving from pure planar shadow infusion."
+            },
+            {
+              "at": 114,
+              "text": "Tal'lysae the red slime introduced herself to observe Ger."
+            }
+          ],
+          "time_cues": [
+            "1:00am"
+          ]
+        },
+        {
+          "first": 144,
+          "last": 270,
+          "area": "Nisroch Candle Factory",
+          "location": "main factory floor",
+          "events": [
+            {
+              "at": 144,
+              "text": "The party returned up the stairs to the main factory floor."
+            },
+            {
+              "at": 146,
+              "text": "The bewitched factory workers were found passed out."
+            },
+            {
+              "at": 161,
+              "text": "Tal'lysae touched Feyra's forehead and revealed missing memories."
+            },
+            {
+              "at": 194,
+              "text": "Tal'lysae advised Feyra to meditate and reach out to her patron."
+            },
+            {
+              "at": 232,
+              "text": "Rino's Survival check pulled Ger's swarm toward the River of River-Way."
+            },
+            {
+              "at": 248,
+              "text": "Rino pulled the legs off Ger's gifted spider."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 271,
+          "last": 319,
+          "area": "sheriff's house",
+          "location": "outside sheriff's house",
+          "events": [
+            {
+              "at": 273,
+              "text": "The party arrived outside the sheriff's house at 00:30."
+            },
+            {
+              "at": 283,
+              "text": "Lucian opened the door and dropped his candle seeing Olla."
+            },
+            {
+              "at": 290,
+              "text": "Lucian embraced his daughter Olla."
+            },
+            {
+              "at": 306,
+              "text": "Lucian demanded to know what had happened to Olla."
+            },
+            {
+              "at": 313,
+              "text": "NJ said Quiz had taken Olla hostage and infected her with shadow magic."
+            },
+            {
+              "at": 314,
+              "text": "Lucian asked who Quiz was and if he was a fetchling."
+            }
+          ],
+          "time_cues": [
+            "00:30"
+          ]
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 83,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 14,
+          "area": "sheriff's house",
+          "location": "outside sheriff's house",
+          "events": [
+            {
+              "at": 2,
+              "text": "NJ explained what the group knew about Quiz and the kidnapping."
+            },
+            {
+              "at": 6,
+              "text": "Lucian said he would investigate the factory with trusted guards."
+            },
+            {
+              "at": 11,
+              "text": "Lucian offered free lodgings in the barracks and a meal."
+            },
+            {
+              "at": 14,
+              "text": "NJ accepted Lucian's offer."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 15,
+          "last": 69,
+          "area": "guard fortress",
+          "location": "group quarters",
+          "events": [
+            {
+              "at": 15,
+              "text": "Lucian guided the party to group quarters in the guard fortress."
+            },
+            {
+              "at": 19,
+              "text": "Lucian thanked the group for saving his daughter."
+            },
+            {
+              "at": 23,
+              "text": "Everyone had dark dreams and awoke feeling restored."
+            },
+            {
+              "at": 40,
+              "text": "A cat-like entity tried to give Nariya a dagger of flaming darkness."
+            },
+            {
+              "at": 50,
+              "text": "NJ apologised to the group for causing nightmares."
+            },
+            {
+              "at": 56,
+              "text": "Lucian arrived with four other guards."
+            }
+          ],
+          "time_cues": [
+            "in the morning",
+            "09:00am"
+          ]
+        },
+        {
+          "first": 70,
+          "last": 83,
+          "area": "monastery",
+          "location": "monastery",
+          "events": [
+            {
+              "at": 70,
+              "text": "The party were in the monastery."
+            },
+            {
+              "at": 72,
+              "text": "NJ said Nariya ate tapestry and died."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 16,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 16,
+          "area": "monastery",
+          "location": "monastery",
+          "events": [
+            {
+              "at": 4,
+              "text": "GM clarified anyone could do in-game actions in the topic."
+            },
+            {
+              "at": 6,
+              "text": "Luke Skillen asked what was next."
+            },
+            {
+              "at": 10,
+              "text": "GM asked what Rino would like to do."
+            },
+            {
+              "at": 13,
+              "text": "GM posted the session summary."
+            },
+            {
+              "at": 14,
+              "text": "Poo Poo reacted to Torture trank."
+            },
+            {
+              "at": 16,
+              "text": "GM asked what happened next."
+            }
+          ],
+          "time_cues": [
+            "14:00"
+          ]
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {},
+  "area_renames": {}
+}

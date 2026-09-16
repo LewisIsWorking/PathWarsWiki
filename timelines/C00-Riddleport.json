@@ -1,0 +1,1953 @@
+{
+  "code": "C00",
+  "campaign": "Riddleport",
+  "months": {
+    "2024-12": {
+      "messages": 37,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "Manifested in the past."
+            },
+            {
+              "at": 2,
+              "text": "Learned the year was 4669."
+            }
+          ],
+          "time_cues": [
+            "The year is 4669."
+          ]
+        },
+        {
+          "first": 3,
+          "last": 30,
+          "area": "sewer",
+          "location": "sewer pipe",
+          "events": [
+            {
+              "at": 3,
+              "text": "Awakened in a sewer pipe and were told to make level 2 characters."
+            },
+            {
+              "at": 4,
+              "text": "Gained DUAL CLASS from the Rune Wheel."
+            },
+            {
+              "at": 13,
+              "text": "Stated Carnon would be a Leshy Fighter / Animist."
+            },
+            {
+              "at": 16,
+              "text": "Stated the character would be Fighter/champ."
+            },
+            {
+              "at": 19,
+              "text": "Learned very little time would pass when in Riddleport."
+            },
+            {
+              "at": 30,
+              "text": "Reached the start of the campaign."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 31,
+          "last": 37,
+          "area": "sewer",
+          "location": "intersection of a sewer",
+          "events": [
+            {
+              "at": 31,
+              "text": "Found themselves at the intersection of a sewer laying on piles of shit."
+            },
+            {
+              "at": 32,
+              "text": "Were asked what happens next."
+            },
+            {
+              "at": 33,
+              "text": "Connected mind to the runewheel to weave a being of his own design."
+            },
+            {
+              "at": 34,
+              "text": "Named her Necrila, daughter of the chronicler."
+            },
+            {
+              "at": 36,
+              "text": "Connected consciousness to the runewheel to consider who was needed."
+            },
+            {
+              "at": 37,
+              "text": "Connected to the runewheel to consider who would be best."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-01": {
+      "messages": 103,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 20,
+          "area": "sewer",
+          "location": "intersection of a sewer",
+          "events": [
+            {
+              "at": 2,
+              "text": "Cardigan Green appeared beside the party as a bubble of green light."
+            },
+            {
+              "at": 6,
+              "text": "Cardigan sat in the waste after the power was dispelled."
+            },
+            {
+              "at": 9,
+              "text": "Sinhow stood up and asked for lights."
+            },
+            {
+              "at": 11,
+              "text": "Necrila approached the group and asked where they were."
+            },
+            {
+              "at": 18,
+              "text": "Sinhow asked Cardigan to lead the way out of the sewer."
+            },
+            {
+              "at": 20,
+              "text": "Sinhow used Arcane Sense to cast detect magic."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 21,
+          "last": 38,
+          "area": "Leeward District",
+          "location": "alleyway",
+          "events": [
+            {
+              "at": 21,
+              "text": "Cardigan's Eldamon brought the party above ground."
+            },
+            {
+              "at": 22,
+              "text": "Cardigan returned with a map bought for 10 GP."
+            },
+            {
+              "at": 27,
+              "text": "The party gained a map granting a +1 item bonus to related checks."
+            },
+            {
+              "at": 32,
+              "text": "Cardigan identified their location as the Leeward District."
+            },
+            {
+              "at": 33,
+              "text": "Several prostitutes walked past the alleyway entrance."
+            },
+            {
+              "at": 35,
+              "text": "The party saw a Wainwright, an open bakery, and a church of Sarenrae."
+            }
+          ],
+          "time_cues": [
+            "early morning"
+          ]
+        },
+        {
+          "first": 39,
+          "last": 46,
+          "area": "bakery",
+          "location": "bakery",
+          "events": [
+            {
+              "at": 39,
+              "text": "Sinhow entered the bakery."
+            },
+            {
+              "at": 42,
+              "text": "Sinhow asked the baker about breads and pastries."
+            },
+            {
+              "at": 43,
+              "text": "Cardigan looked sad at the state of the church."
+            },
+            {
+              "at": 46,
+              "text": "The party left the bakery with a loaf of fancy bread."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 47,
+          "last": 53,
+          "area": "church of Sarenrae",
+          "location": "iron gate",
+          "events": [
+            {
+              "at": 47,
+              "text": "Sinhow led the party toward the church and asked about back entrances."
+            },
+            {
+              "at": 50,
+              "text": "The party found the 2 metre iron gate unlocked."
+            },
+            {
+              "at": 52,
+              "text": "The party saw a large oak tree between the fence and the church."
+            },
+            {
+              "at": 53,
+              "text": "Cardigan recalled climbing the tree with Boggly."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 54,
+          "last": 80,
+          "area": "church of Sarenrae",
+          "location": "door",
+          "events": [
+            {
+              "at": 54,
+              "text": "Sinhow walked to the church door and knocked."
+            },
+            {
+              "at": 63,
+              "text": "Filiaur attempted to open the door but found it locked."
+            },
+            {
+              "at": 65,
+              "text": "An elderly catfolk opened the door and demanded what they wanted."
+            },
+            {
+              "at": 73,
+              "text": "Caroline introduced herself and asked if they wanted work."
+            },
+            {
+              "at": 75,
+              "text": "Caroline told the group to follow her up the southern staircase."
+            },
+            {
+              "at": 80,
+              "text": "Sinhow opened the hall door and counted the people inside."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 81,
+          "last": 103,
+          "area": "church of Sarenrae",
+          "location": "hall",
+          "events": [
+            {
+              "at": 81,
+              "text": "The party saw sick and starved people cluttered along the hall."
+            },
+            {
+              "at": 85,
+              "text": "A shadow-flesh little girl stared at the party."
+            },
+            {
+              "at": 91,
+              "text": "Necrila asked if the girl was part of the priesthood."
+            },
+            {
+              "at": 96,
+              "text": "The party saw an old stone well in the centre of the room."
+            },
+            {
+              "at": 98,
+              "text": "Mika the Redeemer called for a blood sacrifice."
+            },
+            {
+              "at": 101,
+              "text": "An attacker charged at Necrila with a serrated dagger."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-02": {
+      "messages": 68,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 29,
+          "area": "church of Sarenrae",
+          "location": "hall",
+          "events": [
+            {
+              "at": 7,
+              "text": "Mika's red glowing eyes stopped glowing."
+            },
+            {
+              "at": 14,
+              "text": "Mika stumbled backwards to the well."
+            },
+            {
+              "at": 15,
+              "text": "Mika fell backwards into the well."
+            },
+            {
+              "at": 16,
+              "text": "The well water turned to blood and Mika's body dissolved."
+            },
+            {
+              "at": 19,
+              "text": "Sinhow inspected the bear and looked at the girl."
+            },
+            {
+              "at": 27,
+              "text": "Sinhow suggested finding Necrilla on the roof."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 30,
+          "last": 44,
+          "area": "church of Sarenrae",
+          "location": "roof",
+          "events": [
+            {
+              "at": 30,
+              "text": "Necrila dragged it into the sunlight."
+            },
+            {
+              "at": 32,
+              "text": "The little building turned to ash."
+            },
+            {
+              "at": 33,
+              "text": "Nothing was left on the roof."
+            },
+            {
+              "at": 35,
+              "text": "A woman giggled briefly and then there was silence."
+            },
+            {
+              "at": 43,
+              "text": "Necrila spoke to the sun and roared in triumph."
+            },
+            {
+              "at": 44,
+              "text": "Necrila entered back into the building."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 45,
+          "last": 48,
+          "area": "church of Sarenrae",
+          "location": "hall",
+          "events": [
+            {
+              "at": 45,
+              "text": "Sinhow looked around for Cardigan."
+            },
+            {
+              "at": 46,
+              "text": "Sinhow asked Cardigan what she found out about the church."
+            },
+            {
+              "at": 48,
+              "text": "Sinhow decided to find Necrilla and go up the ladder."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 49,
+          "last": 51,
+          "area": "church of Sarenrae",
+          "location": "roof",
+          "events": [
+            {
+              "at": 49,
+              "text": "Sinhow asked about a walkway."
+            },
+            {
+              "at": 50,
+              "text": "The group gathered on the roof."
+            },
+            {
+              "at": 51,
+              "text": "The group prepared to go into the inner chapel."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 52,
+          "last": 68,
+          "area": "church of Sarenrae",
+          "location": "inner chapel",
+          "events": [
+            {
+              "at": 52,
+              "text": "The group pushed open the wooden doors."
+            },
+            {
+              "at": 53,
+              "text": "The group entered a stone room with flaming braziers."
+            },
+            {
+              "at": 59,
+              "text": "The group saw a priest praying with children and adults."
+            },
+            {
+              "at": 60,
+              "text": "The group saw an acolyte watching them."
+            },
+            {
+              "at": 62,
+              "text": "The priest invited the group to join the prayers."
+            },
+            {
+              "at": 68,
+              "text": "Necrila rejoined the group and spoke to Cardigan."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-03": {
+      "messages": 146,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 23,
+          "area": "church of Sarenrae",
+          "location": "inner chapel",
+          "events": [
+            {
+              "at": 2,
+              "text": "Jhonas tensed and asked if the group worked with the group."
+            },
+            {
+              "at": 7,
+              "text": "Jhonas whispered that wine was given to Father Patrick to keep him placated."
+            },
+            {
+              "at": 14,
+              "text": "Father Patrick ended prayers and greeted the group."
+            },
+            {
+              "at": 18,
+              "text": "Father Patrick remembered Cardigan as a name given by Yubis to a Gnomish baby."
+            },
+            {
+              "at": 21,
+              "text": "Father Patrick welcomed the group to the temple of Sarenrae."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 24,
+          "last": 25,
+          "area": "church of Sarenrae",
+          "location": "hall",
+          "events": [
+            {
+              "at": 24,
+              "text": "The group went back to the front hall."
+            },
+            {
+              "at": 25,
+              "text": "The group went up the stairs."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 26,
+          "last": 36,
+          "area": "church of Sarenrae",
+          "location": "large hallway",
+          "events": [
+            {
+              "at": 26,
+              "text": "The group arrived in a large hallway with corridors and doors."
+            },
+            {
+              "at": 28,
+              "text": "The group saw the hallway floor covered in rubbish and mess."
+            },
+            {
+              "at": 34,
+              "text": "Caroline introduced Knuckles the man and Fetch the dog."
+            },
+            {
+              "at": 36,
+              "text": "Caroline told the group to follow her."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 37,
+          "last": 37,
+          "area": "church of Sarenrae",
+          "location": "corridors",
+          "events": [
+            {
+              "at": 37,
+              "text": "The group went down several corridors and stopped at numbered rooms."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 38,
+          "last": 39,
+          "area": "church of Sarenrae",
+          "location": "outside of room 9",
+          "events": [
+            {
+              "at": 38,
+              "text": "Caroline took the group outside of room 9."
+            },
+            {
+              "at": 39,
+              "text": "Caroline opened the door of room 9."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 40,
+          "last": 146,
+          "area": "church of Sarenrae",
+          "location": "room 9",
+          "events": [
+            {
+              "at": 40,
+              "text": "The group found Balston and Mad Rat inside room 9."
+            },
+            {
+              "at": 51,
+              "text": "Balston asked what brought the group to the temple of Sarenrae."
+            },
+            {
+              "at": 69,
+              "text": "Cardigan's Meese killed Balston with an addling blast."
+            },
+            {
+              "at": 95,
+              "text": "Mad Rat dropped his daggers and claimed he was not with the gang."
+            },
+            {
+              "at": 117,
+              "text": "Mad Rat said he worked for Avery Slyeg looking for Beltias Kreun."
+            },
+            {
+              "at": 125,
+              "text": "Mad Rat said Beltias Kreun was plotting up in the Bell Tower."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-04": {
+      "messages": 121,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 38,
+          "area": "church of Sarenrae",
+          "location": "room 9",
+          "events": [
+            {
+              "at": 17,
+              "text": "Necrila killed Knuckles Redbone."
+            },
+            {
+              "at": 20,
+              "text": "Knuckles Redbone and Fetch died."
+            },
+            {
+              "at": 23,
+              "text": "Necrila chopped off Knuckles head."
+            },
+            {
+              "at": 32,
+              "text": "Mad Rat said Brandy Nurrus and Garspheal Elstrice were in Room 12."
+            },
+            {
+              "at": 34,
+              "text": "Mad Rat said Badeye Rumblefist and Rasper Ellias were in Room 13 with scorpions."
+            },
+            {
+              "at": 37,
+              "text": "Sinhow ordered the group to head to Room 12."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 39,
+          "last": 44,
+          "area": "church of Sarenrae",
+          "location": "door",
+          "events": [
+            {
+              "at": 39,
+              "text": "Mad Rat pointed at the door labelled 12."
+            },
+            {
+              "at": 42,
+              "text": "A gruff voice yelled from inside."
+            },
+            {
+              "at": 44,
+              "text": "Brandy Nurrus opened the door."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 45,
+          "last": 111,
+          "area": "church of Sarenrae",
+          "location": "room 12",
+          "events": [
+            {
+              "at": 50,
+              "text": "Brandy Nurrus accused the group of not being cleaners."
+            },
+            {
+              "at": 72,
+              "text": "Necrila beheaded a bandit."
+            },
+            {
+              "at": 82,
+              "text": "Mad Rat killed the wood elf dead."
+            },
+            {
+              "at": 92,
+              "text": "The group found a small box."
+            },
+            {
+              "at": 94,
+              "text": "The box contained silver cutlery and a strange +1 spyglass."
+            },
+            {
+              "at": 108,
+              "text": "Sinhow herded the party toward the door of Room 13."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 112,
+          "last": 114,
+          "area": "church of Sarenrae",
+          "location": "door",
+          "events": [
+            {
+              "at": 112,
+              "text": "The group walked up to door 13."
+            },
+            {
+              "at": 113,
+              "text": "Two voices cheered on a cock fight inside."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 115,
+          "last": 121,
+          "area": "church of Sarenrae",
+          "location": "room 13",
+          "events": [
+            {
+              "at": 115,
+              "text": "Four monstrous dog-sized scorpions stood in a plank arena."
+            },
+            {
+              "at": 117,
+              "text": "Rasper told the party to piss off."
+            },
+            {
+              "at": 119,
+              "text": "Rasper Ellias asked Mad Rat if the boss needed them."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-05": {
+      "messages": 15,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 15,
+          "area": "church of Sarenrae",
+          "location": "room 13",
+          "events": [
+            {
+              "at": 1,
+              "text": "Filiaur messaged Sinhow suggesting waiting until the scorpion fight was over."
+            },
+            {
+              "at": 7,
+              "text": "Rumble fist told the group to piss off."
+            },
+            {
+              "at": 8,
+              "text": "Rasper agreed and tried to close the door."
+            },
+            {
+              "at": 10,
+              "text": "Injured scorpions lay on straw beds in the corners of the room."
+            },
+            {
+              "at": 14,
+              "text": "Necrila sang in Necril before combat."
+            },
+            {
+              "at": 15,
+              "text": "Combat began."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-06": {
+      "messages": 94,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 94,
+          "area": "church of Sarenrae",
+          "location": "room 13",
+          "events": [
+            {
+              "at": 3,
+              "text": "Injured scorpions limped over to join the fight."
+            },
+            {
+              "at": 32,
+              "text": "Two scorpions died."
+            },
+            {
+              "at": 68,
+              "text": "Prof. Filiaur Bluestar was left near death."
+            },
+            {
+              "at": 87,
+              "text": "Sinhow killed Badeye Rumblefist."
+            },
+            {
+              "at": 88,
+              "text": "Yaseitori killed Rasper Ellias."
+            },
+            {
+              "at": 90,
+              "text": "Combat ended."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-07": {
+      "messages": 164,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 53,
+          "area": "church of Sarenrae",
+          "location": "room 13",
+          "events": [
+            {
+              "at": 3,
+              "text": "18 HP was healed."
+            },
+            {
+              "at": 12,
+              "text": "Yaseitori introduced himself and said he tracked a stolen necklace here."
+            },
+            {
+              "at": 15,
+              "text": "Mad Rat listed the surviving gang members."
+            },
+            {
+              "at": 18,
+              "text": "Filiaur proposed distracting Pidge to ambush him."
+            },
+            {
+              "at": 36,
+              "text": "Moonshine stumbled out from around the corner."
+            },
+            {
+              "at": 44,
+              "text": "Rax slipped inside through the ajar door."
+            }
+          ],
+          "time_cues": [
+            "30 minutes pass.",
+            "10 more minutes pass.",
+            "only the afternoon"
+          ]
+        },
+        {
+          "first": 54,
+          "last": 108,
+          "area": "church of Sarenrae",
+          "location": "corridors",
+          "events": [
+            {
+              "at": 57,
+              "text": "The party opened the door and found a tied-up pirate woman."
+            },
+            {
+              "at": 59,
+              "text": "Sinhow lowered the prisoner's gag and questioned her."
+            },
+            {
+              "at": 63,
+              "text": "Moonshine tried to pick the prisoner's handcuffs."
+            },
+            {
+              "at": 67,
+              "text": "Filiaur explained the ambush plan against Pidge."
+            },
+            {
+              "at": 69,
+              "text": "Rax offered to hit Pidge with a Skunk Bomb."
+            },
+            {
+              "at": 108,
+              "text": "The party made their way down the corridor."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 109,
+          "last": 164,
+          "area": "church of Sarenrae",
+          "location": "library",
+          "events": [
+            {
+              "at": 109,
+              "text": "Mad Rat opened the door to the cold pigeon room."
+            },
+            {
+              "at": 112,
+              "text": "Hundreds of pigeons perched on the ceiling beam."
+            },
+            {
+              "at": 117,
+              "text": "Pidge healed a baby pigeon and released it into the air."
+            },
+            {
+              "at": 131,
+              "text": "Yaseitori stepped forward to protect Pidge."
+            },
+            {
+              "at": 151,
+              "text": "Pidge walked into the portal and left."
+            },
+            {
+              "at": 159,
+              "text": "Sinhow said the party would move towards the bell tower."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-08": {
+      "messages": 115,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 16,
+          "area": "church of Sarenrae",
+          "location": "library",
+          "events": [
+            {
+              "at": 1,
+              "text": "Mad Rat proposed going up the tower using stealth."
+            },
+            {
+              "at": 5,
+              "text": "Sinhow suggested climbing the outside to cut the rope."
+            },
+            {
+              "at": 8,
+              "text": "Moonshine produced a signal whistle."
+            },
+            {
+              "at": 9,
+              "text": "Sinhow outlined the climb, cut, and whistle signal plan."
+            },
+            {
+              "at": 16,
+              "text": "Moonshine prepared a climbing kit and repeated the plan."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 17,
+          "last": 102,
+          "area": "church of Sarenrae",
+          "location": "tower",
+          "events": [
+            {
+              "at": 17,
+              "text": "The party left the temple."
+            },
+            {
+              "at": 19,
+              "text": "The party reached the tower part of the structure."
+            },
+            {
+              "at": 21,
+              "text": "The GM stated the tower was 30 metres tall."
+            },
+            {
+              "at": 26,
+              "text": "Moonshine agreed to climb with Yaseitori."
+            },
+            {
+              "at": 92,
+              "text": "Moonshine completed the climb to 100 feet."
+            },
+            {
+              "at": 101,
+              "text": "Yaseitori completed the climb to 100 feet."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 103,
+          "last": 112,
+          "area": "church of Sarenrae",
+          "location": "stone platform",
+          "events": [
+            {
+              "at": 103,
+              "text": "The climbers arrived on a stone platform before wooden doors."
+            },
+            {
+              "at": 106,
+              "text": "The GM said the doors led to the upper bell tower."
+            },
+            {
+              "at": 109,
+              "text": "Moonshine looked for a string to cut on the platform."
+            },
+            {
+              "at": 111,
+              "text": "Cardigan wondered inside the temple about the bell tower."
+            },
+            {
+              "at": 112,
+              "text": "Moonshine pushed the doors open to peer inside."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 113,
+          "last": 115,
+          "area": "church of Sarenrae",
+          "location": "upper bell tower",
+          "events": [
+            {
+              "at": 113,
+              "text": "The party saw a massive metal bell."
+            },
+            {
+              "at": 114,
+              "text": "The party saw spiral steps descending downstairs."
+            },
+            {
+              "at": 115,
+              "text": "The GM asked what the party would do next."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-09": {
+      "messages": 87,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 25,
+          "area": "church of Sarenrae",
+          "location": "upper bell tower",
+          "events": [
+            {
+              "at": 2,
+              "text": "Yaseitori headed inside and checked for someone hiding."
+            },
+            {
+              "at": 6,
+              "text": "Found arcane runes scrawled upon the bell surface."
+            },
+            {
+              "at": 12,
+              "text": "Identified the runes as manipulating primal earth energy."
+            },
+            {
+              "at": 16,
+              "text": "Moonshine shrugged and suggested trying the bell."
+            },
+            {
+              "at": 23,
+              "text": "Yaseitori walked toward the abseiling gear and suggested cutting it."
+            },
+            {
+              "at": 24,
+              "text": "Suggested weakening the rope so it tore when used."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 26,
+          "last": 39,
+          "area": "church of Sarenrae",
+          "location": "tower",
+          "events": [
+            {
+              "at": 26,
+              "text": "Moonshine took the device down the tower to the abseiling equipment."
+            },
+            {
+              "at": 31,
+              "text": "Grabbed the device, went down the tower and rigged it to fall apart."
+            },
+            {
+              "at": 37,
+              "text": "Yaseitori decided to wait on top."
+            },
+            {
+              "at": 38,
+              "text": "Moonshine blew the signal whistle."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 40,
+          "last": 64,
+          "area": "church of Sarenrae",
+          "location": "corridors",
+          "events": [
+            {
+              "at": 42,
+              "text": "Necrila won initiative with 25."
+            },
+            {
+              "at": 43,
+              "text": "Started combat encounter The Bell Tower of Beltias Kreun."
+            },
+            {
+              "at": 46,
+              "text": "Stood outside the door to the spiral stairs room and opened the door."
+            },
+            {
+              "at": 48,
+              "text": "Stood upon the platform of the bell tower in misty rain and gained the Rune-Wheel blessing."
+            },
+            {
+              "at": 51,
+              "text": "Igarashi Enya ran away when her nerve broke."
+            },
+            {
+              "at": 62,
+              "text": "Found a spiral staircase of grey stone behind the door in the same corridor."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 65,
+          "last": 78,
+          "area": "church of Sarenrae",
+          "location": "tower",
+          "events": [
+            {
+              "at": 65,
+              "text": "Rax took the lead and checked the stairs for traps."
+            },
+            {
+              "at": 67,
+              "text": "Cardigan and Rax climbed the stairs."
+            },
+            {
+              "at": 73,
+              "text": "Moved everyone up the stairs at max speed."
+            },
+            {
+              "at": 77,
+              "text": "Noted that checking for traps slowed movement."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 79,
+          "last": 87,
+          "area": "church of Sarenrae",
+          "location": "upper bell tower",
+          "events": [
+            {
+              "at": 79,
+              "text": "A man ran up the stairs to the bell and was surprised to see Yaseitori."
+            },
+            {
+              "at": 83,
+              "text": "Asked if everyone was running up again."
+            },
+            {
+              "at": 85,
+              "text": "Calculated Cardigan reached 42.5 feet up the stairs."
+            },
+            {
+              "at": 86,
+              "text": "Summarized Round 2 movement up the stairs and across Kreun room."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 77,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 77,
+          "area": "church of Sarenrae",
+          "location": "upper bell tower",
+          "events": [
+            {
+              "at": 4,
+              "text": "Yaseitori failed to demoralise Kreun and entered Tiger Stance with Hunt Prey."
+            },
+            {
+              "at": 18,
+              "text": "Kreun used the sabotaged abseil device, the cord snapped, and he fell and grabbed an edge."
+            },
+            {
+              "at": 60,
+              "text": "Rax hit Kreun with two skunk bombs for 2 damage."
+            },
+            {
+              "at": 61,
+              "text": "Mad Rat hit with a crossbow strike for 4 damage."
+            },
+            {
+              "at": 64,
+              "text": "Sinhow rushed down the stairs."
+            },
+            {
+              "at": 76,
+              "text": "Filiaur's puppet grabbed Kreun."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 11,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "church of Sarenrae",
+          "location": "upper bell tower",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM posted Round 3 combat status for The Bell Tower of Beltias Kreun and waited for player responses."
+            },
+            {
+              "at": 4,
+              "text": "GM asked about taking Mad Rat's turn."
+            },
+            {
+              "at": 5,
+              "text": "Ryo noted Mad Rat had acted and Cardigan was awaited."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 6,
+          "area": "church of Sarenrae",
+          "location": "tower",
+          "events": [
+            {
+              "at": 6,
+              "text": "Sinhow yelled and rushed down the spiral stairs to ground level."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 11,
+          "area": "church of Sarenrae",
+          "location": "large hallway",
+          "events": [
+            {
+              "at": 7,
+              "text": "Cardigan moved down the main spiral stairs to the 2nd floor hallway near the bell-tower room."
+            },
+            {
+              "at": 9,
+              "text": "GM reposted Round 3 combat status with unacted and acted lists."
+            },
+            {
+              "at": 11,
+              "text": "GM noted waiting on four players."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 133,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 48,
+          "area": "church of Sarenrae",
+          "location": "large hallway",
+          "events": [
+            {
+              "at": 2,
+              "text": "Players discussed paused game and missing macros in OOC chatter."
+            },
+            {
+              "at": 20,
+              "text": "Lenma sprinted down stairs to bottom near hallway entrance."
+            },
+            {
+              "at": 23,
+              "text": "GM reported party positions across tower, stairs and hallway."
+            },
+            {
+              "at": 44,
+              "text": "Beltias Kreun critically succeeded his second Escape attempt."
+            },
+            {
+              "at": 46,
+              "text": "Beltias Kreun stood up after escaping."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 49,
+          "last": 133,
+          "area": "church of Sarenrae",
+          "location": "temple grounds",
+          "events": [
+            {
+              "at": 49,
+              "text": "Sinhow smashed through window and fell onto cobblestones outside."
+            },
+            {
+              "at": 55,
+              "text": "Filiaur moved through corridor to edge of the window."
+            },
+            {
+              "at": 61,
+              "text": "Party surrounded Kreun at ground level outside the temple."
+            },
+            {
+              "at": 67,
+              "text": "Beltias Kreun strode north across temple grounds toward back gates."
+            },
+            {
+              "at": 92,
+              "text": "Beltias Kreun surrendered and fell to his knees."
+            },
+            {
+              "at": 124,
+              "text": "Rax treated Beltias wounds to keep him alive."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 159,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 18,
+          "area": "church of Sarenrae",
+          "location": "temple grounds",
+          "events": [
+            {
+              "at": 2,
+              "text": "Saw fire rising on roof of temple"
+            },
+            {
+              "at": 3,
+              "text": "Learned corpses were being burned with last rites"
+            },
+            {
+              "at": 8,
+              "text": "Learned Mad Rat knew the way"
+            },
+            {
+              "at": 11,
+              "text": "Saw Kreun's ciphered papers and loot from bell tower"
+            },
+            {
+              "at": 12,
+              "text": "Watched Cardigan cry over priest's gift"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 19,
+          "last": 21,
+          "area": "Riddleport",
+          "location": "streets",
+          "events": [
+            {
+              "at": 19,
+              "text": "Followed Mad Rat through Riddleport for about 10 minutes"
+            },
+            {
+              "at": 20,
+              "text": "Saw wilds of pirate city"
+            },
+            {
+              "at": 21,
+              "text": "Saw mid-day parties, fighting and crime"
+            }
+          ],
+          "time_cues": [
+            "for about 10 minutes"
+          ]
+        },
+        {
+          "first": 22,
+          "last": 29,
+          "area": "pawn shop",
+          "location": "pawn shop",
+          "events": [
+            {
+              "at": 22,
+              "text": "Stopped at small pawn shop to wait"
+            },
+            {
+              "at": 24,
+              "text": "Saw Mad Rat pop out minutes later"
+            },
+            {
+              "at": 26,
+              "text": "Learned Crimelord Cyrus wanted to see party with Beltias"
+            },
+            {
+              "at": 27,
+              "text": "Learned next stop was Silver Succubi night club"
+            }
+          ],
+          "time_cues": [
+            "a few minutes later"
+          ]
+        },
+        {
+          "first": 30,
+          "last": 54,
+          "area": "Silver Succubi",
+          "location": "plaza",
+          "events": [
+            {
+              "at": 30,
+              "text": "Neared Silver Succubus"
+            },
+            {
+              "at": 32,
+              "text": "Followed Mad Rat into wide plaza"
+            },
+            {
+              "at": 37,
+              "text": "Saw eight-foot succubus statue before doors"
+            },
+            {
+              "at": 47,
+              "text": "Learned Mr Cyrus ran legitimate business"
+            },
+            {
+              "at": 49,
+              "text": "Learned not to stare at Mr Cyrus's clockwork hand"
+            },
+            {
+              "at": 52,
+              "text": "Said party was ready to enter"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 55,
+          "last": 65,
+          "area": "Silver Succubi",
+          "location": "entrance hallway",
+          "events": [
+            {
+              "at": 56,
+              "text": "Entered Silver Succubi through swinging doors"
+            },
+            {
+              "at": 57,
+              "text": "Walked through short entrance hallway"
+            },
+            {
+              "at": 60,
+              "text": "Met one-eyed orc Davy Crab-Basket"
+            },
+            {
+              "at": 61,
+              "text": "Learned Davy recognised Beltias"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 66,
+          "last": 159,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 66,
+              "text": "Passed through black stone double doors"
+            },
+            {
+              "at": 71,
+              "text": "Saw casino floor sprawl before party"
+            },
+            {
+              "at": 110,
+              "text": "Saw Cardigan take blue bomb shot"
+            },
+            {
+              "at": 141,
+              "text": "Met head barmaid Callie Duskbarrel"
+            },
+            {
+              "at": 153,
+              "text": "Watched Eliora marvel at Kreun's capture"
+            },
+            {
+              "at": 159,
+              "text": "Heard Gobu mistake Necrila for angel of death"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 74,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 74,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 6,
+              "text": "Rax explained Moonshine's drink was a free trust stimulant."
+            },
+            {
+              "at": 10,
+              "text": "Callie warned Rax and Moonshine that Marlo was coming down for Beltias."
+            },
+            {
+              "at": 13,
+              "text": "The cyphermage girl recognized Gobu as Marlo's hired goblin."
+            },
+            {
+              "at": 24,
+              "text": "Gobu inserted a coin into the brass vending machine."
+            },
+            {
+              "at": 51,
+              "text": "Gobu received a moderate healing potion and a dark green mystery potion."
+            },
+            {
+              "at": 60,
+              "text": "Callie said Moonshine had been fired for being drunk on shift."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 64,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 64,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 1,
+              "text": "Necrila explained she was sent to watch over Elias Tammerhawk."
+            },
+            {
+              "at": 7,
+              "text": "Marlo arrived on the casino floor."
+            },
+            {
+              "at": 15,
+              "text": "Marlo confronted Beltias Kreun in chains on his casino floor."
+            },
+            {
+              "at": 23,
+              "text": "Necrila introduced herself as a void shell named Necrila."
+            },
+            {
+              "at": 52,
+              "text": "Necrila asked to be allowed to deliver Kreun's fate."
+            },
+            {
+              "at": 64,
+              "text": "Moonshine accepted Rax as leader if everyone got paid."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 68,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 17,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 1,
+              "text": "Cardigan talked about having Eldamon fight someone."
+            },
+            {
+              "at": 5,
+              "text": "Cardigan introduced herself to a newcomer and their bird."
+            },
+            {
+              "at": 6,
+              "text": "Party tasted something cheesy and heard scratching noises."
+            },
+            {
+              "at": 12,
+              "text": "GM asked if the party wished to move up to Marlo's office."
+            },
+            {
+              "at": 13,
+              "text": "Party agreed to go to Marlo's office."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 18,
+          "last": 27,
+          "area": "Silver Succubi",
+          "location": "staircase",
+          "events": [
+            {
+              "at": 18,
+              "text": "Party moved upstairs."
+            },
+            {
+              "at": 19,
+              "text": "Staircase was described as narrow wood and brass with paintings of burning ships."
+            },
+            {
+              "at": 20,
+              "text": "Marlo's clockwork hand ticked on the bannister ahead."
+            },
+            {
+              "at": 24,
+              "text": "Sounds of the club grew quieter."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 28,
+          "last": 32,
+          "area": "Silver Succubi",
+          "location": "hallway",
+          "events": [
+            {
+              "at": 28,
+              "text": "Party went down a hallway at the top of the staircase."
+            },
+            {
+              "at": 29,
+              "text": "Party found a steel reinforced door at the end of the hallway."
+            },
+            {
+              "at": 30,
+              "text": "Davy Crab Basket stood next to the steel door."
+            },
+            {
+              "at": 32,
+              "text": "Davy opened the door."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 33,
+          "last": 68,
+          "area": "Silver Succubi",
+          "location": "Marlo's office",
+          "events": [
+            {
+              "at": 33,
+              "text": "Party entered Marlo's office."
+            },
+            {
+              "at": 37,
+              "text": "Party saw maps of Riddleport and trade routes on the wall."
+            },
+            {
+              "at": 45,
+              "text": "Party saw the Cyphergate through the transparent stone window."
+            },
+            {
+              "at": 62,
+              "text": "Marlo said they should talk business."
+            },
+            {
+              "at": 67,
+              "text": "Necrila asked about the captured crime lord's fate and her father's business."
+            },
+            {
+              "at": 68,
+              "text": "Filiaur checked the wanted poster for a reward."
+            }
+          ],
+          "time_cues": [
+            "15:00"
+          ]
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 69,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 69,
+          "area": "Silver Succubi",
+          "location": "Marlo's office",
+          "events": [
+            {
+              "at": 4,
+              "text": "Marlo presented bounty posts for Beltias Kreun."
+            },
+            {
+              "at": 9,
+              "text": "Marlo pitched his plan to make the city safer."
+            },
+            {
+              "at": 21,
+              "text": "Necrila shook hands with Marlo on hearing his deal."
+            },
+            {
+              "at": 39,
+              "text": "Marlo offered 10 gold a week standard pay to the group."
+            },
+            {
+              "at": 41,
+              "text": "Marlo tasked the group with killing Anger to earn the job."
+            },
+            {
+              "at": 63,
+              "text": "Kyomi introduced herself and Ridge to the group."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 81,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 11,
+          "area": "Silver Succubi",
+          "location": "Marlo's office",
+          "events": [
+            {
+              "at": 1,
+              "text": "Filiaur signed the contract."
+            },
+            {
+              "at": 5,
+              "text": "Marlo shook hands with the party."
+            },
+            {
+              "at": 7,
+              "text": "Marlo told the group to play nice."
+            },
+            {
+              "at": 9,
+              "text": "The group finished signing contracts."
+            },
+            {
+              "at": 10,
+              "text": "Marlo asked how to prepare for Anger."
+            },
+            {
+              "at": 11,
+              "text": "Marlo offered the armoury and shop for preparation."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 12,
+          "last": 81,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 12,
+              "text": "The party gathered at a casino table to plan."
+            },
+            {
+              "at": 19,
+              "text": "Cardigan described a stitched dragon and gnome soul origin."
+            },
+            {
+              "at": 43,
+              "text": "Cardigan declared the group the Heroes of Riddleport."
+            },
+            {
+              "at": 69,
+              "text": "Xharyies approached the table and asked to join."
+            },
+            {
+              "at": 76,
+              "text": "Cardigan said Marlo wanted Anger killed tomorrow."
+            },
+            {
+              "at": 81,
+              "text": "Rax left to head home to restock supplies."
+            }
+          ],
+          "time_cues": [
+            "tomorrow"
+          ]
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 33,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM asked Rax where to go and what to do."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 33,
+          "area": "Silver Succubi",
+          "location": "shop",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party went across the room and into the shop."
+            },
+            {
+              "at": 10,
+              "text": "Mira Ashvane and Davy Crab-Basket came out from behind the counters."
+            },
+            {
+              "at": 14,
+              "text": "Filiaur pulled out treasures to part with."
+            },
+            {
+              "at": 22,
+              "text": "Mira examined the sailing charts and described them as living cartography."
+            },
+            {
+              "at": 24,
+              "text": "Davy appraised the silver cutlery set and offered five-and-twenty gold to fence it."
+            },
+            {
+              "at": 33,
+              "text": "Davy sold the requested items at standard prices."
+            }
+          ],
+          "time_cues": [
+            "tomorrow"
+          ]
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 36,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 36,
+          "area": "Silver Succubi",
+          "location": "shop",
+          "events": [
+            {
+              "at": 2,
+              "text": "Davy gave Anthony a switchsythe."
+            },
+            {
+              "at": 3,
+              "text": "Anthony said prep work was done and urged to move."
+            },
+            {
+              "at": 5,
+              "text": "The GM proposed sleep-skipping to tomorrow."
+            },
+            {
+              "at": 33,
+              "text": "A gnomish woman behind a paperwork-covered desk asked about an attack."
+            },
+            {
+              "at": 36,
+              "text": "A young server tripped in front of Davy and apologized."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 41,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 41,
+          "area": "Silver Succubi",
+          "location": "shop",
+          "events": [
+            {
+              "at": 8,
+              "text": "Cardigan offered Rin and Tater coin to help with work for Marlo."
+            },
+            {
+              "at": 14,
+              "text": "Rin's shadow emerged and insulted Cardigan."
+            },
+            {
+              "at": 18,
+              "text": "Cardigan said a wizard dude would try to rob the chest."
+            },
+            {
+              "at": 23,
+              "text": "Cardigan said the plan was to kill the wizard on sight tomorrow."
+            },
+            {
+              "at": 28,
+              "text": "Shadow said Rin did magic stuff and he was there to hit things."
+            },
+            {
+              "at": 36,
+              "text": "Cardigan said she was going to sleep and would meet them tomorrow."
+            }
+          ],
+          "time_cues": [
+            "tomorrow",
+            "tomorrow morning"
+          ]
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {
+    "unknown": "Setup posts"
+  },
+  "area_renames": {
+    "unknown": "Before play",
+    "sewer": "The sewers",
+    "church of Sarenrae": "St. Caspian's Salvation",
+    "Silver Succubi": "The Silver Succubi"
+  }
+}
