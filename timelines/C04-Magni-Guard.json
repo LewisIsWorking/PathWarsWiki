@@ -1,0 +1,277 @@
+{
+  "code": "C04",
+  "campaign": "Magni Guard",
+  "months": {
+    "2026-05": {
+      "messages": 65,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 65,
+          "area": "The Grand Hall of the Temple",
+          "location": "The Grand Hall of the Temple",
+          "events": [
+            {
+              "at": 1,
+              "text": "Báyakan listened at the door and opened it."
+            },
+            {
+              "at": 6,
+              "text": "Dart trap monster parts were added to the party stash."
+            },
+            {
+              "at": 7,
+              "text": "The party entered room 5, The Grand Hall of the Temple."
+            },
+            {
+              "at": 10,
+              "text": "Doopa talked about the maze they made."
+            },
+            {
+              "at": 36,
+              "text": "Natalia cast Rousing Splash on party members."
+            },
+            {
+              "at": 39,
+              "text": "Changer stepped onto the unfinished floor and it held."
+            },
+            {
+              "at": 51,
+              "text": "Changer opened the door to reveal a swarm of blood seekers feasting on corpses."
+            },
+            {
+              "at": 57,
+              "text": "Combat started against the blood seekers."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 117,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 98,
+          "area": "The Grand Hall of the Temple",
+          "location": "The Grand Hall of the Temple",
+          "events": [
+            {
+              "at": 9,
+              "text": "Chase killed a blood seeker with a pulse of sound."
+            },
+            {
+              "at": 36,
+              "text": "Akuma killed the final bug to end combat."
+            },
+            {
+              "at": 56,
+              "text": "The party found a key on one of the human worker corpses."
+            },
+            {
+              "at": 77,
+              "text": "The party opened the safe and found 45 gold pieces."
+            },
+            {
+              "at": 83,
+              "text": "Bayakan noticed that the statue of the antlered old woman was rigged to spew fire."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 99,
+          "last": 103,
+          "area": "The Grand Hall of the Temple",
+          "location": "Room 5",
+          "events": [
+            {
+              "at": 100,
+              "text": "Bayakan noticed several points where standing on the wood could result in a fall."
+            },
+            {
+              "at": 102,
+              "text": "The party walked across the hallway safely."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 104,
+          "last": 117,
+          "area": "The Grand Hall of the Temple",
+          "location": "Room 8: The Hall of Messages",
+          "events": [
+            {
+              "at": 112,
+              "text": "Nadya examined the bodies and confirmed they were dead and not killed recently."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 35,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "The Grand Hall of the Temple",
+          "location": "Room 8: The Hall of Messages",
+          "events": [
+            {
+              "at": 1,
+              "text": "Changer discussed saving Magnimarian citizens."
+            },
+            {
+              "at": 2,
+              "text": "Changer stated he would await the party at the door."
+            },
+            {
+              "at": 3,
+              "text": "Changer stood at the doorway."
+            },
+            {
+              "at": 6,
+              "text": "Nadya briefly tossed the bodies and stood ready to move on."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 35,
+          "area": "The Grand Hall of the Temple",
+          "location": "Room 9",
+          "events": [
+            {
+              "at": 7,
+              "text": "The party moved onto room 9."
+            },
+            {
+              "at": 8,
+              "text": "A plaque named room 9 as the hall of wisdom."
+            },
+            {
+              "at": 17,
+              "text": "Báyakan Tiktik rolled 20 on a perception check."
+            },
+            {
+              "at": 25,
+              "text": "Báyakan Tiktik succeeded VS DC 19."
+            },
+            {
+              "at": 27,
+              "text": "Chase Darkthorne pointed out the snare and sent an ultrasonic pulse into the webbed area."
+            },
+            {
+              "at": 30,
+              "text": "A female kobold scout on her spider mount was revealed hiding in the webbing."
+            },
+            {
+              "at": 34,
+              "text": "Báyakan suggested someone physically tough go through first."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 47,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 47,
+          "area": "The Grand Hall of the Temple",
+          "location": "Room 9",
+          "events": [
+            {
+              "at": 2,
+              "text": "Changer expressed a desire for a structural change after the mission."
+            },
+            {
+              "at": 9,
+              "text": "Rex arrived at the room as backup sent from the lieutenant."
+            },
+            {
+              "at": 13,
+              "text": "Changer pointed down the hallway toward the opponents."
+            },
+            {
+              "at": 17,
+              "text": "Steele arrived at the scene as a former sergeant of the Magnimar City Guard."
+            },
+            {
+              "at": 21,
+              "text": "Kitt introduced themselves as being on assignment from the Chaplain Unit."
+            },
+            {
+              "at": 33,
+              "text": "Rex cautiously walked into the doorway."
+            },
+            {
+              "at": 44,
+              "text": "Chase Darkthorne noted the snare trap across the threshold and the spider mounted kobold."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 63,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 63,
+          "area": "The Grand Hall of the Temple",
+          "location": "Room 9",
+          "events": [
+            {
+              "at": 1,
+              "text": "Chase Darkthorne disarmed a snare trap in the doorway."
+            },
+            {
+              "at": 16,
+              "text": "A crossbow bolt was launched at Chase when the trap was disabled."
+            },
+            {
+              "at": 20,
+              "text": "Combat started against the kobold and spider in the chamber."
+            },
+            {
+              "at": 31,
+              "text": "Kitt restricted the kobold Kreski's movement with a tangle vine."
+            },
+            {
+              "at": 51,
+              "text": "Chase Darkthorne cast a spell dealing damage to the spider Margle."
+            },
+            {
+              "at": 54,
+              "text": "Rex shot the spider Margle with a crossbow for 3 damage."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {
+    "The Grand Hall of the Temple": "Room 5: The Grand Hall",
+    "Room 5": "Room 5: The Grand Hall",
+    "Room 9": "Room 9: The Hall of Wisdom"
+  },
+  "area_renames": {
+    "The Grand Hall of the Temple": "The Temple"
+  }
+}
