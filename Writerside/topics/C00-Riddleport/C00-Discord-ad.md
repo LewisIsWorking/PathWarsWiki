@@ -4,7 +4,7 @@
 >> 1. Title: Riddleport (play by post).
 >> 2. There is a lot of information here, but you do not need to read all or any of it. DM me, and I will walk you through everything.
 >> 3. I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
->> 4. Campaign name: Riddle Port.
+>> 4. Campaign name: Riddleport.
 >> 5. System: Pathfinder 2e.
 >> 6. Open Slots: 2.
 >> 7. Time & Frequency: constant (play by post).
@@ -19,7 +19,7 @@
 >> 1. Setting: Pathfinder's default Golarion setting with homebrew changes.
 >> 2. Level: 2. The campaign runs to level 20.
 >> 3. I recommend using Path Builder to build your character.
->> 4. You can use any PF2e content for character creation as well as the StarFinder 2e playtest content.
+>> 4. You can use any PF2e content for character creation, and any Starfinder 2e ancestry (race) and class.
 >> 5. What can I play regarding race, class, background, etc? Well, you can play anything.
 >> 6. You do not need to make your character a dual class.
 >> 7. The vetting process is on our Discord server; **it is NOT in my DMs with you**.
