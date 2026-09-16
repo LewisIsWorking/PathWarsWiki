@@ -29,6 +29,13 @@ DELEGATE = Path.home() / ".claude" / "skills" / "delegate" / "delegate.ps1"
 USAGE = DELEGATE.parent / "usage.jsonl"
 WRAPPER = Path(__file__).parent / "delegate-utf8.ps1"
 ATTEMPTS = 2
+# ⭐ Lewis, 2026-09-16: "You should have delegated to muse-spark-1.3". The
+# wrapper's `accurate` profile tries it first. Reached through the OpenCode
+# CLI, which passes the prompt file by reference; proven safe here on the
+# largest month (C09 2026-04, 287 posts, 41k chars): valid first time, with
+# events naming details from post 275. The scene checks would reject a reply
+# written without reading the file anyway.
+PREFERRED_MODEL = "opencode/muse-spark-1.3-contributor-free"
 
 
 def load(path: Path, code: str, name: str) -> dict:
@@ -62,6 +69,16 @@ def ended_at(data: dict, month: str) -> str | None:
     """Where the party was at the end of the last saved month before this one."""
     earlier = [m for m in sorted(data["months"]) if m < month]
     return place(data["months"][earlier[-1]]["scenes"][-1]) if earlier else None
+
+
+def needs_extracting(done: dict | None, messages: list) -> bool:
+    """New, grown, or made by a fallback model rather than the preferred one.
+
+    A month that fell back (the CLI hop was down) is redone on the next run,
+    so a timeline ends up extracted by one model throughout.
+    """
+    return (done is None or done["messages"] != len(messages)
+            or done.get("model") != PREFERRED_MODEL)
 
 
 def ask(prompt: str) -> tuple[str, str]:
@@ -106,8 +123,7 @@ def extract(source: Path, data_path: Path, code: str, name: str,
     months = read_campaign(source, group)
     failed = []
     for month, messages in months.items():
-        done = data["months"].get(month)
-        if not messages or (done and done["messages"] == len(messages)):
+        if not messages or not needs_extracting(data["months"].get(month), messages):
             continue
         prompt = build_prompt(messages, known_locations(data),
                               ended_at(data, month))
