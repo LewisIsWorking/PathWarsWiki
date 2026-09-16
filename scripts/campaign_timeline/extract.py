@@ -8,7 +8,7 @@ Runs on Lewis's machine, not in CI: it needs the local ``delegate`` skill.
 
 Only months that are new, or whose message count has changed, are sent.
 Everything Lewis writes into the data file by hand (``in_game``,
-``renames``) is left alone. A month the model gets wrong twice is left
+``renames``, ``area_renames``) is left alone. A month the model gets wrong twice is left
 out and reported, never saved half right.
 """
 
@@ -35,7 +35,7 @@ def load(path: Path, code: str, name: str) -> dict:
     if path.exists():
         return json.loads(path.read_text(encoding="utf-8"))
     return {"code": code, "campaign": name, "months": {},
-            "in_game": {}, "renames": {}}
+            "in_game": {}, "renames": {}, "area_renames": {}}
 
 
 def save(path: Path, data: dict) -> None:
@@ -44,19 +44,24 @@ def save(path: Path, data: dict) -> None:
                     encoding="utf-8")
 
 
+def place(scene: dict) -> str:
+    """ "Area > Room", as the prompt lists places."""
+    return f"{scene['area']} > {scene['location']}"
+
+
 def known_locations(data: dict) -> list[str]:
     seen: list[str] = []
     for month in sorted(data["months"]):
         for s in data["months"][month]["scenes"]:
-            if s["location"] not in seen:
-                seen.append(s["location"])
+            if place(s) not in seen:
+                seen.append(place(s))
     return seen
 
 
 def ended_at(data: dict, month: str) -> str | None:
     """Where the party was at the end of the last saved month before this one."""
     earlier = [m for m in sorted(data["months"]) if m < month]
-    return data["months"][earlier[-1]]["scenes"][-1]["location"] if earlier else None
+    return place(data["months"][earlier[-1]]["scenes"][-1]) if earlier else None
 
 
 def ask(prompt: str) -> tuple[str, str]:

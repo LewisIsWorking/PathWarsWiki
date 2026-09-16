@@ -29,8 +29,12 @@ Rules:
 - Every message belongs to exactly one scene. Scenes are in order, the first
   starts at message 1, each next scene starts right after the previous one
   ends, and the last ends at message {count}.
-- "location": a short place name (max 6 words) as the posts name it. If the
-  party is at a place already listed below, reuse that EXACT name.
+- "area": the wider place (a building, dungeon, ship, district or town), max
+  6 words, as the posts name it.
+- "location": the specific room or spot inside that area, max 6 words. If
+  the posts name no smaller spot, repeat the area.
+- A new scene starts when the area OR the location changes.
+- If the party is at a place already listed below, reuse those EXACT names.
 - "events": 1 to 6 plain one-line summaries of what happened there, each
   with "at", the message number it happened in. Past tense. No invention.
 - "time_cues": in-game time the posts STATE, copied word for word (for
@@ -48,7 +52,7 @@ Locations already used in this campaign:
 Write every non-ASCII character as a JSON escape, for example
 "B\\u00e1yakan" for the accented name. Reply with ONLY this JSON, no prose,
 no code fence:
-{{"scenes": [{{"first": 1, "last": 9, "location": "...",
+{{"scenes": [{{"first": 1, "last": 9, "area": "...", "location": "...",
   "events": [{{"at": 2, "text": "..."}}], "time_cues": ["..."]}}]}}
 
 Messages ({count}):
@@ -119,9 +123,10 @@ def validate(data: dict, messages: list[Message]) -> tuple[list[dict], list[str]
         if first != expected_first or last < first or last > count:
             raise ValueError(f"scene {i + 1} spans {first}-{last}, "
                              f"expected to start at {expected_first}")
-        location = str(s.get("location") or "").strip()
-        if not location:
-            raise ValueError(f"scene {i + 1}: no location")
+        area = str(s.get("area") or "").strip()
+        location = str(s.get("location") or "").strip() or area
+        if not area:
+            raise ValueError(f"scene {i + 1}: no area")
         events = []
         for e in s.get("events") or []:
             text = str(e.get("text") or "").strip()
@@ -134,7 +139,8 @@ def validate(data: dict, messages: list[Message]) -> tuple[list[dict], list[str]
         for cue in s.get("time_cues") or []:
             (cues if _norm(str(cue)) and _norm(str(cue)) in source
              else dropped).append(str(cue))
-        clean.append({"first": first, "last": last, "location": location,
+        clean.append({"first": first, "last": last, "area": area,
+                      "location": location,
                       "events": events, "time_cues": cues})
         expected_first = last + 1
     if expected_first != count + 1:

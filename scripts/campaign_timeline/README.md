@@ -43,16 +43,20 @@ The data file `timelines/<code>-<campaign>.json` has two sections for the GM:
 
 ```json
 "in_game": { "2026-06#14": "2 days", "2026-07#1": "3h" },
-"renames": { "The Big Atrium": "The Atrium" }
+"renames": { "Room 5": "Room 5: The Grand Hall" },
+"area_renames": { "The Grand Hall of the Temple": "The Temple" }
 ```
 
 - **`in_game`**: keyed by the visit id the page prints under each visit.
   Write `3 days`, `2d 4h`, `1 week and 2 hours`, `90 mins`. Text it can't
   read (`about a week`) is shown as written, with no bar.
-- **`renames`**: fixes a place the model named two ways. Renaming one name
+- **`renames`**: fixes a room the model named two ways. Renaming one name
   to another also merges back-to-back visits to it.
+- **`area_renames`**: the same for areas. Kept separate because the model
+  sometimes names a whole area after its first room, and that one name then
+  needs a different fix as an area than as a room.
 
-Then run `page.py` again. Neither section is touched by `extract.py`.
+Then run `page.py` again. None of these are touched by `extract.py`.
 
 ## The scales
 

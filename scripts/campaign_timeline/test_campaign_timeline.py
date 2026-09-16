@@ -13,7 +13,8 @@ import pytest
 sys.path.insert(0, str(Path(__file__).parent))
 
 from messages import parse_month  # noqa: E402
-from page_render import build_visits, duration, in_game_hours, render  # noqa: E402
+from page_render import (area_in_game, build_visits, duration,  # noqa: E402
+                         group_areas, in_game_hours, render)
 from scenes import build_prompt, parse_reply, validate  # noqa: E402
 
 MONTH = """# Magni Guard — 2026-06
@@ -43,8 +44,8 @@ def _msgs():
     return parse_month("2026-06", MONTH, "Path_Wars")
 
 
-def _scenes(*spans):
-    return {"scenes": [{"first": a, "last": b, "location": loc,
+def _scenes(*spans, area="Temple"):
+    return {"scenes": [{"first": a, "last": b, "area": area, "location": loc,
                         "events": [{"at": a, "text": f"at {loc}"}],
                         "time_cues": cues}
                        for a, b, loc, cues in spans]}
@@ -159,6 +160,16 @@ def test_a_rename_merges_places():
     assert len(visits) == 1
 
 
+def test_one_name_can_become_different_area_and_room_names():
+    """The C04 pilot named the temple after its first room."""
+    data = _data(renames={"Temple": "Room 5: The Grand Hall"},
+                 area_renames={"Temple": "The Temple"})
+    for s in data["months"]["2026-06"]["scenes"]:
+        s["location"] = "Temple"
+    visits = build_visits(data, {"2026-06": _msgs()})
+    assert [(v.area, v.location) for v in visits] == [("The Temple", "Room 5: The Grand Hall")]
+
+
 def test_the_page_scrolls_down_and_measures_irl_to_the_next_place():
     page = render(_data(in_game={"2026-06#1": "2d 4h"}), {"2026-06": _msgs()})
     assert "flowchart TD" in page and "gantt" not in page
@@ -166,6 +177,48 @@ def test_the_page_scrolls_down_and_measures_irl_to_the_next_place():
     assert "🗓️ IRL 3d ▰▰▰▰▰▰▰▰▰▰" in page
     assert "⏳ In-game 2d 4h" in page
     assert '`"2026-06#3"`' in page, "an unfilled visit must name its key"
+
+
+def test_a_missing_area_is_rejected():
+    data = _scenes((1, 3, "Hall", []))
+    data["scenes"][0]["area"] = ""
+    with pytest.raises(ValueError):
+        validate(data, _msgs())
+
+
+def test_a_missing_room_falls_back_to_the_area():
+    data = _scenes((1, 3, "", []))
+    scenes, _ = validate(data, _msgs())
+    assert scenes[0]["location"] == "Temple"
+
+
+def test_rooms_group_inside_their_area_and_a_new_area_starts_a_new_box():
+    scenes, _ = validate(_scenes((1, 1, "Atrium", []), (2, 2, "Vault", []),
+                                 (3, 3, "Tunnels", [])), _msgs())
+    scenes[2]["area"] = "Sewers"
+    data = {"code": "C04", "campaign": "Magni Guard", "in_game": {}, "renames": {},
+            "months": {"2026-06": {"messages": 3, "scenes": scenes}}}
+    visits = build_visits(data, {"2026-06": _msgs()})
+    assert group_areas(visits) == [("Temple", [0, 1]), ("Sewers", [2])]
+    page = render(data, {"2026-06": _msgs()})
+    assert page.count("subgraph ") == 2 and page.count("    end") == 2
+    assert "### 1.2 Vault" in page and "## 2. Sewers" in page
+    # Every edge comes after the last subgraph closes, or Mermaid moves nodes.
+    assert page.rindex("    end") < page.index("-->")
+
+
+def test_an_area_total_waits_for_every_room():
+    """A partial sum reads as a total and understates it."""
+    assert area_in_game([24, None]) is None
+    assert area_in_game([24, 2]) == 26
+
+
+def test_old_data_without_areas_still_renders():
+    data = _data()
+    for s in data["months"]["2026-06"]["scenes"]:
+        del s["area"]
+    visits = build_visits(data, {"2026-06": _msgs()})
+    assert [v.area for v in visits] == ["Atrium", "Tunnels"]
 
 
 @pytest.mark.parametrize("text, hours", [
