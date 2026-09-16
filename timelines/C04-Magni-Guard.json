@@ -1,0 +1,462 @@
+{
+  "code": "C04",
+  "campaign": "Magni Guard",
+  "months": {
+    "2026-05": {
+      "messages": 65,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 65,
+          "location": "The Grand Hall of the Temple",
+          "events": [
+            {
+              "at": 1,
+              "text": "Báyakan listens at the door and opens it."
+            },
+            {
+              "at": 2,
+              "text": "Natalia opens the door for Báyakan."
+            },
+            {
+              "at": 6,
+              "text": "The DART TRAP monster parts are added to the party stash."
+            },
+            {
+              "at": 7,
+              "text": "The door is opened to reveal room 5: The Grand Hall of the Temple."
+            },
+            {
+              "at": 10,
+              "text": "Doopa claims they made a maze."
+            },
+            {
+              "at": 19,
+              "text": "Nadya questions Doopa about the maze construction."
+            },
+            {
+              "at": 36,
+              "text": "Natalia casts Rousing Splash on party members."
+            },
+            {
+              "at": 38,
+              "text": "Changer accepts the rousing splash."
+            },
+            {
+              "at": 39,
+              "text": "Changer takes a step forward onto the unfinished floor."
+            },
+            {
+              "at": 43,
+              "text": "Nadya carefully follows Changer and directs his movements."
+            },
+            {
+              "at": 47,
+              "text": "The party determines the door is not trapped after a check."
+            },
+            {
+              "at": 51,
+              "text": "Changer opens the door."
+            },
+            {
+              "at": 55,
+              "text": "The party sees a swarm of blood seekers feasting on corpses and combat begins."
+            },
+            {
+              "at": 61,
+              "text": "Changer wins initiative for the encounter."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 117,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 98,
+          "location": "The Grand Hall of the Temple",
+          "events": [
+            {
+              "at": 9,
+              "text": "The party defeats the blood seekers in combat."
+            },
+            {
+              "at": 41,
+              "text": "Monster parts are added to the group stash."
+            },
+            {
+              "at": 54,
+              "text": "The party investigates the blood seeker corpses and finds a key, a safe, a bottle of rare sake, and a bejewelled brooch."
+            },
+            {
+              "at": 62,
+              "text": "The party explores the eastern section containing the hall of Kami and discovers a charred corpse near a booby-trapped statue."
+            },
+            {
+              "at": 77,
+              "text": "The party opens the safe and finds 45 gold pieces."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 99,
+          "last": 103,
+          "location": "The Grand Hall of the Temple",
+          "events": [
+            {
+              "at": 100,
+              "text": "Bayakan notices several hazardous points on the wooden floor where a fall could occur."
+            },
+            {
+              "at": 102,
+              "text": "The party safely walks across the hallway."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 104,
+          "last": 117,
+          "location": "Room 8: the hall of messages",
+          "events": [
+            {
+              "at": 104,
+              "text": "The party enters the hall of messages containing angled sand tables and four arrow-studded corpses."
+            },
+            {
+              "at": 112,
+              "text": "Nadya and Doopa examine the corpses, confirming they are dead, not recent, and not workers."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 35,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "location": "Room 8: the hall of messages",
+          "events": [
+            {
+              "at": 1,
+              "text": "The GM noted Changer wanted to save Magnimarian citizens and would await at the door."
+            },
+            {
+              "at": 3,
+              "text": "Changer stood at the doorway."
+            },
+            {
+              "at": 6,
+              "text": "Nadya briefly tossed the bodies and stood ready to move on."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 35,
+          "location": "Room 9: the hall of wisdom",
+          "events": [
+            {
+              "at": 7,
+              "text": "The party moved onto room 9."
+            },
+            {
+              "at": 8,
+              "text": "A plaque named room 9 as the hall of wisdom."
+            },
+            {
+              "at": 25,
+              "text": "Báyakan Tiktik succeeded VS DC 19 on a perception check."
+            },
+            {
+              "at": 27,
+              "text": "Chase Darkthorne pointed out the snare and sent an ultrasonic pulse into the webbed area."
+            },
+            {
+              "at": 30,
+              "text": "A female kobold scout on her spider mount was revealed hiding in the webbing."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 47,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 47,
+          "location": "Room 9: the hall of wisdom",
+          "events": [
+            {
+              "at": 2,
+              "text": "Changer expressed that his form was not built for physical confrontation."
+            },
+            {
+              "at": 9,
+              "text": "Rex arrived as backup sent from the lieutenant."
+            },
+            {
+              "at": 17,
+              "text": "Steele arrived at the scene wearing armor and a mix of leather and metal."
+            },
+            {
+              "at": 21,
+              "text": "Kitt introduced himself as being on assignment from the Chaplain Unit."
+            },
+            {
+              "at": 33,
+              "text": "Rex cautiously walked into the doorway."
+            },
+            {
+              "at": 44,
+              "text": "Chase Darkthorne pointed out a snare trap across the threshold and a spider mounted kobold lurking above."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 63,
+      "model": "gemini/gemini-flash-lite-latest",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 9,
+          "location": "Room 9: the hall of wisdom",
+          "events": [
+            {
+              "at": 1,
+              "text": "Chase Darkthorne reaches for his tool kit, uses magic, and attempts to disarm a snare."
+            },
+            {
+              "at": 2,
+              "text": "Changer mentions cold storage facilities back at base."
+            },
+            {
+              "at": 3,
+              "text": "Changer introduces himself as an assistant officer of the Magni Guard."
+            },
+            {
+              "at": 4,
+              "text": "Changer states saving hostages and apprehending criminals is the top priority."
+            },
+            {
+              "at": 5,
+              "text": "Changer mentions backup integration based on performance output."
+            },
+            {
+              "at": 6,
+              "text": "Changer notes standard Magni Guard training for non-lethal blows."
+            },
+            {
+              "at": 7,
+              "text": "Changer asks Officer Nadya if mentioning the zoo helps the investigation."
+            },
+            {
+              "at": 8,
+              "text": "Changer comments on zoo occupants requiring direct confrontation."
+            },
+            {
+              "at": 9,
+              "text": "Alastair Tan states former Sergeant Steele's background in the Magnimar City Watch."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 10,
+          "last": 63,
+          "location": "The Chamber of Scribing",
+          "events": [
+            {
+              "at": 10,
+              "text": "The party walks to the doorway before story progression pauses."
+            },
+            {
+              "at": 11,
+              "text": "Changer asks to state rank."
+            },
+            {
+              "at": 12,
+              "text": "Changer raises a nonexistent shield."
+            },
+            {
+              "at": 13,
+              "text": "Changer warns about a kobold riding a spider and a hidden snare."
+            },
+            {
+              "at": 15,
+              "text": "Changer notes defusing the snare will trigger a foe attack."
+            },
+            {
+              "at": 16,
+              "text": "A trap is disabled, and a crossbow bolt is launched from above."
+            },
+            {
+              "at": 17,
+              "text": "Combat begins."
+            },
+            {
+              "at": 18,
+              "text": "Alastair Tan notes a low initiative roll."
+            },
+            {
+              "at": 19,
+              "text": "Steele is startled by the bolt before composing herself."
+            },
+            {
+              "at": 20,
+              "text": "Bayakan Tiktik wins initiative, disables the snare, and takes 7 damage from a kobold scout."
+            },
+            {
+              "at": 21,
+              "text": "Changer strides forward, uses telekinetic projectile, and deals 6 damage making Kreski bloodied."
+            },
+            {
+              "at": 22,
+              "text": "Doopa the kobold says hello."
+            },
+            {
+              "at": 23,
+              "text": "Changer lands a blow and tells the kobold to surrender to the Magni Guard."
+            },
+            {
+              "at": 24,
+              "text": "Doopa yells for Kreski to give up."
+            },
+            {
+              "at": 25,
+              "text": "The GM lists unacted and acted allies for round one."
+            },
+            {
+              "at": 26,
+              "text": "Alastair Tan outlines an action plan involving movement, snagging strike with a sap, and a second strike."
+            },
+            {
+              "at": 27,
+              "text": "Alastair Tan rolls a success dealing 4 nonlethal bludgeoning damage."
+            },
+            {
+              "at": 28,
+              "text": "Alastair Tan's second strike misses."
+            },
+            {
+              "at": 29,
+              "text": "Ryo Yamakawa uses tangle vine and raises a shield."
+            },
+            {
+              "at": 31,
+              "text": "Kitt restricts kobold Kreski's movement with a vine and raises a shield."
+            },
+            {
+              "at": 32,
+              "text": "Steele steps forward with her sap, strikes the spider, grabs the mount, and misses her next strike."
+            },
+            {
+              "at": 33,
+              "text": "Cannon McMahon heals Bayakan and gives temp hp."
+            },
+            {
+              "at": 34,
+              "text": "Margle the spider takes 4 damage."
+            },
+            {
+              "at": 35,
+              "text": "Mangle is applied imposing a speed penalty for 1 round."
+            },
+            {
+              "at": 36,
+              "text": "The GM questions how the spider is being hit 25 feet up on a wall web."
+            },
+            {
+              "at": 37,
+              "text": "The GM undoes 4 damage because the spider cannot be hit with a sap."
+            },
+            {
+              "at": 39,
+              "text": "Kitt raises a shield against the kobold and spider mount."
+            },
+            {
+              "at": 40,
+              "text": "Kreski panics as mangle becomes unsteady."
+            },
+            {
+              "at": 41,
+              "text": "Kreski tells Mangle to calm down in draconic."
+            },
+            {
+              "at": 42,
+              "text": "Kreski and Mangle are positioned 25 feet up the wall."
+            },
+            {
+              "at": 43,
+              "text": "Rex strides twice to flank Kreski and misses his mace strike."
+            },
+            {
+              "at": 46,
+              "text": "Rex enters a rage, strides to flank Kreski, misses, and comments on the slippery target."
+            },
+            {
+              "at": 51,
+              "text": "Chase Darkthorne takes medicine from Nadya, casts magic missile at the spider, and pulls back."
+            },
+            {
+              "at": 52,
+              "text": "Margle takes 8 damage."
+            },
+            {
+              "at": 53,
+              "text": "Margle becomes bloodied."
+            },
+            {
+              "at": 54,
+              "text": "Volf retcons an action to stride and shoot Margle with a crossbow for 3 damage."
+            },
+            {
+              "at": 55,
+              "text": "Volf pushes past people into the room and shoots at the spider."
+            },
+            {
+              "at": 58,
+              "text": "Alastair Tan retcons actions to stride, demoralise Kreski, and do nothing."
+            },
+            {
+              "at": 59,
+              "text": "Steele marches in, shouts a warning to surrender, and draws her longsword."
+            },
+            {
+              "at": 60,
+              "text": "Margle takes 3 damage."
+            },
+            {
+              "at": 62,
+              "text": "The kobold screeches back in draconic refusing to be slaves."
+            },
+            {
+              "at": 63,
+              "text": "Captain Vex Ashburn takes damage from injury echo and plasma caster."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {}
+}

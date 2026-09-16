@@ -45,7 +45,7 @@ jobs:
       # out afterwards that the naming rule regressed means reviewing a
       # commit that has already renamed everything.
       - name: Test the sync logic
-        run: python -m pytest scripts/pbp_sync -q
+        run: python -m pytest scripts/pbp_sync scripts/campaign_timeline -q
 
       - name: Fetch the transcript archive
         run: |

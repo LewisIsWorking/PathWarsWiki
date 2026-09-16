@@ -238,7 +238,9 @@
         <toc-element topic="C01-Doomsday-Funtime.md"/>
         <toc-element topic="C02-The-Crimson-Throne.md"/>
         <toc-element topic="C03-Etran's-Folly.md"/>
-        <toc-element topic="C04-Magni-Guard.md"/>
+        <toc-element topic="C04-Magni-Guard.md">
+            <toc-element topic="C04-Magni-Guard-Timeline.md"/>
+        </toc-element>
         <toc-element topic="C05-The-Grand-Explorers.md"/>
         <toc-element topic="C06-Kibwe.md"/>
         <toc-element topic="C07-Hopeful-end-times.md"/>
