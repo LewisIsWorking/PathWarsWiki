@@ -2826,6 +2826,15 @@
     }
   },
   "in_game": {},
-  "renames": {},
-  "area_renames": {}
+  "renames": {
+    "unknown": "Not stated"
+  },
+  "area_renames": {
+    "House of the White Snake": "Eto",
+    "Pillars of the Sun": "Eto",
+    "crater": "Eto",
+    "ravenous black sphinx": "Eto",
+    "temple of Pharasma": "Magnimar",
+    "unknown": "Location not stated"
+  }
 }

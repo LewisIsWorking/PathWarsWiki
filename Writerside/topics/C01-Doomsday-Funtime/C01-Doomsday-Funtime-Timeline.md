@@ -7,182 +7,163 @@ Where the party went, in order. Each outer box is an area, and each box inside i
 
 ```mermaid
 flowchart TD
-    subgraph a0["1. Before play · 🗓️ IRL 4w 6d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a0["1. Location not stated · 🗓️ IRL 11w 4d ▰▰▰▰▰▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v0["<b>1.1 Setup posts</b><br/>🗓️ IRL 4w 6d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v0["<b>1.1 Not stated</b><br/>🗓️ IRL 11w 4d ▰▰▰▰▰▰▰▰▰▱<br/>⏳ In-game ?"]
     end
-    subgraph a1["2. Location not stated · 🗓️ IRL 6w 4d ▰▰▰▰▰▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a1["2. Gauntlight · 🗓️ IRL 13w 22h ▰▰▰▰▰▰▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v1["<b>2.1 Not stated</b><br/>🗓️ IRL 6w 4d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
+        v1["<b>2.1 Gauntlight</b><br/>🗓️ IRL 3d 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v2["<b>2.2 Temple of the Canker</b><br/>🗓️ IRL 8w 14h ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v3["<b>2.3 Vast slimy cavern</b><br/>🗓️ IRL 4w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a2["3. Gauntlight · 🗓️ IRL 13w 22h ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a2["3. Otari · 🗓️ IRL 8w 14h ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v2["<b>3.1 Gauntlight</b><br/>🗓️ IRL 3d 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v3["<b>3.2 Temple of the Canker</b><br/>🗓️ IRL 8w 14h ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
-        v4["<b>3.3 Vast slimy cavern</b><br/>🗓️ IRL 4w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v4["<b>3.1 Mayor's Manor</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v5["<b>3.2 Entry hall</b><br/>🗓️ IRL 8w 13h ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a3["4. Otari · 🗓️ IRL 8w 14h ▰▰▰▰▰▰▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a3["4. Sandpoint · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v5["<b>4.1 Mayor's Manor</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v6["<b>4.2 Entry hall</b><br/>🗓️ IRL 8w 13h ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v6["<b>4.1 Sandpoint</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a4["5. Sandpoint · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a4["5. Gauntlight · 🗓️ IRL 13w 2d ▰▰▰▰▰▰▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v7["<b>5.1 Sandpoint</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v7["<b>5.1 Next room</b><br/>🗓️ IRL 13w 2d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
     end
-    subgraph a5["6. Gauntlight · 🗓️ IRL 13w 2d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a5["6. Black rock island · 🗓️ IRL 4w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v8["<b>6.1 Next room</b><br/>🗓️ IRL 13w 2d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v8["<b>6.1 Black rock island</b><br/>🗓️ IRL 4w 3d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a6["7. Black rock island · 🗓️ IRL 4w 3d ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a6["7. The Spirit Realm · 🗓️ IRL 11w 3d ▰▰▰▰▰▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v9["<b>7.1 Black rock island</b><br/>🗓️ IRL 4w 3d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v9["<b>7.1 The Spirit Realm</b><br/>🗓️ IRL 11w 3d ▰▰▰▰▰▰▰▰▰▱<br/>⏳ In-game ?"]
     end
-    subgraph a7["8. The Spirit Realm · 🗓️ IRL 11w 3d ▰▰▰▰▰▰▰▰▰▱ · ⏳ In-game ?"]
+    subgraph a7["8. Runewild · 🗓️ IRL 7w 5d ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v10["<b>8.1 The Spirit Realm</b><br/>🗓️ IRL 11w 3d ▰▰▰▰▰▰▰▰▰▱<br/>⏳ In-game ?"]
+        v10["<b>8.1 Pond of Holi</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a8["9. Runewild · 🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a8["9. Sandpoint · 🗓️ IRL 1d 21h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v11["<b>9.1 Pond of Holi</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v11["<b>9.1 Sandpoint</b><br/>🗓️ IRL 1d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a9["10. Sandpoint · 🗓️ IRL 1d 21h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a9["10. House of the Kobra · 🗓️ IRL 2w 1d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v12["<b>10.1 Sandpoint</b><br/>🗓️ IRL 1d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v12["<b>10.1 House of the Kobra</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a10["11. House of the Kobra · 🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a10["11. Osirion · 🗓️ IRL 2w 9h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v13["<b>11.1 House of the Kobra</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v13["<b>11.1 Beggar's subway</b><br/>🗓️ IRL 2w 9h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a11["12. Osirion · 🗓️ IRL 2w 9h ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a11["12. Eto · 🗓️ IRL 23w 2d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
-        v14["<b>12.1 Beggar's subway</b><br/>🗓️ IRL 2w 9h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v14["<b>12.1 University of Eto</b><br/>🗓️ IRL 2w 4d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v15["<b>12.2 Alchemy shop</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v16["<b>12.3 University of Eto</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v17["<b>12.4 Warehouse</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v18["<b>12.5 University of Eto</b><br/>🗓️ IRL 4d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v19["<b>12.6 Secret room</b><br/>🗓️ IRL 2d 13h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v20["<b>12.7 University of Eto</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v21["<b>12.8 Bath house</b><br/>🗓️ IRL 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v22["<b>12.9 The Dancing Dunes</b><br/>🗓️ IRL 4d 18h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v23["<b>12.10 House of the White Snake</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v24["<b>12.11 Selenor's room</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v25["<b>12.12 Pillars of the Sun</b><br/>🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v26["<b>12.13 Crater</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v27["<b>12.14 Ravenous black sphinx</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v28["<b>12.15 Chamber of Mektep-Han</b><br/>🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v29["<b>12.16 Living library</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v30["<b>12.17 Ravenous black sphinx</b><br/>🗓️ IRL 3d 19h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v31["<b>12.18 Desert outside the black sphinx</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v32["<b>12.19 Eto</b><br/>🗓️ IRL 1w 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v33["<b>12.20 The Dancing Dunes</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a12["13. Eto · 🗓️ IRL 9w 1d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
+    subgraph a12["13. Magnimar · 🗓️ IRL 5w 8h ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v15["<b>13.1 University of Eto</b><br/>🗓️ IRL 2w 4d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v16["<b>13.2 Alchemy shop</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v17["<b>13.3 University of Eto</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v18["<b>13.4 Warehouse</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v19["<b>13.5 University of Eto</b><br/>🗓️ IRL 4d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v20["<b>13.6 Secret room</b><br/>🗓️ IRL 2d 13h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v21["<b>13.7 University of Eto</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v22["<b>13.8 Bath house</b><br/>🗓️ IRL 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v23["<b>13.9 The Dancing Dunes</b><br/>🗓️ IRL 4d 18h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v34["<b>13.1 Magnimar</b><br/>🗓️ IRL 4w 8h ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v35["<b>13.2 Irespan</b><br/>🗓️ IRL 6d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v36["<b>13.3 Dream Parlour</b><br/>🗓️ IRL 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a13["14. House of the White Snake · 🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a13["14. The Dream Market · 🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v24["<b>14.1 House of the White Snake</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v25["<b>14.2 Selenor's room</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v37["<b>14.1 The Dream Market</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a14["15. Pillars of the Sun · 🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a14["15. The Nightmare Market · 🗓️ IRL 9w 1d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v26["<b>15.1 Pillars of the Sun</b><br/>🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v38["<b>15.1 The Nightmare Market</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v39["<b>15.2 Lighthouse Pit</b><br/>🗓️ IRL 7w 2h ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a15["16. Crater · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a15["16. Always One Step Ahead · 🗓️ IRL 5w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v27["<b>16.1 Crater</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v40["<b>16.1 Shop</b><br/>🗓️ IRL 4d 23h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v41["<b>16.2 Office / sleeping quarters</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a16["17. Ravenous black sphinx · 🗓️ IRL 9w 3d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
+    subgraph a16["17. Horse Forge · 🗓️ IRL 4w 2d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v28["<b>17.1 Ravenous black sphinx</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v29["<b>17.2 Chamber of Mektep-Han</b><br/>🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v30["<b>17.3 Living library</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v31["<b>17.4 Ravenous black sphinx</b><br/>🗓️ IRL 3d 19h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v32["<b>17.5 Desert outside the black sphinx</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v42["<b>17.1 Horse Forge</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a17["18. Eto · 🗓️ IRL 1w 4h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a17["18. The Harrow · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v33["<b>18.1 Eto</b><br/>🗓️ IRL 1w 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v34["<b>18.2 The Dancing Dunes</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v43["<b>18.1 Smith's Volcano</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a18["19. Magnimar · 🗓️ IRL 5w 8h ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a18["19. Magnimar · 🗓️ IRL 2w 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v35["<b>19.1 Magnimar</b><br/>🗓️ IRL 4w 8h ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v36["<b>19.2 Irespan</b><br/>🗓️ IRL 6d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v37["<b>19.3 Dream Parlour</b><br/>🗓️ IRL 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v44["<b>19.1 Cathedral of Abadar</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v45["<b>19.2 Naos district</b><br/>🗓️ IRL 2w 2h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a19["20. The Dream Market · 🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a19["20. Sandpoint · 🗓️ IRL 1d 19h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v38["<b>20.1 The Dream Market</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v46["<b>20.1 Sandpoint</b><br/>🗓️ IRL 1d 19h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a20["21. The Nightmare Market · 🗓️ IRL 9w 1d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
+    subgraph a20["21. Magnimar · 🗓️ IRL 2d 8h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v39["<b>21.1 The Nightmare Market</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v40["<b>21.2 Lighthouse Pit</b><br/>🗓️ IRL 7w 2h ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
+        v47["<b>21.1 Church of Pharasma</b><br/>🗓️ IRL 3h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v48["<b>21.2 Inside the Church</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v49["<b>21.3 Garden of Endings</b><br/>🗓️ IRL 2d 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a21["22. Always One Step Ahead · 🗓️ IRL 5w 3d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a21["22. Sandpoint · 🗓️ IRL 2d 13h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v41["<b>22.1 Shop</b><br/>🗓️ IRL 4d 23h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v42["<b>22.2 Office / sleeping quarters</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v50["<b>22.1 Sandpoint</b><br/>🗓️ IRL 2d 13h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a22["23. Horse Forge · 🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a22["23. Magnimar · 🗓️ IRL 2w 8h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v43["<b>23.1 Horse Forge</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v51["<b>23.1 Garden of Endings</b><br/>🗓️ IRL 2w 8h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a23["24. The Harrow · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a23["24. Professor Klyrthosh Umi Brelun's house · 🗓️ IRL 6d 20h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v44["<b>24.1 Smith's Volcano</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v52["<b>24.1 Professor Klyrthosh Umi Brelun's house</b><br/>🗓️ IRL 6d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a24["25. Magnimar · 🗓️ IRL 2w 2h ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a24["25. Magnimar · 🗓️ IRL 12w 1d ▰▰▰▰▰▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v45["<b>25.1 Cathedral of Abadar</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v46["<b>25.2 Naos district</b><br/>🗓️ IRL 2w 2h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v53["<b>25.1 Outside the temple of Pharasma</b><br/>🗓️ IRL 10w 3d ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
+        v54["<b>25.2 Main room</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a25["26. Sandpoint · 🗓️ IRL 1d 19h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a25["26. 4-storey townhouse · 🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v47["<b>26.1 Sandpoint</b><br/>🗓️ IRL 1d 19h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v55["<b>26.1 Hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v56["<b>26.2 Long rectangular room</b><br/>🗓️ IRL 1w 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v57["<b>26.3 Mage's sanctum</b><br/>🗓️ IRL 4d 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a26["27. Magnimar · 🗓️ IRL 2d 8h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a26["27. Anac-Toria · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v48["<b>27.1 Church of Pharasma</b><br/>🗓️ IRL 3h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v49["<b>27.2 Inside the Church</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v50["<b>27.3 Garden of Endings</b><br/>🗓️ IRL 2d 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v58["<b>27.1 Edge of town</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a27["28. Sandpoint · 🗓️ IRL 2d 13h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a27["28. Bog · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v51["<b>28.1 Sandpoint</b><br/>🗓️ IRL 2d 13h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v59["<b>28.1 Bog</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a28["29. Magnimar · 🗓️ IRL 2w 8h ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a28["29. Farmhouse · 🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v52["<b>29.1 Garden of Endings</b><br/>🗓️ IRL 2w 8h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v60["<b>29.1 Hallway</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v61["<b>29.2 Backroom</b><br/>🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a29["30. Professor Klyrthosh Umi Brelun's house · 🗓️ IRL 6d 20h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a29["30. Raven Grow · 🗓️ IRL 10w 21h ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v53["<b>30.1 Professor Klyrthosh Umi Brelun's house</b><br/>🗓️ IRL 6d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v62["<b>30.1 Raven Grow</b><br/>🗓️ IRL 6w 1d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
+        v63["<b>30.2 Outskirts</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a30["31. Temple of Pharasma · 🗓️ IRL 12w 1d ▰▰▰▰▰▰▰▰▰▱ · ⏳ In-game ?"]
+    subgraph a30["31. The Harrow · 🗓️ IRL 3w 6d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v54["<b>31.1 Outside the temple of Pharasma</b><br/>🗓️ IRL 10w 3d ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
-        v55["<b>31.2 Main room</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a31["32. 4-storey townhouse · 🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v56["<b>32.1 Hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v57["<b>32.2 Long rectangular room</b><br/>🗓️ IRL 1w 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v58["<b>32.3 Mage's sanctum</b><br/>🗓️ IRL 4d 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a32["33. Anac-Toria · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v59["<b>33.1 Edge of town</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a33["34. Bog · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v60["<b>34.1 Bog</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a34["35. Farmhouse · 🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v61["<b>35.1 Hallway</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v62["<b>35.2 Backroom</b><br/>🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a35["36. Raven Grow · 🗓️ IRL 10w 21h ▰▰▰▰▰▰▰▰▱▱ · ⏳ In-game ?"]
-    direction TB
-        v63["<b>36.1 Raven Grow</b><br/>🗓️ IRL 6w 1d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
-        v64["<b>36.2 Outskirts</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a36["37. The Harrow · 🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v65["<b>37.1 Smith's Volcano</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v64["<b>31.1 Smith's Volcano</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -248,17 +229,16 @@ flowchart TD
     v61 --> v62
     v62 --> v63
     v63 --> v64
-    v64 --> v65
 ```
 
-## 1. Before play
+## 1. Location not stated
 
-- 🗓️ **IRL:** 26 Aug 2023 to 27 Aug 2023, 4w 6d
+- 🗓️ **IRL:** 26 Aug 2023 to 30 Sep 2023, 11w 4d
 - ⏳ **In-game:** not all rooms filled in
 
-### 1.1 Setup posts
+### 1.1 Not stated
 
-- 🗓️ **IRL:** 26 Aug 2023 to 27 Aug 2023, 4w 6d, 96 posts
+- 🗓️ **IRL:** 26 Aug 2023 to 30 Sep 2023, 11w 4d, 100 posts
 - ⏳ **In-game:** not filled in (`"2023-08#1"` in `timelines/C01-Doomsday-Funtime.json`)
 
 **Events**
@@ -269,29 +249,16 @@ flowchart TD
 - 26 Aug: Amar surged into the air and punched the ground with flaming stone.
 - 26 Aug: Amar cut the sea creature's underbelly with a rapier strike.
 - 26 Aug: The creature dived into the ground and reappeared to strike Amar.
-
-## 2. Location not stated
-
-- 🗓️ **IRL:** 30 Sep 2023 to 30 Sep 2023, 6w 4d
-- ⏳ **In-game:** not all rooms filled in
-
-### 2.1 Not stated
-
-- 🗓️ **IRL:** 30 Sep 2023 to 30 Sep 2023, 6w 4d, 4 posts
-- ⏳ **In-game:** not filled in (`"2023-09#1"` in `timelines/C01-Doomsday-Funtime.json`)
-
-**Events**
-
 - 30 Sep: GM began Session 191 Gauntlight Part 2.
 - 30 Sep: Cardigan looked at the group and at Allissee and Selenor who had taken charge of the outing.
 - 30 Sep: Modwinn felt disturbed seeing Cardigan emotional, tried to reach for her hand, and looked to Selennor for guidance.
 
-## 3. Gauntlight
+## 2. Gauntlight
 
 - 🗓️ **IRL:** 16 Nov 2023 to 16 Feb 2024, 13w 22h
 - ⏳ **In-game:** not all rooms filled in
 
-### 3.1 Gauntlight
+### 2.1 Gauntlight
 
 - 🗓️ **IRL:** 16 Nov 2023 to 16 Nov 2023, 3d 1h, 2 posts
 - ⏳ **In-game:** not filled in (`"2023-11#1"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -301,7 +268,7 @@ flowchart TD
 - 16 Nov: GM opened Session 195 in Gauntlight.
 - 16 Nov: Selenor cast a sending spell for Amar asking Darkmoon if she was single.
 
-### 3.2 Temple of the Canker
+### 2.2 Temple of the Canker
 
 - 🗓️ **IRL:** 19 Nov 2023 to 15 Jan 2024, 8w 14h, 2 posts
 - ⏳ **In-game:** not filled in (`"2023-11#3"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -311,7 +278,7 @@ flowchart TD
 - 19 Nov: GM stated the location was the temple of the Canker.
 - 15 Jan: GM posted an empty message.
 
-### 3.3 Vast slimy cavern
+### 2.3 Vast slimy cavern
 
 - 🗓️ **IRL:** 15 Jan 2024 to 16 Feb 2024, 4w 4d, 7 posts
 - ⏳ **In-game:** not filled in (`"2024-01#2"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -326,12 +293,12 @@ flowchart TD
 - 15 Jan: Party asked about rubbish below and where it went from there.
 - 16 Feb: GM posted a blank message.
 
-## 4. Otari
+## 3. Otari
 
 - 🗓️ **IRL:** 16 Feb 2024 to 12 Apr 2024, 8w 14h
 - ⏳ **In-game:** not all rooms filled in
 
-### 4.1 Mayor's Manor
+### 3.1 Mayor's Manor
 
 - 🗓️ **IRL:** 16 Feb 2024 to 16 Feb 2024, <1h, 4 posts
 - ⏳ **In-game:** not filled in (`"2024-02#2"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -343,7 +310,7 @@ flowchart TD
 - 16 Feb: GM noted Nemesiux, Zutlieg and JimmyJackJones were in the manor.
 - 16 Feb: GM noted ritsu1409 was also present.
 
-### 4.2 Entry hall
+### 3.2 Entry hall
 
 - 🗓️ **IRL:** 16 Feb 2024 to 12 Apr 2024, 8w 13h, 43 posts
 - ⏳ **In-game:** not filled in (`"2024-02#6"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -365,12 +332,12 @@ flowchart TD
 - 12 Apr: Selenor grabbed the shards.
 - 12 Apr: Selenor said the party should go into the next room.
 
-## 5. Sandpoint
+## 4. Sandpoint
 
 - 🗓️ **IRL:** 12 Apr 2024 to 12 Apr 2024, <1h
 - ⏳ **In-game:** not all rooms filled in
 
-### 5.1 Sandpoint
+### 4.1 Sandpoint
 
 - 🗓️ **IRL:** 12 Apr 2024 to 12 Apr 2024, <1h, 1 posts
 - ⏳ **In-game:** not filled in (`"2024-04#10"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -380,12 +347,12 @@ flowchart TD
 - 12 Apr: Selenor wrote a letter explaining the negative effects of the lust shard rune.
 - 12 Apr: Selenor went through the Harrow to Sandpoint and handed the letter to Tomahawks.
 
-## 6. Gauntlight
+## 5. Gauntlight
 
 - 🗓️ **IRL:** 12 Apr 2024 to 29 Apr 2024, 13w 2d
 - ⏳ **In-game:** not all rooms filled in
 
-### 6.1 Next room
+### 5.1 Next room
 
 - 🗓️ **IRL:** 12 Apr 2024 to 29 Apr 2024, 13w 2d, 2 posts
 - ⏳ **In-game:** not filled in (`"2024-04#11"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -395,12 +362,12 @@ flowchart TD
 - 12 Apr: Selenor returned to the dungeon and ventured into the next room with the party.
 - 29 Apr: Selenor knocked on the door.
 
-## 7. Black rock island
+## 6. Black rock island
 
 - 🗓️ **IRL:** 15 Jul 2024 to 11 Aug 2024, 4w 3d
 - ⏳ **In-game:** not all rooms filled in
 
-### 7.1 Black rock island
+### 6.1 Black rock island
 
 - 🗓️ **IRL:** 15 Jul 2024 to 11 Aug 2024, 4w 3d, 32 posts
 - ⏳ **In-game:** not filled in (`"2024-07#1"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -415,12 +382,12 @@ flowchart TD
 - 19 Jul: Allisee conditionally accepted the deal and asked five questions.
 - 11 Aug: The GM posted the episode title.
 
-## 8. The Spirit Realm
+## 7. The Spirit Realm
 
 - 🗓️ **IRL:** 15 Aug 2024 to 4 Nov 2024, 11w 3d
 - ⏳ **In-game:** not all rooms filled in
 
-### 8.1 The Spirit Realm
+### 7.1 The Spirit Realm
 
 - 🗓️ **IRL:** 15 Aug 2024 to 4 Nov 2024, 11w 3d, 18 posts
 - ⏳ **In-game:** not filled in (`"2024-08#2"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -442,12 +409,12 @@ flowchart TD
 - 13 Oct: Selenor quoted his mother about asking or remaining silent forever.
 - 04 Nov: GM posted an empty message.
 
-## 9. Runewild
+## 8. Runewild
 
 - 🗓️ **IRL:** 4 Nov 2024 to 29 Dec 2024, 7w 5d
 - ⏳ **In-game:** not all rooms filled in
 
-### 9.1 Pond of Holi
+### 8.1 Pond of Holi
 
 - 🗓️ **IRL:** 4 Nov 2024 to 29 Dec 2024, 7w 5d, 45 posts
 - ⏳ **In-game:** not filled in (`"2024-11#2"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -468,12 +435,12 @@ flowchart TD
 - 20 Dec: Tammerhawk whispered into a sea shell of sending.
 - 20 Dec: Tammerhawk turned to the Rune Wheel and began casting.
 
-## 10. Sandpoint
+## 9. Sandpoint
 
 - 🗓️ **IRL:** 29 Dec 2024 to 30 Dec 2024, 1d 21h
 - ⏳ **In-game:** not all rooms filled in
 
-### 10.1 Sandpoint
+### 9.1 Sandpoint
 
 - 🗓️ **IRL:** 29 Dec 2024 to 30 Dec 2024, 1d 21h, 4 posts
 - ⏳ **In-game:** not filled in (`"2024-12#35"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -485,12 +452,12 @@ flowchart TD
 - 29 Dec: Keleri stepped into the room and commented on glass on the floor.
 - 30 Dec: The group got the artefacts.
 
-## 11. House of the Kobra
+## 10. House of the Kobra
 
 - 🗓️ **IRL:** 30 Dec 2024 to 12 Jan 2025, 2w 1d
 - ⏳ **In-game:** not all rooms filled in
 
-### 11.1 House of the Kobra
+### 10.1 House of the Kobra
 
 - 🗓️ **IRL:** 30 Dec 2024 to 12 Jan 2025, 2w 1d, 19 posts
 - ⏳ **In-game:** not filled in (`"2024-12#39"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -507,12 +474,12 @@ flowchart TD
 - 06 Jan: Selenor received two side quests about puppets and Sphere of Light Candle Magic.
 - 06 Jan: The group was told to complete Torch's other quests.
 
-## 12. Osirion
+## 11. Osirion
 
 - 🗓️ **IRL:** 15 Jan 2025 to 25 Jan 2025, 2w 9h
 - ⏳ **In-game:** not all rooms filled in
 
-### 12.1 Beggar's subway
+### 11.1 Beggar's subway
 
 - 🗓️ **IRL:** 15 Jan 2025 to 25 Jan 2025, 2w 9h, 21 posts
 - ⏳ **In-game:** not filled in (`"2025-01#17"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -527,12 +494,12 @@ flowchart TD
 - 15 Jan: Carnon asked where to start looking for the assassin.
 - 15 Jan: Selenor suggested making a deal to get info from the gang boss.
 
-## 13. Eto
+## 12. Eto
 
-- 🗓️ **IRL:** 29 Jan 2025 to 4 Apr 2025, 9w 1d
+- 🗓️ **IRL:** 29 Jan 2025 to 12 Jul 2025, 23w 2d
 - ⏳ **In-game:** not all rooms filled in
 
-### 13.1 University of Eto
+### 12.1 University of Eto
 
 - 🗓️ **IRL:** 29 Jan 2025 to 2 Feb 2025, 2w 4d, 8 posts
 - ⏳ **In-game:** not filled in (`"2025-01#38"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -544,7 +511,7 @@ flowchart TD
 - 01 Feb: GM started Eto part 6.
 - 02 Feb: Kaito sensed an assassin nearby, hid with the party, drank a potion and turned invisible to sneak around.
 
-### 13.2 Alchemy shop
+### 12.2 Alchemy shop
 
 - 🗓️ **IRL:** 17 Feb 2025 to 23 Mar 2025, 4w 5d, 14 posts
 - ⏳ **In-game:** not filled in (`"2025-02#8"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -562,7 +529,7 @@ flowchart TD
 - 23 Mar: The book was sent down.
 - 23 Mar: Received the book from a robed man who reentered the admin building while sand golems guarded the door.
 
-### 13.3 University of Eto
+### 12.3 University of Eto
 
 - 🗓️ **IRL:** 23 Mar 2025 to 23 Mar 2025, <1h, 10 posts
 - ⏳ **In-game:** not filled in (`"2025-03#9"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -576,7 +543,7 @@ flowchart TD
 - 23 Mar: Learned Wati was a city of Pharasma.
 - 23 Mar: Learned Wati was connected to cults of Nethys studying the unbinding spell.
 
-### 13.4 Warehouse
+### 12.4 Warehouse
 
 - 🗓️ **IRL:** 23 Mar 2025 to 23 Mar 2025, 2h, 73 posts
 - ⏳ **In-game:** not filled in (`"2025-03#19"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -590,7 +557,7 @@ flowchart TD
 - 23 Mar: Saw a scarab tucked below Professor Ionacu Lozar's shirt.
 - 23 Mar: Left while no one was watching.
 
-### 13.5 University of Eto
+### 12.5 University of Eto
 
 - 🗓️ **IRL:** 23 Mar 2025 to 24 Mar 2025, 4d 7h, 6 posts
 - ⏳ **In-game:** not filled in (`"2025-03#92"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -602,7 +569,7 @@ flowchart TD
 - 23 Mar: Made checks for the 1st and 2nd costing 8gp and 1gp as crits.
 - 24 Mar: Learnt the spells.
 
-### 13.6 Secret room
+### 12.6 Secret room
 
 - 🗓️ **IRL:** 27 Mar 2025 to 27 Mar 2025, 2d 13h, 3 posts
 - ⏳ **In-game:** not filled in (`"2025-03#98"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -613,7 +580,7 @@ flowchart TD
 - 27 Mar: Asked what information was still missing to know or steal the secret.
 - 27 Mar: Readied for his brothel shift, altered his appearance and made his way to the brothel.
 
-### 13.7 University of Eto
+### 12.7 University of Eto
 
 - 🗓️ **IRL:** 30 Mar 2025 to 30 Mar 2025, <1h, 3 posts
 - ⏳ **In-game:** not filled in (`"2025-03#101"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -626,7 +593,7 @@ flowchart TD
 - 30 Mar: Started the March 30th session with Anthony and Tony present.
 - 30 Mar: Asked what happened next.
 
-### 13.8 Bath house
+### 12.8 Bath house
 
 - 🗓️ **IRL:** 30 Mar 2025 to 30 Mar 2025, 7h, 17 posts
 - ⏳ **In-game:** not filled in (`"2025-03#104"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -640,7 +607,7 @@ flowchart TD
 - 30 Mar: Cardigan looked excited at the explanation.
 - 30 Mar: Showed an Ibis holy symbol and learned it was Thoth from Cardigan.
 
-### 13.9 The Dancing Dunes
+### 12.9 The Dancing Dunes
 
 - 🗓️ **IRL:** 30 Mar 2025 to 4 Apr 2025, 4d 18h, 12 posts
 - ⏳ **In-game:** not filled in (`"2025-03#121"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -654,12 +621,7 @@ flowchart TD
 - 04 Apr: GM explained each star point represented different beginnings and life sections.
 - 04 Apr: Selenor described birth, childhood, apprenticeship, marriage and new ventures.
 
-## 14. House of the White Snake
-
-- 🗓️ **IRL:** 4 Apr 2025 to 19 Apr 2025, 2w 1d
-- ⏳ **In-game:** not all rooms filled in
-
-### 14.1 House of the White Snake
+### 12.10 House of the White Snake
 
 - 🗓️ **IRL:** 4 Apr 2025 to 4 Apr 2025, <1h, 2 posts
 - ⏳ **In-game:** not filled in (`"2025-04#7"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -669,7 +631,7 @@ flowchart TD
 - 04 Apr: Selenor and the party returned from the temple of Alseta.
 - 04 Apr: The party talked to Torch in the house of the white snake.
 
-### 14.2 Selenor's room
+### 12.11 Selenor's room
 
 - 🗓️ **IRL:** 4 Apr 2025 to 19 Apr 2025, 2w 1d, 14 posts
 - ⏳ **In-game:** not filled in (`"2025-04#9"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -683,12 +645,7 @@ flowchart TD
 - 13 Apr: The party went to talk to Torch.
 - 13 Apr: Torch said gifting Madame Zelekhati a Sanditt could get an audience.
 
-## 15. Pillars of the Sun
-
-- 🗓️ **IRL:** 19 Apr 2025 to 20 Apr 2025, 1d 2h
-- ⏳ **In-game:** not all rooms filled in
-
-### 15.1 Pillars of the Sun
+### 12.12 Pillars of the Sun
 
 - 🗓️ **IRL:** 19 Apr 2025 to 20 Apr 2025, 1d 2h, 9 posts
 - ⏳ **In-game:** not filled in (`"2025-04#23"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -701,12 +658,7 @@ flowchart TD
 - 20 Apr: The party looted the corpse.
 - 20 Apr: The party gave the +2 staff to Selenor.
 
-## 16. Crater
-
-- 🗓️ **IRL:** 20 Apr 2025 to 20 Apr 2025, 1w 2d
-- ⏳ **In-game:** not all rooms filled in
-
-### 16.1 Crater
+### 12.13 Crater
 
 - 🗓️ **IRL:** 20 Apr 2025 to 20 Apr 2025, 1w 2d, 10 posts
 - ⏳ **In-game:** not filled in (`"2025-04#32"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -721,12 +673,7 @@ flowchart TD
 - 20 Apr: Carnon recorded 1 raw scar.
 - 20 Apr: Carnon said it had not been removed yet.
 
-## 17. Ravenous black sphinx
-
-- 🗓️ **IRL:** 29 Apr 2025 to 5 Jul 2025, 9w 3d
-- ⏳ **In-game:** not all rooms filled in
-
-### 17.1 Ravenous black sphinx
+### 12.14 Ravenous black sphinx
 
 - 🗓️ **IRL:** 29 Apr 2025 to 11 May 2025, 1w 4d, 24 posts
 - ⏳ **In-game:** not filled in (`"2025-04#42"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -743,7 +690,7 @@ flowchart TD
 - 11 May: Cardigan, Carnon, Selenor, Allisee, Viole, Haku Stormfan and Perphenius Galen defeated the test of the necromancer undead.
 - 11 May: Perphenius Galen joined the party and wounds were treated.
 
-### 17.2 Chamber of Mektep-Han
+### 12.15 Chamber of Mektep-Han
 
 - 🗓️ **IRL:** 11 May 2025 to 25 May 2025, 1w 6d, 24 posts
 - ⏳ **In-game:** not filled in (`"2025-05#22"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -757,7 +704,7 @@ flowchart TD
 - 11 May: Allisee suggested going to the second door.
 - 11 May: Selenor used the ancient skull to translate in ancient Osirion.
 
-### 17.3 Living library
+### 12.16 Living library
 
 - 🗓️ **IRL:** 25 May 2025 to 19 Jun 2025, 3w 6d, 26 posts
 - ⏳ **In-game:** not filled in (`"2025-05#46"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -774,7 +721,7 @@ flowchart TD
 - 18 Jun: Carnon asked about a door to the next challenge and what its guardian said.
 - 19 Jun: Carnon asked for the lore drop from the secret research.
 
-### 17.4 Ravenous black sphinx
+### 12.17 Ravenous black sphinx
 
 - 🗓️ **IRL:** 21 Jun 2025 to 24 Jun 2025, 3d 19h, 36 posts
 - ⏳ **In-game:** not filled in (`"2025-06#24"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -789,7 +736,7 @@ flowchart TD
 - 22 Jun: Professor Ionacu Lozar warned the party to keep the butterfly secret and not to lose it.
 - 22 Jun: Carnon started going for the exit to make way to the academy.
 
-### 17.5 Desert outside the black sphinx
+### 12.18 Desert outside the black sphinx
 
 - 🗓️ **IRL:** 24 Jun 2025 to 5 Jul 2025, 1w 3d, 15 posts
 - ⏳ **In-game:** not filled in (`"2025-06#60"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -807,12 +754,7 @@ flowchart TD
 - 04 Jul: The GM posted a Selenor versus Sanditt image.
 - 05 Jul: The GM posted the Eto part 18 session log.
 
-## 18. Eto
-
-- 🗓️ **IRL:** 5 Jul 2025 to 12 Jul 2025, 1w 4h
-- ⏳ **In-game:** not all rooms filled in
-
-### 18.1 Eto
+### 12.19 Eto
 
 - 🗓️ **IRL:** 5 Jul 2025 to 11 Jul 2025, 1w 2h, 11 posts
 - ⏳ **In-game:** not filled in (`"2025-07#8"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -825,7 +767,7 @@ flowchart TD
 - 05 Jul: The GM asked what the party does next.
 - 11 Jul: The GM posted an image.
 
-### 18.2 The Dancing Dunes
+### 12.20 The Dancing Dunes
 
 - 🗓️ **IRL:** 12 Jul 2025 to 12 Jul 2025, 2h, 3 posts
 - ⏳ **In-game:** not filled in (`"2025-07#19"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -838,12 +780,12 @@ flowchart TD
 - 12 Jul: The GM named Lord Kasmarck.
 - 12 Jul: Haku said Lord Kasmarck holds slaves for entertainment in Magnimar.
 
-## 19. Magnimar
+## 13. Magnimar
 
 - 🗓️ **IRL:** 12 Jul 2025 to 16 Aug 2025, 5w 8h
 - ⏳ **In-game:** not all rooms filled in
 
-### 19.1 Magnimar
+### 13.1 Magnimar
 
 - 🗓️ **IRL:** 12 Jul 2025 to 2 Aug 2025, 4w 8h, 54 posts
 - ⏳ **In-game:** not filled in (`"2025-07#22"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -862,7 +804,7 @@ flowchart TD
 - 02 Aug: Allisee called the foe a chaos golem, not a law golem.
 - 02 Aug: Selenor joked about a date with Koromun.
 
-### 19.2 Irespan
+### 13.2 Irespan
 
 - 🗓️ **IRL:** 9 Aug 2025 to 16 Aug 2025, 6d 20h, 169 posts
 - ⏳ **In-game:** not filled in (`"2025-08#12"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -877,7 +819,7 @@ flowchart TD
 - 13 Aug: The golem stepped forward and hit and critically hit Carnon.
 - 16 Aug: Haku asked Vaasha what brought him there and spoke with him and Cardigan.
 
-### 19.3 Dream Parlour
+### 13.3 Dream Parlour
 
 - 🗓️ **IRL:** 16 Aug 2025 to 16 Aug 2025, 4h, 23 posts
 - ⏳ **In-game:** not filled in (`"2025-08#181"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -892,12 +834,12 @@ flowchart TD
 - 16 Aug: Allisee brewed tea and the party handed it out, stabilising the mindscapes.
 - 16 Aug: The party learned many people were having nightmares of vermin.
 
-## 20. The Dream Market
+## 14. The Dream Market
 
 - 🗓️ **IRL:** 16 Aug 2025 to 16 Aug 2025, 2h
 - ⏳ **In-game:** not all rooms filled in
 
-### 20.1 The Dream Market
+### 14.1 The Dream Market
 
 - 🗓️ **IRL:** 16 Aug 2025 to 16 Aug 2025, 2h, 7 posts
 - ⏳ **In-game:** not filled in (`"2025-08#204"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -909,12 +851,12 @@ flowchart TD
 - 16 Aug: Haku posted checks toward the Dream Market tasks.
 - 16 Aug: Carnon posted checks toward the Dream Market tasks.
 
-## 21. The Nightmare Market
+## 15. The Nightmare Market
 
 - 🗓️ **IRL:** 16 Aug 2025 to 20 Oct 2025, 9w 1d
 - ⏳ **In-game:** not all rooms filled in
 
-### 21.1 The Nightmare Market
+### 15.1 The Nightmare Market
 
 - 🗓️ **IRL:** 16 Aug 2025 to 1 Sep 2025, 2w 1d, 44 posts
 - ⏳ **In-game:** not filled in (`"2025-08#211"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -929,7 +871,7 @@ flowchart TD
 - 28 Aug: Everyone experienced a shared telepathic experience.
 - 01 Sep: Allisee's stargazing story was recounted.
 
-### 21.2 Lighthouse Pit
+### 15.2 Lighthouse Pit
 
 - 🗓️ **IRL:** 1 Sep 2025 to 20 Oct 2025, 7w 2h, 62 posts
 - ⏳ **In-game:** not filled in (`"2025-09#2"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -949,12 +891,12 @@ flowchart TD
 - 19 Oct: The party passed out.
 - 20 Oct: Moss won initiative with 41.
 
-## 22. Always One Step Ahead
+## 16. Always One Step Ahead
 
 - 🗓️ **IRL:** 20 Oct 2025 to 15 Nov 2025, 5w 3d
 - ⏳ **In-game:** not all rooms filled in
 
-### 22.1 Shop
+### 16.1 Shop
 
 - 🗓️ **IRL:** 20 Oct 2025 to 25 Oct 2025, 4d 23h, 47 posts
 - ⏳ **In-game:** not filled in (`"2025-10#16"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -969,7 +911,7 @@ flowchart TD
 - 20 Oct: Mortigus started suffocating from throat slash.
 - 25 Oct: Alla escaped with translocate and the party stole harrow decks and harrowing materials.
 
-### 22.2 Office / sleeping quarters
+### 16.2 Office / sleeping quarters
 
 - 🗓️ **IRL:** 25 Oct 2025 to 15 Nov 2025, 4w 5d, 24 posts
 - ⏳ **In-game:** not filled in (`"2025-10#63"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -987,12 +929,12 @@ flowchart TD
 - 14 Nov: Exchanged out-of-character remarks about a tea off.
 - 15 Nov: Carnon shifted stance to Gaze Sharp as Steel at the start of combat.
 
-## 23. Horse Forge
+## 17. Horse Forge
 
 - 🗓️ **IRL:** 27 Nov 2025 to 23 Dec 2025, 4w 2d
 - ⏳ **In-game:** not all rooms filled in
 
-### 23.1 Horse Forge
+### 17.1 Horse Forge
 
 - 🗓️ **IRL:** 27 Nov 2025 to 23 Dec 2025, 4w 2d, 30 posts
 - ⏳ **In-game:** not filled in (`"2025-11#13"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1008,12 +950,12 @@ flowchart TD
 - 22 Dec: The party got the carnival card.
 - 23 Dec: Selenor sensed Amar Rookmoon through the Harrow card.
 
-## 24. The Harrow
+## 18. The Harrow
 
 - 🗓️ **IRL:** 27 Dec 2025 to 27 Dec 2025, <1h
 - ⏳ **In-game:** not all rooms filled in
 
-### 24.1 Smith's Volcano
+### 18.1 Smith's Volcano
 
 - 🗓️ **IRL:** 27 Dec 2025 to 27 Dec 2025, <1h, 1 posts
 - ⏳ **In-game:** not filled in (`"2025-12#29"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1026,12 +968,12 @@ flowchart TD
 - 27 Dec: The party travelled to Smith's Volcano to find the Ticktock Man.
 - 27 Dec: Selenor talked to Voricose the Harrow Cyclops bartender.
 
-## 25. Magnimar
+## 19. Magnimar
 
 - 🗓️ **IRL:** 27 Dec 2025 to 10 Jan 2026, 2w 2h
 - ⏳ **In-game:** not all rooms filled in
 
-### 25.1 Cathedral of Abadar
+### 19.1 Cathedral of Abadar
 
 - 🗓️ **IRL:** 27 Dec 2025 to 27 Dec 2025, <1h, 2 posts
 - ⏳ **In-game:** not filled in (`"2025-12#30"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1041,7 +983,7 @@ flowchart TD
 - 27 Dec: The buying and selling concluded.
 - 27 Dec: The party left the cathedral.
 
-### 25.2 Naos district
+### 19.2 Naos district
 
 - 🗓️ **IRL:** 27 Dec 2025 to 10 Jan 2026, 2w 2h, 10 posts
 - ⏳ **In-game:** not filled in (`"2025-12#32"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1056,12 +998,12 @@ flowchart TD
 - 03 Jan: Cardigan mentioned a new dragon friend to Allisee.
 - 08 Jan: Cardigan flicked porridge at Allisee and Selenor and asked Carnon why everyone was quiet.
 
-## 26. Sandpoint
+## 20. Sandpoint
 
 - 🗓️ **IRL:** 10 Jan 2026 to 10 Jan 2026, 1d 19h
 - ⏳ **In-game:** not all rooms filled in
 
-### 26.1 Sandpoint
+### 20.1 Sandpoint
 
 - 🗓️ **IRL:** 10 Jan 2026 to 10 Jan 2026, 1d 19h, 4 posts
 - ⏳ **In-game:** not filled in (`"2026-01#8"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1074,12 +1016,12 @@ flowchart TD
 - 10 Jan: The party was asked if they would go to the temple of Pharasma.
 - 10 Jan: Selenor agreed to go.
 
-## 27. Magnimar
+## 21. Magnimar
 
 - 🗓️ **IRL:** 12 Jan 2026 to 13 Jan 2026, 2d 8h
 - ⏳ **In-game:** not all rooms filled in
 
-### 27.1 Church of Pharasma
+### 21.1 Church of Pharasma
 
 - 🗓️ **IRL:** 12 Jan 2026 to 12 Jan 2026, 3h, 30 posts
 - ⏳ **In-game:** not filled in (`"2026-01#12"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1092,7 +1034,7 @@ flowchart TD
 - 12 Jan: The Plague Doctor said the High Mourner awaited in the Garden of Endings and told the party to follow.
 - 12 Jan: The doors swung open as the Plague Doctor turned.
 
-### 27.2 Inside the Church
+### 21.2 Inside the Church
 
 - 🗓️ **IRL:** 12 Jan 2026 to 12 Jan 2026, <1h, 17 posts
 - ⏳ **In-game:** not filled in (`"2026-01#42"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1104,7 +1046,7 @@ flowchart TD
 - 12 Jan: The occupants stopped and stared at the group.
 - 12 Jan: The party went through the door and consecrated passage toward the Garden.
 
-### 27.3 Garden of Endings
+### 21.3 Garden of Endings
 
 - 🗓️ **IRL:** 12 Jan 2026 to 13 Jan 2026, 2d 5h, 24 posts
 - ⏳ **In-game:** not filled in (`"2026-01#59"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1116,12 +1058,12 @@ flowchart TD
 - 12 Jan: Kethran Mournhollow said the High Mourner's soul was contested and the plague was a tether.
 - 12 Jan: Kethran said the professor friend was dead and the party must complete what was left undone.
 
-## 28. Sandpoint
+## 22. Sandpoint
 
 - 🗓️ **IRL:** 14 Jan 2026 to 14 Jan 2026, 2d 13h
 - ⏳ **In-game:** not all rooms filled in
 
-### 28.1 Sandpoint
+### 22.1 Sandpoint
 
 - 🗓️ **IRL:** 14 Jan 2026 to 14 Jan 2026, 2d 13h, 1 posts
 - ⏳ **In-game:** not filled in (`"2026-01#83"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1130,12 +1072,12 @@ flowchart TD
 
 - 14 Jan: Taru'kara arrived in Sandpoint by teleportation circle from Magnimar.
 
-## 29. Magnimar
+## 23. Magnimar
 
 - 🗓️ **IRL:** 16 Jan 2026 to 31 Jan 2026, 2w 8h
 - ⏳ **In-game:** not all rooms filled in
 
-### 29.1 Garden of Endings
+### 23.1 Garden of Endings
 
 - 🗓️ **IRL:** 16 Jan 2026 to 31 Jan 2026, 2w 8h, 58 posts
 - ⏳ **In-game:** not filled in (`"2026-01#84"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1150,12 +1092,12 @@ flowchart TD
 - 23 Jan: Keleri passed a map to the group.
 - 24 Jan: Selenor crafted a holy item of Sarenrae using Leda's blood.
 
-## 30. Professor Klyrthosh Umi Brelun's house
+## 24. Professor Klyrthosh Umi Brelun's house
 
 - 🗓️ **IRL:** 31 Jan 2026 to 7 Feb 2026, 6d 20h
 - ⏳ **In-game:** not all rooms filled in
 
-### 30.1 Professor Klyrthosh Umi Brelun's house
+### 24.1 Professor Klyrthosh Umi Brelun's house
 
 - 🗓️ **IRL:** 31 Jan 2026 to 7 Feb 2026, 6d 20h, 14 posts
 - ⏳ **In-game:** not filled in (`"2026-01#142"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1170,12 +1112,12 @@ flowchart TD
 - 07 Feb: GM stated the in-game location and date.
 - 07 Feb: GM said the party were going to the temple of Pharasma.
 
-## 31. Temple of Pharasma
+## 25. Magnimar
 
 - 🗓️ **IRL:** 7 Feb 2026 to 3 May 2026, 12w 1d
 - ⏳ **In-game:** not all rooms filled in
 
-### 31.1 Outside the temple of Pharasma
+### 25.1 Outside the temple of Pharasma
 
 - 🗓️ **IRL:** 7 Feb 2026 to 21 Apr 2026, 10w 3d, 100 posts
 - ⏳ **In-game:** not filled in (`"2026-02#5"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1200,7 +1142,7 @@ flowchart TD
 - 21 Apr: GM pinged three players. [↗](https://t.me/Path_Wars/25059/146843)
 - 21 Apr: Player asked for scene description and whether it was the same day. [↗](https://t.me/Path_Wars/25059/146864)
 
-### 31.2 Main room
+### 25.2 Main room
 
 - 🗓️ **IRL:** 21 Apr 2026 to 3 May 2026, 1w 4d, 17 posts
 - ⏳ **In-game:** not filled in (`"2026-04#9"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1219,12 +1161,12 @@ flowchart TD
 - 03 May: GM asked the party what they said to Anikia Dom. [↗](https://t.me/Path_Wars/25059/150374)
 - 03 May: GM asked if the party stepped into the room. [↗](https://t.me/Path_Wars/25059/150429)
 
-## 32. 4-storey townhouse
+## 26. 4-storey townhouse
 
 - 🗓️ **IRL:** 3 May 2026 to 15 May 2026, 1w 4d
 - ⏳ **In-game:** not all rooms filled in
 
-### 32.1 Hallway
+### 26.1 Hallway
 
 - 🗓️ **IRL:** 3 May 2026 to 3 May 2026, <1h, 1 posts
 - ⏳ **In-game:** not filled in (`"2026-05#7"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1233,7 +1175,7 @@ flowchart TD
 
 - 03 May: GM stated the party was in the hallway of the townhouse. [↗](https://t.me/Path_Wars/25059/150430)
 
-### 32.2 Long rectangular room
+### 26.2 Long rectangular room
 
 - 🗓️ **IRL:** 3 May 2026 to 10 May 2026, 1w 9h, 62 posts
 - ⏳ **In-game:** not filled in (`"2026-05#8"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1247,7 +1189,7 @@ flowchart TD
 - 10 May: Anikia explained bog mummies and the missing oldest mummy. [↗](https://t.me/Path_Wars/25059/152275)
 - 10 May: Anikia told the party to follow her down the hallway. [↗](https://t.me/Path_Wars/25059/152305)
 
-### 32.3 Mage's sanctum
+### 26.3 Mage's sanctum
 
 - 🗓️ **IRL:** 10 May 2026 to 15 May 2026, 4d 4h, 123 posts
 - ⏳ **In-game:** not filled in (`"2026-05#70"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1261,12 +1203,12 @@ flowchart TD
 - 11 May: Anikia said Paradise agents had the mummy. [↗](https://t.me/Path_Wars/25059/152407)
 - 12 May: Anikia tasked head engineer Landon with the expedition. [↗](https://t.me/Path_Wars/25059/153105)
 
-## 33. Anac-Toria
+## 27. Anac-Toria
 
 - 🗓️ **IRL:** 15 May 2026 to 15 May 2026, <1h
 - ⏳ **In-game:** not all rooms filled in
 
-### 33.1 Edge of town
+### 27.1 Edge of town
 
 - 🗓️ **IRL:** 15 May 2026 to 15 May 2026, <1h, 9 posts
 - ⏳ **In-game:** not filled in (`"2026-05#193"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1277,12 +1219,12 @@ flowchart TD
 - 15 May: The group reached the edge of town. [↗](https://t.me/Path_Wars/25059/153762)
 - 15 May: GM said the bog lay beyond. [↗](https://t.me/Path_Wars/25059/153763)
 
-## 34. Bog
+## 28. Bog
 
 - 🗓️ **IRL:** 15 May 2026 to 24 May 2026, 1w 2d
 - ⏳ **In-game:** not all rooms filled in
 
-### 34.1 Bog
+### 28.1 Bog
 
 - 🗓️ **IRL:** 15 May 2026 to 24 May 2026, 1w 2d, 43 posts
 - ⏳ **In-game:** not filled in (`"2026-05#202"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1296,12 +1238,12 @@ flowchart TD
 - 23 May: Selenor said he was going in to the farmhouse. [↗](https://t.me/Path_Wars/25059/155281)
 - 24 May: The party walked down the road approaching the farmhouse. [↗](https://t.me/Path_Wars/25059/155790)
 
-## 35. Farmhouse
+## 29. Farmhouse
 
 - 🗓️ **IRL:** 24 May 2026 to 1 Jun 2026, 1w 6d
 - ⏳ **In-game:** not all rooms filled in
 
-### 35.1 Hallway
+### 29.1 Hallway
 
 - 🗓️ **IRL:** 24 May 2026 to 25 May 2026, 2h, 20 posts
 - ⏳ **In-game:** not filled in (`"2026-05#245"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1313,7 +1255,7 @@ flowchart TD
 - 25 May: GM noted light coming from down the hall around a corner. [↗](https://t.me/Path_Wars/25059/156126)
 - 25 May: GM said the group saw two sets of footprints. [↗](https://t.me/Path_Wars/25059/156133)
 
-### 35.2 Backroom
+### 29.2 Backroom
 
 - 🗓️ **IRL:** 25 May 2026 to 1 Jun 2026, 1w 6d, 187 posts
 - ⏳ **In-game:** not filled in (`"2026-05#265"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1329,12 +1271,12 @@ flowchart TD
 - 25 May: Lady Vex left and the party discussed taking Otto to the sheriff. [↗](https://t.me/Path_Wars/25059/156407)
 - 01 Jun: GM started Session 279 in the farm house with Selenor and Carnon present. [↗](https://t.me/Path_Wars/25059/157765)
 
-## 36. Raven Grow
+## 30. Raven Grow
 
 - 🗓️ **IRL:** 7 Jun 2026 to 16 Aug 2026, 10w 21h
 - ⏳ **In-game:** not all rooms filled in
 
-### 36.1 Raven Grow
+### 30.1 Raven Grow
 
 - 🗓️ **IRL:** 7 Jun 2026 to 19 Jul 2026, 6w 1d, 51 posts
 - ⏳ **In-game:** not filled in (`"2026-06#2"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1355,7 +1297,7 @@ flowchart TD
 - 16 Jul: Fuzzy described character build edits in the wrong topic. [↗](https://t.me/Path_Wars/25059/167418)
 - 19 Jul: The GM recapped session 283 in Raven Grow on Day 3/30 at 12:30pm. [↗](https://t.me/Path_Wars/25059/167912)
 
-### 36.2 Outskirts
+### 30.2 Outskirts
 
 - 🗓️ **IRL:** 20 Jul 2026 to 16 Aug 2026, 3w 6d, 122 posts
 - ⏳ **In-game:** not filled in (`"2026-07#44"` in `timelines/C01-Doomsday-Funtime.json`)
@@ -1376,12 +1318,12 @@ flowchart TD
 - 10 Aug: The party learned occult energy was clinging to Pevrin. [↗](https://t.me/Path_Wars/25059/171374)
 - 10 Aug: Pevrin ran out the door to play. [↗](https://t.me/Path_Wars/25059/171408)
 
-## 37. The Harrow
+## 31. The Harrow
 
 - 🗓️ **IRL:** 16 Aug 2026 to 13 Sep 2026, 3w 6d
 - ⏳ **In-game:** not all rooms filled in
 
-### 37.1 Smith's Volcano
+### 31.1 Smith's Volcano
 
 - 🗓️ **IRL:** 16 Aug 2026 to 13 Sep 2026, 3w 6d, 41 posts
 - ⏳ **In-game:** not filled in (`"2026-08#61"` in `timelines/C01-Doomsday-Funtime.json`)
