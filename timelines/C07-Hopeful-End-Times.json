@@ -1754,5 +1754,15 @@
   },
   "in_game": {},
   "renames": {},
-  "area_renames": {}
+  "area_renames": {
+    "area 1": "The Ghost Levels",
+    "rectangular hallway": "The Ghost Levels",
+    "hover train platform station": "The Ghost Levels",
+    "room 2": "The Ghost Levels",
+    "area 3": "The Ghost Levels",
+    "hall of statues": "The Ghost Levels",
+    "Area 9": "The Ghost Levels",
+    "final unexplored, sealed room": "The Ghost Levels",
+    "CASTLE COUNTING": "Castle Counting"
+  }
 }

@@ -36,106 +36,85 @@ flowchart TD
     direction TB
         v7["<b>7.1 The speed lift</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a7["8. Area 1 · 🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a7["8. The Ghost Levels · 🗓️ IRL 21w 1d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
         v8["<b>8.1 The corridor</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v9["<b>8.2 Computer station</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v10["<b>8.3 Hover train platform station</b><br/>🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v11["<b>8.4 Unrendered room of darkness</b><br/>🗓️ IRL 4d 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v12["<b>8.5 Hot vent room</b><br/>🗓️ IRL 3d 6h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v13["<b>8.6 The hallway</b><br/>🗓️ IRL 5w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v14["<b>8.7 In front of the chest</b><br/>🗓️ IRL 2w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v15["<b>8.8 Platform</b><br/>🗓️ IRL 7w 3d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v16["<b>8.9 Hall of statues</b><br/>🗓️ IRL 6d 22h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v17["<b>8.10 Maintenance Bay</b><br/>🗓️ IRL 4d 10h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v18["<b>8.11 3D planetary observatory</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a8["9. Rectangular hallway · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a8["9. The speed lift · 🗓️ IRL 4d 15h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v9["<b>9.1 Computer station</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v19["<b>9.1 The speed lift</b><br/>🗓️ IRL 4d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a9["10. Hover train platform station · 🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a9["10. Little Akiton · 🗓️ IRL 4d 7h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v10["<b>10.1 Hover train platform station</b><br/>🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v20["<b>10.1 Little Akiton</b><br/>🗓️ IRL 4d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a10["11. Room 2 · 🗓️ IRL 4d 1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a10["11. Arta's apartment building · 🗓️ IRL 1w 5d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v11["<b>11.1 Unrendered room of darkness</b><br/>🗓️ IRL 4d 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v21["<b>11.1 Arta's apartment building</b><br/>🗓️ IRL 1w 5d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a11["12. Area 3 · 🗓️ IRL 16w 2d ▰▰▰▰▰▰▰▰▱▱ · ⏳ In-game ?"]
+    subgraph a11["12. Junkyard · 🗓️ IRL 1w 15h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v12["<b>12.1 Hot vent room</b><br/>🗓️ IRL 3d 6h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v13["<b>12.2 The hallway</b><br/>🗓️ IRL 5w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v14["<b>12.3 In front of the chest</b><br/>🗓️ IRL 2w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v15["<b>12.4 Platform</b><br/>🗓️ IRL 7w 3d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v22["<b>12.1 Junkyard</b><br/>🗓️ IRL 1w 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a12["13. Hall of statues · 🗓️ IRL 6d 22h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a12["13. Manee's bodega · 🗓️ IRL 21w 5d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
-        v16["<b>13.1 Hall of statues</b><br/>🗓️ IRL 6d 22h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v23["<b>13.1 Shop</b><br/>🗓️ IRL 2d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v24["<b>13.2 Storage basement</b><br/>🗓️ IRL 9w 5d ▰▰▰▰▰▰▰▱▱▱<br/>⏳ In-game ?"]
+        v25["<b>13.3 Shop</b><br/>🗓️ IRL 11w 4d ▰▰▰▰▰▰▰▰▰▱<br/>⏳ In-game ?"]
     end
-    subgraph a13["14. Area 9 · 🗓️ IRL 4d 10h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a13["14. Little Akiton · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v17["<b>14.1 Maintenance Bay</b><br/>🗓️ IRL 4d 10h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v26["<b>14.1 Little Akiton</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a14["15. Final unexplored, sealed room · 🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a14["15. Castle Counting · 🗓️ IRL 3w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v18["<b>15.1 3D planetary observatory</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v27["<b>15.1 Shop</b><br/>🗓️ IRL 3w 3d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a15["16. The speed lift · 🗓️ IRL 4d 15h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a15["16. AbadarCorp Courier Housing Block 7 · 🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v19["<b>16.1 The speed lift</b><br/>🗓️ IRL 4d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v28["<b>16.1 AbadarCorp Courier Housing Block 7</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a16["17. Little Akiton · 🗓️ IRL 4d 7h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a16["17. A lift · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v20["<b>17.1 Little Akiton</b><br/>🗓️ IRL 4d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v29["<b>17.1 A lift</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a17["18. Arta's apartment building · 🗓️ IRL 1w 5d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a17["18. Corridors · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v21["<b>18.1 Arta's apartment building</b><br/>🗓️ IRL 1w 5d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v30["<b>18.1 Corridors</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a18["19. Junkyard · 🗓️ IRL 1w 15h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a18["19. The Docks · 🗓️ IRL 7w 5d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v22["<b>19.1 Junkyard</b><br/>🗓️ IRL 1w 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v31["<b>19.1 Dock 3</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a19["20. Manee's bodega · 🗓️ IRL 21w 5d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a19["20. Community centre · 🗓️ IRL 4w 4d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v23["<b>20.1 Shop</b><br/>🗓️ IRL 2d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v24["<b>20.2 Storage basement</b><br/>🗓️ IRL 9w 5d ▰▰▰▰▰▰▰▱▱▱<br/>⏳ In-game ?"]
-        v25["<b>20.3 Shop</b><br/>🗓️ IRL 11w 4d ▰▰▰▰▰▰▰▰▰▱<br/>⏳ In-game ?"]
+        v32["<b>20.1 The front room</b><br/>🗓️ IRL 4w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a20["21. Little Akiton · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a20["21. Little Akiton · 🗓️ IRL 5d 5h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v26["<b>21.1 Little Akiton</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v33["<b>21.1 Little Akiton</b><br/>🗓️ IRL 5d 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a21["22. CASTLE COUNTING · 🗓️ IRL 3w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a21["22. Sunny-6's Diner · 🗓️ IRL 4w 1d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v27["<b>22.1 Shop</b><br/>🗓️ IRL 3w 3d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v34["<b>22.1 Sunny-6's Diner</b><br/>🗓️ IRL 4w 1d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a22["23. AbadarCorp Courier Housing Block 7 · 🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a22["23. Junkyard · 🗓️ IRL 7w 5d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v28["<b>23.1 AbadarCorp Courier Housing Block 7</b><br/>🗓️ IRL 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v35["<b>23.1 Junkyard</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a23["24. A lift · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a23["24. Small bunker · 🗓️ IRL 3w 1d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v29["<b>24.1 A lift</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a24["25. Corridors · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v30["<b>25.1 Corridors</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a25["26. The Docks · 🗓️ IRL 7w 5d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v31["<b>26.1 Dock 3</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a26["27. Community centre · 🗓️ IRL 4w 4d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v32["<b>27.1 The front room</b><br/>🗓️ IRL 4w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a27["28. Little Akiton · 🗓️ IRL 5d 5h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v33["<b>28.1 Little Akiton</b><br/>🗓️ IRL 5d 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a28["29. Sunny-6's Diner · 🗓️ IRL 4w 1d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v34["<b>29.1 Sunny-6's Diner</b><br/>🗓️ IRL 4w 1d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a29["30. Junkyard · 🗓️ IRL 7w 5d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v35["<b>30.1 Junkyard</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a30["31. Small bunker · 🗓️ IRL 3w 1d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v36["<b>31.1 Small bunker</b><br/>🗓️ IRL 3w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v36["<b>24.1 Small bunker</b><br/>🗓️ IRL 3w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -314,9 +293,9 @@ flowchart TD
 - 09 Mar: Met Kessel after golden wormhole appeared.
 - 10 Mar: Met Chua after reality distortion in the elevator.
 
-## 8. Area 1
+## 8. The Ghost Levels
 
-- 🗓️ **IRL:** 11 Mar 2025 to 18 Mar 2025, 1w 1d
+- 🗓️ **IRL:** 11 Mar 2025 to 7 Aug 2025, 21w 1d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 8.1 The corridor
@@ -333,12 +312,7 @@ flowchart TD
 - 14 Mar: Learned the corridor was area 1.
 - 14 Mar: Livy built an assassin rifle from robot parts.
 
-## 9. Rectangular hallway
-
-- 🗓️ **IRL:** 19 Mar 2025 to 19 Mar 2025, <1h
-- ⏳ **In-game:** not all rooms filled in
-
-### 9.1 Computer station
+### 8.2 Computer station
 
 - 🗓️ **IRL:** 19 Mar 2025 to 19 Mar 2025, <1h, 12 posts
 - ⏳ **In-game:** not filled in (`"2025-03#279"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -351,12 +325,7 @@ flowchart TD
 - 19 Mar: Watched screens react to the presence.
 - 19 Mar: Were blinded by bright screens and beeping.
 
-## 10. Hover train platform station
-
-- 🗓️ **IRL:** 19 Mar 2025 to 19 Mar 2025, 9h
-- ⏳ **In-game:** not all rooms filled in
-
-### 10.1 Hover train platform station
+### 8.3 Hover train platform station
 
 - 🗓️ **IRL:** 19 Mar 2025 to 19 Mar 2025, 9h, 27 posts
 - ⏳ **In-game:** not filled in (`"2025-03#291"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -368,12 +337,7 @@ flowchart TD
 - 19 Mar: Learned party stood mesmerised while Livy faded.
 - 19 Mar: Planned to follow simulation path down stairs.
 
-## 11. Room 2
-
-- 🗓️ **IRL:** 20 Mar 2025 to 24 Mar 2025, 4d 1h
-- ⏳ **In-game:** not all rooms filled in
-
-### 11.1 Unrendered room of darkness
+### 8.4 Unrendered room of darkness
 
 - 🗓️ **IRL:** 20 Mar 2025 to 24 Mar 2025, 4d 1h, 159 posts
 - ⏳ **In-game:** not filled in (`"2025-03#318"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -387,12 +351,7 @@ flowchart TD
 - 22 Mar: Opened door marked AREA 3.
 - 24 Mar: Jammed doors open after spotting magnetism.
 
-## 12. Area 3
-
-- 🗓️ **IRL:** 24 Mar 2025 to 16 Jul 2025, 16w 2d
-- ⏳ **In-game:** not all rooms filled in
-
-### 12.1 Hot vent room
+### 8.5 Hot vent room
 
 - 🗓️ **IRL:** 24 Mar 2025 to 26 Mar 2025, 3d 6h, 24 posts
 - ⏳ **In-game:** not filled in (`"2025-03#477"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -404,7 +363,7 @@ flowchart TD
 - 25 Mar: Disabled vents by repair.
 - 26 Mar: Prepared to advance down the corridor.
 
-### 12.2 The hallway
+### 8.6 The hallway
 
 - 🗓️ **IRL:** 27 Mar 2025 to 3 May 2025, 5w 4d, 131 posts
 - ⏳ **In-game:** not filled in (`"2025-03#501"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -428,7 +387,7 @@ flowchart TD
 - 03 May: Lysae reached the top of the ladder.
 - 03 May: Lysae climbed back down and reported a chest in the corner.
 
-### 12.3 In front of the chest
+### 8.7 In front of the chest
 
 - 🗓️ **IRL:** 5 May 2025 to 20 May 2025, 2w 5d, 44 posts
 - ⏳ **In-game:** not filled in (`"2025-05#15"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -442,7 +401,7 @@ flowchart TD
 - 14 May: An attacker died from Chua telekinetic projectile.
 - 15 May: Combat ended and the party earned hero points and chest loot.
 
-### 12.4 Platform
+### 8.8 Platform
 
 - 🗓️ **IRL:** 25 May 2025 to 16 Jul 2025, 7w 3d, 111 posts
 - ⏳ **In-game:** not filled in (`"2025-05#59"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -466,12 +425,7 @@ flowchart TD
 - 10 Jul: Fungus showed vision of planets collapsing.
 - 11 Jul: Altar turned to ash.
 
-## 13. Hall of statues
-
-- 🗓️ **IRL:** 16 Jul 2025 to 23 Jul 2025, 6d 22h
-- ⏳ **In-game:** not all rooms filled in
-
-### 13.1 Hall of statues
+### 8.9 Hall of statues
 
 - 🗓️ **IRL:** 16 Jul 2025 to 23 Jul 2025, 6d 22h, 150 posts
 - ⏳ **In-game:** not filled in (`"2025-07#82"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -485,12 +439,7 @@ flowchart TD
 - 22 Jul: Doors to Area 9 unlocked.
 - 22 Jul: Group took 10 minutes to refocus and rest.
 
-## 14. Area 9
-
-- 🗓️ **IRL:** 23 Jul 2025 to 27 Jul 2025, 4d 10h
-- ⏳ **In-game:** not all rooms filled in
-
-### 14.1 Maintenance Bay
+### 8.10 Maintenance Bay
 
 - 🗓️ **IRL:** 23 Jul 2025 to 27 Jul 2025, 4d 10h, 62 posts
 - ⏳ **In-game:** not filled in (`"2025-07#232"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -503,12 +452,7 @@ flowchart TD
 - 27 Jul: Loot was sent to party stash.
 - 27 Jul: Chua unlocked final sealed room of ghost levels.
 
-## 15. Final unexplored, sealed room
-
-- 🗓️ **IRL:** 27 Jul 2025 to 7 Aug 2025, 1w 3d
-- ⏳ **In-game:** not all rooms filled in
-
-### 15.1 3D planetary observatory
+### 8.11 3D planetary observatory
 
 - 🗓️ **IRL:** 27 Jul 2025 to 7 Aug 2025, 1w 3d, 84 posts
 - ⏳ **In-game:** not filled in (`"2025-07#294"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -526,12 +470,12 @@ flowchart TD
 - 06 Aug: Mausbert critically succeeded to disable the electrical trap.
 - 07 Aug: Planet viewing system reactivated and showed Nocturn shaking.
 
-## 16. The speed lift
+## 9. The speed lift
 
 - 🗓️ **IRL:** 7 Aug 2025 to 11 Aug 2025, 4d 15h
 - ⏳ **In-game:** not all rooms filled in
 
-### 16.1 The speed lift
+### 9.1 The speed lift
 
 - 🗓️ **IRL:** 7 Aug 2025 to 11 Aug 2025, 4d 15h, 46 posts
 - ⏳ **In-game:** not filled in (`"2025-08#58"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -544,12 +488,12 @@ flowchart TD
 - 07 Aug: Livy healed Arcanium and Lysae in the elevator.
 - 07 Aug: Lift arrived.
 
-## 17. Little Akiton
+## 10. Little Akiton
 
 - 🗓️ **IRL:** 11 Aug 2025 to 15 Aug 2025, 4d 7h
 - ⏳ **In-game:** not all rooms filled in
 
-### 17.1 Little Akiton
+### 10.1 Little Akiton
 
 - 🗓️ **IRL:** 11 Aug 2025 to 15 Aug 2025, 4d 7h, 60 posts
 - ⏳ **In-game:** not filled in (`"2025-08#104"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -563,12 +507,12 @@ flowchart TD
 - 12 Aug: Dwarf directed party to Arta and her friends.
 - 12 Aug: Mausbert scoured the Infosphere and located Arta address.
 
-## 18. Arta's apartment building
+## 11. Arta's apartment building
 
 - 🗓️ **IRL:** 15 Aug 2025 to 28 Aug 2025, 1w 5d
 - ⏳ **In-game:** not all rooms filled in
 
-### 18.1 Arta's apartment building
+### 11.1 Arta's apartment building
 
 - 🗓️ **IRL:** 15 Aug 2025 to 28 Aug 2025, 1w 5d, 58 posts
 - ⏳ **In-game:** not filled in (`"2025-08#164"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -582,12 +526,12 @@ flowchart TD
 - 25 Aug: Mausbert defaced AbadarCorp logos on his clothing.
 - 28 Aug: Party headed to Nikk-Nakk.
 
-## 19. Junkyard
+## 12. Junkyard
 
 - 🗓️ **IRL:** 28 Aug 2025 to 3 Sep 2025, 1w 15h
 - ⏳ **In-game:** not all rooms filled in
 
-### 19.1 Junkyard
+### 12.1 Junkyard
 
 - 🗓️ **IRL:** 28 Aug 2025 to 3 Sep 2025, 1w 15h, 15 posts
 - ⏳ **In-game:** not filled in (`"2025-08#222"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -603,12 +547,12 @@ flowchart TD
 - 03 Sep: Chua activated his comm to search the bodega for location, services and owner info.
 - 03 Sep: Chua's search hit clickbait spam and forced a system reboot and restore.
 
-## 20. Manee's bodega
+## 13. Manee's bodega
 
 - 🗓️ **IRL:** 5 Sep 2025 to 4 Feb 2026, 21w 5d
 - ⏳ **In-game:** not all rooms filled in
 
-### 20.1 Shop
+### 13.1 Shop
 
 - 🗓️ **IRL:** 5 Sep 2025 to 7 Sep 2025, 2d 16h, 20 posts
 - ⏳ **In-game:** not filled in (`"2025-09#7"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -622,7 +566,7 @@ flowchart TD
 - 06 Sep: Lysae took the key and warned the basement likely held a malevolent spirit.
 - 07 Sep: Chua agreed to unlock the door and head down with Roneles.
 
-### 20.2 Storage basement
+### 13.2 Storage basement
 
 - 🗓️ **IRL:** 7 Sep 2025 to 4 Nov 2025, 9w 5d, 59 posts
 - ⏳ **In-game:** not filled in (`"2025-09#27"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -644,7 +588,7 @@ flowchart TD
 - 03 Nov: Horia agreed to the new player joining.
 - 04 Nov: Chua checked the basement corners for leftover inventory and suggested heading up for dumplings.
 
-### 20.3 Shop
+### 13.3 Shop
 
 - 🗓️ **IRL:** 14 Nov 2025 to 4 Feb 2026, 11w 4d, 85 posts
 - ⏳ **In-game:** not filled in (`"2025-11#6"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -671,12 +615,12 @@ flowchart TD
 - 26 Jan: The group accepted the mission and made their way toward the Castle Counting arms dealer shop.
 - 04 Feb: left the shop
 
-## 21. Little Akiton
+## 14. Little Akiton
 
 - 🗓️ **IRL:** 4 Feb 2026 to 4 Feb 2026, <1h
 - ⏳ **In-game:** not all rooms filled in
 
-### 21.1 Little Akiton
+### 14.1 Little Akiton
 
 - 🗓️ **IRL:** 4 Feb 2026 to 4 Feb 2026, <1h, 7 posts
 - ⏳ **In-game:** not filled in (`"2026-02#2"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -690,12 +634,12 @@ flowchart TD
 - 04 Feb: reached the arms shop of CASTLE COUNTING
 - 04 Feb: saw the mechanical brass sign above the door
 
-## 22. CASTLE COUNTING
+## 15. Castle Counting
 
 - 🗓️ **IRL:** 4 Feb 2026 to 28 Feb 2026, 3w 3d
 - ⏳ **In-game:** not all rooms filled in
 
-### 22.1 Shop
+### 15.1 Shop
 
 - 🗓️ **IRL:** 4 Feb 2026 to 28 Feb 2026, 3w 3d, 119 posts
 - ⏳ **In-game:** not filled in (`"2026-02#9"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -710,12 +654,12 @@ flowchart TD
 - 19 Feb: met newcomer Lowda Medina when he entered
 - 28 Feb: received watches from Ophelius
 
-## 23. AbadarCorp Courier Housing Block 7
+## 16. AbadarCorp Courier Housing Block 7
 
 - 🗓️ **IRL:** 28 Feb 2026 to 1 Mar 2026, 2h
 - ⏳ **In-game:** not all rooms filled in
 
-### 23.1 AbadarCorp Courier Housing Block 7
+### 16.1 AbadarCorp Courier Housing Block 7
 
 - 🗓️ **IRL:** 28 Feb 2026 to 1 Mar 2026, 2h, 12 posts
 - ⏳ **In-game:** not filled in (`"2026-02#128"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -729,12 +673,12 @@ flowchart TD
 - 01 Mar: Anthony said it would be awesome to arrive at Smugler's dock.
 - 01 Mar: GM said the party was heading to Dock 3.
 
-## 24. A lift
+## 17. A lift
 
 - 🗓️ **IRL:** 1 Mar 2026 to 1 Mar 2026, <1h
 - ⏳ **In-game:** not all rooms filled in
 
-### 24.1 A lift
+### 17.1 A lift
 
 - 🗓️ **IRL:** 1 Mar 2026 to 1 Mar 2026, <1h, 4 posts
 - ⏳ **In-game:** not filled in (`"2026-03#4"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -746,12 +690,12 @@ flowchart TD
 - 01 Mar: Lift took them down a few levels.
 - 01 Mar: Party got out of the lift.
 
-## 25. Corridors
+## 18. Corridors
 
 - 🗓️ **IRL:** 1 Mar 2026 to 1 Mar 2026, <1h
 - ⏳ **In-game:** not all rooms filled in
 
-### 25.1 Corridors
+### 18.1 Corridors
 
 - 🗓️ **IRL:** 1 Mar 2026 to 1 Mar 2026, <1h, 5 posts
 - ⏳ **In-game:** not filled in (`"2026-03#8"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -762,12 +706,12 @@ flowchart TD
 - 01 Mar: Party went down metal grate stairs.
 - 01 Mar: Party went through more corridors.
 
-## 26. The Docks
+## 19. The Docks
 
 - 🗓️ **IRL:** 1 Mar 2026 to 14 Apr 2026, 7w 5d
 - ⏳ **In-game:** not all rooms filled in
 
-### 26.1 Dock 3
+### 19.1 Dock 3
 
 - 🗓️ **IRL:** 1 Mar 2026 to 14 Apr 2026, 7w 5d, 97 posts
 - ⏳ **In-game:** not filled in (`"2026-03#13"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -788,12 +732,12 @@ flowchart TD
 - 14 Apr: Miyuu walked out the door toward the community center. [↗](https://t.me/Path_Wars/52083/144858)
 - 14 Apr: The party made their way to the community centre. [↗](https://t.me/Path_Wars/52083/145101)
 
-## 27. Community centre
+## 20. Community centre
 
 - 🗓️ **IRL:** 24 Apr 2026 to 21 May 2026, 4w 4d
 - ⏳ **In-game:** not all rooms filled in
 
-### 27.1 The front room
+### 20.1 The front room
 
 - 🗓️ **IRL:** 24 Apr 2026 to 21 May 2026, 4w 4d, 114 posts
 - ⏳ **In-game:** not filled in (`"2026-04#25"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -814,12 +758,12 @@ flowchart TD
 - 18 May: Joia gave the party medpatches, a hypopen and magboots. [↗](https://t.me/Path_Wars/52083/154498)
 - 20 May: Joia told the party to go to Sunny-6's restaurant. [↗](https://t.me/Path_Wars/52083/154801)
 
-## 28. Little Akiton
+## 21. Little Akiton
 
 - 🗓️ **IRL:** 26 May 2026 to 26 May 2026, 5d 5h
 - ⏳ **In-game:** not all rooms filled in
 
-### 28.1 Little Akiton
+### 21.1 Little Akiton
 
 - 🗓️ **IRL:** 26 May 2026 to 26 May 2026, 5d 5h, 2 posts
 - ⏳ **In-game:** not filled in (`"2026-05#97"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -828,12 +772,12 @@ flowchart TD
 
 - 26 May: The party walked to the diner across Little Akiton. [↗](https://t.me/Path_Wars/52083/156652)
 
-## 29. Sunny-6's Diner
+## 22. Sunny-6's Diner
 
 - 🗓️ **IRL:** 1 Jun 2026 to 1 Jul 2026, 4w 1d
 - ⏳ **In-game:** not all rooms filled in
 
-### 29.1 Sunny-6's Diner
+### 22.1 Sunny-6's Diner
 
 - 🗓️ **IRL:** 1 Jun 2026 to 1 Jul 2026, 4w 1d, 50 posts
 - ⏳ **In-game:** not filled in (`"2026-06#1"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -849,12 +793,12 @@ flowchart TD
 - 25 Jun: A patron claimed vampires drained his brother and Security covered it up. [↗](https://t.me/Path_Wars/52083/162928)
 - 01 Jul: Headed to the junkyard. [↗](https://t.me/Path_Wars/52083/164060)
 
-## 30. Junkyard
+## 23. Junkyard
 
 - 🗓️ **IRL:** 1 Jul 2026 to 24 Aug 2026, 7w 5d
 - ⏳ **In-game:** not all rooms filled in
 
-### 30.1 Junkyard
+### 23.1 Junkyard
 
 - 🗓️ **IRL:** 1 Jul 2026 to 24 Aug 2026, 7w 5d, 240 posts
 - ⏳ **In-game:** not filled in (`"2026-07#2"` in `timelines/C07-Hopeful-End-Times.json`)
@@ -874,12 +818,12 @@ flowchart TD
 - 18 Aug: Nikk-Nakk pointed to a manhole cover and suggested talking in his other shed. [↗](https://t.me/Path_Wars/52083/172918)
 - 23 Aug: Nikk-Nakk went down the manhole cover. [↗](https://t.me/Path_Wars/52083/174003)
 
-## 31. Small bunker
+## 24. Small bunker
 
 - 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d
 - ⏳ **In-game:** not all rooms filled in
 
-### 31.1 Small bunker
+### 24.1 Small bunker
 
 - 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d, 113 posts
 - ⏳ **In-game:** not filled in (`"2026-08#120"` in `timelines/C07-Hopeful-End-Times.json`)
