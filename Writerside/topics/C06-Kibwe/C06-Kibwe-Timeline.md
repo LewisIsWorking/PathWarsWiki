@@ -50,41 +50,29 @@ flowchart TD
         v26["<b>5.3 Chamber</b><br/>🗓️ IRL 2w 4d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v27["<b>5.4 Sun deprived courtyard</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a5["6. Kibwe · 🗓️ IRL 13w 6d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a5["6. Kibwe · 🗓️ IRL 21w 1d ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v28["<b>6.1 Kibwe</b><br/>🗓️ IRL 13w 6d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v29["<b>6.2 The city</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v30["<b>6.3 Service tunnel</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v31["<b>6.4 Kibwe</b><br/>🗓️ IRL 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v32["<b>6.5 Wide merchant streets</b><br/>🗓️ IRL 5w 6d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a6["7. The city · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a6["7. Endless void · 🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v29["<b>7.1 The city</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v33["<b>7.1 Paper-stone</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a7["8. Service tunnel · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a7["8. Kibwe · 🗓️ IRL 28w 2d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v30["<b>8.1 Service tunnel</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a8["9. Kibwe · 🗓️ IRL 5w 6d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v31["<b>9.1 Kibwe</b><br/>🗓️ IRL 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v32["<b>9.2 Wide merchant streets</b><br/>🗓️ IRL 5w 6d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a9["10. Endless void · 🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v33["<b>10.1 Paper-stone</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a10["11. Kibwe · 🗓️ IRL 10w 18h ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v34["<b>11.1 Wide merchant streets</b><br/>🗓️ IRL 3d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v35["<b>11.2 Watchtower</b><br/>🗓️ IRL 8w 2d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
-        v36["<b>11.3 Wide merchant streets</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a11["12. Sun Temple · 🗓️ IRL 18w 1d ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v37["<b>12.1 Sun Temple</b><br/>🗓️ IRL 3d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v38["<b>12.2 Alleyway</b><br/>🗓️ IRL 4w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v39["<b>12.3 The entryway</b><br/>🗓️ IRL 1d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v40["<b>12.4 Chamber of Sleeping</b><br/>🗓️ IRL 1w 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v41["<b>12.5 Chamber of Welcome</b><br/>🗓️ IRL 8w 4d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
-        v42["<b>12.6 Scribing chamber</b><br/>🗓️ IRL 3w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v34["<b>8.1 Wide merchant streets</b><br/>🗓️ IRL 3d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v35["<b>8.2 Watchtower</b><br/>🗓️ IRL 8w 2d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v36["<b>8.3 Wide merchant streets</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v37["<b>8.4 Sun Temple</b><br/>🗓️ IRL 3d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v38["<b>8.5 Alleyway</b><br/>🗓️ IRL 4w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v39["<b>8.6 The entryway</b><br/>🗓️ IRL 1d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v40["<b>8.7 Chamber of Sleeping</b><br/>🗓️ IRL 1w 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v41["<b>8.8 Chamber of Welcome</b><br/>🗓️ IRL 8w 4d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v42["<b>8.9 Scribing chamber</b><br/>🗓️ IRL 3w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -609,7 +597,7 @@ flowchart TD
 
 ## 6. Kibwe
 
-- 🗓️ **IRL:** 23 Sep 2025 to 29 Dec 2025, 13w 6d
+- 🗓️ **IRL:** 23 Sep 2025 to 18 Feb 2026, 21w 1d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 6.1 Kibwe
@@ -640,12 +628,7 @@ flowchart TD
 - 29 Dec: Tiny said he was not hired for this and wandered off.
 - 29 Dec: Tal'lysae said dark forces clouded Tiny's soul.
 
-## 7. The city
-
-- 🗓️ **IRL:** 29 Dec 2025 to 8 Jan 2026, 1w 2d
-- ⏳ **In-game:** not all rooms filled in
-
-### 7.1 The city
+### 6.2 The city
 
 - 🗓️ **IRL:** 29 Dec 2025 to 8 Jan 2026, 1w 2d, 6 posts
 - ⏳ **In-game:** not filled in (`"2025-12#9"` in `timelines/C06-Kibwe.json`)
@@ -659,12 +642,7 @@ flowchart TD
 - 08 Jan: Heard Tal'lysae say they would avoid the threats.
 - 08 Jan: Followed Tal'lysae around the walls past destroyed hamlets.
 
-## 8. Service tunnel
-
-- 🗓️ **IRL:** 8 Jan 2026 to 8 Jan 2026, <1h
-- ⏳ **In-game:** not all rooms filled in
-
-### 8.1 Service tunnel
+### 6.3 Service tunnel
 
 - 🗓️ **IRL:** 8 Jan 2026 to 8 Jan 2026, <1h, 6 posts
 - ⏳ **In-game:** not filled in (`"2026-01#6"` in `timelines/C06-Kibwe.json`)
@@ -676,12 +654,7 @@ flowchart TD
 - 08 Jan: Arrived at a large stone door locked by a magical rune.
 - 08 Jan: Watched Eda turn the stone door to ash and leap away.
 
-## 9. Kibwe
-
-- 🗓️ **IRL:** 8 Jan 2026 to 18 Feb 2026, 5w 6d
-- ⏳ **In-game:** not all rooms filled in
-
-### 9.1 Kibwe
+### 6.4 Kibwe
 
 - 🗓️ **IRL:** 8 Jan 2026 to 8 Jan 2026, 1h, 16 posts
 - ⏳ **In-game:** not filled in (`"2026-01#12"` in `timelines/C06-Kibwe.json`)
@@ -694,7 +667,7 @@ flowchart TD
 - 08 Jan: Heard Tal'lysae point to the golden dome Sun Temple.
 - 08 Jan: Heard Tal'lysae guess Paga Nikohian was in the Sun Temple.
 
-### 9.2 Wide merchant streets
+### 6.5 Wide merchant streets
 
 - 🗓️ **IRL:** 8 Jan 2026 to 18 Feb 2026, 5w 6d, 183 posts
 - ⏳ **In-game:** not filled in (`"2026-01#28"` in `timelines/C06-Kibwe.json`)
@@ -715,12 +688,12 @@ flowchart TD
 - 17 Feb: Fierce Leopard stepped into the slime's portal and vanished.
 - 18 Feb: Slime monster parts worth 300 Gold Pieces lay scattered.
 
-## 10. Endless void
+## 7. Endless void
 
 - 🗓️ **IRL:** 18 Feb 2026 to 1 Mar 2026, 1w 3d
 - ⏳ **In-game:** not all rooms filled in
 
-### 10.1 Paper-stone
+### 7.1 Paper-stone
 
 - 🗓️ **IRL:** 18 Feb 2026 to 1 Mar 2026, 1w 3d, 64 posts
 - ⏳ **In-game:** not filled in (`"2026-02#119"` in `timelines/C06-Kibwe.json`)
@@ -738,12 +711,12 @@ flowchart TD
 - 01 Mar: The platform shattered.
 - 01 Mar: Ryo was violently lurched through time and space.
 
-## 11. Kibwe
+## 8. Kibwe
 
-- 🗓️ **IRL:** 1 Mar 2026 to 10 May 2026, 10w 18h
+- 🗓️ **IRL:** 1 Mar 2026 to 15 Sep 2026, 28w 2d
 - ⏳ **In-game:** not all rooms filled in
 
-### 11.1 Wide merchant streets
+### 8.1 Wide merchant streets
 
 - 🗓️ **IRL:** 1 Mar 2026 to 4 Mar 2026, 3d 2h, 64 posts
 - ⏳ **In-game:** not filled in (`"2026-03#12"` in `timelines/C06-Kibwe.json`)
@@ -758,7 +731,7 @@ flowchart TD
 - 02 Mar: Kieran tried to shoo the triceratops away and it stayed.
 - 03 Mar: The slime layer sank into the triceratops and glowed green.
 
-### 11.2 Watchtower
+### 8.2 Watchtower
 
 - 🗓️ **IRL:** 4 Mar 2026 to 1 May 2026, 8w 2d, 962 posts
 - ⏳ **In-game:** not filled in (`"2026-03#76"` in `timelines/C06-Kibwe.json`)
@@ -785,7 +758,7 @@ flowchart TD
 - 01 May: Tal'lysae lay on ground glitching out [↗](https://t.me/Path_Wars/40585/149909)
 - 01 May: Tarsus hurried out of tower to street [↗](https://t.me/Path_Wars/40585/149928)
 
-### 11.3 Wide merchant streets
+### 8.3 Wide merchant streets
 
 - 🗓️ **IRL:** 1 May 2026 to 10 May 2026, 1w 2d, 128 posts
 - ⏳ **In-game:** not filled in (`"2026-05#66"` in `timelines/C06-Kibwe.json`)
@@ -800,12 +773,7 @@ flowchart TD
 - 07 May: Tal'lysae loaded slimes onto party mule [↗](https://t.me/Path_Wars/40585/151547)
 - 08 May: Tal'lysae described bridge between flames and slime-kind [↗](https://t.me/Path_Wars/40585/151725)
 
-## 12. Sun Temple
-
-- 🗓️ **IRL:** 10 May 2026 to 15 Sep 2026, 18w 1d
-- ⏳ **In-game:** not all rooms filled in
-
-### 12.1 Sun Temple
+### 8.4 Sun Temple
 
 - 🗓️ **IRL:** 10 May 2026 to 14 May 2026, 3d 20h, 54 posts
 - ⏳ **In-game:** not filled in (`"2026-05#194"` in `timelines/C06-Kibwe.json`)
@@ -818,7 +786,7 @@ flowchart TD
 - 11 May: Tal'lysae said grey flame was Wandering Chronicler [↗](https://t.me/Path_Wars/40585/152404)
 - 12 May: Lorn equipped composite longbow [↗](https://t.me/Path_Wars/40585/153084)
 
-### 12.2 Alleyway
+### 8.5 Alleyway
 
 - 🗓️ **IRL:** 14 May 2026 to 16 Jun 2026, 4w 4d, 278 posts
 - ⏳ **In-game:** not filled in (`"2026-05#248"` in `timelines/C06-Kibwe.json`)
@@ -839,7 +807,7 @@ flowchart TD
 - 09 Jun: The party stood ready outside the sealed stone doors. [↗](https://t.me/Path_Wars/40585/159887)
 - 13 Jun: Anna slid down her spear and asked what was going on. [↗](https://t.me/Path_Wars/40585/160983)
 
-### 12.3 The entryway
+### 8.6 The entryway
 
 - 🗓️ **IRL:** 16 Jun 2026 to 17 Jun 2026, 1d 9h, 42 posts
 - ⏳ **In-game:** not filled in (`"2026-06#212"` in `timelines/C06-Kibwe.json`)
@@ -853,7 +821,7 @@ flowchart TD
 - 16 Jun: Masters in perception heard growing in the Chamber of Sleep. [↗](https://t.me/Path_Wars/40585/161686)
 - 17 Jun: Daichi saw a flash of red fur and golden chains. [↗](https://t.me/Path_Wars/40585/161937)
 
-### 12.4 Chamber of Sleeping
+### 8.7 Chamber of Sleeping
 
 - 🗓️ **IRL:** 17 Jun 2026 to 25 Jun 2026, 1w 5h, 82 posts
 - ⏳ **In-game:** not filled in (`"2026-06#254"` in `timelines/C06-Kibwe.json`)
@@ -867,7 +835,7 @@ flowchart TD
 - 23 Jun: Cho heard Halfling and Dwarvish through the thick doors. [↗](https://t.me/Path_Wars/137075/162712)
 - 24 Jun: The party finished healing and faced the Welcome doors. [↗](https://t.me/Path_Wars/40585/162885)
 
-### 12.5 Chamber of Welcome
+### 8.8 Chamber of Welcome
 
 - 🗓️ **IRL:** 25 Jun 2026 to 24 Aug 2026, 8w 4d, 544 posts
 - ⏳ **In-game:** not filled in (`"2026-06#336"` in `timelines/C06-Kibwe.json`)
@@ -894,7 +862,7 @@ flowchart TD
 - 17 Aug: Tarsus became master of the dual-mode Rod of Wonder. [↗](https://t.me/Path_Wars/40585/172807)
 - 24 Aug: Party decided to head toward the trapped staircase. [↗](https://t.me/Path_Wars/40585/174214)
 
-### 12.6 Scribing chamber
+### 8.9 Scribing chamber
 
 - 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d, 124 posts
 - ⏳ **In-game:** not filled in (`"2026-08#166"` in `timelines/C06-Kibwe.json`)

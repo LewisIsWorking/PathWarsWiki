@@ -7,9 +7,9 @@ Where the party went, in order. Each outer box is an area, and each box inside i
 
 ```mermaid
 flowchart TD
-    subgraph a0["1. Before play · 🗓️ IRL 1w 4d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a0["1. Location not stated · 🗓️ IRL 1w 4d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v0["<b>1.1 Setup posts</b><br/>🗓️ IRL 1w 4d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v0["<b>1.1 Not stated</b><br/>🗓️ IRL 1w 4d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     subgraph a1["2. Nisroch Candle Factory · 🗓️ IRL 1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
@@ -33,12 +33,12 @@ flowchart TD
     v3 --> v4
 ```
 
-## 1. Before play
+## 1. Location not stated
 
 - 🗓️ **IRL:** 7 Apr 2026 to 18 Apr 2026, 1w 4d
 - ⏳ **In-game:** not all rooms filled in
 
-### 1.1 Setup posts
+### 1.1 Not stated
 
 - 🗓️ **IRL:** 7 Apr 2026 to 18 Apr 2026, 1w 4d, 143 posts
 - ⏳ **In-game:** not filled in (`"2026-04#1"` in `timelines/C11-Dark-Pockets.json`)
