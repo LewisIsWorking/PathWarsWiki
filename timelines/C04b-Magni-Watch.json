@@ -1,0 +1,1827 @@
+{
+  "code": "C04b",
+  "campaign": "Magni Watch",
+  "months": {
+    "2025-03": {
+      "messages": 13,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM introduced the premise that the party were the police."
+            },
+            {
+              "at": 2,
+              "text": "GM described Lieutenant Lavarsus's appearance."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 13,
+          "area": "Lavarsus's office",
+          "location": "Lavarsus's office",
+          "events": [
+            {
+              "at": 3,
+              "text": "Group gathered in Lavarsus's office to sign contract and receive badge and equipment."
+            },
+            {
+              "at": 5,
+              "text": "Nadya entered the office late in an improperly worn uniform."
+            },
+            {
+              "at": 6,
+              "text": "Lysandra watched from the window and shook her head at Nadya."
+            },
+            {
+              "at": 8,
+              "text": "Nadya drank from a vial and complained about the windows."
+            },
+            {
+              "at": 9,
+              "text": "Lavarsus lit his cigar while he awaited the rest of the group."
+            },
+            {
+              "at": 12,
+              "text": "Lavarsus spoke of Korvosa with disdain."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-04": {
+      "messages": 29,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 25,
+          "area": "Lavarsus's office",
+          "location": "Lavarsus's office",
+          "events": [
+            {
+              "at": 2,
+              "text": "Lieutenant Lavarsus put on coffee while awaiting the late captain."
+            },
+            {
+              "at": 8,
+              "text": "The potfox made beverages for the group."
+            },
+            {
+              "at": 12,
+              "text": "Zilde EvenGuard arrived late and apologized."
+            },
+            {
+              "at": 18,
+              "text": "Lieutenant Lavarsus issued special magical badges that fine criminals."
+            },
+            {
+              "at": 20,
+              "text": "Lieutenant Lavarsus warned the group not to misuse the badges."
+            },
+            {
+              "at": 22,
+              "text": "Lieutenant Lavarsus ordered the group to go play bouncer at the tipsy tengu."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 26,
+          "last": 27,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 26,
+              "text": "Nadya took a badge and stepped out to wait while the others exited the office."
+            },
+            {
+              "at": 27,
+              "text": "Nadya complained about the office sunlight and offered treatment for bruises and scratches."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 28,
+          "last": 29,
+          "area": "The tipsy tenth",
+          "location": "The tipsy tenth",
+          "events": [
+            {
+              "at": 28,
+              "text": "The group went to the tipsy tenth."
+            },
+            {
+              "at": 29,
+              "text": "Zilde opened the door to the tipsy tenth and looked for the bar keep."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-05": {
+      "messages": 116,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 66,
+          "area": "The tipsy tenth",
+          "location": "The tipsy tenth",
+          "events": [
+            {
+              "at": 2,
+              "text": "Lysandra stepped into the bar and looked for trouble."
+            },
+            {
+              "at": 6,
+              "text": "Nadya offered an elixir to Pratchett."
+            },
+            {
+              "at": 8,
+              "text": "Nadya addressed the ongoing disturbance theatrically."
+            },
+            {
+              "at": 25,
+              "text": "The four adventurers calmed down and surrendered."
+            },
+            {
+              "at": 40,
+              "text": "Nadya activated the badge and told the adventurers to leave."
+            },
+            {
+              "at": 66,
+              "text": "Lysandra exited the Tipsy Tengu to report in."
+            }
+          ],
+          "time_cues": [
+            "tomorrow",
+            "the middle of the day"
+          ]
+        },
+        {
+          "first": 67,
+          "last": 80,
+          "area": "Lavarsus's office",
+          "location": "Lavarsus's office",
+          "events": [
+            {
+              "at": 67,
+              "text": "The party arrived at the lieutenant's office."
+            },
+            {
+              "at": 68,
+              "text": "Captain Acacia Uriana left."
+            },
+            {
+              "at": 69,
+              "text": "Lieutenant Lavarsus told the party to head home."
+            },
+            {
+              "at": 70,
+              "text": "Lysandra saluted and left the building."
+            },
+            {
+              "at": 73,
+              "text": "Eclipsar saluted and left."
+            }
+          ],
+          "time_cues": [
+            "early tomorrow",
+            "Tomorrow morning",
+            "tomorrow"
+          ]
+        },
+        {
+          "first": 81,
+          "last": 86,
+          "area": "The tipsy tenth",
+          "location": "The tipsy tenth",
+          "events": [
+            {
+              "at": 81,
+              "text": "The party went to the Tipsy Tengus for free drinks and lodging."
+            },
+            {
+              "at": 84,
+              "text": "Nadya drank and smoked leftover supplies."
+            }
+          ],
+          "time_cues": [
+            "the next day"
+          ]
+        },
+        {
+          "first": 87,
+          "last": 102,
+          "area": "Lavarsus's office",
+          "location": "Lavarsus's office",
+          "events": [
+            {
+              "at": 87,
+              "text": "Zilde went to the Lieutenant for more orders."
+            },
+            {
+              "at": 90,
+              "text": "Sergeant Moldun Ollo greeted the group and checked badges."
+            },
+            {
+              "at": 93,
+              "text": "Sergeant Moldun Ollo fell asleep mid-sentence."
+            },
+            {
+              "at": 97,
+              "text": "Sergeant Moldun Ollo apologized for falling asleep."
+            },
+            {
+              "at": 100,
+              "text": "Sergeant Moldun Ollo gave the party a marked patrol map."
+            },
+            {
+              "at": 101,
+              "text": "Zilde took the map and thanked the Sergeant."
+            }
+          ],
+          "time_cues": [
+            "yesterday"
+          ]
+        },
+        {
+          "first": 103,
+          "last": 116,
+          "area": "Lower Dockway",
+          "location": "food stalls",
+          "events": [
+            {
+              "at": 103,
+              "text": "The party went out on patrol."
+            },
+            {
+              "at": 104,
+              "text": "The party went to investigate a problem at the dockway."
+            },
+            {
+              "at": 111,
+              "text": "Lysandra shouted for help and rushed to move barrels."
+            },
+            {
+              "at": 112,
+              "text": "Lysandra carried a barrel away from hazard."
+            },
+            {
+              "at": 113,
+              "text": "Nadya cast command on the closest fighting goblin."
+            },
+            {
+              "at": 114,
+              "text": "Pelmo chanted bridge magic at Nadya."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-06": {
+      "messages": 65,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 35,
+          "area": "Lower Dockway",
+          "location": "food stalls",
+          "events": [
+            {
+              "at": 5,
+              "text": "Nadya demanded the goblins surrender so she could treat their burns."
+            },
+            {
+              "at": 8,
+              "text": "The barrels were about to explode."
+            },
+            {
+              "at": 18,
+              "text": "Zilde drowned the barrels in the horse trough."
+            },
+            {
+              "at": 20,
+              "text": "Akuma arrived and said he was assigned to the unit."
+            },
+            {
+              "at": 28,
+              "text": "Nadya treated the goblin with alchemy and offered flayleaf."
+            },
+            {
+              "at": 34,
+              "text": "The party received 30 Gold Pieces and seized weapons and alchemist fires."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 36,
+          "last": 65,
+          "area": "lowcleft district",
+          "location": "lowcleft district",
+          "events": [
+            {
+              "at": 36,
+              "text": "The group continued patrols across the lowcleft district."
+            },
+            {
+              "at": 38,
+              "text": "A merchant yelled for guards to stop a fleeing woman."
+            },
+            {
+              "at": 44,
+              "text": "Akuma attempted an Athletics check to block her path."
+            },
+            {
+              "at": 49,
+              "text": "Combat began against the woman."
+            },
+            {
+              "at": 62,
+              "text": "Nadya cast command to knock the thief prone."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-07": {
+      "messages": 266,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 28,
+          "area": "lowcleft district",
+          "location": "lowcleft district",
+          "events": [
+            {
+              "at": 8,
+              "text": "Akuma critically slashed the thief with his katana."
+            },
+            {
+              "at": 15,
+              "text": "Zilde struck the thief with her holy fire longsword."
+            },
+            {
+              "at": 17,
+              "text": "The thief surrendered."
+            },
+            {
+              "at": 19,
+              "text": "The merchant got his belongings back."
+            },
+            {
+              "at": 22,
+              "text": "The group received 22 gold fined from the thief."
+            },
+            {
+              "at": 28,
+              "text": "The party received a telepathic message about skeletons attacking dock workers."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 29,
+          "last": 61,
+          "area": "dock",
+          "location": "dock",
+          "events": [
+            {
+              "at": 29,
+              "text": "The party rushed to the dock where skeletons attacked workers."
+            },
+            {
+              "at": 33,
+              "text": "Gijō introduced himself on the way to the docks."
+            },
+            {
+              "at": 37,
+              "text": "Nadya cast force barrage on a skeleton."
+            },
+            {
+              "at": 50,
+              "text": "Lysandra slashed the remaining skeleton."
+            },
+            {
+              "at": 53,
+              "text": "All skeletons were destroyed."
+            },
+            {
+              "at": 60,
+              "text": "A firework spelling GUARDS appeared in the sky."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 62,
+          "last": 100,
+          "area": "Porphyry's Equipment for Evokers",
+          "location": "Porphyry's Equipment for Evokers",
+          "events": [
+            {
+              "at": 62,
+              "text": "The party followed the fireworks to the magic shop."
+            },
+            {
+              "at": 65,
+              "text": "Marin Porphyry scolded the party for taking so long."
+            },
+            {
+              "at": 71,
+              "text": "Nadya called inside to talk to Eunice."
+            },
+            {
+              "at": 85,
+              "text": "Eunice dropped his wand."
+            },
+            {
+              "at": 89,
+              "text": "Sergeant Ollo ordered the party to handle escaped zoo creatures."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 101,
+          "last": 175,
+          "area": "Magnimar Zoo",
+          "location": "Marketplace",
+          "events": [
+            {
+              "at": 101,
+              "text": "The party ran to the zoo."
+            },
+            {
+              "at": 102,
+              "text": "The party arrived at the marketplace outside the zoo fence."
+            },
+            {
+              "at": 117,
+              "text": "Changer introduced himself as a defence golem."
+            },
+            {
+              "at": 129,
+              "text": "Gijō tripped the cockatrice."
+            },
+            {
+              "at": 152,
+              "text": "Changer's device blasted the cockatrice for acid damage."
+            },
+            {
+              "at": 173,
+              "text": "The cockatrice was beaten."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 176,
+          "last": 235,
+          "area": "Magnimar Zoo",
+          "location": "snack shop",
+          "events": [
+            {
+              "at": 176,
+              "text": "The party entered the snack shop and met Emmaline Greengold."
+            },
+            {
+              "at": 183,
+              "text": "Hoots the Owlbear screeched."
+            },
+            {
+              "at": 188,
+              "text": "Hoots struck Akuma for 5 damage."
+            },
+            {
+              "at": 191,
+              "text": "Gijō tripped the owlbear."
+            },
+            {
+              "at": 234,
+              "text": "The owlbear fell unconscious."
+            },
+            {
+              "at": 235,
+              "text": "Akuma comforted the creature."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 236,
+          "last": 266,
+          "area": "Magnimar Zoo",
+          "location": "black smith",
+          "events": [
+            {
+              "at": 236,
+              "text": "The party saw the black smith doors burst open from the shop."
+            },
+            {
+              "at": 238,
+              "text": "The party recognized Rusty chewing on the metalwork."
+            },
+            {
+              "at": 251,
+              "text": "Changer shot Rusty for 8 damage."
+            },
+            {
+              "at": 259,
+              "text": "Akuma gored the creature with his horns."
+            },
+            {
+              "at": 264,
+              "text": "Gijō ran up and grabbed the creature."
+            },
+            {
+              "at": 266,
+              "text": "Nadya tried to daze the rust monster from range."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-08": {
+      "messages": 245,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 62,
+          "area": "Magnimar Zoo",
+          "location": "black smith",
+          "events": [
+            {
+              "at": 8,
+              "text": "Rusty the Rust Monster fell unconscious."
+            },
+            {
+              "at": 12,
+              "text": "Machiq reported his shop was destroyed and asked to file a report."
+            },
+            {
+              "at": 14,
+              "text": "Machiq offered to guide the party to his store near the blacksmith's."
+            },
+            {
+              "at": 18,
+              "text": "Lysandra drew her blades and headed toward the altercation sound."
+            },
+            {
+              "at": 58,
+              "text": "Both hyenas were knocked unconscious."
+            },
+            {
+              "at": 62,
+              "text": "The party learned something was happening at the Penguin exhibit."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 63,
+          "last": 105,
+          "area": "Magnimar Zoo",
+          "location": "penguin exhibit",
+          "events": [
+            {
+              "at": 63,
+              "text": "The Magni Watch rushed to the penguin exhibit."
+            },
+            {
+              "at": 76,
+              "text": "The penguin shrieked in primal terror."
+            },
+            {
+              "at": 92,
+              "text": "Machiq tossed a rock into the water to attract the creature."
+            },
+            {
+              "at": 93,
+              "text": "A giant viper lunged out of the water and bit."
+            },
+            {
+              "at": 103,
+              "text": "Zilde knocked the viper unconscious."
+            },
+            {
+              "at": 105,
+              "text": "The party received a hero point."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 106,
+          "last": 110,
+          "area": "Magnimar Zoo",
+          "location": "owlbear exhibit",
+          "events": [
+            {
+              "at": 106,
+              "text": "The party rushed past locked cages toward the next part of the zoo."
+            },
+            {
+              "at": 107,
+              "text": "The party recovered coins, a short-sword, a dagger, rings and necklaces at the owlbear exhibit."
+            },
+            {
+              "at": 109,
+              "text": "The Magni Stash total reached 92 gold."
+            },
+            {
+              "at": 110,
+              "text": "The party rushed on."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 111,
+          "last": 174,
+          "area": "Magnimar Zoo",
+          "location": "South Hall",
+          "events": [
+            {
+              "at": 111,
+              "text": "The party entered the South Hall of the Zoo."
+            },
+            {
+              "at": 127,
+              "text": "Machiq was left at dying 2."
+            },
+            {
+              "at": 143,
+              "text": "The beetle was knocked out."
+            },
+            {
+              "at": 151,
+              "text": "Akuma healed Machiq and struck the rabbit."
+            },
+            {
+              "at": 159,
+              "text": "The party took a quick 10 minutes to rest."
+            },
+            {
+              "at": 169,
+              "text": "Akuma picked up a horn that shaped into a katana and a club."
+            }
+          ],
+          "time_cues": [
+            "a quick 10 minutes",
+            "Over ten minutes",
+            "after your 10 minute rest"
+          ]
+        },
+        {
+          "first": 175,
+          "last": 210,
+          "area": "Magnimar Zoo",
+          "location": "reptile room",
+          "events": [
+            {
+              "at": 175,
+              "text": "The party reached a room at the end of the hallway."
+            },
+            {
+              "at": 188,
+              "text": "The party found frightened patrons and zookeepers huddled inside a cage."
+            },
+            {
+              "at": 194,
+              "text": "Telomand and Raisa thanked the guards and introduced themselves."
+            },
+            {
+              "at": 199,
+              "text": "Nil asked the party to find his son Jerov and handed over a photo."
+            },
+            {
+              "at": 201,
+              "text": "Telomand listed the remaining areas left to check."
+            },
+            {
+              "at": 209,
+              "text": "Lysandra said they needed to find and subdue the beast."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 211,
+          "last": 245,
+          "area": "Magnimar Zoo",
+          "location": "Manager's office",
+          "events": [
+            {
+              "at": 212,
+              "text": "The party reached a locked office."
+            },
+            {
+              "at": 219,
+              "text": "The party found keys for a wagon on the table."
+            },
+            {
+              "at": 229,
+              "text": "The party found 5500 copper pieces in the drawer."
+            },
+            {
+              "at": 232,
+              "text": "The party found an unsent letter ending the Knights marriage."
+            },
+            {
+              "at": 236,
+              "text": "Akuma flipped the Bed switch."
+            },
+            {
+              "at": 240,
+              "text": "Machiq pulled the lever again with Akuma on the bed."
+            }
+          ],
+          "time_cues": [
+            "After a few minutes"
+          ]
+        }
+      ]
+    },
+    "2025-09": {
+      "messages": 157,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "Magnimar Zoo",
+          "location": "Manager's office",
+          "events": [
+            {
+              "at": 3,
+              "text": "Akuma described what he saw about a carriage outside"
+            },
+            {
+              "at": 5,
+              "text": "Lysandra said she would lead the way out to look for the ankhrav"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 24,
+          "area": "Magnimar Zoo",
+          "location": "wagons",
+          "events": [
+            {
+              "at": 7,
+              "text": "Went outside and saw two wagons"
+            },
+            {
+              "at": 14,
+              "text": "Explored Minera Frum's wagon"
+            },
+            {
+              "at": 16,
+              "text": "Found Minera Frum's diary describing relationship with Mr Knight"
+            },
+            {
+              "at": 18,
+              "text": "Found healing potions and other creature care items in cupboards"
+            },
+            {
+              "at": 20,
+              "text": "Badges glowed and absorbed the items"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 25,
+          "last": 29,
+          "area": "Magnimar Zoo",
+          "location": "Rust monster exhibit",
+          "events": [
+            {
+              "at": 25,
+              "text": "Walked through the Rust monster exhibit"
+            },
+            {
+              "at": 26,
+              "text": "Saw dried blood"
+            },
+            {
+              "at": 28,
+              "text": "Saw sign for Rusty the Rust Monster"
+            },
+            {
+              "at": 29,
+              "text": "Kept going"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 30,
+          "last": 77,
+          "area": "Magnimar Zoo",
+          "location": "crystal ankhrav enclosure",
+          "events": [
+            {
+              "at": 30,
+              "text": "Walked through the crystal ankhrav enclosure"
+            },
+            {
+              "at": 33,
+              "text": "Heard weeping behind a boulder"
+            },
+            {
+              "at": 37,
+              "text": "Saw the bastard burst from the ground"
+            },
+            {
+              "at": 64,
+              "text": "Ended combat"
+            },
+            {
+              "at": 73,
+              "text": "Learned the boy's name was Jerov and his father was Nils"
+            },
+            {
+              "at": 75,
+              "text": "Returned the boy to Nils and received 17 gold pieces"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 78,
+          "last": 118,
+          "area": "Magnimar Zoo",
+          "location": "supply shed",
+          "events": [
+            {
+              "at": 81,
+              "text": "Found Remy the gnomish zoo keeper in the supply shed"
+            },
+            {
+              "at": 91,
+              "text": "Received 2 heavy crossbows with bolts from Remy"
+            },
+            {
+              "at": 92,
+              "text": "Saved the Magnimar zoo"
+            },
+            {
+              "at": 96,
+              "text": "Completed 5 percent of Magni Watch"
+            },
+            {
+              "at": 101,
+              "text": "Machiq said he would sue Remy"
+            },
+            {
+              "at": 117,
+              "text": "Summarized downtime plans for Nadya, Machiq, Gijo, Lysandra, Akuma and Zilde"
+            }
+          ],
+          "time_cues": [
+            "rest of the day"
+          ]
+        },
+        {
+          "first": 119,
+          "last": 119,
+          "area": "Arvensoar",
+          "location": "office",
+          "events": [
+            {
+              "at": 119,
+              "text": "Headed to the Arvensoar and found a dwarf asleep in the office"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 120,
+          "last": 120,
+          "area": "Arvensoar",
+          "location": "Arvensoar",
+          "events": [
+            {
+              "at": 120,
+              "text": "Trained together"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 121,
+          "last": 125,
+          "area": "cosy stone house",
+          "location": "cosy stone house",
+          "events": [
+            {
+              "at": 121,
+              "text": "Walked from the Arvensoar to the house"
+            },
+            {
+              "at": 122,
+              "text": "Arrived at the cosy stone house"
+            },
+            {
+              "at": 125,
+              "text": "Saw James Darkmoon reading a Cheliax-sealed letter"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 126,
+          "last": 127,
+          "area": "Arvensoar",
+          "location": "office",
+          "events": [
+            {
+              "at": 127,
+              "text": "Met Sergeant Moldun Ollo"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 128,
+          "last": 133,
+          "area": "lowcleft district",
+          "location": "den",
+          "events": [
+            {
+              "at": 132,
+              "text": "Met the hairy fetchling who drew a dagger in the den"
+            },
+            {
+              "at": 133,
+              "text": "Nadya shapechanged and explained the uniform"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 134,
+          "last": 146,
+          "area": "lowcleft district",
+          "location": "long thin stone room",
+          "events": [
+            {
+              "at": 135,
+              "text": "Took the lift down several floors"
+            },
+            {
+              "at": 137,
+              "text": "Entered the long thin stone room with figures on cushions"
+            },
+            {
+              "at": 140,
+              "text": "Shackle offered smoke, eat or inject"
+            },
+            {
+              "at": 141,
+              "text": "Nadya chose smoke"
+            },
+            {
+              "at": 146,
+              "text": "Nadya took a hit"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 147,
+          "last": 147,
+          "area": "Arvensoar",
+          "location": "office",
+          "events": [
+            {
+              "at": 147,
+              "text": "Machiq left the office slamming the door"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 148,
+          "last": 153,
+          "area": "lowcleft district",
+          "location": "long thin stone room",
+          "events": [
+            {
+              "at": 148,
+              "text": "Learned Nadya had a letter"
+            },
+            {
+              "at": 152,
+              "text": "Nadya pocketed the envelope and described the experience"
+            },
+            {
+              "at": 153,
+              "text": "Nadya warned about the seal"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 154,
+          "last": 157,
+          "area": "lowcleft district",
+          "location": "street",
+          "events": [
+            {
+              "at": 154,
+              "text": "Headed out to an empty spot and cracked the seal"
+            },
+            {
+              "at": 155,
+              "text": "Headed toward the Tipsy Tengu"
+            },
+            {
+              "at": 156,
+              "text": "Asked if everyone else was handled"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 137,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 3,
+          "area": "lowcleft district",
+          "location": "street",
+          "events": [
+            {
+              "at": 1,
+              "text": "Zilde said she would come too."
+            },
+            {
+              "at": 2,
+              "text": "James told Zilde to stay and prepare and left the room and house."
+            },
+            {
+              "at": 3,
+              "text": "James did not want Zilde to come with him."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 4,
+          "last": 6,
+          "area": "dockway",
+          "location": "dockway",
+          "events": [
+            {
+              "at": 4,
+              "text": "Nadya encountered James while walking through the dockway."
+            },
+            {
+              "at": 5,
+              "text": "James confirmed Nadya received her letter and told her to come with him."
+            },
+            {
+              "at": 6,
+              "text": "Nadya greeted the captain and asked if she was needed now."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 22,
+          "area": "cosy stone house",
+          "location": "cosy stone house",
+          "events": [
+            {
+              "at": 7,
+              "text": "James fetched the others from the Arvensoar and walked to his house with the party."
+            },
+            {
+              "at": 12,
+              "text": "James gathered the group and everyone reunited at Zilde's house."
+            },
+            {
+              "at": 13,
+              "text": "James briefed the group on garden party security duty and guard uniforms."
+            },
+            {
+              "at": 16,
+              "text": "Nadya fitted her ceremonial uniform in the armory and offered to help others."
+            },
+            {
+              "at": 18,
+              "text": "James said the group needed more training and time."
+            },
+            {
+              "at": 22,
+              "text": "James seemed satisfied the group was ready to go."
+            }
+          ],
+          "time_cues": [
+            "tonight"
+          ]
+        },
+        {
+          "first": 23,
+          "last": 25,
+          "area": "carriage",
+          "location": "carriage",
+          "events": [
+            {
+              "at": 23,
+              "text": "A carriage took the group up the seacleft cliff."
+            },
+            {
+              "at": 24,
+              "text": "The group travelled across the city."
+            },
+            {
+              "at": 25,
+              "text": "The group travelled to the Alabaster district."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 26,
+          "last": 81,
+          "area": "large manor house",
+          "location": "garden",
+          "events": [
+            {
+              "at": 26,
+              "text": "The Magni Watch arrived at a large black and red manor house."
+            },
+            {
+              "at": 36,
+              "text": "James gave patrol areas and check-in instructions."
+            },
+            {
+              "at": 37,
+              "text": "Viole and the other Heroes of Magnimar appeared."
+            },
+            {
+              "at": 51,
+              "text": "The group tried the unity tea at the Paracountess insistence."
+            },
+            {
+              "at": 71,
+              "text": "Around 1,000 people collapsed with black and green veins spreading."
+            },
+            {
+              "at": 80,
+              "text": "Viole and James cast something on the Magni Watch and they passed out alive."
+            }
+          ],
+          "time_cues": [
+            "For 2 hours",
+            "For 3 hours after that",
+            "about 20 minutes"
+          ]
+        },
+        {
+          "first": 82,
+          "last": 137,
+          "area": "stone room",
+          "location": "stone room",
+          "events": [
+            {
+              "at": 83,
+              "text": "The group awakened very sore."
+            },
+            {
+              "at": 86,
+              "text": "The group found themselves in a stone room with a glass ceiling."
+            },
+            {
+              "at": 98,
+              "text": "Koriah said they survived soul poisoning and Sister Miravelle prayed for just under 48 hours."
+            },
+            {
+              "at": 100,
+              "text": "The elf introduced herself as Koriah Sunstrike."
+            },
+            {
+              "at": 121,
+              "text": "Detective Desdelen Bolera introduced herself as investigating the party."
+            },
+            {
+              "at": 134,
+              "text": "Akuma's green and black mark changed towards fiery red and dark blue."
+            }
+          ],
+          "time_cues": [
+            "45ish hours later",
+            "around dusk",
+            "around 18:00",
+            "just under 48 hours",
+            "seventy-two hours straight"
+          ]
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 24,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 9,
+          "area": "stone room",
+          "location": "stone room",
+          "events": [
+            {
+              "at": 1,
+              "text": "Detective Bolera answered Machiq about how the curse affected people."
+            },
+            {
+              "at": 3,
+              "text": "Akuma asked where the person he was speaking with was from."
+            },
+            {
+              "at": 4,
+              "text": "Akuma commented on an accent slip and learning Varisian."
+            },
+            {
+              "at": 8,
+              "text": "Akuma told the captain it was an honor to serve and that he should get rest."
+            },
+            {
+              "at": 9,
+              "text": "Akuma saluted and left the room toward his bed."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 10,
+          "last": 24,
+          "area": "infirmary",
+          "location": "infirmary",
+          "events": [
+            {
+              "at": 10,
+              "text": "The focus returned to the infirmary."
+            },
+            {
+              "at": 12,
+              "text": "Consulting Detective Báyakan introduced himself as newly appointed to the team."
+            },
+            {
+              "at": 13,
+              "text": "Akuma welcomed Báyakan and joked about not squishing him."
+            },
+            {
+              "at": 19,
+              "text": "Nadya explained she was a kitsune who chose her appearance."
+            },
+            {
+              "at": 21,
+              "text": "Akuma shared that his mother died to give him life and he did not know his father."
+            },
+            {
+              "at": 24,
+              "text": "Nadya said they would see what the captain had for them tomorrow."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 114,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 21,
+          "area": "Lavarsus's office",
+          "location": "Lavarsus's office",
+          "events": [
+            {
+              "at": 1,
+              "text": "The party reported for duty and were ushered into Lavarsus's office."
+            },
+            {
+              "at": 13,
+              "text": "Lavarsus assigned the party to investigate the missing persons reports."
+            },
+            {
+              "at": 15,
+              "text": "Lavarsus ordered the party to start with the Minkaian Trade House in the Dockway."
+            },
+            {
+              "at": 21,
+              "text": "Lavarsus told the party to get out of his office and find the Trade House near the Bazaar of Sails."
+            }
+          ],
+          "time_cues": [
+            "the next morning",
+            "two nights ago"
+          ]
+        },
+        {
+          "first": 22,
+          "last": 82,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 22,
+              "text": "Akuma stepped out of the office."
+            },
+            {
+              "at": 25,
+              "text": "Báyakan summarized the missing wizard Kemeneles, ice wine merchant, Jalmeri tourists and Minkaian stonemasons."
+            },
+            {
+              "at": 49,
+              "text": "Changer said Korvosa was the primary external threat and the party was not an internal threat."
+            },
+            {
+              "at": 51,
+              "text": "Changer said the Minkaian Trade House was 1.7 miles northeast and warned about Korvosan agents."
+            },
+            {
+              "at": 64,
+              "text": "Changer announced additional personnel waiting at the Dockway entrance."
+            },
+            {
+              "at": 82,
+              "text": "The party watched the heroes of Magnimar go past in a carriage from dockway to Naos."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 83,
+          "last": 91,
+          "area": "dockway",
+          "location": "Dockway entrance, northeast corner",
+          "events": [
+            {
+              "at": 83,
+              "text": "The party arrived at the Dockway entrance and met a uniformed kobold."
+            },
+            {
+              "at": 85,
+              "text": "Kitt jumped up and down and waved to get the party's attention."
+            },
+            {
+              "at": 89,
+              "text": "Kitt introduced as Inspector Kitt of the Chaplains Unit."
+            },
+            {
+              "at": 91,
+              "text": "Changer ordered the group onward to the trade house."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 92,
+          "last": 114,
+          "area": "Minkaian Trade House",
+          "location": "construction site",
+          "events": [
+            {
+              "at": 95,
+              "text": "The party saw an unfinished Tian-Xia tower behind tall red walls."
+            },
+            {
+              "at": 99,
+              "text": "Builders, guards, planners, cooks and labourers ran around yelling."
+            },
+            {
+              "at": 104,
+              "text": "Nadya called out to the woman as Magniwatch."
+            },
+            {
+              "at": 107,
+              "text": "A limestone gargoyle-like watcher moved through the crowd to join the party."
+            },
+            {
+              "at": 112,
+              "text": "Báyakan flew to the woman's shoulder and showed his badge."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 39,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 31,
+          "area": "Minkaian Trade House",
+          "location": "construction site",
+          "events": [
+            {
+              "at": 4,
+              "text": "Ama Uomi introduced herself as project coordinator for the Lantern Lodge."
+            },
+            {
+              "at": 6,
+              "text": "Ama Uomi said five Minkaian stonemasons vanished a few nights ago."
+            },
+            {
+              "at": 7,
+              "text": "Ama Uomi said the kobold crew demanded back pay and threatened to collapse the support beams."
+            },
+            {
+              "at": 10,
+              "text": "Kitt offered to help resolve the situation peacefully."
+            },
+            {
+              "at": 28,
+              "text": "Ama Uomi reported the guarded front stairs had gone quiet."
+            },
+            {
+              "at": 30,
+              "text": "Ama Uomi looked toward the marble steps marking the temple entrance."
+            }
+          ],
+          "time_cues": [
+            "A few nights ago",
+            "THIS morning"
+          ]
+        },
+        {
+          "first": 32,
+          "last": 39,
+          "area": "Minkaian Trade House",
+          "location": "front stairs",
+          "events": [
+            {
+              "at": 32,
+              "text": "Akuma started toward the stairs with his arms raised."
+            },
+            {
+              "at": 33,
+              "text": "Nadya watched Akuma advance warily."
+            },
+            {
+              "at": 36,
+              "text": "A voice from inside the building invited the party in and told them to watch their step."
+            },
+            {
+              "at": 38,
+              "text": "The GM asked if Kitt spoke Draconic."
+            },
+            {
+              "at": 39,
+              "text": "Akuma asked out of character what the kobolds said in Draconic."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 53,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 24,
+          "area": "Minkaian Trade House",
+          "location": "front stairs",
+          "events": [
+            {
+              "at": 1,
+              "text": "Overheard two Draconic voices arguing about posts in fountain room, ceiling and offering hall"
+            },
+            {
+              "at": 4,
+              "text": "Báyakan reported the back near the flimsy parchment wall likely had fewer traps"
+            },
+            {
+              "at": 12,
+              "text": "Nadya voted for the back way and prioritized the missing people"
+            },
+            {
+              "at": 13,
+              "text": "Akuma asked Changer to offer surrender and looked for a climb point"
+            },
+            {
+              "at": 18,
+              "text": "Paper-and-lattice wall panels were within arm's reach"
+            },
+            {
+              "at": 24,
+              "text": "Changer walked up to the front doors"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 25,
+          "last": 28,
+          "area": "Minkaian Trade House",
+          "location": "top of building",
+          "events": [
+            {
+              "at": 25,
+              "text": "Party stood on top of the building while Changer stayed on ground level"
+            },
+            {
+              "at": 27,
+              "text": "Changer knocked on the front doors and ordered surrender in Magnimar's name"
+            },
+            {
+              "at": 28,
+              "text": "Received no answer"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 29,
+          "last": 38,
+          "area": "Minkaian Trade House",
+          "location": "1st floor",
+          "events": [
+            {
+              "at": 29,
+              "text": "Party stood upon the 1st floor"
+            },
+            {
+              "at": 30,
+              "text": "Felt warm heat rising from the room below"
+            },
+            {
+              "at": 31,
+              "text": "Heard bubbling sound and rushing water"
+            },
+            {
+              "at": 33,
+              "text": "Akuma attempted to move into the building quietly to spot kobolds"
+            },
+            {
+              "at": 34,
+              "text": "Báyakan quietly followed Akuma"
+            },
+            {
+              "at": 35,
+              "text": "Kitt followed behind the others"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 39,
+          "last": 53,
+          "area": "Minkaian Trade House",
+          "location": "fountain room",
+          "events": [
+            {
+              "at": 39,
+              "text": "Breached from the roof"
+            },
+            {
+              "at": 41,
+              "text": "Nadya was noisy during the breach"
+            },
+            {
+              "at": 42,
+              "text": "Saw a female kobold guarding a large water fountain holding a detonator switch"
+            },
+            {
+              "at": 44,
+              "text": "Saw the front entrance was rigged with traps they had avoided"
+            },
+            {
+              "at": 51,
+              "text": "Kobold threatened to boil everyone if they came closer"
+            },
+            {
+              "at": 52,
+              "text": "Felt boiling fountain water heating the room"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 56,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 56,
+          "area": "Minkaian Trade House",
+          "location": "fountain room",
+          "events": [
+            {
+              "at": 15,
+              "text": "Doopa put the detonator on the ground and gave her name."
+            },
+            {
+              "at": 26,
+              "text": "The party learned the fountain would still explode."
+            },
+            {
+              "at": 32,
+              "text": "Báyakan offered to attempt to disable the fountain trap."
+            },
+            {
+              "at": 42,
+              "text": "Doopa said Rekarek was in the big room with the fox statues."
+            },
+            {
+              "at": 43,
+              "text": "Doopa said Skerix was upstairs with the hostages."
+            },
+            {
+              "at": 56,
+              "text": "Báyakan made four clean disconnects of the pressure plates."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 289,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 7,
+          "area": "Minkaian Trade House",
+          "location": "fountain room",
+          "events": [
+            {
+              "at": 4,
+              "text": "Changer said the party was on the clock and must proceed."
+            },
+            {
+              "at": 5,
+              "text": "Link agreed to proceed."
+            },
+            {
+              "at": 7,
+              "text": "The party moved forward."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 8,
+          "last": 113,
+          "area": "Minkaian Trade House",
+          "location": "open-air garden walkway",
+          "events": [
+            {
+              "at": 8,
+              "text": "The party exited the fountain room east through the open-air garden walkway."
+            },
+            {
+              "at": 9,
+              "text": "The party was ambushed with crossbow bolts."
+            },
+            {
+              "at": 14,
+              "text": "Nadya was hit for 24 damage and left dying."
+            },
+            {
+              "at": 47,
+              "text": "Changer healed Nadya and saved her life."
+            },
+            {
+              "at": 73,
+              "text": "Both kobolds were knocked unconscious."
+            },
+            {
+              "at": 111,
+              "text": "The party opened the door to Room 4."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 114,
+          "last": 289,
+          "area": "Minkaian Trade House",
+          "location": "Room 4",
+          "events": [
+            {
+              "at": 115,
+              "text": "The dart trap sprang and rained darts on Akuma."
+            },
+            {
+              "at": 184,
+              "text": "Akuma was fully healed."
+            },
+            {
+              "at": 214,
+              "text": "Natalia and Cackle entered the room and aided Akuma."
+            },
+            {
+              "at": 234,
+              "text": "Nadya took 30 damage from a critical dart hit."
+            },
+            {
+              "at": 264,
+              "text": "Báyakan disabled another dart tube."
+            },
+            {
+              "at": 287,
+              "text": "Akuma fought defensively against the darts."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 117,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 117,
+          "area": "Minkaian Trade House",
+          "location": "Room 4",
+          "events": [
+            {
+              "at": 22,
+              "text": "Cackle died after the dart trap hit him."
+            },
+            {
+              "at": 68,
+              "text": "Anko jammed one of the dart pipes."
+            },
+            {
+              "at": 82,
+              "text": "Changer clogged the final dart tube and disabled the trap."
+            },
+            {
+              "at": 88,
+              "text": "Natalia introduced herself to the party."
+            },
+            {
+              "at": 96,
+              "text": "Kitt started treating Akuma's wounds."
+            },
+            {
+              "at": 110,
+              "text": "Changer broke down the dart trap for parts."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {
+    "The tipsy tenth": "The Tipsy Tengu",
+    "carriage": "Carriage to the Alabaster District",
+    "cosy stone house": "Zilde's house",
+    "garden": "Manor house garden"
+  },
+  "area_renames": {
+    "Lavarsus's office": "Arvensoar",
+    "Lower Dockway": "dockway",
+    "dock": "dockway",
+    "Minkaian Trade House": "dockway",
+    "The tipsy tenth": "The Tipsy Tengu",
+    "carriage": "Alabaster District",
+    "large manor house": "Alabaster District",
+    "cosy stone house": "Zilde's house"
+  }
+}

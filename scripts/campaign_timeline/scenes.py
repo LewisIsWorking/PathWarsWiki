@@ -92,10 +92,14 @@ def parse_reply(reply: str) -> dict:
     """
     if _DESTROYED in reply:
         raise ValueError("reply contains a destroyed character (U+FFFD)")
-    start, end = reply.find("{"), reply.rfind("}")
-    if start < 0 or end <= start:
+    # The FIRST complete object, not first "{" to last "}". C05's grouping
+    # reply (2026-09-17) carried a second JSON snippet after the answer, and
+    # slicing to the last brace failed with "Extra data".
+    start = reply.find("{")
+    if start < 0:
         raise ValueError("no JSON object in the reply")
-    return json.loads(reply[start:end + 1])
+    value, _end = json.JSONDecoder().raw_decode(reply, start)
+    return value
 
 
 def _norm(text: str) -> str:

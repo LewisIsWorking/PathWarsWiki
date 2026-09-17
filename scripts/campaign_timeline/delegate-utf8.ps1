@@ -10,5 +10,5 @@ param(
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 $OutputEncoding = [System.Text.Encoding]::UTF8
 & (Join-Path $HOME '.claude/skills/delegate/delegate.ps1') `
-    -Task $Task -Files $File -Profile bulkfiles -MaxTokens 16000
+    -Task $Task -Files $File -Profile accurate -MaxTokens 16000
 exit $LASTEXITCODE
