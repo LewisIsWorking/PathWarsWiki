@@ -16,63 +16,57 @@ flowchart TD
         v1["<b>2.1 Sewer pipe</b><br/>🗓️ IRL 6d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v2["<b>2.2 Intersection of a sewer</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a2["3. Leeward District · 🗓️ IRL 8h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a2["3. Riddleport · 🗓️ IRL 1d 9h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v3["<b>3.1 Alleyway</b><br/>🗓️ IRL 8h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v4["<b>3.2 Bakery</b><br/>🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a3["4. Bakery · 🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a3["4. St. Caspian's Salvation · 🗓️ IRL 51w 4d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
-        v4["<b>4.1 Bakery</b><br/>🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v5["<b>4.1 Iron gate</b><br/>🗓️ IRL 3d 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v6["<b>4.2 Door</b><br/>🗓️ IRL 5d 23h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v7["<b>4.3 Hall</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v8["<b>4.4 Roof</b><br/>🗓️ IRL 1d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v9["<b>4.5 Hall</b><br/>🗓️ IRL 3d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v10["<b>4.6 Roof</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v11["<b>4.7 Inner chapel</b><br/>🗓️ IRL 2w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v12["<b>4.8 Hall</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v13["<b>4.9 Large hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v14["<b>4.10 Corridors</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v15["<b>4.11 Outside of room 9</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v16["<b>4.12 Room 9</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v17["<b>4.13 Door</b><br/>🗓️ IRL 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v18["<b>4.14 Room 12</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v19["<b>4.15 Door</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v20["<b>4.16 Room 13</b><br/>🗓️ IRL 10w 1h ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
+        v21["<b>4.17 Corridors</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v22["<b>4.18 Library</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v23["<b>4.19 Tower</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v24["<b>4.20 Stone platform</b><br/>🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v25["<b>4.21 Upper bell tower</b><br/>🗓️ IRL 5d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v26["<b>4.22 Tower</b><br/>🗓️ IRL 5d 3h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v27["<b>4.23 Corridors</b><br/>🗓️ IRL 6d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v28["<b>4.24 Tower</b><br/>🗓️ IRL 1w 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v29["<b>4.25 Upper bell tower</b><br/>🗓️ IRL 7w 3d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
+        v30["<b>4.26 Tower</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v31["<b>4.27 Large hallway</b><br/>🗓️ IRL 3w 3d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v32["<b>4.28 Temple grounds</b><br/>🗓️ IRL 3w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a4["5. St. Caspian's Salvation · 🗓️ IRL 51w 4d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a4["5. Riddleport · 🗓️ IRL 1w 12h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v5["<b>5.1 Iron gate</b><br/>🗓️ IRL 3d 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v6["<b>5.2 Door</b><br/>🗓️ IRL 5d 23h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v7["<b>5.3 Hall</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v8["<b>5.4 Roof</b><br/>🗓️ IRL 1d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v9["<b>5.5 Hall</b><br/>🗓️ IRL 3d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v10["<b>5.6 Roof</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v11["<b>5.7 Inner chapel</b><br/>🗓️ IRL 2w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v12["<b>5.8 Hall</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v13["<b>5.9 Large hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v14["<b>5.10 Corridors</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v15["<b>5.11 Outside of room 9</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v16["<b>5.12 Room 9</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v17["<b>5.13 Door</b><br/>🗓️ IRL 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v18["<b>5.14 Room 12</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v19["<b>5.15 Door</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v20["<b>5.16 Room 13</b><br/>🗓️ IRL 10w 1h ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
-        v21["<b>5.17 Corridors</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v22["<b>5.18 Library</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v23["<b>5.19 Tower</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v24["<b>5.20 Stone platform</b><br/>🗓️ IRL 1d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v25["<b>5.21 Upper bell tower</b><br/>🗓️ IRL 5d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v26["<b>5.22 Tower</b><br/>🗓️ IRL 5d 3h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v27["<b>5.23 Corridors</b><br/>🗓️ IRL 6d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v28["<b>5.24 Tower</b><br/>🗓️ IRL 1w 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v29["<b>5.25 Upper bell tower</b><br/>🗓️ IRL 7w 3d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
-        v30["<b>5.26 Tower</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v31["<b>5.27 Large hallway</b><br/>🗓️ IRL 3w 3d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v32["<b>5.28 Temple grounds</b><br/>🗓️ IRL 3w 4d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v33["<b>5.1 Streets</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v34["<b>5.2 Pawn shop</b><br/>🗓️ IRL 1w 12h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a5["6. Riddleport · 🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a5["6. The Silver Succubi · 🗓️ IRL 35w 2d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v33["<b>6.1 Streets</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a6["7. Pawn shop · 🗓️ IRL 1w 12h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v34["<b>7.1 Pawn shop</b><br/>🗓️ IRL 1w 12h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a7["8. The Silver Succubi · 🗓️ IRL 35w 2d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
-    direction TB
-        v35["<b>8.1 Plaza</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v36["<b>8.2 Entrance hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v37["<b>8.3 Casino floor</b><br/>🗓️ IRL 12w 6d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
-        v38["<b>8.4 Staircase</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v39["<b>8.5 Hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v40["<b>8.6 Marlo's office</b><br/>🗓️ IRL 5w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v41["<b>8.7 Casino floor</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v42["<b>8.8 Shop</b><br/>🗓️ IRL 10w 6d ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
+        v35["<b>6.1 Plaza</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v36["<b>6.2 Entrance hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v37["<b>6.3 Casino floor</b><br/>🗓️ IRL 12w 6d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v38["<b>6.4 Staircase</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v39["<b>6.5 Hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v40["<b>6.6 Marlo's office</b><br/>🗓️ IRL 5w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v41["<b>6.7 Casino floor</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v42["<b>6.8 Shop</b><br/>🗓️ IRL 10w 6d ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -173,9 +167,9 @@ flowchart TD
 - 04 Jan: Sinhow asked Cardigan to lead the way out of the sewer.
 - 05 Jan: Sinhow used Arcane Sense to cast detect magic.
 
-## 3. Leeward District
+## 3. Riddleport
 
-- 🗓️ **IRL:** 5 Jan 2025 to 5 Jan 2025, 8h
+- 🗓️ **IRL:** 5 Jan 2025 to 6 Jan 2025, 1d 9h
 - ⏳ **In-game:** not all rooms filled in
 
 ### 3.1 Alleyway
@@ -193,12 +187,7 @@ flowchart TD
 - 05 Jan: Several prostitutes walked past the alleyway entrance.
 - 05 Jan: The party saw a Wainwright, an open bakery, and a church of Sarenrae.
 
-## 4. Bakery
-
-- 🗓️ **IRL:** 5 Jan 2025 to 6 Jan 2025, 1d 2h
-- ⏳ **In-game:** not all rooms filled in
-
-### 4.1 Bakery
+### 3.2 Bakery
 
 - 🗓️ **IRL:** 5 Jan 2025 to 6 Jan 2025, 1d 2h, 8 posts
 - ⏳ **In-game:** not filled in (`"2025-01#39"` in `timelines/C00-Riddleport.json`)
@@ -210,12 +199,12 @@ flowchart TD
 - 05 Jan: Cardigan looked sad at the state of the church.
 - 06 Jan: The party left the bakery with a loaf of fancy bread.
 
-## 5. St. Caspian's Salvation
+## 4. St. Caspian's Salvation
 
 - 🗓️ **IRL:** 6 Jan 2025 to 3 Jan 2026, 51w 4d
 - ⏳ **In-game:** not all rooms filled in
 
-### 5.1 Iron gate
+### 4.1 Iron gate
 
 - 🗓️ **IRL:** 6 Jan 2025 to 9 Jan 2025, 3d 5h, 7 posts
 - ⏳ **In-game:** not filled in (`"2025-01#47"` in `timelines/C00-Riddleport.json`)
@@ -227,7 +216,7 @@ flowchart TD
 - 09 Jan: The party saw a large oak tree between the fence and the church.
 - 09 Jan: Cardigan recalled climbing the tree with Boggly.
 
-### 5.2 Door
+### 4.2 Door
 
 - 🗓️ **IRL:** 9 Jan 2025 to 15 Jan 2025, 5d 23h, 27 posts
 - ⏳ **In-game:** not filled in (`"2025-01#54"` in `timelines/C00-Riddleport.json`)
@@ -241,7 +230,7 @@ flowchart TD
 - 15 Jan: Caroline told the group to follow her up the southern staircase.
 - 15 Jan: Sinhow opened the hall door and counted the people inside.
 
-### 5.3 Hall
+### 4.3 Hall
 
 - 🗓️ **IRL:** 15 Jan 2025 to 17 Feb 2025, 4w 5d, 52 posts
 - ⏳ **In-game:** not filled in (`"2025-01#81"` in `timelines/C00-Riddleport.json`)
@@ -261,7 +250,7 @@ flowchart TD
 - 14 Feb: Sinhow inspected the bear and looked at the girl.
 - 17 Feb: Sinhow suggested finding Necrilla on the roof.
 
-### 5.4 Roof
+### 4.4 Roof
 
 - 🗓️ **IRL:** 18 Feb 2025 to 18 Feb 2025, 1d 9h, 15 posts
 - ⏳ **In-game:** not filled in (`"2025-02#30"` in `timelines/C00-Riddleport.json`)
@@ -275,7 +264,7 @@ flowchart TD
 - 18 Feb: Necrila spoke to the sun and roared in triumph.
 - 18 Feb: Necrila entered back into the building.
 
-### 5.5 Hall
+### 4.5 Hall
 
 - 🗓️ **IRL:** 19 Feb 2025 to 22 Feb 2025, 3d 7h, 4 posts
 - ⏳ **In-game:** not filled in (`"2025-02#45"` in `timelines/C00-Riddleport.json`)
@@ -286,7 +275,7 @@ flowchart TD
 - 21 Feb: Sinhow asked Cardigan what she found out about the church.
 - 22 Feb: Sinhow decided to find Necrilla and go up the ladder.
 
-### 5.6 Roof
+### 4.6 Roof
 
 - 🗓️ **IRL:** 22 Feb 2025 to 22 Feb 2025, <1h, 3 posts
 - ⏳ **In-game:** not filled in (`"2025-02#49"` in `timelines/C00-Riddleport.json`)
@@ -297,7 +286,7 @@ flowchart TD
 - 22 Feb: The group gathered on the roof.
 - 22 Feb: The group prepared to go into the inner chapel.
 
-### 5.7 Inner chapel
+### 4.7 Inner chapel
 
 - 🗓️ **IRL:** 22 Feb 2025 to 13 Mar 2025, 2w 5d, 40 posts
 - ⏳ **In-game:** not filled in (`"2025-02#52"` in `timelines/C00-Riddleport.json`)
@@ -316,7 +305,7 @@ flowchart TD
 - 11 Mar: Father Patrick remembered Cardigan as a name given by Yubis to a Gnomish baby.
 - 11 Mar: Father Patrick welcomed the group to the temple of Sarenrae.
 
-### 5.8 Hall
+### 4.8 Hall
 
 - 🗓️ **IRL:** 13 Mar 2025 to 13 Mar 2025, <1h, 2 posts
 - ⏳ **In-game:** not filled in (`"2025-03#24"` in `timelines/C00-Riddleport.json`)
@@ -326,7 +315,7 @@ flowchart TD
 - 13 Mar: The group went back to the front hall.
 - 13 Mar: The group went up the stairs.
 
-### 5.9 Large hallway
+### 4.9 Large hallway
 
 - 🗓️ **IRL:** 13 Mar 2025 to 13 Mar 2025, <1h, 11 posts
 - ⏳ **In-game:** not filled in (`"2025-03#26"` in `timelines/C00-Riddleport.json`)
@@ -338,7 +327,7 @@ flowchart TD
 - 13 Mar: Caroline introduced Knuckles the man and Fetch the dog.
 - 13 Mar: Caroline told the group to follow her.
 
-### 5.10 Corridors
+### 4.10 Corridors
 
 - 🗓️ **IRL:** 13 Mar 2025 to 13 Mar 2025, <1h, 1 posts
 - ⏳ **In-game:** not filled in (`"2025-03#37"` in `timelines/C00-Riddleport.json`)
@@ -347,7 +336,7 @@ flowchart TD
 
 - 13 Mar: The group went down several corridors and stopped at numbered rooms.
 
-### 5.11 Outside of room 9
+### 4.11 Outside of room 9
 
 - 🗓️ **IRL:** 13 Mar 2025 to 13 Mar 2025, <1h, 2 posts
 - ⏳ **In-game:** not filled in (`"2025-03#38"` in `timelines/C00-Riddleport.json`)
@@ -357,7 +346,7 @@ flowchart TD
 - 13 Mar: Caroline took the group outside of room 9.
 - 13 Mar: Caroline opened the door of room 9.
 
-### 5.12 Room 9
+### 4.12 Room 9
 
 - 🗓️ **IRL:** 13 Mar 2025 to 13 Apr 2025, 4w 2d, 145 posts
 - ⏳ **In-game:** not filled in (`"2025-03#40"` in `timelines/C00-Riddleport.json`)
@@ -377,7 +366,7 @@ flowchart TD
 - 13 Apr: Mad Rat said Badeye Rumblefist and Rasper Ellias were in Room 13 with scorpions.
 - 13 Apr: Sinhow ordered the group to head to Room 12.
 
-### 5.13 Door
+### 4.13 Door
 
 - 🗓️ **IRL:** 13 Apr 2025 to 14 Apr 2025, 4h, 6 posts
 - ⏳ **In-game:** not filled in (`"2025-04#39"` in `timelines/C00-Riddleport.json`)
@@ -388,7 +377,7 @@ flowchart TD
 - 13 Apr: A gruff voice yelled from inside.
 - 14 Apr: Brandy Nurrus opened the door.
 
-### 5.14 Room 12
+### 4.14 Room 12
 
 - 🗓️ **IRL:** 14 Apr 2025 to 29 Apr 2025, 2w 1d, 67 posts
 - ⏳ **In-game:** not filled in (`"2025-04#45"` in `timelines/C00-Riddleport.json`)
@@ -402,7 +391,7 @@ flowchart TD
 - 18 Apr: The box contained silver cutlery and a strange +1 spyglass.
 - 20 Apr: Sinhow herded the party toward the door of Room 13.
 
-### 5.15 Door
+### 4.15 Door
 
 - 🗓️ **IRL:** 29 Apr 2025 to 29 Apr 2025, <1h, 3 posts
 - ⏳ **In-game:** not filled in (`"2025-04#112"` in `timelines/C00-Riddleport.json`)
@@ -412,7 +401,7 @@ flowchart TD
 - 29 Apr: The group walked up to door 13.
 - 29 Apr: Two voices cheered on a cock fight inside.
 
-### 5.16 Room 13
+### 4.16 Room 13
 
 - 🗓️ **IRL:** 29 Apr 2025 to 8 Jul 2025, 10w 1h, 169 posts
 - ⏳ **In-game:** not filled in (`"2025-04#115"` in `timelines/C00-Riddleport.json`)
@@ -442,7 +431,7 @@ flowchart TD
 - 07 Jul: Moonshine stumbled out from around the corner.
 - 08 Jul: Rax slipped inside through the ajar door.
 
-### 5.17 Corridors
+### 4.17 Corridors
 
 - 🗓️ **IRL:** 8 Jul 2025 to 17 Jul 2025, 1w 1d, 55 posts
 - ⏳ **In-game:** not filled in (`"2025-07#54"` in `timelines/C00-Riddleport.json`)
@@ -456,7 +445,7 @@ flowchart TD
 - 09 Jul: Rax offered to hit Pidge with a Skunk Bomb.
 - 17 Jul: The party made their way down the corridor.
 
-### 5.18 Library
+### 4.18 Library
 
 - 🗓️ **IRL:** 17 Jul 2025 to 19 Aug 2025, 4w 5d, 72 posts
 - ⏳ **In-game:** not filled in (`"2025-07#109"` in `timelines/C00-Riddleport.json`)
@@ -475,7 +464,7 @@ flowchart TD
 - 05 Aug: Sinhow outlined the climb, cut, and whistle signal plan.
 - 19 Aug: Moonshine prepared a climbing kit and repeated the plan.
 
-### 5.19 Tower
+### 4.19 Tower
 
 - 🗓️ **IRL:** 19 Aug 2025 to 25 Aug 2025, 1w 1d, 86 posts
 - ⏳ **In-game:** not filled in (`"2025-08#17"` in `timelines/C00-Riddleport.json`)
@@ -489,7 +478,7 @@ flowchart TD
 - 21 Aug: Moonshine completed the climb to 100 feet.
 - 25 Aug: Yaseitori completed the climb to 100 feet.
 
-### 5.20 Stone platform
+### 4.20 Stone platform
 
 - 🗓️ **IRL:** 28 Aug 2025 to 29 Aug 2025, 1d 2h, 10 posts
 - ⏳ **In-game:** not filled in (`"2025-08#103"` in `timelines/C00-Riddleport.json`)
@@ -502,7 +491,7 @@ flowchart TD
 - 29 Aug: Cardigan wondered inside the temple about the bell tower.
 - 29 Aug: Moonshine pushed the doors open to peer inside.
 
-### 5.21 Upper bell tower
+### 4.21 Upper bell tower
 
 - 🗓️ **IRL:** 29 Aug 2025 to 3 Sep 2025, 5d 21h, 28 posts
 - ⏳ **In-game:** not filled in (`"2025-08#113"` in `timelines/C00-Riddleport.json`)
@@ -519,7 +508,7 @@ flowchart TD
 - 03 Sep: Yaseitori walked toward the abseiling gear and suggested cutting it.
 - 03 Sep: Suggested weakening the rope so it tore when used.
 
-### 5.22 Tower
+### 4.22 Tower
 
 - 🗓️ **IRL:** 4 Sep 2025 to 7 Sep 2025, 5d 3h, 14 posts
 - ⏳ **In-game:** not filled in (`"2025-09#26"` in `timelines/C00-Riddleport.json`)
@@ -531,7 +520,7 @@ flowchart TD
 - 07 Sep: Yaseitori decided to wait on top.
 - 07 Sep: Moonshine blew the signal whistle.
 
-### 5.23 Corridors
+### 4.23 Corridors
 
 - 🗓️ **IRL:** 9 Sep 2025 to 16 Sep 2025, 6d 16h, 25 posts
 - ⏳ **In-game:** not filled in (`"2025-09#40"` in `timelines/C00-Riddleport.json`)
@@ -545,7 +534,7 @@ flowchart TD
 - 12 Sep: Igarashi Enya ran away when her nerve broke.
 - 14 Sep: Found a spiral staircase of grey stone behind the door in the same corridor.
 
-### 5.24 Tower
+### 4.24 Tower
 
 - 🗓️ **IRL:** 16 Sep 2025 to 23 Sep 2025, 1w 2h, 14 posts
 - ⏳ **In-game:** not filled in (`"2025-09#65"` in `timelines/C00-Riddleport.json`)
@@ -557,7 +546,7 @@ flowchart TD
 - 21 Sep: Moved everyone up the stairs at max speed.
 - 23 Sep: Noted that checking for traps slowed movement.
 
-### 5.25 Upper bell tower
+### 4.25 Upper bell tower
 
 - 🗓️ **IRL:** 23 Sep 2025 to 14 Nov 2025, 7w 3d, 91 posts
 - ⏳ **In-game:** not filled in (`"2025-09#79"` in `timelines/C00-Riddleport.json`)
@@ -578,7 +567,7 @@ flowchart TD
 - 14 Nov: GM asked about taking Mad Rat's turn.
 - 14 Nov: Ryo noted Mad Rat had acted and Cardigan was awaited.
 
-### 5.26 Tower
+### 4.26 Tower
 
 - 🗓️ **IRL:** 14 Nov 2025 to 14 Nov 2025, <1h, 1 posts
 - ⏳ **In-game:** not filled in (`"2025-11#6"` in `timelines/C00-Riddleport.json`)
@@ -587,7 +576,7 @@ flowchart TD
 
 - 14 Nov: Sinhow yelled and rushed down the spiral stairs to ground level.
 
-### 5.27 Large hallway
+### 4.27 Large hallway
 
 - 🗓️ **IRL:** 14 Nov 2025 to 9 Dec 2025, 3w 3d, 53 posts
 - ⏳ **In-game:** not filled in (`"2025-11#7"` in `timelines/C00-Riddleport.json`)
@@ -603,7 +592,7 @@ flowchart TD
 - 09 Dec: Beltias Kreun critically succeeded his second Escape attempt.
 - 09 Dec: Beltias Kreun stood up after escaping.
 
-### 5.28 Temple grounds
+### 4.28 Temple grounds
 
 - 🗓️ **IRL:** 9 Dec 2025 to 3 Jan 2026, 3w 4d, 103 posts
 - ⏳ **In-game:** not filled in (`"2025-12#49"` in `timelines/C00-Riddleport.json`)
@@ -622,12 +611,12 @@ flowchart TD
 - 03 Jan: Saw Kreun's ciphered papers and loot from bell tower
 - 03 Jan: Watched Cardigan cry over priest's gift
 
-## 6. Riddleport
+## 5. Riddleport
 
-- 🗓️ **IRL:** 3 Jan 2026 to 3 Jan 2026, <1h
+- 🗓️ **IRL:** 3 Jan 2026 to 5 Jan 2026, 1w 12h
 - ⏳ **In-game:** not all rooms filled in
 
-### 6.1 Streets
+### 5.1 Streets
 
 - 🗓️ **IRL:** 3 Jan 2026 to 3 Jan 2026, <1h, 3 posts
 - ⏳ **In-game:** not filled in (`"2026-01#19"` in `timelines/C00-Riddleport.json`)
@@ -639,12 +628,7 @@ flowchart TD
 - 03 Jan: Saw wilds of pirate city
 - 03 Jan: Saw mid-day parties, fighting and crime
 
-## 7. Pawn shop
-
-- 🗓️ **IRL:** 3 Jan 2026 to 5 Jan 2026, 1w 12h
-- ⏳ **In-game:** not all rooms filled in
-
-### 7.1 Pawn shop
+### 5.2 Pawn shop
 
 - 🗓️ **IRL:** 3 Jan 2026 to 5 Jan 2026, 1w 12h, 8 posts
 - ⏳ **In-game:** not filled in (`"2026-01#22"` in `timelines/C00-Riddleport.json`)
@@ -657,12 +641,12 @@ flowchart TD
 - 03 Jan: Learned Crimelord Cyrus wanted to see party with Beltias
 - 03 Jan: Learned next stop was Silver Succubi night club
 
-## 8. The Silver Succubi
+## 6. The Silver Succubi
 
 - 🗓️ **IRL:** 10 Jan 2026 to 15 Sep 2026, 35w 2d
 - ⏳ **In-game:** not all rooms filled in
 
-### 8.1 Plaza
+### 6.1 Plaza
 
 - 🗓️ **IRL:** 10 Jan 2026 to 14 Jan 2026, 1w 4d, 25 posts
 - ⏳ **In-game:** not filled in (`"2026-01#30"` in `timelines/C00-Riddleport.json`)
@@ -676,7 +660,7 @@ flowchart TD
 - 14 Jan: Learned not to stare at Mr Cyrus's clockwork hand
 - 14 Jan: Said party was ready to enter
 
-### 8.2 Entrance hallway
+### 6.2 Entrance hallway
 
 - 🗓️ **IRL:** 22 Jan 2026 to 22 Jan 2026, <1h, 11 posts
 - ⏳ **In-game:** not filled in (`"2026-01#55"` in `timelines/C00-Riddleport.json`)
@@ -688,7 +672,7 @@ flowchart TD
 - 22 Jan: Met one-eyed orc Davy Crab-Basket
 - 22 Jan: Learned Davy recognised Beltias
 
-### 8.3 Casino floor
+### 6.3 Casino floor
 
 - 🗓️ **IRL:** 22 Jan 2026 to 22 Apr 2026, 12w 6d, 249 posts
 - ⏳ **In-game:** not filled in (`"2026-01#66"` in `timelines/C00-Riddleport.json`)
@@ -719,7 +703,7 @@ flowchart TD
 - 19 Apr: GM asked if the party wished to move up to Marlo's office. [↗](https://t.me/Path_Wars/66154/146284)
 - 19 Apr: Party agreed to go to Marlo's office. [↗](https://t.me/Path_Wars/66154/146294)
 
-### 8.4 Staircase
+### 6.4 Staircase
 
 - 🗓️ **IRL:** 22 Apr 2026 to 22 Apr 2026, <1h, 10 posts
 - ⏳ **In-game:** not filled in (`"2026-04#18"` in `timelines/C00-Riddleport.json`)
@@ -731,7 +715,7 @@ flowchart TD
 - 22 Apr: Marlo's clockwork hand ticked on the bannister ahead. [↗](https://t.me/Path_Wars/66154/147219)
 - 22 Apr: Sounds of the club grew quieter. [↗](https://t.me/Path_Wars/66154/147223)
 
-### 8.5 Hallway
+### 6.5 Hallway
 
 - 🗓️ **IRL:** 22 Apr 2026 to 22 Apr 2026, <1h, 5 posts
 - ⏳ **In-game:** not filled in (`"2026-04#28"` in `timelines/C00-Riddleport.json`)
@@ -743,7 +727,7 @@ flowchart TD
 - 22 Apr: Davy Crab Basket stood next to the steel door. [↗](https://t.me/Path_Wars/66154/147229)
 - 22 Apr: Davy opened the door. [↗](https://t.me/Path_Wars/66154/147231)
 
-### 8.6 Marlo's office
+### 6.6 Marlo's office
 
 - 🗓️ **IRL:** 22 Apr 2026 to 1 Jun 2026, 5w 4d, 116 posts
 - ⏳ **In-game:** not filled in (`"2026-04#33"` in `timelines/C00-Riddleport.json`)
@@ -770,7 +754,7 @@ flowchart TD
 - 01 Jun: Marlo asked how to prepare for Anger. [↗](https://t.me/Path_Wars/66154/157936)
 - 01 Jun: Marlo offered the armoury and shop for preparation. [↗](https://t.me/Path_Wars/66154/157986)
 
-### 8.7 Casino floor
+### 6.7 Casino floor
 
 - 🗓️ **IRL:** 1 Jun 2026 to 1 Jul 2026, 4w 2d, 71 posts
 - ⏳ **In-game:** not filled in (`"2026-06#12"` in `timelines/C00-Riddleport.json`)
@@ -786,7 +770,7 @@ flowchart TD
 - 29 Jun: Rax left to head home to restock supplies. [↗](https://t.me/Path_Wars/66154/163696)
 - 01 Jul: GM asked Rax where to go and what to do. [↗](https://t.me/Path_Wars/66154/164243)
 
-### 8.8 Shop
+### 6.8 Shop
 
 - 🗓️ **IRL:** 1 Jul 2026 to 15 Sep 2026, 10w 6d, 109 posts
 - ⏳ **In-game:** not filled in (`"2026-07#2"` in `timelines/C00-Riddleport.json`)

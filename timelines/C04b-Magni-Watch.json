@@ -1809,5 +1809,10 @@
   },
   "in_game": {},
   "renames": {},
-  "area_renames": {}
+  "area_renames": {
+    "Lavarsus's office": "Arvensoar",
+    "Lower Dockway": "dockway",
+    "dock": "dockway",
+    "Minkaian Trade House": "dockway"
+  }
 }

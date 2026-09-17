@@ -259,3 +259,36 @@ def test_unknown_places_say_what_they_are():
     assert name_unstated("Unknown", "Unknown", first_place=False) == ("Location not stated", "Not stated")
     assert name_unstated("Kibwe", "Unknown", first_place=False) == ("Kibwe", "Not stated")
     assert name_unstated("Kibwe", "Sun Temple", first_place=True) == ("Kibwe", "Sun Temple")
+
+
+def test_only_the_first_json_object_is_read():
+    """C05's reply had a second snippet after the answer ("Extra data")."""
+    assert parse_reply('{"inside": {"A": "B"}}\nFor example: {"inside": {}}') == {"inside": {"A": "B"}}
+
+
+def test_a_delegate_timeout_kills_the_call_and_counts_as_no_reply(monkeypatch):
+    """Before 2026-09-17 a timeout raised out of the run and left pwsh and
+    the OpenCode CLI running behind it."""
+    import subprocess
+    import extract
+
+    killed = []
+
+    class SlowProc:
+        pid = 4242
+        calls = 0
+
+        def __init__(self, *a, **k):
+            pass
+
+        def communicate(self, timeout=None):
+            SlowProc.calls += 1
+            if SlowProc.calls == 1:
+                raise subprocess.TimeoutExpired("pwsh", timeout)
+            return "", ""
+
+    monkeypatch.setattr(extract.subprocess, "Popen", SlowProc)
+    monkeypatch.setattr(extract.subprocess, "run", lambda args, **k: killed.append(args))
+    reply, _model = extract.ask("prompt")
+    assert reply == ""
+    assert killed and killed[0][:3] == ["taskkill", "/PID", "4242"]

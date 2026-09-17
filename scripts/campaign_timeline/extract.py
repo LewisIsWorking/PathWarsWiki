@@ -95,7 +95,16 @@ def ask(prompt: str) -> tuple[str, str]:
              "-File", prompt_file],
             stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
             text=True, encoding="utf-8", errors="replace")
-        reply, _ = proc.communicate(timeout=900)
+        try:
+            reply, _ = proc.communicate(timeout=900)
+        except subprocess.TimeoutExpired:
+            # Kill the whole tree and report no reply, so the caller treats it
+            # like any rejected attempt. Before 2026-09-17 a timeout raised out
+            # of the run and left pwsh and the OpenCode CLI running behind it.
+            subprocess.run(["taskkill", "/PID", str(proc.pid), "/T", "/F"],
+                           capture_output=True)
+            proc.communicate()
+            reply = ""
     finally:
         os.unlink(prompt_file)
     return reply, _model_for(proc.pid)

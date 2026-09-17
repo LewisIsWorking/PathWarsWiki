@@ -11,7 +11,7 @@ flowchart TD
     direction TB
         v0["<b>1.1 Setup posts</b><br/>🗓️ IRL 2w 1d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a1["2. Lavarsus's office · 🗓️ IRL 4w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a1["2. Arvensoar · 🗓️ IRL 4w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v1["<b>2.1 Lavarsus's office</b><br/>🗓️ IRL 4w 3d ▰▰▰▰▰▰▰▱▱▱<br/>⏳ In-game ?"]
     end
@@ -23,7 +23,7 @@ flowchart TD
     direction TB
         v3["<b>4.1 The tipsy tenth</b><br/>🗓️ IRL 6d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a4["5. Lavarsus's office · 🗓️ IRL 5d 11h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a4["5. Arvensoar · 🗓️ IRL 5d 11h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v4["<b>5.1 Lavarsus's office</b><br/>🗓️ IRL 5d 11h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
@@ -31,11 +31,11 @@ flowchart TD
     direction TB
         v5["<b>6.1 The tipsy tenth</b><br/>🗓️ IRL 2d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a6["7. Lavarsus's office · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a6["7. Arvensoar · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v6["<b>7.1 Lavarsus's office</b><br/>🗓️ IRL 1w 2d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a7["8. Lower Dockway · 🗓️ IRL 5w 22h ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a7["8. Dockway · 🗓️ IRL 5w 22h ▰▰▰▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v7["<b>8.1 Food stalls</b><br/>🗓️ IRL 5w 22h ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
     end
@@ -43,7 +43,7 @@ flowchart TD
     direction TB
         v8["<b>9.1 Lowcleft district</b><br/>🗓️ IRL 1w 3h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a9["10. Dock · 🗓️ IRL 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a9["10. Dockway · 🗓️ IRL 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v9["<b>10.1 Dock</b><br/>🗓️ IRL 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
@@ -117,7 +117,7 @@ flowchart TD
     direction TB
         v37["<b>24.1 Infirmary</b><br/>🗓️ IRL 2w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a24["25. Lavarsus's office · 🗓️ IRL 6d 9h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a24["25. Arvensoar · 🗓️ IRL 6d 9h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v38["<b>25.1 Lavarsus's office</b><br/>🗓️ IRL 6d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
@@ -125,19 +125,16 @@ flowchart TD
     direction TB
         v39["<b>26.1 Not stated</b><br/>🗓️ IRL 2w 3d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a26["27. Dockway · 🗓️ IRL 1d 20h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a26["27. Dockway · 🗓️ IRL 19w 1d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
         v40["<b>27.1 Dockway entrance, northeast corner</b><br/>🗓️ IRL 1d 20h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a27["28. Minkaian Trade House · 🗓️ IRL 18w 6d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
-    direction TB
-        v41["<b>28.1 Construction site</b><br/>🗓️ IRL 3w 1d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
-        v42["<b>28.2 Front stairs</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▰▰▰▱▱▱<br/>⏳ In-game ?"]
-        v43["<b>28.3 Top of building</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v44["<b>28.4 1st floor</b><br/>🗓️ IRL 4d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v45["<b>28.5 Fountain room</b><br/>🗓️ IRL 6w 3d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
-        v46["<b>28.6 Open-air garden walkway</b><br/>🗓️ IRL 5d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v47["<b>28.7 Room 4</b><br/>🗓️ IRL 2w 6d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
+        v41["<b>27.2 Construction site</b><br/>🗓️ IRL 3w 1d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
+        v42["<b>27.3 Front stairs</b><br/>🗓️ IRL 4w 5d ▰▰▰▰▰▰▰▱▱▱<br/>⏳ In-game ?"]
+        v43["<b>27.4 Top of building</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v44["<b>27.5 1st floor</b><br/>🗓️ IRL 4d 16h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v45["<b>27.6 Fountain room</b><br/>🗓️ IRL 6w 3d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v46["<b>27.7 Open-air garden walkway</b><br/>🗓️ IRL 5d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v47["<b>27.8 Room 4</b><br/>🗓️ IRL 2w 6d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -203,7 +200,7 @@ flowchart TD
 - 04 Mar: GM introduced the premise that the party were the police.
 - 09 Mar: GM described Lieutenant Lavarsus's appearance.
 
-## 2. Lavarsus's office
+## 2. Arvensoar
 
 - 🗓️ **IRL:** 19 Mar 2025 to 19 Apr 2025, 4w 3d
 - ⏳ **In-game:** not all rooms filled in
@@ -265,7 +262,7 @@ flowchart TD
 - 05 May: Nadya activated the badge and told the adventurers to leave.
 - 07 May: Lysandra exited the Tipsy Tengu to report in.
 
-## 5. Lavarsus's office
+## 5. Arvensoar
 
 - 🗓️ **IRL:** 7 May 2025 to 13 May 2025, 5d 11h
 - ⏳ **In-game:** not all rooms filled in
@@ -300,7 +297,7 @@ flowchart TD
 - 13 May: The party went to the Tipsy Tengus for free drinks and lodging.
 - 13 May: Nadya drank and smoked leftover supplies.
 
-## 7. Lavarsus's office
+## 7. Arvensoar
 
 - 🗓️ **IRL:** 15 May 2025 to 20 May 2025, 1w 2d
 - ⏳ **In-game:** not all rooms filled in
@@ -320,7 +317,7 @@ flowchart TD
 - 20 May: Sergeant Moldun Ollo gave the party a marked patrol map.
 - 20 May: Zilde took the map and thanked the Sergeant.
 
-## 8. Lower Dockway
+## 8. Dockway
 
 - 🗓️ **IRL:** 25 May 2025 to 29 Jun 2025, 5w 22h
 - ⏳ **In-game:** not all rooms filled in
@@ -369,7 +366,7 @@ flowchart TD
 - 07 Jul: The group received 22 gold fined from the thief.
 - 07 Jul: The party received a telepathic message about skeletons attacking dock workers.
 
-## 10. Dock
+## 10. Dockway
 
 - 🗓️ **IRL:** 7 Jul 2025 to 9 Jul 2025, 2d
 - ⏳ **In-game:** not all rooms filled in
@@ -826,7 +823,7 @@ flowchart TD
 - 14 Nov: Akuma shared that his mother died to give him life and he did not know his father.
 - 17 Nov: Nadya said they would see what the captain had for them tomorrow.
 
-## 25. Lavarsus's office
+## 25. Arvensoar
 
 - 🗓️ **IRL:** 3 Dec 2025 to 9 Dec 2025, 6d 9h
 - ⏳ **In-game:** not all rooms filled in
@@ -865,7 +862,7 @@ flowchart TD
 
 ## 27. Dockway
 
-- 🗓️ **IRL:** 27 Dec 2025 to 29 Dec 2025, 1d 20h
+- 🗓️ **IRL:** 27 Dec 2025 to 10 May 2026, 19w 1d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 27.1 Dockway entrance, northeast corner
@@ -880,12 +877,7 @@ flowchart TD
 - 27 Dec: Kitt introduced as Inspector Kitt of the Chaplains Unit.
 - 29 Dec: Changer ordered the group onward to the trade house.
 
-## 28. Minkaian Trade House
-
-- 🗓️ **IRL:** 29 Dec 2025 to 10 May 2026, 18w 6d
-- ⏳ **In-game:** not all rooms filled in
-
-### 28.1 Construction site
+### 27.2 Construction site
 
 - 🗓️ **IRL:** 29 Dec 2025 to 17 Jan 2026, 3w 1d, 54 posts
 - ⏳ **In-game:** not filled in (`"2025-12#92"` in `timelines/C04b-Magni-Watch.json`)
@@ -905,7 +897,7 @@ flowchart TD
 - 16 Jan: Ama Uomi reported the guarded front stairs had gone quiet.
 - 16 Jan: Ama Uomi looked toward the marble steps marking the temple entrance.
 
-### 28.2 Front stairs
+### 27.3 Front stairs
 
 - 🗓️ **IRL:** 20 Jan 2026 to 23 Feb 2026, 4w 5d, 32 posts
 - ⏳ **In-game:** not filled in (`"2026-01#32"` in `timelines/C04b-Magni-Watch.json`)
@@ -924,7 +916,7 @@ flowchart TD
 - 15 Feb: Paper-and-lattice wall panels were within arm's reach
 - 23 Feb: Changer walked up to the front doors
 
-### 28.3 Top of building
+### 27.4 Top of building
 
 - 🗓️ **IRL:** 23 Feb 2026 to 23 Feb 2026, <1h, 4 posts
 - ⏳ **In-game:** not filled in (`"2026-02#25"` in `timelines/C04b-Magni-Watch.json`)
@@ -935,7 +927,7 @@ flowchart TD
 - 23 Feb: Changer knocked on the front doors and ordered surrender in Magnimar's name
 - 23 Feb: Received no answer
 
-### 28.4 1st floor
+### 27.5 1st floor
 
 - 🗓️ **IRL:** 23 Feb 2026 to 24 Feb 2026, 4d 16h, 10 posts
 - ⏳ **In-game:** not filled in (`"2026-02#29"` in `timelines/C04b-Magni-Watch.json`)
@@ -949,7 +941,7 @@ flowchart TD
 - 24 Feb: Báyakan quietly followed Akuma
 - 24 Feb: Kitt followed behind the others
 
-### 28.5 Fountain room
+### 27.6 Fountain room
 
 - 🗓️ **IRL:** 28 Feb 2026 to 14 Apr 2026, 6w 3d, 78 posts
 - ⏳ **In-game:** not filled in (`"2026-02#39"` in `timelines/C04b-Magni-Watch.json`)
@@ -972,7 +964,7 @@ flowchart TD
 - 06 Apr: Link agreed to proceed. [↗](https://t.me/Path_Wars/76799/142869)
 - 14 Apr: The party moved forward. [↗](https://t.me/Path_Wars/76799/144715)
 
-### 28.6 Open-air garden walkway
+### 27.7 Open-air garden walkway
 
 - 🗓️ **IRL:** 14 Apr 2026 to 19 Apr 2026, 5d 9h, 106 posts
 - ⏳ **In-game:** not filled in (`"2026-04#8"` in `timelines/C04b-Magni-Watch.json`)
@@ -986,7 +978,7 @@ flowchart TD
 - 14 Apr: Both kobolds were knocked unconscious. [↗](https://t.me/Path_Wars/144765/145127)
 - 19 Apr: The party opened the door to Room 4. [↗](https://t.me/Path_Wars/76799/146162)
 
-### 28.7 Room 4
+### 27.8 Room 4
 
 - 🗓️ **IRL:** 19 Apr 2026 to 10 May 2026, 2w 6d, 293 posts
 - ⏳ **In-game:** not filled in (`"2026-04#114"` in `timelines/C04b-Magni-Watch.json`)
