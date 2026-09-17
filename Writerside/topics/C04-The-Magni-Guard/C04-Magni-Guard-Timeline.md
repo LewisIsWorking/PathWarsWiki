@@ -7,18 +7,15 @@ Where the party went, in order. Each outer box is an area, and each box inside i
 
 ```mermaid
 flowchart TD
-    subgraph a0["1. Before play · 🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a0["1. Minkaian Trade House · 🗓️ IRL 18w 1d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
-        v0["<b>1.1 Setup posts</b><br/>🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-    end
-    subgraph a1["2. The Temple · 🗓️ IRL 18w 1d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
-    direction TB
-        v1["<b>2.1 Room 5: The Grand Hall</b><br/>🗓️ IRL 2w 5d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v2["<b>2.2 Room 6 = Administrative Office</b><br/>🗓️ IRL 3w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v3["<b>2.3 Room 5: The Grand Hall</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v4["<b>2.4 Room 8: The Hall of Messages</b><br/>🗓️ IRL 1w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v5["<b>2.5 Room 9: The Hall of Wisdom</b><br/>🗓️ IRL 9w 23h ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
-        v6["<b>2.6 The Chamber of Scribing</b><br/>🗓️ IRL 5d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v0["<b>1.1 Room 4</b><br/>🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v1["<b>1.2 Room 5: The Grand Hall</b><br/>🗓️ IRL 2w 5d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v2["<b>1.3 Room 6: The Administrative Office</b><br/>🗓️ IRL 3w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v3["<b>1.4 Room 5: The Grand Hall</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v4["<b>1.5 Room 8: The Hall of Messages</b><br/>🗓️ IRL 1w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v5["<b>1.6 Room 9: The Hall of Wisdom</b><br/>🗓️ IRL 9w 23h ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v6["<b>1.7 The Chamber of Scribing</b><br/>🗓️ IRL 5d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -28,12 +25,12 @@ flowchart TD
     v5 --> v6
 ```
 
-## 1. Before play
+## 1. Minkaian Trade House
 
-- 🗓️ **IRL:** 11 May 2026 to 11 May 2026, 9h
+- 🗓️ **IRL:** 11 May 2026 to 15 Sep 2026, 18w 1d
 - ⏳ **In-game:** not all rooms filled in
 
-### 1.1 Setup posts
+### 1.1 Room 4
 
 - 🗓️ **IRL:** 11 May 2026 to 11 May 2026, 9h, 6 posts
 - ⏳ **In-game:** not filled in (`"2026-05#1"` in `timelines/C04-Magni-Guard.json`)
@@ -46,12 +43,7 @@ flowchart TD
 - 11 May: Nadya took a breather. [↗](https://t.me/Path_Wars/76799/152492)
 - 11 May: Dart trap monster parts were added to the party stash for 30GP. [↗](https://t.me/Path_Wars/76799/152494)
 
-## 2. The Temple
-
-- 🗓️ **IRL:** 11 May 2026 to 15 Sep 2026, 18w 1d
-- ⏳ **In-game:** not all rooms filled in
-
-### 2.1 Room 5: The Grand Hall
+### 1.2 Room 5: The Grand Hall
 
 - 🗓️ **IRL:** 11 May 2026 to 26 May 2026, 2w 5d, 44 posts
 - ⏳ **In-game:** not filled in (`"2026-05#7"` in `timelines/C04-Magni-Guard.json`)
@@ -66,7 +58,7 @@ flowchart TD
 - 24 May: Changer stepped forward and the unfinished floor held. [↗](https://t.me/Path_Wars/76799/155706)
 - 24 May: The party spent 10 minutes checking the door and found it was not trapped. [↗](https://t.me/Path_Wars/76799/155732)
 
-### 2.2 Room 6 = Administrative Office
+### 1.3 Room 6: The Administrative Office
 
 - 🗓️ **IRL:** 31 May 2026 to 25 Jun 2026, 3w 4d, 113 posts
 - ⏳ **In-game:** not filled in (`"2026-05#51"` in `timelines/C04-Magni-Guard.json`)
@@ -86,7 +78,7 @@ flowchart TD
 - 15 Jun: Báyakan noticed the toshigami statue was rigged to spew fire. [↗](https://t.me/Path_Wars/76799/161531)
 - 16 Jun: Báyakan checked the next door for traps. [↗](https://t.me/Path_Wars/76799/161781)
 
-### 2.3 Room 5: The Grand Hall
+### 1.4 Room 5: The Grand Hall
 
 - 🗓️ **IRL:** 25 Jun 2026 to 25 Jun 2026, <1h, 5 posts
 - ⏳ **In-game:** not filled in (`"2026-06#99"` in `timelines/C04-Magni-Guard.json`)
@@ -97,7 +89,7 @@ flowchart TD
 - 25 Jun: Báyakan noticed weak points where standing on the wood could cause a fall. [↗](https://t.me/Path_Wars/76799/162995)
 - 25 Jun: The party walked across the hallway safely. [↗](https://t.me/Path_Wars/76799/163005)
 
-### 2.4 Room 8: The Hall of Messages
+### 1.5 Room 8: The Hall of Messages
 
 - 🗓️ **IRL:** 25 Jun 2026 to 1 Jul 2026, 1w 5d, 20 posts
 - ⏳ **In-game:** not filled in (`"2026-06#104"` in `timelines/C04-Magni-Guard.json`)
@@ -113,7 +105,7 @@ flowchart TD
 - 01 Jul: Changer stood at the doorway to await the party. [↗](https://t.me/Path_Wars/76799/164238)
 - 01 Jul: Nadya tossed the bodies and stood ready to move on. [↗](https://t.me/Path_Wars/76799/164303)
 
-### 2.5 Room 9: The Hall of Wisdom
+### 1.6 Room 9: The Hall of Wisdom
 
 - 🗓️ **IRL:** 8 Jul 2026 to 9 Sep 2026, 9w 23h, 95 posts
 - ⏳ **In-game:** not filled in (`"2026-07#7"` in `timelines/C04-Magni-Guard.json`)
@@ -139,7 +131,7 @@ flowchart TD
 - 09 Sep: trap was disabled but a crossbow bolt was launched from above. [↗](https://t.me/Path_Wars/76799/177918)
 - 09 Sep: party entered combat. [↗](https://t.me/Path_Wars/76799/177919)
 
-### 2.6 The Chamber of Scribing
+### 1.7 The Chamber of Scribing
 
 - 🗓️ **IRL:** 10 Sep 2026 to 15 Sep 2026, 5d 15h, 44 posts
 - ⏳ **In-game:** not filled in (`"2026-09#20"` in `timelines/C04-Magni-Guard.json`)

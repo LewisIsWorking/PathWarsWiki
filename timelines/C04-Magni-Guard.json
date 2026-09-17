@@ -370,10 +370,13 @@
   "renames": {
     "The Grand Hall of the Temple": "Room 5: The Grand Hall",
     "Room 5": "Room 5: The Grand Hall",
-    "Room 9": "Room 9: The Hall of Wisdom"
+    "Room 9": "Room 9: The Hall of Wisdom",
+    "unknown": "Room 4",
+    "Room 6 = Administrative Office": "Room 6: The Administrative Office"
   },
   "area_renames": {
-    "The Grand Hall of the Temple": "The Temple",
-    "The Chamber of Scribing": "The Temple"
+    "The Grand Hall of the Temple": "Minkaian Trade House",
+    "The Chamber of Scribing": "Minkaian Trade House",
+    "unknown": "Minkaian Trade House"
   }
 }

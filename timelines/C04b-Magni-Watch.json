@@ -1808,11 +1808,20 @@
     }
   },
   "in_game": {},
-  "renames": {},
+  "renames": {
+    "The tipsy tenth": "The Tipsy Tengu",
+    "carriage": "Carriage to the Alabaster District",
+    "cosy stone house": "Zilde's house",
+    "garden": "Manor house garden"
+  },
   "area_renames": {
     "Lavarsus's office": "Arvensoar",
     "Lower Dockway": "dockway",
     "dock": "dockway",
-    "Minkaian Trade House": "dockway"
+    "Minkaian Trade House": "dockway",
+    "The tipsy tenth": "The Tipsy Tengu",
+    "carriage": "Alabaster District",
+    "large manor house": "Alabaster District",
+    "cosy stone house": "Zilde's house"
   }
 }
