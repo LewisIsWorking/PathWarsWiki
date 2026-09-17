@@ -45,7 +45,7 @@ jobs:
       # out afterwards that the naming rule regressed means reviewing a
       # commit that has already renamed everything.
       - name: Test the sync logic
-        run: python -m pytest scripts/pbp_sync scripts/campaign_timeline -q
+        run: python -m pytest scripts/pbp_sync scripts/campaign_timeline scripts/encounter_sync -q
 
       - name: Fetch the transcript archive
         run: |
@@ -59,7 +59,9 @@ jobs:
           # DIRECTORY, and config.json is a file: cone mode fails with
           # "'config.json' is not a directory". Found by running this
           # workflow rather than by reading it.
-          git sparse-checkout set --no-cone /data/pbp_logs/ /config.json
+          # data/encounters/ (2026-09-17): the bot's record of each Foundry
+          # fight. It may not exist yet, so it is not tested for below.
+          git sparse-checkout set --no-cone /data/pbp_logs/ /data/encounters/ /config.json
           test -d data/pbp_logs || { echo "archive missing"; exit 1; }
           test -f config.json  || { echo "config missing";  exit 1; }
 
@@ -68,6 +70,8 @@ jobs:
           python scripts/pbp_sync/sync.py \
             --source /tmp/botrepo/data/pbp_logs \
             --config /tmp/botrepo/config.json
+          # Encounter pages from the bot's Foundry records (2026-09-17).
+          python scripts/encounter_sync/encounter_pages.py             --source /tmp/botrepo/data/encounters
 
       - name: Open or update the sync PR
         env:
@@ -84,7 +88,7 @@ jobs:
           BRANCH=bot/pbp-transcripts
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Writerside/topics/Play-by-posts/Transcripts Writerside/pbp.tree
+          git add Writerside/topics/Play-by-posts/Transcripts Writerside/pbp.tree \n            Writerside/topics/Encounters Writerside/encounters.tree
           # `git diff --cached --quiet` exits 1 when something IS staged,
           # which is the case worth acting on.
           if git diff --cached --quiet; then
