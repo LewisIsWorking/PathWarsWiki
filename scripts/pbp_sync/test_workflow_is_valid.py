@@ -78,6 +78,16 @@ def test_sync_workflow_tests_before_it_writes():
         "Publish into the wiki")
 
 
+def test_the_sync_also_publishes_encounter_pages():
+    """Added 2026-09-17. The records must be checked out, rendered, tested
+    first and staged, or the pages never reach the PR."""
+    body = SYNC.read_text(encoding="utf-8")
+    assert "/data/encounters/" in body
+    assert "scripts/encounter_sync/encounter_pages.py" in body
+    assert "scripts/encounter_sync -q" in body
+    assert "Writerside/topics/Encounters Writerside/encounters.tree" in body
+
+
 def test_sparse_checkout_is_not_in_cone_mode():
     """Cone mode cannot select a file, and this needs config.json.
 
