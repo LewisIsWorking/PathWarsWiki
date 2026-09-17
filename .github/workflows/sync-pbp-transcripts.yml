@@ -88,7 +88,7 @@ jobs:
           BRANCH=bot/pbp-transcripts
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Writerside/topics/Play-by-posts/Transcripts Writerside/pbp.tree \n            Writerside/topics/Encounters Writerside/encounters.tree
+          git add Writerside/topics/Play-by-posts/Transcripts Writerside/pbp.tree Writerside/topics/Encounters Writerside/encounters.tree
           # `git diff --cached --quiet` exits 1 when something IS staged,
           # which is the case worth acting on.
           if git diff --cached --quiet; then

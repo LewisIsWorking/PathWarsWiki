@@ -88,6 +88,26 @@ def test_the_sync_also_publishes_encounter_pages():
     assert "Writerside/topics/Encounters Writerside/encounters.tree" in body
 
 
+def test_no_command_carries_a_literal_backslash_n():
+    """Found 2026-09-17: an edit wrote a backslash and an ``n`` as two
+    characters into the ``git add`` line. Git read ``n`` as a path and the
+    sync failed at its last step with "pathspec 'n' did not match any
+    files". The YAML still parsed, so nothing local said so."""
+    for number, line in enumerate(SYNC.read_text(encoding="utf-8").splitlines(), 1):
+        command = line.strip()
+        if command.startswith(("git ", "python ")) and "\\n" in command:
+            pytest.fail(f"line {number} has a literal backslash-n: {command}")
+
+
+def test_the_literal_backslash_n_check_can_fail(tmp_path, monkeypatch):
+    """Proves the check above would have caught the line that broke."""
+    broken = tmp_path / "sync.yml"
+    broken.write_text("          git add a.tree \\n            b.tree\n", encoding="utf-8")
+    monkeypatch.setattr(__import__(__name__), "SYNC", broken)
+    with pytest.raises(pytest.fail.Exception):
+        test_no_command_carries_a_literal_backslash_n()
+
+
 def test_sparse_checkout_is_not_in_cone_mode():
     """Cone mode cannot select a file, and this needs config.json.
 
