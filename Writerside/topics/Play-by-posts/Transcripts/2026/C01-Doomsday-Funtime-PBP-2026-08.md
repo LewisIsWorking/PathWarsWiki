@@ -421,3 +421,124 @@ So what does the group do next?
 
 **Path Wars** *(GM)* · 22:59 · [↗](https://t.me/Path_Wars/25059/172537)
 It is 15:00, in the Harrow, ready to go back to Raven Grow.
+
+## Week 34 (Aug 17–Aug 23)
+
+### 📅 Tuesday, Aug 18
+
+**Path Wars** *(GM)* · 01:28 · [↗](https://t.me/Path_Wars/25059/172920)
+So what does the group do next?
+
+### 📅 Tuesday, Aug 18
+
+**Anthony NegetZ** · 05:47 · [↗](https://t.me/Path_Wars/25059/173121)
+Check the reccords again for mentions of decapitating serial killers?
+
+**Anthony NegetZ** · 05:48 · [↗](https://t.me/Path_Wars/25059/173122)
+But my guess is that it may be one of the prisoners? Somehow? So the records would have no additional information because their information got stolen.
+
+**Path Wars** *(GM)* · 05:52 · [↗](https://t.me/Path_Wars/25059/173125)
+Do yous not want to go to the prison?
+
+**Path Wars** *(GM)* · 05:52 · [↗](https://t.me/Path_Wars/25059/173126)
+Grey wall prison
+
+**Path Wars** *(GM)* · 05:52 · [↗](https://t.me/Path_Wars/25059/173127)
+And deal with more ghosts?
+
+**Path Wars** *(GM)* · 05:52 · [↗](https://t.me/Path_Wars/25059/173128)
+You 100% can do this, it'll burn a few in-game hours tho.
+
+**Anthony NegetZ** · 05:53 · [↗](https://t.me/Path_Wars/25059/173129)
+We could. Alissee is very effective against those guys.
+
+**Path Wars** *(GM)* · 05:54 · [↗](https://t.me/Path_Wars/25059/173130)
+Ok ok.
+So what does the group do?
+
+Day 4. 15:00.
+
+### 📅 Tuesday, Aug 18
+
+**Anthony NegetZ** · 05:55 · [↗](https://t.me/Path_Wars/25059/173133)
+Cardigan can't track the ghost right?
+
+**Path Wars** *(GM)* · 05:55 · [↗](https://t.me/Path_Wars/25059/173134)
+The farm animal killing one? No.
+
+**Path Wars** *(GM)* · 05:55 · [↗](https://t.me/Path_Wars/25059/173135)
+It manifested then unmanifested.
+
+**Anthony NegetZ** · 05:55 · [↗](https://t.me/Path_Wars/25059/173136)
+L needs legendary survival
+
+**Path Wars** *(GM)* · 05:56 · [↗](https://t.me/Path_Wars/25059/173137)
+Uh
+
+**Path Wars** *(GM)* · 05:56 · [↗](https://t.me/Path_Wars/25059/173138)
+Ghosts
+
+**Path Wars** *(GM)* · 05:56 · [↗](https://t.me/Path_Wars/25059/173139)
+Are like
+
+**Path Wars** *(GM)* · 05:56 · [↗](https://t.me/Path_Wars/25059/173140)
+Ethereal?
+
+**Anthony NegetZ** · 05:56 · [↗](https://t.me/Path_Wars/25059/173141)
+Right the Ethereal plane
+
+**Anthony NegetZ** · 05:57 · [↗](https://t.me/Path_Wars/25059/173142)
+Can't Sonneraie access this?
+
+**Path Wars** *(GM)* · 05:57 · [↗](https://t.me/Path_Wars/25059/173143)
+The Ethereal Plane is home to phantasmal creatures such as ghosts; 3 8 in particular, unfettered phantoms wander the plane seeking escape from the inexorable ...
+
+**Path Wars** *(GM)* · 05:58 · [↗](https://t.me/Path_Wars/25059/173144)
+To the Ethereal plane? 
+Like plane shift?
+
+**Anthony NegetZ** · 05:58 · [↗](https://t.me/Path_Wars/25059/173145)
+No Ethereal Jaunt is the way to get to the Ethereal plane
+
+**Path Wars** *(GM)* · 05:58 · [↗](https://t.me/Path_Wars/25059/173146)
+That only lasts for 1 minute.
+
+**Path Wars** *(GM)* · 05:59 · [↗](https://t.me/Path_Wars/25059/173147)
+This conversation is better had in the chat, not in the RP topic.
+
+## Week 35 (Aug 24–Aug 30)
+
+### 📅 Monday, Aug 24
+
+**Path Wars** *(GM)* · 03:32 · [↗](https://t.me/Path_Wars/25059/174194)
+So what happens next?
+
+### 📅 Sunday, Aug 30
+
+**Path Wars** *(GM)* · 12:07 · [↗](https://t.me/Path_Wars/25059/176121)
+So what happens next?
+
+### 📅 Sunday, Aug 30
+
+**Horia Constantinescu** · 13:36 · [↗](https://t.me/Path_Wars/25059/176233)
+Getting a session next week
+
+**Path Wars** *(GM)* · 15:26 · [↗](https://t.me/Path_Wars/25059/176236)
+:O
+
+
+---
+
+## 📊 Month Summary
+
+- **Total messages:** 89 (64 GM, 25 player)
+- **Unique posters:** 6
+- **Active days:** 14/31
+- **Words written:** ~1,032
+
+**Most active:**
+- Path Wars: 64 messages
+- Anthony NegetZ: 9 messages
+- Horia Constantinescu: 6 messages
+- Fuzzy: 5 messages
+- PJ: 4 messages
