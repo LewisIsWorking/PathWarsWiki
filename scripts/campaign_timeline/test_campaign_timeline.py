@@ -234,3 +234,61 @@ def test_in_game_time_is_read_or_refused(text, hours):
 ])
 def test_durations(hours, shown):
     assert duration(hours) == shown
+
+
+def test_names_get_a_capital_first_letter_and_nothing_else():
+    from page_render import capitalise
+    assert capitalise("pawn shop") == "Pawn shop"
+    assert capitalise("St. Caspian's Salvation") == "St. Caspian's Salvation"
+    assert capitalise("ROOM 1") == "ROOM 1"
+    assert capitalise("") == ""
+
+
+def test_months_from_a_fallback_model_are_redone():
+    from extract import PREFERRED_MODEL, needs_extracting
+    msgs = _msgs()
+    assert needs_extracting(None, msgs)
+    assert needs_extracting({"messages": 2, "model": PREFERRED_MODEL}, msgs), "grown"
+    assert needs_extracting({"messages": 3, "model": "gemini/gemini-flash-lite-latest"}, msgs)
+    assert not needs_extracting({"messages": 3, "model": PREFERRED_MODEL}, msgs)
+
+
+def test_unknown_places_say_what_they_are():
+    from page_render import name_unstated
+    assert name_unstated("Unknown", "unknown", first_place=True) == ("Before play", "Setup posts")
+    assert name_unstated("Unknown", "Unknown", first_place=False) == ("Location not stated", "Not stated")
+    assert name_unstated("Kibwe", "Unknown", first_place=False) == ("Kibwe", "Not stated")
+    assert name_unstated("Kibwe", "Sun Temple", first_place=True) == ("Kibwe", "Sun Temple")
+
+
+def test_only_the_first_json_object_is_read():
+    """C05's reply had a second snippet after the answer ("Extra data")."""
+    assert parse_reply('{"inside": {"A": "B"}}\nFor example: {"inside": {}}') == {"inside": {"A": "B"}}
+
+
+def test_a_delegate_timeout_kills_the_call_and_counts_as_no_reply(monkeypatch):
+    """Before 2026-09-17 a timeout raised out of the run and left pwsh and
+    the OpenCode CLI running behind it."""
+    import subprocess
+    import extract
+
+    killed = []
+
+    class SlowProc:
+        pid = 4242
+        calls = 0
+
+        def __init__(self, *a, **k):
+            pass
+
+        def communicate(self, timeout=None):
+            SlowProc.calls += 1
+            if SlowProc.calls == 1:
+                raise subprocess.TimeoutExpired("pwsh", timeout)
+            return "", ""
+
+    monkeypatch.setattr(extract.subprocess, "Popen", SlowProc)
+    monkeypatch.setattr(extract.subprocess, "run", lambda args, **k: killed.append(args))
+    reply, _model = extract.ask("prompt")
+    assert reply == ""
+    assert killed and killed[0][:3] == ["taskkill", "/PID", "4242"]

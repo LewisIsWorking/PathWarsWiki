@@ -1,0 +1,2243 @@
+{
+  "code": "C05",
+  "campaign": "Grand Explorers",
+  "months": {
+    "2024-08": {
+      "messages": 12,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "The GM posted an empty message."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 12,
+          "area": "large round stone corridor",
+          "location": "large round stone corridor",
+          "events": [
+            {
+              "at": 2,
+              "text": "The group crossed the stone bridge and arrived at the large round stone corridor."
+            },
+            {
+              "at": 8,
+              "text": "Anaiel stepped forward and looked up at the runes on the rope."
+            },
+            {
+              "at": 9,
+              "text": "The runes were identified as a primal alarm spell drawing power from the trees."
+            },
+            {
+              "at": 10,
+              "text": "Antoine said the alarm might have a password or could be disabled."
+            },
+            {
+              "at": 11,
+              "text": "Rubel tried to contact Finara through the seashell ring about the alarm password."
+            },
+            {
+              "at": 12,
+              "text": "The GM asked what happens next."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-09": {
+      "messages": 3,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 3,
+          "area": "large round stone corridor",
+          "location": "large round stone corridor",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM asked what happened next."
+            },
+            {
+              "at": 2,
+              "text": "Anaiel looked around the area for something to disable the rope."
+            },
+            {
+              "at": 3,
+              "text": "GM asked what happened next."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-10": {
+      "messages": 2,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "large round stone corridor",
+          "location": "large round stone corridor",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM asked what happens next."
+            },
+            {
+              "at": 2,
+              "text": "GM asked what next."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-11": {
+      "messages": 32,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 7,
+          "area": "large round stone corridor",
+          "location": "large round stone corridor",
+          "events": [
+            {
+              "at": 2,
+              "text": "Rubel planned to spend 20 minutes disarming the rope trap."
+            },
+            {
+              "at": 3,
+              "text": "The tree guardians lay down and fell asleep."
+            },
+            {
+              "at": 4,
+              "text": "Rubel earned a hero point."
+            },
+            {
+              "at": 5,
+              "text": "Rubel continued toward the arches watching for alarms."
+            },
+            {
+              "at": 7,
+              "text": "Anaiel followed behind carefully."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 8,
+          "last": 20,
+          "area": "large round stone corridor",
+          "location": "centre of the room",
+          "events": [
+            {
+              "at": 8,
+              "text": "The party stood in the centre of the room and felt faint magic from the arches."
+            },
+            {
+              "at": 10,
+              "text": "The tips glowed with colours and pointed toward the closest arch."
+            },
+            {
+              "at": 13,
+              "text": "Rubel rolled a natural 20 Arcana check to learn how the device worked."
+            },
+            {
+              "at": 16,
+              "text": "Rubel approached the arches with the device to record them."
+            },
+            {
+              "at": 18,
+              "text": "Rubel prepared to leave with the party and asked about rearming the rope trap."
+            },
+            {
+              "at": 20,
+              "text": "Anaiel asked Fianara what it was."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 21,
+          "last": 32,
+          "area": "grove",
+          "location": "alleyway outside of the grove",
+          "events": [
+            {
+              "at": 21,
+              "text": "The party heard the theory about the real Seven Arches hidden in the Wilewood."
+            },
+            {
+              "at": 24,
+              "text": "Fianara pulled out a large locked bound book."
+            },
+            {
+              "at": 26,
+              "text": "Fianara asked Rubel to fill the book with findings and return it."
+            },
+            {
+              "at": 29,
+              "text": "Anaiel promised to fill the book and took it from Fianara."
+            },
+            {
+              "at": 30,
+              "text": "Anaiel asked if they should travel to the Vine Hall."
+            },
+            {
+              "at": 31,
+              "text": "Rubel agreed to go."
+            }
+          ],
+          "time_cues": [
+            "Years ago",
+            "A year ago"
+          ]
+        }
+      ]
+    },
+    "2024-12": {
+      "messages": 12,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "grove",
+          "location": "alleyway outside of the grove",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM posted an image."
+            },
+            {
+              "at": 2,
+              "text": "GM posted an image."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 5,
+          "area": "vine hall",
+          "location": "busy courtyard",
+          "events": [
+            {
+              "at": 3,
+              "text": "An angel-blooded dwarf druid approached the group in the courtyard and asked their business."
+            },
+            {
+              "at": 4,
+              "text": "GM asked what happens next."
+            },
+            {
+              "at": 5,
+              "text": "Anaiel said Fianara had recommended they come."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 12,
+          "area": "vine hall",
+          "location": "large hall covered in vines",
+          "events": [
+            {
+              "at": 6,
+              "text": "The dwarf led the group to the large hall covered in vines."
+            },
+            {
+              "at": 7,
+              "text": "The dwarf left and a vine-covered horse approached."
+            },
+            {
+              "at": 8,
+              "text": "A halfling druid in ceremonial robes dismounted from the horse."
+            },
+            {
+              "at": 10,
+              "text": "Lemma Feldthorn introduced herself and asked what the group knew about the arches."
+            },
+            {
+              "at": 11,
+              "text": "Eimer said they were there to find the seven arches."
+            },
+            {
+              "at": 12,
+              "text": "Anaiel gripped her wrist and asked what had changed and how."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-01": {
+      "messages": 53,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 29,
+          "area": "vine hall",
+          "location": "large hall covered in vines",
+          "events": [
+            {
+              "at": 2,
+              "text": "Lemma Feldthorn explained the Bolan threat and the shadow-wither key."
+            },
+            {
+              "at": 4,
+              "text": "Lemma Feldthorn handed Rubel 15 gold pieces."
+            },
+            {
+              "at": 6,
+              "text": "Lemma Feldthorn promised horses, a cart, dorms and armoury access."
+            },
+            {
+              "at": 17,
+              "text": "Illiani introduced herself to the party."
+            },
+            {
+              "at": 18,
+              "text": "Cyrus greeted the party and set Illiani down."
+            },
+            {
+              "at": 28,
+              "text": "Lemma Feldthorn told the party to follow the squirrel."
+            }
+          ],
+          "time_cues": [
+            "tomorrow morning",
+            "almost night time",
+            "Tonight"
+          ]
+        },
+        {
+          "first": 30,
+          "last": 34,
+          "area": "ancient druid castle",
+          "location": "winding corridors",
+          "events": [
+            {
+              "at": 30,
+              "text": "Cyrus started to follow the squirrel."
+            },
+            {
+              "at": 31,
+              "text": "Illiani followed Cyrus and Rubel."
+            },
+            {
+              "at": 32,
+              "text": "The squirrel led the group through winding corridors."
+            },
+            {
+              "at": 34,
+              "text": "The group crossed bridges woven from living roots."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 35,
+          "last": 53,
+          "area": "ancient druid castle",
+          "location": "druidic armory",
+          "events": [
+            {
+              "at": 35,
+              "text": "The squirrel stopped before double doors revealing the druidic armory."
+            },
+            {
+              "at": 41,
+              "text": "The undead druid greeted the visitors."
+            },
+            {
+              "at": 43,
+              "text": "Cyrus requested warmer garments, a blanket and hoof tools."
+            },
+            {
+              "at": 46,
+              "text": "Rubel sold goggles, tools, armor and kukris."
+            },
+            {
+              "at": 50,
+              "text": "Rubel sold the mosquito animal staff."
+            },
+            {
+              "at": 51,
+              "text": "The blight druid asked if there was anything else."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-02": {
+      "messages": 46,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 12,
+          "area": "ancient druid castle",
+          "location": "druidic armory",
+          "events": [
+            {
+              "at": 2,
+              "text": "Tallied cold iron weapon costs."
+            },
+            {
+              "at": 7,
+              "text": "Totaled adventuring equipment costs."
+            },
+            {
+              "at": 9,
+              "text": "Bought a composite shortbow."
+            },
+            {
+              "at": 11,
+              "text": "Said the party should go to the dorms and rest."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 13,
+          "last": 15,
+          "area": "ancient druid castle",
+          "location": "long room filled with bunk beds",
+          "events": [
+            {
+              "at": 13,
+              "text": "Went to a long room filled with bunk beds."
+            },
+            {
+              "at": 14,
+              "text": "Said Illiani would sleep in the baths."
+            },
+            {
+              "at": 15,
+              "text": "Had breakfast and set off the next day."
+            }
+          ],
+          "time_cues": [
+            "The next day"
+          ]
+        },
+        {
+          "first": 16,
+          "last": 27,
+          "area": "River kingdoms",
+          "location": "roads to the forest",
+          "events": [
+            {
+              "at": 16,
+              "text": "Set off across the River kingdoms."
+            },
+            {
+              "at": 21,
+              "text": "Said he was trained in survival."
+            },
+            {
+              "at": 22,
+              "text": "Offered a compass for navigation."
+            },
+            {
+              "at": 24,
+              "text": "Suggested taking the horses in and leaving the cart."
+            },
+            {
+              "at": 26,
+              "text": "Offered to cast light cantrips in the woods."
+            },
+            {
+              "at": 27,
+              "text": "Loaded supplies into bags and pouches."
+            }
+          ],
+          "time_cues": [
+            "The following 3 days"
+          ]
+        },
+        {
+          "first": 28,
+          "last": 46,
+          "area": "forest",
+          "location": "massive circular clearing",
+          "events": [
+            {
+              "at": 29,
+              "text": "Reached a massive circular clearing."
+            },
+            {
+              "at": 32,
+              "text": "Saw seven arches along the clearing."
+            },
+            {
+              "at": 34,
+              "text": "Investigated the arches and their history."
+            },
+            {
+              "at": 41,
+              "text": "Were ambushed by two shadowy wolf-like creatures."
+            },
+            {
+              "at": 44,
+              "text": "Entered combat."
+            },
+            {
+              "at": 46,
+              "text": "Started setting up combat on Foundry."
+            }
+          ],
+          "time_cues": [
+            "morning time"
+          ]
+        }
+      ]
+    },
+    "2025-03": {
+      "messages": 188,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 166,
+          "area": "forest",
+          "location": "massive circular clearing",
+          "events": [
+            {
+              "at": 45,
+              "text": "Shadow dogs mauled Illiani and left her dying, then the party killed both dogs."
+            },
+            {
+              "at": 65,
+              "text": "The party advanced toward the arches and shifted into a monochrome illusion."
+            },
+            {
+              "at": 71,
+              "text": "Everyone was ordered to roll Fortitude saves against planar warping damage."
+            },
+            {
+              "at": 99,
+              "text": "The party found masked oak stewards sacrificing a sedated unicorn."
+            },
+            {
+              "at": 131,
+              "text": "Rubel killed one steward, another was knocked out, and Korimona surrendered."
+            },
+            {
+              "at": 160,
+              "text": "Illiani freed and treated the unicorn and Korimona agreed to lead the party to Bolan."
+            }
+          ],
+          "time_cues": [
+            "for 24 hours"
+          ]
+        },
+        {
+          "first": 167,
+          "last": 188,
+          "area": "Greenleaf Forest House",
+          "location": "even larger clearing",
+          "events": [
+            {
+              "at": 170,
+              "text": "Korimona led the group through the woods for an hour to a larger clearing."
+            },
+            {
+              "at": 171,
+              "text": "The party saw painted wooden houses in trees linked by rope bridges."
+            },
+            {
+              "at": 175,
+              "text": "The GM warned sentries at the gate house would spot and shoot intruders."
+            },
+            {
+              "at": 180,
+              "text": "Korimona said rebels numbered almost twenty and opposed civilisation."
+            },
+            {
+              "at": 188,
+              "text": "Anaiel stepped forward and suggested fighting together."
+            }
+          ],
+          "time_cues": [
+            "for an hour"
+          ]
+        }
+      ]
+    },
+    "2025-04": {
+      "messages": 54,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 7,
+          "area": "Greenleaf Forest House",
+          "location": "even larger clearing",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM asked if the party would go up the stairs into the fortress."
+            },
+            {
+              "at": 2,
+              "text": "Anaiel questioned leading the way as prisoners."
+            },
+            {
+              "at": 5,
+              "text": "Ryo said the party needed a loud or bright signal."
+            },
+            {
+              "at": 6,
+              "text": "GM asked for two stealth rolls for the fortress approach and staircase."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 8,
+          "last": 47,
+          "area": "the fortress",
+          "location": "the gatehouse",
+          "events": [
+            {
+              "at": 8,
+              "text": "GM said the party was in area 1 the gatehouse."
+            },
+            {
+              "at": 12,
+              "text": "There was a sleeping pangolin in a cage next to the party."
+            },
+            {
+              "at": 26,
+              "text": "Rubel hit a druid in the throat for 13 damage."
+            },
+            {
+              "at": 33,
+              "text": "Rifon turned and yelled intruder."
+            },
+            {
+              "at": 39,
+              "text": "Two leshys appeared."
+            },
+            {
+              "at": 47,
+              "text": "Cyrus cast Warp Step and advanced to the first guard with shield raised."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 48,
+          "last": 54,
+          "area": "the fortress",
+          "location": "the spiral staircase",
+          "events": [
+            {
+              "at": 48,
+              "text": "The party ran up the spiral staircase."
+            },
+            {
+              "at": 49,
+              "text": "The druids were shocked."
+            },
+            {
+              "at": 50,
+              "text": "The massive minotaur rounded the corner."
+            },
+            {
+              "at": 51,
+              "text": "The leshies found this amusing."
+            },
+            {
+              "at": 54,
+              "text": "Anaiel sprinted up the stairs and attacked with rifle and thunderstrike."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-05": {
+      "messages": 25,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 25,
+          "area": "the fortress",
+          "location": "the spiral staircase",
+          "events": [
+            {
+              "at": 1,
+              "text": "Rubel planned to break the cage, grab the animal, and move behind the staircase pillar."
+            },
+            {
+              "at": 6,
+              "text": "Scrit remained restrained and skipped his turn."
+            },
+            {
+              "at": 15,
+              "text": "Scrit attempted to tear apart the restraints."
+            },
+            {
+              "at": 18,
+              "text": "Scrit cast Scatter Scree at two enemies on the bridge, creating difficult terrain."
+            },
+            {
+              "at": 19,
+              "text": "Menelimus died."
+            },
+            {
+              "at": 21,
+              "text": "Rifon was badly wounded."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-06": {
+      "messages": 45,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 45,
+          "area": "the fortress",
+          "location": "the spiral staircase",
+          "events": [
+            {
+              "at": 8,
+              "text": "Allisee moved up behind Scrit and hunted prey on the druid summoner."
+            },
+            {
+              "at": 24,
+              "text": "Anaiel dealt 17 damage and exploded Rifon's head."
+            },
+            {
+              "at": 27,
+              "text": "Wisteria's punch covered Anaiel in thick slowing vines."
+            },
+            {
+              "at": 37,
+              "text": "Anaiel shot the viper's head off."
+            },
+            {
+              "at": 43,
+              "text": "Scrit strode forward and grappled the leshy on the other side of the bridge."
+            },
+            {
+              "at": 44,
+              "text": "Illiani moved up and shot arrows towards the enemy on the bridge."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-07": {
+      "messages": 119,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 29,
+          "area": "the fortress",
+          "location": "the spiral staircase",
+          "events": [
+            {
+              "at": 14,
+              "text": "Aekold hunted his prey and tried to recall weaknesses."
+            },
+            {
+              "at": 17,
+              "text": "Cyrus cast Soothe on Rubel and raised his shield."
+            },
+            {
+              "at": 18,
+              "text": "Anaiel shot the closest terrorists and cast thunderstrike."
+            },
+            {
+              "at": 19,
+              "text": "The leshy died."
+            },
+            {
+              "at": 20,
+              "text": "Combat ended."
+            },
+            {
+              "at": 26,
+              "text": "The GM offered a choice of NORTH or WEST."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 30,
+          "last": 59,
+          "area": "the fortress",
+          "location": "greenhouse",
+          "events": [
+            {
+              "at": 30,
+              "text": "Scrit walked across the bridge and saw a man."
+            },
+            {
+              "at": 34,
+              "text": "Illiani stepped across the bridge and greeted the others."
+            },
+            {
+              "at": 40,
+              "text": "Illiani called for help and asked for a spare waterskin."
+            },
+            {
+              "at": 43,
+              "text": "Rubel brought a waterskin and rations and introduced himself."
+            },
+            {
+              "at": 46,
+              "text": "Scrit administered healing elixirs to the hurt people."
+            },
+            {
+              "at": 57,
+              "text": "Verge reported that both of the doors were locked."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 60,
+          "last": 67,
+          "area": "the fortress",
+          "location": "fabric production room",
+          "events": [
+            {
+              "at": 60,
+              "text": "The party entered the fabric production room."
+            },
+            {
+              "at": 61,
+              "text": "The party found looms and textiles."
+            },
+            {
+              "at": 63,
+              "text": "The party found a door to the north."
+            },
+            {
+              "at": 64,
+              "text": "The party found a ladder leading up the treehouse."
+            },
+            {
+              "at": 66,
+              "text": "Anaiel suggested going up the ladder."
+            },
+            {
+              "at": 67,
+              "text": "Verge examined the loom and compared the north exit to the ladder."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 68,
+          "last": 81,
+          "area": "the fortress",
+          "location": "library and laboratory",
+          "events": [
+            {
+              "at": 70,
+              "text": "The party found a library and a laboratory."
+            },
+            {
+              "at": 72,
+              "text": "The party met a dwarven Oak steward."
+            },
+            {
+              "at": 76,
+              "text": "The dwarf asked about the noise from downstairs."
+            },
+            {
+              "at": 77,
+              "text": "The party saw a purple and golden spider biting a web-wrapped leshy."
+            },
+            {
+              "at": 80,
+              "text": "Delphon introduced himself."
+            },
+            {
+              "at": 81,
+              "text": "Delphon praised the party for stopping the attackers."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 82,
+          "last": 115,
+          "area": "the fortress",
+          "location": "fabric production room",
+          "events": [
+            {
+              "at": 82,
+              "text": "Rubel tricked Delphon and climbed down to signal an ambush."
+            },
+            {
+              "at": 86,
+              "text": "Scrit hid against the wall using leaf weave."
+            },
+            {
+              "at": 88,
+              "text": "Delphon arrived at the bottom of the ladder."
+            },
+            {
+              "at": 90,
+              "text": "Combat started when Delphon saw the group."
+            },
+            {
+              "at": 108,
+              "text": "Delphon died."
+            },
+            {
+              "at": 115,
+              "text": "Scrit named the spider Octo."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 116,
+          "last": 119,
+          "area": "the fortress",
+          "location": "library and laboratory",
+          "events": [
+            {
+              "at": 116,
+              "text": "Scrit climbed up the ladder."
+            },
+            {
+              "at": 119,
+              "text": "Verge followed up the ladder."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-08": {
+      "messages": 133,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 13,
+          "area": "the fortress",
+          "location": "library and laboratory",
+          "events": [
+            {
+              "at": 1,
+              "text": "Rode the spider up the ladder."
+            },
+            {
+              "at": 4,
+              "text": "Found the poison lab."
+            },
+            {
+              "at": 5,
+              "text": "Found books, glass vessels, burners and distilling equipment."
+            },
+            {
+              "at": 8,
+              "text": "Raided the shelves."
+            },
+            {
+              "at": 10,
+              "text": "Sent loot to the party stash."
+            },
+            {
+              "at": 12,
+              "text": "Went back down the ladder."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 14,
+          "last": 58,
+          "area": "the fortress",
+          "location": "dining hall",
+          "events": [
+            {
+              "at": 14,
+              "text": "Opened the door and found a dining hall."
+            },
+            {
+              "at": 20,
+              "text": "Saw a grig and a sprite jump out."
+            },
+            {
+              "at": 24,
+              "text": "Scrit entered a rage and threw a Blasting Stone that missed."
+            },
+            {
+              "at": 34,
+              "text": "Cyrus hit the sprite with his sword and raised his shield."
+            },
+            {
+              "at": 39,
+              "text": "Anaiel killed both fey."
+            },
+            {
+              "at": 44,
+              "text": "Heard struggling sounds from the poison lab."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 59,
+          "last": 77,
+          "area": "the fortress",
+          "location": "library and laboratory",
+          "events": [
+            {
+              "at": 59,
+              "text": "Scrit followed the spider to a cocoon and began freeing Twilight."
+            },
+            {
+              "at": 64,
+              "text": "Twilight stood up and checked for injuries."
+            },
+            {
+              "at": 70,
+              "text": "Noticed Laetheron had a whale tattoo."
+            },
+            {
+              "at": 73,
+              "text": "Twilight wandered out of the lab."
+            },
+            {
+              "at": 75,
+              "text": "Scrit followed on his spider."
+            },
+            {
+              "at": 76,
+              "text": "Cyrus followed behind."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 78,
+          "last": 84,
+          "area": "the fortress",
+          "location": "rope bridge",
+          "events": [
+            {
+              "at": 78,
+              "text": "Were asked to cross the rope bridge to the North."
+            },
+            {
+              "at": 83,
+              "text": "Scrit crossed the bridge checking stability."
+            },
+            {
+              "at": 84,
+              "text": "Scrit checked the door for creatures."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 85,
+          "last": 95,
+          "area": "the fortress",
+          "location": "storage room",
+          "events": [
+            {
+              "at": 85,
+              "text": "Found a storage room."
+            },
+            {
+              "at": 89,
+              "text": "Explored the storage room."
+            },
+            {
+              "at": 92,
+              "text": "Added loot to the party stash."
+            },
+            {
+              "at": 93,
+              "text": "Found a door to the North-East."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 96,
+          "last": 133,
+          "area": "the fortress",
+          "location": "the fortress",
+          "events": [
+            {
+              "at": 101,
+              "text": "Learned two pixies were having a party on cake."
+            },
+            {
+              "at": 112,
+              "text": "Saw something move in a large jar."
+            },
+            {
+              "at": 116,
+              "text": "Axtra asked the faeries to let her out of the jar."
+            },
+            {
+              "at": 122,
+              "text": "Twilight asked the faeries to release the person in the jar."
+            },
+            {
+              "at": 126,
+              "text": "Combat began against the fey."
+            },
+            {
+              "at": 129,
+              "text": "Scrit threw a bomb that splashed both pixies."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-09": {
+      "messages": 63,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 47,
+          "area": "the fortress",
+          "location": "the fortress",
+          "events": [
+            {
+              "at": 1,
+              "text": "Cyrus swung his sword at the remaining pixie."
+            },
+            {
+              "at": 12,
+              "text": "Anaiel shot and killed the last pixie, ending combat."
+            },
+            {
+              "at": 23,
+              "text": "Axtra climbed out of the jar after Anaiel opened it."
+            },
+            {
+              "at": 29,
+              "text": "The party exchanged introductions with Axtra."
+            },
+            {
+              "at": 36,
+              "text": "Twilight said they were seeking the conclave leader."
+            },
+            {
+              "at": 44,
+              "text": "Twilight found Axtra's belongings in the small room."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 48,
+          "last": 63,
+          "area": "the fortress",
+          "location": "next room",
+          "events": [
+            {
+              "at": 49,
+              "text": "Twilight remarked the place was bigger than expected."
+            },
+            {
+              "at": 53,
+              "text": "The GM explained the treehouse was well defended by guards and traps."
+            },
+            {
+              "at": 54,
+              "text": "Rubel noted a path on the right."
+            },
+            {
+              "at": 60,
+              "text": "Rubel and Illiani deactivated the explosive trap on the door."
+            },
+            {
+              "at": 61,
+              "text": "The party backed into the room and peeked into the next room."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 26,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "the fortress",
+          "location": "next room",
+          "events": [
+            {
+              "at": 1,
+              "text": "Arctus poked."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 3,
+          "area": "the fortress",
+          "location": "rope bridge",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party crossed the rope bridge."
+            },
+            {
+              "at": 3,
+              "text": "The party opened the door."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 4,
+          "last": 26,
+          "area": "the fortress",
+          "location": "workshop",
+          "events": [
+            {
+              "at": 4,
+              "text": "The party found themselves in a workshop."
+            },
+            {
+              "at": 5,
+              "text": "The workshop was described as a mess with a makeshift nest and doors onto rope bridges."
+            },
+            {
+              "at": 10,
+              "text": "Cyrus said the party meant no harm and wished to speak with Bolan."
+            },
+            {
+              "at": 15,
+              "text": "Glit offered the chest contents to stay and finish his building."
+            },
+            {
+              "at": 23,
+              "text": "Cyrus packed his tools and joined the party to move forward."
+            },
+            {
+              "at": 26,
+              "text": "The party agreed to proceed up the stairs."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 35,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "the fortress",
+          "location": "workshop",
+          "events": [
+            {
+              "at": 1,
+              "text": "Arctus poked."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 5,
+          "area": "the fortress",
+          "location": "the spiral staircase",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party proceeded up the stairs."
+            },
+            {
+              "at": 4,
+              "text": "Loot was sent to stash."
+            },
+            {
+              "at": 5,
+              "text": "The party went up the wooden stairs."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 35,
+          "area": "treehouse",
+          "location": "walkway",
+          "events": [
+            {
+              "at": 6,
+              "text": "The treehouse appeared more primally magical as they climbed."
+            },
+            {
+              "at": 10,
+              "text": "The party encountered an old woman along the walkway."
+            },
+            {
+              "at": 15,
+              "text": "Jeraya introduced herself and said they set off the alarms."
+            },
+            {
+              "at": 17,
+              "text": "Jeraya introduced Moss as her spirit fox."
+            },
+            {
+              "at": 21,
+              "text": "Jeraya stabbed Axtra in the face."
+            },
+            {
+              "at": 28,
+              "text": "Axtra struck Jeraya with flames."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 26,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 26,
+          "area": "treehouse",
+          "location": "walkway",
+          "events": [
+            {
+              "at": 2,
+              "text": "Illiani cast Forbidden Thought naming strike on the old woman stabbing friendlies."
+            },
+            {
+              "at": 14,
+              "text": "Jeraya fell back spluttering blood."
+            },
+            {
+              "at": 17,
+              "text": "Axtra appealed to Jeraya to give up."
+            },
+            {
+              "at": 18,
+              "text": "Jeraya fell to one knee and threatened to call upon the power of the trees."
+            },
+            {
+              "at": 20,
+              "text": "The fox spirit readied to attack and defend his master."
+            },
+            {
+              "at": 26,
+              "text": "A new player asked to join as Gregory Herb, a Universal school wizard."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 23,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 22,
+          "area": "treehouse",
+          "location": "walkway",
+          "events": [
+            {
+              "at": 7,
+              "text": "The shot hit her shoulder and killed her immediately."
+            },
+            {
+              "at": 8,
+              "text": "The fox spirit came to rest on her corpse."
+            },
+            {
+              "at": 11,
+              "text": "Axtra knelt next to the fox-like creature and mourned Moss."
+            },
+            {
+              "at": 12,
+              "text": "Axtra picked up the fox and asked where to go next."
+            },
+            {
+              "at": 18,
+              "text": "The central building had locked reinforced wooden doors with pipes."
+            },
+            {
+              "at": 19,
+              "text": "The single door to the water management room looked unlocked."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 23,
+          "last": 23,
+          "area": "treehouse",
+          "location": "water management room",
+          "events": [
+            {
+              "at": 23,
+              "text": "Axtra approached the northern doors of the water management room to open them carefully."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 44,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 44,
+          "area": "treehouse",
+          "location": "water management room",
+          "events": [
+            {
+              "at": 1,
+              "text": "Axtra pushed the door open into the water management room."
+            },
+            {
+              "at": 13,
+              "text": "The party deciphered the Gnomish labels and noticed the main tank was bulging."
+            },
+            {
+              "at": 16,
+              "text": "Axtra began turning the emergency vent valves to release pressure."
+            },
+            {
+              "at": 27,
+              "text": "Axtra turned the main wheel and dropped the first gauge out of the red."
+            },
+            {
+              "at": 34,
+              "text": "Axtra released the remaining pressure, disengaging the reinforced doors and unlocking the broom closet."
+            },
+            {
+              "at": 44,
+              "text": "Rubel opened the broom closet door and saw King."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 42,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 42,
+          "area": "treehouse",
+          "location": "water management room",
+          "events": [
+            {
+              "at": 2,
+              "text": "The group found big pods with liquid drained onto the floor in the room."
+            },
+            {
+              "at": 10,
+              "text": "Caspian drew his warhammer and asked who put them in the pods and where they were."
+            },
+            {
+              "at": 15,
+              "text": "Glowing whale tattoos with mythical beings were noticed on everyone."
+            },
+            {
+              "at": 19,
+              "text": "Axtra recognized Iris by the boiler and embraced her sister."
+            },
+            {
+              "at": 22,
+              "text": "Caspian introduced himself as a former dignitary turned adventurer."
+            },
+            {
+              "at": 25,
+              "text": "Axtra led the group to the large door and pushed it open."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 53,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 4,
+          "area": "treehouse",
+          "location": "water management room",
+          "events": [
+            {
+              "at": 1,
+              "text": "Companions stood by side ready for what came next."
+            },
+            {
+              "at": 2,
+              "text": "The door opened."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 5,
+          "last": 8,
+          "area": "treehouse",
+          "location": "alchemy lab",
+          "events": [
+            {
+              "at": 5,
+              "text": "Party entered the room."
+            },
+            {
+              "at": 6,
+              "text": "Party found themselves in the alchemy lab."
+            },
+            {
+              "at": 7,
+              "text": "Northern door was unlocked by the water mechanism."
+            },
+            {
+              "at": 8,
+              "text": "Party opened this door."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 52,
+          "area": "treehouse",
+          "location": "lodging room",
+          "events": [
+            {
+              "at": 9,
+              "text": "Party found themselves in a lodging room."
+            },
+            {
+              "at": 10,
+              "text": "Found dozens of bunk beds."
+            },
+            {
+              "at": 11,
+              "text": "Found a big cage with about 20 gnomes in the corner."
+            },
+            {
+              "at": 28,
+              "text": "Heard a prayer-like voice and leaf-like speech beyond the reinforced door."
+            },
+            {
+              "at": 46,
+              "text": "Broke down the northern door."
+            },
+            {
+              "at": 51,
+              "text": "Saw Bolan standing behind the desk."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 53,
+          "last": 53,
+          "area": "treehouse",
+          "location": "final room",
+          "events": [
+            {
+              "at": 53,
+              "text": "Axtrakeela entered the room and asked for Bolan."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 195,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 170,
+          "area": "treehouse",
+          "location": "final room",
+          "events": [
+            {
+              "at": 6,
+              "text": "Bolan said he was the Plant-Necromancer."
+            },
+            {
+              "at": 29,
+              "text": "Bolan lunged to attack."
+            },
+            {
+              "at": 117,
+              "text": "Cyrus found a diary detailing plans in the desk."
+            },
+            {
+              "at": 124,
+              "text": "The party leveled up to level 2."
+            },
+            {
+              "at": 142,
+              "text": "Doctor Edward Ritalson said Bolan was only a pawn and his master was a fey."
+            },
+            {
+              "at": 170,
+              "text": "The party freed the gnomes and left the treehouse."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 171,
+          "last": 195,
+          "area": "forest",
+          "location": "forest floor",
+          "events": [
+            {
+              "at": 175,
+              "text": "Doctor Edward Ritalson put the unicorn to sleep with purple magic."
+            },
+            {
+              "at": 177,
+              "text": "Doctor Edward Ritalson said the unicorn's voice would return when it awakened."
+            },
+            {
+              "at": 179,
+              "text": "Korimona asked if the party killed Bolan."
+            },
+            {
+              "at": 188,
+              "text": "Korimona said the party were chosen and asked to join their adventures."
+            },
+            {
+              "at": 194,
+              "text": "Illiani said Korimona deserved an opportunity to make up for her mistakes."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 56,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 12,
+          "area": "forest",
+          "location": "forest floor",
+          "events": [
+            {
+              "at": 1,
+              "text": "Korimona thanked the party at their feet."
+            },
+            {
+              "at": 3,
+              "text": "Korimona said Bolan seemed special because of the mark's aura."
+            },
+            {
+              "at": 5,
+              "text": "Illiani suggested the mark might magically influence people."
+            },
+            {
+              "at": 9,
+              "text": "Ritalson explained the mark made simpler minds see bearers as leaders."
+            },
+            {
+              "at": 10,
+              "text": "Illiani condemned the mark's magic and urged never to use it."
+            },
+            {
+              "at": 12,
+              "text": "Ritalson said he would teleport the party to Seven Arches."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 13,
+          "last": 21,
+          "area": "vine hall",
+          "location": "large hall covered in vines",
+          "events": [
+            {
+              "at": 13,
+              "text": "Ritalson teleported the group back to the vinehall of the Oak Stewards."
+            },
+            {
+              "at": 14,
+              "text": "Lemma thanked the party for killing Bolan and freeing the gnomes."
+            },
+            {
+              "at": 15,
+              "text": "Lemma gave the party 25 gold pieces."
+            },
+            {
+              "at": 17,
+              "text": "Lemma expressed disappointment that the Shadow-Wither key was not recovered."
+            },
+            {
+              "at": 20,
+              "text": "Lemma fed the party and provided washing and beds to rest."
+            },
+            {
+              "at": 21,
+              "text": "The next day arrived."
+            }
+          ],
+          "time_cues": [
+            "The next day..."
+          ]
+        },
+        {
+          "first": 22,
+          "last": 47,
+          "area": "Seven Arches' grand library",
+          "location": "Seven Arches' grand library",
+          "events": [
+            {
+              "at": 22,
+              "text": "The party was sent to the grand library to do research."
+            },
+            {
+              "at": 28,
+              "text": "The party gained full access to the grand library through Oak Steward access."
+            },
+            {
+              "at": 33,
+              "text": "The party spent the day researching and gained 1 investigation point."
+            },
+            {
+              "at": 40,
+              "text": "Cyrus's diary revealed Bolan's master was called The Slim."
+            },
+            {
+              "at": 42,
+              "text": "The party reached 4 investigation points and completed the research."
+            },
+            {
+              "at": 44,
+              "text": "The stewards asked the party to visit attacked merchant Pablo Moss."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 48,
+          "last": 56,
+          "area": "hospital",
+          "location": "hospital",
+          "events": [
+            {
+              "at": 48,
+              "text": "Pablo Moss lay in a hospital bed murmuring random words."
+            },
+            {
+              "at": 49,
+              "text": "Illiani tried speaking directly into Pablo's mind with mentalism."
+            },
+            {
+              "at": 52,
+              "text": "Rubel tried first-aid methods to assess Pablo's cognition."
+            },
+            {
+              "at": 53,
+              "text": "Twilight examined Pablo and asked what was wrong with him."
+            },
+            {
+              "at": 55,
+              "text": "Cyrus shouted at Pablo in a drill instructor impression to make him talk."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 105,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 8,
+          "area": "hospital",
+          "location": "hospital",
+          "events": [
+            {
+              "at": 4,
+              "text": "Pablo snapped out of his confusion after intimidation."
+            },
+            {
+              "at": 5,
+              "text": "Pablo told the party about the shadow man attack."
+            },
+            {
+              "at": 7,
+              "text": "Pablo said the being killed Hatria Pebblesworth."
+            },
+            {
+              "at": 8,
+              "text": "Pablo thanked the party and needed more rest."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 36,
+          "area": "Seven Arche's Morgue",
+          "location": "Seven Arche's Morgue",
+          "events": [
+            {
+              "at": 9,
+              "text": "Oak stewards took the party to the morgue."
+            },
+            {
+              "at": 11,
+              "text": "Party saw Pebblesworth's body and her torn donkey."
+            },
+            {
+              "at": 15,
+              "text": "Twilight examined the body and guessed at the cause."
+            },
+            {
+              "at": 17,
+              "text": "Illiani recited mantras to read psychic impressions."
+            },
+            {
+              "at": 27,
+              "text": "Anna found soot indicating planar travel."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 37,
+          "last": 45,
+          "area": "endless dark void",
+          "location": "endless dark void",
+          "events": [
+            {
+              "at": 37,
+              "text": "Alitheia found herself floating in a dark void."
+            },
+            {
+              "at": 38,
+              "text": "Alitheia raised her shield and looked for reference."
+            },
+            {
+              "at": 42,
+              "text": "Alitheia tried to walk forward through the void."
+            },
+            {
+              "at": 43,
+              "text": "A voice echoed about delivery to SCREECH."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 46,
+          "last": 56,
+          "area": "Seven Arche's Morgue",
+          "location": "Seven Arche's Morgue",
+          "events": [
+            {
+              "at": 46,
+              "text": "Perception check passed with a value of 19."
+            },
+            {
+              "at": 47,
+              "text": "Nature check passed with a value of 17."
+            },
+            {
+              "at": 48,
+              "text": "Survival check critically passed with a value of 30."
+            },
+            {
+              "at": 55,
+              "text": "Anthony noted every roll was passed."
+            },
+            {
+              "at": 56,
+              "text": "Cannon claimed an earlier arcana pass."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 57,
+          "last": 74,
+          "area": "endless dark void",
+          "location": "endless dark void",
+          "events": [
+            {
+              "at": 57,
+              "text": "Alitheia called out to the unseen voices."
+            },
+            {
+              "at": 59,
+              "text": "Voices discussed her naming by SCREECH."
+            },
+            {
+              "at": 65,
+              "text": "Thirteen immense chained mythical beings appeared."
+            },
+            {
+              "at": 68,
+              "text": "Alitheia lowered her shield and questioned the prison."
+            },
+            {
+              "at": 71,
+              "text": "Alitheia paused at the phoenix feeling warmth."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 75,
+          "last": 84,
+          "area": "Seven Arche's Morgue",
+          "location": "Seven Arche's Morgue",
+          "events": [
+            {
+              "at": 75,
+              "text": "Nature showed two killers and shadow fey fed on the donkey."
+            },
+            {
+              "at": 77,
+              "text": "Twilight found large barefoot tracks that only watched."
+            },
+            {
+              "at": 80,
+              "text": "Rubel discovered Pebblesworth cast no shadow."
+            },
+            {
+              "at": 81,
+              "text": "Party learned the morgue gave all it could."
+            },
+            {
+              "at": 82,
+              "text": "Party learned they must go to The Thin Lands."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 85,
+          "last": 97,
+          "area": "endless dark void",
+          "location": "endless dark void",
+          "events": [
+            {
+              "at": 86,
+              "text": "Alitheia brought her blade down on the phoenix restraints."
+            },
+            {
+              "at": 91,
+              "text": "An explosion of light enveloped Alitheia."
+            },
+            {
+              "at": 94,
+              "text": "Something left the phoenix and entered Alitheia."
+            },
+            {
+              "at": 95,
+              "text": "A mark with a phoenix appeared on her flesh."
+            },
+            {
+              "at": 97,
+              "text": "Alitheia woke up after two years passed."
+            }
+          ],
+          "time_cues": [
+            "Two years pass."
+          ]
+        },
+        {
+          "first": 98,
+          "last": 105,
+          "area": "unfamiliar room",
+          "location": "unfamiliar room",
+          "events": [
+            {
+              "at": 98,
+              "text": "Alitheia suited up and followed warmth to strangers."
+            },
+            {
+              "at": 100,
+              "text": "Twilight greeted Alitheia and mentioned the Thin Lands murder."
+            },
+            {
+              "at": 101,
+              "text": "Alitheia introduced herself as an acolyte of Sarenrae."
+            },
+            {
+              "at": 102,
+              "text": "Party recognized Alitheia as marked."
+            },
+            {
+              "at": 103,
+              "text": "Party learned they woke up in a fluid pod."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 124,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 27,
+          "area": "unfamiliar room",
+          "location": "unfamiliar room",
+          "events": [
+            {
+              "at": 2,
+              "text": "Alitheia showed her phoenix tattoo and asked about the dream."
+            },
+            {
+              "at": 4,
+              "text": "Alitheia offered to join with fighting and basic medical training."
+            },
+            {
+              "at": 12,
+              "text": "Anna asked if the group should leave the morgue."
+            },
+            {
+              "at": 13,
+              "text": "Doctor Edward Ritalson walked into the room."
+            },
+            {
+              "at": 22,
+              "text": "Doctor Ritalson offered to teleport the group nearby."
+            },
+            {
+              "at": 26,
+              "text": "Doctor Ritalson built a portal from purple lightning."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 28,
+          "last": 37,
+          "area": "farmlands of Seven Arches",
+          "location": "stony road",
+          "events": [
+            {
+              "at": 28,
+              "text": "A vortex pulled the group across reality to the farm lands."
+            },
+            {
+              "at": 29,
+              "text": "The party arrived on a stony road in the farmlands."
+            },
+            {
+              "at": 30,
+              "text": "The party saw farm houses spread across rolling hills."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 38,
+          "last": 53,
+          "area": "farmlands of Seven Arches",
+          "location": "misty hills",
+          "events": [
+            {
+              "at": 38,
+              "text": "The party searched the misty hills and low valleys for fey magic."
+            },
+            {
+              "at": 39,
+              "text": "Farmers told Cyrus about fey blights."
+            },
+            {
+              "at": 42,
+              "text": "Alitheia helped the group navigate the hills."
+            },
+            {
+              "at": 53,
+              "text": "Twilight failed to provide the needed nature knowledge."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 54,
+          "last": 61,
+          "area": "farmlands of Seven Arches",
+          "location": "clearing in the trees",
+          "events": [
+            {
+              "at": 54,
+              "text": "The party went through a thicket to a clearing."
+            },
+            {
+              "at": 55,
+              "text": "The party found a bird with broken wings in a stick symbol."
+            },
+            {
+              "at": 60,
+              "text": "Twilight held a short rite over the bird corpse."
+            },
+            {
+              "at": 61,
+              "text": "Twilight followed the primal magic trail toward its source."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 62,
+          "last": 124,
+          "area": "farmlands of Seven Arches",
+          "location": "farmlands of Seven Arches",
+          "events": [
+            {
+              "at": 63,
+              "text": "Three large shadow creatures ambushed the party."
+            },
+            {
+              "at": 84,
+              "text": "Rubel killed a Shadow of Hunger."
+            },
+            {
+              "at": 97,
+              "text": "Twilight Garden killed Shadow of Hunger #01."
+            },
+            {
+              "at": 112,
+              "text": "Illiani killed the last Shadow of Hunger."
+            },
+            {
+              "at": 117,
+              "text": "The party gathered 3 sets of Dark Fey Blood worth 39 GP."
+            }
+          ],
+          "time_cues": [
+            "As the day is coming to an end",
+            "as the light of the sun dips down"
+          ]
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 22,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "farmlands of Seven Arches",
+          "location": "farmlands of Seven Arches",
+          "events": [
+            {
+              "at": 1,
+              "text": "Continued onwards and broke through the treeline to a clearing with a portal."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 22,
+          "area": "farmlands of Seven Arches",
+          "location": "clearing in the trees",
+          "events": [
+            {
+              "at": 4,
+              "text": "Identified the view through the portal as the Shadow Lands of the First World."
+            },
+            {
+              "at": 7,
+              "text": "Noticed a whale etching on the portal stone."
+            },
+            {
+              "at": 8,
+              "text": "Sensed the source of the dead bird ritual lay beyond the portal."
+            },
+            {
+              "at": 12,
+              "text": "Anna objected to going through the shadow portal."
+            },
+            {
+              "at": 14,
+              "text": "Watched the portal swirl and glimpsed movement beyond the veil."
+            },
+            {
+              "at": 22,
+              "text": "Agreed to head through the portal."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {
+    "Seven Arches' grand library": "Grand library",
+    "Seven Arche's Morgue": "Morgue",
+    "farmlands of Seven Arches": "Farmlands"
+  },
+  "area_renames": {
+    "Seven Arches' grand library": "Seven Arches",
+    "Seven Arche's Morgue": "Seven Arches",
+    "farmlands of Seven Arches": "Seven Arches"
+  }
+}
