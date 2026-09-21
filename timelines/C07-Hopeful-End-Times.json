@@ -1,0 +1,1768 @@
+{
+  "code": "C07",
+  "campaign": "Hopeful End-Times",
+  "months": {
+    "2024-08": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM shared a link."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-11": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "Were outside a shady bar in the Vesk Quarter on Absalom space station."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-12": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "Heard buzz of music and voices from inside the bar."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-01": {
+      "messages": 31,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 3,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "The vesk waited."
+            },
+            {
+              "at": 2,
+              "text": "Julzakama awaited in the crowd in the bar."
+            },
+            {
+              "at": 3,
+              "text": "Julzakama continued to await in the crowd in the bar."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 4,
+          "last": 15,
+          "area": "the bar",
+          "location": "the door",
+          "events": [
+            {
+              "at": 4,
+              "text": "Roneles approached the bar and tried to find a seat."
+            },
+            {
+              "at": 7,
+              "text": "Kaeda approached the trio at the bouncer and offered to help with the concert."
+            },
+            {
+              "at": 11,
+              "text": "Lysae approached the bouncer at the door and asked about meeting someone."
+            },
+            {
+              "at": 12,
+              "text": "Lysae asked the bouncer if he knew Julzakama."
+            },
+            {
+              "at": 13,
+              "text": "Kaeda asked Lysae if she was looking for Julz and introduced herself."
+            },
+            {
+              "at": 14,
+              "text": "Lysae introduced herself to Kaeda and asked about the spear."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 16,
+          "last": 31,
+          "area": "the bar",
+          "location": "the bar",
+          "events": [
+            {
+              "at": 16,
+              "text": "Lysae moved forward into the bar."
+            },
+            {
+              "at": 19,
+              "text": "Lysae said the bouncer said the employer was in the furthest stall past the bar."
+            },
+            {
+              "at": 20,
+              "text": "The bouncer asked the group for IDs."
+            },
+            {
+              "at": 23,
+              "text": "Kaeda showed her ID to the bouncer and asked to be let in."
+            },
+            {
+              "at": 29,
+              "text": "Lysae looked for a dimly lit spot to cover Kaeda at the booth."
+            },
+            {
+              "at": 31,
+              "text": "Kaeda was lifted into the air and resisted the urge to struggle."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-02": {
+      "messages": 38,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 34,
+          "area": "the bar",
+          "location": "the bar",
+          "events": [
+            {
+              "at": 2,
+              "text": "Lysae faded into shadows to watch the guards and Julz"
+            },
+            {
+              "at": 6,
+              "text": "Julzakama introduced himself as Julz and said he had work"
+            },
+            {
+              "at": 16,
+              "text": "Julzakama offered a job to sweep the freighter and log salvage"
+            },
+            {
+              "at": 20,
+              "text": "Kaeda asked about people, problems and profit cut"
+            },
+            {
+              "at": 30,
+              "text": "Julz handed the party a USB"
+            },
+            {
+              "at": 34,
+              "text": "Kaeda accepted the flash drive, repeated 1607 and left to follow the others"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 35,
+          "last": 38,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 35,
+              "text": "Lysae suggested reading what was on the drive before going far"
+            },
+            {
+              "at": 36,
+              "text": "Kaeda held out the drive outside and refused to plug it into her own device"
+            },
+            {
+              "at": 37,
+              "text": "Lysae suggested a public terminal and looked around for one"
+            },
+            {
+              "at": 38,
+              "text": "Roneles murmured about a ship of the sin empire"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-03": {
+      "messages": 551,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM assumed travel to the space port."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 2,
+          "area": "the bar",
+          "location": "the door",
+          "events": [
+            {
+              "at": 2,
+              "text": "Overheard drunken vesk warn about psychic vampires kidnapping people."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 8,
+          "area": "the space port",
+          "location": "the speed lift",
+          "events": [
+            {
+              "at": 3,
+              "text": "Rode autotrain to the speed lift."
+            },
+            {
+              "at": 4,
+              "text": "Learned the lift went to the space dock."
+            },
+            {
+              "at": 6,
+              "text": "Heard preacher warn doomsday was nigh."
+            },
+            {
+              "at": 8,
+              "text": "Lysae pressed the button to call the lift."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 186,
+          "area": "the speed lift",
+          "location": "the speed lift",
+          "events": [
+            {
+              "at": 12,
+              "text": "Fell hundreds of floors and blacked out."
+            },
+            {
+              "at": 19,
+              "text": "Awoke deep with jammed door and emergency lights."
+            },
+            {
+              "at": 48,
+              "text": "Forced doors open to dark chanting corridor."
+            },
+            {
+              "at": 78,
+              "text": "Met Clank after hatch opened above the lift."
+            },
+            {
+              "at": 136,
+              "text": "Met Kessel after golden wormhole appeared."
+            },
+            {
+              "at": 174,
+              "text": "Met Chua after reality distortion in the elevator."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 187,
+          "last": 278,
+          "area": "area 1",
+          "location": "the corridor",
+          "events": [
+            {
+              "at": 187,
+              "text": "Walked into the corridor."
+            },
+            {
+              "at": 193,
+              "text": "Heard robots chant IT IS AWAKE."
+            },
+            {
+              "at": 197,
+              "text": "Entered combat with three robots."
+            },
+            {
+              "at": 238,
+              "text": "Smashed last robot and ended combat."
+            },
+            {
+              "at": 243,
+              "text": "Learned the corridor was area 1."
+            },
+            {
+              "at": 253,
+              "text": "Livy built an assassin rifle from robot parts."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 279,
+          "last": 290,
+          "area": "rectangular hallway",
+          "location": "computer station",
+          "events": [
+            {
+              "at": 279,
+              "text": "Went northeast."
+            },
+            {
+              "at": 280,
+              "text": "Opened door into southbound rectangular hallway."
+            },
+            {
+              "at": 283,
+              "text": "Found computer systems along the eastern wall."
+            },
+            {
+              "at": 287,
+              "text": "Watched screens react to the presence."
+            },
+            {
+              "at": 289,
+              "text": "Were blinded by bright screens and beeping."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 291,
+          "last": 317,
+          "area": "hover train platform station",
+          "location": "hover train platform station",
+          "events": [
+            {
+              "at": 292,
+              "text": "Arrived on outdated hover train platform station."
+            },
+            {
+              "at": 298,
+              "text": "Noted apparent teleportation to older station part."
+            },
+            {
+              "at": 300,
+              "text": "Learned party stood mesmerised while Livy faded."
+            },
+            {
+              "at": 308,
+              "text": "Planned to follow simulation path down stairs."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 318,
+          "last": 476,
+          "area": "room 2",
+          "location": "unrendered room of darkness",
+          "events": [
+            {
+              "at": 322,
+              "text": "Walked into dark unrendered room with Holo-hall computer."
+            },
+            {
+              "at": 334,
+              "text": "Entered combat with holo avatars and imps."
+            },
+            {
+              "at": 395,
+              "text": "Rebooted female avatar and banished two imps."
+            },
+            {
+              "at": 402,
+              "text": "Ended combat and freed the holo deck."
+            },
+            {
+              "at": 451,
+              "text": "Opened door marked AREA 3."
+            },
+            {
+              "at": 474,
+              "text": "Jammed doors open after spotting magnetism."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 477,
+          "last": 500,
+          "area": "area 3",
+          "location": "hot vent room",
+          "events": [
+            {
+              "at": 477,
+              "text": "Entered steam-filled hot room."
+            },
+            {
+              "at": 482,
+              "text": "Found floor covered in explosive heat vents."
+            },
+            {
+              "at": 495,
+              "text": "Disabled vents by repair."
+            },
+            {
+              "at": 500,
+              "text": "Prepared to advance down the corridor."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 501,
+          "last": 551,
+          "area": "area 3",
+          "location": "the hallway",
+          "events": [
+            {
+              "at": 501,
+              "text": "Lost gravity and several fell prone."
+            },
+            {
+              "at": 515,
+              "text": "Faced laughing space gremlin around the corner."
+            },
+            {
+              "at": 532,
+              "text": "Tore down gravity barrier blocking vision."
+            },
+            {
+              "at": 540,
+              "text": "Looted chest after killing the gremlin."
+            },
+            {
+              "at": 548,
+              "text": "Debated taking future enemies alive for questioning."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-04": {
+      "messages": 66,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 66,
+          "area": "area 3",
+          "location": "the hallway",
+          "events": [
+            {
+              "at": 1,
+              "text": "Mausbert Gouda appeared upside down and vomited."
+            },
+            {
+              "at": 6,
+              "text": "Lysae explained the group was trapped and urged them to keep moving."
+            },
+            {
+              "at": 24,
+              "text": "The group walked past the gremlin puddle toward loot and two western doors."
+            },
+            {
+              "at": 45,
+              "text": "The jammed western door opened."
+            },
+            {
+              "at": 63,
+              "text": "Scared tourists opened the barricaded door and their robot offered 400 credits for rescue."
+            },
+            {
+              "at": 66,
+              "text": "The group received +1 to perception for the remainder of the dungeon."
+            }
+          ],
+          "time_cues": [
+            "in the last half-hour"
+          ]
+        }
+      ]
+    },
+    "2025-05": {
+      "messages": 65,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 14,
+          "area": "area 3",
+          "location": "the hallway",
+          "events": [
+            {
+              "at": 2,
+              "text": "GM described a very tall ladder leading somewhere."
+            },
+            {
+              "at": 4,
+              "text": "Lysae approached the ladder and began climbing stealthily."
+            },
+            {
+              "at": 5,
+              "text": "Lysae reached the top of the ladder."
+            },
+            {
+              "at": 12,
+              "text": "Lysae climbed back down and reported a chest in the corner."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 15,
+          "last": 58,
+          "area": "area 3",
+          "location": "in front of the chest",
+          "events": [
+            {
+              "at": 15,
+              "text": "The whole party arrived in front of the chest."
+            },
+            {
+              "at": 19,
+              "text": "Chua opened the chest."
+            },
+            {
+              "at": 24,
+              "text": "The chest revealed a frost magic laser turret releasing icy blasts."
+            },
+            {
+              "at": 40,
+              "text": "Lysae shot the frost crystal and the turret exploded."
+            },
+            {
+              "at": 44,
+              "text": "An attacker died from Chua telekinetic projectile."
+            },
+            {
+              "at": 50,
+              "text": "Combat ended and the party earned hero points and chest loot."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 59,
+          "last": 65,
+          "area": "area 3",
+          "location": "platform",
+          "events": [
+            {
+              "at": 59,
+              "text": "The party went North."
+            },
+            {
+              "at": 60,
+              "text": "The party traveled through the corridor."
+            },
+            {
+              "at": 61,
+              "text": "The party entered a room with a platform and shadowy depths."
+            },
+            {
+              "at": 65,
+              "text": "Chua shuddered and advised against going that way."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-06": {
+      "messages": 23,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 23,
+          "area": "area 3",
+          "location": "platform",
+          "events": [
+            {
+              "at": 4,
+              "text": "Chua rolled sense motive and occultism to assess the ritual."
+            },
+            {
+              "at": 8,
+              "text": "Chua recommended searching the rest of the floor before disrupting the ritual."
+            },
+            {
+              "at": 12,
+              "text": "Livy suggested going to meet the cultists."
+            },
+            {
+              "at": 20,
+              "text": "The group started to go down the ladder toward the cultists."
+            },
+            {
+              "at": 21,
+              "text": "A brain-like creature emerged from a portal into the hallway."
+            },
+            {
+              "at": 23,
+              "text": "The creature asked to travel with the party."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-07": {
+      "messages": 320,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 81,
+          "area": "area 3",
+          "location": "platform",
+          "events": [
+            {
+              "at": 2,
+              "text": "Went down the ladder."
+            },
+            {
+              "at": 9,
+              "text": "Kaeda Sall turned to ash."
+            },
+            {
+              "at": 10,
+              "text": "Kessel Solaria turned to ash."
+            },
+            {
+              "at": 20,
+              "text": "Mould altar exploded."
+            },
+            {
+              "at": 39,
+              "text": "Fungus showed vision of planets collapsing."
+            },
+            {
+              "at": 56,
+              "text": "Altar turned to ash."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 82,
+          "last": 231,
+          "area": "hall of statues",
+          "location": "hall of statues",
+          "events": [
+            {
+              "at": 82,
+              "text": "Found hall of statues."
+            },
+            {
+              "at": 108,
+              "text": "Statue came to life and swung stone blade."
+            },
+            {
+              "at": 212,
+              "text": "Phase bolt destroyed Korumun the statue."
+            },
+            {
+              "at": 219,
+              "text": "Doors to Area 9 unlocked."
+            },
+            {
+              "at": 221,
+              "text": "Group took 10 minutes to refocus and rest."
+            }
+          ],
+          "time_cues": [
+            "10 minutes"
+          ]
+        },
+        {
+          "first": 232,
+          "last": 293,
+          "area": "Area 9",
+          "location": "Maintenance Bay",
+          "events": [
+            {
+              "at": 232,
+              "text": "Found Maintenance Bay crowded with machinery."
+            },
+            {
+              "at": 237,
+              "text": "Slime fell onto floor behind Mausbert."
+            },
+            {
+              "at": 279,
+              "text": "Combat ended and Tech slime was defeated."
+            },
+            {
+              "at": 284,
+              "text": "Loot was sent to party stash."
+            },
+            {
+              "at": 292,
+              "text": "Chua unlocked final sealed room of ghost levels."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 294,
+          "last": 320,
+          "area": "final unexplored, sealed room",
+          "location": "3D planetary observatory",
+          "events": [
+            {
+              "at": 295,
+              "text": "Found softly playing 3D planetary observatory."
+            },
+            {
+              "at": 300,
+              "text": "Electric surge triggered and electric bird appeared."
+            },
+            {
+              "at": 311,
+              "text": "Robot exploded."
+            },
+            {
+              "at": 320,
+              "text": "Chua launched void warp bolt at bird creature."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-08": {
+      "messages": 230,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 57,
+          "area": "final unexplored, sealed room",
+          "location": "3D planetary observatory",
+          "events": [
+            {
+              "at": 3,
+              "text": "Combat began against the Robot and Electric bird."
+            },
+            {
+              "at": 11,
+              "text": "Remaining enemy died and combat ended."
+            },
+            {
+              "at": 16,
+              "text": "Mausbert headed to the computer to activate it."
+            },
+            {
+              "at": 35,
+              "text": "Party took 12 damage from the electricity trap."
+            },
+            {
+              "at": 49,
+              "text": "Mausbert critically succeeded to disable the electrical trap."
+            },
+            {
+              "at": 54,
+              "text": "Planet viewing system reactivated and showed Nocturn shaking."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 58,
+          "last": 103,
+          "area": "the speed lift",
+          "location": "the speed lift",
+          "events": [
+            {
+              "at": 58,
+              "text": "Lift activated and party got in and left the ghost levels."
+            },
+            {
+              "at": 60,
+              "text": "Party reached level 2 and completed Story 1."
+            },
+            {
+              "at": 74,
+              "text": "Julzakama directed party to go to little Akiton and find Nikk-Nakk."
+            },
+            {
+              "at": 76,
+              "text": "Livy healed Arcanium and Lysae in the elevator."
+            },
+            {
+              "at": 82,
+              "text": "Lift arrived."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 104,
+          "last": 163,
+          "area": "Little Akiton",
+          "location": "Little Akiton",
+          "events": [
+            {
+              "at": 104,
+              "text": "Lift doors opened revealing Little Akiton."
+            },
+            {
+              "at": 139,
+              "text": "Mausbert and Chua repaired the hoverbike."
+            },
+            {
+              "at": 141,
+              "text": "AOC asked the Vesk woman about her plants."
+            },
+            {
+              "at": 145,
+              "text": "Fungi grew as if feeding on AOC."
+            },
+            {
+              "at": 151,
+              "text": "Dwarf directed party to Arta and her friends."
+            },
+            {
+              "at": 156,
+              "text": "Mausbert scoured the Infosphere and located Arta address."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 164,
+          "last": 221,
+          "area": "Arta's apartment building",
+          "location": "Arta's apartment building",
+          "events": [
+            {
+              "at": 164,
+              "text": "Party went to Arta apartment building."
+            },
+            {
+              "at": 185,
+              "text": "Arta answered the buzzer and asked if wrong number."
+            },
+            {
+              "at": 192,
+              "text": "Arta introduced herself as an Arcanamirium professor."
+            },
+            {
+              "at": 208,
+              "text": "Party learned Nikk-Nakk hated AbadarCorp and loved tomatoes."
+            },
+            {
+              "at": 210,
+              "text": "Mausbert defaced AbadarCorp logos on his clothing."
+            },
+            {
+              "at": 221,
+              "text": "Party headed to Nikk-Nakk."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 222,
+          "last": 230,
+          "area": "junkyard",
+          "location": "junkyard",
+          "events": [
+            {
+              "at": 222,
+              "text": "Party arrived at a junkyard with chained fence and buzzer."
+            },
+            {
+              "at": 228,
+              "text": "Nikk-Nakk offered a job conditional on doing tasks well."
+            },
+            {
+              "at": 229,
+              "text": "Nikk-Nakk praised anti-Abadar graffiti and played a guitar riff."
+            },
+            {
+              "at": 230,
+              "text": "Mausbert acknowledged and mentioned the Shipyard job."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-09": {
+      "messages": 75,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "junkyard",
+          "location": "junkyard",
+          "events": [
+            {
+              "at": 1,
+              "text": "Chua agreed the shipyards sounded like the best use for their talents."
+            },
+            {
+              "at": 3,
+              "text": "Haku and Scrit agreed to go."
+            },
+            {
+              "at": 4,
+              "text": "Chua activated his comm to search the bodega for location, services and owner info."
+            },
+            {
+              "at": 5,
+              "text": "Chua's search hit clickbait spam and forced a system reboot and restore."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 26,
+          "area": "Manee's bodega",
+          "location": "shop",
+          "events": [
+            {
+              "at": 8,
+              "text": "The GM described Manee's shop behind a hardlight curtain in a stone archway."
+            },
+            {
+              "at": 12,
+              "text": "Manee Moonpuncher introduced herself and recognized the party from the hoverbike repair."
+            },
+            {
+              "at": 13,
+              "text": "Manee offered ammunition and consumables of 3rd rank or lower for sale."
+            },
+            {
+              "at": 14,
+              "text": "Mausbert ate dumplings and confirmed the party helped with the hoverbike."
+            },
+            {
+              "at": 20,
+              "text": "Lysae took the key and warned the basement likely held a malevolent spirit."
+            },
+            {
+              "at": 26,
+              "text": "Chua agreed to unlock the door and head down with Roneles."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 27,
+          "last": 75,
+          "area": "Manee's bodega",
+          "location": "storage basement",
+          "events": [
+            {
+              "at": 27,
+              "text": "The party unlocked the iron portcullis and entered the storage basement with a sarcophagus."
+            },
+            {
+              "at": 30,
+              "text": "Mausbert looked for the crate while tidying the basement."
+            },
+            {
+              "at": 44,
+              "text": "Two Giant Dust Weevils burrowed out and the sarcophagus glowed with dark energy."
+            },
+            {
+              "at": 54,
+              "text": "Roneles critically succeeded and stopped the falling boxes."
+            },
+            {
+              "at": 70,
+              "text": "A portal opened under Lysae and she fell through outside an impossibly tall city."
+            },
+            {
+              "at": 72,
+              "text": "AOC examined the sarcophagus after the combatants died."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 5,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "Manee's bodega",
+          "location": "storage basement",
+          "events": [
+            {
+              "at": 2,
+              "text": "Understood the dark magic and counter spelled the runes, banishing the spirit."
+            },
+            {
+              "at": 3,
+              "text": "Encounter ended."
+            },
+            {
+              "at": 5,
+              "text": "Chua asked if that was everything and looked around for more threats."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 12,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "Manee's bodega",
+          "location": "storage basement",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM recapped Manee's basement clearing offer and the portal and ammunition cache find."
+            },
+            {
+              "at": 2,
+              "text": "GM posted an image."
+            },
+            {
+              "at": 3,
+              "text": "Jeremy asked if a new player could join."
+            },
+            {
+              "at": 4,
+              "text": "Horia agreed to the new player joining."
+            },
+            {
+              "at": 5,
+              "text": "Chua checked the basement corners for leftover inventory and suggested heading up for dumplings."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 12,
+          "area": "Manee's bodega",
+          "location": "shop",
+          "events": [
+            {
+              "at": 6,
+              "text": "Manee asked the party for a moment before they left."
+            },
+            {
+              "at": 7,
+              "text": "Manee checked that the party was enjoying the dumplings."
+            },
+            {
+              "at": 8,
+              "text": "Manee thanked the party and mentioned the portal incident and strange powers."
+            },
+            {
+              "at": 9,
+              "text": "Manee asked the party to sign for a shipment in the lower docks."
+            },
+            {
+              "at": 10,
+              "text": "Manee manifested a flickering solar weapon and warned the lower docks could be dodgy."
+            },
+            {
+              "at": 12,
+              "text": "Chua asked about the rival, expected interference, and offered recompense while eating dumplings."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 16,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 16,
+          "area": "Manee's bodega",
+          "location": "shop",
+          "events": [
+            {
+              "at": 3,
+              "text": "Manee explained shipments were brought into the lower docks and Dock 3 was clear and usable."
+            },
+            {
+              "at": 6,
+              "text": "Manee said Tego had gone missing and goods sat in dock 3."
+            },
+            {
+              "at": 10,
+              "text": "Manee offered 400 credits to recover the goods."
+            },
+            {
+              "at": 12,
+              "text": "Chua said he was interested in money and tossed a dumpling to Liv."
+            },
+            {
+              "at": 15,
+              "text": "A furry creature crashed through the ceiling into the room."
+            },
+            {
+              "at": 16,
+              "text": "A Pahtra entered the room and sat at a table by himself."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 61,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 61,
+          "area": "Manee's bodega",
+          "location": "shop",
+          "events": [
+            {
+              "at": 7,
+              "text": "Chua told the newcomers about a job to rescue a person for creds."
+            },
+            {
+              "at": 19,
+              "text": "Alita arrived in the shop out of nothing in scorched armor."
+            },
+            {
+              "at": 25,
+              "text": "Chua recapped Manee's mission about a shipment to the lower docks."
+            },
+            {
+              "at": 36,
+              "text": "Bones followed Alita after she led the way."
+            },
+            {
+              "at": 43,
+              "text": "Bones fell through a green portal in the shop."
+            },
+            {
+              "at": 60,
+              "text": "The group accepted the mission and made their way toward the Castle Counting arms dealer shop."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 136,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Manee's bodega",
+          "location": "shop",
+          "events": [
+            {
+              "at": 1,
+              "text": "left the shop"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 8,
+          "area": "Little Akiton",
+          "location": "Little Akiton",
+          "events": [
+            {
+              "at": 2,
+              "text": "went to another shop"
+            },
+            {
+              "at": 3,
+              "text": "navigated through the cramped corridors of Little Akiton"
+            },
+            {
+              "at": 5,
+              "text": "saw someone fire a laser bolt at the holographic sun"
+            },
+            {
+              "at": 6,
+              "text": "watched the false sky flicker"
+            },
+            {
+              "at": 7,
+              "text": "reached the arms shop of CASTLE COUNTING"
+            },
+            {
+              "at": 8,
+              "text": "saw the mechanical brass sign above the door"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 127,
+          "area": "CASTLE COUNTING",
+          "location": "shop",
+          "events": [
+            {
+              "at": 9,
+              "text": "stepped inside the shop"
+            },
+            {
+              "at": 31,
+              "text": "met shopkeep Ophelius Berrus"
+            },
+            {
+              "at": 74,
+              "text": "paid 70 credits for the rifle and minion spell gem"
+            },
+            {
+              "at": 75,
+              "text": "met newcomer Rune when he entered the shop"
+            },
+            {
+              "at": 87,
+              "text": "met newcomer Lowda Medina when he entered"
+            },
+            {
+              "at": 126,
+              "text": "received watches from Ophelius"
+            }
+          ],
+          "time_cues": [
+            "4710, Rova 10th."
+          ]
+        },
+        {
+          "first": 128,
+          "last": 136,
+          "area": "AbadarCorp Courier Housing Block 7",
+          "location": "AbadarCorp Courier Housing Block 7",
+          "events": [
+            {
+              "at": 128,
+              "text": "swung by Rune's block and Rune quickly returned"
+            },
+            {
+              "at": 130,
+              "text": "read the sign for AbadarCorp Courier Housing Block 7"
+            },
+            {
+              "at": 133,
+              "text": "headed toward smuggler's dock"
+            },
+            {
+              "at": 135,
+              "text": "passed the apartment building heading for smuggler's dock"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 85,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 3,
+          "area": "AbadarCorp Courier Housing Block 7",
+          "location": "AbadarCorp Courier Housing Block 7",
+          "events": [
+            {
+              "at": 1,
+              "text": "Anthony said it would be awesome to arrive at Smugler's dock."
+            },
+            {
+              "at": 3,
+              "text": "GM said the party was heading to Dock 3."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 4,
+          "last": 7,
+          "area": "a lift",
+          "location": "a lift",
+          "events": [
+            {
+              "at": 4,
+              "text": "Party went to a lift."
+            },
+            {
+              "at": 5,
+              "text": "Party got in the lift."
+            },
+            {
+              "at": 6,
+              "text": "Lift took them down a few levels."
+            },
+            {
+              "at": 7,
+              "text": "Party got out of the lift."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 8,
+          "last": 12,
+          "area": "corridors",
+          "location": "corridors",
+          "events": [
+            {
+              "at": 8,
+              "text": "Party walked through metres of corridors across grated steamy hallways."
+            },
+            {
+              "at": 9,
+              "text": "Party went down metal grate stairs."
+            },
+            {
+              "at": 11,
+              "text": "Party went through more corridors."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 13,
+          "last": 85,
+          "area": "the Docks",
+          "location": "Dock 3",
+          "events": [
+            {
+              "at": 13,
+              "text": "Party made it to the Docks."
+            },
+            {
+              "at": 23,
+              "text": "Party found an unmoving shobhad dock worker facedown with a laser pistol nearby."
+            },
+            {
+              "at": 28,
+              "text": "Spicy Sweet threatened the party."
+            },
+            {
+              "at": 41,
+              "text": "Party most likely avoided combat."
+            },
+            {
+              "at": 80,
+              "text": "GM revealed the delivery was a smuggling run."
+            },
+            {
+              "at": 85,
+              "text": "Alita asked Tego to sign the documents."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 42,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 24,
+          "area": "the Docks",
+          "location": "Dock 3",
+          "events": [
+            {
+              "at": 4,
+              "text": "Manee asked what brought the party and mentioned her basement and shipment."
+            },
+            {
+              "at": 6,
+              "text": "Miyuu said his headache eased nearby and he took up shop in the ceiling."
+            },
+            {
+              "at": 8,
+              "text": "Rune said he heard a Scream-like sound and followed the others."
+            },
+            {
+              "at": 14,
+              "text": "Manee said the basement and shipment were done and named Kruz and Joia."
+            },
+            {
+              "at": 20,
+              "text": "Miyuu walked out the door toward the community center."
+            },
+            {
+              "at": 24,
+              "text": "The party made their way to the community centre."
+            }
+          ],
+          "time_cues": [
+            "a minute later"
+          ]
+        },
+        {
+          "first": 25,
+          "last": 42,
+          "area": "community centre",
+          "location": "the front room",
+          "events": [
+            {
+              "at": 27,
+              "text": "The party stepped through the door hearing loud industrial fans."
+            },
+            {
+              "at": 33,
+              "text": "Joia said visitors had to work for a bed and she was busy."
+            },
+            {
+              "at": 35,
+              "text": "Joia introduced herself and asked how she could help."
+            },
+            {
+              "at": 36,
+              "text": "Miyu said Nikk-Nakk sent them to help."
+            },
+            {
+              "at": 37,
+              "text": "Joia asked if they could garden, teach, or patch someone up."
+            },
+            {
+              "at": 42,
+              "text": "Livy protested being called dangerous."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 98,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 96,
+          "area": "community centre",
+          "location": "the front room",
+          "events": [
+            {
+              "at": 10,
+              "text": "Livy succeeded at entertaining the children."
+            },
+            {
+              "at": 25,
+              "text": "Chua succeeded at teaching the children."
+            },
+            {
+              "at": 54,
+              "text": "Roneles cleared vermin from the community garden."
+            },
+            {
+              "at": 59,
+              "text": "Joia praised Rune for doing a really good gardening job."
+            },
+            {
+              "at": 80,
+              "text": "Joia gave the party medpatches, a hypopen and magboots."
+            },
+            {
+              "at": 87,
+              "text": "Joia told the party to go to Sunny-6's restaurant."
+            }
+          ],
+          "time_cues": [
+            "for the next few hours",
+            "a school day passes",
+            "yesterday",
+            "this morning"
+          ]
+        },
+        {
+          "first": 97,
+          "last": 98,
+          "area": "Little Akiton",
+          "location": "Little Akiton",
+          "events": [
+            {
+              "at": 98,
+              "text": "The party walked to the diner across Little Akiton."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 49,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 49,
+          "area": "Sunny-6's Diner",
+          "location": "Sunny-6's Diner",
+          "events": [
+            {
+              "at": 6,
+              "text": "Sunny-6 asked the party for help with diner work."
+            },
+            {
+              "at": 20,
+              "text": "Livy succeeded at Computers, Diplomacy and Crafting checks."
+            },
+            {
+              "at": 28,
+              "text": "Rune prepared all of the ingredients."
+            },
+            {
+              "at": 34,
+              "text": "Sunny-6 paid the group 80 credits after their shifts."
+            },
+            {
+              "at": 45,
+              "text": "Sunny-6 told the party about missing regular Meldo."
+            },
+            {
+              "at": 46,
+              "text": "A patron claimed vampires drained his brother and Security covered it up."
+            }
+          ],
+          "time_cues": [
+            "After your 4-hour shifts wrap up"
+          ]
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 122,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Sunny-6's Diner",
+          "location": "Sunny-6's Diner",
+          "events": [
+            {
+              "at": 1,
+              "text": "Headed to the junkyard."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 122,
+          "area": "junkyard",
+          "location": "junkyard",
+          "events": [
+            {
+              "at": 6,
+              "text": "Opened the fence and headed toward the music."
+            },
+            {
+              "at": 12,
+              "text": "Livy knocked on the garage door and tried to hack the radio."
+            },
+            {
+              "at": 16,
+              "text": "Saw gears and broken parts become a swarm."
+            },
+            {
+              "at": 18,
+              "text": "Saw metal melt into a ferrofluid ooze."
+            },
+            {
+              "at": 94,
+              "text": "Destroyed the Cursed Junk Swarm."
+            },
+            {
+              "at": 116,
+              "text": "Left the slime almost defeated."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 180,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 119,
+          "area": "junkyard",
+          "location": "junkyard",
+          "events": [
+            {
+              "at": 28,
+              "text": "Lai's pistol shot destroyed the ooze and ended combat."
+            },
+            {
+              "at": 31,
+              "text": "The party added 22GP of Metal Slime parts to the stash."
+            },
+            {
+              "at": 49,
+              "text": "Nikk-Nakk appeared in the garage doorway with a guitar."
+            },
+            {
+              "at": 57,
+              "text": "Livy greeted Lai and mistook him for a superfan."
+            },
+            {
+              "at": 82,
+              "text": "Nikk-Nakk pointed to a manhole cover and suggested talking in his other shed."
+            },
+            {
+              "at": 118,
+              "text": "Nikk-Nakk went down the manhole cover."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 120,
+          "last": 180,
+          "area": "small bunker",
+          "location": "small bunker",
+          "events": [
+            {
+              "at": 120,
+              "text": "The group arrived in a small bunker with computers and supplies."
+            },
+            {
+              "at": 128,
+              "text": "Nikk-Nakk showed the AbadarCorp board and described the medical scam."
+            },
+            {
+              "at": 144,
+              "text": "Nikk-Nakk said they would give the vault money to the sick and families."
+            },
+            {
+              "at": 164,
+              "text": "Rune agreed to help hit AbadarCorp where it hurts."
+            },
+            {
+              "at": 175,
+              "text": "Nikk-Nakk gave Lai basic ukulele tips and pointers."
+            },
+            {
+              "at": 180,
+              "text": "The stash slime parts were increased from 1 to 2."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 52,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 52,
+          "area": "small bunker",
+          "location": "small bunker",
+          "events": [
+            {
+              "at": 1,
+              "text": "Livy made a basic environmental protection module from Space gremlin parts."
+            },
+            {
+              "at": 32,
+              "text": "Livy made a streetsweeper weapon from gremlin leftovers and Ferofluid."
+            },
+            {
+              "at": 35,
+              "text": "The group planned to film the heist and post scam evidence on AbsolomTube."
+            },
+            {
+              "at": 40,
+              "text": "Nikk-Nakk plugged in the group's batteries for charging."
+            },
+            {
+              "at": 48,
+              "text": "Nikk-Nakk showed Rune an outdated interior layout on a screen."
+            },
+            {
+              "at": 50,
+              "text": "Livy constructed a camera bot from remaining monster parts."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {},
+  "area_renames": {
+    "area 1": "The Ghost Levels",
+    "rectangular hallway": "The Ghost Levels",
+    "hover train platform station": "The Ghost Levels",
+    "room 2": "The Ghost Levels",
+    "area 3": "The Ghost Levels",
+    "hall of statues": "The Ghost Levels",
+    "Area 9": "The Ghost Levels",
+    "final unexplored, sealed room": "The Ghost Levels",
+    "CASTLE COUNTING": "Castle Counting"
+  }
+}

@@ -1,0 +1,2840 @@
+{
+  "code": "C01",
+  "campaign": "Doomsday Funtime",
+  "months": {
+    "2023-08": {
+      "messages": 96,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 96,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "Amar stood before a strange monstrous fish man."
+            },
+            {
+              "at": 4,
+              "text": "The creature swung at Amar."
+            },
+            {
+              "at": 10,
+              "text": "The GM stated Amar was in a strange throne room with an eroded throne."
+            },
+            {
+              "at": 27,
+              "text": "Amar surged into the air and punched the ground with flaming stone."
+            },
+            {
+              "at": 35,
+              "text": "Amar cut the sea creature's underbelly with a rapier strike."
+            },
+            {
+              "at": 58,
+              "text": "The creature dived into the ground and reappeared to strike Amar."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2023-09": {
+      "messages": 4,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 4,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM began Session 191 Gauntlight Part 2."
+            },
+            {
+              "at": 2,
+              "text": "Cardigan looked at the group and at Allissee and Selenor who had taken charge of the outing."
+            },
+            {
+              "at": 4,
+              "text": "Modwinn felt disturbed seeing Cardigan emotional, tried to reach for her hand, and looked to Selennor for guidance."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2023-11": {
+      "messages": 3,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "Gauntlight",
+          "location": "Gauntlight",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM opened Session 195 in Gauntlight."
+            },
+            {
+              "at": 2,
+              "text": "Selenor cast a sending spell for Amar asking Darkmoon if she was single."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 3,
+          "area": "Gauntlight",
+          "location": "temple of the Canker",
+          "events": [
+            {
+              "at": 3,
+              "text": "GM stated the location was the temple of the Canker."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-01": {
+      "messages": 7,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Gauntlight",
+          "location": "temple of the Canker",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM posted an empty message."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 7,
+          "area": "Gauntlight",
+          "location": "vast slimy cavern",
+          "events": [
+            {
+              "at": 2,
+              "text": "Party slid down the rubbish chute into a vast slimy cavern following Selenor."
+            },
+            {
+              "at": 3,
+              "text": "Party entered exploration mode."
+            },
+            {
+              "at": 4,
+              "text": "GM asked what the party did next."
+            },
+            {
+              "at": 5,
+              "text": "Party asked how dark it was."
+            },
+            {
+              "at": 6,
+              "text": "Party attempted Perception to gauge the cavern size and identify the slime and its source."
+            },
+            {
+              "at": 7,
+              "text": "Party asked about rubbish below and where it went from there."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-02": {
+      "messages": 38,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Gauntlight",
+          "location": "vast slimy cavern",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM posted a blank message."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 5,
+          "area": "Otari",
+          "location": "Mayor's Manor",
+          "events": [
+            {
+              "at": 2,
+              "text": "GM stated the party was in the Mayor's Manor in Otari."
+            },
+            {
+              "at": 4,
+              "text": "GM noted Nemesiux, Zutlieg and JimmyJackJones were in the manor."
+            },
+            {
+              "at": 5,
+              "text": "GM noted ritsu1409 was also present."
+            }
+          ],
+          "time_cues": [
+            "17:00"
+          ]
+        },
+        {
+          "first": 6,
+          "last": 38,
+          "area": "Otari",
+          "location": "entry hall",
+          "events": [
+            {
+              "at": 6,
+              "text": "The group found themselves in the entry hall of the manor."
+            },
+            {
+              "at": 10,
+              "text": "Selenor asked the mayor to keep identities confidential and offered to protect the town from Belcora."
+            },
+            {
+              "at": 26,
+              "text": "Selenor told a guard the augury predicted woe and weal."
+            },
+            {
+              "at": 29,
+              "text": "Zutlieg suggested leaving to let everyone calm down."
+            },
+            {
+              "at": 34,
+              "text": "Selenor cast scrying on the mayor."
+            },
+            {
+              "at": 38,
+              "text": "Selenor went into sleep mode and rested asleep."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-03": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Otari",
+          "location": "entry hall",
+          "events": [
+            {
+              "at": 1,
+              "text": "Selenor whispered to Wrin inside his head and asked for help."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-04": {
+      "messages": 12,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 9,
+          "area": "Otari",
+          "location": "entry hall",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM said the party was in the dank mouldy cavern outside the main temple chamber."
+            },
+            {
+              "at": 2,
+              "text": "Allisee reminded Selenor of their agreement to check the place out."
+            },
+            {
+              "at": 4,
+              "text": "Cardigan recognized Selenor."
+            },
+            {
+              "at": 7,
+              "text": "GM posted images labelled Pride, Greed and Lust."
+            },
+            {
+              "at": 8,
+              "text": "Selenor grabbed the shards."
+            },
+            {
+              "at": 9,
+              "text": "Selenor said the party should go into the next room."
+            }
+          ],
+          "time_cues": [
+            "4710 AR Erastus 28th"
+          ]
+        },
+        {
+          "first": 10,
+          "last": 10,
+          "area": "Sandpoint",
+          "location": "Sandpoint",
+          "events": [
+            {
+              "at": 10,
+              "text": "Selenor wrote a letter explaining the negative effects of the lust shard rune."
+            },
+            {
+              "at": 10,
+              "text": "Selenor went through the Harrow to Sandpoint and handed the letter to Tomahawks."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 11,
+          "last": 12,
+          "area": "Gauntlight",
+          "location": "next room",
+          "events": [
+            {
+              "at": 11,
+              "text": "Selenor returned to the dungeon and ventured into the next room with the party."
+            },
+            {
+              "at": 12,
+              "text": "Selenor knocked on the door."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-07": {
+      "messages": 31,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 31,
+          "area": "Black rock island",
+          "location": "Black rock island",
+          "events": [
+            {
+              "at": 1,
+              "text": "Party had defeated 3 magic spiders and found a key and ritual scroll in a fiendish corpse."
+            },
+            {
+              "at": 4,
+              "text": "Selenor and Allisee tried to understand and decipher the ritual scroll."
+            },
+            {
+              "at": 23,
+              "text": "Allisee read the ritual scroll and awakened a draconic presence with a beam of light."
+            },
+            {
+              "at": 25,
+              "text": "A seven-winged woman seized Allisee in a mental vision and lifted her into the air."
+            },
+            {
+              "at": 29,
+              "text": "Tuds offered a holy ring in return for placing something within Allisee."
+            },
+            {
+              "at": 30,
+              "text": "Allisee conditionally accepted the deal and asked five questions."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-08": {
+      "messages": 8,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "Black rock island",
+          "location": "Black rock island",
+          "events": [
+            {
+              "at": 1,
+              "text": "The GM posted the episode title."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 8,
+          "area": "The Spirit Realm",
+          "location": "The Spirit Realm",
+          "events": [
+            {
+              "at": 2,
+              "text": "Session 218 began mid-adventure in The Spirit Realm for Junima rescue."
+            },
+            {
+              "at": 3,
+              "text": "Selenor warned that broken souls were never the same even when put back together."
+            },
+            {
+              "at": 4,
+              "text": "A portal opened before Allisee and a figure stepped forward to bestow a gift."
+            },
+            {
+              "at": 5,
+              "text": "The figure handed Allisee an elixir image link."
+            },
+            {
+              "at": 6,
+              "text": "The robotic figure wished improved probability of success."
+            },
+            {
+              "at": 7,
+              "text": "The figure left via the portal and the portal closed."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-10": {
+      "messages": 10,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 10,
+          "area": "The Spirit Realm",
+          "location": "The Spirit Realm",
+          "events": [
+            {
+              "at": 1,
+              "text": "Session 221 began for Junima rescue part 10."
+            },
+            {
+              "at": 2,
+              "text": "The servant of the 5th was unleashed and the binding spell was partially shattered."
+            },
+            {
+              "at": 3,
+              "text": "The party stood in the room with Zillith, Zutlieg and companions who had turned to DEATH to make a deal."
+            },
+            {
+              "at": 5,
+              "text": "Selenor asked if Keleri was their daughter and who tortured his grand creator."
+            },
+            {
+              "at": 7,
+              "text": "Selenor said her body was damaged when he got there and asked who did it."
+            },
+            {
+              "at": 9,
+              "text": "Selenor quoted his mother about asking or remaining silent forever."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 26th Arodus"
+          ]
+        }
+      ]
+    },
+    "2024-11": {
+      "messages": 12,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "The Spirit Realm",
+          "location": "The Spirit Realm",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM posted an empty message."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 2,
+          "last": 12,
+          "area": "Runewild",
+          "location": "pond of Holi",
+          "events": [
+            {
+              "at": 2,
+              "text": "Party was in the Runewild at the pond of Holi with the half tortoise-folk half rabbit-folk."
+            },
+            {
+              "at": 3,
+              "text": "Junima looked at the empty miscarriage orb."
+            },
+            {
+              "at": 5,
+              "text": "Selenor asked for a reply about the husk spying and the lich outsider."
+            },
+            {
+              "at": 6,
+              "text": "Selenor asked Danufair why he had been quiet."
+            },
+            {
+              "at": 7,
+              "text": "Junima walked to Andaisin in tears and said he had his features too."
+            },
+            {
+              "at": 8,
+              "text": "Selenor told someone to keep a good heart no matter what."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2024-12": {
+      "messages": 41,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 34,
+          "area": "Runewild",
+          "location": "pond of Holi",
+          "events": [
+            {
+              "at": 3,
+              "text": "Nazraz appeared on Zarzan Quilit's shoulder and thanked the group."
+            },
+            {
+              "at": 6,
+              "text": "Zarzan Quilit reacted with disbelief to Selenor holding three shards of sin."
+            },
+            {
+              "at": 9,
+              "text": "Zarzan Quilit turned to the ocean and began chanting arcane words."
+            },
+            {
+              "at": 20,
+              "text": "Tammerhawk arrived via teleportation with Brodert Quink."
+            },
+            {
+              "at": 24,
+              "text": "Tammerhawk whispered into a sea shell of sending."
+            },
+            {
+              "at": 31,
+              "text": "Tammerhawk turned to the Rune Wheel and began casting."
+            }
+          ],
+          "time_cues": [
+            "10 minutes later",
+            "28th Arodus",
+            "It is 9am",
+            "The day after the awakening of the Rune wheel"
+          ]
+        },
+        {
+          "first": 35,
+          "last": 38,
+          "area": "Sandpoint",
+          "location": "Sandpoint",
+          "events": [
+            {
+              "at": 35,
+              "text": "The party was at the Sandpoint homebase."
+            },
+            {
+              "at": 36,
+              "text": "Keleri stepped into the room and commented on glass on the floor."
+            },
+            {
+              "at": 38,
+              "text": "The group got the artefacts."
+            }
+          ],
+          "time_cues": [
+            "28th Arodus"
+          ]
+        },
+        {
+          "first": 39,
+          "last": 41,
+          "area": "House of the Kobra",
+          "location": "House of the Kobra",
+          "events": [
+            {
+              "at": 39,
+              "text": "The group returned to the House of the Kobra spa and hotel."
+            },
+            {
+              "at": 40,
+              "text": "The group slept for the night."
+            },
+            {
+              "at": 41,
+              "text": "The group rested, prepared daily, and ate breakfast."
+            }
+          ],
+          "time_cues": [
+            "29th Arodus",
+            "10:00",
+            "8 hours of rest + daily preparation",
+            "10:30"
+          ]
+        }
+      ]
+    },
+    "2025-01": {
+      "messages": 38,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 16,
+          "area": "House of the Kobra",
+          "location": "House of the Kobra",
+          "events": [
+            {
+              "at": 3,
+              "text": "Session 231 started covering Osiria ritual part 3."
+            },
+            {
+              "at": 4,
+              "text": "Cardigan showed the map to the group."
+            },
+            {
+              "at": 5,
+              "text": "Viole told the group not to draw blood or escalate the encounter with Madame Zelekhati to violence."
+            },
+            {
+              "at": 8,
+              "text": "Selenor received two side quests about puppets and Sphere of Light Candle Magic."
+            },
+            {
+              "at": 9,
+              "text": "The group was told to complete Torch's other quests."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 29th Arodus"
+          ]
+        },
+        {
+          "first": 17,
+          "last": 37,
+          "area": "Osirion",
+          "location": "beggar's subway",
+          "events": [
+            {
+              "at": 17,
+              "text": "The risen guard left and the party were in the beggar's subway."
+            },
+            {
+              "at": 19,
+              "text": "Cardigan suggested checking out landmarks while in Osirion."
+            },
+            {
+              "at": 22,
+              "text": "Carnon asked Selenor what else was left to accomplish."
+            },
+            {
+              "at": 27,
+              "text": "Allisee mentioned a gift that would make her more friendly."
+            },
+            {
+              "at": 28,
+              "text": "Carnon asked where to start looking for the assassin."
+            },
+            {
+              "at": 30,
+              "text": "Selenor suggested making a deal to get info from the gang boss."
+            }
+          ],
+          "time_cues": [
+            "15:10",
+            "4710 AR, 29th Arodus",
+            "16:00"
+          ]
+        },
+        {
+          "first": 38,
+          "last": 38,
+          "area": "Eto",
+          "location": "University of Eto",
+          "events": [
+            {
+              "at": 38,
+              "text": "Kaito worked as guest professor in University of Eto and crafted Nightmare rune."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-02": {
+      "messages": 13,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 7,
+          "area": "Eto",
+          "location": "University of Eto",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM started Eto part 6."
+            },
+            {
+              "at": 7,
+              "text": "Kaito sensed an assassin nearby, hid with the party, drank a potion and turned invisible to sneak around."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 29th Arodus"
+          ]
+        },
+        {
+          "first": 8,
+          "last": 13,
+          "area": "Eto",
+          "location": "Alchemy shop",
+          "events": [
+            {
+              "at": 8,
+              "text": "The party hid in the Alchemy shop expecting the assassin to come back."
+            },
+            {
+              "at": 11,
+              "text": "Kaito sneaked from room to room trying to find the assassin."
+            },
+            {
+              "at": 12,
+              "text": "Kaito searched all rooms, found no one, sneaked back and asked what to do next."
+            }
+          ],
+          "time_cues": [
+            "18:30",
+            "15-minutes pass: 18:45"
+          ]
+        }
+      ]
+    },
+    "2025-03": {
+      "messages": 126,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 8,
+          "area": "Eto",
+          "location": "Alchemy shop",
+          "events": [
+            {
+              "at": 1,
+              "text": "Agreed with the red mantis assassin not to kill her."
+            },
+            {
+              "at": 1,
+              "text": "Met Rino and talked to the 100 finger gang."
+            },
+            {
+              "at": 3,
+              "text": "Stood outside the alchemy shop while risen guards patrolled and learned the command word was VEIL."
+            },
+            {
+              "at": 4,
+              "text": "Cardigan asked ghoul Khamos to send the prayer book down to Viole and Allisee."
+            },
+            {
+              "at": 6,
+              "text": "The book was sent down."
+            },
+            {
+              "at": 7,
+              "text": "Received the book from a robed man who reentered the admin building while sand golems guarded the door."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 29th Arodus",
+            "19:30",
+            "20:00",
+            "21:00",
+            "22:00",
+            "23:00"
+          ]
+        },
+        {
+          "first": 9,
+          "last": 18,
+          "area": "Eto",
+          "location": "University of Eto",
+          "events": [
+            {
+              "at": 9,
+              "text": "Viole grabbed Allisee and headed to the meeting area."
+            },
+            {
+              "at": 10,
+              "text": "Viole read the shrunken prayer book with difficulty due to its small size."
+            },
+            {
+              "at": 11,
+              "text": "Learned the book was of the Osirion pantheon, primarily Khepri."
+            },
+            {
+              "at": 13,
+              "text": "Read the second book about the city of Wati."
+            },
+            {
+              "at": 14,
+              "text": "Learned Wati was a city of Pharasma."
+            },
+            {
+              "at": 15,
+              "text": "Learned Wati was connected to cults of Nethys studying the unbinding spell."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 19,
+          "last": 91,
+          "area": "Eto",
+          "location": "warehouse",
+          "events": [
+            {
+              "at": 19,
+              "text": "Went to a warehouse sided building at the far end of the university grounds."
+            },
+            {
+              "at": 24,
+              "text": "Entered the warehouse where workers carried rope, bags and books."
+            },
+            {
+              "at": 42,
+              "text": "Professor Ionacu Lozar walked in unexpectedly early."
+            },
+            {
+              "at": 67,
+              "text": "Viole rushed up and slipped into the professor, knocking him down."
+            },
+            {
+              "at": 82,
+              "text": "Saw a scarab tucked below Professor Ionacu Lozar's shirt."
+            },
+            {
+              "at": 90,
+              "text": "Left while no one was watching."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 92,
+          "last": 97,
+          "area": "Eto",
+          "location": "University of Eto",
+          "events": [
+            {
+              "at": 92,
+              "text": "Headed back to the administration building to wait for Carnon."
+            },
+            {
+              "at": 93,
+              "text": "Completed 3/4 objectives."
+            },
+            {
+              "at": 95,
+              "text": "Made checks for the 1st and 2nd costing 8gp and 1gp as crits."
+            },
+            {
+              "at": 96,
+              "text": "Learnt the spells."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 98,
+          "last": 100,
+          "area": "Eto",
+          "location": "secret room",
+          "events": [
+            {
+              "at": 98,
+              "text": "Kaito pored over relationships and intelligence in his secret room studying the brothel."
+            },
+            {
+              "at": 99,
+              "text": "Asked what information was still missing to know or steal the secret."
+            },
+            {
+              "at": 100,
+              "text": "Readied for his brothel shift, altered his appearance and made his way to the brothel."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 101,
+          "last": 103,
+          "area": "Eto",
+          "location": "University of Eto",
+          "events": [
+            {
+              "at": 101,
+              "text": "Recapped spending an hour in the warehouse, slipping the books, noticing the amulet and leaving the warehouse."
+            },
+            {
+              "at": 101,
+              "text": "Recapped Carnon tripping for 2 hours and getting a robotic hand of the mossy skull."
+            },
+            {
+              "at": 102,
+              "text": "Started the March 30th session with Anthony and Tony present."
+            },
+            {
+              "at": 103,
+              "text": "Asked what happened next."
+            }
+          ],
+          "time_cues": [
+            "11:00",
+            "11:55",
+            "4710 AR, 29th Arodus"
+          ]
+        },
+        {
+          "first": 104,
+          "last": 120,
+          "area": "Eto",
+          "location": "bath house",
+          "events": [
+            {
+              "at": 104,
+              "text": "Headed to the bath house to discuss the brothel."
+            },
+            {
+              "at": 107,
+              "text": "Learned intimate services pricing at The Dancing Dunes."
+            },
+            {
+              "at": 108,
+              "text": "Learned accommodations and companionship pricing."
+            },
+            {
+              "at": 110,
+              "text": "Shared the pricing with the whole party."
+            },
+            {
+              "at": 112,
+              "text": "Cardigan looked excited at the explanation."
+            },
+            {
+              "at": 114,
+              "text": "Showed an Ibis holy symbol and learned it was Thoth from Cardigan."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 121,
+          "last": 126,
+          "area": "Eto",
+          "location": "The Dancing Dunes",
+          "events": [
+            {
+              "at": 121,
+              "text": "Confirmed the brothel was called dancing dune."
+            },
+            {
+              "at": 122,
+              "text": "Arrived there for the security shift."
+            },
+            {
+              "at": 126,
+              "text": "Conducted reconnaissance of the brothel layout, noting rooms, contents and corridors and verifying the floorplan."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-04": {
+      "messages": 44,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "Eto",
+          "location": "The Dancing Dunes",
+          "events": [
+            {
+              "at": 1,
+              "text": "Session 240 started."
+            },
+            {
+              "at": 5,
+              "text": "GM explained each star point represented different beginnings and life sections."
+            },
+            {
+              "at": 6,
+              "text": "Selenor described birth, childhood, apprenticeship, marriage and new ventures."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 8,
+          "area": "House of the White Snake",
+          "location": "House of the White Snake",
+          "events": [
+            {
+              "at": 7,
+              "text": "Selenor and the party returned from the temple of Alseta."
+            },
+            {
+              "at": 8,
+              "text": "The party talked to Torch in the house of the white snake."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 22,
+          "area": "House of the White Snake",
+          "location": "Selenor's room",
+          "events": [
+            {
+              "at": 9,
+              "text": "The party talked in Selenor's room."
+            },
+            {
+              "at": 10,
+              "text": "Selenor asked Torch about destroying the 100-finger gang and accepted Torch's job in Ustalav."
+            },
+            {
+              "at": 11,
+              "text": "Torch said the third riddle could get an audience."
+            },
+            {
+              "at": 19,
+              "text": "The party went to talk to Torch."
+            },
+            {
+              "at": 21,
+              "text": "Torch said gifting Madame Zelekhati a Sanditt could get an audience."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 30th Arodus",
+            "13:00",
+            "13:30",
+            "14:00"
+          ]
+        },
+        {
+          "first": 23,
+          "last": 31,
+          "area": "Pillars of the Sun",
+          "location": "Pillars of the Sun",
+          "events": [
+            {
+              "at": 23,
+              "text": "The party went to the Pillars of the Sun to help professor Lozar find the 3rd riddle."
+            },
+            {
+              "at": 23,
+              "text": "Selenor found the hidden pattern, the party opened the door and beat the mummy lord."
+            },
+            {
+              "at": 30,
+              "text": "The party looted the corpse."
+            },
+            {
+              "at": 31,
+              "text": "The party gave the +2 staff to Selenor."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 30th Arodus",
+            "15:30",
+            "18:00"
+          ]
+        },
+        {
+          "first": 32,
+          "last": 41,
+          "area": "crater",
+          "location": "crater",
+          "events": [
+            {
+              "at": 32,
+              "text": "The party waited in the crater with a giant sand vortex, slept and did daily prep."
+            },
+            {
+              "at": 33,
+              "text": "Cardigan, Carnon, Selenor, Allisee, Viole and Haku fought a Bleeding Blades Trap."
+            },
+            {
+              "at": 37,
+              "text": "Cardigan recorded 2 raw scars."
+            },
+            {
+              "at": 38,
+              "text": "Allisee recorded 1 raw scar."
+            },
+            {
+              "at": 39,
+              "text": "Carnon recorded 1 raw scar."
+            },
+            {
+              "at": 41,
+              "text": "Carnon said it had not been removed yet."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, 30th Arodus",
+            "21:00",
+            "21:00 -> 05:00",
+            "06:00",
+            "Arodus 31st",
+            "Wealday"
+          ]
+        },
+        {
+          "first": 42,
+          "last": 44,
+          "area": "ravenous black sphinx",
+          "location": "ravenous black sphinx",
+          "events": [
+            {
+              "at": 42,
+              "text": "The group waited within the ravenous black sphinx."
+            },
+            {
+              "at": 43,
+              "text": "Professor Lozar commented on the sphinx guard and the party's fresh wounds."
+            },
+            {
+              "at": 44,
+              "text": "Professor Lozar said he would publish a scholarly article about Savan."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-05": {
+      "messages": 48,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 21,
+          "area": "ravenous black sphinx",
+          "location": "ravenous black sphinx",
+          "events": [
+            {
+              "at": 6,
+              "text": "Cardigan, Carnon, Selenor, Allisee, Viole, Haku Stormfan and Perphenius Galen defeated a bottomless pit."
+            },
+            {
+              "at": 7,
+              "text": "Cardigan asked Viole if she liked playing cards."
+            },
+            {
+              "at": 8,
+              "text": "Viole pulled out a deck and sat down with Cardigan."
+            },
+            {
+              "at": 14,
+              "text": "Cardigan, Carnon, Selenor, Allisee, Viole, Haku Stormfan and Perphenius Galen defeated the test of the necromancer undead."
+            },
+            {
+              "at": 21,
+              "text": "Perphenius Galen joined the party and wounds were treated."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Wealday 31st Arodus",
+            "06:10",
+            "06:30"
+          ]
+        },
+        {
+          "first": 22,
+          "last": 45,
+          "area": "ravenous black sphinx",
+          "location": "chamber of Mektep-Han",
+          "events": [
+            {
+              "at": 22,
+              "text": "The party returned to the chamber of Mektep-Han."
+            },
+            {
+              "at": 23,
+              "text": "Mektep-Han congratulated the party on completing 1 of the 3 challenges."
+            },
+            {
+              "at": 24,
+              "text": "Mektep-Han said 2 more challenges remained to complete."
+            },
+            {
+              "at": 25,
+              "text": "The first door glowed with purple light and then disappeared."
+            },
+            {
+              "at": 30,
+              "text": "Allisee suggested going to the second door."
+            },
+            {
+              "at": 32,
+              "text": "Selenor used the ancient skull to translate in ancient Osirion."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 46,
+          "last": 48,
+          "area": "ravenous black sphinx",
+          "location": "Living library",
+          "events": [
+            {
+              "at": 46,
+              "text": "The party entered the Living library and gained bonuses to disbelieve scorpions."
+            },
+            {
+              "at": 47,
+              "text": "The Living library encounter continued with Viole poisoned and Allisee noticing rare scrolls in the scholar's desk."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Wealday 31st Arodus"
+          ]
+        }
+      ]
+    },
+    "2025-06": {
+      "messages": 67,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 23,
+          "area": "ravenous black sphinx",
+          "location": "Living library",
+          "events": [
+            {
+              "at": 1,
+              "text": "Round 4 continued with Zelvuul casting runic weapon and Haku activating the silver hourglass and grabbing a book."
+            },
+            {
+              "at": 2,
+              "text": "Selenor's suspended retribution triggered when the nearest scorpion strode."
+            },
+            {
+              "at": 12,
+              "text": "The party received loot for test #2."
+            },
+            {
+              "at": 13,
+              "text": "The GM recorded Nethys test #2 experience for the present characters."
+            },
+            {
+              "at": 19,
+              "text": "Carnon asked about a door to the next challenge and what its guardian said."
+            },
+            {
+              "at": 20,
+              "text": "Carnon asked for the lore drop from the secret research."
+            }
+          ],
+          "time_cues": [
+            "Wealday 31st Arodus"
+          ]
+        },
+        {
+          "first": 24,
+          "last": 59,
+          "area": "ravenous black sphinx",
+          "location": "ravenous black sphinx",
+          "events": [
+            {
+              "at": 24,
+              "text": "The group descended."
+            },
+            {
+              "at": 26,
+              "text": "Carnon described the guardian of the third challenge holding a key and a spellbook and noted the sundisk and moondial said 9 am."
+            },
+            {
+              "at": 33,
+              "text": "Selenor received one-third of the final spell and a sanditt."
+            },
+            {
+              "at": 37,
+              "text": "The party learned the final spell referenced the Crumbling Tower and the Lost Prince."
+            },
+            {
+              "at": 42,
+              "text": "Professor Ionacu Lozar warned the party to keep the butterfly secret and not to lose it."
+            },
+            {
+              "at": 47,
+              "text": "Carnon started going for the exit to make way to the academy."
+            }
+          ],
+          "time_cues": [
+            "9 am",
+            "Wealday 31st Arodus",
+            "08:30",
+            "almost 10:00"
+          ]
+        },
+        {
+          "first": 60,
+          "last": 67,
+          "area": "ravenous black sphinx",
+          "location": "desert outside the black sphinx",
+          "events": [
+            {
+              "at": 60,
+              "text": "The party stood in the desert outside the black sphinx while the professor explained Zelvuul turned to ash."
+            },
+            {
+              "at": 61,
+              "text": "The professor passed Selenor a copy of the personnel file and noted a possible cypher mage background."
+            },
+            {
+              "at": 62,
+              "text": "The professor recommended destroying the lenses to weaken the Osirion faction."
+            },
+            {
+              "at": 64,
+              "text": "Selenor asked Allissee for permission to destroy the lenses."
+            },
+            {
+              "at": 67,
+              "text": "Professor Ionacu Lozar revealed he was a water genie who did not age and would be reborn upon death."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-07": {
+      "messages": 64,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 7,
+          "area": "ravenous black sphinx",
+          "location": "desert outside the black sphinx",
+          "events": [
+            {
+              "at": 1,
+              "text": "Professor Ionacu Lozar answered Selenor about mortals becoming genies."
+            },
+            {
+              "at": 2,
+              "text": "Selenor used chronoler lore to recall the genie king name and the rovagug spawn."
+            },
+            {
+              "at": 5,
+              "text": "The GM named Nefreti Clepati."
+            },
+            {
+              "at": 6,
+              "text": "The GM posted a Selenor versus Sanditt image."
+            },
+            {
+              "at": 7,
+              "text": "The GM posted the Eto part 18 session log."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 8,
+          "last": 18,
+          "area": "Eto",
+          "location": "Eto",
+          "events": [
+            {
+              "at": 8,
+              "text": "Professor Ionacu Lozar gave Carnon a university badge and teleported the party back to Eto."
+            },
+            {
+              "at": 8,
+              "text": "Neferet Anu-Sekh taught the party spells for free."
+            },
+            {
+              "at": 9,
+              "text": "The GM asked what the party does next."
+            },
+            {
+              "at": 17,
+              "text": "The GM posted an image."
+            }
+          ],
+          "time_cues": [
+            "10:00",
+            "11:30"
+          ]
+        },
+        {
+          "first": 19,
+          "last": 21,
+          "area": "Eto",
+          "location": "The Dancing Dunes",
+          "events": [
+            {
+              "at": 19,
+              "text": "Carnon waited outside the Dancing Dunes while Allisee and Haku were in the pool garden and Selenor and Viole were in the waiting area."
+            },
+            {
+              "at": 19,
+              "text": "Carnon sold his soul to The Pale and became a Pale Soul."
+            },
+            {
+              "at": 20,
+              "text": "The GM named Lord Kasmarck."
+            },
+            {
+              "at": 21,
+              "text": "Haku said Lord Kasmarck holds slaves for entertainment in Magnimar."
+            }
+          ],
+          "time_cues": [
+            "12:00",
+            "12:30"
+          ]
+        },
+        {
+          "first": 22,
+          "last": 64,
+          "area": "Magnimar",
+          "location": "Magnimar",
+          "events": [
+            {
+              "at": 22,
+              "text": "The party left Eto and Amenopheus took them back to Magnimar."
+            },
+            {
+              "at": 26,
+              "text": "Haku flew to the Concordance of Elements building to join the faction."
+            },
+            {
+              "at": 28,
+              "text": "The nobles drank the memory tea and gathered around."
+            },
+            {
+              "at": 37,
+              "text": "The party fought an undead commander, zombie hordes and a giant zombie."
+            },
+            {
+              "at": 42,
+              "text": "Flesh golem and carrion golem slaves broke free and went berserk."
+            },
+            {
+              "at": 63,
+              "text": "Haku bought Rino and Torven Blackwater evaluated Allisee's carpet before the consecration phases."
+            }
+          ],
+          "time_cues": [
+            "16:00",
+            "17:00",
+            "23:00",
+            "23:30",
+            "19:30",
+            "Day 3 of the Tea Master Questline.",
+            "Rova 3rd",
+            "Rova 4th",
+            "1am",
+            "20:10 -> 20:30"
+          ]
+        }
+      ]
+    },
+    "2025-08": {
+      "messages": 253,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 11,
+          "area": "Magnimar",
+          "location": "Magnimar",
+          "events": [
+            {
+              "at": 4,
+              "text": "GM announced the Law Golem of Chaos fight."
+            },
+            {
+              "at": 5,
+              "text": "Allisee stated the golem was harmed by lawful and sonic magic."
+            },
+            {
+              "at": 6,
+              "text": "Allisee called the foe a chaos golem, not a law golem."
+            },
+            {
+              "at": 8,
+              "text": "Selenor joked about a date with Koromun."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 12,
+          "last": 180,
+          "area": "Magnimar",
+          "location": "Irespan",
+          "events": [
+            {
+              "at": 12,
+              "text": "Combat started against the Chaos-Infected Law Golem in the Irespan."
+            },
+            {
+              "at": 19,
+              "text": "Carnon devised a stratagem, marked the centre and struck the golem."
+            },
+            {
+              "at": 36,
+              "text": "Selenor strode to flank, critically hit and raised shield."
+            },
+            {
+              "at": 44,
+              "text": "The golem invoked chaos twice and altered Carnon with reach and clumsy 2."
+            },
+            {
+              "at": 67,
+              "text": "The golem stepped forward and hit and critically hit Carnon."
+            },
+            {
+              "at": 172,
+              "text": "Haku asked Vaasha what brought him there and spoke with him and Cardigan."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 4th",
+            "4710 AR, Rova 5th, Moonday"
+          ]
+        },
+        {
+          "first": 181,
+          "last": 203,
+          "area": "Magnimar",
+          "location": "Dream Parlour",
+          "events": [
+            {
+              "at": 181,
+              "text": "The party continued the golem fight and the Collector told Allisee about Kira Sellsword."
+            },
+            {
+              "at": 183,
+              "text": "The party started Phase 1 Entering The Dream."
+            },
+            {
+              "at": 187,
+              "text": "Cardigan cast guidance and critically succeeded forming a mental barrier."
+            },
+            {
+              "at": 192,
+              "text": "Haku critically succeeded at distinguishing shared and individual experiences."
+            },
+            {
+              "at": 198,
+              "text": "Allisee brewed tea and the party handed it out, stabilising the mindscapes."
+            },
+            {
+              "at": 203,
+              "text": "The party learned many people were having nightmares of vermin."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 5th, Moonday",
+            "1 hour"
+          ]
+        },
+        {
+          "first": 204,
+          "last": 210,
+          "area": "The Dream Market",
+          "location": "The Dream Market",
+          "events": [
+            {
+              "at": 204,
+              "text": "The party started Phase 2 to create Dream-tea from dream essence."
+            },
+            {
+              "at": 206,
+              "text": "Haku posted checks toward the Dream Market tasks."
+            },
+            {
+              "at": 207,
+              "text": "Carnon posted checks toward the Dream Market tasks."
+            }
+          ],
+          "time_cues": [
+            "3 hours of dream-time"
+          ]
+        },
+        {
+          "first": 211,
+          "last": 253,
+          "area": "The Nightmare Market",
+          "location": "The Nightmare Market",
+          "events": [
+            {
+              "at": 211,
+              "text": "The party started Phase 3 in the Nightmare Market on Zarta Dralneen's recommendation."
+            },
+            {
+              "at": 223,
+              "text": "The party critically succeeded the will save to form a mental barrier."
+            },
+            {
+              "at": 245,
+              "text": "GM summarized Phase 3 nightmare brewing progress."
+            },
+            {
+              "at": 246,
+              "text": "GM asked Allisee to describe a night of stargazing with his sister."
+            },
+            {
+              "at": 247,
+              "text": "Everyone experienced a shared telepathic experience."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 6th, Toilday"
+          ]
+        }
+      ]
+    },
+    "2025-09": {
+      "messages": 48,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "The Nightmare Market",
+          "location": "The Nightmare Market",
+          "events": [
+            {
+              "at": 1,
+              "text": "Allisee's stargazing story was recounted."
+            }
+          ],
+          "time_cues": [
+            "2025 August 31st Sunday + 4710 AR, Rova 6th, Toilday: A work day."
+          ]
+        },
+        {
+          "first": 2,
+          "last": 48,
+          "area": "The Nightmare Market",
+          "location": "Lighthouse Pit",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party went to the Lighthouse Pit."
+            },
+            {
+              "at": 5,
+              "text": "The party gathered in the loud crowded Lighthouse Pit."
+            },
+            {
+              "at": 14,
+              "text": "The championship matches phase began with the Crimson Dancer."
+            },
+            {
+              "at": 26,
+              "text": "Allisee succeeded at dispelling the magic bow."
+            },
+            {
+              "at": 37,
+              "text": "Phase 4 was completed."
+            },
+            {
+              "at": 38,
+              "text": "Kira Sell-Sword The Crimson Dancer regained control of her blood magic."
+            }
+          ],
+          "time_cues": [
+            "2025 September 6th Saturday + 4710 AR, Rova 7th, Wealday: A work day.",
+            "10:00.",
+            "14:00 -> 18:00.",
+            "19:00 -> 23:00."
+          ]
+        }
+      ]
+    },
+    "2025-10": {
+      "messages": 74,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 15,
+          "area": "The Nightmare Market",
+          "location": "Lighthouse Pit",
+          "events": [
+            {
+              "at": 1,
+              "text": "Session header recorded the date and players present."
+            },
+            {
+              "at": 3,
+              "text": "Recap stated Amar had been blasted to ash."
+            },
+            {
+              "at": 4,
+              "text": "Recap stated 1,000 people had collapsed."
+            },
+            {
+              "at": 6,
+              "text": "The party passed out."
+            },
+            {
+              "at": 13,
+              "text": "Moss won initiative with 41."
+            }
+          ],
+          "time_cues": [
+            "- The next day -"
+          ]
+        },
+        {
+          "first": 16,
+          "last": 62,
+          "area": "Always One Step Ahead",
+          "location": "Shop",
+          "events": [
+            {
+              "at": 16,
+              "text": "Combat encounter against Alla The Boring Rat began in Always One Step Ahead."
+            },
+            {
+              "at": 24,
+              "text": "Svir shot a bone devil with spellstrike and loaded a storm bullet."
+            },
+            {
+              "at": 33,
+              "text": "Cardigan recalled knowledge and learned bone devils were weak to holy."
+            },
+            {
+              "at": 38,
+              "text": "Cardigan cast disintegrate and dealt 75 damage to a bone devil."
+            },
+            {
+              "at": 45,
+              "text": "Mortigus started suffocating from throat slash."
+            },
+            {
+              "at": 60,
+              "text": "Alla escaped with translocate and the party stole harrow decks and harrowing materials."
+            }
+          ],
+          "time_cues": [
+            "10:00."
+          ]
+        },
+        {
+          "first": 63,
+          "last": 74,
+          "area": "Always One Step Ahead",
+          "location": "Office / sleeping quarters",
+          "events": [
+            {
+              "at": 63,
+              "text": "The party reached Room 3 and Locke's employees boarded up the hole in the wall."
+            },
+            {
+              "at": 66,
+              "text": "Haku found the card."
+            },
+            {
+              "at": 70,
+              "text": "The find was confirmed as from the destiny deck."
+            },
+            {
+              "at": 72,
+              "text": "Haku found a hollowed-out anti-magic book containing THE VISION and 4 scrolls after searching the office."
+            },
+            {
+              "at": 74,
+              "text": "The scrolls were put in the Party Loot."
+            }
+          ],
+          "time_cues": [
+            "10:30."
+          ]
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 14,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 12,
+          "area": "Always One Step Ahead",
+          "location": "Office / sleeping quarters",
+          "events": [
+            {
+              "at": 1,
+              "text": "Remained at Always 1 Step ahead at 11:00 with part of Jacky's soul captured in a soul gem."
+            },
+            {
+              "at": 1,
+              "text": "Selenor cast talking corpse and asked what they were looking for and what harrow knowledge was sought."
+            },
+            {
+              "at": 3,
+              "text": "Exchanged out-of-character remarks about a tea off."
+            },
+            {
+              "at": 12,
+              "text": "Carnon shifted stance to Gaze Sharp as Steel at the start of combat."
+            }
+          ],
+          "time_cues": [
+            "11:00",
+            "11:00 -> +10 min - 11:10"
+          ]
+        },
+        {
+          "first": 13,
+          "last": 14,
+          "area": "Horse Forge",
+          "location": "Horse Forge",
+          "events": [
+            {
+              "at": 13,
+              "text": "Combat in the Horse Forge started with Selenor winning initiative with 44."
+            },
+            {
+              "at": 14,
+              "text": "Combat in the Horse Forge was restated with the party listed as unacted."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 34,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 28,
+          "area": "Horse Forge",
+          "location": "Horse Forge",
+          "events": [
+            {
+              "at": 1,
+              "text": "Selenor beheaded The Butcher and absorbed the she-devil's soul and bagged her corpse."
+            },
+            {
+              "at": 2,
+              "text": "Cardigan said she felt stronger."
+            },
+            {
+              "at": 5,
+              "text": "Alissee took the Butcher's weapon."
+            },
+            {
+              "at": 6,
+              "text": "Carnon took the monster parts."
+            },
+            {
+              "at": 23,
+              "text": "The party got the carnival card."
+            },
+            {
+              "at": 27,
+              "text": "Selenor sensed Amar Rookmoon through the Harrow card."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 29,
+          "last": 29,
+          "area": "The Harrow",
+          "location": "Smith's Volcano",
+          "events": [
+            {
+              "at": 29,
+              "text": "Selenor told Sonnorae that Amar was not fully dead."
+            },
+            {
+              "at": 29,
+              "text": "Selenor had Aarlak's magic watch."
+            },
+            {
+              "at": 29,
+              "text": "The party travelled to Smith's Volcano to find the Ticktock Man."
+            },
+            {
+              "at": 29,
+              "text": "Selenor talked to Voricose the Harrow Cyclops bartender."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 10th (Star-day)",
+            "18:00",
+            "18:10"
+          ]
+        },
+        {
+          "first": 30,
+          "last": 31,
+          "area": "Magnimar",
+          "location": "cathedral of Abadar",
+          "events": [
+            {
+              "at": 30,
+              "text": "The buying and selling concluded."
+            },
+            {
+              "at": 31,
+              "text": "The party left the cathedral."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 32,
+          "last": 34,
+          "area": "Magnimar",
+          "location": "Naos district",
+          "events": [
+            {
+              "at": 32,
+              "text": "The party were in the Naos district of Magnimar."
+            },
+            {
+              "at": 34,
+              "text": "Tywin waited to talk to Selenor in the cathedral of Abadar."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 151,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 7,
+          "area": "Magnimar",
+          "location": "Naos district",
+          "events": [
+            {
+              "at": 1,
+              "text": "Recap noted the party was in the cathedral of Abadar with new characters introduced."
+            },
+            {
+              "at": 3,
+              "text": "Cardigan ate some fruit."
+            },
+            {
+              "at": 4,
+              "text": "Cardigan mentioned a new dragon friend to Allisee."
+            },
+            {
+              "at": 6,
+              "text": "Cardigan flicked porridge at Allisee and Selenor and asked Carnon why everyone was quiet."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 10th (Star-day)",
+            "21:30",
+            "this morning"
+          ]
+        },
+        {
+          "first": 8,
+          "last": 11,
+          "area": "Sandpoint",
+          "location": "Sandpoint",
+          "events": [
+            {
+              "at": 8,
+              "text": "The party did daily preparations and breakfast at Sandpoint homebase and left recruits with Vaasha."
+            },
+            {
+              "at": 9,
+              "text": "Selenor asked to see the High Mourner."
+            },
+            {
+              "at": 10,
+              "text": "The party was asked if they would go to the temple of Pharasma."
+            },
+            {
+              "at": 11,
+              "text": "Selenor agreed to go."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 11th (Sun-day)",
+            "07:00"
+          ]
+        },
+        {
+          "first": 12,
+          "last": 41,
+          "area": "Magnimar",
+          "location": "Church of Pharasma",
+          "events": [
+            {
+              "at": 12,
+              "text": "The party arrived at the Church of Pharasma."
+            },
+            {
+              "at": 21,
+              "text": "The party saw the thirty-foot statue of the Lady of Graves before the entrance."
+            },
+            {
+              "at": 37,
+              "text": "The Plague Doctor told Selenor he was four minutes early."
+            },
+            {
+              "at": 40,
+              "text": "The Plague Doctor said the High Mourner awaited in the Garden of Endings and told the party to follow."
+            },
+            {
+              "at": 41,
+              "text": "The doors swung open as the Plague Doctor turned."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 42,
+          "last": 58,
+          "area": "Magnimar",
+          "location": "Inside the Church",
+          "events": [
+            {
+              "at": 42,
+              "text": "The party entered inside the church."
+            },
+            {
+              "at": 45,
+              "text": "The party saw the altar dominated by a ten-foot silver spiral."
+            },
+            {
+              "at": 53,
+              "text": "The occupants stopped and stared at the group."
+            },
+            {
+              "at": 58,
+              "text": "The party went through the door and consecrated passage toward the Garden."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 59,
+          "last": 82,
+          "area": "Magnimar",
+          "location": "Garden of Endings",
+          "events": [
+            {
+              "at": 59,
+              "text": "The party entered the Garden of Endings."
+            },
+            {
+              "at": 64,
+              "text": "The party found the High Mourner lying on a stone table in a soul plague coma."
+            },
+            {
+              "at": 67,
+              "text": "Kethran Mournhollow said the High Mourner's soul was contested and the plague was a tether."
+            },
+            {
+              "at": 68,
+              "text": "Kethran said the professor friend was dead and the party must complete what was left undone."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 83,
+          "last": 83,
+          "area": "Sandpoint",
+          "location": "Sandpoint",
+          "events": [
+            {
+              "at": 83,
+              "text": "Taru'kara arrived in Sandpoint by teleportation circle from Magnimar."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 84,
+          "last": 141,
+          "area": "Magnimar",
+          "location": "Garden of Endings",
+          "events": [
+            {
+              "at": 92,
+              "text": "Kethran said Professor Ionacu Lozar was dead and the funeral would be held in Ravengro and the party was named in the will."
+            },
+            {
+              "at": 101,
+              "text": "Kethran asked the party to release the trapped spirits to the Boneyard to weaken the tether."
+            },
+            {
+              "at": 105,
+              "text": "Kethran said the Lady would contest the tether and wake the High Mourner if the task was completed."
+            },
+            {
+              "at": 119,
+              "text": "Selenor said he would go to Ustalav and asked about ghouls under the city."
+            },
+            {
+              "at": 122,
+              "text": "Keleri passed a map to the group."
+            },
+            {
+              "at": 130,
+              "text": "Selenor crafted a holy item of Sarenrae using Leda's blood."
+            }
+          ],
+          "time_cues": [
+            "31st of Arodus",
+            "Eleven days ago"
+          ]
+        },
+        {
+          "first": 142,
+          "last": 151,
+          "area": "Professor Klyrthosh Umi Brelun's house",
+          "location": "Professor Klyrthosh Umi Brelun's house",
+          "events": [
+            {
+              "at": 142,
+              "text": "The party gathered at Professor Klyrthosh Umi Brelun's house with Cardigan and Umi present."
+            },
+            {
+              "at": 143,
+              "text": "Cardigan asked Selenor if he was okay."
+            },
+            {
+              "at": 145,
+              "text": "Carnon made an out-of-character remark about Selenor traumatizing a child with illusion magic."
+            },
+            {
+              "at": 151,
+              "text": "It was noted that Keleri was nearly 50 years old."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 11th (Sun-day)"
+          ]
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 50,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 4,
+          "area": "Professor Klyrthosh Umi Brelun's house",
+          "location": "Professor Klyrthosh Umi Brelun's house",
+          "events": [
+            {
+              "at": 2,
+              "text": "GM stated the in-game location and date."
+            },
+            {
+              "at": 3,
+              "text": "GM said the party were going to the temple of Pharasma."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 11th (Sun-day)",
+            "Raven Grow Day 1/30"
+          ]
+        },
+        {
+          "first": 5,
+          "last": 50,
+          "area": "temple of Pharasma",
+          "location": "outside the temple of Pharasma",
+          "events": [
+            {
+              "at": 5,
+              "text": "The party arrived."
+            },
+            {
+              "at": 11,
+              "text": "The party stood outside the temple of Pharasma."
+            },
+            {
+              "at": 14,
+              "text": "A female acolyte greeted the party."
+            },
+            {
+              "at": 20,
+              "text": "Carnon asked about creating a magically enchanted statue."
+            },
+            {
+              "at": 39,
+              "text": "The acolyte offered to take the party to Father Vauran."
+            },
+            {
+              "at": 46,
+              "text": "Sister Eladria introduced herself as record keeper of the temple."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 46,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 46,
+          "area": "temple of Pharasma",
+          "location": "outside the temple of Pharasma",
+          "events": [
+            {
+              "at": 2,
+              "text": "Eladria described the temple records of births, deaths and burials."
+            },
+            {
+              "at": 9,
+              "text": "Father Vauran approached and greeted the party."
+            },
+            {
+              "at": 18,
+              "text": "Viki said the party wished to build a statue of the fallen Professor."
+            },
+            {
+              "at": 27,
+              "text": "Father Vauran demanded a non-sentimental reason for blessing the statue."
+            },
+            {
+              "at": 40,
+              "text": "Father Vauran ordered Selenor to close the third eye and explain what he was."
+            },
+            {
+              "at": 46,
+              "text": "Father Vauran noticed a woman listening and said the talk could not continue there."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 19,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 8,
+          "area": "temple of Pharasma",
+          "location": "outside the temple of Pharasma",
+          "events": [
+            {
+              "at": 5,
+              "text": "GM recapped the Fake Crypt session with Father Vauran, ghost hunting supplies, and return to Umi for fish stew."
+            },
+            {
+              "at": 6,
+              "text": "GM asked what happened next."
+            },
+            {
+              "at": 7,
+              "text": "GM pinged three players."
+            },
+            {
+              "at": 8,
+              "text": "Player asked for scene description and whether it was the same day."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 11th (Sun-day)",
+            "Raven Grow Day 1/30",
+            "21:00",
+            "21:15"
+          ]
+        },
+        {
+          "first": 9,
+          "last": 19,
+          "area": "temple of Pharasma",
+          "location": "main room",
+          "events": [
+            {
+              "at": 9,
+              "text": "GM stated the party was in the temple of Pharasma's main room with a desk."
+            },
+            {
+              "at": 13,
+              "text": "Vauran said the consecration held at the surface and the pressure predated the blessing."
+            },
+            {
+              "at": 14,
+              "text": "Vauran asked where the eyeball came from."
+            },
+            {
+              "at": 16,
+              "text": "Vauran told the group to bring materials and go at dusk."
+            },
+            {
+              "at": 17,
+              "text": "Vauran said the work would take more than one evening and to come back at six before supper."
+            },
+            {
+              "at": 19,
+              "text": "Selenor confronted the priest about dying and aiding the town before leaving the room."
+            }
+          ],
+          "time_cues": [
+            "at dusk",
+            "at six",
+            "Before supper"
+          ]
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 450,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "temple of Pharasma",
+          "location": "main room",
+          "events": [
+            {
+              "at": 2,
+              "text": "Father Vauran told the party to have supper then work."
+            },
+            {
+              "at": 3,
+              "text": "GM posted session notes about downtime and Raven Grow."
+            },
+            {
+              "at": 4,
+              "text": "GM asked the party what they said to Anikia Dom."
+            },
+            {
+              "at": 6,
+              "text": "GM asked if the party stepped into the room."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 12th (Moonday)",
+            "Raven Grow Day 2/30",
+            "2.5 hours until 9am"
+          ]
+        },
+        {
+          "first": 7,
+          "last": 7,
+          "area": "4-storey townhouse",
+          "location": "hallway",
+          "events": [
+            {
+              "at": 7,
+              "text": "GM stated the party was in the hallway of the townhouse."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 8,
+          "last": 69,
+          "area": "4-storey townhouse",
+          "location": "long rectangular room",
+          "events": [
+            {
+              "at": 8,
+              "text": "Selenor stepped into the room and greeted Anikia."
+            },
+            {
+              "at": 9,
+              "text": "GM described a long rectangular room with fireplace and table."
+            },
+            {
+              "at": 25,
+              "text": "Selenor asked about the kidnapped mummy bounty."
+            },
+            {
+              "at": 27,
+              "text": "Landon walked in mid-gesture."
+            },
+            {
+              "at": 46,
+              "text": "Anikia explained bog mummies and the missing oldest mummy."
+            },
+            {
+              "at": 67,
+              "text": "Anikia told the party to follow her down the hallway."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 70,
+          "last": 192,
+          "area": "4-storey townhouse",
+          "location": "mage's sanctum",
+          "events": [
+            {
+              "at": 70,
+              "text": "The party went down stairs to a basement."
+            },
+            {
+              "at": 73,
+              "text": "A door opened to a circular room with runic walls."
+            },
+            {
+              "at": 77,
+              "text": "The party stepped into the sealed sanctum room."
+            },
+            {
+              "at": 91,
+              "text": "Anikia said she reported to Ademe."
+            },
+            {
+              "at": 108,
+              "text": "Anikia said Paradise agents had the mummy."
+            },
+            {
+              "at": 177,
+              "text": "Anikia tasked head engineer Landon with the expedition."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 193,
+          "last": 201,
+          "area": "Anac-Toria",
+          "location": "edge of town",
+          "events": [
+            {
+              "at": 194,
+              "text": "Landon led the group out of the mansion past the workshop."
+            },
+            {
+              "at": 198,
+              "text": "The group reached the edge of town."
+            },
+            {
+              "at": 199,
+              "text": "GM said the bog lay beyond."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 202,
+          "last": 244,
+          "area": "bog",
+          "location": "bog",
+          "events": [
+            {
+              "at": 203,
+              "text": "The group stepped off the paths onto the wet bog earth."
+            },
+            {
+              "at": 206,
+              "text": "GM said the bog counted as difficult terrain."
+            },
+            {
+              "at": 209,
+              "text": "GM said the party found the camp after 2 hours."
+            },
+            {
+              "at": 225,
+              "text": "Selenor said he was going in to the farmhouse."
+            },
+            {
+              "at": 244,
+              "text": "The party walked down the road approaching the farmhouse."
+            }
+          ],
+          "time_cues": [
+            "4710 AR, Rova 12th (Moonday)",
+            "Raven Grow Day 2/30",
+            "13:00pm"
+          ]
+        },
+        {
+          "first": 245,
+          "last": 264,
+          "area": "farmhouse",
+          "location": "hallway",
+          "events": [
+            {
+              "at": 245,
+              "text": "Landon sent Vera through the door first."
+            },
+            {
+              "at": 247,
+              "text": "GM described the hallway as a pit of darkness."
+            },
+            {
+              "at": 253,
+              "text": "GM noted light coming from down the hall around a corner."
+            },
+            {
+              "at": 259,
+              "text": "GM said the group saw two sets of footprints."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 265,
+          "last": 450,
+          "area": "farmhouse",
+          "location": "backroom",
+          "events": [
+            {
+              "at": 268,
+              "text": "The party found a backroom with two men and a glass coffin."
+            },
+            {
+              "at": 275,
+              "text": "The men were identified as Otto Toulouse and Evan."
+            },
+            {
+              "at": 285,
+              "text": "Selenor confronted Otto and Evan about the mummy and bog."
+            },
+            {
+              "at": 311,
+              "text": "Selenor cast sending to Ademe about the mummy and fey."
+            },
+            {
+              "at": 355,
+              "text": "The mummy arose as Lady Isabella Vex."
+            },
+            {
+              "at": 395,
+              "text": "Lady Vex left and the party discussed taking Otto to the sheriff."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 9,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "farmhouse",
+          "location": "backroom",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM started Session 279 in the farm house with Selenor and Carnon present."
+            }
+          ],
+          "time_cues": [
+            "Raven Grow Day 2/30",
+            "21:00pm",
+            "4710 AR, Rova 12th, 21:00"
+          ]
+        },
+        {
+          "first": 2,
+          "last": 9,
+          "area": "Raven Grow",
+          "location": "Raven Grow",
+          "events": [
+            {
+              "at": 2,
+              "text": "GM started Session 280 in Raven Grow with Selenor, Carnon, Elinoa and Allisee present."
+            },
+            {
+              "at": 3,
+              "text": "Cardigan asked Selenor if he made a new friend while walking to the councilwoman's office."
+            },
+            {
+              "at": 5,
+              "text": "Cardigan told Selenor he was famous and strong and flexed her muscles."
+            },
+            {
+              "at": 6,
+              "text": "Allisee started going to Councilwoman Shanda's office."
+            },
+            {
+              "at": 8,
+              "text": "GM started Session 281 in Raven Grow."
+            },
+            {
+              "at": 9,
+              "text": "GM recorded combat with 140 Giant Rats and awarded experience."
+            }
+          ],
+          "time_cues": [
+            "Raven Grow Day 3/30",
+            "09:00am",
+            "10:30am"
+          ]
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 105,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 43,
+          "area": "Raven Grow",
+          "location": "Raven Grow",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party waited for an IRL session to happen."
+            },
+            {
+              "at": 11,
+              "text": "The GM recapped session 281 in Raven Grow on Day 3/30 from 10:30am to 11:00am."
+            },
+            {
+              "at": 14,
+              "text": "The GM recapped session 282 in Raven Grow on Day 3/30 at 12:30pm."
+            },
+            {
+              "at": 17,
+              "text": "The party preferred an IRL session for the battle because of mechanics."
+            },
+            {
+              "at": 27,
+              "text": "Fuzzy described character build edits in the wrong topic."
+            },
+            {
+              "at": 43,
+              "text": "The GM recapped session 283 in Raven Grow on Day 3/30 at 12:30pm."
+            }
+          ],
+          "time_cues": [
+            "Raven Grow Day 3/30",
+            "10:30am",
+            "Day 3/30",
+            "11:00am",
+            "12:30pm",
+            "12:30"
+          ]
+        },
+        {
+          "first": 44,
+          "last": 105,
+          "area": "Raven Grow",
+          "location": "outskirts",
+          "events": [
+            {
+              "at": 44,
+              "text": "The party found a helmet covering a bright lamp near a large tree."
+            },
+            {
+              "at": 46,
+              "text": "Cardigan asked if they were going to check out the helmet."
+            },
+            {
+              "at": 54,
+              "text": "A voice from the helmet asked to be dug out to address chaos."
+            },
+            {
+              "at": 56,
+              "text": "Selenor started digging out the buried helmet."
+            },
+            {
+              "at": 74,
+              "text": "Selenor and Cardigan spent 20 minutes unburying Fuzzy."
+            },
+            {
+              "at": 85,
+              "text": "Fuzzy introduced itself as a human-forged emissary of Axis."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 89,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 60,
+          "area": "Raven Grow",
+          "location": "outskirts",
+          "events": [
+            {
+              "at": 2,
+              "text": "The party had breakfast with Keleri-Umi."
+            },
+            {
+              "at": 10,
+              "text": "Zokar Elkarid and the child from the river arrived at the door."
+            },
+            {
+              "at": 30,
+              "text": "Zokar thanked the party and handed out food at the table."
+            },
+            {
+              "at": 42,
+              "text": "Baylan found Pevrin physically fine but heard echo magic."
+            },
+            {
+              "at": 50,
+              "text": "The party learned occult energy was clinging to Pevrin."
+            },
+            {
+              "at": 52,
+              "text": "Pevrin ran out the door to play."
+            }
+          ],
+          "time_cues": [
+            "Rova 13th (Toilday)",
+            "Rova 14th (Wealday)"
+          ]
+        },
+        {
+          "first": 61,
+          "last": 89,
+          "area": "The Harrow",
+          "location": "Smith's Volcano",
+          "events": [
+            {
+              "at": 61,
+              "text": "The party waited in the Harrow ready to go back to Raven Grow."
+            },
+            {
+              "at": 63,
+              "text": "Anthony suggested checking records for decapitating serial killers."
+            },
+            {
+              "at": 65,
+              "text": "The GM asked if the party wanted to go to the prison."
+            },
+            {
+              "at": 71,
+              "text": "The party discussed whether Cardigan could track the ghost."
+            },
+            {
+              "at": 81,
+              "text": "The GM explained the Ethereal Plane is home to ghosts."
+            },
+            {
+              "at": 85,
+              "text": "The GM asked to move the conversation to chat."
+            }
+          ],
+          "time_cues": [
+            "15:00",
+            "Day 4"
+          ]
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 12,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 12,
+          "area": "The Harrow",
+          "location": "Smith's Volcano",
+          "events": [
+            {
+              "at": 1,
+              "text": "Baylan said the party would likely return to the prison to continue exorcising it and look for information on the throat-slashing ghost."
+            },
+            {
+              "at": 5,
+              "text": "Alisee put a hand on Cardigan's shoulder and warned her not to read the book because it was bad for her."
+            },
+            {
+              "at": 9,
+              "text": "Katmidlar asked what was wrong with Cardigan reading a book of obscene character."
+            },
+            {
+              "at": 10,
+              "text": "Cardigan jumped up excitedly and said to go questing."
+            },
+            {
+              "at": 11,
+              "text": "Cardigan said she had a weird relationship with a space fog monster woman and flexed her ghoul flesh arm."
+            },
+            {
+              "at": 12,
+              "text": "Cardigan asked Selenor what their next move was."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {
+    "unknown": "Not stated"
+  },
+  "area_renames": {
+    "House of the White Snake": "Eto",
+    "Pillars of the Sun": "Eto",
+    "crater": "Eto",
+    "ravenous black sphinx": "Eto",
+    "temple of Pharasma": "Magnimar",
+    "unknown": "Location not stated"
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "code": "C09",
+  "campaign": "Metal City",
+  "months": {
+    "2025-09": {
+      "messages": 5,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM posted a link."
+            },
+            {
+              "at": 2,
+              "text": "GM stated the professor had a massive impact on character's life."
+            },
+            {
+              "at": 3,
+              "text": "Redecter asked if this was starfinder."
+            },
+            {
+              "at": 4,
+              "text": "Redecter asked for the books."
+            },
+            {
+              "at": 5,
+              "text": "Antoine stated everything needed was on the SF2E AON."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-11": {
+      "messages": 5,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 5,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM stated the party were crew on a ship."
+            },
+            {
+              "at": 2,
+              "text": "Oscar said he wanted to be a bounty hunter."
+            },
+            {
+              "at": 3,
+              "text": "Oscar asked how many bounties were on the ship."
+            },
+            {
+              "at": 4,
+              "text": "Ryo guessed Oscar wondered if crew had bounties on them."
+            },
+            {
+              "at": 5,
+              "text": "Chua said bounties were just one way of making money."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2025-12": {
+      "messages": 1,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 1,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 1,
+              "text": "GM stated the party was aboard the ship."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-01": {
+      "messages": 61,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 32,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 2,
+              "text": "An alert popped up on screen."
+            },
+            {
+              "at": 11,
+              "text": "Arctus pressed the screen."
+            },
+            {
+              "at": 20,
+              "text": "The ship shook from a laser cannon blast."
+            },
+            {
+              "at": 25,
+              "text": "Arctus tried to hail the attacking pirates."
+            },
+            {
+              "at": 29,
+              "text": "All passed out."
+            },
+            {
+              "at": 32,
+              "text": "Holis checked the ship for missing items."
+            }
+          ],
+          "time_cues": [
+            "... 1 week later ..."
+          ]
+        },
+        {
+          "first": 33,
+          "last": 61,
+          "area": "brig",
+          "location": "brig",
+          "events": [
+            {
+              "at": 33,
+              "text": "Woke up restrained together in the brig."
+            },
+            {
+              "at": 43,
+              "text": "A portal opened with green and blue flame."
+            },
+            {
+              "at": 46,
+              "text": "The corpse of a cat-man came out of the portal."
+            },
+            {
+              "at": 55,
+              "text": "A distant alarm from the brig sensors was heard."
+            },
+            {
+              "at": 60,
+              "text": "The door slid up revealing an automaton cleaner."
+            },
+            {
+              "at": 61,
+              "text": "Joo-Dee attempted to scoot through the open door."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-02": {
+      "messages": 65,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 65,
+          "area": "brig",
+          "location": "brig",
+          "events": [
+            {
+              "at": 2,
+              "text": "Automaton cleaner rolled toward Bones's corpse and began cleaning."
+            },
+            {
+              "at": 9,
+              "text": "Cleaning bot short-circuited and beeped near the corpse."
+            },
+            {
+              "at": 11,
+              "text": "Taller cleaning robot with keycards stepped through the brig door."
+            },
+            {
+              "at": 22,
+              "text": "Cleaning robot whispered the red substance was interrupted transmutation."
+            },
+            {
+              "at": 34,
+              "text": "Cleaning robot freed the party and returned their gear."
+            },
+            {
+              "at": 52,
+              "text": "Combat against Dekker started with the players going first."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-03": {
+      "messages": 68,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 68,
+          "area": "brig",
+          "location": "brig",
+          "events": [
+            {
+              "at": 2,
+              "text": "Dekker died from Damon's shot and the corpse was torn apart."
+            },
+            {
+              "at": 11,
+              "text": "Arctus estimated fewer than ten pirates remained on board."
+            },
+            {
+              "at": 20,
+              "text": "Oofy explained they were in room 1 and described the ship layout."
+            },
+            {
+              "at": 34,
+              "text": "Arktos confirmed the corpse was caught mid-transmutation into an ooze."
+            },
+            {
+              "at": 37,
+              "text": "The party looted weapons, armor, grenades and a communicator."
+            },
+            {
+              "at": 47,
+              "text": "Joo-Dee opened the cell doors and freed Chik and Kae-Vo."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-04": {
+      "messages": 287,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 2,
+          "area": "brig",
+          "location": "brig",
+          "events": [
+            {
+              "at": 1,
+              "text": "Ooofy perked up and asked to be interviewed."
+            },
+            {
+              "at": 2,
+              "text": "Ooofy asked Holis about sponsorship."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 143,
+          "area": "The Stargazer",
+          "location": "Rec Room",
+          "events": [
+            {
+              "at": 6,
+              "text": "Ooofy sent a long-range distress call."
+            },
+            {
+              "at": 10,
+              "text": "A hostile ship hit The Stargazer."
+            },
+            {
+              "at": 15,
+              "text": "Four pirates burst into the rec room and demanded passage to the pods."
+            },
+            {
+              "at": 119,
+              "text": "Damon blasted the head off a Nova Pirate."
+            },
+            {
+              "at": 120,
+              "text": "Combat ended with the pirates dead."
+            },
+            {
+              "at": 127,
+              "text": "Oofy reported the floor was clear and suggested looking around or going upstairs."
+            }
+          ],
+          "time_cues": [
+            "about a minute later",
+            "A few minute pass"
+          ]
+        },
+        {
+          "first": 144,
+          "last": 167,
+          "area": "The Stargazer",
+          "location": "Medical Bay",
+          "events": [
+            {
+              "at": 144,
+              "text": "The party entered the medical bay."
+            },
+            {
+              "at": 147,
+              "text": "The party found a medkit, medpatches and a bone serum in the cabinets."
+            },
+            {
+              "at": 160,
+              "text": "Joo-Dee examined Damon and found no trace of slime."
+            },
+            {
+              "at": 167,
+              "text": "Joo-Dee started leading the group toward the Ammo Room."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 168,
+          "last": 172,
+          "area": "The Stargazer",
+          "location": "Ammo Room",
+          "events": [
+            {
+              "at": 168,
+              "text": "The party entered the ammo room full of starship-grade munitions."
+            },
+            {
+              "at": 169,
+              "text": "The party saw battery charging stations in the room."
+            },
+            {
+              "at": 171,
+              "text": "The group decided to move to the control room next."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 173,
+          "last": 173,
+          "area": "The Stargazer",
+          "location": "Cargo Bay",
+          "events": [
+            {
+              "at": 173,
+              "text": "The party passed through the cargo bay and collected an autograppler, cable, ammunition and batteries."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 174,
+          "last": 197,
+          "area": "The Stargazer",
+          "location": "Control Room",
+          "events": [
+            {
+              "at": 174,
+              "text": "The party entered the control room overlooking the aft."
+            },
+            {
+              "at": 179,
+              "text": "Oofy reported a ship missile got stuck from the bone ship attacks."
+            },
+            {
+              "at": 180,
+              "text": "Oofy said someone could unjam the missile from the promenade deck."
+            },
+            {
+              "at": 186,
+              "text": "The party found a rare life-sized plushie in the cabinet."
+            },
+            {
+              "at": 190,
+              "text": "The party confirmed lower rooms were explored except the reactor."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 198,
+          "last": 243,
+          "area": "The Stargazer",
+          "location": "Reactor Room",
+          "events": [
+            {
+              "at": 198,
+              "text": "The party entered the reactor room."
+            },
+            {
+              "at": 208,
+              "text": "The Symposium fixed and stabilised the reactor."
+            },
+            {
+              "at": 214,
+              "text": "The reactor released a last burst of unstable energy."
+            },
+            {
+              "at": 221,
+              "text": "The Symposium took a small zap from the reactor."
+            },
+            {
+              "at": 227,
+              "text": "Joo-Dee treated Kae-Vo with medicine and restored health."
+            },
+            {
+              "at": 243,
+              "text": "Chik urged heading upstairs to secure the ship."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 244,
+          "last": 287,
+          "area": "The Stargazer",
+          "location": "Western Upper Hallway",
+          "events": [
+            {
+              "at": 244,
+              "text": "The party went upstairs."
+            },
+            {
+              "at": 250,
+              "text": "The party arrived in the western upper hallway."
+            },
+            {
+              "at": 251,
+              "text": "Oofy described the missile launcher to the west and the central room to the east."
+            },
+            {
+              "at": 277,
+              "text": "Hinata Hoshibi introduced herself and offered to join forces."
+            },
+            {
+              "at": 282,
+              "text": "Joo-Dee introduced the party members to Hinata."
+            },
+            {
+              "at": 287,
+              "text": "Arktos headed through the magnetic field to tinker with the missiles."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-05": {
+      "messages": 152,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 33,
+          "area": "The Stargazer",
+          "location": "Western Upper Hallway",
+          "events": [
+            {
+              "at": 1,
+              "text": "Hinata asked about the group's capabilities and tactics."
+            },
+            {
+              "at": 4,
+              "text": "Joo-Dee said a high frequency sound wave knocked the crew out."
+            },
+            {
+              "at": 17,
+              "text": "Oofy said repairing the jammed missile launcher on the bridgeway would take a few minutes."
+            },
+            {
+              "at": 19,
+              "text": "Oofy stated the repair required DC 15 Acrobatics or Athletics and DC 15 Crafting."
+            },
+            {
+              "at": 25,
+              "text": "Oofy asked Hinata who she was and how she got onto the ship."
+            },
+            {
+              "at": 32,
+              "text": "Oofy opened the door to the bridge at a terminal."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 34,
+          "last": 38,
+          "area": "The Stargazer",
+          "location": "bridgeway",
+          "events": [
+            {
+              "at": 34,
+              "text": "The party made their way over to attempt the repair."
+            },
+            {
+              "at": 37,
+              "text": "Arktos kept balance on the damaged bridgeway and held the edge."
+            },
+            {
+              "at": 38,
+              "text": "Arktos unjammed the missile launcher and made their way back inside."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 39,
+          "last": 52,
+          "area": "The Stargazer",
+          "location": "Western Upper Hallway",
+          "events": [
+            {
+              "at": 40,
+              "text": "Oofy congratulated Arktos after coming back inside."
+            },
+            {
+              "at": 45,
+              "text": "Oofy said a scream knocked the crew unconscious."
+            },
+            {
+              "at": 50,
+              "text": "The party agreed to move to the next room."
+            },
+            {
+              "at": 51,
+              "text": "Hinata said she woke on the ship after the scream and confirmed she was Solarian."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 53,
+          "last": 152,
+          "area": "The Stargazer",
+          "location": "ROOM 1",
+          "events": [
+            {
+              "at": 54,
+              "text": "The party entered ROOM 1 with large storage crates."
+            },
+            {
+              "at": 59,
+              "text": "Polly demanded why the cursed prisoners were out of their cages."
+            },
+            {
+              "at": 76,
+              "text": "A blast from the undead ship hit the Stargazer and ripped a hole in the ceiling."
+            },
+            {
+              "at": 83,
+              "text": "The darkness formed into a nightmarish lovecraftian entity."
+            },
+            {
+              "at": 128,
+              "text": "Arktos learned the sinkwell was immune to traditional damage and needed 3 successes to disperse."
+            },
+            {
+              "at": 145,
+              "text": "Arktos relayed the sinkwell's capabilities to the rest of the party."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-06": {
+      "messages": 53,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 53,
+          "area": "The Stargazer",
+          "location": "ROOM 1",
+          "events": [
+            {
+              "at": 7,
+              "text": "Chik attempted Occultism checks against the Sinkwell."
+            },
+            {
+              "at": 8,
+              "text": "Damon moved into range and attempted Thievery checks against the Sinkwell."
+            },
+            {
+              "at": 26,
+              "text": "Hinata was grabbed by the Sinkwell."
+            },
+            {
+              "at": 42,
+              "text": "Damon disabled the Spiritual Sinkwell and ended combat."
+            },
+            {
+              "at": 53,
+              "text": "A Diplomacy check to befriend Polly succeeded."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-07": {
+      "messages": 15,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 15,
+          "area": "The Stargazer",
+          "location": "ROOM 1",
+          "events": [
+            {
+              "at": 1,
+              "text": "Polly said she did not want to die there and suggested allying for safety."
+            },
+            {
+              "at": 2,
+              "text": "Polly recharged all of the party's batteries for free."
+            },
+            {
+              "at": 5,
+              "text": "Oofy warned the captain was no more than 2 rooms away and to get ready for a fight to the death."
+            },
+            {
+              "at": 9,
+              "text": "Laetheron said he would like to continue but did not know how many people were still here."
+            },
+            {
+              "at": 10,
+              "text": "GM paused the campaign to recruit and said the Stargazer sat exactly where it was."
+            },
+            {
+              "at": 14,
+              "text": "Bruce said he had been busy and was still a week out."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-08": {
+      "messages": 81,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 22,
+          "area": "The Stargazer",
+          "location": "ROOM 1",
+          "events": [
+            {
+              "at": 8,
+              "text": "A far greater swell of power rose after the spiritual sinkwell was destroyed."
+            },
+            {
+              "at": 9,
+              "text": "Arktos established their warp and scanned the area for anomalies."
+            },
+            {
+              "at": 11,
+              "text": "Oofy reported the pirates had retreated from the living room to the bridge."
+            },
+            {
+              "at": 12,
+              "text": "The Stargazer shook from necro plasma cannon blasts."
+            },
+            {
+              "at": 14,
+              "text": "Polly stowed away below deck."
+            },
+            {
+              "at": 22,
+              "text": "Arktos floated off with LUKA."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 23,
+          "last": 81,
+          "area": "The Stargazer",
+          "location": "big open plan kitchen",
+          "events": [
+            {
+              "at": 23,
+              "text": "The party went into the next room and found the big open plan kitchen rearranged."
+            },
+            {
+              "at": 26,
+              "text": "A large glass cube with grey figures stood where the table had been."
+            },
+            {
+              "at": 30,
+              "text": "The ghost people in the prison became solid and looked like the crew companions."
+            },
+            {
+              "at": 48,
+              "text": "Arktos tinkered with the cube and deactivated the prison."
+            },
+            {
+              "at": 49,
+              "text": "The cube opened and the prisoners walked free."
+            },
+            {
+              "at": 81,
+              "text": "Bella started jamming a knife into the bridge door to force it open."
+            }
+          ],
+          "time_cues": [
+            "for several days"
+          ]
+        }
+      ]
+    },
+    "2026-09": {
+      "messages": 57,
+      "model": "opencode/muse-spark-1.3-contributor-free",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 57,
+          "area": "The Stargazer",
+          "location": "bridge",
+          "events": [
+            {
+              "at": 3,
+              "text": "The party saw the bridge."
+            },
+            {
+              "at": 6,
+              "text": "The party saw Captain Vex Ashburn."
+            },
+            {
+              "at": 11,
+              "text": "The ship shook as necro-missiles struck it."
+            },
+            {
+              "at": 25,
+              "text": "Captain Vex Ashburn ordered the Nova pirates to attack."
+            },
+            {
+              "at": 47,
+              "text": "Arktos blasted Captain Vex Ashburn to within an inch of her life."
+            },
+            {
+              "at": 57,
+              "text": "Bella urged everyone to get out fast."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    }
+  },
+  "in_game": {},
+  "renames": {
+    "unknown": "Setup posts",
+    "ROOM 1": "Room 1",
+    "big open plan kitchen": "Kitchen",
+    "brig": "Brig"
+  },
+  "area_renames": {
+    "unknown": "Before play",
+    "your spaceship": "The Stargazer",
+    "brig": "The Stargazer"
+  }
+}

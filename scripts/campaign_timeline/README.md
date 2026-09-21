@@ -12,9 +12,13 @@ Pilot: **C04 Magni Guard**, published at
 | Step | Script | Model? |
 |---|---|---|
 | 1. Read the archive into numbered messages, per month | `messages.py` | no |
-| 2. Split each month into scenes by location | `extract.py` | **yes**, a free model via the `delegate` skill |
+| 2. Split each month into scenes by location | `extract.py` | **yes**, `muse-spark-1.3` (free) via the `delegate` skill |
 | 3. Check the split, then save it | `scenes.py` | no |
 | 4. Merge scenes into visits and write the page | `page.py`, `page_render.py` | no |
+
+**Model:** `opencode/muse-spark-1.3-contributor-free`, Lewis's choice. If it is
+down the delegate falls back to another free model, and that month is redone
+on the next run, so each timeline ends up extracted by 1.3 throughout.
 
 **The model's output is never trusted on its word.** A month is rejected,
 retried once, and otherwise left out if its scenes do not cover every
