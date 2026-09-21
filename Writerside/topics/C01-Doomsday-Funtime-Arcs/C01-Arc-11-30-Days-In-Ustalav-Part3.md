@@ -648,3 +648,27 @@ Horia Constantinescu (@Nemesiux) Anthony NegetZ (@MrNegetZ) Moss (@Mosssssssssss
 >> 3. Ending session with shopping in the Harrow Realm.
 
 > END OF SESSION 05:57am.
+
+## Session 286.
+
+Fix:
+
+> Arc-11 part 17.
+>> 1. Session 285.
+>> 2. 2026 August 14th Saturday + 4710 AR, Rova 14th (Wealday).
+>> 3. IRL attempted start time: 22:00.
+>> 4. IRL start time: 00:30.
+>> 5. Delay duration: 2 hours & 30 minutes.
+>> 6. IRL finish time: ???.
+>> 7. Session duration: 23:18 -> : = x hours & x minutes.
+>> 8. Players present: 4 = Horia (playing Selenor), PJ (playing Baylan Hilom), Fuzzy (playing Warden) 2nd session & Theaitetos (playing Melody) 2nd session.
+>> 9. In-game location: Raven Grow.
+>> 10. Raven Grow Day 4/30.
+>> 11. In-game time: 10:30am.
+>> 12. Servon/Reece
+
+> Day 4/30. 15:00.
+>> 1. Rino's twin ring: Shadow Flame Ring.
+>> 2. The party meet some hired help:
+>> 3. Servon = Pan (catperson).
+>> 4. Reece = Ragnis Fell-Hard.
