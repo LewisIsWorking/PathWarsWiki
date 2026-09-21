@@ -3,7 +3,7 @@
 **IF YOU DO NOT WANT TO USE THESE CHANGES, YOU DO NOT HAVE TO!!!!!!**
 
 "The biggest change is mostly this makes casters the ultra utility knife"
-—A player.
+-A player.
 
 ## The Spell casting overhaul.
 

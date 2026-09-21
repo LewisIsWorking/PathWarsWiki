@@ -10,7 +10,7 @@ Set primarily in 4710 AR, the campaign follows a party of heroes based out of Sa
 
 What started as local adventures dealing with goblins and ancient ruins has evolved into a sprawling epic involving Sin empire artifacts, divine machinations, planar incursions, and the fate of nations.
 
-The campaign is divided into two major parts: Part 1 (Sessions 1-127) established the foundation through six major story arcs, while Part 2 (Session 128 onward) saw a campaign restart with an almost entirely new party—only Cardigan continues from the original group. 
+The campaign is divided into two major parts: Part 1 (Sessions 1-127) established the foundation through six major story arcs, while Part 2 (Session 128 onward) saw a campaign restart with an almost entirely new party-only Cardigan continues from the original group. 
 
 The new heroes inherited the "Heroes of Magnimar" mantle and escalated the stakes to cosmic proportions.
 
@@ -24,7 +24,7 @@ The original party cut their teeth on Varisian adventures, establishing themselv
 
 **The Murder Arc** saw the heroes turn investigators, unraveling a series of killings that revealed darker forces at work in the region.
 
-**The Shard of Lust Arc** brought the party into direct contact with Sin empire artifacts—fragments scattered across Varisia.
+**The Shard of Lust Arc** brought the party into direct contact with Sin empire artifacts-fragments scattered across Varisia.
 
 **The Tomb of Tular-Sept Arc** delved into ancient crypts and the undead horrors within, uncovering secrets about Golarion's past that would echo throughout the campaign.
 
@@ -50,17 +50,17 @@ Drekk-Zal distinguished himself by channeling lunar magic to defeat the aberrati
 #### Arc 2: Collapsing Halls (Sessions 142-146)
 Amar joined the group during this dungeon delve.
 
-Which culminated in a battle against the Time Watcher—a creature tied to temporal anomalies that hinted at the campaign's deeper themes of fate and predestination.
+Which culminated in a battle against the Time Watcher-a creature tied to temporal anomalies that hinted at the campaign's deeper themes of fate and predestination.
 
 #### Arc 3: Truth Teller (Sessions 148-150)
-At Lion Fell Keep, the party encountered one of the proto sin blades—ancient weapons predating the Sin-Lords' corruption of Sin empire magic. 
+At Lion Fell Keep, the party encountered one of the proto sin blades-ancient weapons predating the Sin-Lords' corruption of Sin empire magic. 
 
 The blade Truth-Teller would become Selenor's signature weapon.
 
 #### Arc 4: The Harrow Realm (Sessions 153-189)
 This massive 37-session arc proved transformative. 
 
-Amar's connection to the Harrow deepened until he became The Harrower itself—a being of immense mystical significance. 
+Amar's connection to the Harrow deepened until he became The Harrower itself-a being of immense mystical significance. 
 
 Session 158 marked Anthony's introduction to the campaign as Allisee, who would become one of the party's core members. 
 
@@ -69,7 +69,7 @@ The party navigated the surreal landscape of the Harrow Realm, confronting manif
 #### Arc 5: Necropolis (Sessions 184-187)
 A shorter but intense arc dealing with undead threats and ancient burial grounds.
 
-During this period, Selenor achieved the mantle of Eternal Warden—a title carrying significant responsibilities and powers related to the protection of sacred boundaries.
+During this period, Selenor achieved the mantle of Eternal Warden-a title carrying significant responsibilities and powers related to the protection of sacred boundaries.
 
 Including the ability to bind undead and speak with the grave-touched.
 
@@ -98,18 +98,18 @@ James Dark-moon, the high captain of the city guard, gave Amar a tracking ring a
 **Session 217: The Divine Serpent's Gift**
 At a spider warehouse, Allisee activated a ritual scroll that summoned Tuds, the Undying Divine Serpent. 
 
-Tuds revealed the ancient war between the Banner Callers, Lissala, and the Moon Goddess—a conflict that shaped the cosmology of Golarion. 
+Tuds revealed the ancient war between the Banner Callers, Lissala, and the Moon Goddess-a conflict that shaped the cosmology of Golarion. 
 
 Allisee received a sin-ring that implanted a slither of the goddess Lissala into her soul, manifesting first as a greed tattoo that would later shift to envy. 
 
 A morphing ballroom gown materialized as a physical expression of this change. 
 
-They learned of the Black-rock prisoner—a servant sealed by nine deities whose identity remains obscured.
+They learned of the Black-rock prisoner-a servant sealed by nine deities whose identity remains obscured.
 
 **Sessions 218-220: New Allies and Dark Revelations**
 Locus the astral dragon (310 years old post-ritual) joined the party as a Psychic/Monk. 
 
-Viole Jule Grace arrived—an Angel-kin/Grim-spawn elf, 223 years old, potential vessel for Viole-kan Blackrock (the sealed prisoner behind the Nine-Circle Door) with Lissala rune tattoos covering their body. 
+Viole Jule Grace arrived-an Angel-kin/Grim-spawn elf, 223 years old, potential vessel for Viole-kan Blackrock (the sealed prisoner behind the Nine-Circle Door) with Lissala rune tattoos covering their body. 
 
 The party discovered Allisee's mother is Yubis Dara, connecting Allisee to dragon-lord bloodlines.
 
@@ -118,7 +118,7 @@ Deep in the mines, the party encountered a door sealed by nine divine symbols:
 
 Pharasma, Asmodeus, Crystal Lotus, Sarenrae, Desna, Nhimbaloth, Arestil, Achaekek, and one MISSING deity. 
 
-Selenor bypassed the mythical divine seal—an act that would have consequences. 
+Selenor bypassed the mythical divine seal-an act that would have consequences. 
 
 Selenor contracted stage 1 magical-radioactive cancer. 
 
@@ -127,7 +127,7 @@ Raokan, a servant of the Fifth Horseman, was inadvertently released.
 **Sessions 223-224: The Daemonic Contract and Frozen Prison**
 In a desperate moment, Selenor signed a daemonic contract with Death itself, gaining a permanent death tattoo on his right hand. 
 
-Death's squad—Zillif, Tempest, Verda, and skeletal soldiers—pursued the party through a frozen prison plane.
+Death's squad-Zillif, Tempest, Verda, and skeletal soldiers-pursued the party through a frozen prison plane.
 
 A plane connected to Yubis via elemental water magic, Jack Frost, and ice arcana. 
 
@@ -138,7 +138,7 @@ At the Runewild, they discovered Junima's stillborn child's grave was empty.
 **Session 225: Junima's Truth**
 Selenor consoled Junima about her history of abuse and loss, including her miscarriage with Camadaithe (an ancient pre-material-plane elf from the Runewild who runs a tavern of dancing undead resisting Griselda's rule). 
 
-The stillborn child was later resurrected and grew up to become Lady Andaisin—Selenor's mother. 
+The stillborn child was later resurrected and grew up to become Lady Andaisin-Selenor's mother. 
 
 For his defiance of the divine order, Selenor was formally denounced by Pharasma. 
 
@@ -153,7 +153,7 @@ The party used Find the Path crystals to locate Plethyn and continue their journ
 This 21-session arc expanded the campaign's scope to Osirion and the ancient mysteries of the Final Spell.
 
 **Session 226-228: Sandpoint and Seagull Island**
-Returning to Sandpoint, Selenor beat his cancer with a DC35 check—a moment of triumph. 
+Returning to Sandpoint, Selenor beat his cancer with a DC35 check-a moment of triumph. 
 
 Lisa Tammerhawk embraced Allisee (and revealed disturbing interest in dissecting Viole's rune-marked body). 
 
@@ -170,10 +170,10 @@ A massive retcon revealed Selenor had unknowingly stopped Horsemen invasions thr
 
 The Tallinn Garden plane was released from Hell's archives and placed under Selenor's management. 
 
-He must deactivate a daemonic artifact, or Hell Knights will hunt him—a contract signed retroactively during the Crimson Throne campaign in 4709 AR.
+He must deactivate a daemonic artifact, or Hell Knights will hunt him-a contract signed retroactively during the Crimson Throne campaign in 4709 AR.
 
 **Sessions 230-231: New Allies and Faction Business**
-Lire joined the party—an undead Hell knight revenant affiliated with the Dark Archive.
+Lire joined the party-an undead Hell knight revenant affiliated with the Dark Archive.
 
 He came seeking Selenor's blessing for their relationship with Anamarie. 
 
@@ -189,7 +189,7 @@ In Eto, the party navigated a web of intrigue:
 - Found Red Mantis assassins hunting targets in the city
 - Learned about missing puppets worldwide from Adesha the Nagaji
 - Gathered information on Professor Ionacu Lozar, secretly a water genie
-- Received a meteorite in a glass orb from Valindriel Gatekeep—a key to "the most powerful door in reality" that Alseta herself fears
+- Received a meteorite in a glass orb from Valindriel Gatekeep-a key to "the most powerful door in reality" that Alseta herself fears
 
 **Sessions 241-248: The Pillars of the Sun**
 At the ancient site, the party faced three trials under Mektep-Han's guidance:
@@ -212,7 +212,7 @@ Carnon sold his soul to The Pale, transforming into a "Pale Soul" with True Demo
 
 He enslaved Madame Zelekhati through mind-warping magic. 
 
-The Dancing Dunes fell to Lamashtu and The Pale—all native elves enslaved with demon blood.
+The Dancing Dunes fell to Lamashtu and The Pale-all native elves enslaved with demon blood.
 
 Haku Stormfan, having appeared from Allisee's crow-book, signed the party charter and officially joined the Heroes of Magnimar. 
 
@@ -231,7 +231,7 @@ The party returned to Magnimar via Amenopheus.
 
 Para-countess Zarta Dralneen received Allisee's request to pursue tea mastery. 
 
-A MAGNI WATCH CROSS-OVER event occurred—the party met their counterparts from campaign #4. 
+A MAGNI WATCH CROSS-OVER event occurred-the party met their counterparts from campaign #4. 
 
 At Zarta's secret party, Lord Kasmarck attended alongside dancing halflings over hot coals. 
 
@@ -255,7 +255,7 @@ Allisee freed seven halfling babies destined for slavery and brewed Liberation T
 **Sessions 253-255: The Golem-works and Graveyard Consecration**
 The party worked with Vara Lamm (wife of Thaddeus Lamm) at Magnimar's main graveyard, where a Death Oracle was sapping life force. 
 
-Haku, Allisee, and Selenor created a permanent undead ward—a seed of Selenor's necromantic magic. 
+Haku, Allisee, and Selenor created a permanent undead ward-a seed of Selenor's necromantic magic. 
 
 This granted Allisee the ability to brew Corpse Chat Tea once daily in Magnimar.
 
@@ -297,7 +297,7 @@ The party saved Kira, who returned to her mysterious caped patron.
 - Mortigus becoming general of the Army of Iron, leading them to conquer the world
 
 **Sessions 259-260: The Night Hag Attack and Political Fallout**
-On Rova 8th, the party visited Eldariel Eldarielm about water elemental lore, learning Allisee's droplet tattoo represents a cursed connection between the Plane of Water and the Prime Material—a passed-down mark. 
+On Rova 8th, the party visited Eldariel Eldarielm about water elemental lore, learning Allisee's droplet tattoo represents a cursed connection between the Plane of Water and the Prime Material-a passed-down mark. 
 
 Maroux (Yubis's partner = Korumun. Korumun's best friend = Felaki. Marous = Felaki's sister) revealed she hates Allisee, calling her "a cunt."
 
@@ -358,7 +358,7 @@ Through Talking Corpse, the party learned about the Harrow seekers' goals.
 
 At the Paradise Corporation salvage yard on Reclaimed Island, they met Clem the orc (steampunk pickaxe enthusiast) and Derek the magic card collector with a seven-pointed star hand tattoo.
 
-At The Kraken tattoo parlor, Aaron Mayo discussed Allisee's droplet tattoos—fey magic origin, with someone possessing a paired tattoo. 
+At The Kraken tattoo parlor, Aaron Mayo discussed Allisee's droplet tattoos-fey magic origin, with someone possessing a paired tattoo. 
 
 Mayo had visions of a celestial crow and uncertainty about whether Allisee would be Cheliax's savior or conqueror. 
 
@@ -387,7 +387,7 @@ He surrendered THE CARNIVAL Destiny Deck Card to Allisee. Cardigan cured Haku's 
 **Session 266: The Harrow Bleeds**
 In the Harrow Realm, Selenor told Sonnorae that Amar "is not quite fully dead somewhere." 
 
-The Harrow itself is bleeding—a sign of catastrophic instability. 
+The Harrow itself is bleeding-a sign of catastrophic instability. 
 
 At Smith's Volcano, Selenor comforted Voricose the Cyclops Bartender. 
 
@@ -407,7 +407,7 @@ At the Cathedral of Abadar, the party agreed to wait until more members can cast
 
 #### Current Party (Session 266)
 
-**Cardigan** — Cleric, Level 13 (GM-controlled)
+**Cardigan** - Cleric, Level 13 (GM-controlled)
 The sole survivor from Part 1's original party. 
 
 Born 4664 AR, she is 46 years old. 
@@ -428,7 +428,7 @@ Her connection to the RuneWheel creates a temporal paradox where she can experie
 
 Likes rum & raisin ice cream.
 
-**Selenor The Wanderer** — Champion/Oracle (Bones mystery), Level 12 (Horia)
+**Selenor The Wanderer** - Champion/Oracle (Bones mystery), Level 12 (Horia)
 Perhaps the most transformed character in the campaign. 
 Inhabits a male version of Sin Lord Sorshen's cloned body (which allows wielding sin shards). 
 Over 100+ sessions, Selenor has accumulated:
@@ -439,7 +439,7 @@ Over 100+ sessions, Selenor has accumulated:
 - **Powers:** Eternal Warden abilities (harm charges, bind undead, aerial scavenger form), Chronicler lore abilities gained from Tony Spark at the Creation Forge
 
 **Current Appearance:** 
-Selenor cuts a striking figure—Danufair the grey-flamed rabbit perches on one shoulder while The Blood Toad (containing the Deck of Harrowed Tales) sits on the other. Three sin shards (Pride, Greed, Lust) float around him, along with the Final Spell fragment manifesting as a butterfly. 
+Selenor cuts a striking figure-Danufair the grey-flamed rabbit perches on one shoulder while The Blood Toad (containing the Deck of Harrowed Tales) sits on the other. Three sin shards (Pride, Greed, Lust) float around him, along with the Final Spell fragment manifesting as a butterfly. 
 
 His necrotic arm (since Session 189) and the death tattoo on his right hand mark his daemonic bargain. 
 
@@ -449,7 +449,7 @@ Selenor has become famous across Avistan.
 
 His proto sin blade Truth-Teller prevents him from lying and deals extra fire damage to those who have deceived him.
 
-**Allisee Tra-Umna** — Barbarian/Witch, Level 11+ (Anthony)
+**Allisee Tra-Umna** - Barbarian/Witch, Level 11+ (Anthony)
 Planar Pact-maker and Crafting Sage of the Sovereign Court.
 
 Wielder of Moon-Bear (a relic flesh gem/battle axe with bear transformation abilities) and the proto sin blade Sin Reaver (passed from retired hero Modwinn).
@@ -461,106 +461,106 @@ Key features:
 - **Achievements:** TRUE POLYMATH (feats from 17+ sources), Tea Master
 - **Abilities:** Can brew Corpse Chat Tea once daily in Magnimar
 
-**Haku Stormfan** — Kineticist (Wind)/Swashbuckler (Fencer) (Sebastian/Askaran)
+**Haku Stormfan** - Kineticist (Wind)/Swashbuckler (Fencer) (Sebastian/Askaran)
 Member of the Concordance of Elements. 
 Appeared from Allisee's crow-book, signed the party charter in Session 251. 
 Identified by Amenopheus as a powerful ally connected to ancient forces. 
 Owns Rino (greatest rhino magma dragon, former assassin's slave). 
 Currently holds The Rabbit Prince destiny card.
 
-**Infinite Fang** — Kineticist (Metal)/Monk (Cortez)
+**Infinite Fang** - Kineticist (Metal)/Monk (Cortez)
 Mountain stance specialist with grindstone summoning. 
 Holds The Brass Dwarf and The Carnival destiny cards.
 
-**Mortigus Stonewall** — Kineticist (Wood)/Guardian (Rez)
+**Mortigus Stonewall** - Kineticist (Wood)/Guardian (Rez)
 The Weeping Woman prophesied Mortigus will become "general of the Army of Iron, leading them to conquer the world." 
 Tasked by Lord-Mayor Grobaras with forging the Sky Citadel dwarf alliance. 
 Holds The Paladin and The Mountain Man destiny cards.
 
-**Carnon** — Exemplar/Gunslinger/Magus/Investigator (Moss)
+**Carnon** - Exemplar/Gunslinger/Magus/Investigator (Moss)
 Sold his soul to The Pale in Session 251, becoming a Pale Soul with True Demon blood and adopted demon ancestry. 
 Enslaved Madame Zelekhati through mind-warping magic. 
 His ring of control sand elemental now summons a demon-looking creature. 
 His snake is named Appollon. 
 His squirrel is named Appollon as well.
 
-**Vaasha** — Polymorphic abilities (Jalen Hill/purpledraco)
+**Vaasha** - Polymorphic abilities (Jalen Hill/purpledraco)
 The Weeping Woman prophesied Vaasha will be "devoured by RATS." 
 Has diplomacy and shapeshifting skills. 
 Holds The Empty/Broken Throne destiny card.
 
 #### Supporting Cast
 
-**Viole Jule Grace** — Inventor/Warlord, Lieutenant of The Exchange
+**Viole Jule Grace** - Inventor/Warlord, Lieutenant of The Exchange
 Angel-kin/Grim-spawn elf, 223 years old. 
 Vessel for the Black-rock prisoner with Lissala rune tattoos. 
 Tammerhawk revealed the back-runes are a ritual. 
 Promoted to Magnimarian general, now constructing a war airship. 
 Holds proto sin blade Iron-Oath.
 
-**Lire (Evonor Essora)** — Summoner/Bard
+**Lire (Evonor Essora)** - Summoner/Bard
 Undead Hell knight revenant affiliated with the Dark Archive. 
 Joined Session 230. 
 Lover is Anamarie (raised by Selenor). 
 Descendant is Ellene Verelli. 
 Seeking Selenor's blessing for their relationship.
 
-**Syver** — (Jeremy Babayaga)
+**Syver** - (Jeremy Babayaga)
 Party member with less documented history.
 
-**Rino** — Mount/Companion
+**Rino** - Mount/Companion
 The greatest rhino magma dragon. 
 Formerly an assassin's slave, purchased by Haku. 
 Can do backflips.
 
 #### Key NPCs
 
-**Keleri Deverin** — 
+**Keleri Deverin** - 
 Sandpoint charter leader, Heroes of Sandpoint organizer, cousin of Kendra Deverin. 
 Deep in administrative work smoothing over party incidents. 
 Nearly imprisoned during the poisoning crisis.
 
-**Amenopheus** — 
+**Amenopheus** - 
 Jeweled Sage contact. 
 Seeking to complete the "One Thousand Steps" ritual to restore lost memories and knowledge. 
 Works with Torch for information. 
 Identified lenses of truth that protect from scrying/divination.
 
-**Grand Master Torch** — 
+**Grand Master Torch** - 
 Leader of shadow faction operations. 
 "A scumbag" according to Tammerhawk. 
 Provides intelligence in exchange for favors.
 
-**Lisa Tammerhawk** — 
+**Lisa Tammerhawk** - 
 Sandpoint researcher. 
 Wants to dissect Viole. 
 Hugged Allisee. 
 Knows Professor Lozar is a water genie.
 
-**Junima** — 
+**Junima** - 
 Selenor's grandmother. 
 Witch with green flame magic.
 Rescued from Death's servants in Arc 7. 
 Miscarried a child with Camadaithe. 
 Her stillborn's grave at Runewild was found empty.
 
-**Griselda** — 
+**Griselda** - 
 Selenor's great-grandmother, Junima's mother. 
 The Hag Queen holding proto sin blade Eclipse in the Rune Wild.
 
-**Camadaithe** — 
+**Camadaithe** - 
 Junima's partner, father of Andaisin (Selenor's mother). 
 An ancient race of elf predating the prime material plane. 
 Runs a tavern full of dancing undead in the Runewild, resisting the Hag Queen.
 
-**Lorn** — 
+**Lorn** - 
 Selenor's adopted son. 
 Originally a monster that Selenor necromanced into a skeleton to save his soul from a dark binding. 
 Appeared to Selenor as a crystal skeleton in Eto, whispering "I am sorry, Father." 
 Connected to the Kibwe campaign.
 Was a Grand Explorer then fell through a portal of both time and space to the Kibwe campaign's party.
 
-**Yubis Dara** — 
+**Yubis Dara** - 
 Allisee's mother. 
 Mythical reincarnating dragon-lord figure.
 Allisee possesses half her soul. 
@@ -568,11 +568,11 @@ Partner of Korumun.
 Also, Cardigan's adoptive mother. 
 Sacrificed herself at the end of the Belhaim arc to activate her Dragon Lord powers and banish Blackwing's mother (Argrinyxia) to the Shadow Plane.
 
-**Blackwing** — 
+**Blackwing** - 
 Dragon spawned from an egg created by Yubis using magical fey fish magic. 
 Died alongside Yubis at the end of the Belhaim arc.
 
-**The Collector / Lylissee Tra-Umna** — 
+**The Collector / Lylissee Tra-Umna** - 
 Allisee's kidnapped half-sister.
 Now a Divine Servant of the Goddess Grandmother Rat. 
 Bumped into Allisee at the Crimson Bazaar saying "it was nice to finally meet you." 
@@ -581,22 +581,22 @@ Wears an absorbing mask.
 Connected to Imron. 
 Allisee learned the truth at the end of Arc 9 during the tea party before the Night Hag attack.
 
-**Madame Zelekhati** — 
+**Madame Zelekhati** - 
 Former elven supremacist at the Dancing Dunes, worshipping Alseta and Elemental Lord of Earth. 
 Enslaved by Carnon after the Dancing Dunes fell to Lamashtu and The Pale.
 
-**Sonnorae** — Harrow entity. 
+**Sonnorae** - Harrow entity. 
 Siad Amar "is not quite fully dead somewhere."
 
-**Voricose** — 
+**Voricose** - 
 Harrow Cyclops Bartender at Smith's Volcano. The Harrow is bleeding around him.
 
-**The Ticktock Man** — 
+**The Ticktock Man** - 
 Harrow entity impressed by Carnon's engineering.
 
 #### Former Party Members
 
-**Amar Rookmoon** — Rogue/Sorcerer, Harrower
+**Amar Rookmoon** - Rogue/Sorcerer, Harrower
 Became The Harrower during the Harrow Arc. 
 Achieved transcendence. 
 Was disintegrated fighting Imron but resurrected (crystallized in Time Lock). 
@@ -610,12 +610,12 @@ Veteran hero who passed the proto sin blade Sin Reaver to Allisee, asking her to
 Departed for "other work." 
 Nethys spent time with Selenor's past life.
 
-**Lire Aurelia Denure** — Wizard/Fighter
+**Lire Aurelia Denure** - Wizard/Fighter
 Ancient elf (212 years). 
 Family erased from history. 
 Player left the campaign.
 
-**Welter** — 
+**Welter** - 
 Oracle scholar with grey flame
 Sin-empire expert met at Black Rock mine in Session 216. 
 Current whereabouts unknown.
@@ -671,8 +671,8 @@ Collected cards from Amar's legacy. Each grants passive abilities and activated 
 | The Rabbit Prince       | CN        | Haku Stormfan | +1 to readied attacks; reroll misses (weapon may break)    |
 | The Locksmith           | LN        | Selenor       | +2 Pick Lock; counteract curses/diseases                   |
 | The Mountain Man        | CN        | Mortigus      | +2 Athletics (Force Open/Grapple/Shove/Trip); Enlarge self |
-| The Vision              | —         | Allisee       | +2 Identify Magic; master-level Recall Knowledge 1/day     |
-| The Carnival            | —         | Infinite Fang | Party-wide buff (specifics in progress)                    |
+| The Vision              | -         | Allisee       | +2 Identify Magic; master-level Recall Knowledge 1/day     |
+| The Carnival            | -         | Infinite Fang | Party-wide buff (specifics in progress)                    |
 
 The Deck of Harrowed Tales currently resides inside the blood toad on Selenor's shoulder.
 

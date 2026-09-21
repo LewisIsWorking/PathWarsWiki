@@ -1,6 +1,6 @@
 """Campaign directory -> wiki code, and transcript file -> wiki filename.
 
-Split from ``sync.py`` so the naming rules — the part with the sharp edge —
+Split from ``sync.py`` so the naming rules - the part with the sharp edge -
 can be tested without touching a filesystem.
 
 ⛔ THE SHARP EDGE. Writerside ``.tree`` files reference topics by **bare
@@ -22,7 +22,7 @@ import re
 # Campaigns that have transcripts but are no longer in the bot's config,
 # because they finished. Their history is still worth publishing, so they
 # are named here rather than dropped. A directory that appears in neither
-# config nor this map stops the sync — see ``resolve_campaigns``.
+# config nor this map stops the sync - see ``resolve_campaigns``.
 RETIRED = {
     "Dark_Pockets": ("C11", "Dark-Pockets"),
     "Magni_Watch": ("C04b", "Magni-Watch"),
@@ -96,4 +96,4 @@ def is_month_file(stem: str) -> bool:
 
 def title_for(code: str, campaign_slug: str, month: str) -> str:
     """Human title for the generated page and its TOC entry."""
-    return f"{code} {campaign_slug.replace('-', ' ')} — {month}"
+    return f"{code} {campaign_slug.replace('-', ' ')} - {month}"

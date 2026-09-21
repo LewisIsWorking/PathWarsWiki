@@ -2,7 +2,7 @@
 
 COVERS  page body, idempotence, pruning, the wiki-wide duplicate-topic
         guard, and tree rendering.
-MISSES  whether Writerside actually builds the result — that needs the
+MISSES  whether Writerside actually builds the result - that needs the
         Writerside toolchain, unavailable in CI. The tree is checked
         structurally and against the files on disk instead.
 PROVEN  by ``test_the_wiki_wide_guard_can_fail``.
@@ -34,7 +34,7 @@ def _archive(tmp_path):
     src = tmp_path / "pbp_logs" / "Kibwe"
     src.mkdir(parents=True)
     (src / "2026-08.md").write_text(
-        "# Kibwe — 2026-08\n\n*archived*\n\n**Ryo** (t) msg#1@2:\nhello\n",
+        "# Kibwe - 2026-08\n\n*archived*\n\n**Ryo** (t) msg#1@2:\nhello\n",
         encoding="utf-8")
     return tmp_path / "pbp_logs"
 

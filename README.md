@@ -366,17 +366,17 @@ PathWars features an extensive achievement system that rewards exceptional gamep
 The PathWars campaigns feature a complex faction system with major political organisations:
 
 **Major Factions:**
-- **Andoran & Liberty's Edge**: Led by Major Colson Maldris—freedom fighters and democratic idealists.
+- **Andoran & Liberty's Edge**: Led by Major Colson Maldris-freedom fighters and democratic idealists.
 - **Cheliax & Dark Archive**: Led by Zarta Dralneen - diabolical scholars and infernal researchers
-- **Concordance of Elements**: Led by Ashasar—elemental balance and planar stability.
+- **Concordance of Elements**: Led by Ashasar-elemental balance and planar stability.
 - **Grand Archive**: Academic pursuit and knowledge preservation
 - **Magnimar**: Led by Sheila Heidmarch - Varisian politics and regional power
-- **Osirion & Scarab Sages**: Led by Amenopheus The Sapphire Sage—ancient wisdom and desert mysteries.
+- **Osirion & Scarab Sages**: Led by Amenopheus The Sapphire Sage-ancient wisdom and desert mysteries.
 - **Sczarni Family**: Led by Guaril Karela - criminal enterprise and family loyalty
 - **Shadow**: Led by Grand Master Torch - espionage and information brokerage
 - **Silver Crusade**: Righteous crusaders against evil and corruption
-- **Taldor & Sovereign Court**: Led by Lady Gloriana Morilla—noble traditions and courtly intrigue.
-- **The Exchange Faction**: Alliance of Sczarni and Qadira—trade and profit-focused.
+- **Taldor & Sovereign Court**: Led by Lady Gloriana Morilla-noble traditions and courtly intrigue.
+- **The Exchange Faction**: Alliance of Sczarni and Qadira-trade and profit-focused.
 - **Tian-Xia/Lantern Lodge**: Eastern mysteries and foreign connections
 - **Qadira**: Led by Pasha Muhlia al'Jakri - trade routes and desert power
 

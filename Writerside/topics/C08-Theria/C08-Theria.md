@@ -1,4 +1,4 @@
-# C08: Theria — Campaign Overview
+# C08: Theria - Campaign Overview
 
 > A play-by-post chronicle of the campaign known as Theria, set on a world that was rewritten the moment the Goddess Nith M'aera was freed from her divine prison. Documented from the player side, not the GM's.
 

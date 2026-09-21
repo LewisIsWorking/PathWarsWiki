@@ -4,8 +4,8 @@ name: Sync PBP transcripts
 #
 # ⭐ This PULLS, it does not get pushed to. The bot's repo is public, so
 # this workflow can read it with no credentials at all, and it writes only
-# to its own repository using the built-in GITHUB_TOKEN. The alternative —
-# the bot pushing here — would mean storing a personal access token with
+# to its own repository using the built-in GITHUB_TOKEN. The alternative -
+# the bot pushing here - would mean storing a personal access token with
 # write access to this repo in another repo's secrets. Pulling needs no
 # new credential to exist anywhere, so that is what this does.
 #
@@ -16,7 +16,7 @@ on:
   schedule:
     # Twice a day. The transcripts change constantly, but nobody reads a
     # wiki mirror minute-to-minute, and every run that finds a change is
-    # a commit — hourly would make the history unreadable for no gain.
+    # a commit - hourly would make the history unreadable for no gain.
     - cron: '20 6,18 * * *'
   workflow_dispatch:
 
@@ -45,7 +45,7 @@ jobs:
       # out afterwards that the naming rule regressed means reviewing a
       # commit that has already renamed everything.
       - name: Test the sync logic
-        run: python -m pytest scripts/pbp_sync scripts/campaign_timeline scripts/encounter_sync -q
+        run: python -m pytest scripts/pbp_sync scripts/campaign_timeline scripts/encounter_sync scripts/test_no_em_dashes.py -q
 
       - name: Fetch the transcript archive
         run: |
@@ -78,7 +78,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # master requires an approving review, so the Actions bot cannot
-          # push to it — the first real run failed with GH006. Rather than
+          # push to it - the first real run failed with GH006. Rather than
           # ask for that protection to be weakened for the sake of a
           # generated mirror, this opens a PR and leaves the merge to a
           # human.
@@ -98,7 +98,7 @@ jobs:
           git checkout -b "$BRANCH"
           git commit -m "Sync PBP transcripts from the nudge bot"
           # Overwrites the bot's own branch only. Never touches master,
-          # and the branch is disposable by construction — its whole
+          # and the branch is disposable by construction - its whole
           # content is regenerated from the bot repo on every run.
           git push --force origin "$BRANCH"
           if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
@@ -113,7 +113,7 @@ jobs:
           # create or approve pull requests".
           #
           # ⚠️ ONLY that named condition is tolerated. Any other failure
-          # still fails the run — a step that swallows every error is how
+          # still fails the run - a step that swallows every error is how
           # a broken sync reports success for a month.
           set +e
           OUT=$(gh pr create --base master --head "$BRANCH" \

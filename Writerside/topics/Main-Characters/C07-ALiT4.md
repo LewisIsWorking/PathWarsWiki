@@ -27,7 +27,7 @@ The project’s goal was to produce a soldier capable of:
 - Calculating trajectories, blast radii, and collateral risk in real time
 - Enhancing ordnance delivery through technomantic amplification
 
-An **unexplained psychic event** during Alita’s activation caused catastrophic system irregularities—time desynchronization, arcane feedback, and partial planar resonance. When systems stabilized, ALiT4 was operational.
+An **unexplained psychic event** during Alita’s activation caused catastrophic system irregularities-time desynchronization, arcane feedback, and partial planar resonance. When systems stabilized, ALiT4 was operational.
 
 Unlike prior subjects, Alita demonstrated:
 
@@ -49,7 +49,7 @@ For three years, Alita was trained and tested as both asset and anomaly:
 - Spell-enhanced ordnance testing
 - Cognitive stress trials designed to suppress self-directed thought
 
-Despite this, Alita’s **computational and hacking aptitude** exceeded projections. She learned to interface directly with test range controls, maintenance drones, and eventually classified internal networks—quietly, methodically, and without triggering alerts.
+Despite this, Alita’s **computational and hacking aptitude** exceeded projections. She learned to interface directly with test range controls, maintenance drones, and eventually classified internal networks-quietly, methodically, and without triggering alerts.
 
 Through stolen data, she uncovered her designation, purpose, and fate.
 
@@ -81,7 +81,7 @@ Alita orchestrated a multi-stage escape:
 
 The research facility was erased from official records shortly afterward.
 
-Pursued and injured, Alita reached a sealed experimental asset: an **unstable warp gate**—never tested on living subjects.
+Pursued and injured, Alita reached a sealed experimental asset: an **unstable warp gate**-never tested on living subjects.
 
 With no remaining options, she activated it.
 
@@ -431,5 +431,5 @@ This is where the campaign begins.
 
 ## Backstory.
 
-Created as an experimental android super-soldier, Alita was never meant to succeed. An unexplained psychic event granted her both elite heavy-weapons capability and true technomantic power. When her creators failed to replicate the result, they chose to dismantle her for data. Alita escaped by destroying the facility and leaping through an unstable warp gate—emerging in a dumpling restaurant and a life she was never programmed to imagine.
+Created as an experimental android super-soldier, Alita was never meant to succeed. An unexplained psychic event granted her both elite heavy-weapons capability and true technomantic power. When her creators failed to replicate the result, they chose to dismantle her for data. Alita escaped by destroying the facility and leaping through an unstable warp gate-emerging in a dumpling restaurant and a life she was never programmed to imagine.
 

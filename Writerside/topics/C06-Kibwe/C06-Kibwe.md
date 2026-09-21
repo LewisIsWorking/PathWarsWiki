@@ -53,7 +53,7 @@ Through an elaborate ritual led by Leilani Kana, Eda Stone-Worth was reborn as t
 
 ### Return to Kibwe
 
-Eda opened a portal directly to Kibwe, and the party followed her through—only to encounter a mysterious red slime woman named **Tal'lysae**.
+Eda opened a portal directly to Kibwe, and the party followed her through-only to encounter a mysterious red slime woman named **Tal'lysae**.
 
 Who claims to serve the "Red Flame" and offers an alliance to save the city.
 
@@ -75,7 +75,7 @@ The city is known for:
 
 ### What is the Ndele Gap?
 
-The Ndélé Gap is a high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south—a vital trade route.
+The Ndélé Gap is a high-altitude pass in western Nex between the Barrier Wall to the north and the Shattered Range to the south-a vital trade route.
 
 ---
 

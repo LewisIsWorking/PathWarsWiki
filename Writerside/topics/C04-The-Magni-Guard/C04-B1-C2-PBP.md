@@ -4,9 +4,9 @@
 >> - The Lieutenant leans against his desk with arms crossed, sizing you up.
 >> - The green-black marks of the soul poisoning are visible on some of your exposed skin. After a moment he grunts.
 >> - Lieutenant Lavarsus:
->> - "Well. You didn't die. Congratulations. Don't let it go to your heads—we've got bigger problems than your brush with the afterlife."
+>> - "Well. You didn't die. Congratulations. Don't let it go to your heads-we've got bigger problems than your brush with the afterlife."
 >> - Lieutenant Lavarsus waves at the stacks of papers on his desk:
->> - "Half the city's filing missing persons reports. Some of it's panic from the garden party—people who collapsed and haven't woken, families who can't find each other in the chaos. But some of these..."
+>> - "Half the city's filing missing persons reports. Some of it's panic from the garden party-people who collapsed and haven't woken, families who can't find each other in the chaos. But some of these..."
 >> - Lieutenant Lavarsus pulls a page:
 >> - "These are from *before* the party. People who vanished weeks ago. And nobody noticed because everyone was too busy with their own problems."
 >> - Lieutenant Lavarsus shakes his head in disgust:
@@ -27,7 +27,7 @@
 
 > Lavarsus notices Akuma's expression.
 >> - Lieutenant Lavarsus:
->> - "The Graveraker. Ancient Thassilonian excavation machine. The Golemworks dug it out of a ruin up north a few years back—took them months to restore the damn thing."
+>> - "The Graveraker. Ancient Thassilonian excavation machine. The Golemworks dug it out of a ruin up north a few years back-took them months to restore the damn thing."
 >> - Lieutenant Lavarsus's expression sours further:
 >> - "Massive. Could carve through the Irespan itself if you pointed it right. Was supposed to be the pride of Magnimar's engineering showcase. Now it's gone. Vanished during the zoo chaos. Thousands of pounds of runework and someone just... walked off with it."
 >> - Lieutenant Lavarsus waves dismissively:
@@ -42,7 +42,7 @@
 >> - The reports are frustratingly vague. No bodies. No ransom demands. People simply... gone.
 
 > Lieutenant Lavarsus stands and opens the door.
->> - "The Trade House is in the Dockway, near the Bazaar of Sails. You can't miss it—it's the half-finished Minkaian building with all the yelling. Now get out of my office."
+>> - "The Trade House is in the Dockway, near the Bazaar of Sails. You can't miss it-it's the half-finished Minkaian building with all the yelling. Now get out of my office."
 
 ---
 

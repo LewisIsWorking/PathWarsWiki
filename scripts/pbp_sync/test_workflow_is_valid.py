@@ -16,7 +16,7 @@ Two bugs in one afternoon, neither findable by reading:
 
 2. The PR body contained a blank line at column 0, which **terminates a
    YAML block scalar**. The file stopped being valid YAML, and nothing
-   local would have said so — the workflow simply would not have run.
+   local would have said so - the workflow simply would not have run.
 
 ⭐ A workflow is code that only ever executes somewhere else. It gets no
 type checker, no import error, no test run. The cheapest guard available
@@ -122,7 +122,7 @@ def test_only_the_policy_failure_is_tolerated():
     """The PR step swallows one named condition and no other.
 
     "Allow GitHub Actions to create and approve pull requests" is off by
-    default, and the branch push — the actual job — has already
+    default, and the branch push - the actual job - has already
     succeeded by then, so failing the run over it would be noise. But a
     step that swallowed EVERY error is how a broken sync reports success
     for a month. The tolerance must be narrow and the error path must

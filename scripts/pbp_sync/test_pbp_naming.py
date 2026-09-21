@@ -1,4 +1,4 @@
-"""Naming rules for published transcripts — the part with the sharp edge.
+"""Naming rules for published transcripts - the part with the sharp edge.
 
 COVERS  the filename collision trap, campaign resolution in BOTH
         directions, and which files count as monthly transcripts.
@@ -10,7 +10,7 @@ PROVEN  by ``test_the_collision_guard_can_fail`` and
 filename**, resolved recursively across ``topics/``. The source archive is
 ``<Campaign>/<YYYY-MM>.md``, so **ten campaigns each own a 2026-08.md**.
 Copied across unchanged, Writerside resolves every reference to whichever
-twin it finds first — publishing one month and silently hiding nine. It
+twin it finds first - publishing one month and silently hiding nine. It
 does not error. Nothing looks wrong.
 
 ⭐ Both directions of the campaign mapping are checked, and an unmapped

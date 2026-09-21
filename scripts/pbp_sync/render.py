@@ -19,7 +19,7 @@ what a t.me deep link needs, so the noisiest part of the line turns into
 the one thing the wiki could not otherwise offer: a jump straight to the
 message in Telegram.
 
-⚠️ Message ids only exist from 2026 onward — the archiver started writing
+⚠️ Message ids only exist from 2026 onward - the archiver started writing
 ``msg#`` markers this year. Earlier lines have name and timestamp only,
 so they render without a link rather than with a broken one.
 """
@@ -46,7 +46,7 @@ def render_header(line: str, group_username: str) -> str:
 
     Unchanged-on-no-match is deliberate. A transcript line this does not
     recognise is still someone's words, and dropping or mangling it would
-    be far worse than leaving it in its raw form — which is, after all,
+    be far worse than leaving it in its raw form - which is, after all,
     exactly what every page looked like before this existed.
     """
     m = _HEADER.match(line)
@@ -68,8 +68,8 @@ def render_header(line: str, group_username: str) -> str:
 def render_body(text: str, group_username: str) -> str:
     """Rewrite every message header in a transcript, body untouched.
 
-    Only lines matching the header shape are rewritten. Everything else —
-    prose, images, week and day headings, the archiver's own notes — is
+    Only lines matching the header shape are rewritten. Everything else -
+    prose, images, week and day headings, the archiver's own notes - is
     passed through byte for byte, so the published page can never say
     something the archive did not.
     """

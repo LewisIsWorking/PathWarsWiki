@@ -303,7 +303,7 @@
 >> - Encounter started = 2025 September 12th at 12:42pm.
 >> - Round = 3.
 >> - Unacted:
->> - (none — all party members have acted)
+>> - (none - all party members have acted)
 >> - Acted:
 >> - #1 Necrila | Fighter and justice champion | @Nemesiux
 >> - #2 Professor Filiaur Bluestar | Runesmith and School of Ars Grammatica Spell Substitution wizard | @MrNegetZ

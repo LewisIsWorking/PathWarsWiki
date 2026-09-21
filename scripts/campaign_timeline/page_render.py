@@ -151,6 +151,12 @@ def bar(value: float | None, longest: float) -> str:
     return "▰" * filled + "▱" * (BAR_CELLS - filled)
 
 
+def no_em_dashes(text: str) -> str:
+    """A spaced em dash becomes " - ", any other becomes "-"."""
+    dash = chr(0x2014)
+    return text.replace(" " + dash + " ", " - ").replace(dash, "-")
+
+
 def _label(text: str) -> str:
     return text.replace('"', "#quot;")
 
@@ -231,4 +237,6 @@ def render(data: dict, months: dict[str, list[Message]],
             link = f" [↗]({m.link})" if m.link else ""
             out.append(f"- {m.at:%d %b}: {text}{link}")
         out.append("")
-    return "\n".join(out).rstrip() + "\n"
+    # Lewis, 2026-09-21: "There should be NO em dashes across any repo!" The
+    # events are the model's words, and it writes em dashes freely.
+    return no_em_dashes("\n".join(out).rstrip() + "\n")

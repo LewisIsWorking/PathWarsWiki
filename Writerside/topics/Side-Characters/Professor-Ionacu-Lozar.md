@@ -32,6 +32,6 @@ His will names the Heroes of Magnimar.
 
 ## Connections
 
-- **Keleri** — Knew her father
-- **Grandmaster Torch** — Had the party plant a tracking book on Lozar.
-- **The Jewelled Sages** — Academic rival of Amenopheus
+- **Keleri** - Knew her father
+- **Grandmaster Torch** - Had the party plant a tracking book on Lozar.
+- **The Jewelled Sages** - Academic rival of Amenopheus

@@ -12,7 +12,7 @@ bot repo; an edit made here survives exactly until the next sync.
 
 One-way by design. A two-way sync would need this repo to hold a token
 that can write to the bot's repo, and there is nothing here worth that
-risk — the wiki is a published mirror, not a second master.
+risk - the wiki is a published mirror, not a second master.
 
 Idempotent: a run that changes nothing writes nothing, so the scheduled
 workflow does not produce an empty commit every hour.
@@ -41,7 +41,7 @@ TREE_PATH = WIKI_ROOT / "Writerside" / "pbp.tree"
 # TOPICS_DIR is named rather than derived as OUT_DIR.parent.parent. The
 # derived form was correct in production and wrong under test, where
 # OUT_DIR is redirected to a tmp dir and walking up two levels landed on
-# pytest's shared root — so the guard scanned other tests' fixtures and
+# pytest's shared root - so the guard scanned other tests' fixtures and
 # the source archive. A path computed by counting parents silently means
 # something different the moment its base moves.
 
@@ -93,7 +93,7 @@ def sync(source_root: Path, config_text: str, *, prune: bool = True) -> int:
             f"Transcript directories with no campaign mapping: {unmapped}.\n"
             f"A new campaign must be added to the bot's config (preferred, "
             f"it then maps automatically) or to naming.RETIRED if it has "
-            f"finished. Refusing to sync rather than silently skip it — a "
+            f"finished. Refusing to sync rather than silently skip it - a "
             f"campaign whose history quietly fails to publish is worse "
             f"than a failed run.")
     _assert_unique(jobs)
@@ -115,7 +115,7 @@ def sync(source_root: Path, config_text: str, *, prune: bool = True) -> int:
         body = _body(raw, code, campaign_slug, month, group_username)
         # ⚠️ Stats come from RAW, never from the rendered body. Rendering
         # rewrites exactly the lines these functions match, so counting
-        # the output reports zero of everything — which it did, silently,
+        # the output reports zero of everything - which it did, silently,
         # on the first run: "0 messages" across all ten campaigns, in a
         # table that otherwise looked perfectly correct.
         by_campaign.setdefault((code, campaign_slug), []).append(
@@ -133,7 +133,7 @@ def sync(source_root: Path, config_text: str, *, prune: bool = True) -> int:
     if prune:
         # ⚠️ Prune by PATH, not by basename. When the pages moved into
         # year folders the old flat copy and the new nested one shared a
-        # name, so a name-based sweep kept both — and the duplicate-topic
+        # name, so a name-based sweep kept both - and the duplicate-topic
         # guard then failed the whole run, correctly, on files this step
         # was supposed to have removed. A name is not an identity once
         # the same name can live in two places.

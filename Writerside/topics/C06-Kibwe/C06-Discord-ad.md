@@ -1,6 +1,6 @@
 # C06-Discord-ad
 
-## Kibwe — Pathfinder 2e Play-by-Post 
+## Kibwe - Pathfinder 2e Play-by-Post 
 
 > The Story. 
 >> 1. The jungle city of Kibwe is rotting from the inside. 

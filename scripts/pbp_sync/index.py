@@ -2,10 +2,10 @@
 
 Two levels:
 
-* one page per campaign — every month it ran, with message counts, the
+* one page per campaign - every month it ran, with message counts, the
   dates covered and who spoke, so a reader can find the month they half
   remember without opening six of them;
-* one page over everything — campaigns by span and volume, and a
+* one page over everything - campaigns by span and volume, and a
   chronological view across all of them at once, which is the thing the
   per-campaign pages cannot show.
 
@@ -17,7 +17,7 @@ drifts the first time anything else changes, and nothing notices.
 from collections import defaultdict
 
 GENERATED = (
-    "> ⚠️ **Generated page — do not edit here.**\n"
+    "> ⚠️ **Generated page - do not edit here.**\n"
     "> Rebuilt from the PathWarsNudge bot's archive on every sync.\n"
     "{#generated-banner}\n\n")
 
@@ -40,7 +40,7 @@ def render_campaign_index(code: str, campaign_slug: str, months: list) -> str:
     ``months`` is a list of ``(month, dest_name, message_count, span,
     speakers)``.
     """
-    title = f"{code} {campaign_slug.replace('-', ' ')} — transcript index"
+    title = f"{code} {campaign_slug.replace('-', ' ')} - transcript index"
     total = sum(m[2] for m in months)
     lines = [f"# {title}\n", GENERATED]
     lines.append(f"**{len(months)} month(s)**, **{total:,} messages** "
@@ -48,10 +48,10 @@ def render_campaign_index(code: str, campaign_slug: str, months: list) -> str:
     lines.append("| Month | Messages | Dates covered | Voices |")
     lines.append("|---|---:|---|---|")
     for month, dest, count, span, who in sorted(months, reverse=True):
-        covered = f"{span[0]} → {span[1]}" if span else "—"
+        covered = f"{span[0]} → {span[1]}" if span else "-"
         names = ", ".join(who[:4]) + ("…" if len(who) > 4 else "")
         lines.append(f"| [{_month_name(month)}]({dest}) | {count:,} | "
-                     f"{covered} | {names or '—'} |")
+                     f"{covered} | {names or '-'} |")
     lines.append("")
     return "\n".join(lines) + "\n"
 
@@ -81,7 +81,7 @@ def render_master_index(by_campaign: dict, summaries: list) -> str:
             "Narrative summaries of what actually happened, rather than "
             "the raw logs.\n")
         for month, dest, label in sorted(summaries, reverse=True):
-            lines.append(f"- [{_month_name(month)} — {label}]({dest})")
+            lines.append(f"- [{_month_name(month)} - {label}]({dest})")
 
     lines.append("\n## Everything, month by month\n")
     lines.append(
@@ -90,7 +90,7 @@ def render_master_index(by_campaign: dict, summaries: list) -> str:
     for month, entries in sorted(_by_month(by_campaign).items(), reverse=True):
         pretty = " · ".join(
             f"[{code}]({dest})" for code, dest in sorted(entries))
-        lines.append(f"- **{_month_name(month)}** — {pretty}")
+        lines.append(f"- **{_month_name(month)}** - {pretty}")
     lines.append("")
     return "\n".join(lines) + "\n"
 
@@ -106,4 +106,4 @@ def _by_month(by_campaign: dict) -> dict:
 
 def _earliest(by_campaign: dict) -> str:
     months = [m[0] for months in by_campaign.values() for m in months]
-    return _month_name(min(months)) if months else "—"
+    return _month_name(min(months)) if months else "-"

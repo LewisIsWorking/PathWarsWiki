@@ -1,13 +1,13 @@
-# Chevron Lists v2.3.0 — Full Test Suite
+# Chevron Lists v2.3.0 - Full Test Suite
 
 Reload Window first (Ctrl+Shift+P → Reload Window)
 
 ---
 
-## TEST 1 — Outline View
+## TEST 1 - Outline View
 Open View → Outline. Sections below should appear with item counts.
-Expand OutlineTest_Alpha — should show 3 children.
-Click BetaNumbered_One — cursor should jump to that line.
+Expand OutlineTest_Alpha - should show 3 children.
+Click BetaNumbered_One - cursor should jump to that line.
 Write result:
 
 
@@ -22,7 +22,7 @@ Write result:
 
 ---
 
-## TEST 2 — File Statistics
+## TEST 2 - File Statistics
 Run: CL: Show File Statistics
 Panel should show: 8 sections (this file), item counts, word counts, avg items/section.
 Write result:
@@ -30,7 +30,7 @@ Write result:
 
 ---
 
-## TEST 3 — Insert Template
+## TEST 3 - Insert Template
 Run: CL: Insert Template → select "Session Notes"
 Should expand with Tab stops.
 Write result:
@@ -38,23 +38,23 @@ Write result:
 
 ---
 
-## TEST 4 — Search Items (Workspace)
+## TEST 4 - Search Items (Workspace)
 Run: CL: Search Items (Workspace)
-Type "AlphaItem" — should show items from this file.
+Type "AlphaItem" - should show items from this file.
 Write result:
 
 
 ---
 
-## TEST 5 — Filter Sections (Workspace)
+## TEST 5 - Filter Sections (Workspace)
 Run: CL: Filter Sections (Workspace)
-Type "Beta" — should show OutlineTest_Beta.
+Type "Beta" - should show OutlineTest_Beta.
 Write result:
 
 
 ---
 
-## TEST 6 — Colour Preset
+## TEST 6 - Colour Preset
 Run: CL: Switch Colour Preset → select "Sunset"
 Headers below should turn coral/red.
 Write result:
@@ -66,7 +66,7 @@ Run again → select "Default" to restore.
 
 ---
 
-## TEST 7 — Diagnostics
+## TEST 7 - Diagnostics
 Look at the Problems panel (View → Problems).
 The empty section below should show an Information diagnostic.
 The duplicate header should show an Information diagnostic.
@@ -87,7 +87,7 @@ Write result:
 
 ---
 
-## TEST 8 — Fix Numbering
+## TEST 8 - Fix Numbering
 Place cursor anywhere in the NumberingTest section above.
 Run: CL: Fix Numbering
 The "3. skipped two" line should correct itself to "2. skipped two".
@@ -96,10 +96,10 @@ Write result:
 
 ---
 
-## TEST 9 — Filter by Tag
+## TEST 9 - Filter by Tag
 The items below have #tags.
 Run: CL: Filter by Tag
-Select "#urgent" — should show the two urgent items with live preview.
+Select "#urgent" - should show the two urgent items with live preview.
 Write result:
 
 > TagTestSection
@@ -110,10 +110,10 @@ Write result:
 
 ---
 
-## TEST 10 — Linked Sections
-Hover over [[OutlineTest_Alpha]] — should show a preview of Alpha's items.
-Press F12 on [[OutlineTest_Alpha]] — should jump to that header.
-Hover over [[NonExistentSection]] — should show a warning.
+## TEST 10 - Linked Sections
+Hover over [[OutlineTest_Alpha]] - should show a preview of Alpha's items.
+Press F12 on [[OutlineTest_Alpha]] - should jump to that header.
+Hover over [[NonExistentSection]] - should show a warning.
 Write result:
 
 > LinksTestSection

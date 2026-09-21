@@ -61,7 +61,7 @@ You should write your character assuming they do not have their 2nd class yet as
 >> - Question: Has your character met other members of their race?
 >> - Answer: Yes, raised in high-elven aristocracy in Jinin.
 >> - Question: Does your character like your race?
->> - Answer: It's complex—she admires elven beauty and magic, but dislikes the rigid, secretive judgment of noble elders.
+>> - Answer: It's complex-she admires elven beauty and magic, but dislikes the rigid, secretive judgment of noble elders.
 >> - Question: Does your character like any races in particular? Why?
 >> - Answer: She gets along well with most civilized folk, especially those who appreciate theater and art.
 >> - Question: Does your character hate any races in particular? Why?
@@ -301,7 +301,7 @@ You should write your character assuming they do not have their 2nd class yet as
 
 > Backstory.
 >> - Question: Finally, what is your character's backstory?
->> - Answer: Melody was born into a proud, rigid high-elven noble family in Ayajinbo, the capital of Jinin, alongside her hyper-energetic older twin sister. While Melody was naturally shy and submissive, her sister constantly dragged her into dance lessons, dressing up, and theatrical performances, establishing a lifelong comfort in sparkly, expressive roles. When the family's once-a-century "Star-Kiss" ceremony arrived to bestow the inherited Imperial and Cosmos celestial power onto the firstborn daughter, her sister—unwilling to bear the rigid noble expectations—pushed Melody into the glowing ritual circle. The ancient power bonded with Melody instantly, awakening her arcane bloodline and cosmic oracle mystery. Shocked and embarrassed by a secondborn heir claiming their holy mantle, the family elders planned to sequester Melody in permanent house arrest to avoid public scandal. Aided by her sister, Melody fled the estate into the wider world, adopting the persona of "Star-Kiss Princess Melody" 24/7 to live freely as the magical girl hero she always dreamed of being.
+>> - Answer: Melody was born into a proud, rigid high-elven noble family in Ayajinbo, the capital of Jinin, alongside her hyper-energetic older twin sister. While Melody was naturally shy and submissive, her sister constantly dragged her into dance lessons, dressing up, and theatrical performances, establishing a lifelong comfort in sparkly, expressive roles. When the family's once-a-century "Star-Kiss" ceremony arrived to bestow the inherited Imperial and Cosmos celestial power onto the firstborn daughter, her sister-unwilling to bear the rigid noble expectations-pushed Melody into the glowing ritual circle. The ancient power bonded with Melody instantly, awakening her arcane bloodline and cosmic oracle mystery. Shocked and embarrassed by a secondborn heir claiming their holy mantle, the family elders planned to sequester Melody in permanent house arrest to avoid public scandal. Aided by her sister, Melody fled the estate into the wider world, adopting the persona of "Star-Kiss Princess Melody" 24/7 to live freely as the magical girl hero she always dreamed of being.
 
 > Backstory by each Year.
 >> - [TODO: Map out key years leading to level 11 based on campaign starting year]

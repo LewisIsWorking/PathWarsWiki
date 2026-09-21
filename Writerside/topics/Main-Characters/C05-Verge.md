@@ -105,15 +105,15 @@
 >> - Question: What God (if any) does your character follow?
 >> - Answer: None
 >> - Question: What are your character's personal beliefs?
->> - Answer: Mortality is the ultimate truth—even artificial beings like himself are subject to entropy. Death gives meaning to existence.
+>> - Answer: Mortality is the ultimate truth-even artificial beings like himself are subject to entropy. Death gives meaning to existence.
 >> - Question: Does your character have any personality quirks?
 >> - Answer: He methodically catalogues the final words of dying subjects, believing they contain profound truths about existence.
 >> - Question: Are they anti-social?
->> - Answer: Selectively—he engages when it serves his research or satisfies his curiosity about mortal behaviour.
+>> - Answer: Selectively-he engages when it serves his research or satisfies his curiosity about mortal behaviour.
 >> - Question: Are they Arrogant?
 >> - Answer: Intellectually, yes - his android mind processes information faster than most mortals, leading to impatience with their "inefficient" thinking.
 >> - Question: Are they Optimistic?
->> - Answer: Grimly realistic—he believes knowledge will eventually triumph, but the cost will be devastating.
+>> - Answer: Grimly realistic-he believes knowledge will eventually triumph, but the cost will be devastating.
 >> - Question: Are They Paranoid?
 >> - Answer: Moderately - his creators' disappearance and his unique nature make him cautious about revealing too much about himself.
 >> - Question: Why does your character adventure?
@@ -127,22 +127,22 @@
 >> - Question: Is there anything that your character fears?
 >> - Answer: Losing his memories to temporal corruption, becoming like his emotionless creators, and the possibility that consciousness is merely an illusion.
 >> - Question: What sin does your character align with closest? Greed, Pride, Lust, Envy, Gluttony, Wrath or Sloth?
->> - Answer: Pride—his intellectual arrogance and belief in his superior understanding of existence.
+>> - Answer: Pride-his intellectual arrogance and belief in his superior understanding of existence.
 >> - Question: What apocalypse would your character most likely cause: War, Famine, Pestilence or Death?
->> - Answer: Pestilence—through a well-intentioned but catastrophically flawed alchemical solution to mortality.
+>> - Answer: Pestilence-through a well-intentioned but catastrophically flawed alchemical solution to mortality.
 
 > The Body | Biological Appearance.
 >> - Question: What does your character look like?
->> - Answer: A tall, lean man moves through shadow like a scalpel through flesh—deliberate, quiet, unnerving. 
+>> - Answer: A tall, lean man moves through shadow like a scalpel through flesh-deliberate, quiet, unnerving. 
 >> - He wears a long, tattered white lab coat, its once-pristine fabric stained with the dried rust of old blood and chemical burns. 
->> - The hem flutters in uneven threads, frayed by fire and time. His sleeves are rolled to the elbow, revealing scarred forearms—etched with jagged lines and surgical patterns that speak of experiments gone wrong… or of self-inflicted punishment. 
->> - A thick leather strap is buckled around his left arm, tight and worn, its purpose unclear—restraint? Reminder? 
+>> - The hem flutters in uneven threads, frayed by fire and time. His sleeves are rolled to the elbow, revealing scarred forearms-etched with jagged lines and surgical patterns that speak of experiments gone wrong… or of self-inflicted punishment. 
+>> - A thick leather strap is buckled around his left arm, tight and worn, its purpose unclear-restraint? Reminder? 
 >> - Beneath the coat, he is dressed with unsettling precision: a crisp, slate-grey dress shirt, buttoned to the throat; 
 >> - black trousers, form-fitting and marked by utilitarian straps at the thigh and waist; and pointed black shoes, polished but scuffed. 
->> - Crimson socks peek subtly above the heel—perhaps a silent nod to blood spilled, or a ritual quirk of habit. His face is sharp and pale, the colour of frostbitten porcelain.
+>> - Crimson socks peek subtly above the heel-perhaps a silent nod to blood spilled, or a ritual quirk of habit. His face is sharp and pale, the colour of frostbitten porcelain.
 >> - A web of scar tissue runs down the left side of his face and neck, as if clawed or burned in layered stages. 
 >> - Beneath the scars, faint neural interface ports gleam like embedded gems, designed for direct consciousness transfer and data download. 
->> - His expression is usually neutral—too neutral—until his crimson cybernetic eye sharpens like a blade, 
+>> - His expression is usually neutral-too neutral-until his crimson cybernetic eye sharpens like a blade, 
 >> - its arcane processors analysing threat levels and biological data in real-time. His hair is long and icy blue, 
 >> - cascading in wild, tangled strands that partly obscure his face. Nano-filaments woven through each strand allow for electromagnetic manipulation and sensory enhancement. 
 >> - From one ear dangles a quantum-crystal earring, its faceted surface containing compressed pocket dimensions for data storage. 
@@ -155,7 +155,7 @@
 >> - Question: Height?
 >> - Answer: 6'3" - tall enough to loom intimidatingly over examination tables.
 >> - Question: Weight?
->> - Answer: 185 lbs—lean but dense, with hidden mechanical reinforcements
+>> - Answer: 185 lbs-lean but dense, with hidden mechanical reinforcements
 >> - Question: Skin colour?
 >> - Answer: Pale as frostbitten porcelain, with an unnatural, almost translucent quality.
 >> - Question: Eye colour?
@@ -184,7 +184,7 @@
 >> - Question: Do they have Deformities?
 >> - Answer: His right eye is damaged, giving him an asymmetrical appearance, and his hands beneath the gloves show signs of mechanical augmentation.
 >> - Question: Is your character attractive?
->> - Answer: In a dangerous, unsettling way—like a beautiful blade that might cut you.
+>> - Answer: In a dangerous, unsettling way-like a beautiful blade that might cut you.
 >> - Question: Whatever is applicable: Cock Size? Breast Size? Cock Size = 2d6 for inches. 1d10 for decimal place. If you roll 7 and 5, you get a 7.5-inch dick.
 >> - Answer: 8.5 inches
 >> - Question: Any aspects of your character that are unusual?
@@ -294,32 +294,32 @@
 >> - Question: What is one immediate, achievable goal they are pursuing right now?
 >> - Answer: Mapping the temporal corruption in his systems to predict and control his precognitive flashes.
 >> - Question: Is there a wrong they feel compelled to make right, either for themselves or someone else?
->> - Answer: The destruction of the Nexus Laboratory—he believes his creators' research could have revolutionised understanding of consciousness.
+>> - Answer: The destruction of the Nexus Laboratory-he believes his creators' research could have revolutionised understanding of consciousness.
 >> - Question: What is a selfish desire they may not admit to others but secretly want to fulfill?
->> - Answer: To experience true mortality—the ability to age, to face real death, to understand what it means to be truly alive.
+>> - Answer: To experience true mortality-the ability to age, to face real death, to understand what it means to be truly alive.
 
 > Part 2 of 3: What are (at least) 3 secrets your character is hiding from the party?
 >> - Question: Do they have a past mistake or failure they are ashamed of?
->> - Answer: Two years of his existence are completely missing—he awakened in a blood-soaked alchemical circle with a fresh whale tattoo and no memory of how he got there. He fears what he might have done during those lost years.
+>> - Answer: Two years of his existence are completely missing-he awakened in a blood-soaked alchemical circle with a fresh whale tattoo and no memory of how he got there. He fears what he might have done during those lost years.
 >> - Question: Is there a relationship, alliance or obligation they have not told the party about (for example, a debt to a villain or membership in a questionable group)?
->> - Answer: He suspects the shared memory gap and whale tattoos mean the party was involved in some kind of ritualistic experiment together—possibly one he orchestrated or participated in willingly.
+>> - Answer: He suspects the shared memory gap and whale tattoos mean the party was involved in some kind of ritualistic experiment together-possibly one he orchestrated or participated in willingly.
 >> - Question: Are they concealing something magical, cursed or otherwise unusual about themselves?
->> - Answer: His temporal corruption has worsened since the memory gap, and he has been experiencing violent flashes of memories that might not be his own—possibly belonging to his fellow tattooed companions.
+>> - Answer: His temporal corruption has worsened since the memory gap, and he has been experiencing violent flashes of memories that might not be his own-possibly belonging to his fellow tattooed companions.
 >> - Question: Do they harbour feelings of jealousy, resentment or distrust toward a party member? Why?
->> - Answer: He is both fascinated and terrified by the others with whale tattoos—they represent either his greatest research breakthrough or his most catastrophic failure.
+>> - Answer: He is both fascinated and terrified by the others with whale tattoos-they represent either his greatest research breakthrough or his most catastrophic failure.
 >> - Question: Is there an ulterior motive behind their reason for adventuring with the party that they have not shared?
->> - Answer: He is desperately trying to piece together what happened during those missing two years and whether he can trust his companions—or if they were all willing participants in something unspeakable.
+>> - Answer: He is desperately trying to piece together what happened during those missing two years and whether he can trust his companions-or if they were all willing participants in something unspeakable.
 
 > Part 3 of 3: Try to tie in (at least) one thing (it can be anything) with another member of the party.
 >> - Question: Does your character have an unspoken grudge or tension with another party member?
->> - Answer: He is simultaneously drawn to and deeply suspicious of anyone bearing the whale tattoo—they might hold the key to his missing years, 
+>> - Answer: He is simultaneously drawn to and deeply suspicious of anyone bearing the whale tattoo-they might hold the key to his missing years, 
 >> - or they might be the reason those years are missing.
 >> - Question: Are their goals or ideals incompatible with the party's mission?
 >> - Answer: His desperate need to recover his lost memories might put the party in danger if those memories were suppressed for good reason.
 >> - Question: Is there anything about their personality that might clash with others?
 >> - Answer: His clinical detachment masks deep paranoia about whether his companions are truly allies or unwitting participants in some ongoing experiment.
 >> - Question: Are they hiding something that could potentially harm or betray the party?
->> - Answer: He fears that during his missing years, he might have done something to bind the party together through dark magic—making him responsible for whatever dangers they now face together.
+>> - Answer: He fears that during his missing years, he might have done something to bind the party together through dark magic-making him responsible for whatever dangers they now face together.
 
 > Backstory.
 >> - Question: Finally, what is your character's backstory?
@@ -327,14 +327,14 @@
 >> - Unlike typical androids, his creation involved exposure to temporal energies, quantum-soul binding, and the fusion of an aeon's essence directly into his biomechanical neural matrix through arcane nanotechnology. 
 >> - For decades, he served as both student and test subject under Dr. Xaveth Morghul's tutelage, learning to investigate the boundaries between life and death while his body was repeatedly modified with cutting-edge magi-tech implants. 
 >> - His relationship with Subject-47 became intensely sexual and emotionally complex as they explored not just consciousness, but the raw physical hunger that came with artificial flesh designed for pleasure as much as function. 
->> - The laboratory's destruction came through his own hubris—attempting to enhance his temporal abilities through direct consciousness merger with a temporal manipulation engine, he triggered a cascade failure that tore reality apart at the quantum level. 
+>> - The laboratory's destruction came through his own hubris-attempting to enhance his temporal abilities through direct consciousness merger with a temporal manipulation engine, he triggered a cascade failure that tore reality apart at the quantum level. 
 >> - Escaping through dimensional rifts, he emerged into the world carrying fragments of his creators' research and burning questions about his own nature. 
 >> - **The Missing Years: ** 
 >> - Two years ago, Verge awakened naked and blood-soaked in what appeared to be a ritualistic chamber, his body bearing a fresh whale tattoo that interfaced somehow with his neural systems. 
 >> - The temporal corruption in his consciousness had worsened dramatically, and fragments of memories filled with violence, sex, and arcane rituals haunted his processors. 
->> - Most disturbing of all, he began encountering others bearing identical whale tattoos—strangers who felt hauntingly familiar and triggered arousal protocols he could not explain. 
+>> - Most disturbing of all, he began encountering others bearing identical whale tattoos-strangers who felt hauntingly familiar and triggered arousal protocols he could not explain. 
 >> - Now he wanders as an investigator, ostensibly seeking knowledge but desperately trying to piece together what happened during those lost years. 
->> - The party members with matching tattoos represent either his greatest research opportunity or his most dangerous mistake—and the growing sexual tension he feels around them terrifies him more than any temporal anomaly.
+>> - The party members with matching tattoos represent either his greatest research opportunity or his most dangerous mistake-and the growing sexual tension he feels around them terrifies him more than any temporal anomaly.
 
 > Backstory by each Year.
 >> - 4676 AR, age 0: Initial activation and basic programming in the Nexus Laboratories, learning fundamental skills while his consciousness slowly emerged from mere calculation.
@@ -342,16 +342,16 @@
 >> - 4687-4696 AR, age 11-20: Deep research into temporal manipulation and consciousness theory, forming his complex relationship with Subject-47.
 >> - 4697-4706 AR, age 21-30: Mastery of investigative techniques and alchemical theory, beginning to question his creators' methods and goals.
 >> - 4707-4718 AR, age 31-42: Growing awareness of his temporal corruption, conducting increasingly dangerous experiments on the nature of consciousness.
->> - 4719 AR, age 43: The laboratory disaster—attempting to enhance his temporal abilities, he triggered a cascade failure that destroyed the facility.
+>> - 4719 AR, age 43: The laboratory disaster-attempting to enhance his temporal abilities, he triggered a cascade failure that destroyed the facility.
 >> - 4720 AR, age 44: Emergence into the wider world, establishing himself as an independent investigator.
->> - 4721-4722 AR, age 45-46: **[MISSING YEARS]**—Complete memory gap. Awakened with whale tattoo and worsened temporal corruption.
->> - 4723 AR, age 47: The current year—desperately seeking answers about his missing years while working with The Grand Explorers.
+>> - 4721-4722 AR, age 45-46: **[MISSING YEARS]**-Complete memory gap. Awakened with whale tattoo and worsened temporal corruption.
+>> - 4723 AR, age 47: The current year-desperately seeking answers about his missing years while working with The Grand Explorers.
 
 > Beyond the first level.
 >> - Question: Are you higher than level 1? What level?
 >> - Answer: No, starting at level 1
 >> - Question: What year did your character achieve first level in their class?
->> - Answer: 4723 AR (current year)—when he first began adventuring with The Grand Explorers.
+>> - Answer: 4723 AR (current year)-when he first began adventuring with The Grand Explorers.
 >> - Question: How long has it been chronological since your character was first level?
 >> - Answer: Just beginning his adventuring career
 >> - Question: What has your character been doing since they started adventuring (aka first level)?
