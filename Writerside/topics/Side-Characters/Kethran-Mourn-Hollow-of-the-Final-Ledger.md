@@ -14,7 +14,7 @@ Kethran appears as a plague doctor statue that moves with fluid, otherworldly gr
 
 ## Demeanor
 
-Kethran speaks with precision, often citing exact times and calculations. His voice resonates from somewhere other than his throat—perhaps the staff, perhaps nowhere physical at all.
+Kethran speaks with precision, often citing exact times and calculations. His voice resonates from somewhere other than his throat-perhaps the staff, perhaps nowhere physical at all.
 
 He is obsessed with punctuality and the proper ordering of events. Being early or late both "create paperwork."
 

@@ -73,7 +73,7 @@ This motherfucker just channelled 8 different divines, and bypassed their lock.
 Selenor has Screwdriver his screw. 
 He has hammered his nail.
 He is a cup that has been filled with water. 
-"He is a vagina that ha—no too far."
+"He is a vagina that ha-no too far."
 
 Behind the door is a staircase that descends a few meters, and makes is filled with skeletons. 
 Tim says he will guard his wives' rears and stay behind.
@@ -629,11 +629,11 @@ Obo's Resolve: Driven by vengeance, Obo seeks heroes to challenge the entity tha
 >> - Obo's mother, Mobo, was the true architect of their family's legacy. 
 >> - Known as the "Twilight Wanderer", 
 >> - she wove tales of gods and stars into her trade, her devout worship of Sarenrae granting her both fortune and fervour. 
->> - Yet it was not the desert sun that claimed her life, but an entity of unfathomable power—the Living Prismatic Sphere, 
+>> - Yet it was not the desert sun that claimed her life, but an entity of unfathomable power-the Living Prismatic Sphere, 
 a living demigod born of ancient magics and unbridled wrath.
 >> - Years passed, and the grief hardened into resolve within Obo. 
 >> - His family’s connection to Sarenrae was deeper than most understood. 
->> - They bore a spiritual truth known as the Candle Soul—a fragment of divine light that had illuminated their lineage for centuries.
+>> - They bore a spiritual truth known as the Candle Soul-a fragment of divine light that had illuminated their lineage for centuries.
 >> - Obo swore to avenge his mother and unravel the mysteries of the Sphere. He knew he could not confront such an entity alone. From the depths of the Inner Sea to the towering spires of Absalom, he sought heroes with the courage to defy a living god. He offered them riches and relics, though his true gift was the promise of purpose: to confront an entity that mocked the divine order itself.
 
 > Ross / Carnon:

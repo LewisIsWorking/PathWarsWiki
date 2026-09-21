@@ -532,7 +532,7 @@ and even my creators keep saying, ‘You do not know what people would do for lo
 
 "Zilif’s love for his daughter doomed many, and yet, if she knew what he had done, she would hate him.
 Your love for your daughter, and for Camadaithe,
-filled you with so much sorrow that it drove both of you to distance yourselves—from each other and from your daughter.
+filled you with so much sorrow that it drove both of you to distance yourselves-from each other and from your daughter.
 
 "My creators’ love for each other led to my creation, but also to death.
 My father’s love for your daughter led him to call you a ‘wee girl’
@@ -546,7 +546,7 @@ Selenor's soulless eyes stare at Junima as he continues,
 "I am unable to feel this so-called love, and yet I have endured all of this.
 I know that family is important, which is why I would die for you over and over again.
 I also know that doomsday must be stopped, but my ability to choose is limited by my directives.
-Unlike you, I am a passive player in this grand game—I can only react to your choices.
+Unlike you, I am a passive player in this grand game-I can only react to your choices.
 
 "And now I ask you this, Junima: why are you crying?
 Tears won’t wash away the pain or the trauma.

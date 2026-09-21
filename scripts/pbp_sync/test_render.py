@@ -1,6 +1,6 @@
 """Rendering a transcript must change headers and nothing else.
 
-COVERS  ``render`` — header rewriting, permalinks, the pre-2026 shape
+COVERS  ``render`` - header rewriting, permalinks, the pre-2026 shape
         with no message id, and the stats functions the index pages use.
 MISSES  whether the result reads nicely. A human judges that; a test can
         only check nothing was lost on the way.
@@ -9,12 +9,12 @@ PROVEN  by ``test_the_untouched_guarantee_can_fail``.
 ────────────────────────────────────────────────────────────────────────
 
 ⭐ The one guarantee that matters: **only message headers change.** Prose,
-images, week and day headings, the archiver's own notes — all pass
+images, week and day headings, the archiver's own notes - all pass
 through byte for byte, so a published page can never say something the
 archive did not. Every test here is ultimately about that.
 
 ⚠️ And the trap found on the first real run. ``count_messages`` matches
-the RAW header shape, so counting a *rendered* body returns zero — which
+the RAW header shape, so counting a *rendered* body returns zero - which
 is exactly what the index pages published: "0 messages" across all ten
 campaigns, in a table that was otherwise perfectly formatted and looked
 entirely finished. Stats must be taken from the source, and

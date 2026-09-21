@@ -1,4 +1,4 @@
-# C11 Dark Pockets — PBP Log
+# C11 Dark Pockets - PBP Log
 
 > All play-by-post messages logged chronologically.
 > Format: [Date Time] Speaker: Message
@@ -10,18 +10,18 @@
 [14/03/26 09:14] Path Wars: Location: The town of River Way, in the shadow country of Nidal.
 [14/03/26 09:15] Path Wars: It's 13:00.
 [14/03/26 09:16] Path Wars: The party consists of:
-[14/03/26 09:16] Path Wars: @JackGrah — Noel, who goes by his stage name of "Mr Serious". He's a fetchling polymath-bard BattleDancer-Swashbuckler.
-[14/03/26 09:18] Path Wars: @NitNatty — Feyra. An elven Psychic Witch who has been rejected by elvenkind. Spending her time using her keen mind and elven memory to do archival work in the Temple of Zon-Kuthon.
-[14/03/26 09:19] Path Wars: Paddy — "Ger". A skeleton who a few years ago awoken after sleeping for hundreds, potentially even thousands of years. He is a decay-rage barbarian monk. Upon his self-destroyed coffin lid only 3 letters of his real name remain: "ger".
-[14/03/26 09:21] Path Wars: @cmavb — Atticus. An automaton ranger rogue. This automaton fought in the centuries long battles and conflicts that Nidal has fought on its borders before going into a long deep isolation in the Dusk Forest of Northern Nidal before a certain nightmare dragon stumbled upon him...
-[14/03/26 09:27] Path Wars: @Sparkleslayer — Nariya. Vampire Nightmare Dragon Untamed-Druid Dual Gate of Fire and Water kineticist. An elemental storm raged around Nariya when they were still in their egg causing them to be attuned to two of the elemental planes despite their connection to the world of sleeping nightmares. Nariya would find themselves in Dusk Forest where a grove of Druids who wield the power of Untamed primal magic would teach Nariya to use her elemental connections to also touch and commune with the spirits of the forest, becoming an Untamed druid herself. Later Nariya would tame a vampire bat, taking it as her familiar but not before it bit her, causing Nariya to become a vampire, another layer of complexity to an already complex existence. Nariya would later meet Atticus and find the Grief Glass, causing the chain of events of the campaign to follow...
+[14/03/26 09:16] Path Wars: @JackGrah - Noel, who goes by his stage name of "Mr Serious". He's a fetchling polymath-bard BattleDancer-Swashbuckler.
+[14/03/26 09:18] Path Wars: @NitNatty - Feyra. An elven Psychic Witch who has been rejected by elvenkind. Spending her time using her keen mind and elven memory to do archival work in the Temple of Zon-Kuthon.
+[14/03/26 09:19] Path Wars: Paddy - "Ger". A skeleton who a few years ago awoken after sleeping for hundreds, potentially even thousands of years. He is a decay-rage barbarian monk. Upon his self-destroyed coffin lid only 3 letters of his real name remain: "ger".
+[14/03/26 09:21] Path Wars: @cmavb - Atticus. An automaton ranger rogue. This automaton fought in the centuries long battles and conflicts that Nidal has fought on its borders before going into a long deep isolation in the Dusk Forest of Northern Nidal before a certain nightmare dragon stumbled upon him...
+[14/03/26 09:27] Path Wars: @Sparkleslayer - Nariya. Vampire Nightmare Dragon Untamed-Druid Dual Gate of Fire and Water kineticist. An elemental storm raged around Nariya when they were still in their egg causing them to be attuned to two of the elemental planes despite their connection to the world of sleeping nightmares. Nariya would find themselves in Dusk Forest where a grove of Druids who wield the power of Untamed primal magic would teach Nariya to use her elemental connections to also touch and commune with the spirits of the forest, becoming an Untamed druid herself. Later Nariya would tame a vampire bat, taking it as her familiar but not before it bit her, causing Nariya to become a vampire, another layer of complexity to an already complex existence. Nariya would later meet Atticus and find the Grief Glass, causing the chain of events of the campaign to follow...
 [15/03/26 10:18] Path Wars: You've just explored the ghettos.
 [15/03/26 10:19] Path Wars: You've found out and heard a lot of different rumours and hearsay. Whether or not it's all true is unclear.
 [16/03/26 09:59] Path Wars: Would anyone like to do anything?
 
 ---
 
-## Session 04 — Candle Factory Part 1
+## Session 04 - Candle Factory Part 1
 
 [31/03/26 02:32] Path Wars: To clarify where the party are now, you are all in the candle/illumination factory. The land of shadow needs a lot of light equipment. You unlocked the outer gate. You made your way into the lobby. Checked out the gift shop. Found a storage room that had been converted to a living quarters with a pop-up bed and such. You went back, through the lobby, found an electrified door, and Ger opened it. Then you all went down the hallway and into the factory itself. Where you then found the corpse of a businesswoman.
 [31/03/26 02:32] Path Wars: In packing room #1.
@@ -38,7 +38,7 @@
 
 ## Session 05
 
-[03/04/26 04:54] Path Wars: — Session 05 —
+[03/04/26 04:54] Path Wars: - Session 05 -
 [03/04/26 04:54] Path Wars: After beating Quiz the Light-Fey, Ger is laying injured, nearly killed on the ground.
 [03/04/26 04:54] Path Wars: 10 minutes: Atticus fails to heal.
 [03/04/26 04:54] Path Wars: 10 more minutes: Atticus heals Ger for 32 healing (5 damage).
@@ -77,7 +77,7 @@
 
 ## Session 06
 
-[18/04/26 09:28] Path Wars: 📍 C11: Dark Pockets — Current Situation. Time: 1:00am. Location: Nisroch Candle Factory basement. The party has fully explored the factory and defeated Quiz, the light-slinger fey who was using it as a base of operations. Three people have been recovered from the cocoons alive. Olla Grey — Lucian's daughter. She is conscious but changed. Nariya's nature check confirms it is shadow magic, very similar to Shadow Throat, but something deeper. She looks fetchling-like. Derek and Zara are also alive, though less visibly affected. The corpse of Catlin (the factory owner) is in the building. Catlin's body shows signs of accelerated Shadow Throat. The party has 110 GP worth of harvestable essences from the basement. Options on the table: Return Olla to her father Lucian / Investigate the sacrificed corpses further / Head to the Temple of Zon-Kuthon to speak to Ardak / Rest, it is 1am.
+[18/04/26 09:28] Path Wars: 📍 C11: Dark Pockets - Current Situation. Time: 1:00am. Location: Nisroch Candle Factory basement. The party has fully explored the factory and defeated Quiz, the light-slinger fey who was using it as a base of operations. Three people have been recovered from the cocoons alive. Olla Grey - Lucian's daughter. She is conscious but changed. Nariya's nature check confirms it is shadow magic, very similar to Shadow Throat, but something deeper. She looks fetchling-like. Derek and Zara are also alive, though less visibly affected. The corpse of Catlin (the factory owner) is in the building. Catlin's body shows signs of accelerated Shadow Throat. The party has 110 GP worth of harvestable essences from the basement. Options on the table: Return Olla to her father Lucian / Investigate the sacrificed corpses further / Head to the Temple of Zon-Kuthon to speak to Ardak / Rest, it is 1am.
 [18/04/26 09:29] Path Wars: There are some alchemical supplies in the factory.
 [18/04/26 09:41] Jack Graham: Mr Serious is getting more aggressive because he can't maintain his erections.
 [18/04/26 09:42] Path Wars: Olla, the small child, she is barely awake and looks at you confused. Swimming in and out of consciousness.
@@ -94,7 +94,7 @@
 [18/04/26 10:00] Path Wars: Olla tries to stand but falls, knees weak, arms are heavy.
 [18/04/26 10:01] Patrick Cox: Ger looks at little child. Ger thinks sheriff is about to make him a very rich man.
 [18/04/26 10:01] Path Wars: Ger, you feel a strange otherworldly connection with Olla.
-[18/04/26 10:06] Path Wars: Ger, you are unsure BUT — Ger's void shell contains shadow magic. The same type/flavour/energy is the same power implanted within Olla now.
+[18/04/26 10:06] Path Wars: Ger, you are unsure BUT - Ger's void shell contains shadow magic. The same type/flavour/energy is the same power implanted within Olla now.
 [18/04/26 10:08] Path Wars: Hero point reroll. Critical success.
 [18/04/26 10:08] Path Wars: Ger: Olla is changing, evolving. Shadow energy from the shadow pact turned the aeon people to become fetchlings. This is a deeper, more pure infusion of planar shadow magic. NOT the same magic as Zon-Kuthon.
 [18/04/26 10:13] Patrick Cox: Ger lets group know that Olla is becoming fetchling.
@@ -121,7 +121,7 @@
 [18/04/26 10:36] Path Wars: You hear a plop plop plop sound.
 [18/04/26 10:37] Path Wars: From the walls, red slime squeezes itself, oozing through the walls.
 [18/04/26 10:38] Natasha Nesbit: "Mr Serious, stop leaving a mess."
-[18/04/26 10:39] Natasha Nesbit: Feyra thinks to herself — it didn't look like that before.
+[18/04/26 10:39] Natasha Nesbit: Feyra thinks to herself - it didn't look like that before.
 [18/04/26 10:39] Path Wars: The being forms themselves.
 [18/04/26 10:40] Patrick Cox: "Great, something else to kill."
 [18/04/26 10:40] Path Wars: The voice, as it speaks now, is the same voice as the shadowy figure from the bar whom Nariya spoke to earlier.
@@ -162,7 +162,7 @@
 [18/04/26 10:54] Natasha Nesbit: "That is of no concern to you."
 [18/04/26 10:54] Path Wars: Tal'lysae: "You know nothing of your past? I must admit, I know not of your past, but... the aeon stone... such mastery of the old magics is not something to be ignored."
 [18/04/26 10:57] Path Wars: Tal'lysae: "I wish to follow. The shadow rift is of great interest to my master."
-[18/04/26 10:57] Patrick Cox: "This aeon stone" — Ger looks at the floating object round his head — "what the fuck is it?"
+[18/04/26 10:57] Patrick Cox: "This aeon stone" - Ger looks at the floating object round his head - "what the fuck is it?"
 [18/04/26 10:57] Natasha Nesbit: "Who is your master?"
 [18/04/26 10:57] Path Wars: Tal'lysae: "If you search your mind... Would you allow me to touch your forehead?"
 [18/04/26 10:58] Natasha Nesbit: "Why not, weirder things have happened."
@@ -200,7 +200,7 @@
 [18/04/26 11:18] Natasha Nesbit: Feyra feels unsettled but wants to find out more.
 [18/04/26 11:18] Path Wars: The party can leave the factory and make their way to the sheriff's house.
 [18/04/26 11:19] Path Wars: Tal'lysae: "Spreading the flame is my goal."
-[18/04/26 11:19] Patrick Cox: "Teach you how to die, if you know all prove it — tell me my name before you go."
+[18/04/26 11:19] Patrick Cox: "Teach you how to die, if you know all prove it - tell me my name before you go."
 [18/04/26 11:19] Path Wars: Tal'lysae: "This I could assist with. It would provide me with important data."
 [18/04/26 11:20] Natasha Nesbit: We go, and Feyra says "I accept your guidance."
 [18/04/26 11:26] Path Wars: The perception filter has started to be broken down by this knowledge. You start to realise that a lot of your mind has been stripped out and made into psychic bricks.
@@ -210,11 +210,11 @@
 [18/04/26 11:35] Path Wars: You think upon this... A curse can be confused for a blessing, and vice versa.
 [18/04/26 11:36] Patrick Cox: Ger gets a big grin, almost monster-like. "Leader... general... I like that. Ger likes that very much."
 [18/04/26 11:37] Patrick Cox: Ger tries to think where his swarm would be strongest.
-[18/04/26 11:38] Natasha Nesbit: Feyra mentions to Ger — we could go talk to the priest while I work with this slime to find my mind.
+[18/04/26 11:38] Natasha Nesbit: Feyra mentions to Ger - we could go talk to the priest while I work with this slime to find my mind.
 [18/04/26 11:53] Path Wars: Rino gets a 32 trained survival check to help Ger find where his swarm master power seems strongest.
 [18/04/26 11:56] Path Wars: Rino eats some dirt and determines that Ger's swarm seems most pulled towards the River of River-Way.
 [18/04/26 11:57] Natasha Nesbit: Feyra suggests bringing Olla home first and then going to the river and the church.
-[18/04/26 11:58] Patrick Cox: Ger gives Rino his favourite spider — Toomanylegs.
+[18/04/26 11:58] Patrick Cox: Ger gives Rino his favourite spider - Toomanylegs.
 [18/04/26 12:01] Luke Skillen: Rino pulls the legs off the spider and leaves it.
 [18/04/26 12:02] Patrick Cox: "Tofewlegs now."
 [18/04/26 12:03] Path Wars: Tal'lysae watches and says nothing.

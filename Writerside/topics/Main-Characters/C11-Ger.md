@@ -12,7 +12,7 @@
 >> - He had no name and no memory.
 >> - When attempts to break out of his coffin failed, the unnamed skeleton tried to use his void shell to communicate with anything that might help.
 >> - The bugs inside and around the coffin initially rejected his control.
->> - Eventually they relented — eating through the wood to nest inside him.
+>> - Eventually they relented - eating through the wood to nest inside him.
 >> - With his new swarm in place, Ger used his raw strength to burst the coffin open.
 >> - The front panel flew off.
 >> - Reading the remains of the lid, he found three letters carved in Shadowtongue: "ger."

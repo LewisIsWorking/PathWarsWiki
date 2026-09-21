@@ -225,7 +225,7 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Born into the rigid and Machiavellian nobility of Caliphes, Evonor Essora embodied their discipline and ambition. 
 >> - His life was predestined as a Hell knight of the Gate. 
 >> - Trained in the doctrines of Asmodean law and infernal contracts, he became a beacon of order amidst Ustalav's ever-present corruption. 
->> - Despite his rigid exterior, he harboured a passionate soul of which yearned for something more than duty and order—he yearned for love. 
+>> - Despite his rigid exterior, he harboured a passionate soul of which yearned for something more than duty and order-he yearned for love. 
 >> - That love came in the form of Lady Anamerie Calavastus, the daughter of a rival noble family deeply entrenched in Pharasma's faithful. 
 >> - Their connection was instantaneous and intense, a forbidden spark that defied the oppressive strictures of their lives. 
 >> - Nonetheless, they pursued each other in secret. 
@@ -247,13 +247,13 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Reanimated as a mindless revenant, Evonor-Zander served as a vessel of death, an unthinking husk. 
 >> - Yet each soul it claimed, each fragment of divine essence consumed, gradually restored the shattered spirit. 
 >> - Memories of the entire past flooded Zander, but only pieces reached Evonor. 
->> - What little he claimed felt like burning shame, the desperate cries of his mother—above all, the unyielding devotion he bore for Anamerie.  
+>> - What little he claimed felt like burning shame, the desperate cries of his mother-above all, the unyielding devotion he bore for Anamerie.  
 >> - When Evonor fully gained consciousness, his first sensations were the whispers of Zander. 
 >> - The sly and enigmatic fiend claimed to have stayed by his side even in undeath. 
 >> - The devil offered comfort and direction, helping Evonor piece together the shards of his past while carefully omitting the truth of his betrayal. 
 >> - Zander's motives, as always, were layered and opaque. 
 >> - He deflected inquiries about missing memories, weaving half-truths about the events leading to his death and their shared fall from grace. 
->> - Yet he spoke of purpose, redemption and love in terms that Evonor—adrift and desperate—was willing to believe. 
+>> - Yet he spoke of purpose, redemption and love in terms that Evonor-adrift and desperate-was willing to believe. 
 >> - When his mind and heart fully reawakened, he abandoned his dark master and sought absolution. 
 >> - Wandering across the Inner Sea, he searched tirelessly for Anamerie's soul, praying she had found peace. 
 >> - His journey led him to Geb, where he uncovered astonishing truths…
@@ -289,7 +289,7 @@ Learning about the dangers of the world as she hones her practical skills.
 > The Revenant and His Legacy. 
 >> - As Evonor Essora, now Lire, roams the lands in search of Selenor, the man who gave Anamerie her second chance, his path takes him through a bustling coastal port in Andoran. 
 >> - There, amidst the cacophony of street vendors and the crashing of waves, he encounters a presence that stops him in his tracks. 
->> - Ellene, a young half-elf woman—bold and sharp-witted—moves through the crowd with a grace that seems achingly familiar. 
+>> - Ellene, a young half-elf woman-bold and sharp-witted-moves through the crowd with a grace that seems achingly familiar. 
 >> - When her eyes briefly meet his, "Lire" is struck by a pang of recognition. 
 >> - Something in her gaze, a mischievous light and a spark of defiance, reminds him of Anamerie. 
 >> - Unbeknownst to both Lire and Ellene, she is a distant descendant of their only child, born in secret and left behind after their tragic deaths.
@@ -300,7 +300,7 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Though he retains his martial prowess and the disciplined demeanour of a Hell knight, his heart now burns with empathy and compassion. 
 >> - He strives to help others escape the chains of tragedy, often placing himself in danger to shield those who suffer.
 >> - His quest to meet Selenor is not born of jealousy but curiosity and gratitude. 
->> - He sees the man as a kindred spirit—someone who defied mortality to create something beautiful from ruin. 
+>> - He sees the man as a kindred spirit-someone who defied mortality to create something beautiful from ruin. 
 >> - Above all, Evonor seeks to craft a new legacy, one not of mourning and regret but of redemption and love.
 
 > Potential Hooks
@@ -317,7 +317,7 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Anamerie's Knowledge: When Evonor eventually reunites with Anamerie, she may reveal that she always hoped their child's bloodline survived, adding another layer of poignancy to their reunion.
 >> - Devoted Yet Haunted: Evonor's love for Anamerie and his desire to redeem his life's tragedy fuel his actions, but the shadow of his missing memories gnaws at him. 
 >> - He is torn between trust in Zander and the growing realisation that the devil may not have his best interests at heart.
->> - Blood Rituals and Suspicion: While some view Evonor's blood collection as symbolic, others—particularly clerics of Pharasma—may see it as blasphemous or sinister. 
+>> - Blood Rituals and Suspicion: While some view Evonor's blood collection as symbolic, others-particularly clerics of Pharasma-may see it as blasphemous or sinister. 
 >> - His actions could draw the ire of divine agents or inquisitors.
 
 > Plot hooks.
@@ -333,11 +333,11 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - 3: Protecting Ellene and Preserving His Bloodline.
 >> - The revelation of Ellene Verelli as his descendant ignites a new sense of purpose. 
 >> - Though fiercely independent, Ellene's safety becomes paramount to "Lire". 
->> - Ensuring her survival—and her ability to choose her path—is an indirect way of redeeming his failure to protect his family. 
+>> - Ensuring her survival-and her ability to choose her path-is an indirect way of redeeming his failure to protect his family. 
 >> - 4: Becoming a Divine Servant of Naderi Serving as Naderi's champion and spreading her message of healing and acceptance to those broken by loss has become a cornerstone of Lire's journey. 
 >> - He wants his second chance at existence to embody the goddess's ideals, transforming him into a beacon of hope amidst the tragedies of Golarion. 
 >> - 5: Confronting the Whispering Way and Breaking Their Hold.
->> - "Lire" feels a profound responsibility to free himself—and others like him—from the Whispering Way's grip. 
+>> - "Lire" feels a profound responsibility to free himself-and others like him-from the Whispering Way's grip. 
 >> - Though his actions are often personal and focused on love, he recognises that standing against this cabal of necromancers is a broader necessity for peace and justice.
 >> - 6: Was given a wanted poster...
 
@@ -366,7 +366,7 @@ Learning about the dangers of the world as she hones her practical skills.
 >> - Level 10: 4623 AR, age 38: The romance between Evonor and Anamerie deepens as they meet secretly. 
 >> - Zander begins manipulating their correspondence, subtly encouraging conflict between their families.
 >> - Level 10: 4625 AR, age 40: Evonor and Anamerie elope, defying their families' wishes. 
->> - The affair is discovered, leading Lord Malvus Calavastus—Anamerie's brother—to demand a duel. 
+>> - The affair is discovered, leading Lord Malvus Calavastus-Anamerie's brother-to demand a duel. 
 >> - Evonor is fatally wounded, dying in Anamerie's arms. 
 >> - That night, Anamerie takes her own life in grief. 
 >> - The tale of their tragedy becomes known as the “Twilight of Two Houses.”

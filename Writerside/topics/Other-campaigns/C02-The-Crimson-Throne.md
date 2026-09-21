@@ -107,7 +107,7 @@ it looks like the Heroes of Korvosa much trust in their patron having goals that
 
 ## THE SPIRIT’S SONG.
 
-Fate of steel—Serithtial
+Fate of steel-Serithtial
 Her cage for years sustained.
 
 Four enthralled in lost Scarwall;

@@ -11,7 +11,7 @@
 ## The State of Kibwe
 
 When the party entered the city, they found:
-- Guard towers unmanned—massive slimes had fused with the defensive walls.
+- Guard towers unmanned-massive slimes had fused with the defensive walls.
 - Small hamlets, stables and markets outside the walls destroyed or deserted.
 - Streets nearly empty; only non-human corpses visible.
 - Shops shuttered, market stalls abandoned.
@@ -32,7 +32,7 @@ When the party entered the city, they found:
 3. The triceratops screamed and snapped its harness
 4. A Pharasmin dwarf attempted to calm the beast but was impaled
 5. The merchant slime grabbed the dying dwarf
-6. The dwarf's divine spirit was absorbed—the slime evolved into a **White Flame Slime**
+6. The dwarf's divine spirit was absorbed-the slime evolved into a **White Flame Slime**
 7. The dwarf's corpse is now embedded in the slime's core
 
 **Current Situation:**

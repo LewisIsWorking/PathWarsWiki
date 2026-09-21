@@ -14,7 +14,7 @@ Tal'lysae is a mysterious red slime-woman who appeared before the party when the
 
 ## Appearance
 
-Tal'lysae's form is a disturbing amalgamation—a red, flaming blobby shape with internal components (what may once have been bones and flesh) swirling around her form. She occasionally gurgles and her form shivers and vibrates when agitated.
+Tal'lysae's form is a disturbing amalgamation-a red, flaming blobby shape with internal components (what may once have been bones and flesh) swirling around her form. She occasionally gurgles and her form shivers and vibrates when agitated.
 
 ---
 
@@ -41,7 +41,7 @@ Through telepathic communion, the demon lord Pidge shared information about Tal'
 - Far older than Pidge himself
 - Has "bathed in the blood of a billion, billion worlds"
 - Committed horrors beyond description
-- Wrote it all down in a book—"the chronicler"
+- Wrote it all down in a book-"the chronicler"
 - His great-grandson created Lorn
 
 Pidge believes serving this entity may be preferable to the "far worse fate" coming in ten years.

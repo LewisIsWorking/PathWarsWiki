@@ -17,7 +17,7 @@ from page_render import (area_in_game, build_visits, duration,  # noqa: E402
                          group_areas, in_game_hours, render)
 from scenes import build_prompt, parse_reply, validate  # noqa: E402
 
-MONTH = """# Magni Guard — 2026-06
+MONTH = """# Magni Guard - 2026-06
 
 *PBP transcript archived by PathWarsNudge bot.*
 
@@ -292,3 +292,13 @@ def test_a_delegate_timeout_kills_the_call_and_counts_as_no_reply(monkeypatch):
     reply, _model = extract.ask("prompt")
     assert reply == ""
     assert killed and killed[0][:3] == ["taskkill", "/PID", "4242"]
+
+
+def test_the_page_carries_no_em_dashes():
+    """The model writes them freely in events; Lewis wants none anywhere."""
+    dash = chr(0x2014)
+    data = _data()
+    data["months"]["2026-06"]["scenes"][0]["events"][0]["text"] = "Doopa waves " + dash + " then runs"
+    page = render(data, {"2026-06": _msgs()})
+    assert dash not in page
+    assert "Doopa waves - then runs" in page

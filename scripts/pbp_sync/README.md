@@ -1,4 +1,4 @@
-# pbp_sync — publishing the play-by-post archive
+# pbp_sync - publishing the play-by-post archive
 
 Copies the PathWarsNudge bot's transcript archive into this wiki as a
 Writerside instance.
@@ -12,7 +12,7 @@ the next sync and no longer. To correct a transcript, fix it in
 ## What was already true
 
 The bot has been archiving **every** play-by-post message since
-**2023-08** — 173 monthly files across 11 campaign directories, roughly
+**2023-08** - 173 monthly files across 11 campaign directories, roughly
 79,000 lines. Nothing needed to start; this only publishes it.
 
 ## Running it by hand
@@ -27,7 +27,7 @@ python scripts/pbp_sync/sync.py \
   --config /tmp/botrepo/config.json
 ```
 
-Idempotent — a run that changes nothing writes nothing. `.github/workflows/sync-pbp-transcripts.yml`
+Idempotent - a run that changes nothing writes nothing. `.github/workflows/sync-pbp-transcripts.yml`
 does the same twice a day and commits only on a real change.
 
 ## What the pages look like
@@ -43,7 +43,7 @@ needs, and thirteen digits of ids. Published, that becomes
 
 ⭐ The id is not dropped, it is **spent**: those two numbers are exactly
 what a `t.me` deep link needs, so the noisiest part of the line becomes
-the one thing the wiki could not otherwise offer — a jump straight to the
+the one thing the wiki could not otherwise offer - a jump straight to the
 message. Ids only exist from 2026, so earlier lines render without a link
 rather than with a broken one.
 
@@ -66,7 +66,7 @@ by bare filename and does not care where they sit.
 across `topics/`. The source archive is `<Campaign>/<YYYY-MM>.md`, so ten
 campaigns each own a file called `2026-08.md`. Copied across unchanged,
 Writerside would point every reference at whichever twin it found first,
-publishing one month and silently hiding nine — with no error.
+publishing one month and silently hiding nine - with no error.
 
 Every published page is therefore named
 `<code>-<Campaign>-PBP-<YYYY-MM>.md`, and `sync` refuses to write at all
@@ -99,5 +99,5 @@ actually fail.
 - **Message IDs only exist from 2026 onward.** Earlier entries carry name
   and timestamp but no `msg#<id>@<thread>` marker, because the archiver
   added them in 2026. Nothing can backfill them.
-- Writerside itself is not built here — the toolchain is not available in
+- Writerside itself is not built here - the toolchain is not available in
   CI, so `pbp.tree` is checked structurally rather than compiled.

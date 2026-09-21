@@ -1,7 +1,7 @@
 """Building one published page from one archived month.
 
 Extracted from ``sync.py`` on 2026-08-17 at 278 lines. ``sync`` keeps the
-orchestration — what to publish, in what order, and what to delete — and
+orchestration - what to publish, in what order, and what to delete - and
 this answers the narrower question of what a single page looks like.
 """
 
@@ -11,7 +11,7 @@ from naming import title_for
 from render import render_body
 
 BANNER = (
-    "> ⚠️ **Generated page — do not edit here.**\n"
+    "> ⚠️ **Generated page - do not edit here.**\n"
     "> This transcript is archived automatically by the PathWarsNudge bot\n"
     "> and copied into the wiki. Any change made on this page is lost on\n"
     "> the next sync. Fix it in the bot's `data/pbp_logs/` instead.\n"
@@ -27,7 +27,7 @@ def _body(raw: str, code: str, campaign_slug: str, month: str,
     this took a path the caller had nothing but the rendered output to
     count, and counted zero.
 
-    The source's own ``# Campaign — YYYY-MM`` heading is dropped so the
+    The source's own ``# Campaign - YYYY-MM`` heading is dropped so the
     page has exactly one H1, which is what Writerside wants.
 
     Only message *headers* are rewritten (see ``render``); every other

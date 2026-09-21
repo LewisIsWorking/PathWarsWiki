@@ -46,20 +46,20 @@ Leilani Kana led a ritual to restore Eda "Curse Breaker" Stone-Worth to physical
 
 As Tarsus and Kieran wove their threads of the ritual into completion, the primal harmonies converged upon Leilani with inexorable purpose. She stood at the nexus of forces both divine and primordial, her very essence becoming the conduit for something far greater than mere spellcraft.
 
-The phoenix fire that had once consumed her death now blazed anew within her veins—not as borrowed power, but as inheritance rightfully claimed.
+The phoenix fire that had once consumed her death now blazed anew within her veins-not as borrowed power, but as inheritance rightfully claimed.
 
 When silence finally reclaimed the chamber, it carried within it the weight of completed destiny. The debt had been paid.
 
 ### Curse Breaker Awakens
 
-Eda "Curse Breaker" Stone-Worth's body—previously burned to ash in the fire of the phoenix—reformed in blinding golden light.
+Eda "Curse Breaker" Stone-Worth's body-previously burned to ash in the fire of the phoenix-reformed in blinding golden light.
 
 **Eda Stone-Worth The Curse Breaker:**
 > "I must return to the temple of the sun. Those who must be purged are there. And I must connect myself to the city once more."
 
 Without hesitation, Eda turned and walked *through* a wall, shattering it and leaving a massive Eda-shaped gap. In the courtyard, she opened a portal to Kibwe.
 
-Through the portal, the party glimpsed the impossibly tall walls of Kibwe—a portal home! But standing on the other side was a female red slime woman.
+Through the portal, the party glimpsed the impossibly tall walls of Kibwe-a portal home! But standing on the other side was a female red slime woman.
 
 **Daichi Kenshin** grabbed Theron and threw him through the portal:
 > "Well, at least the return trip will be less tedious. Come on people, do not just stand around! Let us follow the curse breaker."
@@ -72,23 +72,23 @@ Through the portal, the party glimpsed the impossibly tall walls of Kibwe—a po
 
 ### The Red Slime Woman
 
-The party emerged from the portal to find Eda confronting a strange red slime woman—**Tal'lysae**.
+The party emerged from the portal to find Eda confronting a strange red slime woman-**Tal'lysae**.
 
 ### Kieran's Communion
 
-As Kieran observed Eda, he felt an ancient presence speak directly into his mind—**Pidge**.
+As Kieran observed Eda, he felt an ancient presence speak directly into his mind-**Pidge**.
 
 Pidge revealed lore that mortals are rarely meant to hear:
 
 > "Time has existed for longer than you can imagine. Time has gone through cycles of birth and rebirth. Few survive. I am one of those few."
 
-Pidge spoke of an entity far older than himself who had committed horrors beyond description—then written it all down in a book. This being's great-grandson created Lorn.
+Pidge spoke of an entity far older than himself who had committed horrors beyond description-then written it all down in a book. This being's great-grandson created Lorn.
 
 Pidge urged the party to accept alliance with this entity's servants or face a far worse fate in ten years' time.
 
 ### Tal'lysae Speaks
 
-Tal'lysae revealed her nature—her divine spirit had died, and in that moment of death, she was saved and chosen to become an angel of the Red Flame.
+Tal'lysae revealed her nature-her divine spirit had died, and in that moment of death, she was saved and chosen to become an angel of the Red Flame.
 
 **Lorn:**
 > "You served one of the flames, didn't you?! By saying your divine spirit being dead you mean... that you are not of this cycle, are you?"
@@ -140,7 +140,7 @@ The party agreed to work together to save Kibwe.
 
 ### Entering Kibwe
 
-Kieran led the party toward the city. Guard towers were unmanned—massive slimes had fused with the defensive walls.
+Kieran led the party toward the city. Guard towers were unmanned-massive slimes had fused with the defensive walls.
 
 Tal'lysae guided them around the walls for over 30 minutes, through a service trapdoor and tunnels. At a magically-locked door, **Eda** simply turned it to ash:
 > "The temple is calling me. I must go swiftly."
@@ -149,7 +149,7 @@ Eda sprinted ahead with impossible speed, disappearing toward the Archive of the
 
 ### The City Transformed
 
-The streets were nearly empty—only non-human corpses visible. No humans in sight. Shops shuttered. Burning buildings throughout the city. Distant screams cut off with wet gurgles.
+The streets were nearly empty-only non-human corpses visible. No humans in sight. Shops shuttered. Burning buildings throughout the city. Distant screams cut off with wet gurgles.
 
 **Fierce Leopard Cyrus:**
 > "This is worse than I could have imagined. How could it have progressed so quickly?"
@@ -159,16 +159,16 @@ The streets were nearly empty—only non-human corpses visible. No humans in sig
 
 ### The Irate Dinosaur
 
-A sick merchant was beating his triceratops. On the third strike, his arm dissolved—he transformed into a sewer ooze. The triceratops screamed in terror.
+A sick merchant was beating his triceratops. On the third strike, his arm dissolved-he transformed into a sewer ooze. The triceratops screamed in terror.
 
-A Pharasmin dwarf attempted to calm the beast but was impaled on its horn. The merchant slime grabbed the dying dwarf, and something terrible happened—the dwarf **exploded in white light** and the slime *evolved*.
+A Pharasmin dwarf attempted to calm the beast but was impaled on its horn. The merchant slime grabbed the dying dwarf, and something terrible happened-the dwarf **exploded in white light** and the slime *evolved*.
 
 **Tal'lysae:**
 > "His divine spirit! No. No. No. No. No. That's not supposed to happen."
 
 The slime became bigger, stronger, glowing with white flame. The dwarf's corpse was embedded in its core.
 
-**Lorn** sensed kinship with this new slime—as if it were his cousin once removed.
+**Lorn** sensed kinship with this new slime-as if it were his cousin once removed.
 
 **Kieran** positioned himself between the terrified triceratops and the White Flame Slime.
 
