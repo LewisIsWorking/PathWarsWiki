@@ -55,6 +55,10 @@ Start typing here...
 > Arc 9: Allisee tea mastery.
 >> - Session 252 ->
 
+> Arc 11: Fun, Funerals & Fear in RavenGrow.
+>> - Session 267 ->
+>> - Notes are split by in-game day: C01-4710-09-10-Arc-11 (Rova 10th) onwards.
+
 > Arc 999: Kaer Maga.
 >> - LOL.
 
