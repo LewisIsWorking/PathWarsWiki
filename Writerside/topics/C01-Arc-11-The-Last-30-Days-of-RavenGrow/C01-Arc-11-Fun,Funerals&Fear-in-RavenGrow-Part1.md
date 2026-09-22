@@ -1,9 +1,12 @@
 # C01-Arc-11-The-death-of-Klyrthosh-Umi-Brelun.md.
 
-> What is Arc 11 Gauntlight part 2?
->> - Arc 11 Gauntlight part 2 is the continuation of Arc 6 Gauntlight part 1.
+> What is this arc about? 
+>> 1. Klyrthosh-Umi-Brelun has been killed, now the party must spend 30 days in the town of Raven Grow, in the country of Ustalav.
+
+> What is Gauntlight part 2?
+>> - Arc 11 could have been Gauntlight part 2. The continuation of Arc 6 Gauntlight part 1.
 >> - The party got to the end of floor 4 of the Gauntlight in Arc 11 part 1.
->> - In Arc 11 part 2, the party will explore floor 5 of the Gauntlight until they reach the deepest floor.
+>> - In Gauntlight part 2, the party will explore floor 5 of the Gauntlight until they reach the deepest floor.
 
 > Date and Time Conventions
 >> - Moonday -> Toilday -> Wealday -> Oathday -> Fireday -> Star-day -> Sunday. 
