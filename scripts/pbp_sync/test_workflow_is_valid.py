@@ -84,7 +84,10 @@ def test_the_sync_also_publishes_encounter_pages():
     body = SYNC.read_text(encoding="utf-8")
     assert "/data/encounters/" in body
     assert "scripts/encounter_sync/encounter_pages.py" in body
-    assert "scripts/encounter_sync -q" in body
+    # Checked on the pytest line itself, not as "scripts/encounter_sync -q":
+    # that literal broke when more test paths were added after it (#77).
+    pytest_lines = [l for l in body.splitlines() if "python -m pytest" in l]
+    assert any("scripts/encounter_sync" in l.split() for l in pytest_lines)
     assert "Writerside/topics/Encounters Writerside/encounters.tree" in body
 
 
@@ -135,8 +138,8 @@ def test_only_the_policy_failure_is_tolerated():
     assert "::error::" in body, "and must be visible as an error"
 
 
-def test_the_workflow_never_pushes_to_master():
-    """master is protected and requires a review. A workflow that tries
+def test_the_workflow_never_pushes_to_main():
+    """main is protected and requires a review. A workflow that tries
     fails at the last step, after doing all the work."""
     body = SYNC.read_text(encoding="utf-8")
     assert "bot/pbp-transcripts" in body
