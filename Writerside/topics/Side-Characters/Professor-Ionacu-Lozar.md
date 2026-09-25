@@ -7,7 +7,7 @@
 Professor Ionacu Lozar was a scholar from Ustalav who specialised in ancient history and the imprisonment of powerful undead. 
 
 - **True Nature:** Water Genie (Marid). The party knows this, though normally the professor hid this fact with a human guise.
-- **Affiliations:** Member of the Esoteric Order of the Palatine Eye; Regent of Ustalav's Sincomakti School of Science.
+- **Affiliations:** Member of the Order of the Golden Eye; Regent of Ustalav's Sincomakti School of Science.
 - **Relationships:** Knew Keleri's father. Disliked Amenopheus (The Sapphire Sage of the Jewelled Sages).
 
 ## Timeline

@@ -355,7 +355,7 @@ Selenor talks to Nicolas. He is happy to help with Tallinn Garden.
 > 11:00.
 >> - Viole, Allisee and Selenor have spent an hour+ in the expedition preparation warehouse.
 >> - Viole slips the books (:P) into Professor Ionacu Lozar's possession.
->> - Viole notices he wears the amulet of the order of the palatine eye.
+>> - Viole notices he wears the amulet of the Order of the Golden Eye.
 >> - The party leave the warehouse.
 
 > 11:55.
