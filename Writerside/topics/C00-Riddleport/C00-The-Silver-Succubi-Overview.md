@@ -11,7 +11,7 @@
 > The Silver Succubi is a casino, strip club, and nightclub located in Riddleport. 
 >> - It is owned and operated by the crime lord Marlo Kaspar Viktor Cyrus, who runs what is considered a "legitimate" operation by Riddleport standards. 
 >> - The dancers are employees (not slaves), the games aren't badly rigged, no one gets roughed up without good reason, and the drinks are actual alcohol. 
->> - The establishment operates on an infernal/succubus theme, with staff dressed as demons, hellish lighting, and a caged imp named Old Scratch who provides entertainment.
+>> - The establishment operates on an infernal/succubus theme, with staff dressed as demons, hellish lighting, and a caged imp named Itchy Brimstone who provides entertainment.
 
 ---
 
@@ -181,7 +181,7 @@
 
 > High above the chest, suspended in a brass birdcage, crouches an **imp**.
 >> - Bat-winged, pointy-tailed, red-skinned, eyes like hot coals. 
->> - Old Scratch owes Marlo a debt and works it off by performing at the establishment. 
+>> - Itchy Brimstone owes Marlo a debt and works it off by performing at the establishment. 
 >> - He greets newcomers with vulgar Infernal screaming and heavily accented Common:
 >> - "WELCOME TO DAMNATION, FRESH MEAT! SPEND FREELY! TIP YOUR SERVERS! AND REMEMBER... THE HOUSE ALWAYS WINS!"
 

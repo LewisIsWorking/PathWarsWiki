@@ -91,7 +91,7 @@
 
 ### Entertainment
 
-> Old Scratch
+> Itchy Brimstone
 >> - **Caged Imp**
 >> - Paying off a debt to Marlo by performing at the establishment.
 >> - Cantankerous, vulgar, entertaining.

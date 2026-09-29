@@ -33,7 +33,7 @@ Start Date: January 2026
 
 The party arrived at the Silver Succubi with Beltias Kreun in chains.
 - Met door bouncer **Davy Crab-Basket** (one-eyed orc) who recognized Beltias immediately.
-- **Old Scratch** (caged imp) greeted them with typical vulgarity.
+- **Itchy Brimstone** (caged imp) greeted them with typical vulgarity.
 - A **Shisk server** with vampire-like fangs offered blue bomb shots.
 
 **The Blue Bomb Shots**
