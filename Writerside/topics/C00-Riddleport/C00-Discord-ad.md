@@ -6,7 +6,7 @@
 >> 3. I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
 >> 4. Campaign name: Riddleport.
 >> 5. System: Pathfinder 2e.
->> 6. Open Slots: 2.
+>> 6. Open Slots: 3.
 >> 7. Time & Frequency: constant (play by post).
 >> 8. Campaign Description: You are in the pirate city of Riddleport with time-travel & magical strangeness to deal with...
 >> 9. THIS IS NOT A WEST MARCH. I do not know why people always seem to assume this.
