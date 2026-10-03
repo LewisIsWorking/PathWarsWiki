@@ -6,10 +6,19 @@
 >> 3. I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
 >> 4. Campaign name: Riddleport.
 >> 5. System: Pathfinder 2e.
->> 6. Open Slots: 3.
+>> 6. Open Slots: 5.
 >> 7. Time & Frequency: constant (play by post).
 >> 8. Campaign Description: You are in the pirate city of Riddleport with time-travel & magical strangeness to deal with...
 >> 9. THIS IS NOT A WEST MARCH. I do not know why people always seem to assume this.
+
+> Themes
+>> 1. Pirates: Riddleport is a lawless pirate city.
+>> 2. Crime lords & gang politics.
+>> 3. Gambling & nightlife: the Silver Succubi casino.
+>> 4. Heists.
+>> 5. Time-travel.
+>> 6. Magical strangeness & mystery.
+>> 7. Smuggling, ships & the sea.
 
 > Where does the group play?
 >> 1. The Platform the group rolls on is Foundry. You do not need to buy anything; I will help you get set up, and it is totally free for players (I pay for Foundry).
