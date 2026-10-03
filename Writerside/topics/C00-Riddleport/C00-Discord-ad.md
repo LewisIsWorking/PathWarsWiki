@@ -1,7 +1,10 @@
 # C00-Discord-ad
 
+> Posting on Discord: start the post with `# Riddleport.` on its own line (a single `#`, so the
+> title is the largest heading size; Lewis, 2026-10-03). Then item 1 below reads "Play by post."
+
 > Overview
->> 1. Title: Riddleport (play by post).
+>> 1. Play by post.
 >> 2. There is a lot of information here, but you do not need to read all or any of it. DM me, and I will walk you through everything.
 >> 3. I like putting everything down in writing to help people get started who would benefit from having it all down in writing.
 >> 4. Campaign name: Riddleport.
