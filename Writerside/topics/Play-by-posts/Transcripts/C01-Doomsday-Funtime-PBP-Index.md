@@ -1,15 +1,17 @@
-# C01 Doomsday Funtime — transcript index
+# C01 Doomsday Funtime - transcript index
 
-> ⚠️ **Generated page — do not edit here.**
+> ⚠️ **Generated page - do not edit here.**
 > Rebuilt from the PathWarsNudge bot's archive on every sync.
 {#generated-banner}
 
 
-**32 month(s)**, **1,977 messages** archived by the PathWarsNudge bot.
+**34 month(s)**, **2,045 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Aug 2026](C01-Doomsday-Funtime-PBP-2026-08.md) | 61 | 2026-08-01 → 2026-08-16 | Path Wars, Fuzzy, Dalaxiss, PJ… |
+| [Oct 2026](C01-Doomsday-Funtime-PBP-2026-10.md) | 9 | 2026-10-01 → 2026-10-03 | Path Wars, Horia Constantinescu, Theaitetos |
+| [Sep 2026](C01-Doomsday-Funtime-PBP-2026-09.md) | 31 | 2026-09-02 → 2026-09-29 | PJ, Path Wars, Anthony NegetZ, Fuzzy… |
+| [Aug 2026](C01-Doomsday-Funtime-PBP-2026-08.md) | 89 | 2026-08-01 → 2026-08-30 | Path Wars, Fuzzy, Dalaxiss, PJ… |
 | [Jul 2026](C01-Doomsday-Funtime-PBP-2026-07.md) | 105 | 2026-07-07 → 2026-07-31 | Path Wars, Kaer'maga when?, Jay, Fuzzy… |
 | [Jun 2026](C01-Doomsday-Funtime-PBP-2026-06.md) | 9 | 2026-06-01 → 2026-06-28 | Path Wars, Kaer'maga when? |
 | [May 2026](C01-Doomsday-Funtime-PBP-2026-05.md) | 450 | 2026-05-02 → 2026-05-31 | Path Wars, Kaer'maga when?, laughable Logan, Chris Warlock… |

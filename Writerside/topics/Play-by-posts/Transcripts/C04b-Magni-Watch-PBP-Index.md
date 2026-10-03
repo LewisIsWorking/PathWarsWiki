@@ -1,6 +1,6 @@
-# C04b Magni Watch — transcript index
+# C04b Magni Watch - transcript index
 
-> ⚠️ **Generated page — do not edit here.**
+> ⚠️ **Generated page - do not edit here.**
 > Rebuilt from the PathWarsNudge bot's archive on every sync.
 {#generated-banner}
 
