@@ -12,7 +12,7 @@
 - Level: you start at 7 and the campaign wraps at level 8.
 - Setting: Golarion, with homebrew changes
 - Format: play-by-post, constant but slow
-- Open slots: 6
+- Open slots: 2
 - Cost: free. I pay for Foundry, players pay nothing.
 
 **Where we play**
