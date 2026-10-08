@@ -1,6 +1,6 @@
 # C06-Discord-ad
 
-## Kibwe - Pathfinder 2e Play-by-Post 
+# Kibwe - Pathfinder 2e Play-by-Post
 
 > The Story. 
 >> 1. Kibwe is drowning in a slime curse, and its last hope lies in the ancient Temple of the Sun.
@@ -37,3 +37,4 @@ You can also reach out to our campaign helpers @mrnegetz and @nemesiux.
 ## Post history.
 
 2026-May-31: https://discord.com/channels/260066959238889472/1510530973719068733.
+2026-Oct-08: https://discord.com/channels/260066959238889472/1557717882383769653.
