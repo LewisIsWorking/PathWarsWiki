@@ -70,31 +70,69 @@
       [15/09/2026 17:43] Path Wars: END OF ROUND 1 ENEMY TURNS!
 >> 2. .
 
-## Round 2. 
+## Round 2.
 
 This round Zerius appears in the chamber of the Sun, joining the party and becoming the next avatar of Eda StoneWorth.
 
 > Round 2: Unacted Allies.
->> 1. Tarsus LongStaff @buffetraider.
->> 2. Fierce Leopard @RyoYamakawa.
->> 3. Lorn @Nemesiux.
->> 4. Ji Yun @Thien_Ming.
+>> 1. None.
 
 > Round 2: Acted Allies.
 >> 1. Tal'Lysae @PathWars.
 >> 2. Zerius @altan19931993
 >> 3. Daichi Kenshin @MrNegetZ.
+>> 4. Tarsus LongStaff @buffetraider.
+>> 5. Fierce Leopard @RyoYamakawa.
+>> 6. Lorn @Nemesiux.
+>> 7. Ji Yun @Thien_Ming.
 
 > Round 2: Ally Actions.
 >> 1. Tal'Lysae stride + Elemental stride + Tal'Lysae aids someone (+2) to their next thievery check to disarm the adjacent lightning sigil on the scribing table + fights defensively (+2 AC).
 >> 2. Zerius strides in tandem movement 3x.
->> 3. Daichi's turn:
->> 4. A1 and 2:
->> 5. Cast long strider (I'll heighten it to 2nd lvl just so it got 8h of it).
->> 6. A 3: Stride
+>> 3. Daichi casts longstrider, heightened to 2nd level (2 actions), then strides.
+>> 4. Tarsus strides twice to the nearest table, right after Tal'Lysae, and examines the rune (Recall Knowledge, success).
+>> - To disable a table's lightning script: expert or better Thievery, DC 25.
+>> - Attempting to disable a table's script triggers a lightning blast!
+>> 5. Fierce Leopard strides a total of 90 feet.
+>> 6. Lorn skips his turn.
+>> - The doors are sealed by a magical locking script, so no enemies are expected to arrive.
+>> 7. Ji Yun skips his turn.
 
-> Round 2: Unacted Enemies. 
+> Round 2: Acted Enemies.
 >> 1. The Lightning Sigils.
 
-> Round 2: Acted Enemies. 
->> 1. None.
+> Round 2: Enemy turns.
+>> 1. 3 Attacks.
+>> 2. Attack 1 vs Ji Yun's Blood God Eidolon: critical hit, 8 damage.
+>> - The scribing table and Ji Yun's Blood God Eidolon swap places!
+>> - The priority targets change to Tal'Lysae and Lorn.
+>> 3. Attack 2 hits Tal'Lysae: 4 damage, 1d6 persistent electricity.
+>> 4. Attack 3 hits Lorn: 7 damage, 1d6 persistent electricity.
+>> 5. The Scribing Chamber now has 1 charge as it absorbs and stores energy.
+>> - Anyone who is a master of magic knows that the longer this battle goes on, the more dangerous the chamber will become!
+
+## Round 3.
+
+> Round 3: Unacted Allies.
+>> 1. Zerius @altan19931993
+>> 2. Ji Yun @Thien_Ming.
+
+> Round 3: Acted Allies.
+>> 1. Tal'Lysae @PathWars.
+>> 2. Fierce Leopard @RyoYamakawa.
+>> 3. Daichi Kenshin @MrNegetZ.
+>> 4. Lorn @Nemesiux.
+>> 5. Tarsus LongStaff @buffetraider.
+
+> Round 3: Ally Actions.
+>> 1. Tal'Lysae's fighting defensively wears off.
+>> - Tal'Lysae's Red Flame Blood Elemental moves 25 feet closer as a free action.
+>> - Tal'Lysae strides, aids (+1 to whoever attempts a Thievery check against the trans-positioned table), and fights defensively.
+>> 2. Fierce Leopard envisions to activate the Quick Runner's Shirt, then strides three times: 110 feet in total, ending within 15 feet of the centre of table 2.
+>> 3. Daichi strides, then Disables Device on the bottom table (+1 from aid): 21, hero point reroll to 27, success!
+>> - The trap has lost one table.
+>> 4. Lorn moves 3 times to reach the bottom table.
+>> 5. Tarsus moves to Fierce Leopard and strikes the rune on the next table with his Staff of Water: 34 to hit, 9 bludgeoning damage.
+
+> Round 3: Unacted Enemies.
+>> 1. The Lightning Sigils.
