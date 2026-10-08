@@ -1,4 +1,4 @@
-# C06-Map10-Combat03-Guard-Legion-Of-The-Anti-Human-Short-Alliance.md.
+# C06-Map10-Combat03-Guard-Legion-Of-The-Lowfolk-League.md.
 
 > COMBAT.
 >> 1. Encounter name: The-Small-Guard-Legion.
@@ -63,26 +63,26 @@
 >> 7. Ji Yun @Thien_Ming.
 
 > Round 1: Ally turns.
->> 1. Tarsus A1 Stride A2+3 Spell Strike, hits Guard Legion of The Anti-Human Short-Alliance #03 for 15 + 8 damage.
+>> 1. Tarsus A1 Stride A2+3 Spell Strike, hits Guard Legion of The Lowfolk League #03 for 15 + 8 damage.
 >> 2. Lorn: A1 Gravity Weapon. A2 Hunted Shot. A3. Strike.
 >> 3. Master Cho's Actions are (due to having bow active) A1-Sheathe Bow, A2-Draw Sword A3- exploit vulnerability. I also have sympathetic vuneralbility so the mortal weakness should apply to all troops.
 >> 4. Daichi strides up to the remnants of the group that's almost decimated (1 a). He uses a spellstrike to finish it off.
->> 5. Daichi kills Guard Legion of The Anti-Human Short-Alliance #03.
+>> 5. Daichi kills Guard Legion of The Lowfolk League #03.
 >> 6. Fierce Leopard: A1 - Interact (Draw Flail). A2 - Interact (Grab Shield). A3 - Raise Shield. FA - Quick Tempered to Rage.
 >> 7. Tal'lysae: "Red Flame, I manifest thee to fulfil my duty..."
 >> 8. Tal'lysae has a fire elemental animal companion now, and it has 1 free stride action that it takes now.
 >> 9. Tal'lysae: Aime -> Strike -> Reload.
->> 10. 32 to hit, 14 damage on Guard Legion of The Anti-Human Short-Alliance #01.
->> 11. Guard Legion of The Anti-Human Short-Alliance #01 are barely hurt.
+>> 10. 32 to hit, 14 damage on Guard Legion of The Lowfolk League #01.
+>> 11. Guard Legion of The Lowfolk League #01 are barely hurt.
 
 > Round 1: Unacted Enemies.
->> 1. Guard Legion of The Anti-Human Short-Alliance #01
->> 2. Guard Legion of The Anti-Human Short-Alliance #02
->> 3. Guard Legion of The Anti-Human Short-Alliance #03
->> 4. Guard Legion of The Anti-Human Short-Alliance #04
+>> 1. Guard Legion of The Lowfolk League #01
+>> 2. Guard Legion of The Lowfolk League #02
+>> 3. Guard Legion of The Lowfolk League #03
+>> 4. Guard Legion of The Lowfolk League #04
 
 > Round 1: Acted Enemies.
->> 1. Guard Legion of The Anti-Human Short-Alliance #01.
+>> 1. Guard Legion of The Lowfolk League #01.
 >> 2. A1 Stride, A2+A3 Halberd strikes. Reflex save.
 >> 3. Daichi: Critical success.
 >> 4. Fierce: Critical success.
@@ -95,8 +95,8 @@
 >> 11. Ji Yun takes 24 damage. 
 >> 12. Master Cho Kobo takes 12 damage. 
 >> 13. Tal'lysae's Red Flame takes 12 damage.
->> 14. END OF Guard Legion of The Anti-Human Short-Alliance #01.
->> 15. Guard Legion of The Anti-Human Short-Alliance #02.
+>> 14. END OF Guard Legion of The Lowfolk League #01.
+>> 15. Guard Legion of The Lowfolk League #02.
 >> 16. Small as #01: Stride + 2 action Halberd attack.
 >> 17. 18 piercing damage.
 >> 18. Daichi: Critical success.
@@ -105,8 +105,8 @@
 >> 21. Daichi: no damage.
 >> 22. Tarsus Longstaff takes 9 damage. 
 >> 23. Ji Yun takes 9 damage.
->> 24. END OF Guard Legion of The Anti-Human Short-Alliance #02.
->> 25. Guard Legion of The Anti-Human Short-Alliance #04.
+>> 24. END OF Guard Legion of The Lowfolk League #02.
+>> 25. Guard Legion of The Lowfolk League #04.
 >> 26. Legion 04: "RELEASE VOLLEY!"
 >> 27. Legion 04's attack targets: Fierce, Ji Yun & Master Cho Kobo.
 >> 28. 7 piercing damage.
@@ -117,7 +117,7 @@
 >> 33. Master Cho Kobo takes 3 damage.
 >> 34. No one in the Heroes of Kibwe has taken HP damage yet.
 >> 35. Some of Legion 04 raise shields as the 4th legion begin reloading their crossbows.
->> 36. END OF Guard Legion of The Anti-Human Short-Alliance #04.
+>> 36. END OF Guard Legion of The Lowfolk League #04.
 >> 37. END OF LEGION OF GUARDS.
 >> 38. The Northern Doors swing open, two gnomes stand in the doorway.
 >> 39. A deathly thin male gnome.
@@ -158,21 +158,21 @@
 >> 1. Master Cho Kobo.
 >> 2. A1 Stride.
 >> 3. A2 Flurry of Blows.
->> 4. Guard Legion of The Anti-Human Short-Alliance #01 takes 21 damage.
+>> 4. Guard Legion of The Lowfolk League #01 takes 21 damage.
 >> 5. Guards #01 got a 28 Fortitude save versus stunning blows.
 >> 6. A bunch (1 segment) of the troops are dead, killed by the Master's flurry of stunning blows!
 >> 7. END OF MASTER CHO KOBO'S TURN.
 >> 8. Ji Yun's HP = 46/50.
 >> 9. Tarsus LongStaff's turn.
->> 10. Tarsus: Recharge spell strike + Spell strike against Guard Legion of The Anti-Human Short-Alliance #02.
+>> 10. Tarsus: Recharge spell strike + Spell strike against Guard Legion of The Lowfolk League #02.
 >> 11. 12 & 11 damage.
->> 12. The flesh is BROKEN across the Guard Legion of The Anti-Human Short-Alliance #02.
+>> 12. The flesh is BROKEN across the Guard Legion of The Lowfolk League #02.
 >> 13. Tal'lysae's turn.
 >> 14. A1 Aim.
 >> 15. A2 Strike.
 >> 16. 21, miss, reroll, 37 critical hit!
 >> 17. 77 damage.
->> 18. Over 100 of the Guards in the Guard Legion of The Anti-Human Short-Alliance #01, all die from this strike, the power of the bullet causes their flesh to evaporate from the sheer force of the bullet.
+>> 18. Over 100 of the Guards in the Guard Legion of The Lowfolk League #01, all die from this strike, the power of the bullet causes their flesh to evaporate from the sheer force of the bullet.
 >> 19. A3 Reload.
 >> 20. The Red Flame strides towards the 2nd legion with his free action.
 >> 21. END OF TAL'LYSAE'S TURN.

@@ -1,18 +1,18 @@
 # C06-Discord-ad
 
-## Kibwe - Pathfinder 2e Play-by-Post 
+# Kibwe - Pathfinder 2e Play-by-Post
 
 > The Story. 
->> 1. The jungle city of Kibwe is rotting from the inside. 
->> 2. A slime curse seeps through its streets, its shrines, and its people. 
->> 3. You came to stop it. Whether the city survives is up to you.
+>> 1. Kibwe is drowning in a slime curse, and its last hope lies in the ancient Temple of the Sun.
+>> 2. The party has fought its way inside, past dark fey, a golden guardian and the Lowfolk League, and now stands in a chamber crackling with lightning sigils.
+>> 3. The curse no longer stops at humans, and time is running out. Whether the city survives is up to you.
 
 **The basics**
 - System: Pathfinder 2e. PF2e and SF2e content such as classes and ancestries are welcome.
 - Level: you start at 7 and the campaign wraps at level 8.
 - Setting: Golarion, with homebrew changes
 - Format: play-by-post, constant but slow
-- Open slots: 6
+- Open slots: 2
 - Cost: free. I pay for Foundry, players pay nothing.
 
 **Where we play**
@@ -37,3 +37,4 @@ You can also reach out to our campaign helpers @mrnegetz and @nemesiux.
 ## Post history.
 
 2026-May-31: https://discord.com/channels/260066959238889472/1510530973719068733.
+2026-Oct-08: https://discord.com/channels/260066959238889472/1557717882383769653.
