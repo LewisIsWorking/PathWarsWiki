@@ -24,6 +24,8 @@
 >> 21. Paul Rowan.
 >> 22. Julia Hinc.
 >> 23. Macy Fish.
+>> 24. Aaron Gorman.
+>> 25. Ethan Fish.
 
 > Hasn't paid.
 >> 1. Ethan.
