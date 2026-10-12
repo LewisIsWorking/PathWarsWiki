@@ -113,16 +113,14 @@ This round Zerius appears in the chamber of the Sun, joining the party and becom
 
 ## Round 3.
 
-> Round 3: Unacted Allies.
->> 1. Zerius @altan19931993
->> 2. Ji Yun @Thien_Ming.
-
 > Round 3: Acted Allies.
 >> 1. Tal'Lysae @PathWars.
 >> 2. Fierce Leopard @RyoYamakawa.
 >> 3. Daichi Kenshin @MrNegetZ.
 >> 4. Lorn @Nemesiux.
 >> 5. Tarsus LongStaff @buffetraider.
+>> 6. Zerius @altan19931993
+>> 7. Ji Yun @Thien_Ming.
 
 > Round 3: Ally Actions.
 >> 1. Tal'Lysae's fighting defensively wears off.
@@ -134,5 +132,33 @@ This round Zerius appears in the chamber of the Sun, joining the party and becom
 >> 4. Lorn moves 3 times to reach the bottom table.
 >> 5. Tarsus moves to Fierce Leopard and strikes the rune on the next table with his Staff of Water: 34 to hit, 9 bludgeoning damage.
 
-> Round 3: Unacted Enemies.
+>> 6. Zerius uses Tandem Movement 3 times: 90 feet west for Zerius, 105 feet west for Little Dread.
+>> 7. Ji Yun and their Eidolon fight defensively.
+
+> Round 3: Acted Enemies.
 >> 1. The Lightning Sigils.
+
+> Round 3: Enemy turns.
+>> 1. 4 of the 5 tables of scribing remain. This is the first round in which a table has been disabled.
+>> 2. Attack vs Lorn: hit.
+>> 3. Attack vs Daichi: 24 to hit, miss! Daichi leaps from the bolt's path at the last moment.
+>> 4. Attack vs Fierce Leopard: critical hit! A direct bolt to the chest shocks his nervous system.
+>> 5. Attack vs Tarsus: hit.
+>> 6. The Chamber of Scribing now has 4 charges.
+
+## Round 4.
+
+> Round 4: Unacted Allies.
+>> 1. Ji Yun @Thien_Ming.
+>> 2. Fierce Leopard @RyoYamakawa.
+>> 3. Daichi Kenshin @MrNegetZ.
+>> 4. Lorn @Nemesiux.
+>> 5. Tarsus LongStaff @buffetraider.
+>> 6. Zerius @altan19931993
+
+> Round 4: Acted Allies.
+>> 1. Tal'Lysae @PathWars.
+
+> Round 4: Ally Actions.
+>> 1. Tal'Lysae's Red Flame Blood Elemental moves 25 feet closer as a free action.
+>> - Tal'Lysae strides twice, getting close to the next table, and aids: +2 to anyone attempting to disarm the table next to her.
