@@ -149,16 +149,33 @@ This round Zerius appears in the chamber of the Sun, joining the party and becom
 ## Round 4.
 
 > Round 4: Unacted Allies.
->> 1. Ji Yun @Thien_Ming.
+>> 1. None.
+
+> Round 4: Acted Allies.
+>> 1. Tal'Lysae @PathWars.
 >> 2. Fierce Leopard @RyoYamakawa.
 >> 3. Daichi Kenshin @MrNegetZ.
 >> 4. Lorn @Nemesiux.
 >> 5. Tarsus LongStaff @buffetraider.
 >> 6. Zerius @altan19931993
-
-> Round 4: Acted Allies.
->> 1. Tal'Lysae @PathWars.
+>> 7. Ji Yun @Thien_Ming.
 
 > Round 4: Ally Actions.
 >> 1. Tal'Lysae's Red Flame Blood Elemental moves 25 feet closer as a free action.
 >> - Tal'Lysae strides twice, getting close to the next table, and aids: +2 to anyone attempting to disarm the table next to her.
+>> 2. Fierce Leopard rages, uses Skirmish Strike (Step, then Strike), then Strikes again.
+>> - The strike lands true, but deals no damage against the stone tables.
+>> - "I see stars": sadly, the table is immune to dazzle.
+>> 3. Daichi strides 3 times, making his way across the battlefield.
+>> 4. Lorn Disables Device on the southern table (2 actions), then strides.
+>> - The attempt draws lightning: 1 charge fires at Daichi (24, a miss) and 1 charge fires at Lorn (critical hit, 10 damage).
+>> - Daichi dodges, getting very good at close call dodging the bolts.
+>> - Lorn took a bolt of arcane electricity to the chest, a critical blow, too locked into disabling the table.
+>> - Lorn: SUCCESS! He traces the script's weak line and scratches it out. The southern table's sigils bubble, gutter and go dark.
+>> - Now 3 of the 5 tables of scribing remain. 2 charges remain.
+>> 5. Tarsus strides 3 times to the table in the centre of the room, taking cover from the stray bolts of lightning.
+>> 6. Zerius uses Tandem Movement 3 times: 90 feet west for Zerius, 105 feet west for Little Dread.
+>> - The chamber spends its leftover charges on targets within shorter range.
+>> - Fierce Leopard takes 5 damage. 1 charge remains.
+>> - Tal'Lysae takes 8 damage. 0 charges remain.
+>> 7. Ji Yun skips their turn, spending all actions to fight defensively, and so does their Eidolon.
