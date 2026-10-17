@@ -54,6 +54,11 @@ class FetchFailed(Exception):
     pass
 
 
+class NotDeployed(Exception):
+    """The server answered with its web app's page: it is older than hp-history. Found on the first run,
+    2026-10-17: an unknown route falls through to the app and answers 200 with HTML, not 404."""
+
+
 def campaign_folders(topics_dir: Path) -> dict[str, Path]:
     """code -> the campaign's folder: the one holding a page named after itself ("C06-Kibwe/C06-Kibwe.md"),
     else the first by name. C01 has three folders; its main one is C01-Doomsday-Funtime."""
@@ -83,7 +88,10 @@ def fetch_history(server: str, code: str, opener=urllib.request.urlopen) -> list
                                                        "Accept": "application/json"})
         try:
             with opener(request, timeout=30) as response:
-                body = json.loads(response.read().decode("utf-8"))
+                raw = response.read().decode("utf-8")
+            if raw.lstrip().startswith("<"):
+                raise NotDeployed(code)
+            body = json.loads(raw)
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 return []
@@ -150,6 +158,11 @@ def sync(fetch, topics_dir: Path = TOPICS_DIR, index_dir: Path = INDEX_DIR, tree
         name = campaign_name(folder)
         try:
             changes = fetch(code)
+        except NotDeployed:
+            print(f"::notice::The server has no hp-history yet, so {code}'s page is left as it was.")
+            if (folder / page_name(code)).exists():
+                pages[code] = (name, None)
+            continue
         except FetchFailed as e:
             print(f"::warning::Could not read {code}'s HP history, so its page is left as it was: {e}")
             failed.append(code)

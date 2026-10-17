@@ -128,3 +128,18 @@ def test_fetch_pages_through_truncated_answers_and_reads_404_as_none():
 
     with pytest.raises(hp_log_pages.FetchFailed):
         hp_log_pages.fetch_history("https://coo.example", "C06", down)
+
+    def web_app(request, timeout):
+        return _Answer(b"<!DOCTYPE html><html></html>")
+
+    with pytest.raises(hp_log_pages.NotDeployed):
+        hp_log_pages.fetch_history("https://coo.example", "C06", web_app)
+
+
+def test_an_older_server_is_not_a_failure_and_keeps_pages(tmp_path):
+    topics = wiki(tmp_path)
+    run(tmp_path, topics, {"C06": [DAICHI]})
+
+    changed, failed = run(tmp_path, topics, {"C06": hp_log_pages.NotDeployed("C06")})
+
+    assert failed == [] and (topics / "C06-Kibwe" / page_name("C06")).exists()
