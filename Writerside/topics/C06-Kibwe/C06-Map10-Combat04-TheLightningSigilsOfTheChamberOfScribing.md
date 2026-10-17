@@ -200,4 +200,4 @@ This round Zerius appears in the chamber of the Sun, joining the party and becom
 | Tarsus Longstaff | 23 | ? | 0 | ? |
 | Zerius | 52 | ? | 63 | ? |
 
->> - ⚠️ Daichi is disputed: no bolt hit him before Round 4's enemy phase, and Anthony expects 43 HP + 19 SP after one critical bolt (16) with its persistent damage not yet ticked.
+>> - Daichi, from Foundry's chat log: he had only 8 SP when the critical bolt hit (16: 8 SP, then 8 HP, to 35 HP). His persistent damage then ticked for 10 (to 25 HP) and he recovered from it (DC 15). Two later 7-damage applications were both undone. Nothing in the log shows why he started the bolt on 8 SP instead of 35.
