@@ -179,3 +179,25 @@ This round Zerius appears in the chamber of the Sun, joining the party and becom
 >> - Fierce Leopard takes 5 damage. 1 charge remains.
 >> - Tal'Lysae takes 8 damage. 0 charges remain.
 >> 7. Ji Yun skips their turn, spending all actions to fight defensively, and so does their Eidolon.
+
+## HP and Stamina tracker
+
+> Recorded from Foundry each round from Round 4 on, so damage can be checked afterwards.
+>> - Stamina variant: damage comes off SP first, then HP. Persistent damage ticks at the end of the affected creature's turn.
+>> - Max values are from the party stat block (2026-06-30); "?" means not recorded there.
+
+> Round 4, enemy phase, after the bolts (Foundry, 2026-10-17 15:33 UTC).
+
+| Character | HP | Max HP | SP | Max SP |
+|---|---:|---:|---:|---:|
+| Daichi Kenshin | 25 | 43 | 1 | 35 |
+| Fierce Leopard | 50 | 50 | 22 | 70 |
+| Ji Yun | 50 | 50 | 23 | 63 |
+| Ji Yun's Blood God Eidolon | 50 | ? | 23 | ? |
+| Lorn | 46 | 52 | 0 | 49 |
+| Tal'Lysae | 43 | 43 | 8 | 49 |
+| Tal'Lysae's Red Flame Blood Elemental | 25 | ? | 35 | ? |
+| Tarsus Longstaff | 23 | ? | 0 | ? |
+| Zerius | 52 | ? | 63 | ? |
+
+>> - ⚠️ Daichi is disputed: no bolt hit him before Round 4's enemy phase, and Anthony expects 43 HP + 19 SP after one critical bolt (16) with its persistent damage not yet ticked.
