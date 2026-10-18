@@ -4,7 +4,7 @@
 
 > The Story. 
 >> 1. Kibwe is drowning in a slime curse, and its last hope lies in the ancient Temple of the Sun.
->> 2. The party has fought its way inside, past dark fey, a golden guardian and the Lowfolk League, and now stands in a chamber crackling with lightning sigils.
+>> 2. The party has fought its way inside, past dark fey, a golden guardian and the Low League, and now stands in a chamber crackling with lightning sigils.
 >> 3. The curse no longer stops at humans, and time is running out. Whether the city survives is up to you.
 
 **The basics**
