@@ -7,9 +7,8 @@
 >> 3. Open Slots: 5.
 >> 4. Time & Frequency: constant but slow (play by post).
 >> 5. Campaign Description: The crew of the spaceship *Stargazer* fought free of the pirates who captured them and has just reached Metal City. Stage Two, Murder in Metal City, starts now.
->> 6. The crew has a new member too: Oofy, a sentient automaton changed by the Scream, who has just asked to join you.
->> 7. Two players are staying on, and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
->> 8. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
+>> 6. Two players are staying on, and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
+>> 7. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
 
 > Where does the group play?
 >> 1. The Platform the group rolls on is Foundry. You do not need to buy anything; I will help you get set up, and it is totally free for players.
