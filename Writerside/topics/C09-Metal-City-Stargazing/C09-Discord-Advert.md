@@ -20,7 +20,7 @@
 >> 3. I recommend using Pathbuilder to build your character.
 >> 4. You can use any PF2e content for character creation as well as Starfinder 2e.
 >> 5. What can I play regarding race, class, background, etc? Well, you can play anything.
->> 6. House rules: we run Dual Class, Ancestry Paragon, Free Archetype (from level 2), and Skill Paragon. I'll help you switch these on in Path Builder.
+>> 6. House rules: we run Dual Class, Ancestry Paragon, Free Archetype (from level 2), and Skill Paragon. I'll help you switch these on in Pathbuilder.
 >> 7. The vetting process is on our Discord server; it is NOT in my DMs with you.
 >> 8. To join: use the Discord link in my bio, then react with ✅ in the #join-the-campaign channel to see the rest of the server.
 >> 9. New players are welcome to DM me to join. :slight_smile:
