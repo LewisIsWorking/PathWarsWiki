@@ -7,8 +7,9 @@
 >> 3. Open Slots: 5.
 >> 4. Time & Frequency: constant but slow (play by post).
 >> 5. Campaign Description: The crew of the spaceship *Stargazer* fought free of the pirates who captured them and has just reached Metal City. Stage Two, Murder in Metal City, starts now.
->> 6. Two players are staying on, and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
->> 7. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
+>> 6. The crew has a new member too: Oofy, a sentient automaton changed by the Scream, who has just asked to join you.
+>> 7. Two players are staying on, and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
+>> 8. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
 
 > Where does the group play?
 >> 1. The Platform the group rolls on is Foundry. You do not need to buy anything; I will help you get set up, and it is totally free for players.
@@ -17,12 +18,12 @@
 > Info.
 >> 1. Setting: The Pact Worlds, beginning in Metal City.
 >> 2. Level: 1. You start at level 1 alongside the existing crew, so there is no catching up to do and no gear gap.
->> 3. I recommend using Path Builder to build your character.
->> 4. You can use any PF2e content for character creation as well as the Star Finder 2e.
+>> 3. I recommend using Pathbuilder to build your character.
+>> 4. You can use any PF2e content for character creation as well as Starfinder 2e.
 >> 5. What can I play regarding race, class, background, etc? Well, you can play anything.
 >> 6. House rules: we run Dual Class, Ancestry Paragon, Free Archetype (from level 2), and Skill Paragon. I'll help you switch these on in Path Builder.
 >> 7. The vetting process is on our Discord server; it is NOT in my DMs with you.
->> 8. The Discord link is in my bio.
+>> 8. To join: use the Discord link in my bio, then react with ✅ in the #join-the-campaign channel to see the rest of the server.
 >> 9. New players are welcome to DM me to join. :slight_smile:
 >> 10. @PF2e LFG
 

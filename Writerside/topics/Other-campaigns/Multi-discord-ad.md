@@ -54,12 +54,12 @@ __07-The-Hopeful-Endtimes__
 - We are playing through some StarFinder 2e PT content.
 - Level 2 → 15.
 
-~~__09-Metal-City-Stargazing.__
+__09-Metal-City-Stargazers__
 **Campaign Description:**
 - System: StarFinder 2e.
-- Metal City adventure module.
-- Level 1.~~
-- Full!
+- The crew of the starship *Stargazer* has escaped the pirates who captured them and just reached Metal City.
+- Stage Two, Murder in Metal City, starts now, so it is a good time to join.
+- Level 1.
 
 **How to join: **
 - Join the Discord server, use the link in my bio.
