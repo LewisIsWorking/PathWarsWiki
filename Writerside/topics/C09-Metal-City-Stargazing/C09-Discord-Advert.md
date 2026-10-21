@@ -4,10 +4,10 @@
 > This can be a lot of information. Feel free to DM me, and I will walk you through everything.
 >> 1. I like putting everything down in writing so new players have it all to refer back to.
 >> 2. System: Starfinder 2e (Pathfinder 2e Remaster compatible).
->> 3. Open Slots: 4.
+>> 3. Open Slots: 5.
 >> 4. Time & Frequency: constant but slow (play by post).
->> 5. Campaign Description: A crew aboard the spaceship *Stargazer*, captured by pirates and shaken by "the Scream," fights free and makes for Metal City. The same group plays on through Murder in Metal City and beyond.
->> 6. This campaign is relaunching. Two players are staying on, and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
+>> 5. Campaign Description: The crew of the spaceship *Stargazer* fought free of the pirates who captured them and has just reached Metal City. Stage Two, Murder in Metal City, starts now.
+>> 6. Two players are staying on, and I am rebuilding the roster around them, so you are joining at the start of a new chapter rather than squeezing into an established group.
 >> 7. THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
 
 > Where does the group play?
@@ -15,7 +15,7 @@
 >> 2. The group uses our Telegram group chat for the play-by-post.
 
 > Info.
->> 1. Setting: The Pact Worlds, beginning on the route to Aballon.
+>> 1. Setting: The Pact Worlds, beginning in Metal City.
 >> 2. Level: 1. You start at level 1 alongside the existing crew, so there is no catching up to do and no gear gap.
 >> 3. I recommend using Path Builder to build your character.
 >> 4. You can use any PF2e content for character creation as well as the Star Finder 2e.
