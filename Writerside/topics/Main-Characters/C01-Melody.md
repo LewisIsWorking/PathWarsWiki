@@ -1,6 +1,6 @@
 # C01-Melody
 
-- Starting Guide Link: [Getting-started-guide.md](Getting-started-guide.md)
+- Starting Guide Link: [Getting-started-guide.md](../Info/Getting-started-guide.md)
 
 ## Build YOUR Character's Life HERE!
 
@@ -22,8 +22,8 @@
 
 > Age.
 >> - For help on days, months and years of the world, click the following links:
->> - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
->> - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md.
+>> - https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
+>> - https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md.
 >> - Question: How old is your character?
 >> - Answer: 88 years old (equivalent to a human teenager / young elf).
 >> - Question: What year was your character born?

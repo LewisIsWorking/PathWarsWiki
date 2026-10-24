@@ -22,7 +22,7 @@ Core.
 
 Age.
 
-* For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign%20lore/Golarion-Lore-The-Spoiler-Free-Version.md.
+* For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
 * Question: How old is your character?
 * Answer:120
 * Question: What year was your character born?

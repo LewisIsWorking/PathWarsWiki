@@ -1,6 +1,6 @@
 # PW~Character-Lore-Builder
 
-- Starting Guide Link: [Getting-started-guide.md](Getting-started-guide.md)
+- Starting Guide Link: [Getting-started-guide.md](../Info/Getting-started-guide.md)
 
 ## Build YOUR Character's Life HERE!
 
@@ -23,7 +23,7 @@ Below is the table to copy and paste into your own Writerside workspace and fill
 >> - Answer: Akwa – Explorer of the seas
 
 > Age.
->> - For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version.md](Golarion-Lore-The-Spoiler-Free-Version.md).
+>> - For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version.md](../Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md).
 >> - Question: How old is your character?
 >> - Answer: 27
 >> - Question: What year was your character born?

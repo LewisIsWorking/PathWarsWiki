@@ -35,7 +35,7 @@ You can also reach out to our campaign helpers:
 
 ## DO NOT PUT LINKS???
 
-- Getting started guide = [https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Getting-started-guide.md)
+- Getting started guide = [https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Info/Getting-started-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Info/Getting-started-guide.md)
 - Campaign wiki = [https://github.com/LewisIsWorking/PathWarsWiki](https://github.com/LewisIsWorking/PathWarsWiki)
 
 ## Post history.

@@ -1,6 +1,6 @@
 # Homebrew Rules
 
-For the official Paizo variant rules we use: [Official Paizo Variant Rules](Official-paizo-variant-rules.md)
+For the official Paizo variant rules we use: [Official Paizo Variant Rules](../Info/Official-paizo-variant-rules.md)
 
 ## Rules
 

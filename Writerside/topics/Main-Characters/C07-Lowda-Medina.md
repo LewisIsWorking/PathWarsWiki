@@ -16,8 +16,8 @@ Question: Does your character have a title? For example, "Arthur, the Dragon kni
 Answer:  <br/>
 Age.  <br/>
 For help on days, months and years of the world, click the following links:  <br/>
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.  <br/>
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md.  <br/>
+https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.  <br/>
+https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md.  <br/>
 Question: How old is your character?  <br/>
 Answer: 25  <br/>
 Question: What year was your character born?  <br/>
@@ -245,7 +245,7 @@ Alignment Scale.  <br/>
 Question: What is your character's alignment scale?  <br/>
 Answer: Very Chaotic Good?  <br/>
 Go to this page to find out your alignment scale:  <br/>
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md  <br/>
+https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Extra-rules/Alignment-scale.md  <br/>
 Plot hooks.  <br/>
 You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around.  <br/>
 Part 1 of 3: What are (at least) 5 accomplishments your character wishes to achieve? Examples include:  <br/>

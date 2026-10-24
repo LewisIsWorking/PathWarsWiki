@@ -177,7 +177,7 @@ Learning about the dangers of the world as she hones her practical skills.
  - Great-grandmother of Selenor.
  - Mother of Jumina
  - The current holder of the proto-sin blade Eclipse. See more information here: 
- - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Proto-sin-blades.md#ownership-eclipse 
+ - https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/C01-Doomsday-Funtime/C01-Proto-sin-blades.md#ownership-eclipse 
 
 ## H.
 

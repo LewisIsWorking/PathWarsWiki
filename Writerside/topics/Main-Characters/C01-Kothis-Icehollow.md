@@ -17,8 +17,8 @@
 >> 14. Answer: NA 
 >> 15. Age. 
 >> 16. For help on days, months and years of the world, click the following links:
->> 17. https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
->> 18. https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md. 
+>> 17. https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
+>> 18. https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-calendar.md. 
 >> 19. Question: How old is your character? 
 >> 20. Answer: 150 Years 
 >> 21. Question: What year was your character born?
@@ -146,7 +146,7 @@
 >> 143. Question: What is your character's alignment scale?
 >> 144. Answer: 8 3
 >> 145. Go to this page to find out your alignment scale:
->> 146. https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
+>> 146. https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Extra-rules/Alignment-scale.md
 
 > Plot hooks. 
 >> 1. You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around. 

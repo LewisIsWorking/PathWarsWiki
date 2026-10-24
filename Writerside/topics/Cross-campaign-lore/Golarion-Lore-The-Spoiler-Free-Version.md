@@ -3,7 +3,7 @@
 ## Golarion Map.
 The Inner Sea map is a Paizo product, so it is not hosted here. Get it from
 [Paizo](https://paizo.com/store) directly. See
-[NOTICE.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/NOTICE.md) for the
+[NOTICE.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/NOTICE.md) for the
 Community Use notice.
 
 > Days of the week.

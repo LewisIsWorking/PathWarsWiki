@@ -107,7 +107,7 @@ Title: `[Online][PF2e][Play-by-Post][Telegram] Magni Guard - recruiting 4`
 On Paizo, RPG Crossing, RPGnet and reddit you can and should include these: they
 answer "is this GM organised" faster than any amount of prose.
 
-- Getting started guide = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Info/Getting-started-guide.md
+- Getting started guide = https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Info/Getting-started-guide.md
 - Campaign wiki = https://github.com/LewisIsWorking/PathWarsWiki
 
 ⚠️ The getting-started link was **broken** until 2026-08-25: it pointed at

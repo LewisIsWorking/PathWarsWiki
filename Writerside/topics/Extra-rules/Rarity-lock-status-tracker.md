@@ -65,28 +65,28 @@ If you have a question, just ask on the telegram group! :)
 >> - Harrower: Vengeful Spirit Deck.
 
 > Animal companions.
->> - Fiery Leopard. Unlocked: [C03-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Fiery Leopard. Unlocked: [C03-Etran's-Folly.md](../Other-campaigns/C03-Etran's-Folly.md).
 
 > Equipment.
 >> 1. Boomerang. Unlocked via the planar rifts to dying digital rift worlds. 
->> 2. Bort's Blessing. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
+>> 2. Bort's Blessing. Unlocked: [Campaign~3-Etran's-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
 >> 3. Charlatan's Cape. 
 >> - Unlocked by Selenor by acquiring the Red Raven's cape. 
 >> - The cape's design has allowed the creation of lesser Charlatan's Capes to be designed and created worldwide. 
->> 4. Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
->> 5. Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran`s-Folly.md](C03-Etran's-Folly.md). 
+>> 4. Energy Mutagen. Unlocked: [Campaign~3-Etran's-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
+>> 5. Energy Mutagen (Greater, Moderate, Lesser, Major). Unlocked: [Campaign~3-Etran`s-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
 >> 6. Exquisite Alloy Orb (Standard-Grade). Unlocked: by Haku Stormfan in DF. 
 >> 7. Madcap Top. Unlocked: by C06 Tarsus Longstaff (Buffet Raider) in the Sun Temple. 2026/08/18th. 
->> 8. Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
+>> 8. Merchant's Guile. Unlocked: [Campaign~3-Etran's-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
 >> 9. Retrieval Belt. Unlocked. This is the modern version of the handy haversack. Unlocked by Selenor? 
->> 10. Ring of Minor Arcana. Unlocked: [Campaign~3-Etran`s-Folly.md](C03-Etran's-Folly.md).
->> 11. Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran`s-Folly.md](C03-Etran's-Folly.md). 
+>> 10. Ring of Minor Arcana. Unlocked: [Campaign~3-Etran`s-Folly.md](../Other-campaigns/C03-Etran's-Folly.md).
+>> 11. Ring of the Weary Traveller. Unlocked: [Campaign~3-Etran`s-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
 >> 12. Rod of Wonder. Unlocked: by C06 Tarsus Longstaff (Buffet Raider) in the Sun Temple. 2026/08/18th. 
->> 13. Sceptic's Elixir. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight. 
->> 14. Six fingers elixir. Unlocked: [C06-Kibwe.md](C06-Kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi. 
->> 15. Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md). 
->> 16. Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etrans-Folly.md](C03-Etran's-Folly.md). 
->> 17. Warrior's Training Ring. Unlocked: [Campaign~3-Etrans-Folly.md](C03-Etran's-Folly.md).
+>> 13. Sceptic's Elixir. Unlocked: [C01-Doomsday-Funtime.md](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md). During Arc-6 Gauntlight. 
+>> 14. Six fingers elixir. Unlocked: [C06-Kibwe.md](../C06-Kibwe/C06-Kibwe.md). During Kibwe in the Plaza of the feasting fiend by Anthony playing Daichi. 
+>> 15. Stalwart's Ring. Unlocked: [Campaign~3-Etran's-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
+>> 16. Stone Body Mutagen (Greater, Lesser, Moderate). Unlocked: [Campaign~3-Etrans-Folly.md](../Other-campaigns/C03-Etran's-Folly.md). 
+>> 17. Warrior's Training Ring. Unlocked: [Campaign~3-Etrans-Folly.md](../Other-campaigns/C03-Etran's-Folly.md).
 
 > Feats.
 >> - Relentless Stalker.
@@ -99,30 +99,30 @@ If you have a question, just ask on the telegram group! :)
 >> - Daemonic-pact. Rank 1. Unlocked: By the releasing of the horsemen at black rock mine.
 >> - Consecrate. Rank 2. Unlocked: Must be learned from a priest.
 >> - Heart-bond. Rank 2. Unlocked: Must be learned from a priest.
->> - Create Undead (Ghosts). Rank 2. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Create Undead (Ghosts). Rank 2. Unlocked: [C01-Doomsday-Funtime.md](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 >> - Mystic carriage. Rank 3. Unlocked: GM's choice.
 >> - Atone. Rank 4. Unlocked: Must be learned from a priest.
->> - Resurrect. Rank 5. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). At the end of Arc-5 Necropolis.
+>> - Resurrect. Rank 5. Unlocked: [C01-Doomsday-Funtime.md](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md). At the end of Arc-5 Necropolis.
 >> - Binding-circle. Rank 6. Unlocked: GM's choice.
->> - Teleportation Circle. Rank 7. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md).
+>> - Teleportation Circle. Rank 7. Unlocked: [C01-Doomsday-Funtime.md](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md).
 
 > Rituals. Rare.
->> - Awaken Portal. Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
+>> - Awaken Portal. Unlocked: [C01-Doomsday-Funtime.md](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md). During Arc-6 Gauntlight.
 
 > Spells.
 >> - Detect Scrying.
 >> - Discern Lies.
 >> - Nudge The Odds.
->> - Liminal Doorway (pre-remaster = Rope Trick). Unlocked: Session 169. [C01-Doomsday-Funtime.md.](C01-Doomsday-Funtime.md) 
+>> - Liminal Doorway (pre-remaster = Rope Trick). Unlocked: Session 169. [C01-Doomsday-Funtime.md.](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md) 
 >> - Locate. Session 220.
 >> - Teleport: Unlocked. 
 >> - Umbral Journey: Unlocked.
 >> - Worm's Repast.
-Unlocked: [C01-Doomsday-Funtime.md](C01-Doomsday-Funtime.md). 
+Unlocked: [C01-Doomsday-Funtime.md](../C01-Doomsday-Funtime/C01-Doomsday-Funtime.md). 
 Unlocked by Allisee & Selenor during Arc-6 Gauntlight.
 
 > Weapons.
->> - Alchemical Crossbow. Unlocked: [Campaign~3-Etran's-Folly.md](C03-Etran's-Folly.md).
+>> - Alchemical Crossbow. Unlocked: [Campaign~3-Etran's-Folly.md](../Other-campaigns/C03-Etran's-Folly.md).
 
 ## Archetypes = Common.
 

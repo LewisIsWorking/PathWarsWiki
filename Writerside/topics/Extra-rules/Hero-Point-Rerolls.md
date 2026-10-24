@@ -3,7 +3,7 @@
 > **Core rule (Player Core).** Spend 1 Hero Point to reroll a check. **You must use the second result.** It is a *fortune* effect, so you can only use one on a given check. You hold at most 3, and unspent points are lost at the end of the session.
 
 > **Our house variant**, applied automatically by the PF2e Workbench module: **if the reroll die comes up 10 or lower, you get +10 to the check.**
->> See also: [Foundry-FAQ.md](Foundry-FAQ.md) and [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md).
+>> See also: [Foundry-FAQ.md](../Info/Foundry-FAQ.md) and [Official-paizo-variant-rules.md](../Info/Official-paizo-variant-rules.md).
 
 Several Hero Point variants get discussed. We compared all of them properly, and **ours is the strongest.** This page exists so you use it that way.
 

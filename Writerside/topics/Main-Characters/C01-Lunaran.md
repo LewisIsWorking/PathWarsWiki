@@ -1,7 +1,7 @@
 # C01-Lunaran
 
 "JJ" Jack John Graham, [03/01/2026 00:40]
-- Starting Guide Link: [Getting-started-guide.md](Getting-started-guide.md)
+- Starting Guide Link: [Getting-started-guide.md](../Info/Getting-started-guide.md)
 
 ## Build YOUR Character's Life HERE!
 
@@ -24,7 +24,7 @@ Below is the table to copy and paste into your own Writerside workspace and fill
 >> - Answer: Avatar of the Moon.
 
 > Age.
->> - For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign%20lore/Golarion-Lore-The-Spoiler-Free-Version.md.
+>> - For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
 >> - Question: How old is your character?
 >> - Answer: 12
 >> - Question: What year was your character born?
@@ -272,7 +272,7 @@ You should write your character assuming they do not have their 2nd class yet as
 >> - Question: What is your character's alignment scale?
 >> - Answer: 15 8
 >> - Go to this page to find out your alignment scale:
->> - https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
+>> - https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Extra-rules/Alignment-scale.md
 
 "JJ" Jack John Graham, [03/01/2026 00:40]
 > Plot hooks.

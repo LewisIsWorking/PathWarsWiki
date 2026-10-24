@@ -17,7 +17,7 @@ Core.
 >> - Question: Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!"
 >> - Answer: Vaasha, Sage of the Heavens and Earth
 Age.
->> - For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign%20lore/Golarion-Lore-The-Spoiler-Free-Version.md.
+>> - For help on days, months and years of the world, click the following link = https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md.
 >> - Question: How old is your character?
 >> - Answer: He is not sure. But probably hundreds of years
 >> - Question: What year was your character born?

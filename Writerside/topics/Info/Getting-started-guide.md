@@ -22,7 +22,7 @@
 >> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
 >> - Join the telegram group.
 >> - Play with us! :3
->> - Get ready to play on Foundry (optional): [Joining-foundry.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Info/Joining-foundry.md)
+>> - Get ready to play on Foundry (optional): [Joining-foundry.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Info/Joining-foundry.md)
 
 - If you need any help, ask on the discord server / telegram group!
 
@@ -99,11 +99,11 @@
 
 ## Spoilers.
 > The Great Spoiler Warning.
->> - Read = [https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Spoiler-avoidance-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Cross-campaign-lore/Spoiler-avoidance-guide.md).
+>> - Read = [https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Spoiler-avoidance-guide.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Cross-campaign-lore/Spoiler-avoidance-guide.md).
 
 ## Build Your Character's Lore.
 >> - Go here and paste the table onto your writerside instance OR your word processor of choice: [Character-Lore-Builder.md.](Character-Lore-Builder.md)
->> - If you need information on the world, check out: [Golarion-Lore-The-Spoiler-Free-Version.md.](Golarion-Lore-The-Spoiler-Free-Version.md)
+>> - If you need information on the world, check out: [Golarion-Lore-The-Spoiler-Free-Version.md.](../Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md)
 >> - Send me your character's lore, and I will add it to this wiki.
 
 ## Paizo Variant Rules.
@@ -113,7 +113,7 @@
 >> - Please read the following page: [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 >> - You can find out what Paizo Variant rules are used on the page linked above!
 >> - The campaigns ran in the Path War community have some homebrew rule changes. 
->> - You can find a mostly complete list of the rule changes here: [](Homebrew-rules.md)https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Homebrew-rules.md.
+>> - You can find a mostly complete list of the rule changes here: [](../Extra-rules/Homebrew-rules.md)https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Extra-rules/Homebrew-rules.md.
 
 ## Path Builder 2e + Character Creation.
 >> - Time to actually make your character's stats and abilities.
@@ -142,14 +142,14 @@
 
 > NOTE ABOUT = Selecting 3rd party content on Pathbuilder:
 >> - **3rd Party Content.**
->> - Check the 3rd party page to find out what is available: [3rd-party-content-and-options.md.](3rd-party-content-and-options.md)
+>> - Check the 3rd party page to find out what is available: [3rd-party-content-and-options.md.](../Extra-rules/3rd-party-content-and-options.md)
 >> - 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
 >> - To use 3rd party content, you will need to add it in Foundry manually.
 >> - Ask me about this! 
 >> - Some 3rd party content may already be available in Foundry thanks to community modules.
 
 > NOTE ABOUT = Uncommon, Rare and Unique equipment, feats, spells and races.
->> - Before selecting anything with these traits, make sure you read: [Rarity-lock-status-tracker.md.](Rarity-lock-status-tracker.md)
+>> - Before selecting anything with these traits, make sure you read: [Rarity-lock-status-tracker.md.](../Extra-rules/Rarity-lock-status-tracker.md)
 >> - You can play ANY background, class and/or race, regardless of their rarity.
 
 > Create your character.
@@ -179,7 +179,7 @@
 >> - Type 4 = 13th level item. 2,400 GPs.
 
 > Apply lore increases. 
->> - You can read about the lore increases homebrew rule here: [Homebrew-rules.md.](Homebrew-rules.md)
+>> - You can read about the lore increases homebrew rule here: [Homebrew-rules.md.](../Extra-rules/Homebrew-rules.md)
 
 ## What is the Time Zone of the GM?
 

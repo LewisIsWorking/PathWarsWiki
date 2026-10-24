@@ -259,7 +259,7 @@ Alignment Scale.
 Question: What is your character's alignment scale?
 Answer:12,5
 Go to this page to find out your alignment scale:
-https://github.com/LewisIsWorking/PathWarsWiki/blob/master/Writerside/topics/Extra-rules/Alignment-scale.md
+https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Extra-rules/Alignment-scale.md
 Plot hooks.
 
 You do not need to answer any or all of these, but please come up with the plot hooks your character's story revolves around.
