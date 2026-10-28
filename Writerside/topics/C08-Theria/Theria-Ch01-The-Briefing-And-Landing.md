@@ -1,6 +1,6 @@
 # Chapter 1: The Briefing & Landing
 
-> [Overview](C08-Theria.md) | [Transcript](Theria-Ch01-PBP-Transcript.md) | [Next: Death in the Dark →](Theria-Ch02-Death-in-the-Dark.md)
+> [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Death in the Dark →](Theria-Ch02-Death-in-the-Dark.md)
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-> [Overview](C08-Theria.md) | [Transcript](Theria-Ch01-PBP-Transcript.md) | [Next: Death in the Dark →](Theria-Ch02-Death-in-the-Dark.md)
+> [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Death in the Dark →](Theria-Ch02-Death-in-the-Dark.md)

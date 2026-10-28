@@ -1,6 +1,6 @@
 # Chapter 19: The Orchard Village
 
-> [← Previous: The Cleansing Flame](Theria-Ch18-The-Cleansing-Flame.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch19-The-Orchard-Village-Transcript.md) | [Next: The Defense Plan →](Theria-Ch20-The-Defense-Plan.md)
+> [← Previous: The Cleansing Flame](Theria-Ch18-The-Cleansing-Flame.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Defense Plan →](Theria-Ch20-The-Defense-Plan.md)
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-> [← Previous: The Cleansing Flame](Theria-Ch18-The-Cleansing-Flame.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch19-The-Orchard-Village-Transcript.md) | [Next: The Defense Plan →](Theria-Ch20-The-Defense-Plan.md)
+> [← Previous: The Cleansing Flame](Theria-Ch18-The-Cleansing-Flame.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Defense Plan →](Theria-Ch20-The-Defense-Plan.md)

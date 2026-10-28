@@ -1,6 +1,6 @@
 # Chapter 20: The Defense Plan
 
-> [← Previous: The Orchard Village](Theria-Ch19-The-Orchard-Village.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch20-The-Defense-Plan-Transcript.md)
+> [← Previous: The Orchard Village](Theria-Ch19-The-Orchard-Village.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md)
 
 *This chapter is in progress. The story is ongoing.*
 
@@ -47,4 +47,4 @@
 
 ---
 
-> [← Previous: The Orchard Village](Theria-Ch19-The-Orchard-Village.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch20-The-Defense-Plan-Transcript.md)
+> [← Previous: The Orchard Village](Theria-Ch19-The-Orchard-Village.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md)

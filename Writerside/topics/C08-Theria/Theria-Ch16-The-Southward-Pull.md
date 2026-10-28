@@ -1,6 +1,6 @@
 # Chapter 16: The Southward Pull
 
-> [← Previous: The Coven's Bargain](Theria-Ch15-The-Covens-Bargain.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch16-The-Southward-Pull-Transcript.md) | [Next: The Burning Village →](Theria-Ch17-The-Burning-Village.md)
+> [← Previous: The Coven's Bargain](Theria-Ch15-The-Covens-Bargain.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Burning Village →](Theria-Ch17-The-Burning-Village.md)
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-> [← Previous: The Coven's Bargain](Theria-Ch15-The-Covens-Bargain.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch16-The-Southward-Pull-Transcript.md) | [Next: The Burning Village →](Theria-Ch17-The-Burning-Village.md)
+> [← Previous: The Coven's Bargain](Theria-Ch15-The-Covens-Bargain.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Burning Village →](Theria-Ch17-The-Burning-Village.md)

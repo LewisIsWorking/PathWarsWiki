@@ -1,6 +1,6 @@
 # Chapter 15: The Coven's Bargain
 
-> [← Previous: The Hag's True Form](Theria-Ch14-The-Hags-True-Form.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch15-The-Covens-Bargain-Transcript.md) | [Next: The Southward Pull →](Theria-Ch16-The-Southward-Pull.md)
+> [← Previous: The Hag's True Form](Theria-Ch14-The-Hags-True-Form.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Southward Pull →](Theria-Ch16-The-Southward-Pull.md)
 
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-> [← Previous: The Hag's True Form](Theria-Ch14-The-Hags-True-Form.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch15-The-Covens-Bargain-Transcript.md) | [Next: The Southward Pull →](Theria-Ch16-The-Southward-Pull.md)
+> [← Previous: The Hag's True Form](Theria-Ch14-The-Hags-True-Form.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Southward Pull →](Theria-Ch16-The-Southward-Pull.md)

@@ -1,6 +1,6 @@
 # Chapter 3: The Cult's Hideout
 
-> [← Previous: Death in the Dark](Theria-Ch02-Death-in-the-Dark.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch03-The-Cults-Hideout-Transcript.md) | [Next: Nith M'aera Released →](Theria-Ch04-Nith-Maera-Released.md)
+> [← Previous: Death in the Dark](Theria-Ch02-Death-in-the-Dark.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Nith M'aera Released →](Theria-Ch04-Nith-Maera-Released.md)
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-> [← Previous: Death in the Dark](Theria-Ch02-Death-in-the-Dark.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch03-The-Cults-Hideout-Transcript.md) | [Next: Nith M'aera Released →](Theria-Ch04-Nith-Maera-Released.md)
+> [← Previous: Death in the Dark](Theria-Ch02-Death-in-the-Dark.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Nith M'aera Released →](Theria-Ch04-Nith-Maera-Released.md)

@@ -1,6 +1,6 @@
 # Chapter 17: The Burning Village
 
-> [← Previous: The Southward Pull](Theria-Ch16-The-Southward-Pull.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch17-The-Burning-Village-Transcript.md) | [Next: The Cleansing Flame →](Theria-Ch18-The-Cleansing-Flame.md)
+> [← Previous: The Southward Pull](Theria-Ch16-The-Southward-Pull.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Cleansing Flame →](Theria-Ch18-The-Cleansing-Flame.md)
 
 ---
 
@@ -53,4 +53,4 @@
 
 ---
 
-> [← Previous: The Southward Pull](Theria-Ch16-The-Southward-Pull.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch17-The-Burning-Village-Transcript.md) | [Next: The Cleansing Flame →](Theria-Ch18-The-Cleansing-Flame.md)
+> [← Previous: The Southward Pull](Theria-Ch16-The-Southward-Pull.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Cleansing Flame →](Theria-Ch18-The-Cleansing-Flame.md)

@@ -1,6 +1,6 @@
 # Chapter 2: Death in the Dark
 
-> [← Previous: The Briefing & Landing](Theria-Ch01-The-Briefing-And-Landing.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch02-Death-in-the-Dark-Transcript.md) | [Next: The Cult's Hideout →](Theria-Ch03-The-Cults-Hideout.md)
+> [← Previous: The Briefing & Landing](Theria-Ch01-The-Briefing-And-Landing.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Cult's Hideout →](Theria-Ch03-The-Cults-Hideout.md)
 
 ---
 
@@ -38,4 +38,4 @@
 
 ---
 
-> [← Previous: The Briefing & Landing](Theria-Ch01-The-Briefing-And-Landing.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch02-Death-in-the-Dark-Transcript.md) | [Next: The Cult's Hideout →](Theria-Ch03-The-Cults-Hideout.md)
+> [← Previous: The Briefing & Landing](Theria-Ch01-The-Briefing-And-Landing.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Cult's Hideout →](Theria-Ch03-The-Cults-Hideout.md)

@@ -1,6 +1,6 @@
 # Chapter 12: The Twilight Ruins
 
-> [← Previous: Lady Inda](Theria-Ch11-Lady-Inda.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch12-The-Twilight-Ruins-Transcript.md) | [Next: The Dragon and the Blossom →](Theria-Ch13-The-Dragon-and-the-Blossom.md)
+> [← Previous: Lady Inda](Theria-Ch11-Lady-Inda.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Dragon and the Blossom →](Theria-Ch13-The-Dragon-and-the-Blossom.md)
 
 ---
 
@@ -46,4 +46,4 @@
 
 ---
 
-> [← Previous: Lady Inda](Theria-Ch11-Lady-Inda.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch12-The-Twilight-Ruins-Transcript.md) | [Next: The Dragon and the Blossom →](Theria-Ch13-The-Dragon-and-the-Blossom.md)
+> [← Previous: Lady Inda](Theria-Ch11-Lady-Inda.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Dragon and the Blossom →](Theria-Ch13-The-Dragon-and-the-Blossom.md)

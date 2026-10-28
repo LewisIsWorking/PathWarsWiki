@@ -1,6 +1,6 @@
 # Chapter 7: The College of Cumeyr
 
-> [← Previous: The Garden View](Theria-Ch06-The-Garden-View.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch07-The-College-of-Cumeyr-Transcript.md) | [Next: South to Wanhoop →](Theria-Ch08-South-to-Wanhoop.md)
+> [← Previous: The Garden View](Theria-Ch06-The-Garden-View.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: South to Wanhoop →](Theria-Ch08-South-to-Wanhoop.md)
 
 ---
 
@@ -54,4 +54,4 @@
 
 ---
 
-> [← Previous: The Garden View](Theria-Ch06-The-Garden-View.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch07-The-College-of-Cumeyr-Transcript.md) | [Next: South to Wanhoop →](Theria-Ch08-South-to-Wanhoop.md)
+> [← Previous: The Garden View](Theria-Ch06-The-Garden-View.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: South to Wanhoop →](Theria-Ch08-South-to-Wanhoop.md)

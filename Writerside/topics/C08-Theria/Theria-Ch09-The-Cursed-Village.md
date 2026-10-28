@@ -1,6 +1,6 @@
 # Chapter 9: The Cursed Village
 
-> [← Previous: South to Wanhoop](Theria-Ch08-South-to-Wanhoop.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch09-The-Cursed-Village-Transcript.md) | [Next: Meeting the Kitsune →](Theria-Ch10-Meeting-the-Kitsune.md)
+> [← Previous: South to Wanhoop](Theria-Ch08-South-to-Wanhoop.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Meeting the Kitsune →](Theria-Ch10-Meeting-the-Kitsune.md)
 
 ---
 
@@ -51,4 +51,4 @@
 
 ---
 
-> [← Previous: South to Wanhoop](Theria-Ch08-South-to-Wanhoop.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch09-The-Cursed-Village-Transcript.md) | [Next: Meeting the Kitsune →](Theria-Ch10-Meeting-the-Kitsune.md)
+> [← Previous: South to Wanhoop](Theria-Ch08-South-to-Wanhoop.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Meeting the Kitsune →](Theria-Ch10-Meeting-the-Kitsune.md)

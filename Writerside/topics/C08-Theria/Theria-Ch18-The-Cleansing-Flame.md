@@ -1,6 +1,6 @@
 # Chapter 18: The Cleansing Flame
 
-> [← Previous: The Burning Village](Theria-Ch17-The-Burning-Village.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch18-The-Cleansing-Flame-Transcript.md) | [Next: The Orchard Village →](Theria-Ch19-The-Orchard-Village.md)
+> [← Previous: The Burning Village](Theria-Ch17-The-Burning-Village.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Orchard Village →](Theria-Ch19-The-Orchard-Village.md)
 
 ---
 
@@ -47,4 +47,4 @@
 
 ---
 
-> [← Previous: The Burning Village](Theria-Ch17-The-Burning-Village.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch18-The-Cleansing-Flame-Transcript.md) | [Next: The Orchard Village →](Theria-Ch19-The-Orchard-Village.md)
+> [← Previous: The Burning Village](Theria-Ch17-The-Burning-Village.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Orchard Village →](Theria-Ch19-The-Orchard-Village.md)

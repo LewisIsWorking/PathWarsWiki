@@ -1,6 +1,6 @@
 # Chapter 11: Lady Inda
 
-> [← Previous: Meeting the Kitsune](Theria-Ch10-Meeting-the-Kitsune.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch11-Lady-Inda-Transcript.md) | [Next: The Twilight Ruins →](Theria-Ch12-The-Twilight-Ruins.md)
+> [← Previous: Meeting the Kitsune](Theria-Ch10-Meeting-the-Kitsune.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Twilight Ruins →](Theria-Ch12-The-Twilight-Ruins.md)
 
 ---
 
@@ -44,4 +44,4 @@
 
 ---
 
-> [← Previous: Meeting the Kitsune](Theria-Ch10-Meeting-the-Kitsune.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch11-Lady-Inda-Transcript.md) | [Next: The Twilight Ruins →](Theria-Ch12-The-Twilight-Ruins.md)
+> [← Previous: Meeting the Kitsune](Theria-Ch10-Meeting-the-Kitsune.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Twilight Ruins →](Theria-Ch12-The-Twilight-Ruins.md)

@@ -1,6 +1,6 @@
 # Chapter 13: The Dragon and the Blossom
 
-> [← Previous: The Twilight Ruins](Theria-Ch12-The-Twilight-Ruins.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch13-The-Dragon-and-the-Blossom-Transcript.md) | [Next: The Hag's True Form →](Theria-Ch14-The-Hags-True-Form.md)
+> [← Previous: The Twilight Ruins](Theria-Ch12-The-Twilight-Ruins.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Hag's True Form →](Theria-Ch14-The-Hags-True-Form.md)
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-> [← Previous: The Twilight Ruins](Theria-Ch12-The-Twilight-Ruins.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch13-The-Dragon-and-the-Blossom-Transcript.md) | [Next: The Hag's True Form →](Theria-Ch14-The-Hags-True-Form.md)
+> [← Previous: The Twilight Ruins](Theria-Ch12-The-Twilight-Ruins.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Hag's True Form →](Theria-Ch14-The-Hags-True-Form.md)

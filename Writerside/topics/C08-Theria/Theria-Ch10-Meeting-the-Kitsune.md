@@ -1,6 +1,6 @@
 # Chapter 10: Meeting the Kitsune
 
-> [← Previous: The Cursed Village](Theria-Ch09-The-Cursed-Village.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch10-Meeting-the-Kitsune-Transcript.md) | [Next: Lady Inda →](Theria-Ch11-Lady-Inda.md)
+> [← Previous: The Cursed Village](Theria-Ch09-The-Cursed-Village.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Lady Inda →](Theria-Ch11-Lady-Inda.md)
 
 ---
 
@@ -37,4 +37,4 @@
 
 ---
 
-> [← Previous: The Cursed Village](Theria-Ch09-The-Cursed-Village.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch10-Meeting-the-Kitsune-Transcript.md) | [Next: Lady Inda →](Theria-Ch11-Lady-Inda.md)
+> [← Previous: The Cursed Village](Theria-Ch09-The-Cursed-Village.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Lady Inda →](Theria-Ch11-Lady-Inda.md)

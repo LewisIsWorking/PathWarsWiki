@@ -1,6 +1,6 @@
 # Chapter 14: The Hag's True Form
 
-> [← Previous: The Dragon and the Blossom](Theria-Ch13-The-Dragon-and-the-Blossom.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch14-The-Hags-True-Form-Transcript.md) | [Next: The Coven's Bargain →](Theria-Ch15-The-Covens-Bargain.md)
+> [← Previous: The Dragon and the Blossom](Theria-Ch13-The-Dragon-and-the-Blossom.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Coven's Bargain →](Theria-Ch15-The-Covens-Bargain.md)
 
 ---
 
@@ -43,4 +43,4 @@
 
 ---
 
-> [← Previous: The Dragon and the Blossom](Theria-Ch13-The-Dragon-and-the-Blossom.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch14-The-Hags-True-Form-Transcript.md) | [Next: The Coven's Bargain →](Theria-Ch15-The-Covens-Bargain.md)
+> [← Previous: The Dragon and the Blossom](Theria-Ch13-The-Dragon-and-the-Blossom.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Coven's Bargain →](Theria-Ch15-The-Covens-Bargain.md)

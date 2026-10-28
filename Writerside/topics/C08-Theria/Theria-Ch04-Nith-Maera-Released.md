@@ -1,6 +1,6 @@
 # Chapter 4: Nith M'aera Released
 
-> [← Previous: The Cult's Hideout](Theria-Ch03-The-Cults-Hideout.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch04-Nith-Maera-Released-Transcript.md) | [Next: Two Worlds, One Memory →](Theria-Ch05-Two-Worlds-One-Memory.md)
+> [← Previous: The Cult's Hideout](Theria-Ch03-The-Cults-Hideout.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Two Worlds, One Memory →](Theria-Ch05-Two-Worlds-One-Memory.md)
 
 ---
 
@@ -43,4 +43,4 @@
 
 ---
 
-> [← Previous: The Cult's Hideout](Theria-Ch03-The-Cults-Hideout.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch04-Nith-Maera-Released-Transcript.md) | [Next: Two Worlds, One Memory →](Theria-Ch05-Two-Worlds-One-Memory.md)
+> [← Previous: The Cult's Hideout](Theria-Ch03-The-Cults-Hideout.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: Two Worlds, One Memory →](Theria-Ch05-Two-Worlds-One-Memory.md)

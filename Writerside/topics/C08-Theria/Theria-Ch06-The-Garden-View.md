@@ -1,6 +1,6 @@
 # Chapter 6: The Garden View
 
-> [← Previous: Two Worlds, One Memory](Theria-Ch05-Two-Worlds-One-Memory.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch06-The-Garden-View-Transcript.md) | [Next: The College of Cumeyr →](Theria-Ch07-The-College-of-Cumeyr.md)
+> [← Previous: Two Worlds, One Memory](Theria-Ch05-Two-Worlds-One-Memory.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The College of Cumeyr →](Theria-Ch07-The-College-of-Cumeyr.md)
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-> [← Previous: Two Worlds, One Memory](Theria-Ch05-Two-Worlds-One-Memory.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch06-The-Garden-View-Transcript.md) | [Next: The College of Cumeyr →](Theria-Ch07-The-College-of-Cumeyr.md)
+> [← Previous: Two Worlds, One Memory](Theria-Ch05-Two-Worlds-One-Memory.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The College of Cumeyr →](Theria-Ch07-The-College-of-Cumeyr.md)

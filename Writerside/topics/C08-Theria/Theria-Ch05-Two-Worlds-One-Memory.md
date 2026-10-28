@@ -1,6 +1,6 @@
 # Chapter 5: Two Worlds, One Memory
 
-> [← Previous: Nith M'aera Released](Theria-Ch04-Nith-Maera-Released.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch05-Two-Worlds-One-Memory-Transcript.md) | [Next: The Garden View →](Theria-Ch06-The-Garden-View.md)
+> [← Previous: Nith M'aera Released](Theria-Ch04-Nith-Maera-Released.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Garden View →](Theria-Ch06-The-Garden-View.md)
 
 ---
 
@@ -48,4 +48,4 @@
 
 ---
 
-> [← Previous: Nith M'aera Released](Theria-Ch04-Nith-Maera-Released.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch05-Two-Worlds-One-Memory-Transcript.md) | [Next: The Garden View →](Theria-Ch06-The-Garden-View.md)
+> [← Previous: Nith M'aera Released](Theria-Ch04-Nith-Maera-Released.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Garden View →](Theria-Ch06-The-Garden-View.md)

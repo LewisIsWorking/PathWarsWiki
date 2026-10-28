@@ -1,6 +1,6 @@
 # Chapter 8: South to Wanhoop
 
-> [← Previous: The College of Cumeyr](Theria-Ch07-The-College-of-Cumeyr.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch08-South-to-Wanhoop-Transcript.md) | [Next: The Cursed Village →](Theria-Ch09-The-Cursed-Village.md)
+> [← Previous: The College of Cumeyr](Theria-Ch07-The-College-of-Cumeyr.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Cursed Village →](Theria-Ch09-The-Cursed-Village.md)
 
 ---
 
@@ -30,4 +30,4 @@
 
 ---
 
-> [← Previous: The College of Cumeyr](Theria-Ch07-The-College-of-Cumeyr.md) | [Overview](C08-Theria.md) | [Transcript](Theria-Ch08-South-to-Wanhoop-Transcript.md) | [Next: The Cursed Village →](Theria-Ch09-The-Cursed-Village.md)
+> [← Previous: The College of Cumeyr](Theria-Ch07-The-College-of-Cumeyr.md) | [Overview](C08-Theria.md) | [Transcripts](../Play-by-posts/Transcripts/C08-Theria-PBP-Index.md) | [Next: The Cursed Village →](Theria-Ch09-The-Cursed-Village.md)
