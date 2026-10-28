@@ -180,6 +180,70 @@ This round Zerius appears in the chamber of the Sun, joining the party and becom
 >> - Tal'Lysae takes 8 damage. 0 charges remain.
 >> 7. Ji Yun skips their turn, spending all actions to fight defensively, and so does their Eidolon.
 
+> Round 4: Acted Enemies.
+>> 1. The Lightning Sigils.
+
+> Round 4: Enemy turns.
+>> 1. 3 tables remain, so 3 bolts.
+>> 2. Bolt 1 vs Fierce Leopard: 24, miss.
+>> 3. Bolt 2 vs Daichi: 39, critical hit. Daichi takes 16 damage, 2 * 1d6 persistent electricity.
+>> 4. Bolt 3 vs Lorn: 28, hit. Lorn takes 4 damage, 1d6 persistent electricity.
+>> 5. The chamber has 2 charges.
+
+## Round 5.
+
+> Round 5: Unacted Allies.
+>> 1. None.
+
+> Round 5: Acted Allies.
+>> 1. Tal'Lysae @PathWars.
+>> 2. Daichi Kenshin @MrNegetZ.
+>> 3. Lorn @Nemesiux.
+>> 4. Ji Yun @Thien_Ming.
+>> 5. Fierce Leopard @RyoYamakawa.
+>> 6. Tarsus LongStaff @buffetraider.
+>> 7. Zerius @altan19931993
+
+> Round 5: Ally Actions.
+>> 1. Tal'Lysae's elemental moves forward. Tal'Lysae strides, aids and fights defensively.
+>> - The chamber spends 1 charge on Tal'Lysae: critical hit, 12 damage, 2 * 1d6 persistent electricity.
+>> - Thievery to aid: 23, hero point reroll to 33. +2 aid bonus to anyone doing Thievery checks.
+>> 2. Daichi uses Lay on Hands, then disables the northern table with Tal'Lysae's aid: success!
+>> 3. Lorn runs across the room to the south-western table, his crystal bones chiming softly.
+>> - When Lorn strides, the chamber blasts him: 6 damage, 1d6 persistent electricity.
+>> - Lorn disables the 2nd western table: CRITICAL SUCCESS!
+>> - ONLY ONE TABLE REMAINS!
+>> - Daichi: "GUYS don't do any SUDDEN movements. Move carefully, there's only 1 table left."
+>> - Tal'Lysae: "The chamber is out of charges, look."
+>> 4. Ji Yun and their Eidolon fight defensively.
+>> 5. Fierce Leopard, Tarsus and Zerius stand their ground, awaiting the final moments of the battle.
+
+> Round 5: Acted Enemies.
+>> 1. The Lightning Sigils.
+
+> Round 5: Enemy turns.
+>> 1. The final scribing table shoots Daichi: 28, a hit for 5 damage and 1d6 persistent electricity.
+>> 2. Daichi uses Nimble Dodge: AC 27 to 29, so the bolt misses. The damage is undone.
+>> 3. The chamber has 0 charges.
+
+## Round 6.
+
+> Round 6: Acted Allies.
+>> 1. Tal'Lysae @PathWars.
+>> 2. Daichi Kenshin @MrNegetZ.
+
+> Round 6: Ally Actions.
+>> 1. Tal'Lysae commands her elemental (2 actions), strides and aids: 33, +2 aid.
+>> 2. Daichi steps, then disables the last table: CRITICAL SUCCESS!
+
+## End of combat.
+
+> 2026-10-17 16:47 UTC: END OF COMBAT! The Chamber of Scribing is disarmed.
+>> - The last script goes dark. The carved lines on all five tables fade to plain stone, and the hum in the walls stops.
+>> - Daichi: "Fucking hell finally!" He sits down: "Let's take a rest for a bit."
+>> - On the north wall, 3 metres left of the sealed doors, a line of light traces a square in the stone, half a metre across. Behind it: brass and the end of a lever.
+>> - The door to the next chamber is unlocked from this side, but barred from the other.
+
 ## HP and Stamina tracker
 
 > Recorded from Foundry each round from Round 4 on, so damage can be checked afterwards.
