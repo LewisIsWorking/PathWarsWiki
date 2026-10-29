@@ -114,13 +114,18 @@ flowchart TD
     direction TB
         v43["<b>21.1 Unfamiliar room</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a21["22. Seven Arches · 🗓️ IRL 4w 3d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a21["22. Seven Arches · 🗓️ IRL 5w 3d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v44["<b>22.1 Stony road</b><br/>🗓️ IRL 2d 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v45["<b>22.2 Misty hills</b><br/>🗓️ IRL 11h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v46["<b>22.3 Clearing in the trees</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v47["<b>22.4 Farmlands</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v48["<b>22.5 Clearing in the trees</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v48["<b>22.5 Clearing in the trees</b><br/>🗓️ IRL 2w 3d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a22["23. Shadow Lands of the First World · 🗓️ IRL 4w 23h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v49["<b>23.1 Shadow Lands of the First World</b><br/>🗓️ IRL 2w 6d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v50["<b>23.2 Footpath through the black trees</b><br/>🗓️ IRL 1w 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -170,6 +175,8 @@ flowchart TD
     v45 --> v46
     v46 --> v47
     v47 --> v48
+    v48 --> v49
+    v49 --> v50
 ```
 
 ## 1. Before play
@@ -961,7 +968,7 @@ flowchart TD
 
 ## 22. Seven Arches
 
-- 🗓️ **IRL:** 15 Aug 2026 to 15 Sep 2026, 4w 3d
+- 🗓️ **IRL:** 15 Aug 2026 to 17 Sep 2026, 5w 3d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 22.1 Stony road
@@ -1001,7 +1008,7 @@ flowchart TD
 
 ### 22.4 Farmlands
 
-- 🗓️ **IRL:** 26 Aug 2026 to 4 Sep 2026, 1w 2d, 64 posts
+- 🗓️ **IRL:** 26 Aug 2026 to 26 Aug 2026, 1w 2d, 63 posts
 - ⏳ **In-game:** not filled in (`"2026-08#62"` in `timelines/C05-Grand-Explorers.json`)
 - 💬 **Time said in posts:** "As the day is coming to an end"; "as the light of the sun dips down"
 
@@ -1012,18 +1019,56 @@ flowchart TD
 - 26 Aug: Twilight Garden killed Shadow of Hunger #01. [↗](https://t.me/Path_Wars/145040/175279)
 - 26 Aug: Illiani killed the last Shadow of Hunger. [↗](https://t.me/Path_Wars/145040/175480)
 - 26 Aug: The party gathered 3 sets of Dark Fey Blood worth 39 GP. [↗](https://t.me/Path_Wars/51357/175512)
-- 04 Sep: Continued onwards and broke through the treeline to a clearing with a portal. [↗](https://t.me/Path_Wars/51357/176998)
 
 ### 22.5 Clearing in the trees
 
-- 🗓️ **IRL:** 4 Sep 2026 to 15 Sep 2026, 1w 3d, 21 posts
-- ⏳ **In-game:** not filled in (`"2026-09#2"` in `timelines/C05-Grand-Explorers.json`)
+- 🗓️ **IRL:** 4 Sep 2026 to 17 Sep 2026, 2w 3d, 26 posts
+- ⏳ **In-game:** not filled in (`"2026-09#1"` in `timelines/C05-Grand-Explorers.json`)
 
 **Events**
 
-- 04 Sep: Identified the view through the portal as the Shadow Lands of the First World. [↗](https://t.me/Path_Wars/51357/177001)
-- 04 Sep: Noticed a whale etching on the portal stone. [↗](https://t.me/Path_Wars/51357/177004)
-- 04 Sep: Sensed the source of the dead bird ritual lay beyond the portal. [↗](https://t.me/Path_Wars/51357/177005)
-- 07 Sep: Anna objected to going through the shadow portal. [↗](https://t.me/Path_Wars/51357/177497)
-- 07 Sep: Watched the portal swirl and glimpsed movement beyond the veil. [↗](https://t.me/Path_Wars/51357/177499)
-- 15 Sep: Agreed to head through the portal. [↗](https://t.me/Path_Wars/51357/179516)
+- 04 Sep: The Grand Explorers break through the treeline into a clearing with a portal set in a moss-covered doorway [↗](https://t.me/Path_Wars/51357/176998)
+- 04 Sep: A faded etching of a whale is seen on the portal stone [↗](https://t.me/Path_Wars/51357/177004)
+- 04 Sep: Twilight senses the source of the dead bird ritual lies beyond the portal [↗](https://t.me/Path_Wars/51357/177005)
+- 07 Sep: Anna refuses to go through the shadow portal and asks her brother what they should do [↗](https://t.me/Path_Wars/51357/177497)
+- 08 Sep: Anna agrees to go if her brother does, offering her magic and gun [↗](https://t.me/Path_Wars/51357/177573)
+- 15 Sep: Horia Constantinescu says they can do it [↗](https://t.me/Path_Wars/51357/179516)
+
+## 23. Shadow Lands of the First World
+
+- 🗓️ **IRL:** 22 Sep 2026 to 21 Oct 2026, 4w 23h
+- ⏳ **In-game:** not all rooms filled in
+
+### 23.1 Shadow Lands of the First World
+
+- 🗓️ **IRL:** 22 Sep 2026 to 13 Oct 2026, 2w 6d, 26 posts
+- ⏳ **In-game:** not filled in (`"2026-09#27"` in `timelines/C05-Grand-Explorers.json`)
+
+**Events**
+
+- 22 Sep: The party steps through the portal into the shadow lands and the portal closes behind them [↗](https://t.me/Path_Wars/51357/180843)
+- 29 Sep: The portal seals with a sharp tearing sound [↗](https://t.me/Path_Wars/51357/181736)
+- 29 Sep: The party realizes they are in the Thin Lands of the First World [↗](https://t.me/Path_Wars/51357/181739)
+- 29 Sep: Everything is drained of colour, with grey grass, black trees and a grey sky [↗](https://t.me/Path_Wars/51357/181740)
+- 29 Sep: Twilight feels the pull from the bird ritual is stronger here and tugs toward the trees [↗](https://t.me/Path_Wars/51357/181747)
+- 29 Sep: Anaiel says the place feels wrong, where the netherworld bleeds into the first world [↗](https://t.me/Path_Wars/51357/181757)
+- 01 Oct: Alitheia's church studies turned up information on planes touched by shadows. [↗](https://t.me/Path_Wars/51357/182177)
+- 01 Oct: A roll of natural 20 with trained arcana totalled 29, including +2 from aid. [↗](https://t.me/Path_Wars/51357/182187)
+- 06 Oct: The church's books identified this part of the First World as the Nighthold, once ruled by Count Ranalc. [↗](https://t.me/Path_Wars/51357/183253)
+- 06 Oct: The GM described how shadow magic hits twice as hard here and light magic half as hard. [↗](https://t.me/Path_Wars/51357/183254)
+- 06 Oct: A footpath wound off between the black trees, and a crow watched the party. [↗](https://t.me/Path_Wars/51357/183255)
+- 13 Oct: The crow dropped onto the path and hopped along it, and a branch snapped behind the party. [↗](https://t.me/Path_Wars/51357/185072)
+
+### 23.2 Footpath through the black trees
+
+- 🗓️ **IRL:** 13 Oct 2026 to 21 Oct 2026, 1w 1d, 8 posts
+- ⏳ **In-game:** not filled in (`"2026-10#9"` in `timelines/C05-Grand-Explorers.json`)
+
+**Events**
+
+- 13 Oct: Cyrus took the front of the party with his shield raised, urging haste. [↗](https://t.me/Path_Wars/51357/185097)
+- 15 Oct: Alitheia readied her battle standard and followed Twilight, with light magic dulled. [↗](https://t.me/Path_Wars/51357/185542)
+- 21 Oct: The jagged branches scraped the party's armour as they walked the narrow path. [↗](https://t.me/Path_Wars/51357/186978)
+- 21 Oct: At a split in the path, the pull in Twilight's chest steered the party away from thorns. [↗](https://t.me/Path_Wars/51357/186979)
+- 21 Oct: The snapping branches behind the party fell quiet, leaving only the howling wind. [↗](https://t.me/Path_Wars/51357/186988)
+- 21 Oct: Colour drained from the surroundings, the ground heaved twice, and a tree grew up out of the earth. [↗](https://t.me/Path_Wars/51357/186990)

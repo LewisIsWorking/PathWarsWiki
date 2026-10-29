@@ -11,7 +11,7 @@ flowchart TD
     direction TB
         v0["<b>1.1 Setup posts</b><br/>🗓️ IRL 19w 5d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
     end
-    subgraph a1["2. The Stargazer · 🗓️ IRL 33w 6d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a1["2. The Stargazer · 🗓️ IRL 35w 1d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
         v1["<b>2.1 Brig</b><br/>🗓️ IRL 10w 4d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
         v2["<b>2.2 Rec Room</b><br/>🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
@@ -25,7 +25,16 @@ flowchart TD
         v10["<b>2.10 Western Upper Hallway</b><br/>🗓️ IRL 1d 3h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v11["<b>2.11 Room 1</b><br/>🗓️ IRL 14w 4d ▰▰▰▰▰▰▰▱▱▱<br/>⏳ In-game ?"]
         v12["<b>2.12 Kitchen</b><br/>🗓️ IRL 1w 6d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v13["<b>2.13 Bridge</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v13["<b>2.13 Bridge</b><br/>🗓️ IRL 2w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v14["<b>2.14 The Stargazer</b><br/>🗓️ IRL 22h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a2["3. Aballon · 🗓️ IRL 2w 4d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v15["<b>3.1 Above the metal city</b><br/>🗓️ IRL 2w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a3["4. The Stargazer · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v16["<b>4.1 Bridge</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -40,6 +49,9 @@ flowchart TD
     v10 --> v11
     v11 --> v12
     v12 --> v13
+    v13 --> v14
+    v14 --> v15
+    v15 --> v16
 ```
 
 ## 1. Before play
@@ -75,7 +87,7 @@ flowchart TD
 
 ## 2. The Stargazer
 
-- 🗓️ **IRL:** 21 Jan 2026 to 15 Sep 2026, 33w 6d
+- 🗓️ **IRL:** 21 Jan 2026 to 24 Sep 2026, 35w 1d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 2.1 Brig
@@ -256,7 +268,7 @@ flowchart TD
 
 ### 2.12 Kitchen
 
-- 🗓️ **IRL:** 22 Aug 2026 to 26 Aug 2026, 1w 6d, 59 posts
+- 🗓️ **IRL:** 22 Aug 2026 to 4 Sep 2026, 1w 6d, 61 posts
 - ⏳ **In-game:** not filled in (`"2026-08#23"` in `timelines/C09-Metal-City.json`)
 - 💬 **Time said in posts:** "for several days"
 
@@ -268,17 +280,71 @@ flowchart TD
 - 24 Aug: Arktos tinkered with the cube and deactivated the prison. [↗](https://t.me/Path_Wars/107171/174183)
 - 24 Aug: The cube opened and the prisoners walked free. [↗](https://t.me/Path_Wars/107171/174187)
 - 26 Aug: Bella started jamming a knife into the bridge door to force it open. [↗](https://t.me/Path_Wars/107171/175508)
+- 04 Sep: The kitchen door opens. [↗](https://t.me/Path_Wars/107171/177037)
 
 ### 2.13 Bridge
 
-- 🗓️ **IRL:** 4 Sep 2026 to 15 Sep 2026, 1w 3d, 57 posts
-- ⏳ **In-game:** not filled in (`"2026-09#1"` in `timelines/C09-Metal-City.json`)
+- 🗓️ **IRL:** 4 Sep 2026 to 23 Sep 2026, 2w 4d, 161 posts
+- ⏳ **In-game:** not filled in (`"2026-09#3"` in `timelines/C09-Metal-City.json`)
 
 **Events**
 
-- 04 Sep: The party saw the bridge. [↗](https://t.me/Path_Wars/107171/177039)
-- 04 Sep: The party saw Captain Vex Ashburn. [↗](https://t.me/Path_Wars/107171/177061)
-- 10 Sep: The ship shook as necro-missiles struck it. [↗](https://t.me/Path_Wars/107171/178078)
-- 13 Sep: Captain Vex Ashburn ordered the Nova pirates to attack. [↗](https://t.me/Path_Wars/107171/178742)
-- 15 Sep: Arktos blasted Captain Vex Ashburn to within an inch of her life. [↗](https://t.me/Path_Wars/107171/179422)
-- 15 Sep: Bella urged everyone to get out fast. [↗](https://t.me/Path_Wars/107171/179518)
+- 04 Sep: The party sees Captain Vex Ashburn on the bridge. [↗](https://t.me/Path_Wars/107171/177061)
+- 13 Sep: Captain Vex Ashburn orders the nova pirates to attack and combat begins. [↗](https://t.me/Path_Wars/107171/178743)
+- 14 Sep: Zels stabs Captain Vex Ashburn with a main-gauche and slashes her with a phase cutlass. [↗](https://t.me/Path_Wars/107171/178924)
+- 15 Sep: Arktos blasts Captain Vex Ashburn to 1 HP and she falls to her knees. [↗](https://t.me/Path_Wars/107171/179422)
+- 16 Sep: Bella hurls her kusarigama and slams the pirate helmsman Ovvat to the floor non-lethally. [↗](https://t.me/Path_Wars/107171/179827)
+- 23 Sep: The ship locks onto its destination and blasts off toward Aballon. [↗](https://t.me/Path_Wars/107171/180965)
+
+### 2.14 The Stargazer
+
+- 🗓️ **IRL:** 23 Sep 2026 to 24 Sep 2026, 22h, 9 posts
+- ⏳ **In-game:** not filled in (`"2026-09#164"` in `timelines/C09-Metal-City.json`)
+
+**Events**
+
+- 23 Sep: Arktos hands the piloting to Zels and the party rushes across the ship making quick repairs. [↗](https://t.me/Path_Wars/107171/181057)
+- 24 Sep: Arktos applies quick fixes to the wiring, gears and pistons in the walls. [↗](https://t.me/Path_Wars/107171/181155)
+- 24 Sep: The ship enters the drift. [↗](https://t.me/Path_Wars/107171/181162)
+
+## 3. Aballon
+
+- 🗓️ **IRL:** 24 Sep 2026 to 10 Oct 2026, 2w 4d
+- ⏳ **In-game:** not all rooms filled in
+
+### 3.1 Above the metal city
+
+- 🗓️ **IRL:** 24 Sep 2026 to 10 Oct 2026, 2w 4d, 16 posts
+- ⏳ **In-game:** not filled in (`"2026-09#173"` in `timelines/C09-Metal-City.json`)
+
+**Events**
+
+- 24 Sep: The party awakens above Aballon, above the metal city. [↗](https://t.me/Path_Wars/107171/181166)
+- 24 Sep: Laetheron suggests running a scan to check for pursuit. [↗](https://t.me/Path_Wars/107171/181189)
+- 29 Sep: Oofy voices doubt about whether the pirate ship was destroyed or escaped. [↗](https://t.me/Path_Wars/107171/181804)
+- 30 Sep: The scan shows the city on the screen. [↗](https://t.me/Path_Wars/107171/182071)
+- 03 Oct: Bella asks whether the city is mostly normal and whether they need to stay on guard. [↗](https://t.me/Path_Wars/107171/182679)
+- 08 Oct: Oofy says the city is mostly normal, safer than most cities, with Anacite protectors patrolling and cameras everywhere. [↗](https://t.me/Path_Wars/107171/183978)
+- 08 Oct: Oofy gives three tips: avoid the rooftops at fullbright, stay near the air pumps, and do not leave the city. [↗](https://t.me/Path_Wars/107171/183979)
+- 08 Oct: Laetheron calls the city an interesting one. [↗](https://t.me/Path_Wars/107171/184195)
+- 08 Oct: Laetheron suggests they get going, since they have a meeting to attend. [↗](https://t.me/Path_Wars/107171/184196)
+- 10 Oct: Bella agrees and says they should go. [↗](https://t.me/Path_Wars/107171/184476)
+
+## 4. The Stargazer
+
+- 🗓️ **IRL:** 13 Oct 2026 to 22 Oct 2026, 1w 2d
+- ⏳ **In-game:** not all rooms filled in
+
+### 4.1 Bridge
+
+- 🗓️ **IRL:** 13 Oct 2026 to 22 Oct 2026, 1w 2d, 8 posts
+- ⏳ **In-game:** not filled in (`"2026-10#7"` in `timelines/C09-Metal-City.json`)
+
+**Events**
+
+- 13 Oct: Oofy stops at the bridge viewing glass, emits a low tone, and the Stargazer's screens flicker with it before he says something has been installed and changed in him. [↗](https://t.me/Path_Wars/107171/185095)
+- 13 Oct: Oofy says something has passed through him, that he knows things he did not before, that The Scream left something in him, and that he wants to join the crew. [↗](https://t.me/Path_Wars/107171/185096)
+- 21 Oct: Oofy says he does not need an answer yet, that the meeting will not wait, and offers to lead the way. [↗](https://t.me/Path_Wars/107171/187002)
+- 21 Oct: Bella says she does not know what or who is Screaming, and agrees to go to the meeting. [↗](https://t.me/Path_Wars/107171/187104)
+- 22 Oct: Laetheron says they always appreciate another helping hand and mind. [↗](https://t.me/Path_Wars/107171/187157)
+- 22 Oct: Laetheron says the Professor has been kept waiting long enough and suggests talking more on the way. [↗](https://t.me/Path_Wars/107171/187158)

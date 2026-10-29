@@ -2177,51 +2177,143 @@
       ]
     },
     "2026-09": {
-      "messages": 22,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 44,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
-          "last": 1,
+          "last": 26,
           "area": "farmlands of Seven Arches",
-          "location": "farmlands of Seven Arches",
+          "location": "clearing in the trees",
           "events": [
             {
               "at": 1,
-              "text": "Continued onwards and broke through the treeline to a clearing with a portal."
+              "text": "The Grand Explorers break through the treeline into a clearing with a portal set in a moss-covered doorway"
+            },
+            {
+              "at": 7,
+              "text": "A faded etching of a whale is seen on the portal stone"
+            },
+            {
+              "at": 8,
+              "text": "Twilight senses the source of the dead bird ritual lies beyond the portal"
+            },
+            {
+              "at": 12,
+              "text": "Anna refuses to go through the shadow portal and asks her brother what they should do"
+            },
+            {
+              "at": 20,
+              "text": "Anna agrees to go if her brother does, offering her magic and gun"
+            },
+            {
+              "at": 22,
+              "text": "Horia Constantinescu says they can do it"
             }
           ],
           "time_cues": []
         },
         {
-          "first": 2,
-          "last": 22,
-          "area": "farmlands of Seven Arches",
-          "location": "clearing in the trees",
+          "first": 27,
+          "last": 44,
+          "area": "Shadow Lands of the First World",
+          "location": "Shadow Lands of the First World",
           "events": [
             {
+              "at": 27,
+              "text": "The party steps through the portal into the shadow lands and the portal closes behind them"
+            },
+            {
+              "at": 28,
+              "text": "The portal seals with a sharp tearing sound"
+            },
+            {
+              "at": 31,
+              "text": "The party realizes they are in the Thin Lands of the First World"
+            },
+            {
+              "at": 32,
+              "text": "Everything is drained of colour, with grey grass, black trees and a grey sky"
+            },
+            {
+              "at": 39,
+              "text": "Twilight feels the pull from the bird ritual is stronger here and tugs toward the trees"
+            },
+            {
+              "at": 42,
+              "text": "Anaiel says the place feels wrong, where the netherworld bleeds into the first world"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 16,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 8,
+          "area": "Shadow Lands of the First World",
+          "location": "Shadow Lands of the First World",
+          "events": [
+            {
+              "at": 3,
+              "text": "Alitheia's church studies turned up information on planes touched by shadows."
+            },
+            {
               "at": 4,
-              "text": "Identified the view through the portal as the Shadow Lands of the First World."
+              "text": "A roll of natural 20 with trained arcana totalled 29, including +2 from aid."
+            },
+            {
+              "at": 5,
+              "text": "The church's books identified this part of the First World as the Nighthold, once ruled by Count Ranalc."
+            },
+            {
+              "at": 6,
+              "text": "The GM described how shadow magic hits twice as hard here and light magic half as hard."
             },
             {
               "at": 7,
-              "text": "Noticed a whale etching on the portal stone."
+              "text": "A footpath wound off between the black trees, and a crow watched the party."
             },
             {
               "at": 8,
-              "text": "Sensed the source of the dead bird ritual lay beyond the portal."
+              "text": "The crow dropped onto the path and hopped along it, and a branch snapped behind the party."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 9,
+          "last": 16,
+          "area": "Shadow Lands of the First World",
+          "location": "footpath through the black trees",
+          "events": [
+            {
+              "at": 9,
+              "text": "Cyrus took the front of the party with his shield raised, urging haste."
             },
             {
-              "at": 12,
-              "text": "Anna objected to going through the shadow portal."
+              "at": 11,
+              "text": "Alitheia readied her battle standard and followed Twilight, with light magic dulled."
+            },
+            {
+              "at": 13,
+              "text": "The jagged branches scraped the party's armour as they walked the narrow path."
             },
             {
               "at": 14,
-              "text": "Watched the portal swirl and glimpsed movement beyond the veil."
+              "text": "At a split in the path, the pull in Twilight's chest steered the party away from thorns."
             },
             {
-              "at": 22,
-              "text": "Agreed to head through the portal."
+              "at": 15,
+              "text": "The snapping branches behind the party fell quiet, leaving only the howling wind."
+            },
+            {
+              "at": 16,
+              "text": "Colour drained from the surroundings, the ground heaved twice, and a tree grew up out of the earth."
             }
           ],
           "time_cues": []

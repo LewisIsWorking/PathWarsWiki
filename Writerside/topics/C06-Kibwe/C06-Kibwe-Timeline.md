@@ -62,7 +62,7 @@ flowchart TD
     direction TB
         v33["<b>7.1 Paper-stone</b><br/>🗓️ IRL 1w 3d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a7["8. Kibwe · 🗓️ IRL 28w 2d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a7["8. Kibwe · 🗓️ IRL 34w 2d ▰▰▰▰▰▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v34["<b>8.1 Wide merchant streets</b><br/>🗓️ IRL 3d 2h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v35["<b>8.2 Watchtower</b><br/>🗓️ IRL 8w 2d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
@@ -73,6 +73,10 @@ flowchart TD
         v40["<b>8.7 Chamber of Sleeping</b><br/>🗓️ IRL 1w 5h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v41["<b>8.8 Chamber of Welcome</b><br/>🗓️ IRL 8w 4d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
         v42["<b>8.9 Scribing chamber</b><br/>🗓️ IRL 3w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v43["<b>8.10 Chamber of the sun</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v44["<b>8.11 Scribing chamber</b><br/>🗓️ IRL 1d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v45["<b>8.12 Chamber of the sun</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v46["<b>8.13 Scribing chamber</b><br/>🗓️ IRL 5w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -116,6 +120,10 @@ flowchart TD
     v39 --> v40
     v40 --> v41
     v41 --> v42
+    v42 --> v43
+    v43 --> v44
+    v44 --> v45
+    v45 --> v46
 ```
 
 ## 1. Crumbling ruins of Holy Xatramba
@@ -713,7 +721,7 @@ flowchart TD
 
 ## 8. Kibwe
 
-- 🗓️ **IRL:** 1 Mar 2026 to 15 Sep 2026, 28w 2d
+- 🗓️ **IRL:** 1 Mar 2026 to 27 Oct 2026, 34w 2d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 8.1 Wide merchant streets
@@ -864,8 +872,9 @@ flowchart TD
 
 ### 8.9 Scribing chamber
 
-- 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d, 124 posts
+- 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d, 75 posts
 - ⏳ **In-game:** not filled in (`"2026-08#166"` in `timelines/C06-Kibwe.json`)
+- 💬 **Time said in posts:** "Round 1!"
 
 **Events**
 
@@ -873,9 +882,72 @@ flowchart TD
 - 29 Aug: No magic was found on the door except sigils. [↗](https://t.me/Path_Wars/40585/175915)
 - 31 Aug: The door did not seem trapped. [↗](https://t.me/Path_Wars/40585/176375)
 - 31 Aug: Tal'Lysae asked about forging a creation from slain foes. [↗](https://t.me/Path_Wars/40585/176426)
-- 02 Sep: Daichi opened the door of the chamber of scribing. [↗](https://t.me/Path_Wars/40585/176769)
-- 04 Sep: The party entered the scribing chamber covered in maps and stone slabs. [↗](https://t.me/Path_Wars/40585/177016)
-- 04 Sep: The slabs emitted lightning bolts and combat began. [↗](https://t.me/Path_Wars/40585/177022)
-- 04 Sep: Master Cho Kobo stayed out of combat to guard the gnomes. [↗](https://t.me/Path_Wars/40585/177028)
-- 15 Sep: Eda Stone-Worth's voice said a new temple Guardian was needed. [↗](https://t.me/Path_Wars/40585/179175)
-- 15 Sep: The lightning sigils glowed and struck five allies. [↗](https://t.me/Path_Wars/137075/179382)
+- 02 Sep: Daichi opens the door to the chamber of scribing. [↗](https://t.me/Path_Wars/40585/176769)
+- 04 Sep: Each of the five slabs blasts out a lightning bolt. [↗](https://t.me/Path_Wars/40585/177022)
+- 04 Sep: Combat begins against the lightning sigils. [↗](https://t.me/Path_Wars/40585/177024)
+- 04 Sep: Fierce Leopard wins initiative. [↗](https://t.me/Path_Wars/137075/177026)
+- 08 Sep: Tarsus moves along the wall to examine a slab and its lightning rune. [↗](https://t.me/Path_Wars/40585/177564)
+- 08 Sep: A lightning bolt begins forming, about to strike Tarsus. [↗](https://t.me/Path_Wars/40585/177571)
+
+### 8.10 Chamber of the sun
+
+- 🗓️ **IRL:** 15 Sep 2026 to 15 Sep 2026, <1h, 8 posts
+- ⏳ **In-game:** not filled in (`"2026-09#50"` in `timelines/C06-Kibwe.json`)
+
+**Events**
+
+- 15 Sep: An burst of light erupts from the centre of the sun symbol in the chamber of the sun. [↗](https://t.me/Path_Wars/40585/179170)
+- 15 Sep: The temple shakes as energy beams of light explode from the sun symbol. [↗](https://t.me/Path_Wars/40585/179172)
+- 15 Sep: The party is connected to Eda Stone-Worth, who says she is dead and frozen and that a new Guardian of the SUN is needed. [↗](https://t.me/Path_Wars/40585/179175)
+- 15 Sep: A blonde figure and an inky-black shadow figure land face-first on the floor. [↗](https://t.me/Path_Wars/40585/179208)
+- 15 Sep: The party glows with solar energy as avatars of the temple and of Eda Stone-Worth. [↗](https://t.me/Path_Wars/40585/179260)
+
+### 8.11 Scribing chamber
+
+- 🗓️ **IRL:** 15 Sep 2026 to 15 Sep 2026, 1d, 41 posts
+- ⏳ **In-game:** not filled in (`"2026-09#58"` in `timelines/C06-Kibwe.json`)
+- 💬 **Time said in posts:** "ROUND 2 BEGINS NOW!"
+
+**Events**
+
+- 15 Sep: The five tables of lightning sigils start to glow. [↗](https://t.me/Path_Wars/137075/179382)
+- 15 Sep: Ji Yun's Blood God Eidolon takes 6 damage and persistent electricity damage. [↗](https://t.me/Path_Wars/137075/179391)
+- 15 Sep: Lorn takes 16 damage and persistent electricity damage from a critical hit. [↗](https://t.me/Path_Wars/137075/179393)
+- 15 Sep: Five rays of lightning streak across the room and scorch the five heroes. [↗](https://t.me/Path_Wars/40585/179402)
+- 15 Sep: Tal'lysae offers her aid to whoever wants it for thievery. [↗](https://t.me/Path_Wars/137075/179407)
+- 15 Sep: Tal'Lysae's aid roll is 26, giving a +2 circumstance bonus to the roller. [↗](https://t.me/Path_Wars/137075/179468)
+
+### 8.12 Chamber of the sun
+
+- 🗓️ **IRL:** 16 Sep 2026 to 16 Sep 2026, <1h, 9 posts
+- ⏳ **In-game:** not filled in (`"2026-09#99"` in `timelines/C06-Kibwe.json`)
+- 💬 **Time said in posts:** "Round 2"
+
+**Events**
+
+- 16 Sep: Zerius and Little Dread move in tandem toward the party. [↗](https://t.me/Path_Wars/137075/179622)
+- 16 Sep: Zerius stumbles as the ground beneath him changes. [↗](https://t.me/Path_Wars/40585/179627)
+- 16 Sep: Zerius receives a psychic imprint of the campaign events and Kibwe lore from Eda Stone-Worth. [↗](https://t.me/Path_Wars/40585/179648)
+- 16 Sep: The party strides across the battlefield, still glimmering with sunlight. [↗](https://t.me/Path_Wars/137075/179651)
+- 16 Sep: Zerius appears in the chamber of the sun and becomes the next avatar of Eda Stone-Worth. [↗](https://t.me/Path_Wars/137075/179677)
+
+### 8.13 Scribing chamber
+
+- 🗓️ **IRL:** 16 Sep 2026 to 27 Oct 2026, 5w 5d, 287 posts
+- ⏳ **In-game:** not filled in (`"2026-09#108"` in `timelines/C06-Kibwe.json`)
+- 💬 **Time said in posts:** "The party rests for 20 minutes in the dark chamber."; "The twenty minutes pass in the dark chamber."
+
+**Events**
+
+- 16 Sep: Daichi casts heightened longstrider and strides with magically enhanced speed. [↗](https://t.me/Path_Wars/137075/179875)
+- 17 Sep: The Heroes of Kibwe battle the lightning sigils to the west. [↗](https://t.me/Path_Wars/40585/180178)
+- 18 Sep: Tarsus arrives at the nearest table and examines the rune. [↗](https://t.me/Path_Wars/137075/180302)
+- 20 Sep: Disabling the table's lightning blast script requires an expert thievery check with DC 25. [↗](https://t.me/Path_Wars/137075/180534)
+- 29 Sep: Tal'lysae aids Daichi's attempt to disarm the tables. [↗](https://t.me/Path_Wars/40585/181729)
+- 29 Sep: Zerius strides west toward the chamber of scribing. [↗](https://t.me/Path_Wars/137075/181966)
+- 07 Oct: A stone scribing table swapped places with Ji Yun's Blood God Eidolon. [↗](https://t.me/Path_Wars/40585/183462)
+- 08 Oct: Daichi disabled the first rune table, and the trap lost one table. [↗](https://t.me/Path_Wars/137075/183739)
+- 17 Oct: Daichi deactivated the lightning script of the northern table. [↗](https://t.me/Path_Wars/40585/185883)
+- 17 Oct: Combat ended when the last scribing table was disarmed. [↗](https://t.me/Path_Wars/137075/186020)
+- 17 Oct: The door to the next chamber was unlocked from this side but barred from the other. [↗](https://t.me/Path_Wars/40585/186028)
+- 24 Oct: Repeated attempts to force open the brass panel failed, and the panel held. [↗](https://t.me/Path_Wars/40585/187421)

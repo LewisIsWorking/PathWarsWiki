@@ -1713,38 +1713,143 @@
       ]
     },
     "2026-09": {
-      "messages": 52,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 69,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
-          "last": 52,
+          "last": 61,
           "area": "small bunker",
           "location": "small bunker",
           "events": [
             {
               "at": 1,
-              "text": "Livy made a basic environmental protection module from Space gremlin parts."
-            },
-            {
-              "at": 32,
-              "text": "Livy made a streetsweeper weapon from gremlin leftovers and Ferofluid."
+              "text": "Livy agrees to make a basic environmental protection module from space gremlin parts"
             },
             {
               "at": 35,
-              "text": "The group planned to film the heist and post scam evidence on AbsolomTube."
+              "text": "The group plans to go in, go out, film the heist, and post the video on AbsolomTube"
             },
             {
-              "at": 40,
-              "text": "Nikk-Nakk plugged in the group's batteries for charging."
+              "at": 46,
+              "text": "Livy plans to build a stealthy camera drone from the remaining monster parts"
             },
             {
               "at": 48,
-              "text": "Nikk-Nakk showed Rune an outdated interior layout on a screen."
+              "text": "Nikk-Nakk loads a PDF of the building interior onto a screen"
             },
             {
-              "at": 50,
-              "text": "Livy constructed a camera bot from remaining monster parts."
+              "at": 59,
+              "text": "Anthony declares the party ready to go"
+            },
+            {
+              "at": 60,
+              "text": "Nikk-Nakk sells the party the gear"
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 62,
+          "last": 69,
+          "area": "Little Akiton",
+          "location": "Golden Vault Branch #009",
+          "events": [
+            {
+              "at": 62,
+              "text": "The party leaves with Nikk-Nakk and heads to Golden Vault Branch #009"
+            },
+            {
+              "at": 63,
+              "text": "The marble building is cracked and in need of repair"
+            },
+            {
+              "at": 65,
+              "text": "Terra asks for the actual plan, noting they cannot just go through the front"
+            },
+            {
+              "at": 66,
+              "text": "Nikk-Nakk says there are many ways to approach the heist"
+            },
+            {
+              "at": 67,
+              "text": "Anthony says his idol presence means they surely can"
+            },
+            {
+              "at": 69,
+              "text": "Rune sits on a concrete ledge and twirls a drumstick while thinking"
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 16,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 6,
+          "area": "Little Akiton",
+          "location": "Golden Vault Branch #009",
+          "events": [
+            {
+              "at": 1,
+              "text": "The party sees Golden Vault Branch #009, dominated by a replica of the AbadarCorp pyramid and key, with cleaning drones scrubbing graffiti and no security present."
+            },
+            {
+              "at": 2,
+              "text": "The AbadarCorp warehouse, joined to the bank by a covered loading bay, is found behind the bank with closed shutter doors and a keycard reader."
+            },
+            {
+              "at": 3,
+              "text": "The warehouse is described as three times the size of the bank, with 60+ metres of grey shutters and stacked cargo containers."
+            },
+            {
+              "at": 4,
+              "text": "Nikk-Nakk explains that Rune's courier pass will open the warehouse, which connects to the bank's back end."
+            },
+            {
+              "at": 5,
+              "text": "Nikk-Nakk reports that the gold armour squad guarding the warehouse was pulled to the big Golden Vault because of power flickers."
+            },
+            {
+              "at": 6,
+              "text": "Nikk-Nakk assigns roles: Rune enters through the back, Livy keeps the front desk busy, and Lai watches for anyone coming."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 16,
+          "area": "Little Akiton",
+          "location": "Little Akiton",
+          "events": [
+            {
+              "at": 7,
+              "text": "Lai looks at the building from outside and says she does not trust it."
+            },
+            {
+              "at": 8,
+              "text": "Nikk-Nakk points out that the cleaning drones have cameras and the keycard reader logs every swipe."
+            },
+            {
+              "at": 12,
+              "text": "Livy says she will stream and use her idol charm on the reception desk, and heads toward the reception entrance with her camera bot."
+            },
+            {
+              "at": 13,
+              "text": "Lai whispers to Roneles and Nikk-Nakk that Livy's streaming will be bad."
+            },
+            {
+              "at": 14,
+              "text": "Terra posts an image and asks what they see, along with the drones' patrol patterns."
+            },
+            {
+              "at": 15,
+              "text": "Roneles reacts to the stream, saying chat is real and that they are cooked."
             }
           ],
           "time_cues": []

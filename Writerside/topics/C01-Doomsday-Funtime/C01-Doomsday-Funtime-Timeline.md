@@ -161,9 +161,19 @@ flowchart TD
         v62["<b>30.1 Raven Grow</b><br/>🗓️ IRL 6w 1d ▰▰▰▰▰▱▱▱▱▱<br/>⏳ In-game ?"]
         v63["<b>30.2 Outskirts</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a30["31. The Harrow · 🗓️ IRL 3w 6d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a30["31. The Harrow · 🗓️ IRL 5w 1d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v64["<b>31.1 Smith's Volcano</b><br/>🗓️ IRL 3w 6d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v64["<b>31.1 Smith's Volcano</b><br/>🗓️ IRL 5w 1d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a31["32. Raven Grow · 🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v65["<b>32.1 Raven Grow</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a32["33. Greywall Prison · 🗓️ IRL 2w 4d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v66["<b>33.1 Gate between the two stone towers</b><br/>🗓️ IRL 1d 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v67["<b>33.2 Inside the walls</b><br/>🗓️ IRL 2w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v68["<b>33.3 Grey-wall Prison's Dungeon</b><br/>🗓️ IRL 1d 11h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -229,6 +239,10 @@ flowchart TD
     v61 --> v62
     v62 --> v63
     v63 --> v64
+    v64 --> v65
+    v65 --> v66
+    v66 --> v67
+    v67 --> v68
 ```
 
 ## 1. Location not stated
@@ -1320,12 +1334,12 @@ flowchart TD
 
 ## 31. The Harrow
 
-- 🗓️ **IRL:** 16 Aug 2026 to 13 Sep 2026, 3w 6d
+- 🗓️ **IRL:** 16 Aug 2026 to 13 Sep 2026, 5w 1d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 31.1 Smith's Volcano
 
-- 🗓️ **IRL:** 16 Aug 2026 to 13 Sep 2026, 3w 6d, 41 posts
+- 🗓️ **IRL:** 16 Aug 2026 to 13 Sep 2026, 5w 1d, 41 posts
 - ⏳ **In-game:** not filled in (`"2026-08#61"` in `timelines/C01-Doomsday-Funtime.json`)
 - 💬 **Time said in posts:** "15:00"; "Day 4"
 
@@ -1337,9 +1351,74 @@ flowchart TD
 - 18 Aug: The party discussed whether Cardigan could track the ghost. [↗](https://t.me/Path_Wars/25059/173133)
 - 18 Aug: The GM explained the Ethereal Plane is home to ghosts. [↗](https://t.me/Path_Wars/25059/173143)
 - 18 Aug: The GM asked to move the conversation to chat. [↗](https://t.me/Path_Wars/25059/173147)
-- 02 Sep: Baylan said the party would likely return to the prison to continue exorcising it and look for information on the throat-slashing ghost. [↗](https://t.me/Path_Wars/25059/176788)
-- 03 Sep: Alisee put a hand on Cardigan's shoulder and warned her not to read the book because it was bad for her. [↗](https://t.me/Path_Wars/25059/176854)
-- 05 Sep: Katmidlar asked what was wrong with Cardigan reading a book of obscene character. [↗](https://t.me/Path_Wars/25059/177114)
-- 06 Sep: Cardigan jumped up excitedly and said to go questing. [↗](https://t.me/Path_Wars/25059/177301)
-- 06 Sep: Cardigan said she had a weird relationship with a space fog monster woman and flexed her ghoul flesh arm. [↗](https://t.me/Path_Wars/25059/177312)
-- 13 Sep: Cardigan asked Selenor what their next move was. [↗](https://t.me/Path_Wars/25059/178758)
+- 02 Sep: Baylan proposed going to the prison to keep exorcising the ghost unless information on the next attack turned up. [↗](https://t.me/Path_Wars/25059/176788)
+- 03 Sep: Cardigan sat reading her book, with blue light flickering in her yellow eyes. [↗](https://t.me/Path_Wars/25059/176852)
+- 03 Sep: Alisee told Cardigan not to read the book because it was bad for her. [↗](https://t.me/Path_Wars/25059/176854)
+- 04 Sep: Cardigan stopped reading the book. [↗](https://t.me/Path_Wars/25059/176979)
+- 06 Sep: Cardigan jumped up and said they should go questing. [↗](https://t.me/Path_Wars/25059/177301)
+- 06 Sep: Cardigan described her relationship with a space fog monster woman and showed her ghoul flesh arm. [↗](https://t.me/Path_Wars/25059/177312)
+
+## 32. Raven Grow
+
+- 🗓️ **IRL:** 22 Sep 2026 to 1 Oct 2026, 1w 2d
+- ⏳ **In-game:** not all rooms filled in
+
+### 32.1 Raven Grow
+
+- 🗓️ **IRL:** 22 Sep 2026 to 1 Oct 2026, 1w 2d, 22 posts
+- ⏳ **In-game:** not filled in (`"2026-09#13"` in `timelines/C01-Doomsday-Funtime.json`)
+- 💬 **Time said in posts:** "Day 4"; "15:30"
+
+**Events**
+
+- 22 Sep: The session log recorded the in-game location as Raven Grow. [↗](https://t.me/Path_Wars/25059/180796)
+- 22 Sep: The GM asked whether the party would walk to Grey Wall. [↗](https://t.me/Path_Wars/25059/180797)
+- 22 Sep: The GM asked whether the party could go to the prison or do some building. [↗](https://t.me/Path_Wars/25059/180885)
+- 29 Sep: The GM asked what the group would do meanwhile if they refused to go to Greywall right now. [↗](https://t.me/Path_Wars/25059/181763)
+- 29 Sep: Cardigan lay down on the grass and looked up at the grey sky. [↗](https://t.me/Path_Wars/25059/181765)
+- 29 Sep: Selenor heard the faint sound of a pipe and a flute, the echoes of his prisoners. [↗](https://t.me/Path_Wars/25059/181766)
+- 01 Oct: The party sets out for Grey-Wall Prison. [↗](https://t.me/Path_Wars/25059/182318)
+
+## 33. Greywall Prison
+
+- 🗓️ **IRL:** 1 Oct 2026 to 19 Oct 2026, 2w 4d
+- ⏳ **In-game:** not all rooms filled in
+
+### 33.1 Gate between the two stone towers
+
+- 🗓️ **IRL:** 1 Oct 2026 to 2 Oct 2026, 1d 7h, 3 posts
+- ⏳ **In-game:** not filled in (`"2026-10#4"` in `timelines/C01-Doomsday-Funtime.json`)
+
+**Events**
+
+- 01 Oct: The party walks the road out of Raven Grow and reaches Greywall Prison. [↗](https://t.me/Path_Wars/25059/182336)
+- 01 Oct: Ordinary rats pick at the food Selenor left at the quiet western tower. [↗](https://t.me/Path_Wars/25059/182337)
+
+### 33.2 Inside the walls
+
+- 🗓️ **IRL:** 3 Oct 2026 to 8 Oct 2026, 2w 1d, 6 posts
+- ⏳ **In-game:** not filled in (`"2026-10#7"` in `timelines/C01-Doomsday-Funtime.json`)
+- 💬 **Time said in posts:** "2026 October 3rd Saturday + 4710 AR, Rova 14th (Wealday)"
+
+**Events**
+
+- 03 Oct: The party passes the gate and sees the Warden's house leaning further, half its roof on the ground. [↗](https://t.me/Path_Wars/25059/182475)
+- 03 Oct: Melody feels a sudden claustrophobia on first passing the gate and is called for a DC 26 Will save. [↗](https://t.me/Path_Wars/25059/182476)
+- 03 Oct: The air inside the walls is heavier and colder, and the light greyer than outside. [↗](https://t.me/Path_Wars/25059/182477)
+- 04 Oct: Moss declares that the party fights the zombies. [↗](https://t.me/Path_Wars/22566/182740)
+- 04 Oct: Combat begins. [↗](https://t.me/Path_Wars/22566/182756)
+
+### 33.3 Grey-wall Prison's Dungeon
+
+- 🗓️ **IRL:** 18 Oct 2026 to 19 Oct 2026, 1d 11h, 27 posts
+- ⏳ **In-game:** not filled in (`"2026-10#13"` in `timelines/C01-Doomsday-Funtime.json`)
+- 💬 **Time said in posts:** "Round 1!"
+
+**Events**
+
+- 18 Oct: Combat with the dungeon skeleton hoard begins and the players win initiative. [↗](https://t.me/Path_Wars/25059/186233)
+- 18 Oct: Carnon fires a spike launcher volley at three skeleton formations, immobilizing the north-west one and slowing the other two. [↗](https://t.me/Path_Wars/25059/186272)
+- 18 Oct: Melody casts a 40ft illusory stone wall in front of the undead and reveals it as an illusion. [↗](https://t.me/Path_Wars/25059/186285)
+- 19 Oct: The skeletal army rises from the bones around the shallow pools. [↗](https://t.me/Path_Wars/25059/186376)
+- 19 Oct: Skeleton Infantry takes 44 damage and persistent fire damage in a multi-hit. [↗](https://t.me/Path_Wars/22566/186502)
+- 19 Oct: Carnon single-handedly destroys one quarter of the skeletal army. [↗](https://t.me/Path_Wars/25059/186509)

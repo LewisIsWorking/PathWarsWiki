@@ -235,6 +235,47 @@
           ]
         }
       ]
+    },
+    "2026-10": {
+      "messages": 28,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 28,
+          "area": "monastery",
+          "location": "monastery",
+          "events": [
+            {
+              "at": 12,
+              "text": "Tal'Lysae says Feyre's hours have been taken by someone else, as her memory has lost pieces before"
+            },
+            {
+              "at": 20,
+              "text": "Tal'Lysae recounts the candle factory: three cocoons opened, Olla, Derek and Zara alive, Olla changing with the shadow in her"
+            },
+            {
+              "at": 21,
+              "text": "Torture Tank, Jim Jasons and Ccullen joined the party at the monastery"
+            },
+            {
+              "at": 22,
+              "text": "Torture Tank, Jim Jasons and Ccullen have since left the party"
+            },
+            {
+              "at": 23,
+              "text": "The Baron made a deal that everyone in the party heard at his manor"
+            },
+            {
+              "at": 25,
+              "text": "The Grief Glass reunited with the dark pocket gateway, which brought the Shadow Dagger to the group"
+            }
+          ],
+          "time_cues": [
+            "the last few hours"
+          ]
+        }
+      ]
     }
   },
   "in_game": {},

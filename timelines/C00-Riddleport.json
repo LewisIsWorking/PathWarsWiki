@@ -1898,43 +1898,303 @@
       ]
     },
     "2026-09": {
-      "messages": 41,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 79,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
-          "last": 41,
+          "last": 43,
           "area": "Silver Succubi",
           "location": "shop",
           "events": [
             {
-              "at": 8,
-              "text": "Cardigan offered Rin and Tater coin to help with work for Marlo."
+              "at": 1,
+              "text": "Tater tells Rin his shoes will slip too much and that he should change them."
+            },
+            {
+              "at": 9,
+              "text": "Cardigan asks for help earning coin, saying they now work for Marlo after taking a big bounty."
             },
             {
               "at": 14,
-              "text": "Rin's shadow emerged and insulted Cardigan."
+              "text": "Rin's shadow rises as a separate figure and swears at someone, and Rin covers its mouth."
             },
             {
               "at": 18,
-              "text": "Cardigan said a wizard dude would try to rob the chest."
+              "text": "Cardigan points at the big chest and says the wizard may try to rob it."
             },
             {
               "at": 23,
-              "text": "Cardigan said the plan was to kill the wizard on sight tomorrow."
-            },
-            {
-              "at": 28,
-              "text": "Shadow said Rin did magic stuff and he was there to hit things."
+              "text": "Cardigan explains the plan: the wizard comes in tomorrow to rob the place and will be killed on sight."
             },
             {
               "at": 36,
-              "text": "Cardigan said she was going to sleep and would meet them tomorrow."
+              "text": "Cardigan says she is going to sleep and will see them tomorrow."
             }
           ],
           "time_cues": [
-            "tomorrow",
             "tomorrow morning"
+          ]
+        },
+        {
+          "first": 44,
+          "last": 53,
+          "area": "bunkhouse",
+          "location": "party's room",
+          "events": [
+            {
+              "at": 44,
+              "text": "The party sleeps in a room with several rows of bunk beds."
+            },
+            {
+              "at": 46,
+              "text": "Shadow Rin lunges at the goblin who banged the pots, shouting at it to shut up."
+            },
+            {
+              "at": 47,
+              "text": "The goblin yelps, nearly drops its lantern and scurries off."
+            },
+            {
+              "at": 48,
+              "text": "Tater throws a fan at the goblin, annoyed by the noise."
+            },
+            {
+              "at": 50,
+              "text": "Shadow Rin dodges the thrown fan and slips back under Rin, who leaves the bunkhouse."
+            },
+            {
+              "at": 52,
+              "text": "Cardigan greets Filiaur and asks if she is ready for the wizard."
+            }
+          ],
+          "time_cues": [
+            "The day ends",
+            "Around 6am"
+          ]
+        },
+        {
+          "first": 54,
+          "last": 76,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 54,
+              "text": "The party is at the Silver Succubi on the morning of Day 2."
+            },
+            {
+              "at": 58,
+              "text": "The big chest in the middle of the main room is open and holds about 10,000 silver pieces."
+            },
+            {
+              "at": 62,
+              "text": "Itchy Brimstone, an imp in an iron cage above the chest, greets the party."
+            },
+            {
+              "at": 67,
+              "text": "Marlo says the Kiss the Succubus tournament is tonight and that the wizard may attend."
+            },
+            {
+              "at": 70,
+              "text": "Marlo hands the party rings of sigil, the Silver Kiss curse mark."
+            },
+            {
+              "at": 71,
+              "text": "Marlo says he will move money to the vault tonight and the floor is theirs while he is down there."
+            }
+          ],
+          "time_cues": [
+            "Day 2.",
+            "06:30am.",
+            "Tonight"
+          ]
+        },
+        {
+          "first": 77,
+          "last": 79,
+          "area": "Silver Succubi",
+          "location": "door",
+          "events": [
+            {
+              "at": 77,
+              "text": "Rin checks each guest at the door, politely and apologetically, and wears the ring."
+            },
+            {
+              "at": 78,
+              "text": "The character stands with the orc Davy Crab-Bucket."
+            },
+            {
+              "at": 79,
+              "text": "Filiaur plans to enter the tournament, watch for cheaters, and use the message cantrip to warn staff."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 32,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 3,
+          "area": "Silver Succubi",
+          "location": "door",
+          "events": [
+            {
+              "at": 1,
+              "text": "Rin whispers to Davy and asks if he has seen anything weird."
+            },
+            {
+              "at": 2,
+              "text": "Davy says Riddleport is full of weird people and points out a man with a moving shadow."
+            },
+            {
+              "at": 3,
+              "text": "Rin insists shadows move all the time, and the shadow flips the bird at Davy."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 4,
+          "last": 5,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 4,
+              "text": "Grudge takes the party's names at the tournament table, deals the opening hand, and asks Filiaur to report any palmed cards."
+            },
+            {
+              "at": 5,
+              "text": "Anxious tells Marlo she has not picked up anything from any guests yet."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 6,
+          "last": 9,
+          "area": "Silver Succubi",
+          "location": "door",
+          "events": [
+            {
+              "at": 6,
+              "text": "Filiaur will enter with the casino chips the party got from Beltias."
+            },
+            {
+              "at": 7,
+              "text": "Rax enters the Silver Succubi in plain clothes and a slightly oversized eyepatch after a messenger said the others had finished preparations early."
+            },
+            {
+              "at": 8,
+              "text": "Ryder takes up his post at the door as the resident muscle and turns away street urchins with a growl."
+            },
+            {
+              "at": 9,
+              "text": "Miracle Max pushes through the doors with his backpack and checks the wards on the Big Book of Miracles."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 10,
+          "last": 19,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 10,
+              "text": "Necrila stands near the imp, and the imp senses a being far stronger than Necrila watching him."
+            },
+            {
+              "at": 11,
+              "text": "Davy warns Rin that the shadow is probably some kind of curse and that he should be wary."
+            },
+            {
+              "at": 13,
+              "text": "Cardigan fails to recognize Rax at first, then realizes who he is and mocks his eyepatch."
+            },
+            {
+              "at": 14,
+              "text": "Grudge recognizes Beltias's chips, drops them into his lockbox, and remarks that they keep finding their way back to the house."
+            },
+            {
+              "at": 17,
+              "text": "Anxious holds up four Potency Crystals she made as extra trinkets for the party."
+            },
+            {
+              "at": 19,
+              "text": "Miracle Max notices many players in the tournament hall acting shady and decides to watch."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 20,
+          "last": 24,
+          "area": "Silver Succubi",
+          "location": "door",
+          "events": [
+            {
+              "at": 20,
+              "text": "Rin insists the shadow is a very good shadow, which then gives a thumbs-up to Davy."
+            },
+            {
+              "at": 21,
+              "text": "Davy hires Ryder for the door and sets out the house rule that anyone can come in."
+            },
+            {
+              "at": 22,
+              "text": "Grudge demands Miracle Max's name, stake and bag contents, and says any glowing or ticking item is his until Max leaves."
+            },
+            {
+              "at": 23,
+              "text": "Ryder says he has been to a few of these events and looks around the room for anyone suspicious."
+            },
+            {
+              "at": 24,
+              "text": "Miracle Max says the bag holds medicinal supplies, experimental remedies and a roast beef sandwich, and that he leaves volatile items at home."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 25,
+          "last": 32,
+          "area": "Silver Succubi",
+          "location": "casino floor",
+          "events": [
+            {
+              "at": 25,
+              "text": "Rax smacks the back of Cardigan's left knee with his metal arm and tells her to stop the fake pirate talk and get to business."
+            },
+            {
+              "at": 27,
+              "text": "Itchy the imp goes silent and presses against the far bars of his cage after Necrila steps under the birdcage."
+            },
+            {
+              "at": 28,
+              "text": "Necrila tells Itchy in Infernal that he may seek the oracle to improve his position once free of his debt."
+            },
+            {
+              "at": 29,
+              "text": "Marlo tells Anxious to give the four violet crystals to anyone who wants one, warning that trouble is coming soon."
+            },
+            {
+              "at": 30,
+              "text": "Miracle Max sees Davy, Grudge, Marlo and the poppet exchange nods, and notices a sailor at the bar with the same full mug as an hour ago."
+            },
+            {
+              "at": 31,
+              "text": "Miracle Max decides the nods are either a greeting ritual or a small operation behind the house's back, and grins."
+            }
+          ],
+          "time_cues": [
+            "For the first time tonight",
+            "an hour ago"
           ]
         }
       ]

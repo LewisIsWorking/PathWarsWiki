@@ -7,25 +7,25 @@ Where the party went, in order. Each outer box is an area, and each box inside i
 
 ```mermaid
 flowchart TD
-    subgraph a0["1. Location not stated · 🗓️ IRL 1w 4d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a0["1. Location not stated · 🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v0["<b>1.1 Not stated</b><br/>🗓️ IRL 1w 4d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v0["<b>1.1 Not stated</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     subgraph a1["2. Nisroch Candle Factory · 🗓️ IRL 1h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
         v1["<b>2.1 Main factory floor</b><br/>🗓️ IRL 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a2["3. Sheriff's house · 🗓️ IRL 2w 5d ▰▰▰▰▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a2["3. Sheriff's house · 🗓️ IRL 2w 5d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v2["<b>3.1 Outside sheriff's house</b><br/>🗓️ IRL 2w 5d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v2["<b>3.1 Outside sheriff's house</b><br/>🗓️ IRL 2w 5d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a3["4. Guard fortress · 🗓️ IRL 1w 4h ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a3["4. Guard fortress · 🗓️ IRL 1w 4h ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v3["<b>4.1 Group quarters</b><br/>🗓️ IRL 1w 4h ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v3["<b>4.1 Group quarters</b><br/>🗓️ IRL 1w 4h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a4["5. Monastery · 🗓️ IRL 6w 3d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a4["5. Monastery · 🗓️ IRL 22w 2d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
-        v4["<b>5.1 Monastery</b><br/>🗓️ IRL 6w 3d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v4["<b>5.1 Monastery</b><br/>🗓️ IRL 22w 2d ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -118,14 +118,14 @@ flowchart TD
 
 ## 5. Monastery
 
-- 🗓️ **IRL:** 15 May 2026 to 29 Jun 2026, 6w 3d
+- 🗓️ **IRL:** 15 May 2026 to 18 Oct 2026, 22w 2d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 5.1 Monastery
 
-- 🗓️ **IRL:** 15 May 2026 to 29 Jun 2026, 6w 3d, 30 posts
+- 🗓️ **IRL:** 15 May 2026 to 18 Oct 2026, 22w 2d, 58 posts
 - ⏳ **In-game:** not filled in (`"2026-05#70"` in `timelines/C11-Dark-Pockets.json`)
-- 💬 **Time said in posts:** "14:00"
+- 💬 **Time said in posts:** "14:00"; "the last few hours"
 
 **Events**
 
@@ -137,3 +137,9 @@ flowchart TD
 - 19 Jun: GM posted the session summary. [↗](https://t.me/Path_Wars/1242/2730)
 - 22 Jun: Poo Poo reacted to Torture trank. [↗](https://t.me/Path_Wars/1242/2743)
 - 29 Jun: GM asked what happened next. [↗](https://t.me/Path_Wars/1242/2761)
+- 18 Oct: Tal'Lysae says Feyre's hours have been taken by someone else, as her memory has lost pieces before [↗](https://t.me/Path_Wars/1242/2979)
+- 18 Oct: Tal'Lysae recounts the candle factory: three cocoons opened, Olla, Derek and Zara alive, Olla changing with the shadow in her [↗](https://t.me/Path_Wars/1242/2993)
+- 18 Oct: Torture Tank, Jim Jasons and Ccullen joined the party at the monastery [↗](https://t.me/Path_Wars/1242/2994)
+- 18 Oct: Torture Tank, Jim Jasons and Ccullen have since left the party [↗](https://t.me/Path_Wars/1242/2995)
+- 18 Oct: The Baron made a deal that everyone in the party heard at his manor [↗](https://t.me/Path_Wars/1242/2996)
+- 18 Oct: The Grief Glass reunited with the dark pocket gateway, which brought the Shadow Dagger to the group [↗](https://t.me/Path_Wars/1242/2998)

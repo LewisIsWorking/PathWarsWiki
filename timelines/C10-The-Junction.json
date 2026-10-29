@@ -34,8 +34,47 @@
       ]
     },
     "2026-09": {
-      "messages": 2,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 10,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 10,
+          "area": "unknown",
+          "location": "unknown",
+          "events": [
+            {
+              "at": 2,
+              "text": "Acomhal, a trade hub in the Eel Sea where many species and factions compete for trade, was introduced."
+            },
+            {
+              "at": 4,
+              "text": "Gloine Mhargadh, the Glass Market, was described as the richest faction, speaking through Ciarán, a Moth-Person."
+            },
+            {
+              "at": 5,
+              "text": "Na hIarannaigh, the Iron Ones, were described as the city's machine-keepers, speaking through Aisling, a Beetle-Person."
+            },
+            {
+              "at": 7,
+              "text": "Clann Deamhan, the Demon Clan, was described as proud, protective of its enclave, and speaking through Tómas, a Flame-Deamhan."
+            },
+            {
+              "at": 9,
+              "text": "Comhairle Acomhal, the Council, was described as slow to act, with Peadar, a Turtle-Person, sitting on it."
+            },
+            {
+              "at": 10,
+              "text": "An Crosbhealach was described as a place where rivals sit at the same tables and outside conflicts stay outside."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 9,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
@@ -45,14 +84,50 @@
           "events": [
             {
               "at": 1,
-              "text": "GM said So."
+              "text": "The GM described the Eel Sea and the Glass Eel, custodian of reality that judges none of it."
             },
             {
               "at": 2,
-              "text": "GM described Acomhal as trade hub."
+              "text": "A Glass Elver followed the party, serving the Eel of the Delta, and the party was asked which channel to choose."
             }
           ],
           "time_cues": []
+        },
+        {
+          "first": 3,
+          "last": 9,
+          "area": "Acomhal",
+          "location": "The Junction",
+          "events": [
+            {
+              "at": 3,
+              "text": "Caravans and ships from a dozen worlds arrived at once at the Junction, and their cargo spilled into the streets."
+            },
+            {
+              "at": 4,
+              "text": "Glass Market couriers carried crates of Vitreous under armed guard."
+            },
+            {
+              "at": 5,
+              "text": "Iron Ones mechanics walked the loading cranes, tightening bolts."
+            },
+            {
+              "at": 6,
+              "text": "An Fás traders sold baskets of fruit that were still growing, while Shopkeepers called out ever-lower prices."
+            },
+            {
+              "at": 7,
+              "text": "The Council's bell rang the hour, and nobody looked up."
+            },
+            {
+              "at": 9,
+              "text": "The party's location in Acomhal was named as the Junction."
+            }
+          ],
+          "time_cues": [
+            "Late morning",
+            "this morning"
+          ]
         }
       ]
     }

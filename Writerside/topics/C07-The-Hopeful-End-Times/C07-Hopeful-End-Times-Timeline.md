@@ -112,9 +112,14 @@ flowchart TD
     direction TB
         v35["<b>23.1 Junkyard</b><br/>🗓️ IRL 7w 5d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a23["24. Small bunker · 🗓️ IRL 3w 1d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    subgraph a23["24. Small bunker · 🗓️ IRL 4w 1d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
     direction TB
-        v36["<b>24.1 Small bunker</b><br/>🗓️ IRL 3w 1d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v36["<b>24.1 Small bunker</b><br/>🗓️ IRL 4w 1d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a24["25. Little Akiton · 🗓️ IRL 3w 6d ▰▰▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v37["<b>25.1 Golden Vault Branch #009</b><br/>🗓️ IRL 1w 2d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v38["<b>25.2 Little Akiton</b><br/>🗓️ IRL 2w 3d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -152,6 +157,8 @@ flowchart TD
     v33 --> v34
     v34 --> v35
     v35 --> v36
+    v36 --> v37
+    v37 --> v38
 ```
 
 ## 1. Before play
@@ -820,12 +827,12 @@ flowchart TD
 
 ## 24. Small bunker
 
-- 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d
+- 🗓️ **IRL:** 24 Aug 2026 to 22 Sep 2026, 4w 1d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 24.1 Small bunker
 
-- 🗓️ **IRL:** 24 Aug 2026 to 15 Sep 2026, 3w 1d, 113 posts
+- 🗓️ **IRL:** 24 Aug 2026 to 22 Sep 2026, 4w 1d, 122 posts
 - ⏳ **In-game:** not filled in (`"2026-08#120"` in `timelines/C07-Hopeful-End-Times.json`)
 
 **Events**
@@ -836,9 +843,48 @@ flowchart TD
 - 26 Aug: Rune agreed to help hit AbadarCorp where it hurts. [↗](https://t.me/Path_Wars/52083/175081)
 - 30 Aug: Nikk-Nakk gave Lai basic ukulele tips and pointers. [↗](https://t.me/Path_Wars/52083/176250)
 - 31 Aug: The stash slime parts were increased from 1 to 2. [↗](https://t.me/Path_Wars/52083/176428)
-- 01 Sep: Livy made a basic environmental protection module from Space gremlin parts. [↗](https://t.me/Path_Wars/52083/176497)
-- 02 Sep: Livy made a streetsweeper weapon from gremlin leftovers and Ferofluid. [↗](https://t.me/Path_Wars/52083/176736)
-- 03 Sep: The group planned to film the heist and post scam evidence on AbsolomTube. [↗](https://t.me/Path_Wars/52083/176856)
-- 10 Sep: Nikk-Nakk plugged in the group's batteries for charging. [↗](https://t.me/Path_Wars/52083/178047)
-- 13 Sep: Nikk-Nakk showed Rune an outdated interior layout on a screen. [↗](https://t.me/Path_Wars/52083/178703)
-- 13 Sep: Livy constructed a camera bot from remaining monster parts. [↗](https://t.me/Path_Wars/52083/178772)
+- 01 Sep: Livy agrees to make a basic environmental protection module from space gremlin parts [↗](https://t.me/Path_Wars/52083/176497)
+- 03 Sep: The group plans to go in, go out, film the heist, and post the video on AbsolomTube [↗](https://t.me/Path_Wars/52083/176856)
+- 11 Sep: Livy plans to build a stealthy camera drone from the remaining monster parts [↗](https://t.me/Path_Wars/52083/178303)
+- 13 Sep: Nikk-Nakk loads a PDF of the building interior onto a screen [↗](https://t.me/Path_Wars/52083/178703)
+- 19 Sep: Anthony declares the party ready to go [↗](https://t.me/Path_Wars/52083/180377)
+- 22 Sep: Nikk-Nakk sells the party the gear [↗](https://t.me/Path_Wars/52083/180784)
+
+## 25. Little Akiton
+
+- 🗓️ **IRL:** 22 Sep 2026 to 20 Oct 2026, 3w 6d
+- ⏳ **In-game:** not all rooms filled in
+
+### 25.1 Golden Vault Branch #009
+
+- 🗓️ **IRL:** 22 Sep 2026 to 1 Oct 2026, 1w 2d, 14 posts
+- ⏳ **In-game:** not filled in (`"2026-09#62"` in `timelines/C07-Hopeful-End-Times.json`)
+
+**Events**
+
+- 22 Sep: The party leaves with Nikk-Nakk and heads to Golden Vault Branch #009 [↗](https://t.me/Path_Wars/52083/180920)
+- 22 Sep: The marble building is cracked and in need of repair [↗](https://t.me/Path_Wars/52083/180921)
+- 25 Sep: Terra asks for the actual plan, noting they cannot just go through the front [↗](https://t.me/Path_Wars/52083/181270)
+- 25 Sep: Nikk-Nakk says there are many ways to approach the heist [↗](https://t.me/Path_Wars/52083/181294)
+- 25 Sep: Anthony says his idol presence means they surely can [↗](https://t.me/Path_Wars/52083/181297)
+- 27 Sep: Rune sits on a concrete ledge and twirls a drumstick while thinking [↗](https://t.me/Path_Wars/52083/181482)
+- 01 Oct: The party sees Golden Vault Branch #009, dominated by a replica of the AbadarCorp pyramid and key, with cleaning drones scrubbing graffiti and no security present. [↗](https://t.me/Path_Wars/52083/182251)
+- 01 Oct: The AbadarCorp warehouse, joined to the bank by a covered loading bay, is found behind the bank with closed shutter doors and a keycard reader. [↗](https://t.me/Path_Wars/52083/182252)
+- 01 Oct: The warehouse is described as three times the size of the bank, with 60+ metres of grey shutters and stacked cargo containers. [↗](https://t.me/Path_Wars/52083/182253)
+- 01 Oct: Nikk-Nakk explains that Rune's courier pass will open the warehouse, which connects to the bank's back end. [↗](https://t.me/Path_Wars/52083/182254)
+- 01 Oct: Nikk-Nakk reports that the gold armour squad guarding the warehouse was pulled to the big Golden Vault because of power flickers. [↗](https://t.me/Path_Wars/52083/182255)
+- 01 Oct: Nikk-Nakk assigns roles: Rune enters through the back, Livy keeps the front desk busy, and Lai watches for anyone coming. [↗](https://t.me/Path_Wars/52083/182257)
+
+### 25.2 Little Akiton
+
+- 🗓️ **IRL:** 2 Oct 2026 to 20 Oct 2026, 2w 3d, 10 posts
+- ⏳ **In-game:** not filled in (`"2026-10#7"` in `timelines/C07-Hopeful-End-Times.json`)
+
+**Events**
+
+- 02 Oct: Lai looks at the building from outside and says she does not trust it. [↗](https://t.me/Path_Wars/52083/182398)
+- 08 Oct: Nikk-Nakk points out that the cleaning drones have cameras and the keycard reader logs every swipe. [↗](https://t.me/Path_Wars/52083/183822)
+- 20 Oct: Livy says she will stream and use her idol charm on the reception desk, and heads toward the reception entrance with her camera bot. [↗](https://t.me/Path_Wars/52083/186544)
+- 20 Oct: Lai whispers to Roneles and Nikk-Nakk that Livy's streaming will be bad. [↗](https://t.me/Path_Wars/52083/186546)
+- 20 Oct: Terra posts an image and asks what they see, along with the drones' patrol patterns. [↗](https://t.me/Path_Wars/52083/186574)
+- 20 Oct: Roneles reacts to the stream, saying chat is real and that they are cooked. [↗](https://t.me/Path_Wars/52083/186586)

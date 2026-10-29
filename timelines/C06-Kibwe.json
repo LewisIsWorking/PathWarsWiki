@@ -2282,41 +2282,213 @@
       ]
     },
     "2026-09": {
-      "messages": 98,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 134,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
-          "last": 98,
+          "last": 49,
           "area": "Sun Temple",
           "location": "scribing chamber",
           "events": [
             {
               "at": 8,
-              "text": "Daichi opened the door of the chamber of scribing."
-            },
-            {
-              "at": 9,
-              "text": "The party entered the scribing chamber covered in maps and stone slabs."
+              "text": "Daichi opens the door to the chamber of scribing."
             },
             {
               "at": 15,
-              "text": "The slabs emitted lightning bolts and combat began."
+              "text": "Each of the five slabs blasts out a lightning bolt."
             },
             {
-              "at": 21,
-              "text": "Master Cho Kobo stayed out of combat to guard the gnomes."
+              "at": 17,
+              "text": "Combat begins against the lightning sigils."
+            },
+            {
+              "at": 19,
+              "text": "Fierce Leopard wins initiative."
+            },
+            {
+              "at": 23,
+              "text": "Tarsus moves along the wall to examine a slab and its lightning rune."
+            },
+            {
+              "at": 28,
+              "text": "A lightning bolt begins forming, about to strike Tarsus."
+            }
+          ],
+          "time_cues": [
+            "Round 1!"
+          ]
+        },
+        {
+          "first": 50,
+          "last": 57,
+          "area": "Sun Temple",
+          "location": "chamber of the sun",
+          "events": [
+            {
+              "at": 50,
+              "text": "An burst of light erupts from the centre of the sun symbol in the chamber of the sun."
+            },
+            {
+              "at": 51,
+              "text": "The temple shakes as energy beams of light explode from the sun symbol."
             },
             {
               "at": 52,
-              "text": "Eda Stone-Worth's voice said a new temple Guardian was needed."
+              "text": "The party is connected to Eda Stone-Worth, who says she is dead and frozen and that a new Guardian of the SUN is needed."
             },
             {
-              "at": 65,
-              "text": "The lightning sigils glowed and struck five allies."
+              "at": 54,
+              "text": "A blonde figure and an inky-black shadow figure land face-first on the floor."
+            },
+            {
+              "at": 57,
+              "text": "The party glows with solar energy as avatars of the temple and of Eda Stone-Worth."
             }
           ],
           "time_cues": []
+        },
+        {
+          "first": 58,
+          "last": 98,
+          "area": "Sun Temple",
+          "location": "scribing chamber",
+          "events": [
+            {
+              "at": 65,
+              "text": "The five tables of lightning sigils start to glow."
+            },
+            {
+              "at": 74,
+              "text": "Ji Yun's Blood God Eidolon takes 6 damage and persistent electricity damage."
+            },
+            {
+              "at": 76,
+              "text": "Lorn takes 16 damage and persistent electricity damage from a critical hit."
+            },
+            {
+              "at": 85,
+              "text": "Five rays of lightning streak across the room and scorch the five heroes."
+            },
+            {
+              "at": 90,
+              "text": "Tal'lysae offers her aid to whoever wants it for thievery."
+            },
+            {
+              "at": 97,
+              "text": "Tal'Lysae's aid roll is 26, giving a +2 circumstance bonus to the roller."
+            }
+          ],
+          "time_cues": [
+            "ROUND 2 BEGINS NOW!"
+          ]
+        },
+        {
+          "first": 99,
+          "last": 107,
+          "area": "Sun Temple",
+          "location": "chamber of the sun",
+          "events": [
+            {
+              "at": 99,
+              "text": "Zerius and Little Dread move in tandem toward the party."
+            },
+            {
+              "at": 101,
+              "text": "Zerius stumbles as the ground beneath him changes."
+            },
+            {
+              "at": 102,
+              "text": "Zerius receives a psychic imprint of the campaign events and Kibwe lore from Eda Stone-Worth."
+            },
+            {
+              "at": 105,
+              "text": "The party strides across the battlefield, still glimmering with sunlight."
+            },
+            {
+              "at": 107,
+              "text": "Zerius appears in the chamber of the sun and becomes the next avatar of Eda Stone-Worth."
+            }
+          ],
+          "time_cues": [
+            "Round 2"
+          ]
+        },
+        {
+          "first": 108,
+          "last": 134,
+          "area": "Sun Temple",
+          "location": "scribing chamber",
+          "events": [
+            {
+              "at": 110,
+              "text": "Daichi casts heightened longstrider and strides with magically enhanced speed."
+            },
+            {
+              "at": 117,
+              "text": "The Heroes of Kibwe battle the lightning sigils to the west."
+            },
+            {
+              "at": 120,
+              "text": "Tarsus arrives at the nearest table and examines the rune."
+            },
+            {
+              "at": 122,
+              "text": "Disabling the table's lightning blast script requires an expert thievery check with DC 25."
+            },
+            {
+              "at": 129,
+              "text": "Tal'lysae aids Daichi's attempt to disarm the tables."
+            },
+            {
+              "at": 132,
+              "text": "Zerius strides west toward the chamber of scribing."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 260,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 260,
+          "area": "Sun Temple",
+          "location": "scribing chamber",
+          "events": [
+            {
+              "at": 26,
+              "text": "A stone scribing table swapped places with Ji Yun's Blood God Eidolon."
+            },
+            {
+              "at": 65,
+              "text": "Daichi disabled the first rune table, and the trap lost one table."
+            },
+            {
+              "at": 175,
+              "text": "Daichi deactivated the lightning script of the northern table."
+            },
+            {
+              "at": 218,
+              "text": "Combat ended when the last scribing table was disarmed."
+            },
+            {
+              "at": 223,
+              "text": "The door to the next chamber was unlocked from this side but barred from the other."
+            },
+            {
+              "at": 252,
+              "text": "Repeated attempts to force open the brass panel failed, and the panel held."
+            }
+          ],
+          "time_cues": [
+            "The party rests for 20 minutes in the dark chamber.",
+            "The twenty minutes pass in the dark chamber."
+          ]
         }
       ]
     }

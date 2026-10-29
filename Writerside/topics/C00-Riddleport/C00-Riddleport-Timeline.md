@@ -57,7 +57,7 @@ flowchart TD
         v33["<b>5.1 Streets</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v34["<b>5.2 Pawn shop</b><br/>🗓️ IRL 1w 12h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
-    subgraph a5["6. The Silver Succubi · 🗓️ IRL 35w 2d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
+    subgraph a5["6. The Silver Succubi · 🗓️ IRL 35w 4d ▰▰▰▰▰▰▰▱▱▱ · ⏳ In-game ?"]
     direction TB
         v35["<b>6.1 Plaza</b><br/>🗓️ IRL 1w 4d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v36["<b>6.2 Entrance hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
@@ -66,7 +66,21 @@ flowchart TD
         v39["<b>6.5 Hallway</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v40["<b>6.6 Marlo's office</b><br/>🗓️ IRL 5w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v41["<b>6.7 Casino floor</b><br/>🗓️ IRL 4w 2d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v42["<b>6.8 Shop</b><br/>🗓️ IRL 10w 6d ▰▰▰▰▰▰▰▰▱▱<br/>⏳ In-game ?"]
+        v42["<b>6.8 Shop</b><br/>🗓️ IRL 11w 7h ▰▰▰▰▰▰▰▰▰▱<br/>⏳ In-game ?"]
+    end
+    subgraph a6["7. Bunkhouse · 🗓️ IRL 1w 5d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v43["<b>7.1 Party's room</b><br/>🗓️ IRL 1w 5d ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+    end
+    subgraph a7["8. The Silver Succubi · 🗓️ IRL 3w 2d ▰▱▱▱▱▱▱▱▱▱ · ⏳ In-game ?"]
+    direction TB
+        v44["<b>8.1 Casino floor</b><br/>🗓️ IRL 7h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v45["<b>8.2 Door</b><br/>🗓️ IRL 5d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v46["<b>8.3 Casino floor</b><br/>🗓️ IRL 18h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v47["<b>8.4 Door</b><br/>🗓️ IRL 2d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v48["<b>8.5 Casino floor</b><br/>🗓️ IRL 5d 8h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v49["<b>8.6 Door</b><br/>🗓️ IRL 6d 1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v50["<b>8.7 Casino floor</b><br/>🗓️ IRL 2d 21h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -110,6 +124,14 @@ flowchart TD
     v39 --> v40
     v40 --> v41
     v41 --> v42
+    v42 --> v43
+    v43 --> v44
+    v44 --> v45
+    v45 --> v46
+    v46 --> v47
+    v47 --> v48
+    v48 --> v49
+    v49 --> v50
 ```
 
 ## 1. Before play
@@ -643,7 +665,7 @@ flowchart TD
 
 ## 6. The Silver Succubi
 
-- 🗓️ **IRL:** 10 Jan 2026 to 15 Sep 2026, 35w 2d
+- 🗓️ **IRL:** 10 Jan 2026 to 17 Sep 2026, 35w 4d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 6.1 Plaza
@@ -772,9 +794,9 @@ flowchart TD
 
 ### 6.8 Shop
 
-- 🗓️ **IRL:** 1 Jul 2026 to 15 Sep 2026, 10w 6d, 109 posts
+- 🗓️ **IRL:** 1 Jul 2026 to 17 Sep 2026, 11w 7h, 111 posts
 - ⏳ **In-game:** not filled in (`"2026-07#2"` in `timelines/C00-Riddleport.json`)
-- 💬 **Time said in posts:** "tomorrow"; "tomorrow"; "tomorrow morning"
+- 💬 **Time said in posts:** "tomorrow"; "tomorrow morning"
 
 **Events**
 
@@ -789,9 +811,127 @@ flowchart TD
 - 10 Aug: The GM proposed sleep-skipping to tomorrow. [↗](https://t.me/Path_Wars/66154/171359)
 - 26 Aug: A gnomish woman behind a paperwork-covered desk asked about an attack. [↗](https://t.me/Path_Wars/66154/175419)
 - 30 Aug: A young server tripped in front of Davy and apologized. [↗](https://t.me/Path_Wars/66154/176223)
-- 08 Sep: Cardigan offered Rin and Tater coin to help with work for Marlo. [↗](https://t.me/Path_Wars/66154/177592)
-- 12 Sep: Rin's shadow emerged and insulted Cardigan. [↗](https://t.me/Path_Wars/66154/178423)
-- 12 Sep: Cardigan said a wizard dude would try to rob the chest. [↗](https://t.me/Path_Wars/66154/178496)
-- 13 Sep: Cardigan said the plan was to kill the wizard on sight tomorrow. [↗](https://t.me/Path_Wars/66154/178778)
-- 14 Sep: Shadow said Rin did magic stuff and he was there to hit things. [↗](https://t.me/Path_Wars/66154/179046)
-- 15 Sep: Cardigan said she was going to sleep and would meet them tomorrow. [↗](https://t.me/Path_Wars/66154/179486)
+- 06 Sep: Tater tells Rin his shoes will slip too much and that he should change them. [↗](https://t.me/Path_Wars/66154/177325)
+- 08 Sep: Cardigan asks for help earning coin, saying they now work for Marlo after taking a big bounty. [↗](https://t.me/Path_Wars/66154/177593)
+- 12 Sep: Rin's shadow rises as a separate figure and swears at someone, and Rin covers its mouth. [↗](https://t.me/Path_Wars/66154/178423)
+- 12 Sep: Cardigan points at the big chest and says the wizard may try to rob it. [↗](https://t.me/Path_Wars/66154/178496)
+- 13 Sep: Cardigan explains the plan: the wizard comes in tomorrow to rob the place and will be killed on sight. [↗](https://t.me/Path_Wars/66154/178778)
+- 15 Sep: Cardigan says she is going to sleep and will see them tomorrow. [↗](https://t.me/Path_Wars/66154/179486)
+
+## 7. Bunkhouse
+
+- 🗓️ **IRL:** 17 Sep 2026 to 22 Sep 2026, 1w 5d
+- ⏳ **In-game:** not all rooms filled in
+
+### 7.1 Party's room
+
+- 🗓️ **IRL:** 17 Sep 2026 to 22 Sep 2026, 1w 5d, 10 posts
+- ⏳ **In-game:** not filled in (`"2026-09#44"` in `timelines/C00-Riddleport.json`)
+- 💬 **Time said in posts:** "The day ends"; "Around 6am"
+
+**Events**
+
+- 17 Sep: The party sleeps in a room with several rows of bunk beds. [↗](https://t.me/Path_Wars/66154/180125)
+- 17 Sep: Shadow Rin lunges at the goblin who banged the pots, shouting at it to shut up. [↗](https://t.me/Path_Wars/66154/180145)
+- 17 Sep: The goblin yelps, nearly drops its lantern and scurries off. [↗](https://t.me/Path_Wars/66154/180180)
+- 17 Sep: Tater throws a fan at the goblin, annoyed by the noise. [↗](https://t.me/Path_Wars/66154/180200)
+- 18 Sep: Shadow Rin dodges the thrown fan and slips back under Rin, who leaves the bunkhouse. [↗](https://t.me/Path_Wars/66154/180268)
+- 22 Sep: Cardigan greets Filiaur and asks if she is ready for the wizard. [↗](https://t.me/Path_Wars/66154/180913)
+
+## 8. The Silver Succubi
+
+- 🗓️ **IRL:** 29 Sep 2026 to 22 Oct 2026, 3w 2d
+- ⏳ **In-game:** not all rooms filled in
+
+### 8.1 Casino floor
+
+- 🗓️ **IRL:** 29 Sep 2026 to 29 Sep 2026, 7h, 23 posts
+- ⏳ **In-game:** not filled in (`"2026-09#54"` in `timelines/C00-Riddleport.json`)
+- 💬 **Time said in posts:** "Day 2."; "06:30am."; "Tonight"
+
+**Events**
+
+- 29 Sep: The party is at the Silver Succubi on the morning of Day 2. [↗](https://t.me/Path_Wars/66154/181773)
+- 29 Sep: The big chest in the middle of the main room is open and holds about 10,000 silver pieces. [↗](https://t.me/Path_Wars/66154/181777)
+- 29 Sep: Itchy Brimstone, an imp in an iron cage above the chest, greets the party. [↗](https://t.me/Path_Wars/66154/181781)
+- 29 Sep: Marlo says the Kiss the Succubus tournament is tonight and that the wizard may attend. [↗](https://t.me/Path_Wars/66154/181786)
+- 29 Sep: Marlo hands the party rings of sigil, the Silver Kiss curse mark. [↗](https://t.me/Path_Wars/66154/181789)
+- 29 Sep: Marlo says he will move money to the vault tonight and the floor is theirs while he is down there. [↗](https://t.me/Path_Wars/66154/181790)
+
+### 8.2 Door
+
+- 🗓️ **IRL:** 29 Sep 2026 to 5 Oct 2026, 5d 21h, 6 posts
+- ⏳ **In-game:** not filled in (`"2026-09#77"` in `timelines/C00-Riddleport.json`)
+
+**Events**
+
+- 29 Sep: Rin checks each guest at the door, politely and apologetically, and wears the ring. [↗](https://t.me/Path_Wars/66154/181832)
+- 29 Sep: The character stands with the orc Davy Crab-Bucket. [↗](https://t.me/Path_Wars/66154/181850)
+- 29 Sep: Filiaur plans to enter the tournament, watch for cheaters, and use the message cantrip to warn staff. [↗](https://t.me/Path_Wars/66154/181973)
+- 01 Oct: Rin whispers to Davy and asks if he has seen anything weird. [↗](https://t.me/Path_Wars/66154/182197)
+- 05 Oct: Davy says Riddleport is full of weird people and points out a man with a moving shadow. [↗](https://t.me/Path_Wars/66154/183019)
+- 05 Oct: Rin insists shadows move all the time, and the shadow flips the bird at Davy. [↗](https://t.me/Path_Wars/66154/183020)
+
+### 8.3 Casino floor
+
+- 🗓️ **IRL:** 5 Oct 2026 to 5 Oct 2026, 18h, 2 posts
+- ⏳ **In-game:** not filled in (`"2026-10#4"` in `timelines/C00-Riddleport.json`)
+
+**Events**
+
+- 05 Oct: Grudge takes the party's names at the tournament table, deals the opening hand, and asks Filiaur to report any palmed cards. [↗](https://t.me/Path_Wars/66154/183084)
+- 05 Oct: Anxious tells Marlo she has not picked up anything from any guests yet. [↗](https://t.me/Path_Wars/66154/183133)
+
+### 8.4 Door
+
+- 🗓️ **IRL:** 6 Oct 2026 to 6 Oct 2026, 2d 15h, 4 posts
+- ⏳ **In-game:** not filled in (`"2026-10#6"` in `timelines/C00-Riddleport.json`)
+
+**Events**
+
+- 06 Oct: Filiaur will enter with the casino chips the party got from Beltias. [↗](https://t.me/Path_Wars/66154/183235)
+- 06 Oct: Rax enters the Silver Succubi in plain clothes and a slightly oversized eyepatch after a messenger said the others had finished preparations early. [↗](https://t.me/Path_Wars/66154/183260)
+- 06 Oct: Ryder takes up his post at the door as the resident muscle and turns away street urchins with a growl. [↗](https://t.me/Path_Wars/66154/183308)
+- 06 Oct: Miracle Max pushes through the doors with his backpack and checks the wards on the Big Book of Miracles. [↗](https://t.me/Path_Wars/66154/183329)
+
+### 8.5 Casino floor
+
+- 🗓️ **IRL:** 8 Oct 2026 to 13 Oct 2026, 5d 8h, 10 posts
+- ⏳ **In-game:** not filled in (`"2026-10#10"` in `timelines/C00-Riddleport.json`)
+
+**Events**
+
+- 08 Oct: Necrila stands near the imp, and the imp senses a being far stronger than Necrila watching him. [↗](https://t.me/Path_Wars/66154/184174)
+- 12 Oct: Davy warns Rin that the shadow is probably some kind of curse and that he should be wary. [↗](https://t.me/Path_Wars/66154/184824)
+- 13 Oct: Cardigan fails to recognize Rax at first, then realizes who he is and mocks his eyepatch. [↗](https://t.me/Path_Wars/66154/185053)
+- 13 Oct: Grudge recognizes Beltias's chips, drops them into his lockbox, and remarks that they keep finding their way back to the house. [↗](https://t.me/Path_Wars/66154/185061)
+- 13 Oct: Anxious holds up four Potency Crystals she made as extra trinkets for the party. [↗](https://t.me/Path_Wars/66154/185144)
+- 13 Oct: Miracle Max notices many players in the tournament hall acting shady and decides to watch. [↗](https://t.me/Path_Wars/66154/185223)
+
+### 8.6 Door
+
+- 🗓️ **IRL:** 14 Oct 2026 to 15 Oct 2026, 6d 1h, 5 posts
+- ⏳ **In-game:** not filled in (`"2026-10#20"` in `timelines/C00-Riddleport.json`)
+
+**Events**
+
+- 14 Oct: Rin insists the shadow is a very good shadow, which then gives a thumbs-up to Davy. [↗](https://t.me/Path_Wars/66154/185276)
+- 15 Oct: Davy hires Ryder for the door and sets out the house rule that anyone can come in. [↗](https://t.me/Path_Wars/66154/185556)
+- 15 Oct: Grudge demands Miracle Max's name, stake and bag contents, and says any glowing or ticking item is his until Max leaves. [↗](https://t.me/Path_Wars/66154/185566)
+- 15 Oct: Ryder says he has been to a few of these events and looks around the room for anyone suspicious. [↗](https://t.me/Path_Wars/66154/185601)
+- 15 Oct: Miracle Max says the bag holds medicinal supplies, experimental remedies and a roast beef sandwich, and that he leaves volatile items at home. [↗](https://t.me/Path_Wars/66154/185608)
+
+### 8.7 Casino floor
+
+- 🗓️ **IRL:** 20 Oct 2026 to 22 Oct 2026, 2d 21h, 8 posts
+- ⏳ **In-game:** not filled in (`"2026-10#25"` in `timelines/C00-Riddleport.json`)
+- 💬 **Time said in posts:** "For the first time tonight"; "an hour ago"
+
+**Events**
+
+- 20 Oct: Rax smacks the back of Cardigan's left knee with his metal arm and tells her to stop the fake pirate talk and get to business. [↗](https://t.me/Path_Wars/66154/186561)
+- 21 Oct: Itchy the imp goes silent and presses against the far bars of his cage after Necrila steps under the birdcage. [↗](https://t.me/Path_Wars/66154/186907)
+- 21 Oct: Necrila tells Itchy in Infernal that he may seek the oracle to improve his position once free of his debt. [↗](https://t.me/Path_Wars/66154/186913)
+- 21 Oct: Marlo tells Anxious to give the four violet crystals to anyone who wants one, warning that trouble is coming soon. [↗](https://t.me/Path_Wars/66154/187019)
+- 22 Oct: Miracle Max sees Davy, Grudge, Marlo and the poppet exchange nods, and notices a sailor at the bar with the same full mug as an hour ago. [↗](https://t.me/Path_Wars/66154/187256)
+- 22 Oct: Miracle Max decides the nods are either a greeting ritual or a small operation behind the house's back, and grins. [↗](https://t.me/Path_Wars/66154/187317)

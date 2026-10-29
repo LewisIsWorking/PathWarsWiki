@@ -2786,8 +2786,8 @@
       ]
     },
     "2026-09": {
-      "messages": 12,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 31,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
@@ -2797,30 +2797,168 @@
           "events": [
             {
               "at": 1,
-              "text": "Baylan said the party would likely return to the prison to continue exorcising it and look for information on the throat-slashing ghost."
+              "text": "Baylan proposed going to the prison to keep exorcising the ghost unless information on the next attack turned up."
+            },
+            {
+              "at": 3,
+              "text": "Cardigan sat reading her book, with blue light flickering in her yellow eyes."
             },
             {
               "at": 5,
-              "text": "Alisee put a hand on Cardigan's shoulder and warned her not to read the book because it was bad for her."
+              "text": "Alisee told Cardigan not to read the book because it was bad for her."
             },
             {
-              "at": 9,
-              "text": "Katmidlar asked what was wrong with Cardigan reading a book of obscene character."
+              "at": 6,
+              "text": "Cardigan stopped reading the book."
             },
             {
               "at": 10,
-              "text": "Cardigan jumped up excitedly and said to go questing."
+              "text": "Cardigan jumped up and said they should go questing."
             },
             {
               "at": 11,
-              "text": "Cardigan said she had a weird relationship with a space fog monster woman and flexed her ghoul flesh arm."
-            },
-            {
-              "at": 12,
-              "text": "Cardigan asked Selenor what their next move was."
+              "text": "Cardigan described her relationship with a space fog monster woman and showed her ghoul flesh arm."
             }
           ],
           "time_cues": []
+        },
+        {
+          "first": 13,
+          "last": 31,
+          "area": "Raven Grow",
+          "location": "Raven Grow",
+          "events": [
+            {
+              "at": 13,
+              "text": "The session log recorded the in-game location as Raven Grow."
+            },
+            {
+              "at": 14,
+              "text": "The GM asked whether the party would walk to Grey Wall."
+            },
+            {
+              "at": 16,
+              "text": "The GM asked whether the party could go to the prison or do some building."
+            },
+            {
+              "at": 26,
+              "text": "The GM asked what the group would do meanwhile if they refused to go to Greywall right now."
+            },
+            {
+              "at": 28,
+              "text": "Cardigan lay down on the grass and looked up at the grey sky."
+            },
+            {
+              "at": 29,
+              "text": "Selenor heard the faint sound of a pipe and a flute, the echoes of his prisoners."
+            }
+          ],
+          "time_cues": [
+            "Day 4",
+            "15:30"
+          ]
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 39,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 3,
+          "area": "Raven Grow",
+          "location": "Raven Grow",
+          "events": [
+            {
+              "at": 1,
+              "text": "The party sets out for Grey-Wall Prison."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 4,
+          "last": 6,
+          "area": "Greywall Prison",
+          "location": "gate between the two stone towers",
+          "events": [
+            {
+              "at": 4,
+              "text": "The party walks the road out of Raven Grow and reaches Greywall Prison."
+            },
+            {
+              "at": 5,
+              "text": "Ordinary rats pick at the food Selenor left at the quiet western tower."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 7,
+          "last": 12,
+          "area": "Greywall Prison",
+          "location": "inside the walls",
+          "events": [
+            {
+              "at": 7,
+              "text": "The party passes the gate and sees the Warden's house leaning further, half its roof on the ground."
+            },
+            {
+              "at": 8,
+              "text": "Melody feels a sudden claustrophobia on first passing the gate and is called for a DC 26 Will save."
+            },
+            {
+              "at": 9,
+              "text": "The air inside the walls is heavier and colder, and the light greyer than outside."
+            },
+            {
+              "at": 10,
+              "text": "Moss declares that the party fights the zombies."
+            },
+            {
+              "at": 11,
+              "text": "Combat begins."
+            }
+          ],
+          "time_cues": [
+            "2026 October 3rd Saturday + 4710 AR, Rova 14th (Wealday)"
+          ]
+        },
+        {
+          "first": 13,
+          "last": 39,
+          "area": "Greywall Prison",
+          "location": "Grey-wall Prison's Dungeon",
+          "events": [
+            {
+              "at": 13,
+              "text": "Combat with the dungeon skeleton hoard begins and the players win initiative."
+            },
+            {
+              "at": 18,
+              "text": "Carnon fires a spike launcher volley at three skeleton formations, immobilizing the north-west one and slowing the other two."
+            },
+            {
+              "at": 19,
+              "text": "Melody casts a 40ft illusory stone wall in front of the undead and reveals it as an illusion."
+            },
+            {
+              "at": 21,
+              "text": "The skeletal army rises from the bones around the shallow pools."
+            },
+            {
+              "at": 34,
+              "text": "Skeleton Infantry takes 44 damage and persistent fire damage in a multi-hit."
+            },
+            {
+              "at": 39,
+              "text": "Carnon single-handedly destroys one quarter of the skeletal army."
+            }
+          ],
+          "time_cues": [
+            "Round 1!"
+          ]
         }
       ]
     }
