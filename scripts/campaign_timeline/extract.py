@@ -4,7 +4,10 @@
         --source ../telegram-pbp-reminder/data/pbp_logs/Magni_Guard \
         --code C04 --name "Magni Guard" --data timelines/C04-Magni-Guard.json
 
-Runs on Lewis's machine, not in CI: it needs the local ``delegate`` skill.
+Two backends. On Lewis's machine it uses the local ``delegate`` skill
+(muse-spark-1.3). Anywhere else, such as a Claude Code cloud session, it
+asks the ``claude`` CLI instead. ``TIMELINE_BACKEND=delegate|claude``
+forces one.
 
 Only months that are new, or whose message count has changed, are sent.
 Everything Lewis writes into the data file by hand (``in_game``,
@@ -36,6 +39,21 @@ ATTEMPTS = 2
 # events naming details from post 275. The scene checks would reject a reply
 # written without reading the file anyway.
 PREFERRED_MODEL = "opencode/muse-spark-1.3-contributor-free"
+# Lewis, 2026-10-29: "can we make it available here?" (the cloud session).
+# The cloud backend runs the `claude` CLI on its cheap model alias. Months
+# it extracts are kept, like the preferred model's, and not redone on the
+# PC: only months that fell back to some other model are redone.
+CLAUDE_MODEL = os.environ.get("TIMELINE_CLAUDE_MODEL", "haiku")
+CLAUDE_TAG = "claude-cloud"
+ACCEPTED_MODELS = {PREFERRED_MODEL, CLAUDE_TAG}
+
+
+def backend() -> str:
+    """"delegate" on Lewis's machine, "claude" anywhere the skill is missing."""
+    chosen = os.environ.get("TIMELINE_BACKEND")
+    if chosen:
+        return chosen
+    return "delegate" if DELEGATE.exists() else "claude"
 
 
 def load(path: Path, code: str, name: str) -> dict:
@@ -72,16 +90,40 @@ def ended_at(data: dict, month: str) -> str | None:
 
 
 def needs_extracting(done: dict | None, messages: list) -> bool:
-    """New, grown, or made by a fallback model rather than the preferred one.
+    """New, grown, or made by a fallback model rather than an accepted one.
 
     A month that fell back (the CLI hop was down) is redone on the next run,
     so a timeline ends up extracted by one model throughout.
     """
     return (done is None or done["messages"] != len(messages)
-            or done.get("model") != PREFERRED_MODEL)
+            or done.get("model") not in ACCEPTED_MODELS)
 
 
 def ask(prompt: str) -> tuple[str, str]:
+    """Send one prompt to the model. Returns (reply, model)."""
+    if backend() == "claude":
+        return ask_claude(prompt)
+    return ask_delegate(prompt)
+
+
+def ask_claude(prompt: str) -> tuple[str, str]:
+    """Send one prompt through the ``claude`` CLI in print mode.
+
+    A timeout or a failed call returns an empty reply, which the caller
+    rejects and retries like any bad reply.
+    """
+    try:
+        proc = subprocess.run(
+            ["claude", "-p", "--model", CLAUDE_MODEL],
+            input=prompt, capture_output=True, text=True, encoding="utf-8",
+            errors="replace", timeout=900)
+        reply = proc.stdout if proc.returncode == 0 else ""
+    except (OSError, subprocess.TimeoutExpired):
+        reply = ""
+    return reply, CLAUDE_TAG
+
+
+def ask_delegate(prompt: str) -> tuple[str, str]:
     """Send one prompt through the delegate skill. Returns (reply, model)."""
     with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False,
                                      encoding="utf-8") as f:

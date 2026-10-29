@@ -289,7 +289,7 @@ def test_a_delegate_timeout_kills_the_call_and_counts_as_no_reply(monkeypatch):
 
     monkeypatch.setattr(extract.subprocess, "Popen", SlowProc)
     monkeypatch.setattr(extract.subprocess, "run", lambda args, **k: killed.append(args))
-    reply, _model = extract.ask("prompt")
+    reply, _model = extract.ask_delegate("prompt")
     assert reply == ""
     assert killed and killed[0][:3] == ["taskkill", "/PID", "4242"]
 
@@ -302,3 +302,45 @@ def test_the_page_carries_no_em_dashes():
     page = render(data, {"2026-06": _msgs()})
     assert dash not in page
     assert "Doopa waves - then runs" in page
+
+
+def test_backend_is_delegate_only_where_the_skill_exists(monkeypatch, tmp_path):
+    """Lewis, 2026-10-29: the cloud session has no delegate skill, so it
+    must fall back to the claude CLI rather than fail."""
+    import extract
+
+    monkeypatch.delenv("TIMELINE_BACKEND", raising=False)
+    monkeypatch.setattr(extract, "DELEGATE", tmp_path / "missing.ps1")
+    assert extract.backend() == "claude"
+    present = tmp_path / "delegate.ps1"
+    present.write_text("")
+    monkeypatch.setattr(extract, "DELEGATE", present)
+    assert extract.backend() == "delegate"
+    monkeypatch.setenv("TIMELINE_BACKEND", "claude")
+    assert extract.backend() == "claude"
+
+
+def test_cloud_months_are_kept_but_fallback_months_are_redone():
+    """Otherwise each backend would redo every month the other one made."""
+    import extract
+
+    msgs = [object()] * 3
+    assert not extract.needs_extracting(
+        {"messages": 3, "model": extract.PREFERRED_MODEL}, msgs)
+    assert not extract.needs_extracting(
+        {"messages": 3, "model": extract.CLAUDE_TAG}, msgs)
+    assert extract.needs_extracting(
+        {"messages": 3, "model": "opencode/some-fallback"}, msgs)
+    assert extract.needs_extracting(
+        {"messages": 2, "model": extract.CLAUDE_TAG}, msgs)
+
+
+def test_a_failed_claude_call_counts_as_no_reply(monkeypatch):
+    import subprocess
+    import extract
+
+    def boom(*a, **k):
+        raise subprocess.TimeoutExpired("claude", 900)
+
+    monkeypatch.setattr(extract.subprocess, "run", boom)
+    assert extract.ask_claude("prompt") == ("", extract.CLAUDE_TAG)

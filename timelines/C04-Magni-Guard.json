@@ -294,71 +294,139 @@
       ]
     },
     "2026-09": {
-      "messages": 63,
-      "model": "opencode/muse-spark-1.3-contributor-free",
+      "messages": 92,
+      "model": "claude-cloud",
       "scenes": [
         {
           "first": 1,
-          "last": 19,
+          "last": 9,
           "area": "The Grand Hall of the Temple",
           "location": "Room 9",
           "events": [
             {
               "at": 1,
-              "text": "detective attempted to disarm the snare with magical guidance."
+              "text": "Chase Darkthorne's detective uses magic-guided tool work to attempt disarming a snare."
+            },
+            {
+              "at": 2,
+              "text": "Changer mentions cold storage facilities back at base and offers to request some for the field."
+            },
+            {
+              "at": 3,
+              "text": "Changer introduces himself as assistant officer of the Magni Guard and asks who the party is."
+            },
+            {
+              "at": 7,
+              "text": "Changer asks whether mentioning the zoo helps the investigation."
             },
             {
               "at": 9,
-              "text": "Steele introduced herself as Former Sergeant Steele of the Magnimar City Watch."
-            },
-            {
-              "at": 10,
-              "text": "party walked to the doorway."
-            },
-            {
-              "at": 13,
-              "text": "Changer warned of a kobold riding a spider and a snare hidden under rubbish."
-            },
-            {
-              "at": 16,
-              "text": "trap was disabled but a crossbow bolt was launched from above."
-            },
-            {
-              "at": 17,
-              "text": "party entered combat."
+              "text": "Alastair Tan introduces Steele as a former Sergeant of the Magnimar City Watch."
             }
           ],
           "time_cues": []
         },
         {
-          "first": 20,
-          "last": 63,
+          "first": 10,
+          "last": 53,
+          "area": "The Chamber of Scribing",
+          "location": "The doorway",
+          "events": [
+            {
+              "at": 10,
+              "text": "The party walks to the doorway."
+            },
+            {
+              "at": 16,
+              "text": "The snare is disabled and a crossbow bolt is fired from above, starting combat."
+            },
+            {
+              "at": 20,
+              "text": "Báyakan Tiktik disables the snare, then is shot for 7 damage by the kobold scout."
+            },
+            {
+              "at": 21,
+              "text": "Changer's telekinetic projectile deals 6 damage and leaves Kreski bloodied."
+            },
+            {
+              "at": 31,
+              "text": "Kitt's vine wraps around Kreski, restricting movement, and Kitt raises their shield."
+            },
+            {
+              "at": 52,
+              "text": "Margle takes 8 damage and is bloodied."
+            }
+          ],
+          "time_cues": []
+        },
+        {
+          "first": 54,
+          "last": 92,
           "area": "The Chamber of Scribing",
           "location": "The Chamber of Scribing",
           "events": [
             {
-              "at": 20,
-              "text": "encounter Kobold and Spider Sneak Attack started in The Chamber of Scribing."
+              "at": 54,
+              "text": "Rex, in a retconned action, strides in and shoots Margle with a crossbow for 3 damage."
             },
             {
-              "at": 22,
-              "text": "Doopa introduced herself."
+              "at": 59,
+              "text": "Steele marches in shouting for surrender and draws her longsword."
             },
             {
-              "at": 31,
-              "text": "Kitt restrained Kreski with a vine and raised a shield."
+              "at": 64,
+              "text": "Rex fires two crossbow bolts at the spider and misses both."
             },
             {
-              "at": 37,
-              "text": "damage to the spider was undone because it was 25 feet up on the wall."
+              "at": 77,
+              "text": "Rex's bolt goes far off and embeds in a wooden beam."
             },
             {
-              "at": 52,
-              "text": "Margle took 8 damage from magic."
+              "at": 82,
+              "text": "Kreski's two crossbow shots at Steele both miss."
             },
             {
-              "at": 62,
-              "text": "kobold refused surrender saying they would not be slaves."
+              "at": 86,
+              "text": "Changer's turret shot deals 7 damage after a reroll."
+            }
+          ],
+          "time_cues": []
+        }
+      ]
+    },
+    "2026-10": {
+      "messages": 14,
+      "model": "claude-cloud",
+      "scenes": [
+        {
+          "first": 1,
+          "last": 14,
+          "area": "The Chamber of Scribing",
+          "location": "The Chamber of Scribing",
+          "events": [
+            {
+              "at": 2,
+              "text": "Nadya cast Daze on a visible foe and took cover behind the door."
+            },
+            {
+              "at": 3,
+              "text": "Báyakan magically highlighted a weak spot in the spider's carapace."
+            },
+            {
+              "at": 5,
+              "text": "Kreski and Margle the spider were both left extremely injured."
+            },
+            {
+              "at": 9,
+              "text": "Kreski slumped on her mount, and the spider and kobold surrendered and passed out."
+            },
+            {
+              "at": 11,
+              "text": "The detective declared the suspects down without casualty."
+            },
+            {
+              "at": 14,
+              "text": "Steele tied the kobold's hands with rope and arrested her for assault."
             }
           ],
           "time_cues": []

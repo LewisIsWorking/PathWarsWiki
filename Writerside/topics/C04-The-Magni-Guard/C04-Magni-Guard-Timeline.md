@@ -7,15 +7,16 @@ Where the party went, in order. Each outer box is an area, and each box inside i
 
 ```mermaid
 flowchart TD
-    subgraph a0["1. Minkaian Trade House · 🗓️ IRL 18w 1d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
+    subgraph a0["1. Minkaian Trade House · 🗓️ IRL 22w 6d ▰▰▰▰▰▰▰▰▰▰ · ⏳ In-game ?"]
     direction TB
         v0["<b>1.1 Room 4</b><br/>🗓️ IRL 9h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v1["<b>1.2 Room 5: The Grand Hall</b><br/>🗓️ IRL 2w 5d ▰▰▰▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v2["<b>1.3 Room 6: The Administrative Office</b><br/>🗓️ IRL 3w 4d ▰▰▰▰▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v3["<b>1.4 Room 5: The Grand Hall</b><br/>🗓️ IRL <1h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
         v4["<b>1.5 Room 8: The Hall of Messages</b><br/>🗓️ IRL 1w 5d ▰▰▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
-        v5["<b>1.6 Room 9: The Hall of Wisdom</b><br/>🗓️ IRL 9w 23h ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
-        v6["<b>1.7 The Chamber of Scribing</b><br/>🗓️ IRL 5d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v5["<b>1.6 Room 9: The Hall of Wisdom</b><br/>🗓️ IRL 9w 8h ▰▰▰▰▰▰▰▰▰▰<br/>⏳ In-game ?"]
+        v6["<b>1.7 The doorway</b><br/>🗓️ IRL 4d 15h ▰▱▱▱▱▱▱▱▱▱<br/>⏳ In-game ?"]
+        v7["<b>1.8 The Chamber of Scribing</b><br/>🗓️ IRL 4w 6d ▰▰▰▰▰▰▱▱▱▱<br/>⏳ In-game ?"]
     end
     v0 --> v1
     v1 --> v2
@@ -23,11 +24,12 @@ flowchart TD
     v3 --> v4
     v4 --> v5
     v5 --> v6
+    v6 --> v7
 ```
 
 ## 1. Minkaian Trade House
 
-- 🗓️ **IRL:** 11 May 2026 to 15 Sep 2026, 18w 1d
+- 🗓️ **IRL:** 11 May 2026 to 18 Oct 2026, 22w 6d
 - ⏳ **In-game:** not all rooms filled in
 
 ### 1.1 Room 4
@@ -107,7 +109,7 @@ flowchart TD
 
 ### 1.6 Room 9: The Hall of Wisdom
 
-- 🗓️ **IRL:** 8 Jul 2026 to 9 Sep 2026, 9w 23h, 95 posts
+- 🗓️ **IRL:** 8 Jul 2026 to 8 Sep 2026, 9w 8h, 85 posts
 - ⏳ **In-game:** not filled in (`"2026-07#7"` in `timelines/C04-Magni-Guard.json`)
 
 **Events**
@@ -124,23 +126,42 @@ flowchart TD
 - 26 Aug: Steele arrived in mixed leather and metal armor. [↗](https://t.me/Path_Wars/76799/175100)
 - 26 Aug: Kitt introduced themselves as on assignment from the Chaplain Unit. [↗](https://t.me/Path_Wars/76799/175115)
 - 27 Aug: Báyakan pointed out the snare trap and spider-mounted kobold across the threshold. [↗](https://t.me/Path_Wars/76799/175646)
-- 02 Sep: detective attempted to disarm the snare with magical guidance. [↗](https://t.me/Path_Wars/76799/176693)
-- 08 Sep: Steele introduced herself as Former Sergeant Steele of the Magnimar City Watch. [↗](https://t.me/Path_Wars/76799/177608)
-- 09 Sep: party walked to the doorway. [↗](https://t.me/Path_Wars/76799/177912)
-- 09 Sep: Changer warned of a kobold riding a spider and a snare hidden under rubbish. [↗](https://t.me/Path_Wars/76799/177915)
-- 09 Sep: trap was disabled but a crossbow bolt was launched from above. [↗](https://t.me/Path_Wars/76799/177918)
-- 09 Sep: party entered combat. [↗](https://t.me/Path_Wars/76799/177919)
+- 02 Sep: Chase Darkthorne's detective uses magic-guided tool work to attempt disarming a snare. [↗](https://t.me/Path_Wars/76799/176693)
+- 07 Sep: Changer mentions cold storage facilities back at base and offers to request some for the field. [↗](https://t.me/Path_Wars/76799/177445)
+- 07 Sep: Changer introduces himself as assistant officer of the Magni Guard and asks who the party is. [↗](https://t.me/Path_Wars/76799/177491)
+- 07 Sep: Changer asks whether mentioning the zoo helps the investigation. [↗](https://t.me/Path_Wars/76799/177495)
+- 08 Sep: Alastair Tan introduces Steele as a former Sergeant of the Magnimar City Watch. [↗](https://t.me/Path_Wars/76799/177608)
 
-### 1.7 The Chamber of Scribing
+### 1.7 The doorway
 
-- 🗓️ **IRL:** 10 Sep 2026 to 15 Sep 2026, 5d 15h, 44 posts
-- ⏳ **In-game:** not filled in (`"2026-09#20"` in `timelines/C04-Magni-Guard.json`)
+- 🗓️ **IRL:** 9 Sep 2026 to 14 Sep 2026, 4d 15h, 44 posts
+- ⏳ **In-game:** not filled in (`"2026-09#10"` in `timelines/C04-Magni-Guard.json`)
 
 **Events**
 
-- 10 Sep: encounter Kobold and Spider Sneak Attack started in The Chamber of Scribing. [↗](https://t.me/Path_Wars/144765/178059)
-- 10 Sep: Doopa introduced herself. [↗](https://t.me/Path_Wars/76799/178061)
-- 10 Sep: Kitt restrained Kreski with a vine and raised a shield. [↗](https://t.me/Path_Wars/76799/178114)
-- 13 Sep: damage to the spider was undone because it was 25 feet up on the wall. [↗](https://t.me/Path_Wars/144765/178664)
-- 14 Sep: Margle took 8 damage from magic. [↗](https://t.me/Path_Wars/144765/178896)
-- 14 Sep: kobold refused surrender saying they would not be slaves. [↗](https://t.me/Path_Wars/76799/179031)
+- 09 Sep: The party walks to the doorway. [↗](https://t.me/Path_Wars/76799/177912)
+- 09 Sep: The snare is disabled and a crossbow bolt is fired from above, starting combat. [↗](https://t.me/Path_Wars/76799/177918)
+- 10 Sep: Báyakan Tiktik disables the snare, then is shot for 7 damage by the kobold scout. [↗](https://t.me/Path_Wars/144765/178059)
+- 10 Sep: Changer's telekinetic projectile deals 6 damage and leaves Kreski bloodied. [↗](https://t.me/Path_Wars/144765/178060)
+- 10 Sep: Kitt's vine wraps around Kreski, restricting movement, and Kitt raises their shield. [↗](https://t.me/Path_Wars/76799/178114)
+- 14 Sep: Margle takes 8 damage and is bloodied. [↗](https://t.me/Path_Wars/144765/178896)
+
+### 1.8 The Chamber of Scribing
+
+- 🗓️ **IRL:** 14 Sep 2026 to 18 Oct 2026, 4w 6d, 53 posts
+- ⏳ **In-game:** not filled in (`"2026-09#54"` in `timelines/C04-Magni-Guard.json`)
+
+**Events**
+
+- 14 Sep: Rex, in a retconned action, strides in and shoots Margle with a crossbow for 3 damage. [↗](https://t.me/Path_Wars/144765/178902)
+- 14 Sep: Steele marches in shouting for surrender and draws her longsword. [↗](https://t.me/Path_Wars/76799/178938)
+- 17 Sep: Rex fires two crossbow bolts at the spider and misses both. [↗](https://t.me/Path_Wars/144765/180234)
+- 23 Sep: Rex's bolt goes far off and embeds in a wooden beam. [↗](https://t.me/Path_Wars/76799/181035)
+- 25 Sep: Kreski's two crossbow shots at Steele both miss. [↗](https://t.me/Path_Wars/144765/181314)
+- 25 Sep: Changer's turret shot deals 7 damage after a reroll. [↗](https://t.me/Path_Wars/144765/181318)
+- 04 Oct: Nadya cast Daze on a visible foe and took cover behind the door. [↗](https://t.me/Path_Wars/144765/182796)
+- 06 Oct: Báyakan magically highlighted a weak spot in the spider's carapace. [↗](https://t.me/Path_Wars/144765/183292)
+- 12 Oct: Kreski and Margle the spider were both left extremely injured. [↗](https://t.me/Path_Wars/76799/184765)
+- 12 Oct: Kreski slumped on her mount, and the spider and kobold surrendered and passed out. [↗](https://t.me/Path_Wars/76799/184785)
+- 12 Oct: The detective declared the suspects down without casualty. [↗](https://t.me/Path_Wars/76799/184931)
+- 18 Oct: Steele tied the kobold's hands with rope and arrested her for assault. [↗](https://t.me/Path_Wars/76799/186315)

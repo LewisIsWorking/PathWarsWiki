@@ -12,7 +12,7 @@ Pilot: **C04 Magni Guard**, published at
 | Step | Script | Model? |
 |---|---|---|
 | 1. Read the archive into numbered messages, per month | `messages.py` | no |
-| 2. Split each month into scenes by location | `extract.py` | **yes**, `muse-spark-1.3` (free) via the `delegate` skill |
+| 2. Split each month into scenes by location | `extract.py` | **yes**, `muse-spark-1.3` (free) via the `delegate` skill on Lewis's PC, or the `claude` CLI anywhere else |
 | 3. Check the split, then save it | `scenes.py` | no |
 | 4. Merge scenes into visits and write the page | `page.py`, `page_render.py` | no |
 
@@ -27,8 +27,24 @@ quotes from that month's posts. Nothing is estimated.
 
 ## Running it
 
-Extraction needs the local `delegate` skill, so it runs on Lewis's machine,
-not in CI. It only sends months that are new or have grown.
+Extraction has two backends (Lewis, 2026-10-29: make it available in the
+cloud session):
+
+| Backend | Where | Model tag saved |
+|---|---|---|
+| `delegate` | Lewis's PC, when `~/.claude/skills/delegate/delegate.ps1` exists | `opencode/muse-spark-1.3-contributor-free` |
+| `claude` | anywhere else, e.g. a Claude Code cloud session (`claude -p`, cheap model alias, override with `TIMELINE_CLAUDE_MODEL`) | `claude-cloud` |
+
+`TIMELINE_BACKEND=delegate|claude` forces one. Months from either accepted
+model are kept; only months that fell back to some other model are redone.
+It only sends months that are new or have grown.
+
+In the cloud session, with the bot repo cloned next to this one:
+
+```bash
+python scripts/campaign_timeline/run_all.py            # every campaign
+python scripts/campaign_timeline/run_all.py --only C06
+```
 
 ```bash
 python scripts/campaign_timeline/extract.py \
