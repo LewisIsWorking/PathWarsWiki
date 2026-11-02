@@ -90,7 +90,7 @@ Format = Rule Name - Sub-Rule - Status - Link
 - World 2 Status: Required.
 - No-limit Stamina
 - Taking a Breather and Rally are free: no Resolve Point is spent. Use the "Take a Breather (No-Limit Stamina)" macro.
-- Steel Your Resolve is kept, with no limit, so Stamina never costs you in-combat survivability.
+- Steel Your Resolve is kept and still spends a Resolve Point as normal, so Stamina never costs you in-combat survivability.
 - You get two bonus feats for free:
 - Encouraging words.
 - Steel your resolve.
