@@ -17,9 +17,16 @@ He keeps notes, chalk and a spellbook in his backpack and is usually the first t
 
 ---
 
+## Backstory
+
+In Buffet Raider's own words (Telegram, 2026-11-03):
+"Tarsus is an apprentice bonespeaker that was traveling the region to learn more about the world and magic, the rumors of a curse affecting the nearby human settlement piqued his interest."
+
+---
+
 ## Ancestry: What the Story Shows
 
-The transcripts never say outright that Tarsus is a kholo (gnoll). It is only implied:
+The transcripts never say outright that Tarsus is a kholo (gnoll). It is only implied, and fits his training as a bonespeaker:
 
 - The GM tells him: "Tarsus sweat drips from your fur."
 - When he studies Lorn's changed form, "His hackles raise and he occasionally growls to himself".

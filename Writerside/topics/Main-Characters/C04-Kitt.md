@@ -7,7 +7,7 @@ What does your character's last name mean? N/A
 Does your character have a title? For example, "Arthur, the Dragon knight of Camelot!" N/A
 
 Age.
-For help on days, months and years of the world, click the following link = PW~Golarion-Lore-The-Spoiler-Free-Version.md.
+For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version.md](../Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md).
 How old is your character? 15
 What year was your character born? 4705 AR
 What day is your character’s birthday? 2 Calistril

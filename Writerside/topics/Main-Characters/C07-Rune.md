@@ -9,7 +9,7 @@ Does your character have a title? For example, "Arthur, the Dragon knight of Cam
 
 Age.
 
-For help on days, months and years of the world, click the following link = PW~Golarion-Lore-The-Spoiler-Free-Version.md.
+For help on days, months and years of the world, click the following link = [Golarion-Lore-The-Spoiler-Free-Version.md](../Cross-campaign-lore/Golarion-Lore-The-Spoiler-Free-Version.md).
 How old is your character? 13
 What year was your character born? 296 AG
 What day is your character’s birthday? 21 Kuthona
