@@ -4,7 +4,7 @@
 
 > The Story. 
 >> 1. Kibwe is drowning in a slime curse, and its last hope lies in the ancient Temple of the Sun.
->> 2. The party has fought its way inside, past dark fey, a golden guardian and the Low League, and now stands in a chamber crackling with lightning sigils.
+>> 2. The party has fought its way inside, past dark fey, a golden guardian, the Low League and a guard legion, and now stands sealed in the Chamber of Scribing, hammering on a locked door while armoured guards wake up on the other side.
 >> 3. The curse no longer stops at humans, and time is running out. Whether the city survives is up to you.
 
 **The basics**
@@ -29,7 +29,10 @@
 - Tone is adult and high fantasy: dark, magical, and not shy about mature content.
 - Vetting happens on the Path Wars Discord, not in my DMs.
 
-New players are welcome to DM me to join and I will happily walk you through everything.
+**How to join**
+1. DM me on Discord and say you are interested in Kibwe.
+2. We have a short chat on the Path Wars Discord (that is the vetting).
+3. I send you the Telegram link and set you up in Foundry, and you post your character.
 You can also reach out to our campaign helpers @mrnegetz and @nemesiux.
 
 @PF2e LFG
@@ -38,3 +41,4 @@ You can also reach out to our campaign helpers @mrnegetz and @nemesiux.
 
 2026-May-31: https://discord.com/channels/260066959238889472/1510530973719068733.
 2026-Oct-08: https://discord.com/channels/260066959238889472/1557717882383769653.
+2026-Nov-04: (link once posted)
