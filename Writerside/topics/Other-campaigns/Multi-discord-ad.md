@@ -46,6 +46,7 @@ __05-The-Grand-Explorers__
 __06-Kibwe__
 **Campaign Description: **
 - Save the city of Kibwe from a magical curse that is turning its citizens into slime-people.
+- The party is inside the Temple of the Sun, one locked door from the next fight.
 - Level 7 → 8.
 
 __07-The-Hopeful-Endtimes__

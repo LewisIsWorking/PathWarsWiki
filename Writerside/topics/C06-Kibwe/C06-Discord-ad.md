@@ -30,9 +30,9 @@
 - Vetting happens on the Path Wars Discord, not in my DMs.
 
 **How to join**
-1. DM me on Discord and say you are interested in Kibwe.
-2. We have a short chat on the Path Wars Discord (that is the vetting).
-3. I send you the Telegram link and set you up in Foundry, and you post your character.
+1. Join the Path Wars Discord server, using the link in my bio.
+2. Go to the #join-the-campaign channel and react with the ✅ emoji to unlock the rest of the server.
+3. DM me that you want a seat in Kibwe, and I will walk you through everything.
 You can also reach out to our campaign helpers @mrnegetz and @nemesiux.
 
 @PF2e LFG
