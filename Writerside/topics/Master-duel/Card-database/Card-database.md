@@ -13,3 +13,4 @@ How entries work:
 - [Invoked](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Master-duel/Card-database/Cards-Invoked.md)
 - [Staples and generic cards](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Master-duel/Card-database/Cards-Staples.md)
 - [Opponent cards](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Master-duel/Card-database/Cards-Opponents.md)
+- [DoomZ / Power Patron](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Master-duel/Card-database/Cards-DoomZ.md)
