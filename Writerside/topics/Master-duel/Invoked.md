@@ -59,3 +59,11 @@ End board: Little Knight, Mechaba, set Sword. If a fusion gets negated, the seco
 
 - Chimeratech Fortress takes your Machines (Mechaba); Megafleet takes monsters in the Extra Monster Zones. Neither is an effect, so stop the Cyber Dragon instead.
 - Cyber Dragon Infinity steals Attack Position monsters: keep non-attackers in Defence.
+
+### Test game vs Natasha's Horus Dragoon (9 Nov 2026): win
+
+- Opened Veiler, Virakam, Grail, Imperm + Pot of Desires (drew Droll, Imperm). No Aleister, so Grail and Virakam were dead: both need an Aleister in field/GY (Grail also counts banishment).
+- Her **Dark Magical Curtain** let me Special Summon Aleister from my Deck, which turned Grail on.
+- She used **Imsety (Level 8 DARK Spellcaster)** as material for Dark Magician of Destruction → Gaze → Dragoon.
+- With her hand empty, Dragoon couldn't negate. Meltdown → Aleister → Invocation, then **Grail mode 2 banished Aleister + Dragoon → Oceanus** in the Extra Monster Zone. Followed with Augoeides for the win.
+- Lessons: Grail mode 2 is the Dragoon answer; fix the bricks with 3× Sacred Spirit Sword Aiwass (its Aleister mode turns on Grail and Virakam).
