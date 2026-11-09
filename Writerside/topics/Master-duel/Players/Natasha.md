@@ -34,15 +34,15 @@ Based on donahead's Master I Horus list (Apr 2026), adapted to her collection. R
 - Lightning Storm ×1
 - Lava Golem ×1 (cut first if over 40)
 
-### Extra Deck
+### Extra Deck (13 of 15)
 
 - Red-Eyes Dark Dragoon ×3
 - Dark Magician of Destruction ×1
 - Master of Chaos ×3
 - The Dark Magicians ×2
 - Dark Magician the Dragon Knight ×2
-- Vertex Anaconda ×1
-- 3 open slots for Rank 8 Xyz / S:P Little Knight as she gets them
+- Knightmare Phoenix ×1
+- Predaplant Verte Anaconda ×1 (only usable as a Link-2 body: she runs no "Fusion"/"Polymerization" Spell)
 
 ## Collection
 
@@ -59,7 +59,7 @@ Based on donahead's Master I Horus list (Apr 2026), adapted to her collection. R
 
 ### Not owned
 
-Tearlaments (all), Crossout Designator, Infinite Impermanence, Effect Veiler (UR), Droll (crafting), Nibiru, Number 38, Dingirsu, Gigantic "Champion" Sargas, Lacrima the Crimson Tears, Moon of the Closed Heaven.
+Tearlaments (all), S:P Little Knight, Crossout Designator, Infinite Impermanence, Effect Veiler (UR), Droll (crafting), Nibiru, Number 38, Dingirsu, Gigantic "Champion" Sargas, Lacrima the Crimson Tears, Moon of the Closed Heaven.
 
 ### Dismantled 9 Nov 2026
 
