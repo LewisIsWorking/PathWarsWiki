@@ -119,3 +119,9 @@ Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows
 ### Wanted (UR)
 1. Gandora-G the Dragon of Destruction
 2. Dark Magical Curtain #2 and #3
+
+## Rank 8 Xyz with 2 Horus (9 Nov 2026)
+
+- Turning 2 Horus into an Xyz gives up King's Sarcophagus protection (it only covers Horus monsters), Sarcophagus's battle effect and both Horus triggers. Each Horus can only be revived from the GY once per turn per name, so only Xyz with Horus she can't otherwise use.
+- Proven Horus lists use Number 90: Galaxy-Eyes Photon Lord and Number 38 (Fearnagae, WCS 2026 qualifiers, June 2026); a Horus guide also lists Dingirsu, Number 68 and Coach King Giantrainer. She owns none of these. Number 90 is the craft to aim for.
+- From what she owns: **Hieratic Sky Dragon Overlord** on turn 1 (negates a targeting effect on her field, GY or banishment, covering the gap in Sarcophagus's protection). **Hieratic Sun Dragon Overlord** when going second (tributes to destroy). **Aegaion** against Invoked: Lewis banishes his own Fusions, which Aegaion can return to destroy one of his Fusions on the field, on either turn.
