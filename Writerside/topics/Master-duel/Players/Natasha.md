@@ -62,7 +62,7 @@ Horus core from donahead's Master I list (Apr 2026); Dragoon package from Huncho
 - Dark Magician: Dark Magician ×3, Red-Eyes Dark Dragoon ×3, The Dark Magicians ×3, Master of Chaos ×3, Dark Magician the Dragon Knight ×3, Soul Servant ×3 (from 3× Dark Magician structure deck), Gaze of Timaeus, Red-Eyes Black Dragon, Red-Eyes Fusion
 - Crafted 9 Nov: Apprentice ×2, Shining Sarcophagus, Dark Magician of Destruction, Planet Pathfinder ×2, Gaze of Timaeus
 - Shining Sarcophagus: Future Silence, Gadget Trio, Silent Magician Zero
-- Staples: Ash ×1, Maxx "C", Ghost Mourner, Forbidden Droplet ×1, Triple Tactics Talent ×1, Triple Tactics Thrust ×1, Dark Hole, Lightning Storm, Lava Golem, Pot of Extravagance, Vertex Anaconda
+- Staples: Mulcharmy Meowls (got 9 Nov), Ash ×1, Maxx "C", Ghost Mourner, Forbidden Droplet ×1, Triple Tactics Talent ×1, Triple Tactics Thrust ×1, Dark Hole, Lightning Storm, Lava Golem, Pot of Extravagance, Vertex Anaconda
 - Fiendsmith: Engraver ×1, Tract ×1, Fiendsmith's Lacrima ×2, Fiendsmith's Desirae ×1
 - Azamina: Deception of the Sinful Spoils, The Hallowed Azamina, Azamina Ilia Silvia ×2 (one glossy)
 - Rank 8 Xyz: Number 97: Draglubion, Thelematech Clatis, Aegaion the Sea Castrum, Hieratic Sun Dragon Overlord of Heliopolis, Number 40: Gimmick Puppet of Strings, Number 46: Dragluon
