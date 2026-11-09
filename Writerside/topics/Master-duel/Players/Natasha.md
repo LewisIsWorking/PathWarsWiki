@@ -54,29 +54,68 @@ Horus core from donahead's Master I list (Apr 2026); Dragoon package from Huncho
 2. Gandora-G the Dragon of Destruction (UR) → replaces Dark Hole
 3. More Curtain / a 3rd Apprentice → replace Triple Tactics Thrust and Silent Magician Zero
 
-## Collection
+## Collection (as of 9 Nov 2026)
 
-### Owned (relevant)
+CP after the 9 Nov rebuild: N 2477, R 2287, SR 135, UR 9.
 
-- Horus: Imsety ×3, Duamutef, Qebehsenuef, Hapi, Horus the Black Flame Deity, King's Sarcophagus ×3, Walls of the Imperial Tomb ×3
-- Dark Magician: Dark Magician ×3, Red-Eyes Dark Dragoon ×3, The Dark Magicians ×3, Master of Chaos ×3, Dark Magician the Dragon Knight ×3, Soul Servant ×3 (from 3× Dark Magician structure deck), Gaze of Timaeus, Red-Eyes Black Dragon, Red-Eyes Fusion
-- Crafted 9 Nov: Apprentice ×2, Shining Sarcophagus, Dark Magician of Destruction, Planet Pathfinder ×2, Gaze of Timaeus
-- Shining Sarcophagus: Future Silence, Gadget Trio, Silent Magician Zero
-- Staples: Mulcharmy Meowls (got 9 Nov), Ash ×1, Maxx "C", Ghost Mourner, Forbidden Droplet ×1, Triple Tactics Talent ×1, Triple Tactics Thrust ×1, Dark Hole, Lightning Storm, Lava Golem, Pot of Extravagance, Vertex Anaconda
-- Fiendsmith: Engraver ×1, Tract ×1, Fiendsmith's Lacrima ×2, Fiendsmith's Desirae ×1
-- Azamina: Deception of the Sinful Spoils, The Hallowed Azamina, Azamina Ilia Silvia ×2 (one glossy)
-- Rank 8 Xyz: Number 97: Draglubion, Thelematech Clatis, Aegaion the Sea Castrum, Hieratic Sun Dragon Overlord of Heliopolis, Number 40: Gimmick Puppet of Strings, Number 46: Dragluon
-- Other Extra Deck: Knightmare Phoenix, Predaplant Verte Anaconda
-- Other: Destructive Karma Cannon, Split Mirror of the Underworld, Snake-Eyes Poplar (dismantled 9 Nov)
+### Horus
+- Imsety, Glory of Horus ×3
+- Duamutef, Blessing of Horus ×1
+- Qebehsenuef, Protection of Horus ×1
+- Hapi, Guidance of Horus ×1
+- Horus the Black Flame Deity ×1
+- King's Sarcophagus ×3
+- Walls of the Imperial Tomb ×3
+- Canopic Protector ×1 (cut: not in proven lists)
 
-### Not owned
+### Dark Magician / Shining Sarcophagus
+- Dark Magician ×3+ (3× Dark Magician structure deck)
+- Dark Magician Girl the Magician's Apprentice ×2 (crafted 9 Nov)
+- Dark Magician the Magician of Black Magic ×1 (crafted 9 Nov)
+- Shining Sarcophagus ×2 (crafted 9 Nov)
+- Future Silence ×1 (2 more to craft, N)
+- Gadget Trio ×1
+- Silent Magician Zero ×1
+- The Gaze of Timaeus ×2
+- Soul Servant ×3
+- Planet Pathfinder ×3
+- Red-Eyes Black Dragon, Red-Eyes Fusion (cut: Red-Eyes Fusion stops her other summons)
+- New 9 Nov: a Dark Magician + Gaia card ("Dark Rider") – name to confirm (likely Dark Cavalry, SR)
 
-Tearlaments (all), S:P Little Knight, Crossout Designator, Infinite Impermanence, Effect Veiler (UR), Droll (crafting), Nibiru, Number 38, Dingirsu, Gigantic "Champion" Sargas, Lacrima the Crimson Tears, Moon of the Closed Heaven.
+### Extra Deck cards
+- Red-Eyes Dark Dragoon ×3
+- Dark Magician of Destruction ×1 (crafted 9 Nov)
+- Master of Chaos ×3
+- The Dark Magicians ×3
+- Dark Magician the Dragon Knight ×3
+- Knightmare Phoenix ×1
+- Predaplant Verte Anaconda ×1
+- Geonator Transverser ×1
+- Rank 8: Hieratic Sun Dragon Overlord of Heliopolis, Hieratic Sky Dragon Overlord of Heliopolis (crafted 9 Nov), Thelematech Clatis, Aegaion the Sea Castrum, Number 97: Draglubion, Number 40: Gimmick Puppet of Strings, Number 46: Dragluon
+- Fiendsmith's Lacrima ×2, Fiendsmith's Desirae ×1
+- Azamina Ilia Silvia ×1
+
+### Hand traps and staples
+- Ash Blossom & Joyous Spring ×2 (2nd crafted 9 Nov)
+- Droll & Lock Bird ×2 (crafted 9 Nov)
+- Maxx "C" ×1
+- Mulcharmy Meowls ×1 (got 9 Nov)
+- Ghost Mourner & Moonlit Chill ×1
+- Forbidden Droplet ×1
+- Triple Tactics Talent ×1, Triple Tactics Thrust ×1
+- Dark Hole ×1, Lightning Storm ×1, Lava Golem ×1, Pot of Extravagance ×1
+
+### Other
+- Fiendsmith: Engraver ×1, Tract ×1 (keeping: "far too good to get rid of")
+- Azamina: Deception of the Sinful Spoils, The Hallowed Azamina
+- Destructive Karma Cannon, Split Mirror of the Underworld
+
+### Not owned (checked)
+Tearlaments (all), S:P Little Knight, Crossout Designator, Infinite Impermanence, Effect Veiler, Nibiru, Number 38, Dingirsu, Gigantic "Champion" Sargas, Lacrima the Crimson Tears, Moon of the Closed Heaven, Dark Magical Curtain, Gandora-G.
 
 ### Dismantled 9 Nov 2026
+Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows, Aleister the Reminiscent, Snake-Eyes Poplar, Arcana Triumph Joker, Thunder Dragon Colossus, Jurrac Meteor, Elemental HERO Neos Kluger, The Unstoppable Exodia Incarnate, Mementomictlan Tecuhtlica, spare Azamina Ilia Silvia.
 
-Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows, Aleister the Reminiscent, Snake-Eyes Poplar, Arcana Triumph Joker, Thunder Dragon Colossus.
-
-### Planned crafts
-
-Shining Sarcophagus #2 and Ash #2 (UR), Droll (SR), Gaze #2 (R), Planet Pathfinder #3 (R).
+### Wanted (UR)
+1. Dark Magical Curtain
+2. Gandora-G the Dragon of Destruction
