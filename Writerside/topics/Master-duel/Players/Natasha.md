@@ -24,7 +24,7 @@ Horus core from donahead's Master I list (Apr 2026); Dragoon package from Huncho
 - Hapi, Guidance of Horus ×1
 - Horus the Black Flame Deity ×1
 - Dark Hole ×1
-- Lightning Storm ×1
+- Dark Magical Curtain ×1
 - Triple Tactics Talent ×1
 - Triple Tactics Thrust ×1
 - Walls of the Imperial Tomb ×3
@@ -50,7 +50,7 @@ Horus core from donahead's Master I list (Apr 2026); Dragoon package from Huncho
 
 ### Next upgrades (proven cards)
 
-1. Dark Magical Curtain (UR) → replaces Lightning Storm
+1. ~~Dark Magical Curtain → replaces Lightning Storm~~ done 9 Nov
 2. Gandora-G the Dragon of Destruction (UR) → replaces Dark Hole
 3. More Curtain / a 3rd Apprentice → replace Triple Tactics Thrust and Silent Magician Zero
 
@@ -79,8 +79,7 @@ CP after the 9 Nov rebuild: N 2477, R 2287, SR 135, UR 9.
 - The Gaze of Timaeus ×2
 - Soul Servant ×3
 - Planet Pathfinder ×3
-- Red-Eyes Black Dragon, Red-Eyes Fusion (cut: Red-Eyes Fusion stops her other summons)
-- New 9 Nov: a Dark Magician + Gaia card ("Dark Rider") – name to confirm (likely Dark Cavalry, SR)
+- Red-Eyes Fusion (cut: stops her other summons)
 
 ### Extra Deck cards
 - Red-Eyes Dark Dragoon ×3
@@ -103,6 +102,7 @@ CP after the 9 Nov rebuild: N 2477, R 2287, SR 135, UR 9.
 - Ghost Mourner & Moonlit Chill ×1
 - Forbidden Droplet ×1
 - Triple Tactics Talent ×1, Triple Tactics Thrust ×1
+- Dark Magical Curtain ×1 (crafted 9 Nov)
 - Dark Hole ×1, Lightning Storm ×1, Lava Golem ×1, Pot of Extravagance ×1
 
 ### Other
@@ -111,11 +111,11 @@ CP after the 9 Nov rebuild: N 2477, R 2287, SR 135, UR 9.
 - Destructive Karma Cannon, Split Mirror of the Underworld
 
 ### Not owned (checked)
-Tearlaments (all), S:P Little Knight, Crossout Designator, Infinite Impermanence, Effect Veiler, Nibiru, Number 38, Dingirsu, Gigantic "Champion" Sargas, Lacrima the Crimson Tears, Moon of the Closed Heaven, Dark Magical Curtain, Gandora-G.
+Tearlaments (all), S:P Little Knight, Crossout Designator, Infinite Impermanence, Effect Veiler, Nibiru, Number 38, Dingirsu, Gigantic "Champion" Sargas, Lacrima the Crimson Tears, Moon of the Closed Heaven, Gandora-G.
 
 ### Dismantled 9 Nov 2026
-Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows, Aleister the Reminiscent, Snake-Eyes Poplar, Arcana Triumph Joker, Thunder Dragon Colossus, Jurrac Meteor, Elemental HERO Neos Kluger, The Unstoppable Exodia Incarnate, Mementomictlan Tecuhtlica, spare Azamina Ilia Silvia.
+Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows, Aleister the Reminiscent, Snake-Eyes Poplar, Arcana Triumph Joker, Thunder Dragon Colossus, Jurrac Meteor, Elemental HERO Neos Kluger, The Unstoppable Exodia Incarnate, Mementomictlan Tecuhtlica, spare Azamina Ilia Silvia, Dark Magician the Knight of Dragon Magic, Red-Eyes Black Dragon, a Level 4 Orcust UR.
 
 ### Wanted (UR)
-1. Dark Magical Curtain
-2. Gandora-G the Dragon of Destruction
+1. Gandora-G the Dragon of Destruction
+2. Dark Magical Curtain #2 and #3
