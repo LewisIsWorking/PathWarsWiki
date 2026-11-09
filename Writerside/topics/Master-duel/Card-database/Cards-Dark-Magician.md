@@ -86,3 +86,80 @@ Spell Card · Normal · MD: Super Rare ([source](https://ygoprodeck.com/card/?se
 Effect Monster · Fiend · FIRE, Level 8, 3000/2500 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=102380))
 
 > Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.
+
+## Rank 8 Xyz (Horus monsters are all Level 8)
+
+### Hieratic Sun Dragon Overlord of Heliopolis
+
+XYZ Monster · Dragon · LIGHT, Rank 8, 3000/2400 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=64332231))
+
+> 2 Level 8 monsters
+> Once per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.
+
+### Hieratic Sky Dragon Overlord of Heliopolis
+
+XYZ Monster · Dragon · LIGHT, Rank 8, 3000/2400 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=3292267))
+
+> 2 Level 8 monsters
+> Once per turn, when your opponent activates a card or effect that targets a card(s) on your field, your GY, and/or your banished card(s) (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.
+
+### Thelematech Clatis
+
+XYZ Monster · Spellcaster · DARK, Rank 8, 3000/900 · MD: Rare ([source](https://ygoprodeck.com/card/?search=98986900))
+
+> 2 Level 8 monsters
+> If this face-up card would be destroyed, you can detach 1 material from this card instead. Each time your opponent activates a card or effect, except Spell Cards and effects, place 1 Spell Counter on this card when that card/effect resolves (max. 9). You can remove 3 Spell Counters from this card; apply 1 of these effects. You can only use this effect of "Thelematech Clatis" once per turn.
+> ● Add 1 Spell or 1 Spellcaster Effect Monster from your Deck to your hand.
+> ● Special Summon 1 Spellcaster monster from your hand or Deck.
+
+### Number 23: Lancelot, Dark Knight of the Underworld
+
+XYZ Monster · Zombie · DARK, Rank 8, 2000/1500 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=66547759))
+
+> 2 Level 8 monsters
+> This card can attack your opponent directly while it has Xyz Material. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; destroy it. Once per turn, during either player's turn, when a Spell/Trap Card, or another monster's effect, is activated: Detach 1 Xyz Material from this card; negate the activation.
+
+### Galaxy-Eyes Cipher Dragon
+
+XYZ Monster · Dragon · LIGHT, Rank 8, 3000/2500 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=18963306))
+
+> 2 Level 8 monsters
+> Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; monsters you control cannot attack your opponent directly for the rest of this turn, except this card, also take control of the targeted monster until the End Phase, but while this effect is applied, it has its effects negated, its ATK becomes 3000, also its name becomes "Galaxy-Eyes Cipher Dragon".
+
+### Aegaion the Sea Castrum
+
+XYZ Monster · Machine · WATER, Rank 8, -1/3000 · MD: Rare ([source](https://ygoprodeck.com/card/?search=10678778))
+
+> 2 Level 8 monsters
+> During either player's turn: You can banish 1 random face-down monster from your opponent's Extra Deck, face-up, and if you do, this card's ATK becomes equal to the banished monster's. During either player's turn: You can detach 1 Xyz Material from this card, then target 1 of your opponent's banished Fusion, Synchro, or Xyz Monsters; return it to the Extra Deck, and if you do, destroy 1 monster your opponent controls with the same monster card type (Fusion, Synchro, or Xyz). You can only use each effect of "Aegaion the Sea Castrum" once per turn.
+
+### Number 97: Draglubion
+
+XYZ Monster · Dragon · DARK, Rank 8, 3000/3000 · MD: Rare ([source](https://ygoprodeck.com/card/?search=28400508))
+
+> 2 Level 8 monsters
+> Your opponent cannot target this card with card effects. You can detach 1 material from this card; take 2 Dragon "Number" monsters with different names from your Extra Deck and/or GY, except "Number 97: Draglubion", Special Summon 1 of them and attach the other to it as material, also for the rest of this turn you cannot Special Summon other monsters, or declare an attack, except with that Special Summoned monster. You can only use this effect of "Number 97: Draglubion" once per turn.
+
+### Number 46: Dragluon
+
+XYZ Monster · Dragon · LIGHT, Rank 8, 3000/3000 · MD: Common ([source](https://ygoprodeck.com/card/?search=2978414))
+
+> 2 Level 8 Dragon-Type monsters
+> Once per turn, if you control no other monsters: You can detach 1 Xyz Material from this card, then activate 1 of these effects.
+> ● Special Summon 1 Dragon-Type monster from your hand.
+> ● Target 1 Dragon-Type monster your opponent controls; take control of that target.
+> ● Dragon-Type monsters your opponent controls cannot activate their effects until the end of your opponent's turn.
+
+### Number 40: Gimmick Puppet of Strings
+
+XYZ Monster · Machine · DARK, Rank 8, 3000/2000 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=75433814))
+
+> 2 Level 8 monsters
+> Once per turn: You can detach 1 material from this card; place 1 String Counter on each face-up monster on the field, except this card. Once per turn, during the next End Phase of the opponent of the player who placed a String Counter(s) by this effect: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.
+
+### Number 68: Sanaphond the Sky Prison
+
+XYZ Monster · Rock · DARK, Rank 8, 2100/2700 · MD: Super Rare ([source](https://ygoprodeck.com/card/?search=23085002))
+
+> 2 Level 8 monsters
+> Gains 100 ATK and DEF for each monster in the GYs. Once per turn: You can detach 1 material from this card; until the end of your opponent's next turn, this card cannot be destroyed by card effects, also neither player can Special Summon monsters from the GYs.

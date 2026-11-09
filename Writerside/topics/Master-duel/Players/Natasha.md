@@ -34,15 +34,20 @@ Based on donahead's Master I Horus list (Apr 2026), adapted to her collection. R
 - Lightning Storm ×1
 - Lava Golem ×1 (cut first if over 40)
 
-### Extra Deck (13 of 15)
+### Extra Deck (15)
 
 - Red-Eyes Dark Dragoon ×3
 - Dark Magician of Destruction ×1
-- Master of Chaos ×3
-- The Dark Magicians ×2
-- Dark Magician the Dragon Knight ×2
+- Master of Chaos ×2
+- The Dark Magicians ×1
+- Dark Magician the Dragon Knight ×1
 - Knightmare Phoenix ×1
-- Predaplant Verte Anaconda ×1 (only usable as a Link-2 body: she runs no "Fusion"/"Polymerization" Spell)
+- Hieratic Sun Dragon Overlord of Heliopolis ×1 (owned; tribute Horus monsters, which revive with Sarcophagus, to destroy cards)
+- Thelematech Clatis ×1 (owned)
+- Aegaion the Sea Castrum ×1 (owned)
+- Hieratic Sky Dragon Overlord of Heliopolis ×1 (craft, SR)
+- Number 23: Lancelot, Dark Knight of the Underworld ×1 (craft, SR; its negate has no "you can", so it may be mandatory)
+- Galaxy-Eyes Cipher Dragon ×1 (craft, SR)
 
 ## Collection
 
@@ -55,6 +60,8 @@ Based on donahead's Master I Horus list (Apr 2026), adapted to her collection. R
 - Staples: Ash ×1, Maxx "C", Ghost Mourner, Forbidden Droplet ×1, Triple Tactics Talent ×1, Triple Tactics Thrust ×1, Dark Hole, Lightning Storm, Lava Golem, Pot of Extravagance, Vertex Anaconda
 - Fiendsmith: Engraver ×1, Tract ×1, Fiendsmith's Lacrima ×2, Fiendsmith's Desirae ×1
 - Azamina: Deception of the Sinful Spoils, The Hallowed Azamina, Azamina Ilia Silvia ×2 (one glossy)
+- Rank 8 Xyz: Number 97: Draglubion, Thelematech Clatis, Aegaion the Sea Castrum, Hieratic Sun Dragon Overlord of Heliopolis, Number 40: Gimmick Puppet of Strings, Number 46: Dragluon
+- Other Extra Deck: Knightmare Phoenix, Predaplant Verte Anaconda
 - Other: Destructive Karma Cannon, Split Mirror of the Underworld, Snake-Eyes Poplar (dismantled 9 Nov)
 
 ### Not owned
