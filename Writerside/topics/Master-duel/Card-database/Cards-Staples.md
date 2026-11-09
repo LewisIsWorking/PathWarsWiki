@@ -4,7 +4,7 @@ Paraphrased; follow the source for exact wording. Verified Nov 2026.
 
 - **Forbidden Droplet** – Quick-Play. Send any number of other cards from your hand/field to the GY; **choose** (not target) that many of their Effect Monsters: halved attack and negated until end of turn. They can't respond with cards of the same original type as the ones you sent. One per turn. Nothing leaves the field, so "leaves the field" triggers don't fire. ([source](https://ygoprodeck.com/card/forbidden-droplet-11026))
 - **Ghost Belle & Haunted Mansion** – Discard to negate an activation that adds a GY card to the hand/Deck/Extra Deck, Special Summons from the GY, or banishes from the GY. Once per turn. ([source](https://ygoprodeck.com/card/ghost-belle-haunted-mansion-9263))
-- **Infinite Impermanence** – Can be activated from hand only if you control **no cards**. Once one Imperm is on your field you control a card, so a second can't come from hand.
+- **Infinite Impermanence** – Normal Trap. Can be activated from hand if you control **no cards**. It goes to the GY after resolving, so a second Imperm can also come from hand later if you still control no cards (corrected 9 Nov: Lewis was right).
 - **Ash Blossom & Joyous Spring** – Once per turn.
 - **Effect Veiler** – Main Phase only.
 - **Mulcharmy Fuwalos** – Only while you control no cards.
