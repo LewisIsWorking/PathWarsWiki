@@ -15,6 +15,9 @@ Paraphrased; follow the source for exact wording. Verified Nov 2026.
 | Qebehsenuef | EARTH Lv8, 2500/2000 | This turn you can't attack or target her Horus monsters |
 | Hapi | WIND Lv8, 2400/1600 | Returns 2 cards from GYs/banished to hand or Deck |
 
+- **Dark Magician Girl the Magician's Apprentice** – Level 6 DARK Spellcaster, 2000/1700. Discard a card to Special Summon it from hand; its name becomes "Dark Magician Girl" on the field. On Normal/Special Summon: search Shining Sarcophagus. ([source](https://ygoprodeck.com/card/dark-magician-girl-the-magician-s-apprentice-14883))
+- **Dark Magician of Destruction** – Level 8 DARK Spellcaster Fusion, 2800/2600. Dark Magician + a LIGHT or DARK monster; or Special Summon from the Extra Deck in a turn a Spell was activated by banishing a Level 6+ DARK Spellcaster you control. Its name becomes "Dark Magician" on the field and in the GY. On Special Summon: search Dark Magician or a card that mentions it (e.g. Gaze of Timaeus). ([source](https://www.yugiohcardguide.com/single/dark-magician-of-destruction.html))
+- **Horus Dragoon route (Master I list, Apr 2026):** Apprentice → banish it for Dark Magician of Destruction (King's Sarcophagus counts as the Spell) → search Gaze → Gaze turns Destruction into Dragoon.
 - **Horus the Black Flame Deity** – Rarely played. If her Horus monster or Sarcophagus leaves the field by your effect, Special Summon from hand and send all other monsters to the GY. ([source](https://facetofacegames.com/products/horus-the-black-flame-deity-phni-en018-secret-rare-1st-edition))
 
 ## Cyber Dragon (Jack)
