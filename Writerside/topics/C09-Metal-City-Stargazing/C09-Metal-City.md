@@ -23,15 +23,15 @@
 >> - @Aiiden101 = **Damon**. Mostly organic body. Quick-tempered, pragmatic. Skilled marksman.
 >> - CzarChasm23 = **Chik**. Ysoki. Solarian (Unfailing Bow ikon). Magnetar rifle. Force needle. Was in a separate cell.
 >> - @exspiravit_1 = **Diabla "Bella" Alzarin**.
+>> - @RyoYamakawa = **Zels**. Rejoined 2026-11-09.
 >> - Cobalt Quail = **Kae-Vo (The Kaepra-Voliax Symposium)**. Merged barathu collective. Telepathic. Temporal arcana. Was in a separate cell.
 >> - Activity (as of 2026-07-01): 1/6 active in the last 30 days. All players listed above are signed to the campaign; several are currently quiet/slow to post rather than departed. Recruiting to bring active numbers back up. [TODO: if any of the above have formally left, name them and they'll move to Former.]
 
 > Former:
 >> - ~~@Askarans = Antoine/Anthony. No longer playing.~~
->> - ~~@RyoYamakawa = Zels. Left the campaign on 2026-10-19.~~
+>> - ~~@Datfurryboi34. Joined 2026-10-22, left before making a character.~~
 
 > Pending Introduction:
->> - @Datfurryboi34. Joined 2026-10-22, character not made yet.
 >> - **James** = **Zip**. Scittermander mystic. Aspiring musician. Planet-hops by sneaking aboard ships.
 
 > Key NPCs:
