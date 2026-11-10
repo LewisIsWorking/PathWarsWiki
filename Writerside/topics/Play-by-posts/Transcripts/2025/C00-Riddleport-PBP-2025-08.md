@@ -1,6 +1,6 @@
-# C00 Riddleport — 2025-08
+# C00 Riddleport - 2025-08
 
-> ⚠️ **Generated page — do not edit here.**
+> ⚠️ **Generated page - do not edit here.**
 > This transcript is archived automatically by the PathWarsNudge bot
 > and copied into the wiki. Any change made on this page is lost on
 > the next sync. Fix it in the bot's `data/pbp_logs/` instead.
