@@ -329,3 +329,145 @@ Daichi's going to do some recall knowledge to figure out what the fuck this room
 The blood on the black tiger painting is still wet when Ji Yun finishes the curse.
 
 Hou, Ji Yun's death eldamon, partially phases in beside Ji Yun, outside the black veil.
+
+### 📅 Wednesday, Nov 11
+
+**Path Wars** *(GM)* · 00:04 · [↗](https://t.me/Path_Wars/137075/189532)
+*@MrNegetZ*
+
+Daichi knows the Reflection Room from Kibwe's old stories: a quiet room for meditation, its mirrors showing far-off places that never come into focus.
+
+Whatever is in these mirrors now is not in any of those stories.
+
+Roll Kibwe Lore to Recall Knowledge, and let's see what Daichi can piece together!
+
+### 📅 Wednesday, Nov 11
+
+**Path Wars** *(GM)* · 00:40 · [↗](https://t.me/Path_Wars/137075/189546)
+*@Thien_Ming*
+
+The curse reaches the black veil over the doorway and goes no further.
+
+The veil ripples once, then settles.
+*(edited)*
+
+**Path Wars** *(GM)* · 00:40 · [↗](https://t.me/Path_Wars/137075/189547)
+*@Thien_Ming*
+
+Where does Hou move to?
+
+**Path Wars** *(GM)* · 00:40 · [↗](https://t.me/Path_Wars/40585/189548)
+*@Thien_Ming*
+
+Dr. Nutty glances at the veil, then back down at the scribbled calculations in his hands:
+
+"Your curse does not get through my veil.
+That part of the maths, at least, works."
+
+### 📅 Wednesday, Nov 11
+
+**Anthony NegetZ** · 01:16 · [↗](https://t.me/Path_Wars/137075/189560)
+*[image]*<!-- file:AgACAgQAAx0CYwGpWQABAuR4avPB4W_cmty9EgNwzDa_4rXFOx8AAgsOaxu3qqBT3m5RJ8trBO4BAAMCAANtAAM9BA --> I KNOW EVERYTHING!
+
+### 📅 Wednesday, Nov 11
+
+**Path Wars** *(GM)* · 01:52 · [↗](https://t.me/Path_Wars/137075/189582)
+*@MrNegetZ*
+
+37!
+*NATURAL 20!*
+*CRITICAL SUCCESS!*
+
+Daichi knows exactly what this room has become.
+
+**Path Wars** *(GM)* · 01:54 · [↗](https://t.me/Path_Wars/137075/189584)
+*@MrNegetZ*
+
+The Reflection Room's mirrors have never truly worked.
+
+At least not in the last 10,000 years.
+
+The people of Kibwe (including Daichi when he has visited the temple before) have only ever known the mirrors to show them ever-vague, star-like constellations.
+
+Distant, peaceful, abstract.
+
+People often thought those were the stars above, but they never matched the night sky's constellations.
+
+Strange magic mirrors, from a bygone age, quirky.
+
+**Path Wars** *(GM)* · 01:55 · [↗](https://t.me/Path_Wars/137075/189585)
+*@MrNegetZ*
+
+Now the mirrors peer into deep space, clear and sharp, as they seem to have been meant to all along.
+
+Someone has "fixed" them.
+
+That someone being the man before you now...
+
+**Path Wars** *(GM)* · 01:55 · [↗](https://t.me/Path_Wars/137075/189586)
+*@MrNegetZ*
+
+Daichi knows that someone: Dr Nutty.
+
+Dr Nutty was named in the articles the party found at the Paradise head office in Kibwe.
+
+Dr Nutty helped reverse-engineer the curse from the slime stones in Nex.
+
+Daichi, you have been on this man's trail for days now.
+
+Now finally, you are face-to-face with one of the chief architects of his disaster.
+*(edited)*
+
+**Path Wars** *(GM)* · 01:58 · [↗](https://t.me/Path_Wars/137075/189587)
+*@MrNegetZ*
+
+As for the room itself, the room of reflection has been made into a deadly trap with the Deep Dark Mirror.
+
+I will also say, there's something Nidalese in the design of the mirror's adjustments, made by Dr Nutty.
+
+However, I don't think Daichi would know much about that so I'll not go into that...
+*(edited)*
+
+**Path Wars** *(GM)* · 01:59 · [↗](https://t.me/Path_Wars/137075/189588)
+*@MrNegetZ*
+
+The floating pebbles are the warning; gravity is being manipulated.
+
+Dr Nutty is using his arcane power to control the mirrors, and using the deep dark mirror, Dr Nutty can tip the room's gravity toward any wall.
+
+Anyone who slides into a mirror falls through it, tumbling sideways through freezing dark, until they can climb back out of the opposite wall.
+*(edited)*
+
+**Path Wars** *(GM)* · 01:59 · [↗](https://t.me/Path_Wars/137075/189589)
+*@MrNegetZ*
+
+The mirrors spare anyone wearing a Paradise badge.
+
+Every enemy in this room is wearing one.
+
+Disarm one of them of their badge, and the mirrors will pull them too!
+
+**Path Wars** *(GM)* · 02:01 · [↗](https://t.me/Path_Wars/137075/189590)
+*@MrNegetZ*
+
+Also, the doorway has a one-way gravity well force field.
+
+Projectiles and spells can leave the room but not enter it.
+
+Entering the room is difficult terrain, but only for the 5-foot doorway as you cross the threshold.
+
+**Path Wars** *(GM)* · 02:02 · [↗](https://t.me/Path_Wars/137075/189591)
+*@MrNegetZ*
+
+*That's all I can think of right now, and I think it's a lot of information to provide since you got a CRITICAL SUCCESS.*
+
+If you want any further context, I am happy to provide more, probably on the lore side of things.
+
+**Path Wars** *(GM)* · 02:02 · [↗](https://t.me/Path_Wars/137075/189592)
+*@MrNegetZ*
+
+That was 1 action.
+
+You have 2 actions left.
+
+What else does Daichi do this turn?
