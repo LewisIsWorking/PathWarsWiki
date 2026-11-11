@@ -1,15 +1,18 @@
-# C06 Kibwe — transcript index
+# C06 Kibwe - transcript index
 
-> ⚠️ **Generated page — do not edit here.**
+> ⚠️ **Generated page - do not edit here.**
 > Rebuilt from the PathWarsNudge bot's archive on every sync.
 {#generated-banner}
 
 
-**29 month(s)**, **4,566 messages** archived by the PathWarsNudge bot.
+**32 month(s)**, **5,101 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Aug 2026](C06-Kibwe-PBP-2026-08.md) | 106 | 2026-08-01 → 2026-08-16 | Path Wars, Anthony NegetZ, Ryo Yamakawa, Buffet Raider… |
+| [Nov 2026](C06-Kibwe-PBP-2026-11.md) | 47 | 2026-11-01 → 2026-11-10 | Path Wars, Anthony NegetZ, Buffet Raider, Ryo Yamakawa… |
+| [Oct 2026](C06-Kibwe-PBP-2026-10.md) | 269 | 2026-10-01 → 2026-10-31 | Alastair Tan, Path Wars, Ryo Yamakawa, Buffet Raider… |
+| [Sep 2026](C06-Kibwe-PBP-2026-09.md) | 134 | 2026-09-01 → 2026-09-30 | Anthony NegetZ, Path Wars, Horia Constantinescu, Buffet Raider… |
+| [Aug 2026](C06-Kibwe-PBP-2026-08.md) | 191 | 2026-08-01 → 2026-08-31 | Path Wars, Anthony NegetZ, Ryo Yamakawa, Buffet Raider… |
 | [Jul 2026](C06-Kibwe-PBP-2026-07.md) | 286 | 2026-07-01 → 2026-07-30 | Caelum (Thiên), Path Wars, Bruce, Buffet Raider… |
 | [Jun 2026](C06-Kibwe-PBP-2026-06.md) | 428 | 2026-06-01 → 2026-06-30 | Path Wars, Anthony NegetZ, Ryo Yamakawa, Bruce… |
 | [May 2026](C06-Kibwe-PBP-2026-05.md) | 314 | 2026-05-01 → 2026-05-31 | Path Wars, Kaer'maga when?, Bruce, Buffet Raider… |
