@@ -527,3 +527,28 @@ Davy nods at the hall behind Ryder:
 Tell me who in there does not belong."
 
 Roll Perception as Ryder looks around the room for anyone suspicious!
+
+### 📅 Wednesday, Nov 11
+
+**Loren** · 03:20 · [↗](https://t.me/Path_Wars/66154/189606)
+Miracle Max glances sideways at Jorrik, his nose wrinkling slightly.
+
+"Well, that's an interesting combination of smells you got there. i have a defunking potion here somewhere..." glances at grudge. "We can discuss business later.  Anyhow, can I help you with something, friend? Or are we just comparing questionable lifestyle choices?"
+
+### 📅 Wednesday, Nov 11
+
+**Loren** · 03:59 · [↗](https://t.me/Path_Wars/66154/189616)
+o'
+
+**Loren** · 04:06 · [↗](https://t.me/Path_Wars/66154/189617)
+Miracle Max glances at the untouched glass, then up at Jorrik. A faint smile creeps across his face.
+
+"Well, now. A man who notices things. That's a rare commodity these days."
+
+He leans back slightly, keeping his voice low.
+
+"Funny thing about pretending, isn't it? Eventually someone notices you're putting on a show. The question is whether he's hiding something from the house, or the house is hiding something from him."
+
+Max gives the glass a thoughtful look.
+
+"Tell me, friend. Has anyone else been paying particular attention to our thirsty sailor?"

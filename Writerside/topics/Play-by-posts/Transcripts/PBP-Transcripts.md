@@ -5,21 +5,21 @@
 {#generated-banner}
 
 
-Every play-by-post message the PathWarsNudge bot has archived: **17,355 messages** across **12 campaigns**, the oldest from **Aug 2023**.
+Every play-by-post message the PathWarsNudge bot has archived: **17,375 messages** across **12 campaigns**, the oldest from **Aug 2023**.
 
 ## Campaigns
 
 | Campaign | Months | Messages | First | Latest |
 |---|---:|---:|---|---|
-| [C00 Riddleport](C00-Riddleport-PBP-Index.md) | 24 | 1,907 | Dec 2024 | Nov 2026 |
+| [C00 Riddleport](C00-Riddleport-PBP-Index.md) | 24 | 1,910 | Dec 2024 | Nov 2026 |
 | [C01 Doomsday Funtime](C01-Doomsday-Funtime-PBP-Index.md) | 35 | 2,094 | Aug 2023 | Nov 2026 |
 | [C04 Magni Guard](C04-Magni-Guard-PBP-Index.md) | 7 | 377 | May 2026 | Nov 2026 |
 | [C04b Magni Watch](C04b-Magni-Watch-PBP-Index.md) | 15 | 1,720 | Mar 2025 | May 2026 |
 | [C05 Grand Explorers](C05-Grand-Explorers-PBP-Index.md) | 28 | 1,578 | Aug 2024 | Nov 2026 |
-| [C06 Kibwe](C06-Kibwe-PBP-Index.md) | 32 | 5,101 | Apr 2024 | Nov 2026 |
+| [C06 Kibwe](C06-Kibwe-PBP-Index.md) | 32 | 5,116 | Apr 2024 | Nov 2026 |
 | [C07 Hopeful End Times](C07-Hopeful-End-Times-PBP-Index.md) | 26 | 2,303 | Aug 2024 | Nov 2026 |
 | [C08 Theria](C08-Theria-PBP-Index.md) | 10 | 757 | Sep 2025 | Aug 2026 |
-| [C09 Metal City](C09-Metal-City-PBP-Index.md) | 14 | 1,007 | Sep 2025 | Nov 2026 |
+| [C09 Metal City](C09-Metal-City-PBP-Index.md) | 14 | 1,009 | Sep 2025 | Nov 2026 |
 | [C10 The Junction](C10-The-Junction-PBP-Index.md) | 4 | 49 | Aug 2026 | Nov 2026 |
 | [C11 Dark Pockets](C11-Dark-Pockets-PBP-Index.md) | 6 | 457 | Mar 2026 | Nov 2026 |
 | [C99 Tongs Testing](C99-Tongs-Testing-PBP-Index.md) | 3 | 5 | Sep 2026 | Nov 2026 |

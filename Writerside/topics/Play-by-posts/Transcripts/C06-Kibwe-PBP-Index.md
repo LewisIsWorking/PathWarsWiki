@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**32 month(s)**, **5,101 messages** archived by the PathWarsNudge bot.
+**32 month(s)**, **5,116 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C06-Kibwe-PBP-2026-11.md) | 47 | 2026-11-01 → 2026-11-10 | Path Wars, Anthony NegetZ, Buffet Raider, Ryo Yamakawa… |
+| [Nov 2026](C06-Kibwe-PBP-2026-11.md) | 62 | 2026-11-01 → 2026-11-11 | Path Wars, Anthony NegetZ, Buffet Raider, Ryo Yamakawa… |
 | [Oct 2026](C06-Kibwe-PBP-2026-10.md) | 269 | 2026-10-01 → 2026-10-31 | Alastair Tan, Path Wars, Ryo Yamakawa, Buffet Raider… |
 | [Sep 2026](C06-Kibwe-PBP-2026-09.md) | 134 | 2026-09-01 → 2026-09-30 | Anthony NegetZ, Path Wars, Horia Constantinescu, Buffet Raider… |
 | [Aug 2026](C06-Kibwe-PBP-2026-08.md) | 191 | 2026-08-01 → 2026-08-31 | Path Wars, Anthony NegetZ, Ryo Yamakawa, Buffet Raider… |

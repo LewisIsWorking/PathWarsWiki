@@ -163,3 +163,13 @@ Who speaks to the console?
 *@RyoYamakawa*
 *@exspiravit_1*
 *@StorybookRhizome*
+
+### 📅 Tuesday, Nov 10
+
+**Laetheron** · 23:53 · [↗](https://t.me/Path_Wars/107171/189523)
+Arktos floats over to the console and quickly inputs the given reservation and code-phrase information.
+
+### 📅 Wednesday, Nov 11
+
+**Path Wars** *(GM)* · 00:06 · [↗](https://t.me/Path_Wars/107171/189539)
+What do you input?
