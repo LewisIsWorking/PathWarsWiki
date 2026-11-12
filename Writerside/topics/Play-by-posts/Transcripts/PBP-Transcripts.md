@@ -5,7 +5,7 @@
 {#generated-banner}
 
 
-Every play-by-post message the PathWarsNudge bot has archived: **17,375 messages** across **12 campaigns**, the oldest from **Aug 2023**.
+Every play-by-post message the PathWarsNudge bot has archived: **17,376 messages** across **12 campaigns**, the oldest from **Aug 2023**.
 
 ## Campaigns
 
@@ -22,7 +22,7 @@ Every play-by-post message the PathWarsNudge bot has archived: **17,375 messages
 | [C09 Metal City](C09-Metal-City-PBP-Index.md) | 14 | 1,009 | Sep 2025 | Nov 2026 |
 | [C10 The Junction](C10-The-Junction-PBP-Index.md) | 4 | 49 | Aug 2026 | Nov 2026 |
 | [C11 Dark Pockets](C11-Dark-Pockets-PBP-Index.md) | 6 | 457 | Mar 2026 | Nov 2026 |
-| [C99 Tongs Testing](C99-Tongs-Testing-PBP-Index.md) | 3 | 5 | Sep 2026 | Nov 2026 |
+| [C99 Tongs Testing](C99-Tongs-Testing-PBP-Index.md) | 3 | 6 | Sep 2026 | Nov 2026 |
 
 ## Everything, month by month
 
