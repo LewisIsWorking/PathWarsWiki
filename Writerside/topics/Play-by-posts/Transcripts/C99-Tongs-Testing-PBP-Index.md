@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**3 month(s)**, **5 messages** archived by the PathWarsNudge bot.
+**3 month(s)**, **6 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C99-Tongs-Testing-PBP-2026-11.md) | 2 | 2026-11-06 → 2026-11-06 | Path Wars |
+| [Nov 2026](C99-Tongs-Testing-PBP-2026-11.md) | 3 | 2026-11-06 → 2026-11-11 | Path Wars |
 | [Oct 2026](C99-Tongs-Testing-PBP-2026-10.md) | 1 | 2026-10-17 → 2026-10-17 | Path Wars |
 | [Sep 2026](C99-Tongs-Testing-PBP-2026-09.md) | 2 | 2026-09-23 → 2026-09-25 | Path Wars |
 
