@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**14 month(s)**, **1,009 messages** archived by the PathWarsNudge bot.
+**14 month(s)**, **1,010 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C09-Metal-City-PBP-2026-11.md) | 20 | 2026-11-07 → 2026-11-11 | Path Wars, Diabla "Bella" Alzarin, Ryo Yamakawa, Laetheron |
+| [Nov 2026](C09-Metal-City-PBP-2026-11.md) | 21 | 2026-11-07 → 2026-11-12 | Path Wars, Diabla "Bella" Alzarin, Ryo Yamakawa, Laetheron |
 | [Oct 2026](C09-Metal-City-PBP-2026-10.md) | 14 | 2026-10-03 → 2026-10-22 | Diabla "Bella" Alzarin, Path Wars, Laetheron, Datfurryboi34 |
 | [Sep 2026](C09-Metal-City-PBP-2026-09.md) | 182 | 2026-09-04 → 2026-09-30 | Path Wars, Diabla "Bella" Alzarin, Laetheron, Minork Estra… |
 | [Aug 2026](C09-Metal-City-PBP-2026-08.md) | 81 | 2026-08-10 → 2026-08-26 | Path Wars, Laetheron, Minork Estra, Diabla "Bella" Alzarin… |

@@ -173,3 +173,8 @@ Arktos floats over to the console and quickly inputs the given reservation and c
 
 **Path Wars** *(GM)* · 00:06 · [↗](https://t.me/Path_Wars/107171/189539)
 What do you input?
+
+### 📅 Thursday, Nov 12
+
+**Laetheron** · 04:39 · [↗](https://t.me/Path_Wars/107171/189713)
+Arktos scans the UI for a place to input a code. Upon finding it, they type in "incredulous static".
