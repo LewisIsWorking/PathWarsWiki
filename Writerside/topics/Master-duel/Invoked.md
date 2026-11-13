@@ -2,7 +2,7 @@
 
 Budget Invoked (no Aleister the Reminiscent). Card details: [Cards-Invoked](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Master-duel/Card-database/Cards-Invoked.md).
 
-Starters: 3 Aleister, 3 Magical Meltdown, 1 Aiwass, 1 Sacred Spirit Sword Aiwass (about 69% to open one going first). Invoked was Tier 2 (power 10.0) on Master Duel Meta in Nov 2026 and untouched by the 5 Nov banlist.
+Starters: 3 Aleister, 3 Magical Meltdown, 1 Aiwass, 3 Sacred Spirit Sword Aiwass. Runs **1 Virakam**, so Baybarron's search can't fetch a second one if Virakam is already out (search Gamma Summon instead). Invoked was Tier 2 (power 10.0) on Master Duel Meta in Nov 2026 and untouched by the 5 Nov banlist.
 
 ## Line B: Aleister + a FIRE or WIND monster (Ash, Droll)
 

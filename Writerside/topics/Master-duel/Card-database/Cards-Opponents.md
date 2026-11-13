@@ -32,6 +32,15 @@ Paraphrased; follow the source for exact wording. Verified Nov 2026.
 
 ## Seen on ladder
 
+### Hecahands (steal deck, 13 Nov 2026)
+
+- **Hecahands Xeno** – Fusion, 3 Hecahands, 3400. Hecahands monsters can't be destroyed in battle when they battle. Main Phase Quick Effect (either turn): look at 2 random cards in your Extra Deck and Special Summon one to her field. If this Fusion-Summoned card is destroyed by your card effect, she takes control of any number of your monsters. **Banish it, never destroy it.**
+- **Ib'al-Hecahands** – Trap. When you activate a monster effect while she controls a Hecahands monster: negate it, destroy that monster, then she can Special Summon it to her field. One per turn.
+- **Yad'al-Hecahands** – Trap. Same, but for your Spells and Traps (she can Set the destroyed card).
+- **Hecahands Breus / Gaigas / Godos** – Special Summon from her hand when you add a card to your hand outside the Draw Phase. Godos can also, in your Main Phase, summon a monster from your GY to her field.
+- **Hecahands Jauzah** – Fusion, 2400. Searches a Hecahands card every Main Phase.
+- **Mimighoul Slime** – She summons it face-down onto your field. Flipping it lets her summon a Mimighoul from her Deck and gives it back to her, so leave it face-down or use it as material.
+
 - **Radiant Typhoon Fonix** – Summons itself when a Quick-Play is activated; shuffles 2 cards back.
 - **Vingolf's Blessing** – Sends a LIGHT Fairy on activation.
 - **Gem-Knight Lady Rose Diamond** – Destroys your face-up card when you activate a monster effect on their turn.
