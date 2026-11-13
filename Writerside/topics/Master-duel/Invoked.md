@@ -2,7 +2,7 @@
 
 Budget Invoked (no Aleister the Reminiscent). Card details: [Cards-Invoked](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Master-duel/Card-database/Cards-Invoked.md).
 
-Starters (13 Nov 2026): 3 Aleister, 3 Magical Meltdown, 1 Aiwass, 3 Sacred Spirit Sword Aiwass, 1 Aleister the Reminiscent, 2 Spenta, the Magistus Sealer (discard → search Crowley → Crowley fuses with a hand monster). Cut: both Pots of Desires and 1 Ghost Ogre. 13 starters: about 88% to open one going first, 92% going second. Pulled Aiwass #2 from packs (13 Nov): add it over Effect Veiler for 14 starters (about 90% going first, 94% going second). Crafting plan: Crowley #2 (SR, so Spenta always has a target), Reminiscent #2–3, Aiwass #3, Virakam #2.
+Starters (13 Nov 2026): 3 Aleister, 3 Magical Meltdown, 1 Aiwass, 3 Sacred Spirit Sword Aiwass, 1 Aleister the Reminiscent, 2 Spenta, the Magistus Sealer (discard → search Crowley → Crowley fuses with a hand monster). Cut: both Pots of Desires and 1 Ghost Ogre. 13 starters: about 88% to open one going first, 92% going second. 13 Nov update: Aiwass #2 (pulled) replaced Effect Veiler; Crowley #2 (crafted) replaced a Ghost Belle. Starters: 3 Aleister, 3 Meltdown, 3 Sacred Spirit Sword, 2 Aiwass, 1 Reminiscent, 2 Spenta, 2 Crowley = 16 (about 94% going first, 96% going second). Note: Crowley only counts as Aleister when face-up, so a drawn Crowley is Normal Summoned and fuses with a hand monster. Crafting plan: Reminiscent #2–3, Virakam #2.
 
 ## Line B: Aleister + a FIRE or WIND monster (Ash, Droll)
 
