@@ -471,3 +471,26 @@ That was 1 action.
 You have 2 actions left.
 
 What else does Daichi do this turn?
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 00:45 · [↗](https://t.me/Path_Wars/137075/189847)
+> Round 1: Unacted Allies.
+>> 1. Fierce Leopard @RyoYamakawa.
+>> 2. Lorn @Nemesiux.
+>> 3. Tal'Lysae @PathWars.
+>> 4. Zerius @altan19931993.
+>> 5. Tarsus LongStaff @buffetraider.
+
+> Round 1: Acting.
+>> 1. Daichi Kenshin @MrNegetZ, 2 actions left.
+
+> Round 1: Acted Allies.
+>> 1. Ji Yun @Thien_Ming.
+
+**Path Wars** *(GM)* · 00:45 · [↗](https://t.me/Path_Wars/40585/189848)
+The pebbles drift higher, until they hang at knee height all across the room.
+
+Beyond the veil, Dr. Nutty's eyes stay on his calculations.
+
+The numbers he mutters come faster now.

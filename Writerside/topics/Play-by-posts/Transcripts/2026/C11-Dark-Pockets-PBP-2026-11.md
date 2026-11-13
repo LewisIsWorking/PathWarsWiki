@@ -121,3 +121,30 @@ Will you craft before we go, or are you ready to ssstep through?"
 *@NitNatty*
 *@cmavb*
 *@JackGrah*
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 02:52 · [↗](https://t.me/Path_Wars/1242/3301)
+*@NitNatty*
+*@cmavb*
+*@JackGrah*
+
+Tal'Lysae drifts between you and the gateway, and the shapes inside her turn to face each of you in turn:
+
+"Remember why we came, little onesss.
+
+The Baron made his deals, and the town paid for them.
+
+Feyre'sss hours were taken too."
+
+**Path Wars** *(GM)* · 02:52 · [↗](https://t.me/Path_Wars/1242/3302)
+Tal'Lysae:
+
+"Whatever isss behind thisss gateway, we end it.
+
+And then we come back out."
+
+**Path Wars** *(GM)* · 02:52 · [↗](https://t.me/Path_Wars/1242/3303)
+The Grief Glass pulses in its slot.
+
+Beside Nariya, the Shadow Dagger's edge catches no light at all.

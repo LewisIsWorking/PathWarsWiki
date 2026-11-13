@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**26 month(s)**, **2,303 messages** archived by the PathWarsNudge bot.
+**26 month(s)**, **2,305 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C07-Hopeful-End-Times-PBP-2026-11.md) | 10 | 2026-11-03 → 2026-11-07 | Path Wars, Terra |
+| [Nov 2026](C07-Hopeful-End-Times-PBP-2026-11.md) | 12 | 2026-11-03 → 2026-11-13 | Path Wars, Terra, Anthony NegetZ |
 | [Oct 2026](C07-Hopeful-End-Times-PBP-2026-10.md) | 16 | 2026-10-01 → 2026-10-20 | Path Wars, Terra, Anthony NegetZ, Horia Constantinescu |
 | [Sep 2026](C07-Hopeful-End-Times-PBP-2026-09.md) | 69 | 2026-09-01 → 2026-09-27 | Anthony NegetZ, Terra, Path Wars, Ryo Yamakawa |
 | [Aug 2026](C07-Hopeful-End-Times-PBP-2026-08.md) | 180 | 2026-08-05 → 2026-08-31 | Anthony NegetZ, Terra, Path Wars, Horia Constantinescu… |

@@ -115,3 +115,27 @@ Behind the wall, the back rows keep walking.
 The front rows are pressed flat against the stone, and ribs crack under the weight.
 
 The illusionary wall holds.
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 00:53 · [↗](https://t.me/Path_Wars/22566/189850)
+Want me to roll your eradicate death for you? :)
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 01:14 · [↗](https://t.me/Path_Wars/22566/189852)
+*@Dalaxiss*
+
+Katmidlar, you are still to act this round.
+
+What does Katmidlar do?
+
+**Path Wars** *(GM)* · 01:21 · [↗](https://t.me/Path_Wars/25059/189853)
+Water drips from the ceiling into the shallow pools.
+
+Each drop sends a ring out across the water, through the drifting smoke, to the foot of the ladder...
+
+### 📅 Friday, Nov 13
+
+**Horia Constantinescu** · 08:01 · [↗](https://t.me/Path_Wars/22566/189891)
+Yes please
