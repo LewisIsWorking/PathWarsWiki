@@ -133,3 +133,32 @@ Rune (@RyoYamakawa) dude, it's time to go work."
 
 **Terra** · 16:21 · [↗](https://t.me/Path_Wars/52083/189034)
 Lai stands there and waits for orders
+*(edited)*
+
+## Week 46 (Nov 09–Nov 15)
+
+### 📅 Friday, Nov 13
+
+**Anthony NegetZ** · 13:39 · [↗](https://t.me/Path_Wars/52083/189922)
+"Wait... Are we ★LIVE★!?"
+
+Livy checks the camerabot she was fiddling with and probably accidentaly pressed the stream button or something.
+
+"★WOW★ We are! Hello chat! ★SUPER IDOL LIVY★ here! 
+★SO★! I didn't mean to actually stream yet... I was just testing out some new ★CAMERA EQUIPEMENT★ i got. ★BUT★!! I'll tell you all a ★SECRET★! 
+You guys know that, for my ★SUPER IDOL WORLD TOUR★ i need some money right. ★SO!★ I was actually going to this bank here to ask for a ★LOAN★!
+They could ★SPONSOR ME★ or something and it's a ★WIN WIN★ situation for all!! I don't think I'll be able to ★RECORD★ in the bank though.
+I'll keep you guys ★UPDATED★ though!
+Ok then!
+I'll end stream and there won't be an archive so consider yourselves ★LUCKY★! 
+To all the super devoted ★SUPERFANS★ watching this.  
+You just got an ★EXCLUSIVE★ announcement of what's to come!
+★BYE BYE★"
+
+Livy ends stream and puts the camera bot in record mode instead.
+*(edited)*
+
+**Anthony NegetZ** · 13:43 · [↗](https://t.me/Path_Wars/52083/189923)
+Livy's then going to do some hand signals/sign language towards Rune ( @RyoYamakawa ), probably signaling him to do something with the door... 
+But since she doesn't know sign language or any sort of common hand signal convention... It's pretty much giberish to him.
+*(edited)*

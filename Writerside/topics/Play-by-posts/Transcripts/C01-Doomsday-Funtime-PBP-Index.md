@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**35 month(s)**, **2,094 messages** archived by the PathWarsNudge bot.
+**35 month(s)**, **2,098 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C01-Doomsday-Funtime-PBP-2026-11.md) | 19 | 2026-11-03 → 2026-11-10 | Path Wars, Horia Constantinescu, Theaitetos, Anthony NegetZ |
+| [Nov 2026](C01-Doomsday-Funtime-PBP-2026-11.md) | 23 | 2026-11-03 → 2026-11-13 | Path Wars, Horia Constantinescu, Theaitetos, Anthony NegetZ |
 | [Oct 2026](C01-Doomsday-Funtime-PBP-2026-10.md) | 39 | 2026-10-01 → 2026-10-19 | Path Wars, Horia Constantinescu, Theaitetos, Moss… |
 | [Sep 2026](C01-Doomsday-Funtime-PBP-2026-09.md) | 31 | 2026-09-02 → 2026-09-29 | PJ, Path Wars, Anthony NegetZ, Fuzzy… |
 | [Aug 2026](C01-Doomsday-Funtime-PBP-2026-08.md) | 89 | 2026-08-01 → 2026-08-30 | Path Wars, Fuzzy, Dalaxiss, PJ… |

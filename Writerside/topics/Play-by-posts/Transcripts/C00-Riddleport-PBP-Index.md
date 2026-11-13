@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**24 month(s)**, **1,910 messages** archived by the PathWarsNudge bot.
+**24 month(s)**, **1,912 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C00-Riddleport-PBP-2026-11.md) | 44 | 2026-11-03 → 2026-11-11 | Path Wars, Loren, Peter, Ryo Yamakawa… |
+| [Nov 2026](C00-Riddleport-PBP-2026-11.md) | 46 | 2026-11-03 → 2026-11-13 | Path Wars, Loren, Peter, Ryo Yamakawa… |
 | [Oct 2026](C00-Riddleport-PBP-2026-10.md) | 32 | 2026-10-01 → 2026-10-22 | Alastair Tan, Path Wars, aSly Cow, Anthony NegetZ… |
 | [Sep 2026](C00-Riddleport-PBP-2026-09.md) | 79 | 2026-09-06 → 2026-09-29 | Fuzzy, Alastair Tan, Path Wars, Anthony NegetZ |
 | [Aug 2026](C00-Riddleport-PBP-2026-08.md) | 36 | 2026-08-01 → 2026-08-30 | Anthony NegetZ, Path Wars, Horia Constantinescu, Sasuken09… |

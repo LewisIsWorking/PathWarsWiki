@@ -552,3 +552,23 @@ He leans back slightly, keeping his voice low.
 Max gives the glass a thoughtful look.
 
 "Tell me, friend. Has anyone else been paying particular attention to our thirsty sailor?"
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 03:17 · [↗](https://t.me/Path_Wars/66154/189871)
+*@RyoYamakawa*
+
+Cardigan lets go of Rax's arm and shrugs:
+
+"Suit yourself."
+
+Cardigan walks around the gambling hall with her Eldamon, not a care in the world, mostly.
+
+**Path Wars** *(GM)* · 03:19 · [↗](https://t.me/Path_Wars/66154/189872)
+*@RyoYamakawa*
+
+Rax drifts between the tables, with Marlo always in sight.
+
+Chips click across the felt: copper hearts, silver teeth, gold eyes.
+
+Every time someone cashes in for a badge and heads for the stairs, the crowd around the big chest roars in excitement.

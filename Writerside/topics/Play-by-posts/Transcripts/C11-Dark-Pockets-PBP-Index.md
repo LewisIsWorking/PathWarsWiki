@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**6 month(s)**, **457 messages** archived by the PathWarsNudge bot.
+**6 month(s)**, **460 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C11-Dark-Pockets-PBP-2026-11.md) | 11 | 2026-11-03 → 2026-11-10 | Path Wars |
+| [Nov 2026](C11-Dark-Pockets-PBP-2026-11.md) | 14 | 2026-11-03 → 2026-11-13 | Path Wars |
 | [Oct 2026](C11-Dark-Pockets-PBP-2026-10.md) | 28 | 2026-10-18 → 2026-10-18 | Natasha, Path Wars |
 | [Jun 2026](C11-Dark-Pockets-PBP-2026-06.md) | 16 | 2026-06-01 → 2026-06-29 | Path Wars, Luke Skillen, Poo Poo |
 | [May 2026](C11-Dark-Pockets-PBP-2026-05.md) | 83 | 2026-05-03 → 2026-05-30 | Path Wars, NJ, Natasha, Craig… |
