@@ -162,3 +162,66 @@ Which then gets a round of laughter, filling the tavern hall.
 Could you set aside your factionalism for a meal and drinks?
 
 Or does your desire for revenge, advancement or otherwise burn brighter than the Flame-Deamhan sitting in the fireplace?
+*(edited)*
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189855)
+Setting 9.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189856)
+Night in Acomhal.
+
+The Council's bell rings 23, and the great market packs itself away.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189857)
+Gatekeeper wardens walk the shut gates, lamps in hand.
+
+Only a few gates stay open tonight, to the night-side worlds.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189858)
+A traveller steps out of one with nothing in their hands.
+
+They could not afford the toll, so they signed away hours of labour instead.
+
+A warden ties a tag to their wrist, and the traveller stops at the shrine by the gate anyway, to give thanks for a safe crossing.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189859)
+Around the night gates, a small, strange market wakes up.
+
+Glowing fungi in jars, creatures that shy from the lamps, medicines nobody can name.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189860)
+In the freight yards, the heavy cargo crosses now.
+
+Iron Ones cranes swing crates down from the carts, and each faction's guards stand over their own.
+
+Every crate is counted at the gate, then counted again in the yard.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189861)
+Lately, the second count does not always match the first.
+
+Some crates arrive poisoned, some arrive smashed, and some never arrive at all.
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189862)
+A Council clerk with ink up to her wrists checks her tally twice, then sighs:
+
+"3 short.
+Again."
+
+A porter leaning on his cart laughs:
+
+"Write it down so, love.
+The Council has a whole room full of those."
+
+**Path Wars** *(GM)* · 02:23 · [↗](https://t.me/Path_Wars/146645/189863)
+Every faction blames another.
+
+Between their guards, the Council watch is stretched thin, and the lamps do not reach every corner of the yards.
+
+**Path Wars** *(GM)* · 02:24 · [↗](https://t.me/Path_Wars/146645/189864)
+Will you be in the freight yards tonight, watching the count?
+
+Or at the night gates, where stranger things cross?
+
+Or somewhere else in the Junction entirely?

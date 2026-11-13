@@ -178,3 +178,27 @@ What do you input?
 
 **Laetheron** · 04:39 · [↗](https://t.me/Path_Wars/107171/189713)
 Arktos scans the UI for a place to input a code. Upon finding it, they type in "incredulous static".
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 03:11 · [↗](https://t.me/Path_Wars/107171/189865)
+*@StorybookRhizome*
+
+The console beeps, in exactly the same friendly tone:
+
+"No reservation found for: INCREDULOUS STATIC.
+
+Add INCREDULOUS STATIC to the wait-list?
+Average wait: 10 minutes and 16 seconds."
+
+**Path Wars** *(GM)* · 03:11 · [↗](https://t.me/Path_Wars/107171/189866)
+The console blinks, waiting for an answer.
+
+*@RyoYamakawa*
+*@exspiravit_1*
+*@StorybookRhizome*
+
+### 📅 Friday, Nov 13
+
+**Laetheron** · 04:16 · [↗](https://t.me/Path_Wars/107171/189880)
+"Hmm, perhaps it's under his name?" Arktos tries again with that in mind.
