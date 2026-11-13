@@ -55,6 +55,10 @@ End board: Little Knight, Mechaba, set Sword. If a fusion gets negated, the seco
 - Negate before removing: Horus monsters trigger when her other cards leave the field. Droplet first, then banish King's Sarcophagus with Aeon.
 - A Gaze of Timaeus Dragoon is banished in the End Phase of the next turn. Ghost Belle stops Gaze when Dark Magician is in her GY.
 
+- **Super Poly Dark Magician of Destruction before Gaze resolves into Dragoon** (worked in ranked, 13 Nov): fuse Destruction + one of your Fusions with a different Attribute into Aeon. She can't respond to Super Poly.
+- **Set Sword → Aeon on her turn:** with Baybarron (FIRE), Mechaba (LIGHT) and Oceanus (EARTH) on board, flip Sword at her Standby Phase to make Aeon and banish 3 cards from her Extra Deck (her Dragoons / Destruction). Use Mechaba's negate first if you want to keep it. Sword needs no Aleister for Aeon.
+- Super Poly can't use Timaeus the United Magical Dragon while it's unaffected (the turn it's summoned and her next turn), and neither can Grail mode 2.
+
 ## Vs Jack (Cyber Dragon)
 
 - Chimeratech Fortress takes your Machines (Mechaba); Megafleet takes monsters in the Extra Monster Zones. Neither is an effect, so stop the Cyber Dragon instead.
