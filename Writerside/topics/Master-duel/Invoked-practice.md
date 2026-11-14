@@ -8,25 +8,29 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 ## Cheat sheet images
 
-One image per line, for your phone during games. **Current version: v1.1 (14 Nov 2026).** Version and date are printed in each image's footer.
+One image per line, for your phone during games. **Current version: v1.2 (14 Nov 2026).** Version and date are printed in each image's footer.
 
 To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERSION` and `DATE`, run `python3 tools/invoked-cheatsheet/build.py` from the repo root, point the links below at the new folder, and add a changelog entry. Older versions stay in their own folders.
 
 ### Changelog
 
+- **v1.2 (14 Nov 2026):** added Line 9 (Aleister got Drolled) and Line 10 (Reminiscent got Drolled) from Taffy, both now possible with Chorozo; Line 11 going-second finishers (spare Sword → Omega, Super Poly with Madness, damage tricks, attack values). Line 1 notes the Omega finish.
 - **v1.1 (14 Nov 2026):** added a discard priority and a Mechaba hand rule to the "Which line?" golden rules.
 - **v1.0 (14 Nov 2026):** first version. Lines 1–8 plus the "Which line?" picker. Line 4 is Taffy's Baronne branch (Chorozo crafted). Deck: 1 Reminiscent, 2 Aiwass, 2 Spenta, 1 Crowley, 1 Zoroa, Omega + 1 Aeon + De Anima in the Extra Deck.
 - **Planned:** add Elysium to Line 5 and the going-second plan once crafted; add Gamma Summon; recheck lines when Reminiscent #2–3 arrive.
 
-![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-0-which-line.png)
-![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-1.png)
-![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-2.png)
-![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-3.png)
-![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-4.png)
-![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-5.png)
-![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-6.png)
-![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-7.png)
-![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.1/invoked-line-8.png)
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-8.png)
+![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-9.png)
+![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-10.png)
+![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.2/invoked-line-11.png)
 
 Which line to play:
 
@@ -40,6 +44,39 @@ Which line to play:
 | Sacred Spirit Sword (or Aiwass, or Meltdown) + any card | Line 6 |
 | Zoroa or Spenta, no Aleister | Line 7 |
 | Going second into Dragoon | Line 8 |
+
+## Line 9: Aleister got Drolled (sourced: Taffy, "Aleister Droll combo")
+
+1. Normal Summon Aleister, search Invocation (Droll after)
+2. Link Aleister → Artemis
+3. Invocation: Aleister (GY) + FIRE/WIND (hand) → Sorath
+4. Invocation GY: add the banished Aleister (not from the Deck, so Droll can't stop it)
+5. Discard Aleister on Sorath; Sorath revives Aleister
+6. Aleister + Artemis → Chorozo
+7. Synchro: Chorozo + Sorath → Baronne de Fleur
+8. Sorath GY: Sorath + Aleister → Mechaba
+
+**End:** Baronne, Mechaba.
+
+## Line 10: Reminiscent got Drolled (sourced: Taffy, "Aleister the Reminiscent Droll combo")
+
+1. Normal Summon Reminiscent: banish Raidjin, search Sword (Droll after)
+2. Sword: Reminiscent + Raidjin (banished) → Sorath
+3. Sorath: revive Reminiscent
+4. Link Reminiscent → Artemis
+5. Sword GY: add Reminiscent
+6. Reminiscent: target Sorath, Special Summon itself
+7. Reminiscent + Artemis → Chorozo
+8. Synchro: Chorozo + Sorath → Baronne de Fleur
+9. Sorath GY: Sorath + Raidjin + Chorozo → Aeon (banish up to 3, then pick 3 from her Extra Deck)
+
+**End:** Baronne, Aeon.
+
+## Line 11: going-second finishers (card text)
+
+- **Spare Sword in hand:** Aleister + a Fusion (both banished) → Omega; Omega banishes her monster. Don't discard this Sword to Madness.
+- **Super Poly:** Madness (counts as Aleister) + her monster → Fusion by her Attribute (LIGHT/EARTH Baybarron, WIND Raidjin, FIRE Sorath, DARK/WATER Oceanus). Do it before Invocation uses Madness.
+- **Aleister in hand:** discard in battle for +1000. **Oceanus in GY:** banish it so a Fusion attacks directly. **Little Knight:** skip its banish if you need direct attacks.
 
 ## Discard priority (Madness, Mechaba, Super Poly, Spenta costs)
 

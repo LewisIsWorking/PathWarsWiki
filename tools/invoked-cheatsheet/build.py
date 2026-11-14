@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.1"
+VERSION = "1.2"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -36,7 +36,8 @@ LINES = [
     "Madness: discard spare → search **Invocation**",
     "Invocation: Madness + Crowley (GY) → **Oceanus** (Extra Monster Zone)"]),
   ],
-  end="Oceanus (EMZ) · Mechaba · Virakam · set Sword"),
+  end="Oceanus (EMZ) · Mechaba · Virakam · set Sword",
+  memo="Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 11 for the Omega finish."),
 
  dict(id="2", title="Aleister + any card", tag="Sourced: Taffy (MDM) · weakest line",
   needs=["Aleister", "+1 spare card"],
@@ -177,7 +178,55 @@ LINES = [
   ],
   end="Dragoon gone · Sarcophagus gone · Aeon 3800 on board",
   memo="Can't hit Timaeus the turn it lands. Ghost Ogre can't touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters."),
+ dict(id="9", title="Aleister got Drolled", tag="Sourced: Taffy (MDM) · needs Chorozo",
+  needs=["Aleister", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa"],
+  stages=[
+   ("No more searches needed", [
+    "Normal Summon Aleister → search **Invocation** (Droll hits after this)",
+    "Link Aleister → **Artemis**",
+    "Invocation: Aleister (GY) + FIRE/WIND (hand) → **Sorath**",
+    "Invocation GY: add the banished Aleister (not from Deck, so Droll can't stop it)",
+    "Discard Aleister on Sorath → Sorath revives Aleister",
+    "Aleister + Artemis → **Chorozo**",
+    "Synchro: Chorozo + Sorath → **Baronne de Fleur**",
+    "Sorath GY: Sorath + Aleister → **Mechaba**"]),
+  ],
+  end="Baronne · Mechaba"),
+
+ dict(id="10", title="Reminiscent got Drolled", tag="Sourced: Taffy (MDM) · needs Chorozo",
+  needs=["Reminiscent"],
+  stages=[
+   ("No more searches needed", [
+    "Normal Summon Reminiscent: banish **Raidjin** → search **Sword** (Droll hits after this)",
+    "Sword: Reminiscent + Raidjin (banished) → **Sorath**",
+    "Sorath: revive Reminiscent",
+    "Link Reminiscent → **Artemis**",
+    "Sword GY: add Reminiscent (from GY, Droll can't stop it)",
+    "Reminiscent: target Sorath → Special Summon itself",
+    "Reminiscent + Artemis → **Chorozo**",
+    "Synchro: Chorozo + Sorath → **Baronne de Fleur**",
+    "Sorath GY: Sorath + Raidjin + Chorozo → **Aeon** (banish up to 3, pick 3 from her Extra Deck)"]),
+  ],
+  end="Baronne · Aeon · up to 6 of hers banished"),
+
+ dict(id="11", title="Going 2nd: finishers", tag="Built from card text · add to the end of any line",
+  needs=["Use whatever you have left"],
+  stages=[
+   ("Remove her blocker", [
+    "**Sword in hand:** Aleister + a Fusion (both banished) → **Omega** → banish her monster",
+    "**Super Poly:** Madness (counts as Aleister) + her monster → Fusion by her Attribute: LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**, DARK/WATER **Oceanus**",
+    "Do Super Poly BEFORE Invocation uses Madness. Invocation can still use Madness from the GY"]),
+   ("More damage", [
+    "**Aleister in hand:** discard during battle → a Fusion gains 1000",
+    "**Oceanus in GY:** banish it → one Fusion can attack directly",
+    "**Little Knight:** SKIP its banish or you can't attack directly"]),
+   ("Attack values", [
+    "Aeon 3800 · Oceanus 3000 · Baronne 3000 · Omega 2800 · Mechaba 2500 · Baybarron 2450",
+    "Raidjin 2200 · Madness 1800 · Sorath 1600 · Little Knight 1600 · Virakam 1000"]),
+  ],
+  end="Count to 8000 before you start the Battle Phase"),
 ]
+
 
 INDEX = [
  ("Aleister + Reminiscent", "4", True),
@@ -188,7 +237,10 @@ INDEX = [
  ("Aleister + any card", "2", False),
  ("Sacred Spirit Sword / Meltdown / Aiwass", "6", False),
  ("Zoroa or Spenta, no Aleister", "7", False),
+ ("Got Drolled after Aleister's search", "9", False),
+ ("Got Drolled after Reminiscent's search", "10", False),
  ("Going 2nd into Dragoon", "8", False),
+ ("Going 2nd: finish the turn", "11", False),
 ]
 RULES = [
  "Baybarron: say SKIP to the banish unless you've picked a target",
