@@ -101,14 +101,14 @@ Needs: Aleister (or Meltdown / Aiwass / Sacred Spirit Sword to get one) + Remini
 12. Synchro: Chorozo + Sorath → **Baronne de Fleur**
 
 **Stage 4: Aeon and the finish**
-13. Sorath GY: banish Sorath + Baybarron + Raidjin → **Aeon**. Chain: Madness (discard the spare card, search Invocation) + Aeon (banish 1 card + 3 from their Extra Deck). Virakam protects Aeon.
+13. Sorath GY: banish Sorath + Baybarron + Raidjin → **Aeon**. Chain: Madness (discard the spare card, search Invocation) + Aeon (3 materials: banish up to 3 cards from the field/GYs, then look at their Extra Deck and banish up to 3 you choose). Virakam protects Aeon.
 14. Link Aeon + Crowley → **S:P Little Knight**
 15. Sword GY: add Invocation
 16. Invocation: Aleister + Endymion (GY, LIGHT) → **Mechaba** (Taffy: "can make Mechaba here if doing the Baronne combo"; Endymion as the LIGHT material is Claude's reading)
 17. Invocation: Madness + Crowley → **Oceanus** in the Extra Monster Zone
 18. Invocation GY: add a banished Aleister
 
-**End:** Baronne, Mechaba, Oceanus (Extra Monster Zone), Little Knight, Virakam, set Sword, Aleister in hand; 4 of their cards banished (1 + 3 from Extra Deck).
+**End:** Baronne, Mechaba, Oceanus (Extra Monster Zone), Little Knight, Virakam, set Sword, Aleister in hand; up to 6 of their cards banished (3 field/GY + 3 chosen from their Extra Deck).
 
 **Ideas to remember:** Raidjin is used three times (Reminiscent's cost → Sword material → Aeon material). Crowley is used three times (Madness material, Little Knight material, Oceanus material). Invocation and Sword both recycle from the GY.
 
