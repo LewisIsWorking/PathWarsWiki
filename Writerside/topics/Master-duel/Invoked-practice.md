@@ -55,7 +55,7 @@ To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERS
 
 Which line to play:
 
-| Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
+| Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
 | --- | --- | --- |
 | 1st | Aleister + Reminiscent | Line 1 (best) |
 | 1st | Sacred Sword / Meltdown / Aiwass + Reminiscent | Line 2 (best) |

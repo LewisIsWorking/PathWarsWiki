@@ -158,6 +158,12 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .seg button{min-height:44px;padding:0 14px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
 .seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
 .seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.strip .bar{display:flex;align-items:center;gap:8px;width:100%}
+.strip .cur{font:700 16px var(--display);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1}
+.strip .tog{flex:none;min-height:38px;padding:0 12px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:700 14px var(--body);cursor:pointer}
+.strip .tog:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.strip .rows{display:flex;flex-direction:column;gap:6px}
+.strip.collapsed .rows{display:none}
 .strip .lbl{font-size:11px;font-weight:800;letter-spacing:.06em;color:var(--muted);text-transform:uppercase;width:30px}
 .strip .row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;width:100%}
 .foot{margin-top:18px;font-size:12px;color:var(--muted);text-align:right}
@@ -168,7 +174,7 @@ def build():
     first = [L["id"] for L in LINES if L.get("when") == "1st"]
     second = [L["id"] for L in LINES if L.get("when") == "2nd"]
     tips = [L["id"] for L in LINES if L.get("when") == "tips"]
-    strip = ('<div class="row"><span class="lbl">1st</span><a class="home" href="#">?</a>' +
+    strip = ('<div class="row"><span class="lbl">1st</span>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in first) + '</div>' +
              '<div class="row"><span class="lbl">2nd</span>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in second) +
@@ -186,8 +192,22 @@ def build():
     if(!found) h='';
     views.forEach(function(v){v.hidden=v.dataset.view!==h});
     links.forEach(function(a){ if((a.dataset.v||'')===h) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
+    var v=views.filter(function(x){return !x.hidden})[0];
+    var h2=v&&v.querySelector('h2'); var b=v&&v.querySelector('.badge');
+    document.getElementById('cur').textContent = h ? ((b?b.textContent+' · ':'')+(h2?h2.textContent:'')) : 'Which line?';
     window.scrollTo(0,0);
   }
+  var nav=document.querySelector('.strip'), tog=document.getElementById('tog');
+  function setCollapsed(c){
+    nav.classList.toggle('collapsed',c);
+    tog.setAttribute('aria-expanded', c?'false':'true');
+    tog.textContent = c ? 'Lines ▾' : 'Hide lines ▴';
+    try{localStorage.setItem('navCollapsed', c?'1':'0')}catch(e){}
+  }
+  tog.addEventListener('click',function(){setCollapsed(!nav.classList.contains('collapsed'))});
+  var c0=false; try{c0=localStorage.getItem('navCollapsed')==='1'}catch(e){}
+  setCollapsed(c0);
+  links.forEach(function(a){a.addEventListener('click',function(){ if(a.dataset.v) setCollapsed(true); })});
   window.addEventListener('hashchange',show); show();
   var tabs=[].slice.call(document.querySelectorAll('.seg button'));
   var lists=[].slice.call(document.querySelectorAll('.plist'));
@@ -208,7 +228,7 @@ def build():
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Space+Grotesk:wght@600;700;800&display=swap">
 <style>{CSS}</style>
 <div class="wrap">
-<nav class="strip" aria-label="Lines">{strip}</nav>
+<nav class="strip" aria-label="Lines"><div class="bar"><a class="home" href="#">?</a><span class="cur" id="cur">Which line?</span><button type="button" class="tog" id="tog" aria-expanded="true" aria-controls="rows">Hide lines ▴</button></div><div class="rows" id="rows">{strip}</div></nav>
 {body}
 <p class="foot">Invoked cheat sheet · v{VERSION} · {DATE} · source: PathWarsWiki</p>
 </div>

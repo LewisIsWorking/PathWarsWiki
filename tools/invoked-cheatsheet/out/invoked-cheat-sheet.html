@@ -73,12 +73,18 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .seg button{min-height:44px;padding:0 14px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
 .seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
 .seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.strip .bar{display:flex;align-items:center;gap:8px;width:100%}
+.strip .cur{font:700 16px var(--display);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1}
+.strip .tog{flex:none;min-height:38px;padding:0 12px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:700 14px var(--body);cursor:pointer}
+.strip .tog:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.strip .rows{display:flex;flex-direction:column;gap:6px}
+.strip.collapsed .rows{display:none}
 .strip .lbl{font-size:11px;font-weight:800;letter-spacing:.06em;color:var(--muted);text-transform:uppercase;width:30px}
 .strip .row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;width:100%}
 .foot{margin-top:18px;font-size:12px;color:var(--muted);text-align:right}
 </style>
 <div class="wrap">
-<nav class="strip" aria-label="Lines"><div class="row"><span class="lbl">1st</span><a class="home" href="#">?</a><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a><a href="#line-10" data-v="line-10">10</a><a href="#line-11" data-v="line-11">11</a><a href="#line-12" data-v="line-12">12</a></div><div class="row"><span class="lbl">2nd</span><a href="#line-s1" data-v="line-s1">S1</a><a href="#line-s2" data-v="line-s2">S2</a><a href="#line-s3" data-v="line-s3">S3</a><a href="#line-s4" data-v="line-s4">S4</a><a href="#line-s5" data-v="line-s5">S5</a><a href="#line-s6" data-v="line-s6">S6</a><a href="#line-s7" data-v="line-s7">S7</a><a href="#line-s8" data-v="line-s8">S8</a></div><div class="row"><span class="lbl">Tips</span><a href="#line-t1" data-v="line-t1">T1</a><a href="#line-t2" data-v="line-t2">T2</a><span class="ver">v1.12 · 14 Nov 2026</span></div></nav>
+<nav class="strip" aria-label="Lines"><div class="bar"><a class="home" href="#">?</a><span class="cur" id="cur">Which line?</span><button type="button" class="tog" id="tog" aria-expanded="true" aria-controls="rows">Hide lines ▴</button></div><div class="rows" id="rows"><div class="row"><span class="lbl">1st</span><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a><a href="#line-10" data-v="line-10">10</a><a href="#line-11" data-v="line-11">11</a><a href="#line-12" data-v="line-12">12</a></div><div class="row"><span class="lbl">2nd</span><a href="#line-s1" data-v="line-s1">S1</a><a href="#line-s2" data-v="line-s2">S2</a><a href="#line-s3" data-v="line-s3">S3</a><a href="#line-s4" data-v="line-s4">S4</a><a href="#line-s5" data-v="line-s5">S5</a><a href="#line-s6" data-v="line-s6">S6</a><a href="#line-s7" data-v="line-s7">S7</a><a href="#line-s8" data-v="line-s8">S8</a></div><div class="row"><span class="lbl">Tips</span><a href="#line-t1" data-v="line-t1">T1</a><a href="#line-t2" data-v="line-t2">T2</a><span class="ver">v1.12 · 14 Nov 2026</span></div></div></nav>
 <section class="view" id="v-home" data-view="" hidden>
 <h2 class="ht">Which line? Read your hand</h2>
 <div class="seg" role="tablist">
@@ -643,8 +649,22 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
     if(!found) h='';
     views.forEach(function(v){v.hidden=v.dataset.view!==h});
     links.forEach(function(a){ if((a.dataset.v||'')===h) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
+    var v=views.filter(function(x){return !x.hidden})[0];
+    var h2=v&&v.querySelector('h2'); var b=v&&v.querySelector('.badge');
+    document.getElementById('cur').textContent = h ? ((b?b.textContent+' · ':'')+(h2?h2.textContent:'')) : 'Which line?';
     window.scrollTo(0,0);
   }
+  var nav=document.querySelector('.strip'), tog=document.getElementById('tog');
+  function setCollapsed(c){
+    nav.classList.toggle('collapsed',c);
+    tog.setAttribute('aria-expanded', c?'false':'true');
+    tog.textContent = c ? 'Lines ▾' : 'Hide lines ▴';
+    try{localStorage.setItem('navCollapsed', c?'1':'0')}catch(e){}
+  }
+  tog.addEventListener('click',function(){setCollapsed(!nav.classList.contains('collapsed'))});
+  var c0=false; try{c0=localStorage.getItem('navCollapsed')==='1'}catch(e){}
+  setCollapsed(c0);
+  links.forEach(function(a){a.addEventListener('click',function(){ if(a.dataset.v) setCollapsed(true); })});
   window.addEventListener('hashchange',show); show();
   var tabs=[].slice.call(document.querySelectorAll('.seg button'));
   var lists=[].slice.call(document.querySelectorAll('.plist'));
