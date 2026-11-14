@@ -78,28 +78,39 @@ Which line to play:
 
 **End:** Oceanus (Extra Monster Zone), Little Knight, 4 of their cards banished.
 
-## Line 4: Aleister + Reminiscent (sourced: Taffy, "Aleister the Invoker + Aleister the Reminiscent", Mechaba branch)
+## Line 4: Aleister + Reminiscent + 1 spare card (sourced: Taffy, "Aleister the Invoker + Aleister the Reminiscent", Baronne branch)
 
+Needs: Aleister (or Meltdown / Aiwass / Sacred Spirit Sword to get one) + Reminiscent + **any 1 spare card** for Madness's discard. Deck: Invocation ×2, Sword ×2, Crowley, Virakam. Extra Deck: Artemis, Endymion, Chorozo, Raidjin, Sorath, Baybarron, Madness, Baronne, Aeon, Little Knight, Mechaba, Oceanus.
+
+**Stage 1: two Links into Crowley**
 1. Normal Summon Aleister, search Invocation
-2. Reminiscent (hand): target Aleister, Special Summon itself; banish Raidjin from Extra Deck, search Sword
+2. Reminiscent (hand): target Aleister, Special Summon itself; banish **Raidjin** from Extra Deck, search **Sword**
 3. Link Aleister → Artemis
-4. Link Artemis + Reminiscent → Endymion; equip Artemis
-5. Artemis: search Crowley, which summons itself
-6. Crowley: Crowley + Endymion → Mechaba
-7. Invocation: banish Aleister + Artemis → Baybarron, search Virakam
-8. Special Summon Virakam, set Sword
-9. Sword: Aleister + Raidjin (both banished) → Sorath
-10. Sorath: revive Crowley
-11. Link Sorath + Baybarron → Invoker of Madness
-12. Sorath GY: banish Sorath + Baybarron + Raidjin → Aeon
-13. Chain: Madness (discard 1, search Invocation) + Aeon (banish 1 card + 3 from Extra Deck)
-14. Link Aeon + Crowley → S:P Little Knight
+4. Link Artemis + Reminiscent → Endymion; Endymion equips Artemis to itself
+5. Artemis: search Crowley, which summons itself. **Don't fuse.**
+
+**Stage 2: Chorozo, Baybarron, Sorath**
+6. Endymion + Artemis → **Chorozo** (contact fusion)
+7. Invocation: banish Aleister + Artemis (GY) → **Baybarron**, search Virakam (skip the banish)
+8. Special Summon Virakam, set **Sword**
+9. Sword (hand): Aleister + Raidjin (both banished) → **Sorath**
+
+**Stage 3: Baronne and Madness**
+10. Link Baybarron + Crowley → **Madness**
+11. Sorath: revive Crowley
+12. Synchro: Chorozo + Sorath → **Baronne de Fleur**
+
+**Stage 4: Aeon and the finish**
+13. Sorath GY: banish Sorath + Baybarron + Raidjin → **Aeon**. Chain: Madness (discard the spare card, search Invocation) + Aeon (banish 1 card + 3 from their Extra Deck). Virakam protects Aeon.
+14. Link Aeon + Crowley → **S:P Little Knight**
 15. Sword GY: add Invocation
-16. Invocation: Aleister + Aeon (GY) → Augoeides (skip if not in your Extra Deck)
-17. Invocation: Madness + Crowley → Oceanus in the Extra Monster Zone
+16. Invocation: Aleister + Endymion (GY, LIGHT) → **Mechaba** (Taffy: "can make Mechaba here if doing the Baronne combo"; Endymion as the LIGHT material is Claude's reading)
+17. Invocation: Madness + Crowley → **Oceanus** in the Extra Monster Zone
 18. Invocation GY: add a banished Aleister
 
-**End:** Oceanus (Extra Monster Zone), Mechaba, Little Knight, Virakam, set Sword, Augoeides. Taffy calls this the main combo.
+**End:** Baronne, Mechaba, Oceanus (Extra Monster Zone), Little Knight, Virakam, set Sword, Aleister in hand; 4 of their cards banished (1 + 3 from Extra Deck).
+
+**Ideas to remember:** Raidjin is used three times (Reminiscent's cost → Sword material → Aeon material). Crowley is used three times (Madness material, Little Knight material, Oceanus material). Invocation and Sword both recycle from the GY.
 
 ## Line 5: Crowley + Reminiscent + FIRE/WIND (sourced: Taffy, "I drew Crowley")
 
