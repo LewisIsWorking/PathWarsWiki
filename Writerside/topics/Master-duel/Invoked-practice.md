@@ -4,7 +4,21 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 - **Sourced** lines come from Taffy's [Invoked combo spreadsheet](https://www.masterduelmeta.com/spreadsheet/6ac95807501c79d600eec076) on Master Duel Meta (Sept–Oct 2026) and are copied step for step.
 - **Untested** lines were built from card text by Claude. Each step was checked against the card, but nobody has played them in a tournament.
-- Skipped: Taffy's Droll lines and Baronne branches, because they need **Magistus Chorozo** (not owned).
+- Chorozo crafted 14 Nov, so Line 4 now uses Taffy's Baronne branch.
+
+## Cheat sheet images
+
+One image per line, for your phone during games.
+
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/invoked-line-8.png)
 
 Which line to play:
 
@@ -13,7 +27,7 @@ Which line to play:
 | Aleister + Ash / Droll / Fuwalos / Zoroa / Aiwass | Line 1 |
 | Aleister + any other card | Line 2 |
 | Reminiscent | Line 3 |
-| Aleister + Reminiscent | Line 4 |
+| Aleister + Reminiscent (+1 spare) | Line 4 (best) |
 | Spenta or Crowley + Reminiscent + Ash/Droll/Fuwalos | Line 5 |
 | Sacred Spirit Sword (or Aiwass, or Meltdown) + any card | Line 6 |
 | Zoroa or Spenta, no Aleister | Line 7 |
@@ -72,11 +86,11 @@ Which line to play:
 11. Special Summon Virakam, set Sword
 12. Link Sorath + Baybarron → Invoker of Madness
 13. Sorath GY: banish Sorath + Baybarron + Raidjin → Aeon
-14. Chain: Madness (discard 1, search Invocation) + Aeon (banish 1 card, then 3 from their Extra Deck); Virakam protects Aeon
+14. Chain: Madness (discard 1, search Invocation) + Aeon (3 materials: banish up to 3 cards, then pick 3 from their Extra Deck); Virakam protects Aeon
 15. Link Aeon + Virakam → S:P Little Knight
 16. Invocation: Madness + Aeon (GY) → Oceanus in the Extra Monster Zone
 
-**End:** Oceanus (Extra Monster Zone), Little Knight, 4 of their cards banished.
+**End:** Oceanus (Extra Monster Zone), Little Knight, set Sword, up to 6 of their cards banished.
 
 ## Line 4: Aleister + Reminiscent + 1 spare card (sourced: Taffy, "Aleister the Invoker + Aleister the Reminiscent", Baronne branch)
 
