@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "2.1"
+VERSION = "2.2"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -290,7 +290,7 @@ _st[3][1] = [
     "**Battle:** Aeon 3800 + Baronne 3000 + Oceanus 3000 + Mechaba 2500 + Virakam 1000 = **13,300**"]
 S2["stages"] = [_GET] + [tuple(x) for x in _st]
 S2["end"] = "Her field cleared, 13,300 damage if nothing stops it"
-S2["memo"] = "Open with Meltdown or Aiwass from hand, not Sacred Sword. After Sacred Sword only Fusions can attack, so Baronne and Virakam couldn't."
+S2["memo"] = "Open with Meltdown or Aiwass from hand, not Sacred Sword. After Sacred Sword only Fusions can attack, so Baronne and Virakam couldn't. Aleister's search Ash'd or Imperm'd? With an Invocation already in hand, play the line unchanged (Imperm leaves its name, so it still targets for Reminiscent and works as material)."
 
 S3 = dict(title="Aleister or opener + FIRE/WIND + Super Poly", tag="Going 2nd · Taffy's Aleister line + Super Poly (card text)",
   needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Super Poly", "+2 spare cards"],
@@ -502,7 +502,7 @@ RULES = [
  "Read both GYs + banishment before Invocation. Invocation can use a FIRE/WIND (or any) monster from EITHER GY: use that before spending a card from hand",
  "Discard order: dead copies (2nd Meltdown, used Invoke Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
  "Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can",
- "Imperm on Aleister or Crowley: Aleister keeps its name (Invocation/Grail still work); Crowley does not",
+ "Imperm on Aleister or Crowley: Aleister keeps its name (Invocation/Grail still work); Crowley does not. Aleister's search stopped but Invocation in hand? Play the line unchanged",
  "Main Phase 2: link 2 spare small monsters into S:P Little Knight. It's an interruption on her turn",
 ]
 
