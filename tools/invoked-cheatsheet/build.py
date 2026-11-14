@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.12"
+VERSION = "1.13"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -413,7 +413,21 @@ S3G = dict(title="Aleister or opener + FIRE/WIND + Grail", tag="Going 2nd · Taf
   end="Her 3 cards gone · Aeon · Virakam · set Invoke Sword",
   memo="Grail doesn't target, so it gets round Dragoon.")
 
-SECOND = [S1, S2, S3C, S3G, S3, S4, S5G, S5B]
+S6I = dict(title="Aleister got Imperm'd + FIRE/WIND + Grail", tag="Going 2nd · UNTESTED, built from card text",
+  needs=["Aleister on field (search negated)", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Invocation", "Grail"],
+  stages=[
+   ("Imperm doesn't stop its name", [
+    "**Invocation:** Aleister (field) + FIRE/WIND (hand) → **Sorath**",
+    "Invocation GY: add the banished Aleister",
+    "Discard Aleister on Sorath (+1000) → Sorath revives Aleister (Defence)"]),
+   ("Take her monster", [
+    "**Grail mode 2:** Aleister + her best monster (tap it for its Attribute): DARK/WATER **Oceanus**, WIND **Raidjin**, LIGHT **Mechaba**, EARTH **Baybarron**. If it's FIRE, take another of hers",
+    "**Battle:** the Grail Fusion + Sorath 2600"]),
+  ],
+  end="Her best monster gone · Sorath · Grail Fusion",
+  memo="Imperm negates Aleister's search, not its name, so Invocation and Grail still work.")
+
+SECOND = [S1, S2, S3C, S3G, S3, S4, S5G, S5B, S6I]
 TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"])]
 TIPS[1]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
@@ -451,6 +465,7 @@ INDEX2 = [
  ("Aleister or opener + any card + Super Poly", "S6", False),
  ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S7", False),
  ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S8", False),
+ ("Aleister got Imperm'd + FIRE/WIND + Grail", "S9", False),
 ]
 INDEX3 = [
  ("Going 2nd into Natasha's Dragoon", "T1", False),
@@ -465,6 +480,7 @@ RULES = [
  "Read both GYs + banishment before Invocation",
  "Discard order: dead copies (2nd Meltdown, used Invoke Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
  "Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can",
+ "Imperm on Aleister or Crowley: Aleister keeps its name (Invocation/Grail still work); Crowley does not",
 ]
 
 CSS = """
