@@ -317,4 +317,4 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 
 - Discarded the hand Sword at step 15 (the sheet didn't say to keep it), so no Omega finish. Fixed in v1.2 (Line 1 note + Line 11).
 - **Once Super Poly is activated you can't cancel it.** Madness was already banished for Oceanus, so the only legal fusion was Mechaba + Oceanus → Aeon. Order matters: Super Poly before Invocation uses Madness.
-- Won anyway (Aeon + Augoeides-style follow-up next turn vs Archfiend AI).
+- Won anyway next turn with Aeon + Omega (2800 for the final hit) vs the Archfiend AI.
