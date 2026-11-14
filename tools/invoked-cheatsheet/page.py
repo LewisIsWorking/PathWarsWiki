@@ -76,8 +76,8 @@ def home_section():
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
 </div>
-<div class="plist" data-turn="1st"><p class="tag">Top row wins if more than one fits</p><div class="picks">{picks(INDEX1)}</div></div>
-<div class="plist" data-turn="2nd" hidden><p class="tag">Start with S1 on her turn, then pick your line</p><div class="picks">{picks(INDEX2)}</div></div>
+<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 10–11 only if you get Drolled</p><div class="picks">{picks(INDEX1)}</div></div>
+<div class="plist" data-turn="2nd" hidden><p class="tag">S1 on her turn. Then S2–S4, strongest first. S5 is for Natasha, S6 adds damage to any line</p><div class="picks">{picks(INDEX2)}</div></div>
 <div class="stage"><h3>Golden rules</h3><ol>{rules}</ol></div>
 <div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol>{disc}</ol>
 <p class="keep"><b>Keep:</b> {fmt(KEEP)}</p></div>
