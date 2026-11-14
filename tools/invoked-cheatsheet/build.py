@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.0"
+VERSION = "1.1"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -196,6 +196,8 @@ RULES = [
  "Oceanus goes in the Extra Monster Zone",
  "Before any Link: is there a free zone?",
  "Read both GYs + banishment before Invocation",
+ "Discard order: dead copies (2nd Meltdown, used Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
+ "Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can",
 ]
 
 CSS = """
