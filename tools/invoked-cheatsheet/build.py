@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.3"
+VERSION = "1.4"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -37,7 +37,7 @@ LINES = [
     "Invocation: Madness + Crowley (GY) → **Oceanus** (Extra Monster Zone)"]),
   ],
   end="Oceanus (EMZ) · Mechaba · Virakam · set Sword",
-  memo="Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 11 for the Omega finish."),
+  memo="Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 13 for the finishers."),
 
  dict(id="6", title="Aleister + any card", tag="Sourced: Taffy (MDM) · weakest line",
   needs=["Aleister", "+1 spare card"],
@@ -135,21 +135,6 @@ LINES = [
   end="Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Sword",
   memo="Taffy makes Elysium after Aeon. Add that step once you own Elysium."),
 
- dict(id="2", title="Sacred Spirit Sword opener", tag="Sourced: Dawnstar (MDM)",
-  needs=["Sacred Spirit Sword (or Meltdown / Aiwass)"],
-  stages=[
-   ("Open", [
-    "Sacred Spirit Sword: summon **Aiwass** from Deck (only Fusions attack this turn)",
-    "Aiwass: banish it → search **Aleister** → Normal Summon it straight away",
-    "Aleister → search **Invocation**"]),
-   ("Then continue", [
-    "Reminiscent in hand → **Line 1** from step 2",
-    "FIRE/WIND in hand → **Line 5** from step 2",
-    "Anything else → **Line 6** from step 2"]),
-  ],
-  end="Same board as the line you continue into",
-  memo="Meltdown or Aiwass from hand open the same way but use your own Normal Summon."),
-
  dict(id="7", title="Zoroa or Spenta, no Aleister", tag="UNTESTED · built from card text",
   needs=["Zoroa, or Spenta (discard → Zoroa)"],
   stages=[
@@ -213,7 +198,7 @@ LINES = [
   needs=["Use whatever you have left"],
   stages=[
    ("Remove her blocker", [
-    "**Sword in hand:** Aleister + a Fusion (both banished) → **Omega** → banish her monster",
+    "**Sword in hand** (Omega in Extra Deck): Aleister + a Fusion (both banished) → **Omega** → banish her monster",
     "**Super Poly:** Madness (counts as Aleister) + her monster → Fusion by her Attribute: LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**, DARK/WATER **Oceanus**",
     "Do Super Poly BEFORE Invocation uses Madness. Invocation can still use Madness from the GY"]),
    ("More damage", [
@@ -228,20 +213,49 @@ LINES = [
 ]
 
 
-LINES.sort(key=lambda L: int(L["id"]))
+import copy
+_by = {L["id"]: L for L in LINES}
+
+def _opened(base_id, title, needs, extra_memo):
+    L = copy.deepcopy(_by[base_id])
+    L["title"] = title
+    L["needs"] = needs
+    L["tag"] = L["tag"] + " · opener: Dawnstar (MDM)"
+    L["stages"].insert(0, ("Get Aleister", [
+        "**Sacred Spirit Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister"]))
+    memo = "Sacred Spirit Sword: only Fusions can attack this turn." + (" " + extra_memo if extra_memo else "")
+    L["memo"] = (L.get("memo", "") + " " + memo).strip()
+    return L
+
+_OPEN = "Sacred Spirit Sword, Meltdown or Aiwass"
+_order = [
+    _by["1"],
+    _opened("1", "Opener + Reminiscent", [_OPEN, "Reminiscent", "+1 spare card"], ""),
+    _by["3"], _by["4"], _by["5"],
+    _opened("5", "Opener + FIRE/WIND", [_OPEN, "FIRE/WIND (an Aiwass in hand counts: WIND)", "+1 spare card"],
+            "If Sacred Spirit Sword opened, an Aiwass in hand is your WIND monster."),
+    _by["6"],
+    _opened("6", "Opener + any card", [_OPEN, "+1 spare card"], ""),
+    _by["7"], _by["8"], _by["9"], _by["10"], _by["11"],
+]
+for _i, _L in enumerate(_order, 1):
+    _L["id"] = str(_i)
+LINES = _order
 
 INDEX = [
  ("Aleister + Reminiscent", "1", True),
- ("Sacred Spirit Sword / Meltdown / Aiwass (no Aleister in hand)", "2", True),
+ ("Sacred Spirit Sword / Meltdown / Aiwass + Reminiscent", "2", True),
  ("Reminiscent alone", "3", False),
  ("Crowley or Spenta + Reminiscent + FIRE/WIND", "4", False),
  ("Aleister + Ash / Droll / Fuwalos / Zoroa", "5", False),
- ("Aleister + any card", "6", False),
- ("Zoroa or Spenta, no Aleister", "7", False),
- ("Got Drolled after Aleister's search", "8", False),
- ("Got Drolled after Reminiscent's search", "9", False),
- ("Going 2nd into Dragoon", "10", False),
- ("Going 2nd: finish the turn", "11", False),
+ ("Sacred Spirit Sword / Meltdown / Aiwass + FIRE/WIND", "6", False),
+ ("Aleister + any card", "7", False),
+ ("Sacred Spirit Sword / Meltdown / Aiwass + any card", "8", False),
+ ("Zoroa or Spenta, no Aleister", "9", False),
+ ("Got Drolled after Aleister's search", "10", False),
+ ("Got Drolled after Reminiscent's search", "11", False),
+ ("Going 2nd into Dragoon", "12", False),
+ ("Going 2nd: finish the turn", "13", False),
 ]
 RULES = [
  "Baybarron: say SKIP to the banish unless you've picked a target",
