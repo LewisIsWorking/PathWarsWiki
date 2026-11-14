@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.14"
+VERSION = "1.15"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -428,7 +428,18 @@ S6I = dict(title="Aleister got Imperm'd + FIRE/WIND + Grail", tag="Going 2nd · 
   memo="Imperm negates Aleister's search, not its name, so Invocation and Grail still work.")
 
 SECOND = [S1, S2, S3C, S3G, S3, S4, S5G, S5B, S6I]
-TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"])]
+T_AEON = dict(title="Clear her board with Aeon (no Normal Summon left)", tag="Tip · card text · UNTESTED",
+  needs=["A Fusion on your field", "Grail", "Invocation (or Reminiscent to search it)", "Aleister in hand (or Meltdown)"],
+  stages=[("Line", [
+    "**Meltdown** (if held): search **Aleister**. Your Fusions can't be negated",
+    "**Reminiscent** (if held): Special Summon it targeting your Fusion. Banish De Anima → search **Invocation**",
+    "**Grail mode 1:** Aleister (hand) + a Deck monster → a Fusion with a **different Attribute** from the one on your field (e.g. Crowley DARK → **Oceanus**, Droll/Aiwass WIND → **Raidjin**)",
+    "**Invocation:** both Fusions → **Aeon**: banish 2 of her cards",
+    "Attack"])],
+  end="Her 2 best cards gone · Aeon 3800",
+  memo="Aeon needs different Attributes: Sorath and Mechaba are both LIGHT.")
+
+TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"]), T_AEON]
 TIPS[1]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
     _L["id"] = "S" + str(_i)
@@ -470,6 +481,7 @@ INDEX2 = [
 INDEX3 = [
  ("Going 2nd into Natasha's Dragoon", "T1", False),
  ("Finish the turn: damage tricks and attack values", "T2", False),
+ ("Clear her board with Aeon (no Normal Summon left)", "T3", False),
 ]
 INDEX = INDEX1
 RULES = [
