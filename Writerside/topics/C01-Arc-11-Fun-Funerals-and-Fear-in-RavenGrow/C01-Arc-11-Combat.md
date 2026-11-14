@@ -111,5 +111,24 @@
 > Active Conditions.
 >> - (none yet)
 
-## Session 287.
+## Session 287 & 288.
+
+> Session 287.
+>> 1. Encounter name: The Dungeon Skeleton Hoard in Grey-wall Prison's Dungeon!
+>> 2. Encounter started = 2026-October-8th at 13:22.
+>> 3. Round 1!
+>> 4. Who won initial initiative: [ALLIES].
+>> 5. Combat over.
+
+## Session 288.
+
+> Session 288.
+>> 1. Encounter name: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
+>> 2. Encounter started = 2026-November-14th at 01:57am.
+>> 3. Round 1!
+>> 4. Who won initial initiative: [ALLIES].
+>> 5. They destroy 3 skulls, Emberbeard is Bloodied.
+>> 6. Cardigan's turn -> Religion -> 37 -> Religion, Intimidation (lower DC) or Diplomacy (higher DC), must be expert or higher, the activity is "Disable device".
+>> 7. Cardigan prays him away -> 33 -> success -> 10 damage.
+>> 8. 
 

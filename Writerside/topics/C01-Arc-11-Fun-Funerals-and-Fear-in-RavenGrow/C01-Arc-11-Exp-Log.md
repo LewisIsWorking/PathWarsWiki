@@ -111,3 +111,27 @@
 >> 2. Katmidlar. Level 11. Exp: 0 + 120 = 120.
 >> 3. Selenor. Level 12. Exp: 1,033 + 80 = 1,113.
 >> 4. Cardigan. Level 13. Exp: 134 + 60 = 194.
+
+## Session 288
+
+> Combat: The Dungeon Skeleton Hoard in Grey-wall Prison's Dungeon!
+>> 1. 
+
+> Characters present for: Skeleton Hoard.
+>> 1. Selenor.
+>> 2. Cardigan.
+>> 3. Allisee.
+>> 4. Carnon.
+>> 5. Melody.
+>> 6. Rino.
+
+> Combat: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
+>> 1. ...
+
+> Characters present for: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
+>> 1. Selenor.
+>> 2. Cardigan.
+>> 3. Allisee.
+>> 4. Carnon.
+>> 5. Melody.
+>> 6. Rino.
