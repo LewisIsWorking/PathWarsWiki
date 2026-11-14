@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.11"
+VERSION = "1.12"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -388,9 +388,32 @@ S5G = dict(title="Spenta or Crowley + FIRE/WIND + Grail + Invocation", tag="Goin
     "**Battle:** Aeon 3800"]),
   ],
   end="Her whole field gone (up to 3 cards) · Aeon",
-  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S7 instead if you have Invoke Sword.")
+  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S8 instead if you have Invoke Sword.")
 
-SECOND = [S1, S2, S3C, S3, S4, S5G, S5B]
+S3G = dict(title="Aleister or opener + FIRE/WIND + Grail", tag="Going 2nd · Taffy's Aleister line + Grail · UNTESTED, built from card text",
+  needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Grail", "Invocation or a spare card"],
+  stages=[_GET,
+   ("Get Sorath", [
+    "Normal Summon Aleister → search **Invocation**",
+    "Link Aleister → **Artemis**",
+    "Invocation: Aleister (GY) + FIRE/WIND (hand) → **Sorath**",
+    "Invocation GY: add the banished Aleister",
+    "Discard Aleister on Sorath → Sorath revives Aleister"]),
+   ("Crowley into Baybarron", [
+    "Link Aleister + Artemis → **Endymion**, equip Artemis",
+    "Artemis: search **Crowley** (it summons itself). Crowley + Endymion → **Baybarron**: search **Virakam**, SKIP the banish",
+    "Special Summon Virakam → set **Invoke Sword**"]),
+   ("Grail, then Aeon", [
+    "Link Sorath + Baybarron → **Madness**",
+    "Sorath GY: Sorath + Aleister → **Mechaba**. Madness: discard spare (TTT) → search **Invocation**",
+    "**Grail mode 2:** Madness + her best monster (tap it for its Attribute): DARK/WATER **Oceanus**, WIND **Raidjin**. LIGHT/EARTH/FIRE: use another of her monsters",
+    "**Invocation:** Mechaba + the Grail Fusion → **Aeon**: banish her other monster + her set card",
+    "**Battle:** Aeon 3800 + Virakam 1000"]),
+  ],
+  end="Her 3 cards gone · Aeon · Virakam · set Invoke Sword",
+  memo="Grail doesn't target, so it gets round Dragoon.")
+
+SECOND = [S1, S2, S3C, S3G, S3, S4, S5G, S5B]
 TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"])]
 TIPS[1]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
@@ -423,10 +446,11 @@ INDEX2 = [
  ("Her turn first: which hand trap, when", "S1", False),
  ("Aleister or opener + Reminiscent", "S2", True),
  ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S3", True),
- ("Aleister or opener + FIRE/WIND + Super Poly", "S4", True),
- ("Aleister or opener + any card + Super Poly", "S5", False),
- ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S6", False),
- ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S7", False),
+ ("Aleister or opener + FIRE/WIND + Grail", "S4", True),
+ ("Aleister or opener + FIRE/WIND + Super Poly", "S5", True),
+ ("Aleister or opener + any card + Super Poly", "S6", False),
+ ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S7", False),
+ ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S8", False),
 ]
 INDEX3 = [
  ("Going 2nd into Natasha's Dragoon", "T1", False),
