@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.2"
+VERSION = "1.3"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -14,7 +14,7 @@ def fmt(s):
     return s
 
 LINES = [
- dict(id="1", title="Aleister + FIRE/WIND", tag="Sourced: Taffy (MDM)",
+ dict(id="5", title="Aleister + FIRE/WIND", tag="Sourced: Taffy (MDM)",
   needs=["Aleister", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "+1 spare card"],
   stages=[
    ("Get Sorath", [
@@ -39,7 +39,7 @@ LINES = [
   end="Oceanus (EMZ) · Mechaba · Virakam · set Sword",
   memo="Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 11 for the Omega finish."),
 
- dict(id="2", title="Aleister + any card", tag="Sourced: Taffy (MDM) · weakest line",
+ dict(id="6", title="Aleister + any card", tag="Sourced: Taffy (MDM) · weakest line",
   needs=["Aleister", "+1 spare card"],
   stages=[
    ("Get Sorath", [
@@ -84,7 +84,7 @@ LINES = [
   ],
   end="Oceanus (EMZ) · Little Knight · set Sword · up to 6 of hers banished"),
 
- dict(id="4", title="Aleister + Reminiscent", tag="Sourced: Taffy (MDM), Baronne branch · BEST LINE",
+ dict(id="1", title="Aleister + Reminiscent", tag="Sourced: Taffy (MDM), Baronne branch · BEST LINE",
   needs=["Aleister (or Meltdown / Aiwass / Sacred Spirit Sword)", "Reminiscent", "+1 spare card"],
   stages=[
    ("1 · Two Links into Crowley", [
@@ -114,7 +114,7 @@ LINES = [
   end="Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Sword · Aleister in hand · up to 6 of hers banished",
   memo="Raidjin used 3× (cost → Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus)."),
 
- dict(id="5", title="Crowley or Spenta + Reminiscent + FIRE/WIND", tag="Sourced: Taffy (MDM)",
+ dict(id="4", title="Crowley or Spenta + Reminiscent + FIRE/WIND", tag="Sourced: Taffy (MDM)",
   needs=["Crowley (Normal Summon) or Spenta (discard → Crowley)", "Reminiscent", "FIRE/WIND monster", "+1 spare card"],
   stages=[
    ("Sorath and Madness", [
@@ -135,7 +135,7 @@ LINES = [
   end="Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Sword",
   memo="Taffy makes Elysium after Aeon. Add that step once you own Elysium."),
 
- dict(id="6", title="Sacred Spirit Sword opener", tag="Sourced: Dawnstar (MDM)",
+ dict(id="2", title="Sacred Spirit Sword opener", tag="Sourced: Dawnstar (MDM)",
   needs=["Sacred Spirit Sword (or Meltdown / Aiwass)"],
   stages=[
    ("Open", [
@@ -143,9 +143,9 @@ LINES = [
     "Aiwass: banish it → search **Aleister** → Normal Summon it straight away",
     "Aleister → search **Invocation**"]),
    ("Then continue", [
-    "Reminiscent in hand → **Line 4** from step 2",
-    "FIRE/WIND in hand → **Line 1** from step 2",
-    "Anything else → **Line 2** from step 2"]),
+    "Reminiscent in hand → **Line 1** from step 2",
+    "FIRE/WIND in hand → **Line 5** from step 2",
+    "Anything else → **Line 6** from step 2"]),
   ],
   end="Same board as the line you continue into",
   memo="Meltdown or Aiwass from hand open the same way but use your own Normal Summon."),
@@ -163,7 +163,7 @@ LINES = [
   ],
   end="1 Fusion + a spare body. Turns a brick into a board."),
 
- dict(id="8", title="Going 2nd into Natasha's Dragoon", tag="Built from card text · practise it",
+ dict(id="10", title="Going 2nd into Natasha's Dragoon", tag="Built from card text · practise it",
   needs=["Aleister route", "Super Polymerization", "Imperm (ideal)"],
   stages=[
    ("Her turn", [
@@ -178,7 +178,7 @@ LINES = [
   ],
   end="Dragoon gone · Sarcophagus gone · Aeon 3800 on board",
   memo="Can't hit Timaeus the turn it lands. Ghost Ogre can't touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters."),
- dict(id="9", title="Aleister got Drolled", tag="Sourced: Taffy (MDM) · needs Chorozo",
+ dict(id="8", title="Aleister got Drolled", tag="Sourced: Taffy (MDM) · needs Chorozo",
   needs=["Aleister", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa"],
   stages=[
    ("No more searches needed", [
@@ -193,7 +193,7 @@ LINES = [
   ],
   end="Baronne · Mechaba"),
 
- dict(id="10", title="Reminiscent got Drolled", tag="Sourced: Taffy (MDM) · needs Chorozo",
+ dict(id="9", title="Reminiscent got Drolled", tag="Sourced: Taffy (MDM) · needs Chorozo",
   needs=["Reminiscent"],
   stages=[
    ("No more searches needed", [
@@ -228,18 +228,19 @@ LINES = [
 ]
 
 
+LINES.sort(key=lambda L: int(L["id"]))
+
 INDEX = [
- ("Aleister + Reminiscent", "4", True),
- ("Meltdown / Sacred Spirit Sword / Aiwass + Reminiscent", "6→4", True),
+ ("Aleister + Reminiscent", "1", True),
+ ("Sacred Spirit Sword / Meltdown / Aiwass (no Aleister in hand)", "2", True),
  ("Reminiscent alone", "3", False),
- ("Crowley or Spenta + Reminiscent + FIRE/WIND", "5", False),
- ("Aleister + Ash / Droll / Fuwalos / Zoroa", "1", False),
- ("Aleister + any card", "2", False),
- ("Sacred Spirit Sword / Meltdown / Aiwass", "6", False),
+ ("Crowley or Spenta + Reminiscent + FIRE/WIND", "4", False),
+ ("Aleister + Ash / Droll / Fuwalos / Zoroa", "5", False),
+ ("Aleister + any card", "6", False),
  ("Zoroa or Spenta, no Aleister", "7", False),
- ("Got Drolled after Aleister's search", "9", False),
- ("Got Drolled after Reminiscent's search", "10", False),
- ("Going 2nd into Dragoon", "8", False),
+ ("Got Drolled after Aleister's search", "8", False),
+ ("Got Drolled after Reminiscent's search", "9", False),
+ ("Going 2nd into Dragoon", "10", False),
  ("Going 2nd: finish the turn", "11", False),
 ]
 RULES = [
