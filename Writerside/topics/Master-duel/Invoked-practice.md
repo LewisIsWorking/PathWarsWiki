@@ -194,3 +194,5 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - **Grail needs an Aleister in your field, GY or banishment before you activate it.** One in hand doesn't count.
 - Know which deck is in use: the Planet Run deck has no Ghost Ogre. Claude must check the deck list before naming Deck monsters for Grail.
 - Sacred Spirit Sword's third mode (banish 1 of 3 random Extra Deck cards) summons nothing, so it's safe against Fuwalos. Hit Hecahands Xeno.
+- **Result: loss on turn 2.** She ran 2+ Hecahands Xeno: the second Xeno summoned our Baybarron from our Extra Deck, our Mechaba was stolen, and Xeno 3400 + Mechaba 2500 + Baybarron 2450 attacked for lethal.
+- **Lessons vs Hecahands:** a 2-monster board with only a Spell discard for Mechaba isn't enough. Keep a **monster** in hand for Mechaba so it can negate Xeno's Quick Effect. The Sacred Spirit Sword Extra Deck rip only hits 1 of 3 random cards, so expect a second Xeno. Her Fuwalos draws made her hand big; going first, consider making fewer summons until her Fuwalos turn is over.
