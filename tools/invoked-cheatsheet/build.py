@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.7"
+VERSION = "1.8"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -319,27 +319,27 @@ S4 = dict(title="Aleister or opener + any card + Super Poly", tag="Going 2nd · 
   ],
   end="Her best monster gone, about 7,000 damage")
 
-S3C = dict(title="Super Poly into Chorozo: steal 2", tag="Going 2nd · found live by Lewis · untested past step 4 (card text)",
+S3C = dict(title="Super Poly into Chorozo: steal 2", tag="Going 2nd · found by Lewis, won with it in Solo 14 Nov · order checked against card text",
   needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Super Poly", "+1 spare card",
          "She controls an Extra Deck monster (Fusion/Synchro/Xyz/Link) + a Spellcaster"],
-  stages=[_GET,
+  stages=[
+   ("Get Aleister", ["**Aiwass from hand:** banish it → add **Aleister** (best: banished Aiwass is WIND material for the finish). Or Meltdown → Aleister"]),
    ("Take her two monsters", [
     "Normal Summon Aleister → search **Invocation**",
     "Link Aleister → **Artemis**",
     "**Super Poly** (discard spare): her Extra Deck monster + her Spellcaster → **Chorozo**",
-    "Artemis: equip to Chorozo → search **Crowley** (it summons itself)"]),
-   ("Baronne and Oceanus", [
-    "Crowley: Crowley + FIRE/WIND (hand) → **Sorath**",
+    "Artemis: equip to Chorozo → search **Crowley**. It summons itself, then fuse: Crowley + FIRE/WIND (hand) → **Sorath**"]),
+   ("Baronne and Aeon", [
     "Sorath: revive Crowley",
     "Synchro: Chorozo + Sorath → **Baronne de Fleur**",
-    "Invocation: Aleister (GY) + Crowley (DARK) → **Oceanus**",
-    "Invocation GY: add the banished Aleister",
+    "Invocation: **Sorath + Chorozo (both in GY)** → **Aeon**: banish 2 of her cards",
     "**Baronne:** destroy 1 more of her cards"]),
-   ("Battle", [
-    "Baronne 3000 + Oceanus 3000, discard Aleister for +1000 = **7,000**"]),
+   ("Finish", [
+    "**Invoke Sword in hand** (optional): Crowley (field) + Aiwass (banished, WIND) → **Raidjin**",
+    "**Battle:** Aeon 3800 + Baronne 3000 + Crowley 1800 = **8,600** (Raidjin instead of Crowley: 9,000)"]),
   ],
-  end="Her 2 monsters gone + 1 more destroyed · Baronne · Oceanus",
-  memo="Exosister and Dark Magician decks are full of Spellcasters. If she has only one of the two, use one of yours as the other material.")
+  end="Her 2 monsters gone + 3 more of her cards removed · Aeon · Baronne · Crowley or Raidjin",
+  memo="Aeon needs no Aleister: 2 Fusions with different Attributes from your GY are enough. Exosister and Dark Magician decks are full of Spellcasters.")
 
 SECOND = [S1, S2, S3C, S3, S4, _by["10"], _by["11"]]
 SECOND[5] = copy.deepcopy(SECOND[5]); SECOND[6] = copy.deepcopy(SECOND[6])
