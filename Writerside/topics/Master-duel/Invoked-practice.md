@@ -196,3 +196,9 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - Sacred Spirit Sword's third mode (banish 1 of 3 random Extra Deck cards) summons nothing, so it's safe against Fuwalos. Hit Hecahands Xeno.
 - **Result: loss on turn 2.** She ran 2+ Hecahands Xeno: the second Xeno summoned our Baybarron from our Extra Deck, our Mechaba was stolen, and Xeno 3400 + Mechaba 2500 + Baybarron 2450 attacked for lethal.
 - **Lessons vs Hecahands:** a 2-monster board with only a Spell discard for Mechaba isn't enough. Keep a **monster** in hand for Mechaba so it can negate Xeno's Quick Effect. The Sacred Spirit Sword Extra Deck rip only hits 1 of 3 random cards, so expect a second Xeno. Her Fuwalos draws made her hand big; going first, consider making fewer summons until her Fuwalos turn is over.
+
+### Game log: Planet Run, went first, Ash + Fuwalos (14 Nov 2026): loss
+
+- Ash hit Aleister's search; she also used Fuwalos. Claude switched to Line 3, then changed it again mid-turn to save summons. Lewis got lost following the changing steps and ended on Aeon + Virakam + Imperm only.
+- **Lesson:** when the plan breaks mid-combo, Claude gives **one** replacement line and sticks to it. Under the clock, a simple board played confidently beats a better line half-finished.
+- **Practise Lines 1 and 3 against the AI** until they're automatic; then a broken line is recognisable without help.
