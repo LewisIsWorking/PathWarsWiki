@@ -115,7 +115,7 @@
 ## Session 288.
 
 > Combat: The Dungeon Skeleton Hoard in Grey-wall Prison's Dungeon!
->> 1. Skeleton Infantry x 1. Elite, so level 12.
+>> 1. Skeleton Infantry x 1.
 >> 2. Exp:
 >> 3. Level 11 = 60 x 1 = 60.
 >> 4. Level 12 = 40 x 1 = 40.
@@ -137,7 +137,7 @@
 
 > Combat: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
 >> 1. Monster Parts of Screaming Severed Head x 3. 525 GP. 3 light bulk.
->> 2. Sergeant Hadrin Emberbeard (level 11 hazard) + 3 Screaming Severed Heads (level 11) = 4 x level 11.
+>> 2. Sergeant Hadrin Emberbeard + 3 Screaming Severed Heads.
 >> 3. Exp:
 >> 4. Level 7 = 160 x 4 = 640.
 >> 5. Level 11 = 40 x 4 = 160.
