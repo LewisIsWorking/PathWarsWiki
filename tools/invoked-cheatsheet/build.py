@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.15"
+VERSION = "1.16"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -493,6 +493,7 @@ RULES = [
  "Discard order: dead copies (2nd Meltdown, used Invoke Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
  "Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can",
  "Imperm on Aleister or Crowley: Aleister keeps its name (Invocation/Grail still work); Crowley does not",
+ "Main Phase 2: link 2 spare small monsters into S:P Little Knight. It's an interruption on her turn",
 ]
 
 CSS = """
