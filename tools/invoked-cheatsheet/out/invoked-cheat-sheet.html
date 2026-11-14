@@ -69,8 +69,8 @@ table.attr{width:100%;border-collapse:collapse;font-size:15px}
 .at-fire{background:#5a2214;color:#ffb39a}.at-wind{background:#163f2b;color:#9ff0c0}.at-earth{background:#43361a;color:#f2d79a}
 .at-light{background:#46421c;color:#fff2a6}.at-dark{background:#2e2147;color:#d6c0ff}
 a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.seg{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
-.seg button{min-height:44px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
+.seg{display:grid;grid-template-columns:1fr 1fr auto;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
+.seg button{min-height:44px;padding:0 14px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
 .seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
 .seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .strip .lbl{font-size:11px;font-weight:800;letter-spacing:.06em;color:var(--muted);text-transform:uppercase;width:30px}
@@ -78,15 +78,17 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .foot{margin-top:18px;font-size:12px;color:var(--muted);text-align:right}
 </style>
 <div class="wrap">
-<nav class="strip" aria-label="Lines"><div class="row"><span class="lbl">1st</span><a class="home" href="#">?</a><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a><a href="#line-10" data-v="line-10">10</a><a href="#line-11" data-v="line-11">11</a><a href="#line-12" data-v="line-12">12</a></div><div class="row"><span class="lbl">2nd</span><a href="#line-s1" data-v="line-s1">S1</a><a href="#line-s2" data-v="line-s2">S2</a><a href="#line-s3" data-v="line-s3">S3</a><a href="#line-s4" data-v="line-s4">S4</a><a href="#line-s5" data-v="line-s5">S5</a><a href="#line-s6" data-v="line-s6">S6</a><a href="#line-s7" data-v="line-s7">S7</a><a href="#line-s8" data-v="line-s8">S8</a><span class="ver">v1.10 · 14 Nov 2026</span></div></nav>
+<nav class="strip" aria-label="Lines"><div class="row"><span class="lbl">1st</span><a class="home" href="#">?</a><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a><a href="#line-10" data-v="line-10">10</a><a href="#line-11" data-v="line-11">11</a><a href="#line-12" data-v="line-12">12</a></div><div class="row"><span class="lbl">2nd</span><a href="#line-s1" data-v="line-s1">S1</a><a href="#line-s2" data-v="line-s2">S2</a><a href="#line-s3" data-v="line-s3">S3</a><a href="#line-s4" data-v="line-s4">S4</a><a href="#line-s5" data-v="line-s5">S5</a><a href="#line-s6" data-v="line-s6">S6</a><a href="#line-s7" data-v="line-s7">S7</a></div><div class="row"><span class="lbl">Tips</span><a href="#line-t1" data-v="line-t1">T1</a><a href="#line-t2" data-v="line-t2">T2</a><span class="ver">v1.11 · 14 Nov 2026</span></div></nav>
 <section class="view" id="v-home" data-view="" hidden>
 <h2 class="ht">Which line? Read your hand</h2>
 <div class="seg" role="tablist">
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
+<button type="button" id="tab-tips" role="tab" data-turn="tips" aria-selected="false">Tips</button>
 </div>
 <div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 10–11 only if you get Drolled, 12 if you bricked</p><div class="picks"><a class="pick best" href="#line-1"><span class="hand">Aleister + Reminiscent</span><span class="go">Line 1</span></a><a class="pick best" href="#line-2"><span class="hand">Sacred Sword / Meltdown / Aiwass + Reminiscent</span><span class="go">Line 2</span></a><a class="pick" href="#line-3"><span class="hand">Crowley or Spenta + Reminiscent + FIRE/WIND</span><span class="go">Line 3</span></a><a class="pick" href="#line-4"><span class="hand">Reminiscent alone</span><span class="go">Line 4</span></a><a class="pick" href="#line-5"><span class="hand">Aleister + Ash / Droll / Fuwalos / Zoroa</span><span class="go">Line 5</span></a><a class="pick" href="#line-6"><span class="hand">Sacred Sword / Meltdown / Aiwass + FIRE/WIND</span><span class="go">Line 6</span></a><a class="pick" href="#line-7"><span class="hand">Aleister + any card</span><span class="go">Line 7</span></a><a class="pick" href="#line-8"><span class="hand">Sacred Sword / Meltdown / Aiwass + any card</span><span class="go">Line 8</span></a><a class="pick" href="#line-9"><span class="hand">Zoroa or Spenta, no Aleister</span><span class="go">Line 9</span></a><a class="pick" href="#line-10"><span class="hand">Got Drolled after Aleister&#x27;s search</span><span class="go">Line 10</span></a><a class="pick" href="#line-11"><span class="hand">Got Drolled after Reminiscent&#x27;s search</span><span class="go">Line 11</span></a><a class="pick" href="#line-12"><span class="hand">No starter at all (brick)</span><span class="go">Line 12</span></a></div></div>
-<div class="plist" data-turn="2nd" hidden><p class="tag">S1 on her turn. Then S2–S6, strongest first. S7 is for Natasha, S8 adds damage to any line</p><div class="picks"><a class="pick" href="#line-s1"><span class="hand">Her turn first: which hand trap, when</span><span class="go">Line S1</span></a><a class="pick best" href="#line-s2"><span class="hand">Aleister or opener + Reminiscent</span><span class="go">Line S2</span></a><a class="pick best" href="#line-s3"><span class="hand">Super Poly: she has an Extra Deck monster + a Spellcaster</span><span class="go">Line S3</span></a><a class="pick best" href="#line-s4"><span class="hand">Aleister or opener + FIRE/WIND + Super Poly</span><span class="go">Line S4</span></a><a class="pick" href="#line-s5"><span class="hand">Aleister or opener + any card + Super Poly</span><span class="go">Line S5</span></a><a class="pick" href="#line-s6"><span class="hand">Spenta + FIRE/WIND + Invocation + Invoke Sword (no Aleister)</span><span class="go">Line S6</span></a><a class="pick" href="#line-s7"><span class="hand">Into Natasha&#x27;s Dragoon</span><span class="go">Line S7</span></a><a class="pick" href="#line-s8"><span class="hand">Finish the turn: damage tricks</span><span class="go">Line S8</span></a></div></div>
+<div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks"><a class="pick" href="#line-t1"><span class="hand">Going 2nd into Natasha&#x27;s Dragoon</span><span class="go">Tip T1</span></a><a class="pick" href="#line-t2"><span class="hand">Finish the turn: damage tricks and attack values</span><span class="go">Tip T2</span></a></div></div>
+<div class="plist" data-turn="2nd" hidden><p class="tag">S1 on her turn. Then S2–S7, strongest first</p><div class="picks"><a class="pick" href="#line-s1"><span class="hand">Her turn first: which hand trap, when</span><span class="go">Line S1</span></a><a class="pick best" href="#line-s2"><span class="hand">Aleister or opener + Reminiscent</span><span class="go">Line S2</span></a><a class="pick best" href="#line-s3"><span class="hand">Super Poly: she has an Extra Deck monster + a Spellcaster</span><span class="go">Line S3</span></a><a class="pick best" href="#line-s4"><span class="hand">Aleister or opener + FIRE/WIND + Super Poly</span><span class="go">Line S4</span></a><a class="pick" href="#line-s5"><span class="hand">Aleister or opener + any card + Super Poly</span><span class="go">Line S5</span></a><a class="pick" href="#line-s6"><span class="hand">Spenta or Crowley + FIRE/WIND + Grail + Invocation</span><span class="go">Line S6</span></a><a class="pick" href="#line-s7"><span class="hand">Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword</span><span class="go">Line S7</span></a></div></div>
 <div class="stage"><h3>Golden rules</h3><ol><li><span>Baybarron: say SKIP to the banish unless you&#x27;ve picked a target</span></li><li><span>Madness needs a spare card to discard. Keep one</span></li><li><span>Oceanus goes in the Extra Monster Zone</span></li><li><span>Before any Link: is there a free zone?</span></li><li><span>Read both GYs + banishment before Invocation</span></li><li><span>Discard order: dead copies (2nd Meltdown, used Invoke Sword) <span class="arr">→</span> Fuwalos <span class="arr">→</span> Imperm <span class="arr">→</span> Crossout <span class="arr">→</span> Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru</span></li><li><span>Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can</span></li></ol></div>
 <div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol><li><span>Dead copies: 2nd Meltdown, an Invoke Sword when another is set, Sacred Sword after you&#x27;ve used one</span></li><li><span>Mulcharmy Fuwalos (dead once you control cards)</span></li><li><span>Infinite Impermanence, unless you&#x27;ll set it</span></li><li><span>Crossout Designator</span></li><li><span>Ghost Belle</span></li></ol>
 <p class="keep"><b>Keep:</b> Maxx &quot;C&quot;, Ash, Super Poly, Droll, Nibiru, Ghost Ogre</p></div>
@@ -240,7 +242,7 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Invocation: Madness + Crowley (GY) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword</div>
-<div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Invoke Sword in hand? Don&#x27;t discard it at step 15: see Line S8 for the finishers.</div>
+<div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Invoke Sword in hand? Don&#x27;t discard it at step 15: see Tip T2 for the finishers.</div>
 <nav class="pn"><a class="btn" href="#line-4">← Line 4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-6">Line 6 →</a></nav>
 </section>
 <section class="view" id="v-line-6" data-view="line-6" hidden>
@@ -271,7 +273,7 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Invocation: Madness + Crowley (GY) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword</div>
-<div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Invoke Sword in hand? Don&#x27;t discard it at step 15: see Line S8 for the finishers. Sacred Sword: only Fusions can attack this turn. If Sacred Sword opened, an Aiwass in hand is your WIND monster.</div>
+<div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Invoke Sword in hand? Don&#x27;t discard it at step 15: see Tip T2 for the finishers. Sacred Sword: only Fusions can attack this turn. If Sacred Sword opened, an Aiwass in hand is your WIND monster.</div>
 <nav class="pn"><a class="btn" href="#line-5">← Line 5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-7">Line 7 →</a></nav>
 </section>
 <section class="view" id="v-line-7" data-view="line-7" hidden>
@@ -526,10 +528,28 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <nav class="pn"><a class="btn" href="#line-s4">← Line S4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s6">Line S6 →</a></nav>
 </section>
 <section class="view" id="v-line-s6" data-view="line-s6" hidden>
-<header class="lh"><span class="badge">S6</span><div><h2>Spenta + FIRE/WIND + Invocation + Invoke Sword</h2><p class="tag warn">Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
-<div class="needs"><span class="chip">Spenta (or Crowley)</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Invocation</span><span class="chip">Invoke Sword</span></div>
+<header class="lh"><span class="badge">S6</span><div><h2>Spenta or Crowley + FIRE/WIND + Grail + Invocation</h2><p class="tag warn">Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
+<div class="needs"><span class="chip">Spenta or Crowley</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Grail</span><span class="chip">Invocation</span><span class="chip">She has a face-up monster</span></div>
 <div class="stage"><h3>Sorath into Madness</h3><ol start="1">
-<li><span><b>Spenta:</b> discard <span class="arr">→</span> search <b>Crowley</b> (it summons itself). Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span><b>Crowley:</b> Normal Summon it (or Spenta: discard <span class="arr">→</span> search Crowley, it summons itself). Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive <b>Crowley</b></span></li>
+<li><span>Link Crowley + Sorath <span class="arr">→</span> <b>Madness</b> (counts as Aleister, turns on Grail)</span></li>
+</ol></div>
+<div class="stage"><h3>Take her monster, then Aeon</h3><ol start="4">
+<li><span><b>Grail mode 2:</b> Madness + her face-up monster <span class="arr">→</span> by her Attribute: DARK/WATER <b>Oceanus</b>, LIGHT/EARTH <b>Baybarron</b>, WIND <b>Raidjin</b>. (Extra Deck monster of any Attribute <span class="arr">→</span> <b>Omega</b>)</span></li>
+<li><span><b>Invocation:</b> that Fusion + Sorath (GY) <span class="arr">→</span> <b>Aeon</b> (different Attributes)</span></li>
+<li><span><b>Aeon:</b> banish her 2 other cards</span></li>
+<li><span><b>Battle:</b> Aeon 3800</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Her whole field gone (up to 3 cards) · Aeon</div>
+<div class="memo"><span class="k">Remember</span>Grail doesn&#x27;t target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S7 instead if you have Invoke Sword.</div>
+<nav class="pn"><a class="btn" href="#line-s5">← Line S5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s7">Line S7 →</a></nav>
+</section>
+<section class="view" id="v-line-s7" data-view="line-s7" hidden>
+<header class="lh"><span class="badge">S7</span><div><h2>Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword</h2><p class="tag warn">Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
+<div class="needs"><span class="chip">Spenta or Crowley</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Invocation</span><span class="chip">Invoke Sword</span></div>
+<div class="stage"><h3>Sorath into Madness</h3><ol start="1">
+<li><span><b>Spenta:</b> discard <span class="arr">→</span> search <b>Crowley</b> (it summons itself). Or Normal Summon Crowley from hand. Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
 <li><span>Sorath: revive <b>Crowley</b></span></li>
 <li><span>Link Crowley + Sorath <span class="arr">→</span> <b>Madness</b> (counts as Aleister on field and in GY)</span></li>
 </ol></div>
@@ -541,10 +561,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Aeon · her 2 best cards banished</div>
 <div class="memo"><span class="k">Remember</span>TTT goes live if she activates a monster effect on your turn. Crowley counts as Aleister only while face-up, so a Crowley revived by Sorath (negated) doesn&#x27;t.</div>
-<nav class="pn"><a class="btn" href="#line-s5">← Line S5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s7">Line S7 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-s6">← Line S6</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
 </section>
-<section class="view" id="v-line-s7" data-view="line-s7" hidden>
-<header class="lh"><span class="badge">S7</span><div><h2>Going 2nd into Natasha&#x27;s Dragoon</h2><p class="tag warn">Built from card text · practise it</p></div></header>
+<section class="view" id="v-line-t1" data-view="line-t1" hidden>
+<header class="lh"><span class="badge">T1</span><div><h2>Going 2nd into Natasha&#x27;s Dragoon</h2><p class="tag warn">Built from card text · practise it</p></div></header>
 <div class="needs"><span class="chip">Aleister route</span><span class="chip">Super Polymerization</span><span class="chip">Imperm (ideal)</span></div>
 <div class="stage"><h3>Her turn</h3><ol start="1">
 <li><span><b>Imperm Imsety</b> (stops her send-to-GY punish)</span></li>
@@ -559,10 +579,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Dragoon gone · Sarcophagus gone · Aeon 3800 on board</div>
 <div class="memo"><span class="k">Remember</span>Can&#x27;t hit Timaeus the turn it lands. Ghost Ogre can&#x27;t touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters.</div>
-<nav class="pn"><a class="btn" href="#line-s6">← Line S6</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s8">Line S8 →</a></nav>
+<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t2">Line T2 →</a></nav>
 </section>
-<section class="view" id="v-line-s8" data-view="line-s8" hidden>
-<header class="lh"><span class="badge">S8</span><div><h2>Going 2nd: finishers</h2><p class="tag warn">Built from card text · add to the end of any line</p></div></header>
+<section class="view" id="v-line-t2" data-view="line-t2" hidden>
+<header class="lh"><span class="badge">T2</span><div><h2>Going 2nd: finishers</h2><p class="tag warn">Built from card text · add to the end of any line</p></div></header>
 <div class="needs"><span class="chip">Use whatever you have left</span></div>
 <div class="stage"><h3>Remove her blocker</h3><ol start="1">
 <li><span><b>Invoke Sword in hand</b> (Omega in Extra Deck): Aleister + a Fusion (both banished) <span class="arr">→</span> <b>Omega</b> <span class="arr">→</span> banish her monster</span></li>
@@ -580,9 +600,9 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Count to 8000 before you start the Battle Phase</div>
 <div class="memo"><span class="k">Remember</span>Every going-2nd line already includes these where they fit.</div>
-<nav class="pn"><a class="btn" href="#line-s7">← Line S7</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+<nav class="pn"><a class="btn" href="#line-t1">← Line T1</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
 </section>
-<p class="foot">Invoked cheat sheet · v1.10 · 14 Nov 2026 · source: PathWarsWiki</p>
+<p class="foot">Invoked cheat sheet · v1.11 · 14 Nov 2026 · source: PathWarsWiki</p>
 </div>
 <script>
 (function(){

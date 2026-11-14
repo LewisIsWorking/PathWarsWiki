@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.10"
+VERSION = "1.11"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -358,11 +358,11 @@ S3C = dict(title="Super Poly into Chorozo: steal 2", tag="Going 2nd · found by 
   end="Her 2 monsters gone + 3 more of her cards removed · Aeon · Baronne · Crowley or Raidjin",
   memo="Aeon needs no Aleister: 2 Fusions with different Attributes from your GY are enough. Exosister and Dark Magician decks are full of Spellcasters.")
 
-S5B = dict(title="Spenta + FIRE/WIND + Invocation + Invoke Sword", tag="Going 2nd · no Aleister needed · UNTESTED, built from card text",
-  needs=["Spenta (or Crowley)", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Invocation", "Invoke Sword"],
+S5B = dict(title="Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", tag="Going 2nd · no Aleister needed · UNTESTED, built from card text",
+  needs=["Spenta or Crowley", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Invocation", "Invoke Sword"],
   stages=[
    ("Sorath into Madness", [
-    "**Spenta:** discard → search **Crowley** (it summons itself). Crowley + FIRE/WIND (hand) → **Sorath**",
+    "**Spenta:** discard → search **Crowley** (it summons itself). Or Normal Summon Crowley from hand. Crowley + FIRE/WIND (hand) → **Sorath**",
     "Sorath: revive **Crowley**",
     "Link Crowley + Sorath → **Madness** (counts as Aleister on field and in GY)"]),
    ("Aeon", [
@@ -374,17 +374,36 @@ S5B = dict(title="Spenta + FIRE/WIND + Invocation + Invoke Sword", tag="Going 2n
   end="Aeon · her 2 best cards banished",
   memo="TTT goes live if she activates a monster effect on your turn. Crowley counts as Aleister only while face-up, so a Crowley revived by Sorath (negated) doesn't.")
 
-SECOND = [S1, S2, S3C, S3, S4, S5B, _by["10"], _by["11"]]
-SECOND[6] = copy.deepcopy(SECOND[6]); SECOND[7] = copy.deepcopy(SECOND[7])
-SECOND[7]["memo"] = "Every going-2nd line already includes these where they fit."
+S5G = dict(title="Spenta or Crowley + FIRE/WIND + Grail + Invocation", tag="Going 2nd · no Aleister needed · UNTESTED, built from card text",
+  needs=["Spenta or Crowley", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Grail", "Invocation", "She has a face-up monster"],
+  stages=[
+   ("Sorath into Madness", [
+    "**Crowley:** Normal Summon it (or Spenta: discard → search Crowley, it summons itself). Crowley + FIRE/WIND (hand) → **Sorath**",
+    "Sorath: revive **Crowley**",
+    "Link Crowley + Sorath → **Madness** (counts as Aleister, turns on Grail)"]),
+   ("Take her monster, then Aeon", [
+    "**Grail mode 2:** Madness + her face-up monster → by her Attribute: DARK/WATER **Oceanus**, LIGHT/EARTH **Baybarron**, WIND **Raidjin**. (Extra Deck monster of any Attribute → **Omega**)",
+    "**Invocation:** that Fusion + Sorath (GY) → **Aeon** (different Attributes)",
+    "**Aeon:** banish her 2 other cards",
+    "**Battle:** Aeon 3800"]),
+  ],
+  end="Her whole field gone (up to 3 cards) · Aeon",
+  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S7 instead if you have Invoke Sword.")
+
+SECOND = [S1, S2, S3C, S3, S4, S5G, S5B]
+TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"])]
+TIPS[1]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
     _L["id"] = "S" + str(_i)
     _L["when"] = "2nd"
+for _i, _L in enumerate(TIPS, 1):
+    _L["id"] = "T" + str(_i)
+    _L["when"] = "tips"
 for _L in FIRST:
     if _L.get("memo"):
-        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Line S8 for the finishers")
+        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Tip T2 for the finishers")
 
-LINES = FIRST + SECOND
+LINES = FIRST + SECOND + TIPS
 
 INDEX1 = [
  ("Aleister + Reminiscent", "1", True),
@@ -406,9 +425,12 @@ INDEX2 = [
  ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S3", True),
  ("Aleister or opener + FIRE/WIND + Super Poly", "S4", True),
  ("Aleister or opener + any card + Super Poly", "S5", False),
- ("Spenta + FIRE/WIND + Invocation + Invoke Sword (no Aleister)", "S6", False),
- ("Into Natasha's Dragoon", "S7", False),
- ("Finish the turn: damage tricks", "S8", False),
+ ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S6", False),
+ ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S7", False),
+]
+INDEX3 = [
+ ("Going 2nd into Natasha's Dragoon", "T1", False),
+ ("Finish the turn: damage tricks and attack values", "T2", False),
 ]
 INDEX = INDEX1
 RULES = [
@@ -476,7 +498,7 @@ def line_html(L):
 
 def index_html():
     h = "<div class='top'><div class='num'>?</div><h1>Which line? Read your hand</h1></div>"
-    for label, idx in (("Going 1st", INDEX1), ("Going 2nd", INDEX2)):
+    for label, idx in (("Going 1st", INDEX1), ("Going 2nd", INDEX2), ("Tips & tricks", INDEX3)):
         h += f"<div class='tag' style='margin-top:14px'>{label} · top row wins</div><table>"
         for hand, line, best in idx:
             h += f"<tr class='{'best' if best else ''}'><td>{fmt(hand)}</td><td><span class='pill'>Line {line}</span></td></tr>"

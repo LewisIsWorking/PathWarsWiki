@@ -8,12 +8,13 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 ## Cheat sheet images
 
-One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.10 (14 Nov 2026).** Version and date are printed in each image's footer.
+One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.11 (14 Nov 2026).** Version and date are printed in each image's footer.
 
 To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERSION` and `DATE`, run `python3 tools/invoked-cheatsheet/build.py` from the repo root, point the links below at the new folder, and add a changelog entry. Older versions stay in their own folders.
 
 ### Changelog
 
+- **v1.11 (14 Nov 2026):** new going-2nd Line S6 "Spenta or Crowley + FIRE/WIND + Grail + Invocation" (untested). The Spenta Invoke Sword line is now S7 and also starts from a Crowley in hand. Natasha's Dragoon plan and the finishers moved to a new **Tips & tricks** list (T1, T2).
 - **v1.10 (14 Nov 2026):** new going-2nd Line S6 "Spenta + FIRE/WIND + Invocation + Invoke Sword" (no Aleister needed; ends on Aeon). Untested. Old S6–S7 are now S7–S8.
 - **v1.9 (14 Nov 2026):** added going-1st Line 12 "No starter: pass with hand traps" for brick hands.
 - **v1.8 (14 Nov 2026):** fixed S3. The old finish needed an Aleister for Oceanus, but the line leaves Aleister unavailable; it now finishes with Invocation → **Aeon from Sorath + Chorozo in the GY** (what won the Solo game), plus an optional Invoke Sword → Raidjin.
@@ -27,31 +28,32 @@ To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERS
 - **v1.0 (14 Nov 2026):** first version. Lines 1–8 plus the "Which line?" picker. Line 1 is Taffy's Baronne branch (Chorozo crafted). Deck: 1 Reminiscent, 2 Aiwass, 2 Spenta, 1 Crowley, 1 Zoroa, Omega + 1 Aeon + De Anima in the Extra Deck.
 - **Planned:** add Elysium to Line 4 and the going-second plan once crafted; add Gamma Summon; recheck lines when Reminiscent #2–3 arrive.
 
-![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-0-which-line.png)
-![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-1.png)
-![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-2.png)
-![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-3.png)
-![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-4.png)
-![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-5.png)
-![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-6.png)
-![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-7.png)
-![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-8.png)
-![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-9.png)
-![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-10.png)
-![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-11.png)
-![invoked-line-12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-12.png)
-![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S1.png)
-![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S2.png)
-![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S3.png)
-![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S4.png)
-![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S5.png)
-![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S6.png)
-![invoked-line-S7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S7.png)
-![invoked-line-S8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.10/invoked-line-S8.png)
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-8.png)
+![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-9.png)
+![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-10.png)
+![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-11.png)
+![invoked-line-12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-12.png)
+![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S1.png)
+![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S2.png)
+![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S3.png)
+![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S4.png)
+![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S5.png)
+![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S6.png)
+![invoked-line-S7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-S7.png)
+![invoked-line-T1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-T1.png)
+![invoked-line-T2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.11/invoked-line-T2.png)
 
 Which line to play:
 
-| Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
+| Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
 | --- | --- | --- |
 | 1st | Aleister + Reminiscent | Line 1 (best) |
 | 1st | Sacred Sword / Meltdown / Aiwass + Reminiscent | Line 2 (best) |
@@ -70,9 +72,10 @@ Which line to play:
 | 2nd | Super Poly: she has an Extra Deck monster + a Spellcaster | Line S3 (best) |
 | 2nd | Aleister or opener + FIRE/WIND + Super Poly | Line S4 (best) |
 | 2nd | Aleister or opener + any card + Super Poly | Line S5 |
-| 2nd | Spenta + FIRE/WIND + Invocation + Invoke Sword (no Aleister) | Line S6 |
-| 2nd | Into Natasha's Dragoon | Line S7 |
-| 2nd | Finish the turn: damage tricks | Line S8 |
+| 2nd | Spenta or Crowley + FIRE/WIND + Grail + Invocation | Line S6 |
+| 2nd | Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword | Line S7 |
+| tips | Going 2nd into Natasha's Dragoon | Line T1 |
+| tips | Finish the turn: damage tricks and attack values | Line T2 |
 
 ## Line 1: Aleister + Reminiscent (going 1st; Sourced: Taffy (MDM), Baronne branch · BEST LINE)
 
@@ -226,7 +229,7 @@ Needs: Aleister, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, +1 spare card.
 
 **End:** Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword
 
-**Remember:** Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Line S8 for the finishers.
+**Remember:** Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Tip T2 for the finishers.
 
 ## Line 6: Opener + FIRE/WIND (going 1st; Sourced: Taffy (MDM) · opener: Dawnstar (MDM))
 
@@ -258,7 +261,7 @@ Needs: Sacred Sword, Meltdown or Aiwass, FIRE/WIND (an Aiwass in hand counts: WI
 
 **End:** Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword
 
-**Remember:** Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Line S8 for the finishers. Sacred Sword: only Fusions can attack this turn. If Sacred Sword opened, an Aiwass in hand is your WIND monster.
+**Remember:** Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Tip T2 for the finishers. Sacred Sword: only Fusions can attack this turn. If Sacred Sword opened, an Aiwass in hand is your WIND monster.
 
 ## Line 7: Aleister + any card (going 1st; Sourced: Taffy (MDM) · weakest line)
 
@@ -517,12 +520,31 @@ Needs: Aleister, Meltdown or Aiwass, Super Poly, +2 spare cards.
 
 **End:** Her best monster gone, about 7,000 damage
 
-## Line S6: Spenta + FIRE/WIND + Invocation + Invoke Sword (going 2nd; Going 2nd · no Aleister needed · UNTESTED, built from card text)
+## Line S6: Spenta or Crowley + FIRE/WIND + Grail + Invocation (going 2nd; Going 2nd · no Aleister needed · UNTESTED, built from card text)
 
-Needs: Spenta (or Crowley), FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, Invocation, Invoke Sword.
+Needs: Spenta or Crowley, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, Grail, Invocation, She has a face-up monster.
 
 **Sorath into Madness**
-1. **Spenta:** discard → search **Crowley** (it summons itself). Crowley + FIRE/WIND (hand) → **Sorath**
+1. **Crowley:** Normal Summon it (or Spenta: discard → search Crowley, it summons itself). Crowley + FIRE/WIND (hand) → **Sorath**
+2. Sorath: revive **Crowley**
+3. Link Crowley + Sorath → **Madness** (counts as Aleister, turns on Grail)
+
+**Take her monster, then Aeon**
+4. **Grail mode 2:** Madness + her face-up monster → by her Attribute: DARK/WATER **Oceanus**, LIGHT/EARTH **Baybarron**, WIND **Raidjin**. (Extra Deck monster of any Attribute → **Omega**)
+5. **Invocation:** that Fusion + Sorath (GY) → **Aeon** (different Attributes)
+6. **Aeon:** banish her 2 other cards
+7. **Battle:** Aeon 3800
+
+**End:** Her whole field gone (up to 3 cards) · Aeon
+
+**Remember:** Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S7 instead if you have Invoke Sword.
+
+## Line S7: Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword (going 2nd; Going 2nd · no Aleister needed · UNTESTED, built from card text)
+
+Needs: Spenta or Crowley, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, Invocation, Invoke Sword.
+
+**Sorath into Madness**
+1. **Spenta:** discard → search **Crowley** (it summons itself). Or Normal Summon Crowley from hand. Crowley + FIRE/WIND (hand) → **Sorath**
 2. Sorath: revive **Crowley**
 3. Link Crowley + Sorath → **Madness** (counts as Aleister on field and in GY)
 
@@ -536,7 +558,7 @@ Needs: Spenta (or Crowley), FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, Invocation, I
 
 **Remember:** TTT goes live if she activates a monster effect on your turn. Crowley counts as Aleister only while face-up, so a Crowley revived by Sorath (negated) doesn't.
 
-## Line S7: Going 2nd into Natasha's Dragoon (going 2nd; Built from card text · practise it)
+## Tip T1: Going 2nd into Natasha's Dragoon (tips & tricks; Built from card text · practise it)
 
 Needs: Aleister route, Super Polymerization, Imperm (ideal).
 
@@ -555,7 +577,7 @@ Needs: Aleister route, Super Polymerization, Imperm (ideal).
 
 **Remember:** Can't hit Timaeus the turn it lands. Ghost Ogre can't touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters.
 
-## Line S8: Going 2nd: finishers (going 2nd; Built from card text · add to the end of any line)
+## Tip T2: Going 2nd: finishers (tips & tricks; Built from card text · add to the end of any line)
 
 Needs: Use whatever you have left.
 

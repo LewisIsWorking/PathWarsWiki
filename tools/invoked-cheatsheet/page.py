@@ -12,7 +12,7 @@ src = src.split("from playwright.sync_api import sync_playwright", 1)[1]
 src = src.split("\nimport os\nos.makedirs", 1)[0]
 ns = {"re": re, "html": html}
 exec("import os, re, html\n" + src.replace("__file__", repr(os.path.join(HERE, "build.py"))), ns)
-LINES, INDEX1, INDEX2, RULES, VERSION, DATE, fmt = (ns[k] for k in ("LINES", "INDEX1", "INDEX2", "RULES", "VERSION", "DATE", "fmt"))
+LINES, INDEX1, INDEX2, INDEX3, RULES, VERSION, DATE, fmt = (ns[k] for k in ("LINES", "INDEX1", "INDEX2", "INDEX3", "RULES", "VERSION", "DATE", "fmt"))
 
 DISCARD = [
     "Dead copies: 2nd Meltdown, an Invoke Sword when another is set, Sacred Sword after you've used one",
@@ -63,7 +63,7 @@ def picks(idx):
     rows = []
     for hand, line, best in idx:
         rows.append(f'<a class="pick{" best" if best else ""}" href="#line-{line.lower()}"><span class="hand">{fmt(hand)}</span>'
-                    f'<span class="go">Line {fmt(line)}</span></a>')
+                    f'<span class="go">{"Tip" if line.startswith("T") else "Line"} {fmt(line)}</span></a>')
     return "".join(rows)
 
 def home_section():
@@ -75,9 +75,11 @@ def home_section():
 <div class="seg" role="tablist">
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
+<button type="button" id="tab-tips" role="tab" data-turn="tips" aria-selected="false">Tips</button>
 </div>
 <div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 10–11 only if you get Drolled, 12 if you bricked</p><div class="picks">{picks(INDEX1)}</div></div>
-<div class="plist" data-turn="2nd" hidden><p class="tag">S1 on her turn. Then S2–S6, strongest first. S7 is for Natasha, S8 adds damage to any line</p><div class="picks">{picks(INDEX2)}</div></div>
+<div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks">{picks(INDEX3)}</div></div>
+<div class="plist" data-turn="2nd" hidden><p class="tag">S1 on her turn. Then S2–S7, strongest first</p><div class="picks">{picks(INDEX2)}</div></div>
 <div class="stage"><h3>Golden rules</h3><ol>{rules}</ol></div>
 <div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol>{disc}</ol>
 <p class="keep"><b>Keep:</b> {fmt(KEEP)}</p></div>
@@ -152,8 +154,8 @@ table.attr{width:100%;border-collapse:collapse;font-size:15px}
 .at-fire{background:#5a2214;color:#ffb39a}.at-wind{background:#163f2b;color:#9ff0c0}.at-earth{background:#43361a;color:#f2d79a}
 .at-light{background:#46421c;color:#fff2a6}.at-dark{background:#2e2147;color:#d6c0ff}
 a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.seg{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
-.seg button{min-height:44px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
+.seg{display:grid;grid-template-columns:1fr 1fr auto;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
+.seg button{min-height:44px;padding:0 14px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
 .seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
 .seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .strip .lbl{font-size:11px;font-weight:800;letter-spacing:.06em;color:var(--muted);text-transform:uppercase;width:30px}
@@ -165,10 +167,13 @@ def build():
     ids = [L["id"] for L in LINES]
     first = [L["id"] for L in LINES if L.get("when") == "1st"]
     second = [L["id"] for L in LINES if L.get("when") == "2nd"]
+    tips = [L["id"] for L in LINES if L.get("when") == "tips"]
     strip = ('<div class="row"><span class="lbl">1st</span><a class="home" href="#">?</a>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in first) + '</div>' +
              '<div class="row"><span class="lbl">2nd</span>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in second) +
+             '</div><div class="row"><span class="lbl">Tips</span>' +
+             "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in tips) +
              f'<span class="ver">v{VERSION} · {DATE}</span></div>')
     body = "\n".join([home_section()] + [line_section(L, ids) for L in LINES])
     js = """
@@ -220,7 +225,9 @@ def sync_wiki():
     s = open(p).read()
     gen = []
     for L in LINES:
-        gen.append(f"## Line {L['id']}: {L['title']} (going {L.get('when')}; {L['tag']})\n\nNeeds: {', '.join(L['needs'])}.\n")
+        kind = "Tip" if L.get("when") == "tips" else "Line"
+        when = "tips & tricks" if L.get("when") == "tips" else f"going {L.get('when')}"
+        gen.append(f"## {kind} {L['id']}: {L['title']} ({when}; {L['tag']})\n\nNeeds: {', '.join(L['needs'])}.\n")
         n = 1
         for name, steps in L["stages"]:
             gen.append(f"\n**{name}**\n")
@@ -234,7 +241,7 @@ def sync_wiki():
     s = s[:a] + "".join(gen) + s[b:]
     a = s.index("| Your hand has | Play |"); b = s.index("\n\n", a)
     table = "| Going | Your hand has | Play |\n| --- | --- | --- |\n" + "\n".join(
-        f"| {w} | {h} | Line {l}{' (best)' if best else ''} |" for w, idx in (("1st", INDEX1), ("2nd", INDEX2)) for h, l, best in idx)
+        f"| {w} | {h} | Line {l}{' (best)' if best else ''} |" for w, idx in (("1st", INDEX1), ("2nd", INDEX2), ("tips", INDEX3)) for h, l, best in idx)
     s = s[:a] + table + s[b:]
     s = re.sub(r"!\[invoked-line-[^\]]+\]\([^)]*\)\n?", "", s)
     base = f"https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v{VERSION}/"
