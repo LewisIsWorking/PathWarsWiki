@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.9"
+VERSION = "1.10"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -358,15 +358,31 @@ S3C = dict(title="Super Poly into Chorozo: steal 2", tag="Going 2nd · found by 
   end="Her 2 monsters gone + 3 more of her cards removed · Aeon · Baronne · Crowley or Raidjin",
   memo="Aeon needs no Aleister: 2 Fusions with different Attributes from your GY are enough. Exosister and Dark Magician decks are full of Spellcasters.")
 
-SECOND = [S1, S2, S3C, S3, S4, _by["10"], _by["11"]]
-SECOND[5] = copy.deepcopy(SECOND[5]); SECOND[6] = copy.deepcopy(SECOND[6])
-SECOND[6]["memo"] = "Every going-2nd line already includes these where they fit."
+S5B = dict(title="Spenta + FIRE/WIND + Invocation + Invoke Sword", tag="Going 2nd · no Aleister needed · UNTESTED, built from card text",
+  needs=["Spenta (or Crowley)", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Invocation", "Invoke Sword"],
+  stages=[
+   ("Sorath into Madness", [
+    "**Spenta:** discard → search **Crowley** (it summons itself). Crowley + FIRE/WIND (hand) → **Sorath**",
+    "Sorath: revive **Crowley**",
+    "Link Crowley + Sorath → **Madness** (counts as Aleister on field and in GY)"]),
+   ("Aeon", [
+    "**Invocation:** Madness + Sorath (GY) → **Baybarron**: search **Virakam**, SKIP the banish",
+    "**Invoke Sword:** Baybarron + Sorath (banished) → **Aeon** (FIRE + LIGHT)",
+    "**Aeon:** banish her best monster + 1 more of her cards",
+    "**Battle:** Aeon 3800"]),
+  ],
+  end="Aeon · her 2 best cards banished",
+  memo="TTT goes live if she activates a monster effect on your turn. Crowley counts as Aleister only while face-up, so a Crowley revived by Sorath (negated) doesn't.")
+
+SECOND = [S1, S2, S3C, S3, S4, S5B, _by["10"], _by["11"]]
+SECOND[6] = copy.deepcopy(SECOND[6]); SECOND[7] = copy.deepcopy(SECOND[7])
+SECOND[7]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
     _L["id"] = "S" + str(_i)
     _L["when"] = "2nd"
 for _L in FIRST:
     if _L.get("memo"):
-        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Line S7 for the finishers")
+        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Line S8 for the finishers")
 
 LINES = FIRST + SECOND
 
@@ -390,8 +406,9 @@ INDEX2 = [
  ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S3", True),
  ("Aleister or opener + FIRE/WIND + Super Poly", "S4", True),
  ("Aleister or opener + any card + Super Poly", "S5", False),
- ("Into Natasha's Dragoon", "S6", False),
- ("Finish the turn: damage tricks", "S7", False),
+ ("Spenta + FIRE/WIND + Invocation + Invoke Sword (no Aleister)", "S6", False),
+ ("Into Natasha's Dragoon", "S7", False),
+ ("Finish the turn: damage tricks", "S8", False),
 ]
 INDEX = INDEX1
 RULES = [
