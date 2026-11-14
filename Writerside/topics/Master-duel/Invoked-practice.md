@@ -154,3 +154,23 @@ Meltdown (search Aleister) and Aiwass from hand (banish to search Aleister) open
 - **Super Poly from a set position is best on her turn after she has 2+ Fusions:** fuse them into your Aeon.
 - **Ghost Ogre can't destroy Shining Sarcophagus** (it can't be destroyed by monster effects).
 - **Timer:** send the screenshot at the start of the turn; under 30 seconds, act on your own read.
+
+### Game log: Planet Run vs Invoked mirror, went first (14 Nov 2026)
+
+Hand: Ghost Ogre, Fuwalos, Crowley, Sacred Spirit Sword, Sword. Imperm'd Aleister's search.
+
+Mistakes (Claude's calls):
+1. **Didn't say "skip Baybarron's banish".** Baybarron's on-summon banish hit Madness in our GY, so Virakam had no Aleister to enable it and the planned Invocation → Mechaba was lost. **Rule: every Baybarron step says "skip the banish" unless a target is named.**
+2. **Planned a Link (Little Knight) with Oceanus in the Extra Monster Zone.** Links need the Extra Monster Zone or a zone a Link points to; with Oceanus there and no Link arrows, the game demanded Oceanus as material. **Rule: before any Link, check a legal zone exists.**
+3. **Line changed mid-combo** (Aiwass GY summon, then Oceanus early) without re-checking what each later step needed (Aleister in GY for Virakam).
+
+What went right: Sword using the banished Aiwass (WIND) as material after Imperm stopped the search.
+
+## Checklist before giving any line
+
+1. Read both GYs, both banishment zones, and every face-up card (e.g. their Meltdown).
+2. For each step, check what it needs (Aleister on field/GY? discard? free zone?) and that an earlier step doesn't remove it.
+3. Every optional banish/search: say exactly what to pick, or "skip".
+4. Links: confirm a legal zone. Fusions from the Extra Deck can go to Main Monster Zones; Links can't.
+5. Name which card is the discard for Mechaba / Super Poly.
+6. After every game: add mistakes and fixes to this page.
