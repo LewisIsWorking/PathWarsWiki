@@ -8,12 +8,13 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 ## Cheat sheet images
 
-One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.4 (14 Nov 2026).** Version and date are printed in each image's footer.
+One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.5 (14 Nov 2026).** Version and date are printed in each image's footer.
 
 To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERSION` and `DATE`, run `python3 tools/invoked-cheatsheet/build.py` from the repo root, point the links below at the new folder, and add a changelog entry. Older versions stay in their own folders.
 
 ### Changelog
 
+- **v1.5 (14 Nov 2026):** split into **Going 1st** (Lines 1–11) and **Going 2nd** (Lines S1–S6). New going-2nd lines: S1 hand-trap timing on her turn, S2 Reminiscent line kept for 13,300 damage, S3/S4 with **Super Poly** built in. Names standardised: **Invoke Sword** (Invocation "Sword") and **Sacred Sword** (Sacred Spirit Sword Aiwass). `page.py` now also rewrites the line sections and hand table on this page.
 - **v1.4 (14 Nov 2026):** every hand now has its own complete line, with no "continue from Line X". The opener (Sacred Spirit Sword / Meltdown / Aiwass) is built into Lines 2, 6 and 8. 13 lines. Line sections on this page are now generated from the same data as the images and phone page.
 - **v1.3 (14 Nov 2026):** lines renumbered so the picker reads 1 → 11 top to bottom (old numbers: 4→1, 6→2, 3→3, 5→4, 1→5, 2→6, 7→7, 9→8, 10→9, 8→10, 11→11). The two opener rows are merged into Line 2. Entries below have been updated to the new numbers.
 - **v1.2 (14 Nov 2026):** added Line 8 (Aleister got Drolled) and Line 9 (Reminiscent got Drolled) from Taffy, both now possible with Chorozo; Line 11 going-second finishers (spare Sword → Omega, Super Poly with Madness, damage tricks, attack values). Line 5 notes the Omega finish.
@@ -21,46 +22,54 @@ To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERS
 - **v1.0 (14 Nov 2026):** first version. Lines 1–8 plus the "Which line?" picker. Line 1 is Taffy's Baronne branch (Chorozo crafted). Deck: 1 Reminiscent, 2 Aiwass, 2 Spenta, 1 Crowley, 1 Zoroa, Omega + 1 Aeon + De Anima in the Extra Deck.
 - **Planned:** add Elysium to Line 4 and the going-second plan once crafted; add Gamma Summon; recheck lines when Reminiscent #2–3 arrive.
 
-![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-0-which-line.png)
-![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-1.png)
-![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-2.png)
-![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-3.png)
-![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-4.png)
-![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-5.png)
-![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-6.png)
-![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-7.png)
-![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-8.png)
-![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-9.png)
-![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-10.png)
-![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-11.png)
-![invoked-line-12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-12.png)
-![invoked-line-13](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.4/invoked-line-13.png)
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-8.png)
+![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-9.png)
+![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-10.png)
+![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-11.png)
+![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S1.png)
+![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S2.png)
+![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S3.png)
+![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S4.png)
+![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S5.png)
+![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S6.png)
 
 Which line to play:
 
-| Your hand has | Play |
-| --- | --- |
-| Aleister + Reminiscent | Line 1 (best) |
-| Sacred Spirit Sword / Meltdown / Aiwass + Reminiscent | Line 2 (best) |
-| Reminiscent alone | Line 3 |
-| Crowley or Spenta + Reminiscent + FIRE/WIND | Line 4 |
-| Aleister + Ash / Droll / Fuwalos / Zoroa | Line 5 |
-| Sacred Spirit Sword / Meltdown / Aiwass + FIRE/WIND | Line 6 |
-| Aleister + any card | Line 7 |
-| Sacred Spirit Sword / Meltdown / Aiwass + any card | Line 8 |
-| Zoroa or Spenta, no Aleister | Line 9 |
-| Got Drolled after Aleister's search | Line 10 |
-| Got Drolled after Reminiscent's search | Line 11 |
-| Going 2nd into Dragoon | Line 12 |
-| Going 2nd: finish the turn | Line 13 |
+| Going | Your hand has | Play |
+| --- | --- | --- |
+| 1st | Aleister + Reminiscent | Line 1 (best) |
+| 1st | Sacred Sword / Meltdown / Aiwass + Reminiscent | Line 2 (best) |
+| 1st | Reminiscent alone | Line 3 |
+| 1st | Crowley or Spenta + Reminiscent + FIRE/WIND | Line 4 |
+| 1st | Aleister + Ash / Droll / Fuwalos / Zoroa | Line 5 |
+| 1st | Sacred Sword / Meltdown / Aiwass + FIRE/WIND | Line 6 |
+| 1st | Aleister + any card | Line 7 |
+| 1st | Sacred Sword / Meltdown / Aiwass + any card | Line 8 |
+| 1st | Zoroa or Spenta, no Aleister | Line 9 |
+| 1st | Got Drolled after Aleister's search | Line 10 |
+| 1st | Got Drolled after Reminiscent's search | Line 11 |
+| 2nd | Her turn first: which hand trap, when | Line S1 |
+| 2nd | Aleister or opener + Reminiscent | Line S2 (best) |
+| 2nd | Aleister or opener + FIRE/WIND + Super Poly | Line S3 (best) |
+| 2nd | Aleister or opener + any card + Super Poly | Line S4 |
+| 2nd | Into Natasha's Dragoon | Line S5 |
+| 2nd | Finish the turn: damage tricks | Line S6 |
 
-## Line 1: Aleister + Reminiscent (Sourced: Taffy (MDM), Baronne branch · BEST LINE)
+## Line 1: Aleister + Reminiscent (going 1st; Sourced: Taffy (MDM), Baronne branch · BEST LINE)
 
-Needs: Aleister (or Meltdown / Aiwass / Sacred Spirit Sword), Reminiscent, +1 spare card.
+Needs: Aleister (or Meltdown / Aiwass / Sacred Sword), Reminiscent, +1 spare card.
 
 **1 · Two Links into Crowley**
 1. Normal Summon Aleister → search **Invocation**
-2. Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Sword**
+2. Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Invoke Sword**
 3. Link Aleister → **Artemis**
 4. Link Artemis + Reminiscent → **Endymion**, equip Artemis
 5. Artemis: search **Crowley** (summons itself). DON'T FUSE
@@ -68,8 +77,8 @@ Needs: Aleister (or Meltdown / Aiwass / Sacred Spirit Sword), Reminiscent, +1 sp
 **2 · Chorozo, Baybarron, Sorath**
 6. Endymion + Artemis → **Chorozo** (contact fusion)
 7. Invocation: Aleister + Artemis (GY) → **Baybarron**, search **Virakam**, skip banish
-8. Special Summon Virakam → set **Sword**
-9. Sword (hand): Aleister + Raidjin (banished) → **Sorath**
+8. Special Summon Virakam → set **Invoke Sword**
+9. Invoke Sword (hand): Aleister + Raidjin (banished) → **Sorath**
 
 **3 · Baronne and Madness**
 10. Link Baybarron + Crowley → **Madness**
@@ -80,25 +89,25 @@ Needs: Aleister (or Meltdown / Aiwass / Sacred Spirit Sword), Reminiscent, +1 sp
 13. Sorath GY: Sorath + Baybarron + Raidjin → **Aeon**
 14. Chain: Madness (discard spare → **Invocation**) + Aeon (banish up to 3, then pick 3 from her Extra Deck)
 15. Link Aeon + Crowley → **Little Knight**
-16. Sword GY: add Invocation
+16. Invoke Sword GY: add Invocation
 17. Invocation: Aleister + Endymion (GY) → **Mechaba**
 18. Invocation: Madness + Crowley → **Oceanus** (Extra Monster Zone)
 19. Invocation GY: add a banished Aleister
 
-**End:** Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Sword · Aleister in hand · up to 6 of hers banished
+**End:** Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Invoke Sword · Aleister in hand · up to 6 of hers banished
 
-**Remember:** Raidjin used 3× (cost → Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus).
+**Remember:** Raidjin used 3× (cost → Invoke Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus).
 
-## Line 2: Opener + Reminiscent (Sourced: Taffy (MDM), Baronne branch · BEST LINE · opener: Dawnstar (MDM))
+## Line 2: Opener + Reminiscent (going 1st; Sourced: Taffy (MDM), Baronne branch · BEST LINE · opener: Dawnstar (MDM))
 
-Needs: Sacred Spirit Sword, Meltdown or Aiwass, Reminiscent, +1 spare card.
+Needs: Sacred Sword, Meltdown or Aiwass, Reminiscent, +1 spare card.
 
 **Get Aleister**
-1. **Sacred Spirit Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister
+1. **Sacred Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister
 
 **1 · Two Links into Crowley**
 2. Normal Summon Aleister → search **Invocation**
-3. Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Sword**
+3. Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Invoke Sword**
 4. Link Aleister → **Artemis**
 5. Link Artemis + Reminiscent → **Endymion**, equip Artemis
 6. Artemis: search **Crowley** (summons itself). DON'T FUSE
@@ -106,8 +115,8 @@ Needs: Sacred Spirit Sword, Meltdown or Aiwass, Reminiscent, +1 spare card.
 **2 · Chorozo, Baybarron, Sorath**
 7. Endymion + Artemis → **Chorozo** (contact fusion)
 8. Invocation: Aleister + Artemis (GY) → **Baybarron**, search **Virakam**, skip banish
-9. Special Summon Virakam → set **Sword**
-10. Sword (hand): Aleister + Raidjin (banished) → **Sorath**
+9. Special Summon Virakam → set **Invoke Sword**
+10. Invoke Sword (hand): Aleister + Raidjin (banished) → **Sorath**
 
 **3 · Baronne and Madness**
 11. Link Baybarron + Crowley → **Madness**
@@ -118,25 +127,25 @@ Needs: Sacred Spirit Sword, Meltdown or Aiwass, Reminiscent, +1 spare card.
 14. Sorath GY: Sorath + Baybarron + Raidjin → **Aeon**
 15. Chain: Madness (discard spare → **Invocation**) + Aeon (banish up to 3, then pick 3 from her Extra Deck)
 16. Link Aeon + Crowley → **Little Knight**
-17. Sword GY: add Invocation
+17. Invoke Sword GY: add Invocation
 18. Invocation: Aleister + Endymion (GY) → **Mechaba**
 19. Invocation: Madness + Crowley → **Oceanus** (Extra Monster Zone)
 20. Invocation GY: add a banished Aleister
 
-**End:** Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Sword · Aleister in hand · up to 6 of hers banished
+**End:** Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Invoke Sword · Aleister in hand · up to 6 of hers banished
 
-**Remember:** Raidjin used 3× (cost → Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus). Sacred Spirit Sword: only Fusions can attack this turn.
+**Remember:** Raidjin used 3× (cost → Invoke Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus). Sacred Sword: only Fusions can attack this turn.
 
-## Line 3: Reminiscent alone (Sourced: Taffy (MDM))
+## Line 3: Reminiscent alone (going 1st; Sourced: Taffy (MDM))
 
 Needs: Reminiscent, +1 spare card.
 
 **Raidjin loop into Sorath**
-1. Normal Summon Reminiscent: banish **Raidjin** (Extra Deck) → search **Sword**
-2. Sword: Reminiscent + Raidjin (banished) → **Sorath**
+1. Normal Summon Reminiscent: banish **Raidjin** (Extra Deck) → search **Invoke Sword**
+2. Invoke Sword: Reminiscent + Raidjin (banished) → **Sorath**
 3. Sorath: revive Reminiscent
 4. Link Reminiscent → **Artemis**
-5. Sword GY: add Reminiscent to hand
+5. Invoke Sword GY: add Reminiscent to hand
 6. Reminiscent (hand): target Sorath → Special Summon itself
 
 **Crowley into Baybarron**
@@ -144,7 +153,7 @@ Needs: Reminiscent, +1 spare card.
 8. Artemis: search **Crowley** (it summons itself)
 9. Crowley: Crowley + Endymion → **Baybarron**
 10. Baybarron: search **Virakam**, SKIP the banish
-11. Special Summon Virakam → set **Sword**
+11. Special Summon Virakam → set **Invoke Sword**
 
 **Aeon finish**
 12. Link Sorath + Baybarron → **Madness**
@@ -153,33 +162,33 @@ Needs: Reminiscent, +1 spare card.
 15. Link Aeon + Virakam → **Little Knight**
 16. Invocation: Madness + Aeon (GY) → **Oceanus** (Extra Monster Zone)
 
-**End:** Oceanus (EMZ) · Little Knight · set Sword · up to 6 of hers banished
+**End:** Oceanus (EMZ) · Little Knight · set Invoke Sword · up to 6 of hers banished
 
-## Line 4: Crowley or Spenta + Reminiscent + FIRE/WIND (Sourced: Taffy (MDM))
+## Line 4: Crowley or Spenta + Reminiscent + FIRE/WIND (going 1st; Sourced: Taffy (MDM))
 
 Needs: Crowley (Normal Summon) or Spenta (discard → Crowley), Reminiscent, FIRE/WIND monster, +1 spare card.
 
 **Sorath and Madness**
 1. Crowley: Crowley + FIRE/WIND (hand) → **Sorath**
 2. Sorath: revive Crowley
-3. Reminiscent: target Sorath, summon itself; banish **Raidjin** → search **Sword**
+3. Reminiscent: target Sorath, summon itself; banish **Raidjin** → search **Invoke Sword**
 4. Link Reminiscent + Sorath → **Madness**
 5. Sorath GY: Reminiscent + Sorath → **Baybarron**
 6. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**)
 
 **Aeon finish**
 7. Link Baybarron + Crowley → **Little Knight**: banish Baybarron from your GY
-8. Special Summon Virakam → set **Sword**
-9. Sword: Baybarron + Sorath + Raidjin (banished) → **Aeon**
+8. Special Summon Virakam → set **Invoke Sword**
+9. Invoke Sword: Baybarron + Sorath + Raidjin (banished) → **Aeon**
 10. Aeon: banish up to 3 of hers, then pick 3 from her Extra Deck
-11. Sword GY: add Invocation
+11. Invoke Sword GY: add Invocation
 12. Invocation: Crowley + Madness → **Oceanus** (Extra Monster Zone)
 
-**End:** Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Sword
+**End:** Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Invoke Sword
 
 **Remember:** Taffy makes Elysium after Aeon. Add that step once you own Elysium.
 
-## Line 5: Aleister + FIRE/WIND (Sourced: Taffy (MDM))
+## Line 5: Aleister + FIRE/WIND (going 1st; Sourced: Taffy (MDM))
 
 Needs: Aleister, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, +1 spare card.
 
@@ -196,7 +205,7 @@ Needs: Aleister, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, +1 spare card.
 8. Artemis: search **Crowley** (it summons itself)
 9. Crowley: Crowley + Endymion → **Baybarron**
 10. Baybarron: search **Virakam**, SKIP the banish
-11. Special Summon Virakam → set **Sword**
+11. Special Summon Virakam → set **Invoke Sword**
 
 **Finish**
 12. Link Sorath + Baybarron → **Madness**
@@ -204,16 +213,16 @@ Needs: Aleister, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, +1 spare card.
 14. Madness: discard spare → search **Invocation**
 15. Invocation: Madness + Crowley (GY) → **Oceanus** (Extra Monster Zone)
 
-**End:** Oceanus (EMZ) · Mechaba · Virakam · set Sword
+**End:** Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword
 
-**Remember:** Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 13 for the finishers.
+**Remember:** Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Line S6 for the finishers.
 
-## Line 6: Opener + FIRE/WIND (Sourced: Taffy (MDM) · opener: Dawnstar (MDM))
+## Line 6: Opener + FIRE/WIND (going 1st; Sourced: Taffy (MDM) · opener: Dawnstar (MDM))
 
-Needs: Sacred Spirit Sword, Meltdown or Aiwass, FIRE/WIND (an Aiwass in hand counts: WIND), +1 spare card.
+Needs: Sacred Sword, Meltdown or Aiwass, FIRE/WIND (an Aiwass in hand counts: WIND), +1 spare card.
 
 **Get Aleister**
-1. **Sacred Spirit Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister
+1. **Sacred Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister
 
 **Get Sorath**
 2. Normal Summon Aleister → search **Invocation**
@@ -228,7 +237,7 @@ Needs: Sacred Spirit Sword, Meltdown or Aiwass, FIRE/WIND (an Aiwass in hand cou
 9. Artemis: search **Crowley** (it summons itself)
 10. Crowley: Crowley + Endymion → **Baybarron**
 11. Baybarron: search **Virakam**, SKIP the banish
-12. Special Summon Virakam → set **Sword**
+12. Special Summon Virakam → set **Invoke Sword**
 
 **Finish**
 13. Link Sorath + Baybarron → **Madness**
@@ -236,11 +245,11 @@ Needs: Sacred Spirit Sword, Meltdown or Aiwass, FIRE/WIND (an Aiwass in hand cou
 15. Madness: discard spare → search **Invocation**
 16. Invocation: Madness + Crowley (GY) → **Oceanus** (Extra Monster Zone)
 
-**End:** Oceanus (EMZ) · Mechaba · Virakam · set Sword
+**End:** Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword
 
-**Remember:** Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 13 for the finishers. Sacred Spirit Sword: only Fusions can attack this turn. If Sacred Spirit Sword opened, an Aiwass in hand is your WIND monster.
+**Remember:** Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Line S6 for the finishers. Sacred Sword: only Fusions can attack this turn. If Sacred Sword opened, an Aiwass in hand is your WIND monster.
 
-## Line 7: Aleister + any card (Sourced: Taffy (MDM) · weakest line)
+## Line 7: Aleister + any card (going 1st; Sourced: Taffy (MDM) · weakest line)
 
 Needs: Aleister, +1 spare card.
 
@@ -256,18 +265,18 @@ Needs: Aleister, +1 spare card.
 7. Link Aleister + Sorath → **Madness**
 8. Sorath GY: Sorath + Aleister → **Baybarron**
 9. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**, skip banish)
-10. Special Summon Virakam → set **Sword**
+10. Special Summon Virakam → set **Invoke Sword**
 11. Link Virakam + Baybarron → **Little Knight**
 12. Invocation: Madness + Virakam → **Mechaba**
 
-**End:** Little Knight · Mechaba · set Sword
+**End:** Little Knight · Mechaba · set Invoke Sword
 
-## Line 8: Opener + any card (Sourced: Taffy (MDM) · weakest line · opener: Dawnstar (MDM))
+## Line 8: Opener + any card (going 1st; Sourced: Taffy (MDM) · weakest line · opener: Dawnstar (MDM))
 
-Needs: Sacred Spirit Sword, Meltdown or Aiwass, +1 spare card.
+Needs: Sacred Sword, Meltdown or Aiwass, +1 spare card.
 
 **Get Aleister**
-1. **Sacred Spirit Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister
+1. **Sacred Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister
 
 **Get Sorath**
 2. Normal Summon Aleister → search **Invocation**
@@ -281,15 +290,15 @@ Needs: Sacred Spirit Sword, Meltdown or Aiwass, +1 spare card.
 8. Link Aleister + Sorath → **Madness**
 9. Sorath GY: Sorath + Aleister → **Baybarron**
 10. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**, skip banish)
-11. Special Summon Virakam → set **Sword**
+11. Special Summon Virakam → set **Invoke Sword**
 12. Link Virakam + Baybarron → **Little Knight**
 13. Invocation: Madness + Virakam → **Mechaba**
 
-**End:** Little Knight · Mechaba · set Sword
+**End:** Little Knight · Mechaba · set Invoke Sword
 
-**Remember:** Sacred Spirit Sword: only Fusions can attack this turn.
+**Remember:** Sacred Sword: only Fusions can attack this turn.
 
-## Line 9: Zoroa or Spenta, no Aleister (UNTESTED · built from card text)
+## Line 9: Zoroa or Spenta, no Aleister (going 1st; UNTESTED · built from card text)
 
 Needs: Zoroa, or Spenta (discard → Zoroa).
 
@@ -303,7 +312,7 @@ Needs: Zoroa, or Spenta (discard → Zoroa).
 
 **End:** 1 Fusion + a spare body. Turns a brick into a board.
 
-## Line 10: Aleister got Drolled (Sourced: Taffy (MDM) · needs Chorozo)
+## Line 10: Aleister got Drolled (going 1st; Sourced: Taffy (MDM) · needs Chorozo)
 
 Needs: Aleister, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa.
 
@@ -319,16 +328,16 @@ Needs: Aleister, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa.
 
 **End:** Baronne · Mechaba
 
-## Line 11: Reminiscent got Drolled (Sourced: Taffy (MDM) · needs Chorozo)
+## Line 11: Reminiscent got Drolled (going 1st; Sourced: Taffy (MDM) · needs Chorozo)
 
 Needs: Reminiscent.
 
 **No more searches needed**
-1. Normal Summon Reminiscent: banish **Raidjin** → search **Sword** (Droll hits after this)
-2. Sword: Reminiscent + Raidjin (banished) → **Sorath**
+1. Normal Summon Reminiscent: banish **Raidjin** → search **Invoke Sword** (Droll hits after this)
+2. Invoke Sword: Reminiscent + Raidjin (banished) → **Sorath**
 3. Sorath: revive Reminiscent
 4. Link Reminiscent → **Artemis**
-5. Sword GY: add Reminiscent (from GY, Droll can't stop it)
+5. Invoke Sword GY: add Reminiscent (from GY, Droll can't stop it)
 6. Reminiscent: target Sorath → Special Summon itself
 7. Reminiscent + Artemis → **Chorozo**
 8. Synchro: Chorozo + Sorath → **Baronne de Fleur**
@@ -336,7 +345,119 @@ Needs: Reminiscent.
 
 **End:** Baronne · Aeon · up to 6 of hers banished
 
-## Line 12: Going 2nd into Natasha's Dragoon (Built from card text · practise it)
+## Line S1: Her turn: your hand traps (going 2nd; Going 2nd · card text)
+
+Needs: Whatever hand traps you hold.
+
+**Timing**
+1. **Maxx "C":** on her first Special Summon. Draw 1 for every Special Summon this turn
+2. **Ash:** on an effect that searches, sends from her Deck, or summons from her Deck
+3. **Droll:** right after her first search, so the rest are blocked. Not in the same turn as Fuwalos
+4. **Imperm** (from hand, you control no cards): her starter monster on the field
+5. **Fuwalos:** early in her Main Phase, only while you control no cards
+6. **Ghost Belle:** her GY effects. **Ghost Ogre:** a card effect on the field (never Shining Sarcophagus)
+7. **Nibiru:** after her 5th summon this turn
+
+**End:** Keep Super Poly for your turn
+
+**Remember:** Her deck tells you the order: search-heavy → Droll; summon-heavy → Maxx "C".
+
+## Line S2: Aleister or opener + Reminiscent (going 2nd; Going 2nd · Taffy's Line 1 with going-2nd changes (marked))
+
+Needs: Aleister, Meltdown or Aiwass, Reminiscent, +1 spare card.
+
+**Get Aleister**
+1. Aleister in hand → Normal Summon it. Otherwise **Meltdown** or **Aiwass from hand** → search Aleister. (Sacred Sword also works, but then only Fusions can attack)
+
+**1 · Two Links into Crowley**
+2. Normal Summon Aleister → search **Invocation**
+3. Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Invoke Sword**
+4. Link Aleister → **Artemis**
+5. Link Artemis + Reminiscent → **Endymion**, equip Artemis
+6. Artemis: search **Crowley** (summons itself). DON'T FUSE
+
+**2 · Chorozo, Baybarron, Sorath**
+7. Endymion + Artemis → **Chorozo** (contact fusion)
+8. Invocation: Aleister + Artemis (GY) → **Baybarron**, search **Virakam**, skip banish
+9. Special Summon Virakam → set **Invoke Sword**
+10. Invoke Sword (hand): Aleister + Raidjin (banished) → **Sorath**
+
+**3 · Baronne and Madness**
+11. Link Baybarron + Crowley → **Madness**
+12. Sorath: revive Crowley
+13. Synchro: Chorozo + Sorath → **Baronne de Fleur**
+
+**4 · Aeon finish**
+14. Sorath GY: Sorath + Baybarron + Raidjin → **Aeon**
+15. Chain: Madness (discard spare → **Invocation**) + Aeon: banish her **3 best cards on the field**, then pick 3 from her Extra Deck
+16. **Going-2nd change:** don't make Little Knight. Keep **Aeon** to attack
+17. Invoke Sword GY: add Invocation
+18. Invocation: Aleister + Endymion (GY) → **Mechaba**
+19. Invocation: Madness + Crowley (both on field) → **Oceanus** (Extra Monster Zone)
+20. **Baronne:** destroy 1 more of her cards (targets)
+21. **Battle:** Aeon 3800 + Baronne 3000 + Oceanus 3000 + Mechaba 2500 + Virakam 1000 = **13,300**
+
+**End:** Her field cleared, 13,300 damage if nothing stops it
+
+**Remember:** Open with Meltdown or Aiwass from hand, not Sacred Sword. After Sacred Sword only Fusions can attack, so Baronne and Virakam couldn't.
+
+## Line S3: Aleister or opener + FIRE/WIND + Super Poly (going 2nd; Going 2nd · Taffy's Aleister line + Super Poly (card text))
+
+Needs: Aleister, Meltdown or Aiwass, FIRE/WIND: Ash, Droll, Fuwalos, Zoroa, Super Poly, +2 spare cards.
+
+**Get Aleister**
+1. Aleister in hand → Normal Summon it. Otherwise **Meltdown** or **Aiwass from hand** → search Aleister. (Sacred Sword also works, but then only Fusions can attack)
+
+**Get Sorath**
+2. Normal Summon Aleister → search **Invocation**
+3. Link Aleister → **Artemis**
+4. Invocation: Aleister (GY) + FIRE/WIND (hand) → **Sorath**
+5. Invocation GY: add the banished Aleister
+6. Discard Aleister on Sorath → Sorath revives Aleister
+
+**Crowley into Baybarron**
+7. Link Aleister + Artemis → **Endymion**, equip Artemis
+8. Artemis: search **Crowley** (it summons itself)
+9. Crowley + Endymion → **Baybarron**: search **Virakam**, SKIP the banish
+10. Special Summon Virakam → set **Invoke Sword**
+
+**Break her board**
+11. Link Sorath + Baybarron → **Madness**
+12. Sorath GY: Sorath + Aleister → **Mechaba**. Madness: discard spare → search **Invocation**
+13. **Super Poly** (discard spare): Madness + her best monster → by her Attribute: DARK/WATER **Oceanus**, LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**
+14. Invocation: Madness (GY) + Crowley (GY) → **Oceanus** (EMZ). If Super Poly made Oceanus, keep this Invocation
+15. **Invoke Sword in hand** (Omega in Extra Deck): Aleister + Sorath (banished) → **Omega** → banish another of her monsters
+16. **Battle:** Oceanus 3000 + Mechaba 2500 + Super Poly Fusion (+ Omega 2800, + Virakam 1000 if no Sacred Sword)
+
+**End:** Her best monster gone, 5,500+ damage
+
+**Remember:** Super Poly MUST come before Invocation uses Madness. Once activated, Super Poly can't be cancelled.
+
+## Line S4: Aleister or opener + any card + Super Poly (going 2nd; Going 2nd · Taffy's weakest line + Super Poly (card text))
+
+Needs: Aleister, Meltdown or Aiwass, Super Poly, +2 spare cards.
+
+**Get Aleister**
+1. Aleister in hand → Normal Summon it. Otherwise **Meltdown** or **Aiwass from hand** → search Aleister. (Sacred Sword also works, but then only Fusions can attack)
+
+**Get Sorath**
+2. Normal Summon Aleister → search **Invocation**
+3. Link Aleister → **Almiraj**
+4. Invocation: Aleister + Almiraj → **Sorath**
+5. Invocation GY: add the banished Aleister
+6. Discard Aleister on Sorath → Sorath revives Aleister
+
+**Break her board**
+7. Link Aleister + Sorath → **Madness**
+8. Sorath GY: Sorath + Aleister → **Baybarron**. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**, skip banish)
+9. Special Summon Virakam → set **Invoke Sword**
+10. **Super Poly** (discard spare): Madness + her best monster → by her Attribute: DARK/WATER **Oceanus**, LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**
+11. Invocation: Madness (GY) + Virakam → **Mechaba**
+12. **Battle:** Baybarron 2450 + Mechaba 2500 + Super Poly Fusion
+
+**End:** Her best monster gone, about 7,000 damage
+
+## Line S5: Going 2nd into Natasha's Dragoon (going 2nd; Built from card text · practise it)
 
 Needs: Aleister route, Super Polymerization, Imperm (ideal).
 
@@ -355,12 +476,12 @@ Needs: Aleister route, Super Polymerization, Imperm (ideal).
 
 **Remember:** Can't hit Timaeus the turn it lands. Ghost Ogre can't touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters.
 
-## Line 13: Going 2nd: finishers (Built from card text · add to the end of any line)
+## Line S6: Going 2nd: finishers (going 2nd; Built from card text · add to the end of any line)
 
 Needs: Use whatever you have left.
 
 **Remove her blocker**
-1. **Sword in hand** (Omega in Extra Deck): Aleister + a Fusion (both banished) → **Omega** → banish her monster
+1. **Invoke Sword in hand** (Omega in Extra Deck): Aleister + a Fusion (both banished) → **Omega** → banish her monster
 2. **Super Poly:** Madness (counts as Aleister) + her monster → Fusion by her Attribute: LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**, DARK/WATER **Oceanus**
 3. Do Super Poly BEFORE Invocation uses Madness. Invocation can still use Madness from the GY
 
@@ -374,6 +495,8 @@ Needs: Use whatever you have left.
 8. Raidjin 2200 · Madness 1800 · Sorath 1600 · Little Knight 1600 · Virakam 1000
 
 **End:** Count to 8000 before you start the Battle Phase
+
+**Remember:** Every going-2nd line already includes these where they fit.
 
 ## Discard priority (Madness, Mechaba, Super Poly, Spenta costs)
 

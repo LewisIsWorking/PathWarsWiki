@@ -12,10 +12,10 @@ src = src.split("from playwright.sync_api import sync_playwright", 1)[1]
 src = src.split("\nimport os\nos.makedirs", 1)[0]
 ns = {"re": re, "html": html}
 exec("import os, re, html\n" + src.replace("__file__", repr(os.path.join(HERE, "build.py"))), ns)
-LINES, INDEX, RULES, VERSION, DATE, fmt = (ns[k] for k in ("LINES", "INDEX", "RULES", "VERSION", "DATE", "fmt"))
+LINES, INDEX1, INDEX2, RULES, VERSION, DATE, fmt = (ns[k] for k in ("LINES", "INDEX1", "INDEX2", "RULES", "VERSION", "DATE", "fmt"))
 
 DISCARD = [
-    "Dead copies: 2nd Meltdown, a Sword when another is set, Sacred Spirit Sword after you've used one",
+    "Dead copies: 2nd Meltdown, an Invoke Sword when another is set, Sacred Sword after you've used one",
     "Mulcharmy Fuwalos (dead once you control cards)",
     "Infinite Impermanence, unless you'll set it",
     "Crossout Designator",
@@ -31,11 +31,12 @@ ATTR = [
 ]
 
 def line_section(L, ids):
+    ids = [x["id"] for x in LINES if x.get("when") == L.get("when")]
     i = ids.index(L["id"])
     prev_id = ids[i - 1] if i > 0 else None
     next_id = ids[i + 1] if i < len(ids) - 1 else None
     untested = "UNTESTED" in L["tag"] or "Built from card text" in L["tag"]
-    h = [f'<section class="view" id="v-line-{L["id"]}" data-view="line-{L["id"]}" hidden>']
+    h = [f'<section class="view" id="v-line-{L["id"].lower()}" data-view="line-{L["id"].lower()}" hidden>']
     h.append(f'<header class="lh"><span class="badge">{L["id"]}</span><div><h2>{fmt(L["title"])}</h2>'
              f'<p class="tag{" warn" if untested else ""}">{fmt(L["tag"])}</p></div></header>')
     h.append('<div class="needs">' + "".join(f'<span class="chip">{fmt(n)}</span>' for n in L["needs"]) + "</div>")
@@ -50,27 +51,33 @@ def line_section(L, ids):
     if L.get("memo"):
         h.append(f'<div class="memo"><span class="k">Remember</span>{fmt(L["memo"])}</div>')
     nav = ['<nav class="pn">']
-    nav.append(f'<a class="btn" href="#line-{prev_id}">← Line {prev_id}</a>' if prev_id else '<span></span>')
+    nav.append(f'<a class="btn" href="#line-{prev_id.lower()}">← Line {prev_id}</a>' if prev_id else '<span></span>')
     nav.append('<a class="btn ghost" href="#">Which line?</a>')
-    nav.append(f'<a class="btn" href="#line-{next_id}">Line {next_id} →</a>' if next_id else '<span></span>')
+    nav.append(f'<a class="btn" href="#line-{next_id.lower()}">Line {next_id} →</a>' if next_id else '<span></span>')
     nav.append("</nav>")
     h.append("".join(nav))
     h.append("</section>")
     return "\n".join(h)
 
-def home_section():
+def picks(idx):
     rows = []
-    for hand, line, best in INDEX:
-        first = line.split("→")[-1].strip()
-        rows.append(f'<a class="pick{" best" if best else ""}" href="#line-{first}"><span class="hand">{fmt(hand)}</span>'
+    for hand, line, best in idx:
+        rows.append(f'<a class="pick{" best" if best else ""}" href="#line-{line.lower()}"><span class="hand">{fmt(hand)}</span>'
                     f'<span class="go">Line {fmt(line)}</span></a>')
+    return "".join(rows)
+
+def home_section():
     rules = "".join(f"<li><span>{fmt(r)}</span></li>" for r in RULES)
     disc = "".join(f"<li><span>{fmt(d)}</span></li>" for d in DISCARD)
     attr = "".join(f"<tr><td>{fmt(c)}</td><td><span class='at at-{a.lower()}'>{a}</span></td><td>{fmt(m)}</td></tr>" for c, a, m in ATTR)
     return f'''<section class="view" id="v-home" data-view="" hidden>
 <h2 class="ht">Which line? Read your hand</h2>
-<p class="tag">Tap the first row that fits</p>
-<div class="picks">{"".join(rows)}</div>
+<div class="seg" role="tablist">
+<button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
+<button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
+</div>
+<div class="plist" data-turn="1st"><p class="tag">Top row wins if more than one fits</p><div class="picks">{picks(INDEX1)}</div></div>
+<div class="plist" data-turn="2nd" hidden><p class="tag">Start with S1 on her turn, then pick your line</p><div class="picks">{picks(INDEX2)}</div></div>
 <div class="stage"><h3>Golden rules</h3><ol>{rules}</ol></div>
 <div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol>{disc}</ol>
 <p class="keep"><b>Keep:</b> {fmt(KEEP)}</p></div>
@@ -95,7 +102,7 @@ body{color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.4;
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
 .wrap{max-width:640px;margin:0 auto}
 .strip{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;border-bottom:1px solid var(--line);
-  display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  display:flex;flex-direction:column;gap:6px}
 .strip a{min-width:38px;height:38px;padding:0 10px;border-radius:10px;display:inline-flex;align-items:center;justify-content:center;
   background:var(--panel);border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-variant-numeric:tabular-nums}
 .strip a.home{font-family:var(--display);padding:0 12px}
@@ -145,12 +152,24 @@ table.attr{width:100%;border-collapse:collapse;font-size:15px}
 .at-fire{background:#5a2214;color:#ffb39a}.at-wind{background:#163f2b;color:#9ff0c0}.at-earth{background:#43361a;color:#f2d79a}
 .at-light{background:#46421c;color:#fff2a6}.at-dark{background:#2e2147;color:#d6c0ff}
 a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.seg{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
+.seg button{min-height:44px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
+.seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
+.seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.strip .lbl{font-size:11px;font-weight:800;letter-spacing:.06em;color:var(--muted);text-transform:uppercase;width:30px}
+.strip .row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;width:100%}
 .foot{margin-top:18px;font-size:12px;color:var(--muted);text-align:right}
 """
 
 def build():
     ids = [L["id"] for L in LINES]
-    strip = '<a class="home" href="#">?</a>' + "".join(f'<a href="#line-{i}" data-v="line-{i}">{i}</a>' for i in ids)
+    first = [L["id"] for L in LINES if L.get("when") == "1st"]
+    second = [L["id"] for L in LINES if L.get("when") == "2nd"]
+    strip = ('<div class="row"><span class="lbl">1st</span><a class="home" href="#">?</a>' +
+             "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in first) + '</div>' +
+             '<div class="row"><span class="lbl">2nd</span>' +
+             "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in second) +
+             f'<span class="ver">v{VERSION} · {DATE}</span></div>')
     body = "\n".join([home_section()] + [line_section(L, ids) for L in LINES])
     js = """
 (function(){
@@ -165,6 +184,16 @@ def build():
     window.scrollTo(0,0);
   }
   window.addEventListener('hashchange',show); show();
+  var tabs=[].slice.call(document.querySelectorAll('.seg button'));
+  var lists=[].slice.call(document.querySelectorAll('.plist'));
+  function setTurn(t){
+    tabs.forEach(function(b){b.setAttribute('aria-selected', b.dataset.turn===t ? 'true':'false')});
+    lists.forEach(function(l){l.hidden = l.dataset.turn!==t});
+    try{localStorage.setItem('turn',t)}catch(e){}
+  }
+  tabs.forEach(function(b){b.addEventListener('click',function(){setTurn(b.dataset.turn)})});
+  var saved='1st'; try{saved=localStorage.getItem('turn')||'1st'}catch(e){}
+  setTurn(saved);
   document.querySelectorAll('ol[start]').forEach(function(o){o.style.setProperty('--start',o.getAttribute('start'))});
 })();
 """
@@ -174,7 +203,7 @@ def build():
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Space+Grotesk:wght@600;700;800&display=swap">
 <style>{CSS}</style>
 <div class="wrap">
-<nav class="strip" aria-label="Lines">{strip}<span class="ver">v{VERSION} · {DATE}</span></nav>
+<nav class="strip" aria-label="Lines">{strip}</nav>
 {body}
 <p class="foot">Invoked cheat sheet · v{VERSION} · {DATE} · source: PathWarsWiki</p>
 </div>
@@ -186,4 +215,34 @@ def build():
     open(path, "w").write(page)
     print(path)
 
+def sync_wiki():
+    p = os.path.join(HERE, "..", "..", "Writerside", "topics", "Master-duel", "Invoked-practice.md")
+    s = open(p).read()
+    gen = []
+    for L in LINES:
+        gen.append(f"## Line {L['id']}: {L['title']} (going {L.get('when')}; {L['tag']})\n\nNeeds: {', '.join(L['needs'])}.\n")
+        n = 1
+        for name, steps in L["stages"]:
+            gen.append(f"\n**{name}**\n")
+            for st in steps:
+                gen.append(f"{n}. {st}\n"); n += 1
+        gen.append(f"\n**End:** {L['end']}\n")
+        if L.get("memo"):
+            gen.append(f"\n**Remember:** {L['memo']}\n")
+        gen.append("\n")
+    a = s.index("## Line 1:"); b = s.index("## Discard priority")
+    s = s[:a] + "".join(gen) + s[b:]
+    a = s.index("| Your hand has | Play |"); b = s.index("\n\n", a)
+    table = "| Going | Your hand has | Play |\n| --- | --- | --- |\n" + "\n".join(
+        f"| {w} | {h} | Line {l}{' (best)' if best else ''} |" for w, idx in (("1st", INDEX1), ("2nd", INDEX2)) for h, l, best in idx)
+    s = s[:a] + table + s[b:]
+    s = re.sub(r"!\[invoked-line-[^\]]+\]\([^)]*\)\n?", "", s)
+    base = f"https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v{VERSION}/"
+    s = re.sub(r"!\[invoked-0-which-line\]\([^)]*\)", f"![invoked-0-which-line]({base}invoked-0-which-line.png)\n" +
+               "\n".join(f"![invoked-line-{L['id']}]({base}invoked-line-{L['id']}.png)" for L in LINES), s)
+    s = re.sub(r"\*\*Current version: v[\d.]+ \([^)]*\)\.\*\*", f"**Current version: v{VERSION} ({DATE}).**", s)
+    open(p, "w").write(s)
+    print("wiki synced")
+
 build()
+sync_wiki()

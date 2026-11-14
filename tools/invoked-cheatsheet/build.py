@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.4"
+VERSION = "1.5"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -29,15 +29,15 @@ LINES = [
     "Artemis: search **Crowley** (it summons itself)",
     "Crowley: Crowley + Endymion → **Baybarron**",
     "Baybarron: search **Virakam**, SKIP the banish",
-    "Special Summon Virakam → set **Sword**"]),
+    "Special Summon Virakam → set **Invoke Sword**"]),
    ("Finish", [
     "Link Sorath + Baybarron → **Madness**",
     "Sorath GY: Sorath + Aleister → **Mechaba**",
     "Madness: discard spare → search **Invocation**",
     "Invocation: Madness + Crowley (GY) → **Oceanus** (Extra Monster Zone)"]),
   ],
-  end="Oceanus (EMZ) · Mechaba · Virakam · set Sword",
-  memo="Going 2nd with a 2nd Sword in hand? Don't discard it at step 15: see Line 13 for the finishers."),
+  end="Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword",
+  memo="Going 2nd with a 2nd Invoke Sword in hand? Don't discard it at step 15: see Line 13 for the finishers."),
 
  dict(id="6", title="Aleister + any card", tag="Sourced: Taffy (MDM) · weakest line",
   needs=["Aleister", "+1 spare card"],
@@ -53,28 +53,28 @@ LINES = [
     "Link Aleister + Sorath → **Madness**",
     "Sorath GY: Sorath + Aleister → **Baybarron**",
     "Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**, skip banish)",
-    "Special Summon Virakam → set **Sword**",
+    "Special Summon Virakam → set **Invoke Sword**",
     "Link Virakam + Baybarron → **Little Knight**",
     "Invocation: Madness + Virakam → **Mechaba**"]),
   ],
-  end="Little Knight · Mechaba · set Sword"),
+  end="Little Knight · Mechaba · set Invoke Sword"),
 
  dict(id="3", title="Reminiscent alone", tag="Sourced: Taffy (MDM)",
   needs=["Reminiscent", "+1 spare card"],
   stages=[
    ("Raidjin loop into Sorath", [
-    "Normal Summon Reminiscent: banish **Raidjin** (Extra Deck) → search **Sword**",
-    "Sword: Reminiscent + Raidjin (banished) → **Sorath**",
+    "Normal Summon Reminiscent: banish **Raidjin** (Extra Deck) → search **Invoke Sword**",
+    "Invoke Sword: Reminiscent + Raidjin (banished) → **Sorath**",
     "Sorath: revive Reminiscent",
     "Link Reminiscent → **Artemis**",
-    "Sword GY: add Reminiscent to hand",
+    "Invoke Sword GY: add Reminiscent to hand",
     "Reminiscent (hand): target Sorath → Special Summon itself"]),
    ("Crowley into Baybarron", [
     "Link Artemis + Reminiscent → **Endymion**, equip Artemis",
     "Artemis: search **Crowley** (it summons itself)",
     "Crowley: Crowley + Endymion → **Baybarron**",
     "Baybarron: search **Virakam**, SKIP the banish",
-    "Special Summon Virakam → set **Sword**"]),
+    "Special Summon Virakam → set **Invoke Sword**"]),
    ("Aeon finish", [
     "Link Sorath + Baybarron → **Madness**",
     "Sorath GY: Sorath + Baybarron + Raidjin → **Aeon**",
@@ -82,22 +82,22 @@ LINES = [
     "Link Aeon + Virakam → **Little Knight**",
     "Invocation: Madness + Aeon (GY) → **Oceanus** (Extra Monster Zone)"]),
   ],
-  end="Oceanus (EMZ) · Little Knight · set Sword · up to 6 of hers banished"),
+  end="Oceanus (EMZ) · Little Knight · set Invoke Sword · up to 6 of hers banished"),
 
  dict(id="1", title="Aleister + Reminiscent", tag="Sourced: Taffy (MDM), Baronne branch · BEST LINE",
-  needs=["Aleister (or Meltdown / Aiwass / Sacred Spirit Sword)", "Reminiscent", "+1 spare card"],
+  needs=["Aleister (or Meltdown / Aiwass / Sacred Sword)", "Reminiscent", "+1 spare card"],
   stages=[
    ("1 · Two Links into Crowley", [
     "Normal Summon Aleister → search **Invocation**",
-    "Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Sword**",
+    "Reminiscent: target Aleister, summon itself; banish **Raidjin** → search **Invoke Sword**",
     "Link Aleister → **Artemis**",
     "Link Artemis + Reminiscent → **Endymion**, equip Artemis",
     "Artemis: search **Crowley** (summons itself). DON'T FUSE"]),
    ("2 · Chorozo, Baybarron, Sorath", [
     "Endymion + Artemis → **Chorozo** (contact fusion)",
     "Invocation: Aleister + Artemis (GY) → **Baybarron**, search **Virakam**, skip banish",
-    "Special Summon Virakam → set **Sword**",
-    "Sword (hand): Aleister + Raidjin (banished) → **Sorath**"]),
+    "Special Summon Virakam → set **Invoke Sword**",
+    "Invoke Sword (hand): Aleister + Raidjin (banished) → **Sorath**"]),
    ("3 · Baronne and Madness", [
     "Link Baybarron + Crowley → **Madness**",
     "Sorath: revive Crowley",
@@ -106,13 +106,13 @@ LINES = [
     "Sorath GY: Sorath + Baybarron + Raidjin → **Aeon**",
     "Chain: Madness (discard spare → **Invocation**) + Aeon (banish up to 3, then pick 3 from her Extra Deck)",
     "Link Aeon + Crowley → **Little Knight**",
-    "Sword GY: add Invocation",
+    "Invoke Sword GY: add Invocation",
     "Invocation: Aleister + Endymion (GY) → **Mechaba**",
     "Invocation: Madness + Crowley → **Oceanus** (Extra Monster Zone)",
     "Invocation GY: add a banished Aleister"]),
   ],
-  end="Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Sword · Aleister in hand · up to 6 of hers banished",
-  memo="Raidjin used 3× (cost → Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus)."),
+  end="Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Invoke Sword · Aleister in hand · up to 6 of hers banished",
+  memo="Raidjin used 3× (cost → Invoke Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus)."),
 
  dict(id="4", title="Crowley or Spenta + Reminiscent + FIRE/WIND", tag="Sourced: Taffy (MDM)",
   needs=["Crowley (Normal Summon) or Spenta (discard → Crowley)", "Reminiscent", "FIRE/WIND monster", "+1 spare card"],
@@ -120,19 +120,19 @@ LINES = [
    ("Sorath and Madness", [
     "Crowley: Crowley + FIRE/WIND (hand) → **Sorath**",
     "Sorath: revive Crowley",
-    "Reminiscent: target Sorath, summon itself; banish **Raidjin** → search **Sword**",
+    "Reminiscent: target Sorath, summon itself; banish **Raidjin** → search **Invoke Sword**",
     "Link Reminiscent + Sorath → **Madness**",
     "Sorath GY: Reminiscent + Sorath → **Baybarron**",
     "Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**)"]),
    ("Aeon finish", [
     "Link Baybarron + Crowley → **Little Knight**: banish Baybarron from your GY",
-    "Special Summon Virakam → set **Sword**",
-    "Sword: Baybarron + Sorath + Raidjin (banished) → **Aeon**",
+    "Special Summon Virakam → set **Invoke Sword**",
+    "Invoke Sword: Baybarron + Sorath + Raidjin (banished) → **Aeon**",
     "Aeon: banish up to 3 of hers, then pick 3 from her Extra Deck",
-    "Sword GY: add Invocation",
+    "Invoke Sword GY: add Invocation",
     "Invocation: Crowley + Madness → **Oceanus** (Extra Monster Zone)"]),
   ],
-  end="Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Sword",
+  end="Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Invoke Sword",
   memo="Taffy makes Elysium after Aeon. Add that step once you own Elysium."),
 
  dict(id="7", title="Zoroa or Spenta, no Aleister", tag="UNTESTED · built from card text",
@@ -182,11 +182,11 @@ LINES = [
   needs=["Reminiscent"],
   stages=[
    ("No more searches needed", [
-    "Normal Summon Reminiscent: banish **Raidjin** → search **Sword** (Droll hits after this)",
-    "Sword: Reminiscent + Raidjin (banished) → **Sorath**",
+    "Normal Summon Reminiscent: banish **Raidjin** → search **Invoke Sword** (Droll hits after this)",
+    "Invoke Sword: Reminiscent + Raidjin (banished) → **Sorath**",
     "Sorath: revive Reminiscent",
     "Link Reminiscent → **Artemis**",
-    "Sword GY: add Reminiscent (from GY, Droll can't stop it)",
+    "Invoke Sword GY: add Reminiscent (from GY, Droll can't stop it)",
     "Reminiscent: target Sorath → Special Summon itself",
     "Reminiscent + Artemis → **Chorozo**",
     "Synchro: Chorozo + Sorath → **Baronne de Fleur**",
@@ -198,7 +198,7 @@ LINES = [
   needs=["Use whatever you have left"],
   stages=[
    ("Remove her blocker", [
-    "**Sword in hand** (Omega in Extra Deck): Aleister + a Fusion (both banished) → **Omega** → banish her monster",
+    "**Invoke Sword in hand** (Omega in Extra Deck): Aleister + a Fusion (both banished) → **Omega** → banish her monster",
     "**Super Poly:** Madness (counts as Aleister) + her monster → Fusion by her Attribute: LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**, DARK/WATER **Oceanus**",
     "Do Super Poly BEFORE Invocation uses Madness. Invocation can still use Madness from the GY"]),
    ("More damage", [
@@ -222,48 +222,144 @@ def _opened(base_id, title, needs, extra_memo):
     L["needs"] = needs
     L["tag"] = L["tag"] + " · opener: Dawnstar (MDM)"
     L["stages"].insert(0, ("Get Aleister", [
-        "**Sacred Spirit Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister"]))
-    memo = "Sacred Spirit Sword: only Fusions can attack this turn." + (" " + extra_memo if extra_memo else "")
+        "**Sacred Sword:** summon **Aiwass** from Deck → banish it → add **Aleister** (Aiwass gives you an extra Normal Summon). With **Meltdown** or **Aiwass in hand**, just search Aleister"]))
+    memo = "Sacred Sword: only Fusions can attack this turn." + (" " + extra_memo if extra_memo else "")
     L["memo"] = (L.get("memo", "") + " " + memo).strip()
     return L
 
-_OPEN = "Sacred Spirit Sword, Meltdown or Aiwass"
-_order = [
+_OPEN = "Sacred Sword, Meltdown or Aiwass"
+_GET = ("Get Aleister", ["Aleister in hand → Normal Summon it. Otherwise **Meltdown** or **Aiwass from hand** → search Aleister. (Sacred Sword also works, but then only Fusions can attack)"])
+ATTR_SP = "by her Attribute: DARK/WATER **Oceanus**, LIGHT/EARTH **Baybarron**, WIND **Raidjin**, FIRE **Sorath**"
+
+FIRST = [
     _by["1"],
     _opened("1", "Opener + Reminiscent", [_OPEN, "Reminiscent", "+1 spare card"], ""),
     _by["3"], _by["4"], _by["5"],
     _opened("5", "Opener + FIRE/WIND", [_OPEN, "FIRE/WIND (an Aiwass in hand counts: WIND)", "+1 spare card"],
-            "If Sacred Spirit Sword opened, an Aiwass in hand is your WIND monster."),
+            "If Sacred Sword opened, an Aiwass in hand is your WIND monster."),
     _by["6"],
     _opened("6", "Opener + any card", [_OPEN, "+1 spare card"], ""),
-    _by["7"], _by["8"], _by["9"], _by["10"], _by["11"],
+    _by["7"], _by["8"], _by["9"],
 ]
-for _i, _L in enumerate(_order, 1):
+for _i, _L in enumerate(FIRST, 1):
     _L["id"] = str(_i)
-LINES = _order
+    _L["when"] = "1st"
 
-INDEX = [
+S1 = dict(title="Her turn: your hand traps", tag="Going 2nd · card text",
+  needs=["Whatever hand traps you hold"],
+  stages=[("Timing", [
+    "**Maxx \"C\":** on her first Special Summon. Draw 1 for every Special Summon this turn",
+    "**Ash:** on an effect that searches, sends from her Deck, or summons from her Deck",
+    "**Droll:** right after her first search, so the rest are blocked. Not in the same turn as Fuwalos",
+    "**Imperm** (from hand, you control no cards): her starter monster on the field",
+    "**Fuwalos:** early in her Main Phase, only while you control no cards",
+    "**Ghost Belle:** her GY effects. **Ghost Ogre:** a card effect on the field (never Shining Sarcophagus)",
+    "**Nibiru:** after her 5th summon this turn"])],
+  end="Keep Super Poly for your turn",
+  memo="Her deck tells you the order: search-heavy → Droll; summon-heavy → Maxx \"C\".")
+
+S2 = copy.deepcopy(_by["1"])
+S2.update(title="Aleister or opener + Reminiscent", tag="Going 2nd · Taffy's Line 1 with going-2nd changes (marked)",
+  needs=["Aleister, Meltdown or Aiwass", "Reminiscent", "+1 spare card"])
+_st = [list(x) for x in S2["stages"]]
+_st[3][1] = [
+    "Sorath GY: Sorath + Baybarron + Raidjin → **Aeon**",
+    "Chain: Madness (discard spare → **Invocation**) + Aeon: banish her **3 best cards on the field**, then pick 3 from her Extra Deck",
+    "**Going-2nd change:** don't make Little Knight. Keep **Aeon** to attack",
+    "Invoke Sword GY: add Invocation",
+    "Invocation: Aleister + Endymion (GY) → **Mechaba**",
+    "Invocation: Madness + Crowley (both on field) → **Oceanus** (Extra Monster Zone)",
+    "**Baronne:** destroy 1 more of her cards (targets)",
+    "**Battle:** Aeon 3800 + Baronne 3000 + Oceanus 3000 + Mechaba 2500 + Virakam 1000 = **13,300**"]
+S2["stages"] = [_GET] + [tuple(x) for x in _st]
+S2["end"] = "Her field cleared, 13,300 damage if nothing stops it"
+S2["memo"] = "Open with Meltdown or Aiwass from hand, not Sacred Sword. After Sacred Sword only Fusions can attack, so Baronne and Virakam couldn't."
+
+S3 = dict(title="Aleister or opener + FIRE/WIND + Super Poly", tag="Going 2nd · Taffy's Aleister line + Super Poly (card text)",
+  needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Super Poly", "+2 spare cards"],
+  stages=[_GET,
+   ("Get Sorath", [
+    "Normal Summon Aleister → search **Invocation**",
+    "Link Aleister → **Artemis**",
+    "Invocation: Aleister (GY) + FIRE/WIND (hand) → **Sorath**",
+    "Invocation GY: add the banished Aleister",
+    "Discard Aleister on Sorath → Sorath revives Aleister"]),
+   ("Crowley into Baybarron", [
+    "Link Aleister + Artemis → **Endymion**, equip Artemis",
+    "Artemis: search **Crowley** (it summons itself)",
+    "Crowley + Endymion → **Baybarron**: search **Virakam**, SKIP the banish",
+    "Special Summon Virakam → set **Invoke Sword**"]),
+   ("Break her board", [
+    "Link Sorath + Baybarron → **Madness**",
+    "Sorath GY: Sorath + Aleister → **Mechaba**. Madness: discard spare → search **Invocation**",
+    "**Super Poly** (discard spare): Madness + her best monster → " + ATTR_SP,
+    "Invocation: Madness (GY) + Crowley (GY) → **Oceanus** (EMZ). If Super Poly made Oceanus, keep this Invocation",
+    "**Invoke Sword in hand** (Omega in Extra Deck): Aleister + Sorath (banished) → **Omega** → banish another of her monsters",
+    "**Battle:** Oceanus 3000 + Mechaba 2500 + Super Poly Fusion (+ Omega 2800, + Virakam 1000 if no Sacred Sword)"]),
+  ],
+  end="Her best monster gone, 5,500+ damage",
+  memo="Super Poly MUST come before Invocation uses Madness. Once activated, Super Poly can't be cancelled.")
+
+S4 = dict(title="Aleister or opener + any card + Super Poly", tag="Going 2nd · Taffy's weakest line + Super Poly (card text)",
+  needs=["Aleister, Meltdown or Aiwass", "Super Poly", "+2 spare cards"],
+  stages=[_GET,
+   ("Get Sorath", [
+    "Normal Summon Aleister → search **Invocation**",
+    "Link Aleister → **Almiraj**",
+    "Invocation: Aleister + Almiraj → **Sorath**",
+    "Invocation GY: add the banished Aleister",
+    "Discard Aleister on Sorath → Sorath revives Aleister"]),
+   ("Break her board", [
+    "Link Aleister + Sorath → **Madness**",
+    "Sorath GY: Sorath + Aleister → **Baybarron**. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**, skip banish)",
+    "Special Summon Virakam → set **Invoke Sword**",
+    "**Super Poly** (discard spare): Madness + her best monster → " + ATTR_SP,
+    "Invocation: Madness (GY) + Virakam → **Mechaba**",
+    "**Battle:** Baybarron 2450 + Mechaba 2500 + Super Poly Fusion"]),
+  ],
+  end="Her best monster gone, about 7,000 damage")
+
+SECOND = [S1, S2, S3, S4, _by["10"], _by["11"]]
+SECOND[4] = copy.deepcopy(SECOND[4]); SECOND[5] = copy.deepcopy(SECOND[5])
+SECOND[5]["memo"] = "Every going-2nd line already includes these where they fit."
+for _i, _L in enumerate(SECOND, 1):
+    _L["id"] = "S" + str(_i)
+    _L["when"] = "2nd"
+for _L in FIRST:
+    if _L.get("memo"):
+        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Line S6 for the finishers")
+
+LINES = FIRST + SECOND
+
+INDEX1 = [
  ("Aleister + Reminiscent", "1", True),
- ("Sacred Spirit Sword / Meltdown / Aiwass + Reminiscent", "2", True),
+ ("Sacred Sword / Meltdown / Aiwass + Reminiscent", "2", True),
  ("Reminiscent alone", "3", False),
  ("Crowley or Spenta + Reminiscent + FIRE/WIND", "4", False),
  ("Aleister + Ash / Droll / Fuwalos / Zoroa", "5", False),
- ("Sacred Spirit Sword / Meltdown / Aiwass + FIRE/WIND", "6", False),
+ ("Sacred Sword / Meltdown / Aiwass + FIRE/WIND", "6", False),
  ("Aleister + any card", "7", False),
- ("Sacred Spirit Sword / Meltdown / Aiwass + any card", "8", False),
+ ("Sacred Sword / Meltdown / Aiwass + any card", "8", False),
  ("Zoroa or Spenta, no Aleister", "9", False),
  ("Got Drolled after Aleister's search", "10", False),
  ("Got Drolled after Reminiscent's search", "11", False),
- ("Going 2nd into Dragoon", "12", False),
- ("Going 2nd: finish the turn", "13", False),
 ]
+INDEX2 = [
+ ("Her turn first: which hand trap, when", "S1", False),
+ ("Aleister or opener + Reminiscent", "S2", True),
+ ("Aleister or opener + FIRE/WIND + Super Poly", "S3", True),
+ ("Aleister or opener + any card + Super Poly", "S4", False),
+ ("Into Natasha's Dragoon", "S5", False),
+ ("Finish the turn: damage tricks", "S6", False),
+]
+INDEX = INDEX1
 RULES = [
  "Baybarron: say SKIP to the banish unless you've picked a target",
  "Madness needs a spare card to discard. Keep one",
  "Oceanus goes in the Extra Monster Zone",
  "Before any Link: is there a free zone?",
  "Read both GYs + banishment before Invocation",
- "Discard order: dead copies (2nd Meltdown, used Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
+ "Discard order: dead copies (2nd Meltdown, used Invoke Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
  "Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can",
 ]
 
@@ -322,10 +418,12 @@ def line_html(L):
 
 def index_html():
     h = "<div class='top'><div class='num'>?</div><h1>Which line? Read your hand</h1></div>"
-    h += "<div class='tag'>Top row wins if more than one fits</div><table>"
-    for hand, line, best in INDEX:
-        h += f"<tr class='{'best' if best else ''}'><td>{fmt(hand)}</td><td><span class='pill'>Line {line}</span></td></tr>"
-    h += "</table><div class='stage rules' style='margin-top:10px'><div class='sh'>Golden rules</div><ol>"
+    for label, idx in (("Going 1st", INDEX1), ("Going 2nd", INDEX2)):
+        h += f"<div class='tag' style='margin-top:14px'>{label} · top row wins</div><table>"
+        for hand, line, best in idx:
+            h += f"<tr class='{'best' if best else ''}'><td>{fmt(hand)}</td><td><span class='pill'>Line {line}</span></td></tr>"
+        h += "</table>"
+    h += "<div class='stage rules' style='margin-top:10px'><div class='sh'>Golden rules</div><ol>"
     for i, r in enumerate(RULES, 1):
         h += f"<li><span class='n'>{i}</span><span>{fmt(r)}</span></li>"
     h += "</ol></div>"
