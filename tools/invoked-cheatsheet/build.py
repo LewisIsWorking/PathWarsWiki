@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.13"
+VERSION = "1.14"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -477,7 +477,7 @@ RULES = [
  "Madness needs a spare card to discard. Keep one",
  "Oceanus goes in the Extra Monster Zone",
  "Before any Link: is there a free zone?",
- "Read both GYs + banishment before Invocation",
+ "Read both GYs + banishment before Invocation. Invocation can use a FIRE/WIND (or any) monster from EITHER GY: use that before spending a card from hand",
  "Discard order: dead copies (2nd Meltdown, used Invoke Sword) → Fuwalos → Imperm → Crossout → Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru",
  "Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can",
  "Imperm on Aleister or Crowley: Aleister keeps its name (Invocation/Grail still work); Crowley does not",

@@ -8,12 +8,13 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 ## Cheat sheet images
 
-One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.13 (14 Nov 2026).** Version and date are printed in each image's footer.
+One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.14 (14 Nov 2026).** Version and date are printed in each image's footer.
 
 To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERSION` and `DATE`, run `python3 tools/invoked-cheatsheet/build.py` from the repo root, point the links below at the new folder, and add a changelog entry. Older versions stay in their own folders.
 
 ### Changelog
 
+- **v1.14 (14 Nov 2026):** golden rule 5 now says to use GY monsters as Invocation material before hand cards (Lewis spent Ash when Fuwalos was already in the GY).
 - **v1.13 (14 Nov 2026):** new going-2nd Line S9 "Aleister got Imperm'd + FIRE/WIND + Grail" (untested) and a golden rule: Imperm on Aleister leaves its name, so Invocation and Grail still work; Imperm on Crowley stops it counting as Aleister.
 - **v1.12 (14 Nov 2026):** new going-2nd Line S4 "Aleister or opener + FIRE/WIND + Grail" (untested). Old S4–S7 are now S5–S8.
 - **v1.11 (14 Nov 2026):** new going-2nd Line S6 "Spenta or Crowley + FIRE/WIND + Grail + Invocation" (untested). The Spenta Invoke Sword line is now S7 and also starts from a Crowley in hand. Natasha's Dragoon plan and the finishers moved to a new **Tips & tricks** list (T1, T2).
@@ -30,34 +31,34 @@ To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERS
 - **v1.0 (14 Nov 2026):** first version. Lines 1–8 plus the "Which line?" picker. Line 1 is Taffy's Baronne branch (Chorozo crafted). Deck: 1 Reminiscent, 2 Aiwass, 2 Spenta, 1 Crowley, 1 Zoroa, Omega + 1 Aeon + De Anima in the Extra Deck.
 - **Planned:** add Elysium to Line 4 and the going-second plan once crafted; add Gamma Summon; recheck lines when Reminiscent #2–3 arrive.
 
-![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-0-which-line.png)
-![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-1.png)
-![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-2.png)
-![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-3.png)
-![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-4.png)
-![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-5.png)
-![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-6.png)
-![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-7.png)
-![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-8.png)
-![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-9.png)
-![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-10.png)
-![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-11.png)
-![invoked-line-12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-12.png)
-![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S1.png)
-![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S2.png)
-![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S3.png)
-![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S4.png)
-![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S5.png)
-![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S6.png)
-![invoked-line-S7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S7.png)
-![invoked-line-S8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S8.png)
-![invoked-line-S9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-S9.png)
-![invoked-line-T1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-T1.png)
-![invoked-line-T2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.13/invoked-line-T2.png)
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-8.png)
+![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-9.png)
+![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-10.png)
+![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-11.png)
+![invoked-line-12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-12.png)
+![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S1.png)
+![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S2.png)
+![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S3.png)
+![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S4.png)
+![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S5.png)
+![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S6.png)
+![invoked-line-S7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S7.png)
+![invoked-line-S8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S8.png)
+![invoked-line-S9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-S9.png)
+![invoked-line-T1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-T1.png)
+![invoked-line-T2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.14/invoked-line-T2.png)
 
 Which line to play:
 
-| Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
+| Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
 | --- | --- | --- |
 | 1st | Aleister + Reminiscent | Line 1 (best) |
 | 1st | Sacred Sword / Meltdown / Aiwass + Reminiscent | Line 2 (best) |
@@ -754,3 +755,5 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - Discarded the hand Sword at step 15 (the sheet didn't say to keep it), so no Omega finish. Fixed in v1.2 (Line 5 note + Line 11).
 - **Once Super Poly is activated you can't cancel it.** Madness was already banished for Oceanus, so the only legal fusion was Mechaba + Oceanus → Aeon. Order matters: Super Poly before Invocation uses Madness.
 - Won anyway next turn with Aeon + Omega (2800 for the final hit) vs the Archfiend AI.
+
+- **Spent Ash as Sorath material when Fuwalos (WIND) was already in the GY.** Invocation can banish GY monsters, so keep hand traps in hand.
