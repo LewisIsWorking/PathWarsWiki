@@ -181,3 +181,9 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - **Fix:** play the practice-sheet lines from memory without asking; ask Claude only for unusual spots; Claude replies in one or two lines during games.
 - **Lewis's find:** Aleister searched Invocation, then **Invocation banished Oceanus (GY, EARTH) + Baybarron (FIRE) → Hyperinvoked Aeon**. Aeon needs **no Aleister**, just 2+ Fusions with different Attributes, and Invocation can banish them from your field and GY. Claude had wrongly said "nothing works without an Aleister". **Rule: always check GY Fusions for an Aeon.**
 - **Aiwass in the GY is a free extender:** whenever a face-up Fusion you control is sent to the GY (not by battle), e.g. as Link material for Little Knight or Madness, Aiwass Special Summons itself, then you can Fusion Summon an Invoked using monsters from hand or field. Look for it every time a Fusion leaves the field.
+
+### Game log: Planet Run vs Witchcrafter, went second (14 Nov 2026): win
+
+- Hand: Droll, Ash, Reminiscent, Aiwass, Meltdown (+ drew Crowley). Opponent opened Witchcrafter Genni + a Spell, then Madame Verre.
+- Opponent surrendered on turn 2 after Meltdown → Aleister → Aiwass. Used 1:44 of clock: short replies worked.
+- **Witchcrafter Madame Verre** (UR, LIGHT Level 8 Spellcaster, 1000/2800): Quick Effect, discard a Spell to negate all your **currently** face-up monsters this turn; damage calculation: reveal Spells to gain 1000 attack each. Monsters you summon after it resolves are unaffected; Virakam stops it if she uses it on a Fusion's effect.
