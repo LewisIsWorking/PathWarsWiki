@@ -209,3 +209,9 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - Claude named **Ghost Ogre**, which wasn't in hand. **Rule: read the hand from the screenshot every time.**
 - **Nibiru** after her 9th summon tributed her board, but she rebuilt (Little Knight, Hapi, Imsety, Destruction, Rank 8).
 - Caliga in Defence was removed by Little Knight's banish, so it didn't stop the attacks. Against a board with Little Knight, Caliga alone isn't protection.
+
+### Game log: ranked vs Red-Eyes Dragoon, went first (14 Nov 2026): loss
+
+- End board: Oceanus (Extra Monster Zone), Mechaba, Baybarron, Virakam, Meltdown, set Imperm; hand Ash + 2 Aleister.
+- Opponent **Super Polymerization**'d Mechaba + Virakam into Mudragon of the Swamp (can't be responded to), made **Red-Eyes Dark Dragoon**, destroyed Oceanus for 3000 burn, then attacked.
+- **Lessons:** Super Poly beats a negate board; nothing stops it. Save **Ash for the Dragoon route** (Red-Eyes Fusion uses Deck monsters, so Ash can negate it; Destruction's Gaze search too). Keep a **monster** in hand for Mechaba: Dragoon's destroy/burn is a monster effect.
