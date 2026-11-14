@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.6"
+VERSION = "1.7"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -319,15 +319,37 @@ S4 = dict(title="Aleister or opener + any card + Super Poly", tag="Going 2nd · 
   ],
   end="Her best monster gone, about 7,000 damage")
 
-SECOND = [S1, S2, S3, S4, _by["10"], _by["11"]]
-SECOND[4] = copy.deepcopy(SECOND[4]); SECOND[5] = copy.deepcopy(SECOND[5])
-SECOND[5]["memo"] = "Every going-2nd line already includes these where they fit."
+S3C = dict(title="Super Poly into Chorozo: steal 2", tag="Going 2nd · found live by Lewis · untested past step 4 (card text)",
+  needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Super Poly", "+1 spare card",
+         "She controls an Extra Deck monster (Fusion/Synchro/Xyz/Link) + a Spellcaster"],
+  stages=[_GET,
+   ("Take her two monsters", [
+    "Normal Summon Aleister → search **Invocation**",
+    "Link Aleister → **Artemis**",
+    "**Super Poly** (discard spare): her Extra Deck monster + her Spellcaster → **Chorozo**",
+    "Artemis: equip to Chorozo → search **Crowley** (it summons itself)"]),
+   ("Baronne and Oceanus", [
+    "Crowley: Crowley + FIRE/WIND (hand) → **Sorath**",
+    "Sorath: revive Crowley",
+    "Synchro: Chorozo + Sorath → **Baronne de Fleur**",
+    "Invocation: Aleister (GY) + Crowley (DARK) → **Oceanus**",
+    "Invocation GY: add the banished Aleister",
+    "**Baronne:** destroy 1 more of her cards"]),
+   ("Battle", [
+    "Baronne 3000 + Oceanus 3000, discard Aleister for +1000 = **7,000**"]),
+  ],
+  end="Her 2 monsters gone + 1 more destroyed · Baronne · Oceanus",
+  memo="Exosister and Dark Magician decks are full of Spellcasters. If she has only one of the two, use one of yours as the other material.")
+
+SECOND = [S1, S2, S3C, S3, S4, _by["10"], _by["11"]]
+SECOND[5] = copy.deepcopy(SECOND[5]); SECOND[6] = copy.deepcopy(SECOND[6])
+SECOND[6]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
     _L["id"] = "S" + str(_i)
     _L["when"] = "2nd"
 for _L in FIRST:
     if _L.get("memo"):
-        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Line S6 for the finishers")
+        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Line S7 for the finishers")
 
 LINES = FIRST + SECOND
 
@@ -347,10 +369,11 @@ INDEX1 = [
 INDEX2 = [
  ("Her turn first: which hand trap, when", "S1", False),
  ("Aleister or opener + Reminiscent", "S2", True),
- ("Aleister or opener + FIRE/WIND + Super Poly", "S3", True),
- ("Aleister or opener + any card + Super Poly", "S4", False),
- ("Into Natasha's Dragoon", "S5", False),
- ("Finish the turn: damage tricks", "S6", False),
+ ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S3", True),
+ ("Aleister or opener + FIRE/WIND + Super Poly", "S4", True),
+ ("Aleister or opener + any card + Super Poly", "S5", False),
+ ("Into Natasha's Dragoon", "S6", False),
+ ("Finish the turn: damage tricks", "S7", False),
 ]
 INDEX = INDEX1
 RULES = [
