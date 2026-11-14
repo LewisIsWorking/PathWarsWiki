@@ -8,12 +8,13 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 ## Cheat sheet images
 
-One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.5 (14 Nov 2026).** Version and date are printed in each image's footer.
+One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v1.6 (14 Nov 2026).** Version and date are printed in each image's footer.
 
 To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERSION` and `DATE`, run `python3 tools/invoked-cheatsheet/build.py` from the repo root, point the links below at the new folder, and add a changelog entry. Older versions stay in their own folders.
 
 ### Changelog
 
+- **v1.6 (14 Nov 2026):** both lists ordered strictly by end-board strength, so the first line your hand can do is the best one. Swapped Lines 3 and 4: Crowley/Spenta + Reminiscent + FIRE/WIND (Oceanus, Little Knight, Aeon, Virakam, Invoke Sword) is now Line 3, above Reminiscent alone (Line 4).
 - **v1.5 (14 Nov 2026):** split into **Going 1st** (Lines 1–11) and **Going 2nd** (Lines S1–S6). New going-2nd lines: S1 hand-trap timing on her turn, S2 Reminiscent line kept for 13,300 damage, S3/S4 with **Super Poly** built in. Names standardised: **Invoke Sword** (Invocation "Sword") and **Sacred Sword** (Sacred Spirit Sword Aiwass). `page.py` now also rewrites the line sections and hand table on this page.
 - **v1.4 (14 Nov 2026):** every hand now has its own complete line, with no "continue from Line X". The opener (Sacred Spirit Sword / Meltdown / Aiwass) is built into Lines 2, 6 and 8. 13 lines. Line sections on this page are now generated from the same data as the images and phone page.
 - **v1.3 (14 Nov 2026):** lines renumbered so the picker reads 1 → 11 top to bottom (old numbers: 4→1, 6→2, 3→3, 5→4, 1→5, 2→6, 7→7, 9→8, 10→9, 8→10, 11→11). The two opener rows are merged into Line 2. Entries below have been updated to the new numbers.
@@ -22,33 +23,33 @@ To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERS
 - **v1.0 (14 Nov 2026):** first version. Lines 1–8 plus the "Which line?" picker. Line 1 is Taffy's Baronne branch (Chorozo crafted). Deck: 1 Reminiscent, 2 Aiwass, 2 Spenta, 1 Crowley, 1 Zoroa, Omega + 1 Aeon + De Anima in the Extra Deck.
 - **Planned:** add Elysium to Line 4 and the going-second plan once crafted; add Gamma Summon; recheck lines when Reminiscent #2–3 arrive.
 
-![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-0-which-line.png)
-![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-1.png)
-![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-2.png)
-![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-3.png)
-![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-4.png)
-![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-5.png)
-![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-6.png)
-![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-7.png)
-![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-8.png)
-![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-9.png)
-![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-10.png)
-![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-11.png)
-![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S1.png)
-![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S2.png)
-![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S3.png)
-![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S4.png)
-![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S5.png)
-![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.5/invoked-line-S6.png)
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-8.png)
+![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-9.png)
+![invoked-line-10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-10.png)
+![invoked-line-11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-11.png)
+![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-S1.png)
+![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-S2.png)
+![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-S3.png)
+![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-S4.png)
+![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-S5.png)
+![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v1.6/invoked-line-S6.png)
 
 Which line to play:
 
-| Going | Going | Your hand has | Play |
+| Going | Going | Going | Your hand has | Play |
 | --- | --- | --- |
 | 1st | Aleister + Reminiscent | Line 1 (best) |
 | 1st | Sacred Sword / Meltdown / Aiwass + Reminiscent | Line 2 (best) |
-| 1st | Reminiscent alone | Line 3 |
-| 1st | Crowley or Spenta + Reminiscent + FIRE/WIND | Line 4 |
+| 1st | Crowley or Spenta + Reminiscent + FIRE/WIND | Line 3 |
+| 1st | Reminiscent alone | Line 4 |
 | 1st | Aleister + Ash / Droll / Fuwalos / Zoroa | Line 5 |
 | 1st | Sacred Sword / Meltdown / Aiwass + FIRE/WIND | Line 6 |
 | 1st | Aleister + any card | Line 7 |
@@ -136,7 +137,31 @@ Needs: Sacred Sword, Meltdown or Aiwass, Reminiscent, +1 spare card.
 
 **Remember:** Raidjin used 3× (cost → Invoke Sword → Aeon). Crowley used 3× (Madness → Little Knight → Oceanus). Sacred Sword: only Fusions can attack this turn.
 
-## Line 3: Reminiscent alone (going 1st; Sourced: Taffy (MDM))
+## Line 3: Crowley or Spenta + Reminiscent + FIRE/WIND (going 1st; Sourced: Taffy (MDM))
+
+Needs: Crowley (Normal Summon) or Spenta (discard → Crowley), Reminiscent, FIRE/WIND monster, +1 spare card.
+
+**Sorath and Madness**
+1. Crowley: Crowley + FIRE/WIND (hand) → **Sorath**
+2. Sorath: revive Crowley
+3. Reminiscent: target Sorath, summon itself; banish **Raidjin** → search **Invoke Sword**
+4. Link Reminiscent + Sorath → **Madness**
+5. Sorath GY: Reminiscent + Sorath → **Baybarron**
+6. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**)
+
+**Aeon finish**
+7. Link Baybarron + Crowley → **Little Knight**: banish Baybarron from your GY
+8. Special Summon Virakam → set **Invoke Sword**
+9. Invoke Sword: Baybarron + Sorath + Raidjin (banished) → **Aeon**
+10. Aeon: banish up to 3 of hers, then pick 3 from her Extra Deck
+11. Invoke Sword GY: add Invocation
+12. Invocation: Crowley + Madness → **Oceanus** (Extra Monster Zone)
+
+**End:** Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Invoke Sword
+
+**Remember:** Taffy makes Elysium after Aeon. Add that step once you own Elysium.
+
+## Line 4: Reminiscent alone (going 1st; Sourced: Taffy (MDM))
 
 Needs: Reminiscent, +1 spare card.
 
@@ -163,30 +188,6 @@ Needs: Reminiscent, +1 spare card.
 16. Invocation: Madness + Aeon (GY) → **Oceanus** (Extra Monster Zone)
 
 **End:** Oceanus (EMZ) · Little Knight · set Invoke Sword · up to 6 of hers banished
-
-## Line 4: Crowley or Spenta + Reminiscent + FIRE/WIND (going 1st; Sourced: Taffy (MDM))
-
-Needs: Crowley (Normal Summon) or Spenta (discard → Crowley), Reminiscent, FIRE/WIND monster, +1 spare card.
-
-**Sorath and Madness**
-1. Crowley: Crowley + FIRE/WIND (hand) → **Sorath**
-2. Sorath: revive Crowley
-3. Reminiscent: target Sorath, summon itself; banish **Raidjin** → search **Invoke Sword**
-4. Link Reminiscent + Sorath → **Madness**
-5. Sorath GY: Reminiscent + Sorath → **Baybarron**
-6. Chain: Madness (discard spare → **Invocation**) + Baybarron (search **Virakam**)
-
-**Aeon finish**
-7. Link Baybarron + Crowley → **Little Knight**: banish Baybarron from your GY
-8. Special Summon Virakam → set **Invoke Sword**
-9. Invoke Sword: Baybarron + Sorath + Raidjin (banished) → **Aeon**
-10. Aeon: banish up to 3 of hers, then pick 3 from her Extra Deck
-11. Invoke Sword GY: add Invocation
-12. Invocation: Crowley + Madness → **Oceanus** (Extra Monster Zone)
-
-**End:** Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Invoke Sword
-
-**Remember:** Taffy makes Elysium after Aeon. Add that step once you own Elysium.
 
 ## Line 5: Aleister + FIRE/WIND (going 1st; Sourced: Taffy (MDM))
 

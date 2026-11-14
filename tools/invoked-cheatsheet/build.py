@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.5"
+VERSION = "1.6"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -234,7 +234,7 @@ ATTR_SP = "by her Attribute: DARK/WATER **Oceanus**, LIGHT/EARTH **Baybarron**, 
 FIRST = [
     _by["1"],
     _opened("1", "Opener + Reminiscent", [_OPEN, "Reminiscent", "+1 spare card"], ""),
-    _by["3"], _by["4"], _by["5"],
+    _by["4"], _by["3"], _by["5"],
     _opened("5", "Opener + FIRE/WIND", [_OPEN, "FIRE/WIND (an Aiwass in hand counts: WIND)", "+1 spare card"],
             "If Sacred Sword opened, an Aiwass in hand is your WIND monster."),
     _by["6"],
@@ -334,8 +334,8 @@ LINES = FIRST + SECOND
 INDEX1 = [
  ("Aleister + Reminiscent", "1", True),
  ("Sacred Sword / Meltdown / Aiwass + Reminiscent", "2", True),
- ("Reminiscent alone", "3", False),
- ("Crowley or Spenta + Reminiscent + FIRE/WIND", "4", False),
+ ("Crowley or Spenta + Reminiscent + FIRE/WIND", "3", False),
+ ("Reminiscent alone", "4", False),
  ("Aleister + Ash / Droll / Fuwalos / Zoroa", "5", False),
  ("Sacred Sword / Meltdown / Aiwass + FIRE/WIND", "6", False),
  ("Aleister + any card", "7", False),
