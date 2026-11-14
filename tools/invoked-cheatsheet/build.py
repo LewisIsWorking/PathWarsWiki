@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "2.2"
+VERSION = "2.3"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -388,7 +388,7 @@ S5G = dict(title="Spenta or Crowley + FIRE/WIND + Grail + Invocation", tag="Goin
     "**Battle:** Aeon 3800"]),
   ],
   end="Her whole field gone (up to 3 cards) · Aeon",
-  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S7 instead if you have Invoke Sword.")
+  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S8 instead if you have Invoke Sword.")
 
 S3G = dict(title="Aleister or opener + FIRE/WIND + Grail", tag="Going 2nd · Taffy's Aleister line + Grail · UNTESTED, built from card text",
   needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Grail", "Invocation or a spare card"],
@@ -427,7 +427,15 @@ S6I = dict(title="Aleister got Imperm'd + FIRE/WIND + Grail", tag="Going 2nd · 
   end="Her best monster gone · Sorath · Grail Fusion",
   memo="Imperm negates Aleister's search, not its name, so Invocation and Grail still work.")
 
-SECOND = [S2, S3C, S3G, S3, S4, S5G, S5B, S6I]
+S2X = copy.deepcopy(S2)
+S2X.update(title="Aleister's search stopped + Reminiscent + Invocation", tag="Going 2nd · S1 with Aleister Imperm'd or Ash'd · card text",
+  needs=["Aleister on field (search negated by Imperm/Ash)", "Reminiscent", "Invocation already in hand", "+1 spare card"],
+  memo="Imperm doesn't change Aleister's name: Reminiscent can still target it and it still counts as Aleister for Fusions. If Imperm was SET, it also negates Spell/Trap effects in its column this turn: put your Spells in another column.")
+_st = [list(x) for x in S2X["stages"]][1:]
+_st[0][1] = ["Aleister's search was stopped: you already hold **Invocation**, so carry on"] + _st[0][1][1:]
+S2X["stages"] = [tuple(x) for x in _st]
+
+SECOND = [S2, S2X, S3C, S3G, S3, S4, S5G, S5B, S6I]
 T_AEON = dict(title="Clear her board with Aeon (no Normal Summon left)", tag="Tip · card text · UNTESTED",
   needs=["A Fusion on your field", "Grail", "Invocation (or Reminiscent to search it)", "Aleister in hand (or Meltdown)"],
   stages=[("Line", [
@@ -478,13 +486,14 @@ INDEX1 = [
 ]
 INDEX2 = [
  ("Aleister or opener + Reminiscent", "S1", True),
- ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S2", True),
- ("Aleister or opener + FIRE/WIND + Grail", "S3", True),
- ("Aleister or opener + FIRE/WIND + Super Poly", "S4", True),
- ("Aleister or opener + any card + Super Poly", "S5", False),
- ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S6", False),
- ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S7", False),
- ("Aleister got Imperm'd + FIRE/WIND + Grail", "S8", False),
+ ("Aleister's search Imperm'd/Ash'd + Reminiscent + Invocation", "S2", True),
+ ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S3", True),
+ ("Aleister or opener + FIRE/WIND + Grail", "S4", True),
+ ("Aleister or opener + FIRE/WIND + Super Poly", "S5", True),
+ ("Aleister or opener + any card + Super Poly", "S6", False),
+ ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S7", False),
+ ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S8", False),
+ ("Aleister got Imperm'd + FIRE/WIND + Grail", "S9", False),
 ]
 INDEX3 = [
  ("Her turn: which hand trap, when", "T1", False),
