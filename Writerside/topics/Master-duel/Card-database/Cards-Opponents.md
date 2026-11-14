@@ -32,6 +32,12 @@ Paraphrased; follow the source for exact wording. Verified Nov 2026.
 
 ## Seen on ladder
 
+### Masked HERO (seen in Planet Run, 14 Nov 2026)
+
+- **Masked HERO Dark Law** – DARK Fusion, 2400. While face-up: any card sent to your GY is banished instead (kills Invocation/Sorath/Spenta GY effects). Once per turn, when you add from Deck to hand outside the Draw Phase, she banishes a random card from your hand. **Answer:** Raidjin flips it face-down before you search (lock off), then S:P Little Knight banishes it.
+- **Masked HERO Furnace** – FIRE Level 7, 2200. Reveal to search Mask Change or Polymerization, then discard. Special Summons itself when she Special Summons a non-FIRE HERO Fusion.
+- **Contrast HERO Chaos** – Fusion, 3000, DARK and LIGHT. Once per turn, either turn: negate a face-up card's effects until end of turn. It can't touch hand effects: Spenta's discard halved it to 1500 for Raidjin to kill.
+
 ### Hecahands (steal deck, seen in the Pathfinder game mode, 13 Nov 2026)
 
 - **Hecahands Xeno** – Fusion, 3 Hecahands, 3400. Hecahands monsters can't be destroyed in battle when they battle. Main Phase Quick Effect (either turn): look at 2 random cards in your Extra Deck and Special Summon one to her field. If this Fusion-Summoned card is destroyed by your card effect, she takes control of any number of your monsters. **Banish it, never destroy it.**
