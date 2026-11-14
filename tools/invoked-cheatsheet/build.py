@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.8"
+VERSION = "1.9"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -240,6 +240,23 @@ FIRST = [
     _by["6"],
     _opened("6", "Opener + any card", [_OPEN, "+1 spare card"], ""),
     _by["7"], _by["8"], _by["9"],
+    dict(title="No starter: pass with hand traps", tag="Going 1st · brick hand · card text",
+      needs=["No Aleister, Reminiscent, Meltdown, Aiwass, Sacred Sword, Spenta, Crowley or Zoroa"],
+      stages=[
+       ("Your turn", [
+        "**Don't summon or set anything.** Fuwalos and Imperm from hand only work while you control no cards",
+        "End your turn"]),
+       ("Her turn", [
+        "**Fuwalos:** early in her Main Phase. Draw 1 for each Deck/Extra Deck summon, to find a starter",
+        "**Maxx \"C\":** her first Special Summon. **Ash / Droll / Imperm / Ghost Belle / Ghost Ogre:** see Line S1",
+        "**Nibiru:** after her 5th summon this turn, tributes her whole board",
+        "Fuwalos and Droll don't mix: Droll blocks your Fuwalos draws"]),
+       ("Your next turn", [
+        "Play the best line your new hand fits",
+        "**TTT:** live if she activated a monster effect during your turn (e.g. a hand trap on you)"]),
+      ],
+      end="Nothing on board, but a full hand of interaction",
+      memo="Don't Normal Summon Fuwalos or Nibiru: they're worth far more in hand."),
 ]
 for _i, _L in enumerate(FIRST, 1):
     _L["id"] = str(_i)
@@ -365,6 +382,7 @@ INDEX1 = [
  ("Zoroa or Spenta, no Aleister", "9", False),
  ("Got Drolled after Aleister's search", "10", False),
  ("Got Drolled after Reminiscent's search", "11", False),
+ ("No starter at all (brick)", "12", False),
 ]
 INDEX2 = [
  ("Her turn first: which hand trap, when", "S1", False),
