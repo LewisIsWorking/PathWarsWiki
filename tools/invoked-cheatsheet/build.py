@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "1.16"
+VERSION = "2.0"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -439,7 +439,16 @@ T_AEON = dict(title="Clear her board with Aeon (no Normal Summon left)", tag="Ti
   end="Her 2 best cards gone · Aeon 3800",
   memo="Aeon needs different Attributes: Sorath and Mechaba are both LIGHT.")
 
-TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"]), T_AEON]
+T_PR = dict(title="Planet Run deck: what's different", tag="Side deck · secondary",
+  needs=["Planet Run event deck"],
+  stages=[("Differences from the ranked deck", [
+    "**No Zoroa:** FIRE/WIND material is Ash, Droll, Fuwalos or a banished Aiwass",
+    "**No Ghost Ogre:** for Grail mode 1 LIGHT material use Spenta or Nibiru from the Deck",
+    "Every other line works the same"])],
+  end="Ranked lines first; check this before naming Deck monsters in Planet Run",
+  memo="Send the Planet Run list after any change so this stays right.")
+
+TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"]), T_AEON, T_PR]
 TIPS[1]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
     _L["id"] = "S" + str(_i)
@@ -482,6 +491,7 @@ INDEX3 = [
  ("Going 2nd into Natasha's Dragoon", "T1", False),
  ("Finish the turn: damage tricks and attack values", "T2", False),
  ("Clear her board with Aeon (no Normal Summon left)", "T3", False),
+ ("Planet Run deck: what's different", "T4", False),
 ]
 INDEX = INDEX1
 RULES = [

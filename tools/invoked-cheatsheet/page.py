@@ -71,7 +71,7 @@ def home_section():
     disc = "".join(f"<li><span>{fmt(d)}</span></li>" for d in DISCARD)
     attr = "".join(f"<tr><td>{fmt(c)}</td><td><span class='at at-{a.lower()}'>{a}</span></td><td>{fmt(m)}</td></tr>" for c, a, m in ATTR)
     return f'''<section class="view" id="v-home" data-view="" hidden>
-<h2 class="ht">Which line? Read your hand</h2>
+<h2 class="ht">Which line? Read your hand</h2>\n<p class="tag">Ranked deck (InvokedRD). Planet Run differences: Tip T4</p>
 <div class="seg" role="tablist">
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
