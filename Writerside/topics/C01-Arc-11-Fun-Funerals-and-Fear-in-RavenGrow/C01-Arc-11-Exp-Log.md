@@ -112,26 +112,50 @@
 >> 3. Selenor. Level 12. Exp: 1,033 + 80 = 1,113.
 >> 4. Cardigan. Level 13. Exp: 134 + 60 = 194.
 
-## Session 288
+## Session 288.
 
 > Combat: The Dungeon Skeleton Hoard in Grey-wall Prison's Dungeon!
->> 1. 
+>> 1. Skeleton Infantry x 1.
+>> 2. Exp:
+>> 3. Level 11 = 60 x 1 = 60.
+>> 4. Level 12 = 40 x 1 = 40.
+>> 5. Level 13 = 30 x 1 = 30.
 
 > Characters present for: Skeleton Hoard.
->> 1. Selenor.
->> 2. Cardigan.
->> 3. Allisee.
->> 4. Carnon.
->> 5. Melody.
->> 6. Rino.
+>> 1. Selenor. Level 12. Exp: 1,113.
+>> 2. Cardigan. Level 13. Exp: 194.
+>> 3. Allisee. Level 12. Exp: 548.
+>> 4. Carnon. Level 12. Exp: 375.
+>> 5. Melody. Level 11. Exp: 0.
+
+> Totals: Skeleton Hoard.
+>> 1. Selenor. Level 12. Exp: 1,113 + 40 = 1,153.
+>> 2. Cardigan. Level 13. Exp: 194 + 30 = 224.
+>> 3. Allisee. Level 12. Exp: 548 + 40 = 588.
+>> 4. Carnon. Level 12. Exp: 375 + 40 = 415.
+>> 5. Melody. Level 11. Exp: 0 + 60 = 60.
 
 > Combat: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
->> 1. ...
+>> 1. Monster Parts of Screaming Severed Head x 3. 525 GP. 3 light bulk.
+>> 2. Sergeant Hadrin Emberbeard + 3 Screaming Severed Heads.
+>> 3. Exp:
+>> 4. Level 7 = 160 x 4 = 640.
+>> 5. Level 11 = 40 x 4 = 160.
+>> 6. Level 12 = 30 x 4 = 120.
+>> 7. Level 13 = 20 x 4 = 80.
 
 > Characters present for: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
->> 1. Selenor.
->> 2. Cardigan.
->> 3. Allisee.
->> 4. Carnon.
->> 5. Melody.
->> 6. Rino.
+>> 1. Selenor. Level 12. Exp: 1,153.
+>> 2. Cardigan. Level 13. Exp: 224.
+>> 3. Allisee. Level 12. Exp: 588.
+>> 4. Carnon. Level 12. Exp: 415.
+>> 5. Melody. Level 11. Exp: 60.
+>> 6. Rino. Level 7. Exp: 60.
+
+> Totals: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
+>> 1. Selenor. Level 12. Exp: 1,153 + 120 = 1,273. Level up to 13. Exp: 73.
+>> 2. Cardigan. Level 13. Exp: 224 + 80 = 304.
+>> 3. Allisee. Level 12. Exp: 588 + 120 = 708.
+>> 4. Carnon. Level 12. Exp: 415 + 120 = 535.
+>> 5. Melody. Level 11. Exp: 60 + 160 = 220.
+>> 6. Rino. Level 7. Exp: 60 + 640 = 700.
