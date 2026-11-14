@@ -202,3 +202,10 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - Ash hit Aleister's search; she also used Fuwalos. Claude switched to Line 3, then changed it again mid-turn to save summons. Lewis got lost following the changing steps and ended on Aeon + Virakam + Imperm only.
 - **Lesson:** when the plan breaks mid-combo, Claude gives **one** replacement line and sticks to it. Under the clock, a simple board played confidently beats a better line half-finished.
 - **Practise Lines 1 and 3 against the AI** until they're automatic; then a broken line is recognisable without help.
+
+### Game log: Planet Run vs Fiendsmith / Horus / Dark Magician, went first (14 Nov 2026): loss
+
+- Our Aeon was removed; **Aiwass revived itself from the GY** (good), but with no Aleister it couldn't fuse.
+- Claude named **Ghost Ogre**, which wasn't in hand. **Rule: read the hand from the screenshot every time.**
+- **Nibiru** after her 9th summon tributed her board, but she rebuilt (Little Knight, Hapi, Imsety, Destruction, Rank 8).
+- Caliga in Defence was removed by Little Knight's banish, so it didn't stop the attacks. Against a board with Little Knight, Caliga alone isn't protection.
