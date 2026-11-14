@@ -145,3 +145,12 @@ Meltdown (search Aleister) and Aiwass from hand (banish to search Aleister) open
 - **Grail mode 2:** banish your Aleister + her face-up Dragoon → Oceanus. Grail doesn't target. Needs an Aleister in your field, GY or banishment first.
 - **Neither works on Timaeus the United Magical Dragon** the turn it's summoned or her next turn (unaffected).
 - **Shining Sarcophagus can't be destroyed by monster effects** (Ghost Ogre does nothing to it).
+
+## Lessons from live games (14 Nov 2026)
+
+- **Read both GYs and the banishment before every Invocation.** Invocation banishes from **either** GY. Her Sword returning Fusions from banishment to her GY made **Aeon** possible (and better than Caliga); missed it, then lost to the timer.
+- **Her Magical Meltdown face-up = her Invocation, Sword, Grail and Super Poly can't be negated.** Don't spend Mechaba's discard on them; save the discard for Super Poly.
+- **One discard, two uses:** Mechaba and Super Poly both cost a card from hand. Decide which one gets it before her turn starts.
+- **Super Poly from a set position is best on her turn after she has 2+ Fusions:** fuse them into your Aeon.
+- **Ghost Ogre can't destroy Shining Sarcophagus** (it can't be destroyed by monster effects).
+- **Timer:** send the screenshot at the start of the turn; under 30 seconds, act on your own read.
