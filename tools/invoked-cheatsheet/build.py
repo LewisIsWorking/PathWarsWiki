@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "2.0"
+VERSION = "2.1"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -388,7 +388,7 @@ S5G = dict(title="Spenta or Crowley + FIRE/WIND + Grail + Invocation", tag="Goin
     "**Battle:** Aeon 3800"]),
   ],
   end="Her whole field gone (up to 3 cards) · Aeon",
-  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S8 instead if you have Invoke Sword.")
+  memo="Grail doesn't target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S7 instead if you have Invoke Sword.")
 
 S3G = dict(title="Aleister or opener + FIRE/WIND + Grail", tag="Going 2nd · Taffy's Aleister line + Grail · UNTESTED, built from card text",
   needs=["Aleister, Meltdown or Aiwass", "FIRE/WIND: Ash, Droll, Fuwalos, Zoroa", "Grail", "Invocation or a spare card"],
@@ -427,7 +427,7 @@ S6I = dict(title="Aleister got Imperm'd + FIRE/WIND + Grail", tag="Going 2nd · 
   end="Her best monster gone · Sorath · Grail Fusion",
   memo="Imperm negates Aleister's search, not its name, so Invocation and Grail still work.")
 
-SECOND = [S1, S2, S3C, S3G, S3, S4, S5G, S5B, S6I]
+SECOND = [S2, S3C, S3G, S3, S4, S5G, S5B, S6I]
 T_AEON = dict(title="Clear her board with Aeon (no Normal Summon left)", tag="Tip · card text · UNTESTED",
   needs=["A Fusion on your field", "Grail", "Invocation (or Reminiscent to search it)", "Aleister in hand (or Meltdown)"],
   stages=[("Line", [
@@ -448,8 +448,8 @@ T_PR = dict(title="Planet Run deck: what's different", tag="Side deck · seconda
   end="Ranked lines first; check this before naming Deck monsters in Planet Run",
   memo="Send the Planet Run list after any change so this stays right.")
 
-TIPS = [copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"]), T_AEON, T_PR]
-TIPS[1]["memo"] = "Every going-2nd line already includes these where they fit."
+TIPS = [S1, copy.deepcopy(_by["10"]), copy.deepcopy(_by["11"]), T_AEON, T_PR]
+TIPS[2]["memo"] = "Every going-2nd line already includes these where they fit."
 for _i, _L in enumerate(SECOND, 1):
     _L["id"] = "S" + str(_i)
     _L["when"] = "2nd"
@@ -458,7 +458,7 @@ for _i, _L in enumerate(TIPS, 1):
     _L["when"] = "tips"
 for _L in FIRST:
     if _L.get("memo"):
-        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Tip T2 for the finishers")
+        _L["memo"] = _L["memo"].replace("see Line 13 for the finishers", "see Tip T3 for the finishers")
 
 LINES = FIRST + SECOND + TIPS
 
@@ -477,21 +477,21 @@ INDEX1 = [
  ("No starter at all (brick)", "12", False),
 ]
 INDEX2 = [
- ("Her turn first: which hand trap, when", "S1", False),
- ("Aleister or opener + Reminiscent", "S2", True),
- ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S3", True),
- ("Aleister or opener + FIRE/WIND + Grail", "S4", True),
- ("Aleister or opener + FIRE/WIND + Super Poly", "S5", True),
- ("Aleister or opener + any card + Super Poly", "S6", False),
- ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S7", False),
- ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S8", False),
- ("Aleister got Imperm'd + FIRE/WIND + Grail", "S9", False),
+ ("Aleister or opener + Reminiscent", "S1", True),
+ ("Super Poly: she has an Extra Deck monster + a Spellcaster", "S2", True),
+ ("Aleister or opener + FIRE/WIND + Grail", "S3", True),
+ ("Aleister or opener + FIRE/WIND + Super Poly", "S4", True),
+ ("Aleister or opener + any card + Super Poly", "S5", False),
+ ("Spenta or Crowley + FIRE/WIND + Grail + Invocation", "S6", False),
+ ("Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword", "S7", False),
+ ("Aleister got Imperm'd + FIRE/WIND + Grail", "S8", False),
 ]
 INDEX3 = [
- ("Going 2nd into Natasha's Dragoon", "T1", False),
- ("Finish the turn: damage tricks and attack values", "T2", False),
- ("Clear her board with Aeon (no Normal Summon left)", "T3", False),
- ("Planet Run deck: what's different", "T4", False),
+ ("Her turn: which hand trap, when", "T1", False),
+ ("Going 2nd into Natasha's Dragoon", "T2", False),
+ ("Finish the turn: damage tricks and attack values", "T3", False),
+ ("Clear her board with Aeon (no Normal Summon left)", "T4", False),
+ ("Planet Run deck: what's different", "T5", False),
 ]
 INDEX = INDEX1
 RULES = [

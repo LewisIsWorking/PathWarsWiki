@@ -71,7 +71,7 @@ def home_section():
     disc = "".join(f"<li><span>{fmt(d)}</span></li>" for d in DISCARD)
     attr = "".join(f"<tr><td>{fmt(c)}</td><td><span class='at at-{a.lower()}'>{a}</span></td><td>{fmt(m)}</td></tr>" for c, a, m in ATTR)
     return f'''<section class="view" id="v-home" data-view="" hidden>
-<h2 class="ht">Which line? Read your hand</h2>\n<p class="tag">Ranked deck (InvokedRD). Planet Run differences: Tip T4</p>
+<h2 class="ht">Which line? Read your hand</h2>\n<p class="tag">Ranked deck (InvokedRD). Planet Run differences: Tip T5</p>
 <div class="seg" role="tablist">
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
@@ -79,7 +79,7 @@ def home_section():
 </div>
 <div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 10–11 only if you get Drolled, 12 if you bricked</p><div class="picks">{picks(INDEX1)}</div></div>
 <div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks">{picks(INDEX3)}</div></div>
-<div class="plist" data-turn="2nd" hidden><p class="tag">S1 on her turn. Then S2–S9, strongest first</p><div class="picks">{picks(INDEX2)}</div></div>
+<div class="plist" data-turn="2nd" hidden><p class="tag">Strongest first: play the top row that fits. Hand traps on her turn: Tip T1</p><div class="picks">{picks(INDEX2)}</div></div>
 <div class="stage"><h3>Golden rules</h3><ol>{rules}</ol></div>
 <div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol>{disc}</ol>
 <p class="keep"><b>Keep:</b> {fmt(KEEP)}</p></div>
