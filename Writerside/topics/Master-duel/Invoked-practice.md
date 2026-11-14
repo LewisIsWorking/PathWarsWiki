@@ -312,3 +312,9 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - Opponent **Super Polymerization**'d Mechaba + Virakam into Mudragon of the Swamp (can't be responded to), made **Red-Eyes Dark Dragoon**, destroyed Oceanus for 3000 burn, then attacked.
 - **Lessons:** Super Poly beats a negate board; nothing stops it. Save **Ash for the Dragoon route** (Red-Eyes Fusion uses Deck monsters, so Ash can negate it; Destruction's Gaze search too). Keep a **monster** in hand for Mechaba: Dragoon's destroy/burn is a monster effect.
 - Lewis used **Ash on Magician's Rod's search** and **set Imperm on Rod to negate Triple Tactics Talent through Imperm's column effect** (a set Imperm also negates other Spell/Trap effects in its column that turn). Good plays; the loss came from Super Poly + Dragoon.
+
+### Practice log: Solo, Line 1 going second (14 Nov 2026): win
+
+- Discarded the hand Sword at step 15 (the sheet didn't say to keep it), so no Omega finish. Fixed in v1.2 (Line 1 note + Line 11).
+- **Once Super Poly is activated you can't cancel it.** Madness was already banished for Oceanus, so the only legal fusion was Mechaba + Oceanus → Aeon. Order matters: Super Poly before Invocation uses Madness.
+- Won anyway (Aeon + Augoeides-style follow-up next turn vs Archfiend AI).
