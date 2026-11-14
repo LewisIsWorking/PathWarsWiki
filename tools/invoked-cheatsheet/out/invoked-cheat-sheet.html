@@ -1,0 +1,340 @@
+<title>Invoked Cheat Sheet</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Space+Grotesk:wght@600;700;800&display=swap">
+<style>
+:root{
+  /* Layout: one-screen views switched by #hash, sticky line strip on top, big tap targets for mid-duel use */
+  --bg:#0d111c; --panel:#151c2e; --line:#26314f; --ink:#e9edf7; --muted:#97a3c2;
+  --gold:#e0ad4a; --gold-ink:#1d1405; --name:#ffd77a; --arrow:#86b8ff;
+  --end:#162a20; --end-line:#2d5a3f; --end-k:#80d69d; --memo:#231d33; --memo-line:#4a3a68; --memo-k:#c9a9ff;
+  --warn:#f0a35e;
+  --display:'Space Grotesk',Inter,system-ui,sans-serif; --body:Inter,system-ui,-apple-system,'Segoe UI',sans-serif;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg)}
+body{color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.4;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 32px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:640px;margin:0 auto}
+.strip{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;border-bottom:1px solid var(--line);
+  display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.strip a{min-width:38px;height:38px;padding:0 10px;border-radius:10px;display:inline-flex;align-items:center;justify-content:center;
+  background:var(--panel);border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-variant-numeric:tabular-nums}
+.strip a.home{font-family:var(--display);padding:0 12px}
+.strip a[aria-current="page"]{background:var(--gold);color:var(--gold-ink);border-color:var(--gold)}
+.ver{margin-left:auto;font-size:12px;color:var(--muted)}
+h2,h3{font-family:var(--display);text-wrap:balance;margin:0}
+.ht{font-size:26px;margin-top:16px}
+.lh{display:flex;gap:12px;align-items:center;margin-top:16px}
+.badge{flex:none;width:52px;height:52px;border-radius:13px;background:var(--gold);color:var(--gold-ink);font:800 26px var(--display);
+  display:flex;align-items:center;justify-content:center}
+.lh h2{font-size:23px;line-height:1.15}
+.tag{margin:4px 0 0;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+.tag.warn{color:var(--warn)}
+.needs{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0}
+.chip{background:#1f2a46;border:1px solid #34446d;color:#d3e2ff;border-radius:999px;padding:5px 11px;font-size:14px;font-weight:600}
+.stage{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:10px 14px 6px;margin-top:12px}
+.stage h3{font-size:12px;color:var(--gold);text-transform:uppercase;letter-spacing:.08em;margin-bottom:4px}
+ol{margin:0;padding:0;list-style:none;counter-reset:s}
+ol[start]{counter-reset:s calc(var(--start,1) - 1)}
+li{display:flex;gap:10px;padding:8px 0;border-top:1px solid #1e2843;counter-increment:s}
+li:first-child{border-top:none}
+li::before{content:counter(s);flex:none;width:26px;height:26px;border-radius:7px;background:#2a3961;font-weight:700;font-size:14px;
+  display:flex;align-items:center;justify-content:center;margin-top:1px;font-variant-numeric:tabular-nums}
+li span{min-width:0}
+b{color:var(--name)} .arr{color:var(--arrow);font-weight:700}
+.end{margin-top:12px;background:var(--end);border:1px solid var(--end-line);border-radius:14px;padding:10px 14px}
+.memo{margin-top:10px;background:var(--memo);border:1px solid var(--memo-line);border-radius:14px;padding:10px 14px;font-size:16px}
+.k{display:block;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--end-k);margin-bottom:2px}
+.memo .k{color:var(--memo-k)}
+.pn{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;margin-top:16px}
+.pn .btn:last-child{justify-self:end}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 14px;border-radius:12px;background:var(--panel);
+  border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700}
+.btn.ghost{color:var(--muted)}
+.picks{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.pick{display:flex;gap:12px;align-items:center;justify-content:space-between;padding:12px 14px;border-radius:12px;background:var(--panel);
+  border:1px solid var(--line);color:var(--ink);text-decoration:none;min-height:52px}
+.pick.best{background:#2a2310;border-color:#6d5620}
+.hand{min-width:0}
+.go{flex:none;background:var(--gold);color:var(--gold-ink);border-radius:9px;padding:4px 10px;font-weight:800;white-space:nowrap}
+.keep{margin:6px 0 8px;font-size:15px}
+.tw{overflow-x:auto}
+table.attr{width:100%;border-collapse:collapse;font-size:15px}
+.attr th{text-align:left;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.06em;padding:4px 6px 6px 0}
+.attr td{padding:7px 6px 7px 0;border-top:1px solid #1e2843;vertical-align:top}
+.at{display:inline-block;border-radius:6px;padding:1px 7px;font-size:12px;font-weight:800;letter-spacing:.04em}
+.at-fire{background:#5a2214;color:#ffb39a}.at-wind{background:#163f2b;color:#9ff0c0}.at-earth{background:#43361a;color:#f2d79a}
+.at-light{background:#46421c;color:#fff2a6}.at-dark{background:#2e2147;color:#d6c0ff}
+a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.foot{margin-top:18px;font-size:12px;color:var(--muted);text-align:right}
+</style>
+<div class="wrap">
+<nav class="strip" aria-label="Lines"><a class="home" href="#">?</a><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a><a href="#line-10" data-v="line-10">10</a><a href="#line-11" data-v="line-11">11</a><span class="ver">v1.2 · 14 Nov 2026</span></nav>
+<section class="view" id="v-home" data-view="" hidden>
+<h2 class="ht">Which line? Read your hand</h2>
+<p class="tag">Tap the first row that fits</p>
+<div class="picks"><a class="pick best" href="#line-4"><span class="hand">Aleister + Reminiscent</span><span class="go">Line 4</span></a><a class="pick best" href="#line-4"><span class="hand">Meltdown / Sacred Spirit Sword / Aiwass + Reminiscent</span><span class="go">Line 6<span class="arr">→</span>4</span></a><a class="pick" href="#line-3"><span class="hand">Reminiscent alone</span><span class="go">Line 3</span></a><a class="pick" href="#line-5"><span class="hand">Crowley or Spenta + Reminiscent + FIRE/WIND</span><span class="go">Line 5</span></a><a class="pick" href="#line-1"><span class="hand">Aleister + Ash / Droll / Fuwalos / Zoroa</span><span class="go">Line 1</span></a><a class="pick" href="#line-2"><span class="hand">Aleister + any card</span><span class="go">Line 2</span></a><a class="pick" href="#line-6"><span class="hand">Sacred Spirit Sword / Meltdown / Aiwass</span><span class="go">Line 6</span></a><a class="pick" href="#line-7"><span class="hand">Zoroa or Spenta, no Aleister</span><span class="go">Line 7</span></a><a class="pick" href="#line-9"><span class="hand">Got Drolled after Aleister&#x27;s search</span><span class="go">Line 9</span></a><a class="pick" href="#line-10"><span class="hand">Got Drolled after Reminiscent&#x27;s search</span><span class="go">Line 10</span></a><a class="pick" href="#line-8"><span class="hand">Going 2nd into Dragoon</span><span class="go">Line 8</span></a><a class="pick" href="#line-11"><span class="hand">Going 2nd: finish the turn</span><span class="go">Line 11</span></a></div>
+<div class="stage"><h3>Golden rules</h3><ol><li><span>Baybarron: say SKIP to the banish unless you&#x27;ve picked a target</span></li><li><span>Madness needs a spare card to discard. Keep one</span></li><li><span>Oceanus goes in the Extra Monster Zone</span></li><li><span>Before any Link: is there a free zone?</span></li><li><span>Read both GYs + banishment before Invocation</span></li><li><span>Discard order: dead copies (2nd Meltdown, used Sword) <span class="arr">→</span> Fuwalos <span class="arr">→</span> Imperm <span class="arr">→</span> Crossout <span class="arr">→</span> Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru</span></li><li><span>Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can</span></li></ol></div>
+<div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol><li><span>Dead copies: 2nd Meltdown, a Sword when another is set, Sacred Spirit Sword after you&#x27;ve used one</span></li><li><span>Mulcharmy Fuwalos (dead once you control cards)</span></li><li><span>Infinite Impermanence, unless you&#x27;ll set it</span></li><li><span>Crossout Designator</span></li><li><span>Ghost Belle</span></li></ol>
+<p class="keep"><b>Keep:</b> Maxx &quot;C&quot;, Ash, Super Poly, Droll, Nibiru, Ghost Ogre</p></div>
+<div class="stage"><h3>Aleister + a hand card makes</h3>
+<div class="tw"><table class="attr"><thead><tr><th>Card</th><th>Attribute</th><th>Fusion</th></tr></thead><tbody><tr><td>Ash, Zoroa</td><td><span class='at at-fire'>FIRE</span></td><td>Sorath</td></tr><tr><td>Fuwalos, Droll, Aiwass</td><td><span class='at at-wind'>WIND</span></td><td>Sorath or Raidjin</td></tr><tr><td>Maxx &quot;C&quot;, Ghost Belle</td><td><span class='at at-earth'>EARTH</span></td><td>Baybarron</td></tr><tr><td>Ghost Ogre, Nibiru, Spenta</td><td><span class='at at-light'>LIGHT</span></td><td>Mechaba or Baybarron</td></tr><tr><td>Crowley</td><td><span class='at at-dark'>DARK</span></td><td>Caliga or Oceanus</td></tr></tbody></table></div></div>
+</section>
+<section class="view" id="v-line-1" data-view="line-1" hidden>
+<header class="lh"><span class="badge">1</span><div><h2>Aleister + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM)</p></div></header>
+<div class="needs"><span class="chip">Aleister</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Sorath</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Sorath (+1000)</span></li>
+<li><span>Sorath: revive Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Crowley into Baybarron</h3><ol start="7">
+<li><span>Link Aleister + Artemis <span class="arr">→</span> <b>Endymion</b>, equip Artemis</span></li>
+<li><span>Artemis: search <b>Crowley</b> (it summons itself)</span></li>
+<li><span>Crowley: Crowley + Endymion <span class="arr">→</span> <b>Baybarron</b></span></li>
+<li><span>Baybarron: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Sword</b></span></li>
+</ol></div>
+<div class="stage"><h3>Finish</h3><ol start="12">
+<li><span>Link Sorath + Baybarron <span class="arr">→</span> <b>Madness</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+<li><span>Madness: discard spare <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Invocation: Madness + Crowley (GY) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Oceanus (EMZ) · Mechaba · Virakam · set Sword</div>
+<div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Sword in hand? Don&#x27;t discard it at step 15: see Line 11 for the Omega finish.</div>
+<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-2">Line 2 →</a></nav>
+</section>
+<section class="view" id="v-line-2" data-view="line-2" hidden>
+<header class="lh"><span class="badge">2</span><div><h2>Aleister + any card</h2><p class="tag">Sourced: Taffy (MDM) · weakest line</p></div></header>
+<div class="needs"><span class="chip">Aleister</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Sorath</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Almiraj</b></span></li>
+<li><span>Invocation: Aleister + Almiraj <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Sorath</span></li>
+<li><span>Sorath: revive Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Finish</h3><ol start="7">
+<li><span>Link Aleister + Sorath <span class="arr">→</span> <b>Madness</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Baybarron</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Baybarron (search <b>Virakam</b>, skip banish)</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Sword</b></span></li>
+<li><span>Link Virakam + Baybarron <span class="arr">→</span> <b>Little Knight</b></span></li>
+<li><span>Invocation: Madness + Virakam <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Little Knight · Mechaba · set Sword</div>
+<nav class="pn"><a class="btn" href="#line-1">← Line 1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-3">Line 3 →</a></nav>
+</section>
+<section class="view" id="v-line-3" data-view="line-3" hidden>
+<header class="lh"><span class="badge">3</span><div><h2>Reminiscent alone</h2><p class="tag">Sourced: Taffy (MDM)</p></div></header>
+<div class="needs"><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Raidjin loop into Sorath</h3><ol start="1">
+<li><span>Normal Summon Reminiscent: banish <b>Raidjin</b> (Extra Deck) <span class="arr">→</span> search <b>Sword</b></span></li>
+<li><span>Sword: Reminiscent + Raidjin (banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive Reminiscent</span></li>
+<li><span>Link Reminiscent <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Sword GY: add Reminiscent to hand</span></li>
+<li><span>Reminiscent (hand): target Sorath <span class="arr">→</span> Special Summon itself</span></li>
+</ol></div>
+<div class="stage"><h3>Crowley into Baybarron</h3><ol start="7">
+<li><span>Link Artemis + Reminiscent <span class="arr">→</span> <b>Endymion</b>, equip Artemis</span></li>
+<li><span>Artemis: search <b>Crowley</b> (it summons itself)</span></li>
+<li><span>Crowley: Crowley + Endymion <span class="arr">→</span> <b>Baybarron</b></span></li>
+<li><span>Baybarron: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Sword</b></span></li>
+</ol></div>
+<div class="stage"><h3>Aeon finish</h3><ol start="12">
+<li><span>Link Sorath + Baybarron <span class="arr">→</span> <b>Madness</b></span></li>
+<li><span>Sorath GY: Sorath + Baybarron + Raidjin <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Aeon (banish up to 3, then pick 3 from her Extra Deck)</span></li>
+<li><span>Link Aeon + Virakam <span class="arr">→</span> <b>Little Knight</b></span></li>
+<li><span>Invocation: Madness + Aeon (GY) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Oceanus (EMZ) · Little Knight · set Sword · up to 6 of hers banished</div>
+<nav class="pn"><a class="btn" href="#line-2">← Line 2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-4">Line 4 →</a></nav>
+</section>
+<section class="view" id="v-line-4" data-view="line-4" hidden>
+<header class="lh"><span class="badge">4</span><div><h2>Aleister + Reminiscent</h2><p class="tag">Sourced: Taffy (MDM), Baronne branch · BEST LINE</p></div></header>
+<div class="needs"><span class="chip">Aleister (or Meltdown / Aiwass / Sacred Spirit Sword)</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>1 · Two Links into Crowley</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Reminiscent: target Aleister, summon itself; banish <b>Raidjin</b> <span class="arr">→</span> search <b>Sword</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Link Artemis + Reminiscent <span class="arr">→</span> <b>Endymion</b>, equip Artemis</span></li>
+<li><span>Artemis: search <b>Crowley</b> (summons itself). DON&#x27;T FUSE</span></li>
+</ol></div>
+<div class="stage"><h3>2 · Chorozo, Baybarron, Sorath</h3><ol start="6">
+<li><span>Endymion + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Invocation: Aleister + Artemis (GY) <span class="arr">→</span> <b>Baybarron</b>, search <b>Virakam</b>, skip banish</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Sword</b></span></li>
+<li><span>Sword (hand): Aleister + Raidjin (banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+</ol></div>
+<div class="stage"><h3>3 · Baronne and Madness</h3><ol start="10">
+<li><span>Link Baybarron + Crowley <span class="arr">→</span> <b>Madness</b></span></li>
+<li><span>Sorath: revive Crowley</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+</ol></div>
+<div class="stage"><h3>4 · Aeon finish</h3><ol start="13">
+<li><span>Sorath GY: Sorath + Baybarron + Raidjin <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Aeon (banish up to 3, then pick 3 from her Extra Deck)</span></li>
+<li><span>Link Aeon + Crowley <span class="arr">→</span> <b>Little Knight</b></span></li>
+<li><span>Sword GY: add Invocation</span></li>
+<li><span>Invocation: Aleister + Endymion (GY) <span class="arr">→</span> <b>Mechaba</b></span></li>
+<li><span>Invocation: Madness + Crowley <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
+<li><span>Invocation GY: add a banished Aleister</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Sword · Aleister in hand · up to 6 of hers banished</div>
+<div class="memo"><span class="k">Remember</span>Raidjin used 3× (cost <span class="arr">→</span> Sword <span class="arr">→</span> Aeon). Crowley used 3× (Madness <span class="arr">→</span> Little Knight <span class="arr">→</span> Oceanus).</div>
+<nav class="pn"><a class="btn" href="#line-3">← Line 3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-5">Line 5 →</a></nav>
+</section>
+<section class="view" id="v-line-5" data-view="line-5" hidden>
+<header class="lh"><span class="badge">5</span><div><h2>Crowley or Spenta + Reminiscent + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM)</p></div></header>
+<div class="needs"><span class="chip">Crowley (Normal Summon) or Spenta (discard <span class="arr">→</span> Crowley)</span><span class="chip">Reminiscent</span><span class="chip">FIRE/WIND monster</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Sorath and Madness</h3><ol start="1">
+<li><span>Crowley: Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive Crowley</span></li>
+<li><span>Reminiscent: target Sorath, summon itself; banish <b>Raidjin</b> <span class="arr">→</span> search <b>Sword</b></span></li>
+<li><span>Link Reminiscent + Sorath <span class="arr">→</span> <b>Madness</b></span></li>
+<li><span>Sorath GY: Reminiscent + Sorath <span class="arr">→</span> <b>Baybarron</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Baybarron (search <b>Virakam</b>)</span></li>
+</ol></div>
+<div class="stage"><h3>Aeon finish</h3><ol start="7">
+<li><span>Link Baybarron + Crowley <span class="arr">→</span> <b>Little Knight</b>: banish Baybarron from your GY</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Sword</b></span></li>
+<li><span>Sword: Baybarron + Sorath + Raidjin (banished) <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Aeon: banish up to 3 of hers, then pick 3 from her Extra Deck</span></li>
+<li><span>Sword GY: add Invocation</span></li>
+<li><span>Invocation: Crowley + Madness <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Sword</div>
+<div class="memo"><span class="k">Remember</span>Taffy makes Elysium after Aeon. Add that step once you own Elysium.</div>
+<nav class="pn"><a class="btn" href="#line-4">← Line 4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-6">Line 6 →</a></nav>
+</section>
+<section class="view" id="v-line-6" data-view="line-6" hidden>
+<header class="lh"><span class="badge">6</span><div><h2>Sacred Spirit Sword opener</h2><p class="tag">Sourced: Dawnstar (MDM)</p></div></header>
+<div class="needs"><span class="chip">Sacred Spirit Sword (or Meltdown / Aiwass)</span></div>
+<div class="stage"><h3>Open</h3><ol start="1">
+<li><span>Sacred Spirit Sword: summon <b>Aiwass</b> from Deck (only Fusions attack this turn)</span></li>
+<li><span>Aiwass: banish it <span class="arr">→</span> search <b>Aleister</b> <span class="arr">→</span> Normal Summon it straight away</span></li>
+<li><span>Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+</ol></div>
+<div class="stage"><h3>Then continue</h3><ol start="4">
+<li><span>Reminiscent in hand <span class="arr">→</span> <b>Line 4</b> from step 2</span></li>
+<li><span>FIRE/WIND in hand <span class="arr">→</span> <b>Line 1</b> from step 2</span></li>
+<li><span>Anything else <span class="arr">→</span> <b>Line 2</b> from step 2</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Same board as the line you continue into</div>
+<div class="memo"><span class="k">Remember</span>Meltdown or Aiwass from hand open the same way but use your own Normal Summon.</div>
+<nav class="pn"><a class="btn" href="#line-5">← Line 5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-7">Line 7 →</a></nav>
+</section>
+<section class="view" id="v-line-7" data-view="line-7" hidden>
+<header class="lh"><span class="badge">7</span><div><h2>Zoroa or Spenta, no Aleister</h2><p class="tag warn">UNTESTED · built from card text</p></div></header>
+<div class="needs"><span class="chip">Zoroa, or Spenta (discard <span class="arr">→</span> Zoroa)</span></div>
+<div class="stage"><h3>Line</h3><ol start="1">
+<li><span>Spenta (if held): discard <span class="arr">→</span> search <b>Zoroa</b></span></li>
+<li><span>Normal Summon Zoroa</span></li>
+<li><span>Zoroa: target itself, equip <b>Artemis</b> from Extra Deck</span></li>
+<li><span>Zoroa: Special Summon a Level 4 Spellcaster from hand/GY (Spenta)</span></li>
+<li><span>Artemis: search <b>Crowley</b> (it summons itself)</span></li>
+<li><span>Crowley + Zoroa (FIRE) <span class="arr">→</span> <b>Sorath</b>, or Crowley + Spenta (LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>1 Fusion + a spare body. Turns a brick into a board.</div>
+<nav class="pn"><a class="btn" href="#line-6">← Line 6</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-8">Line 8 →</a></nav>
+</section>
+<section class="view" id="v-line-8" data-view="line-8" hidden>
+<header class="lh"><span class="badge">8</span><div><h2>Going 2nd into Natasha&#x27;s Dragoon</h2><p class="tag warn">Built from card text · practise it</p></div></header>
+<div class="needs"><span class="chip">Aleister route</span><span class="chip">Super Polymerization</span><span class="chip">Imperm (ideal)</span></div>
+<div class="stage"><h3>Her turn</h3><ol start="1">
+<li><span><b>Imperm Imsety</b> (stops her send-to-GY punish)</span></li>
+</ol></div>
+<div class="stage"><h3>Your turn</h3><ol start="2">
+<li><span><b>Meltdown</b> <span class="arr">→</span> Aleister (bait Dragoon&#x27;s negate here)</span></li>
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span><b>Super Poly</b>: Aleister + Dragoon <span class="arr">→</span> <b>Oceanus</b> (she can&#x27;t respond)</span></li>
+<li><span>Invocation: Dragoon (her GY) + Oceanus <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Aeon: banish <b>King&#x27;s Sarcophagus</b> + her best Horus</span></li>
+<li><span>Attack</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Dragoon gone · Sarcophagus gone · Aeon 3800 on board</div>
+<div class="memo"><span class="k">Remember</span>Can&#x27;t hit Timaeus the turn it lands. Ghost Ogre can&#x27;t touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters.</div>
+<nav class="pn"><a class="btn" href="#line-7">← Line 7</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-9">Line 9 →</a></nav>
+</section>
+<section class="view" id="v-line-9" data-view="line-9" hidden>
+<header class="lh"><span class="badge">9</span><div><h2>Aleister got Drolled</h2><p class="tag">Sourced: Taffy (MDM) · needs Chorozo</p></div></header>
+<div class="needs"><span class="chip">Aleister</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span></div>
+<div class="stage"><h3>No more searches needed</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b> (Droll hits after this)</span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister (not from Deck, so Droll can&#x27;t stop it)</span></li>
+<li><span>Discard Aleister on Sorath <span class="arr">→</span> Sorath revives Aleister</span></li>
+<li><span>Aleister + Artemis <span class="arr">→</span> <b>Chorozo</b></span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba</div>
+<nav class="pn"><a class="btn" href="#line-8">← Line 8</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-10">Line 10 →</a></nav>
+</section>
+<section class="view" id="v-line-10" data-view="line-10" hidden>
+<header class="lh"><span class="badge">10</span><div><h2>Reminiscent got Drolled</h2><p class="tag">Sourced: Taffy (MDM) · needs Chorozo</p></div></header>
+<div class="needs"><span class="chip">Reminiscent</span></div>
+<div class="stage"><h3>No more searches needed</h3><ol start="1">
+<li><span>Normal Summon Reminiscent: banish <b>Raidjin</b> <span class="arr">→</span> search <b>Sword</b> (Droll hits after this)</span></li>
+<li><span>Sword: Reminiscent + Raidjin (banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive Reminiscent</span></li>
+<li><span>Link Reminiscent <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Sword GY: add Reminiscent (from GY, Droll can&#x27;t stop it)</span></li>
+<li><span>Reminiscent: target Sorath <span class="arr">→</span> Special Summon itself</span></li>
+<li><span>Reminiscent + Artemis <span class="arr">→</span> <b>Chorozo</b></span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Raidjin + Chorozo <span class="arr">→</span> <b>Aeon</b> (banish up to 3, pick 3 from her Extra Deck)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Aeon · up to 6 of hers banished</div>
+<nav class="pn"><a class="btn" href="#line-9">← Line 9</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-11">Line 11 →</a></nav>
+</section>
+<section class="view" id="v-line-11" data-view="line-11" hidden>
+<header class="lh"><span class="badge">11</span><div><h2>Going 2nd: finishers</h2><p class="tag warn">Built from card text · add to the end of any line</p></div></header>
+<div class="needs"><span class="chip">Use whatever you have left</span></div>
+<div class="stage"><h3>Remove her blocker</h3><ol start="1">
+<li><span><b>Sword in hand:</b> Aleister + a Fusion (both banished) <span class="arr">→</span> <b>Omega</b> <span class="arr">→</span> banish her monster</span></li>
+<li><span><b>Super Poly:</b> Madness (counts as Aleister) + her monster <span class="arr">→</span> Fusion by her Attribute: LIGHT/EARTH <b>Baybarron</b>, WIND <b>Raidjin</b>, FIRE <b>Sorath</b>, DARK/WATER <b>Oceanus</b></span></li>
+<li><span>Do Super Poly BEFORE Invocation uses Madness. Invocation can still use Madness from the GY</span></li>
+</ol></div>
+<div class="stage"><h3>More damage</h3><ol start="4">
+<li><span><b>Aleister in hand:</b> discard during battle <span class="arr">→</span> a Fusion gains 1000</span></li>
+<li><span><b>Oceanus in GY:</b> banish it <span class="arr">→</span> one Fusion can attack directly</span></li>
+<li><span><b>Little Knight:</b> SKIP its banish or you can&#x27;t attack directly</span></li>
+</ol></div>
+<div class="stage"><h3>Attack values</h3><ol start="7">
+<li><span>Aeon 3800 · Oceanus 3000 · Baronne 3000 · Omega 2800 · Mechaba 2500 · Baybarron 2450</span></li>
+<li><span>Raidjin 2200 · Madness 1800 · Sorath 1600 · Little Knight 1600 · Virakam 1000</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Count to 8000 before you start the Battle Phase</div>
+<nav class="pn"><a class="btn" href="#line-10">← Line 10</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+</section>
+<p class="foot">Invoked cheat sheet · v1.2 · 14 Nov 2026 · source: PathWarsWiki</p>
+</div>
+<script>
+(function(){
+  var views=[].slice.call(document.querySelectorAll('.view'));
+  var links=[].slice.call(document.querySelectorAll('.strip a'));
+  function show(){
+    var h=(location.hash||'').replace('#','');
+    var found=views.some(function(v){return v.dataset.view===h});
+    if(!found) h='';
+    views.forEach(function(v){v.hidden=v.dataset.view!==h});
+    links.forEach(function(a){ if((a.dataset.v||'')===h) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
+    window.scrollTo(0,0);
+  }
+  window.addEventListener('hashchange',show); show();
+  document.querySelectorAll('ol[start]').forEach(function(o){o.style.setProperty('--start',o.getAttribute('start'))});
+})();
+</script>
