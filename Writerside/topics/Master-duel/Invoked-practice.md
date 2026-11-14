@@ -53,6 +53,20 @@ Discard the card that does least on **her** turn. Once you control cards, Fuwalo
 
 **Keep:** Maxx "C", Ash, Super Polymerization, Droll, Nibiru, Ghost Ogre. For Mechaba, try to hold 1 monster and 1 Spell/Trap so it can negate either type.
 
+## Hand-card Attributes (for Invocation from hand)
+
+Checked on YGOPRODeck, 14 Nov 2026. With Aleister, each one makes:
+
+| Card | Attribute | Aleister + it makes |
+| --- | --- | --- |
+| Ash, Zoroa | FIRE | Sorath |
+| Fuwalos, Droll, Aiwass | WIND | Sorath or Raidjin |
+| Maxx "C", Ghost Belle | EARTH | Baybarron |
+| Ghost Ogre, Nibiru, Spenta | LIGHT | Mechaba or Baybarron |
+| Crowley | DARK | Caliga or Oceanus |
+
+Spend the card lowest on the discard priority. A FIRE/WIND card makes it Line 1, which beats Line 2.
+
 ## Line 1: Aleister + a FIRE or WIND monster (sourced: Taffy, "Aleister 1.5 Card Combo")
 
 1. Normal Summon Aleister, search Invocation
