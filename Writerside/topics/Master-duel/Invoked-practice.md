@@ -179,3 +179,4 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 
 - Lost on **total duel time**: 8:50 used vs her 5:32, in only 3 turns. Most of it was waiting on Claude's long replies.
 - **Fix:** play the practice-sheet lines from memory without asking; ask Claude only for unusual spots; Claude replies in one or two lines during games.
+- **Lewis's find:** Aleister searched Invocation, then **Invocation banished Oceanus (GY, EARTH) + Baybarron (FIRE) → Hyperinvoked Aeon**. Aeon needs **no Aleister**, just 2+ Fusions with different Attributes, and Invocation can banish them from your field and GY. Claude had wrongly said "nothing works without an Aleister". **Rule: always check GY Fusions for an Aeon.**
