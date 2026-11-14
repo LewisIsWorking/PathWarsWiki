@@ -153,7 +153,7 @@
 >> 6. Rino. Level 7. Exp: 60.
 
 > Totals: Sergeant Hadrin Emberbeard & The Wailing Wall of Skulls.
->> 1. Selenor. Level 12. Exp: 1,153 + 120 = 1,273. Level up to 13. Exp: 73.
+>> 1. Selenor. Level 12. Exp: 1,153 + 30 + 30 = 1,213. Level up to 13. Exp: 13 + 20 + 20 = 53.
 >> 2. Cardigan. Level 13. Exp: 224 + 80 = 304.
 >> 3. Allisee. Level 12. Exp: 588 + 120 = 708.
 >> 4. Carnon. Level 12. Exp: 415 + 120 = 535.
