@@ -90,3 +90,8 @@ End board: Little Knight, Mechaba, set Sword. If a fusion gets negated, the seco
 - She used **Imsety (Level 8 DARK Spellcaster)** as material for Dark Magician of Destruction → Gaze → Dragoon.
 - With her hand empty, Dragoon couldn't negate. Meltdown → Aleister → Invocation, then **Grail mode 2 banished Aleister + Dragoon → Oceanus** in the Extra Monster Zone. Followed with Augoeides for the win.
 - Lessons: Grail mode 2 is the Dragoon answer; fix the bricks with 3× Sacred Spirit Sword Aiwass (its Aleister mode turns on Grail and Virakam).
+
+### 14 Nov 2026: pack pull
+
+- Pulled **Hyperinvoked Aeon #2** and **Invoked De Anima ×2** from a 10-pack.
+- **De Anima** (Aleister + a monster summoned from the Extra Deck): on summon, destroy all of their Extra-Deck-summoned monsters, or all their Spells/Traps. **Doesn't kill Red-Eyes Dark Dragoon** (can't be destroyed by card effects), and **don't use it on Hecahands Xeno** (destroying it lets them steal your monsters). Good vs Jack's Chimeratech Fusions and Fiendsmith/Link boards.
