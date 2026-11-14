@@ -187,3 +187,10 @@ What went right: Sword using the banished Aiwass (WIND) as material after Imperm
 - Hand: Droll, Ash, Reminiscent, Aiwass, Meltdown (+ drew Crowley). Opponent opened Witchcrafter Genni + a Spell, then Madame Verre.
 - Opponent surrendered on turn 2 after Meltdown → Aleister → Aiwass. Used 1:44 of clock: short replies worked.
 - **Witchcrafter Madame Verre** (UR, LIGHT Level 8 Spellcaster, 1000/2800): Quick Effect, discard a Spell to negate all your **currently** face-up monsters this turn; damage calculation: reveal Spells to gain 1000 attack each. Monsters you summon after it resolves are unaffected; Virakam stops it if she uses it on a Fusion's effect.
+
+### Game log: Planet Run vs Hecahands (Tim), went first (14 Nov 2026)
+
+- **Missed a free Sorath revive on our own turn.** Sorath's Quick Effect is once per turn in **each** Main Phase, so use it on your turn (e.g. revive Droll as a blocker or material) and again on theirs.
+- **Grail needs an Aleister in your field, GY or banishment before you activate it.** One in hand doesn't count.
+- Know which deck is in use: the Planet Run deck has no Ghost Ogre. Claude must check the deck list before naming Deck monsters for Grail.
+- Sacred Spirit Sword's third mode (banish 1 of 3 random Extra Deck cards) summons nothing, so it's safe against Fuwalos. Hit Hecahands Xeno.
