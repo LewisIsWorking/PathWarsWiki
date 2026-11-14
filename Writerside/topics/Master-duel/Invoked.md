@@ -74,6 +74,8 @@ End board: Little Knight, Mechaba, set Sword. If a fusion gets negated, the seco
 - **Set Sword → Aeon on her turn:** with Baybarron (FIRE), Mechaba (LIGHT) and Oceanus (EARTH) on board, flip Sword at her Standby Phase to make Aeon and banish 3 cards from her Extra Deck (her Dragoons / Destruction). Use Mechaba's negate first if you want to keep it. Sword needs no Aleister for Aeon.
 - Super Poly can't use Timaeus the United Magical Dragon while it's unaffected (the turn it's summoned and her next turn), and neither can Grail mode 2.
 
+- **Shining Sarcophagus can't be destroyed by monster effects**, so Ghost Ogre is wasted on it (lost one this way, 14 Nov). Ghost Ogre still hits Eternal Soul or a monster on the field.
+
 ## Vs Jack (Cyber Dragon)
 
 - Chimeratech Fortress takes your Machines (Mechaba); Megafleet takes monsters in the Extra Monster Zones. Neither is an effect, so stop the Cyber Dragon instead.
