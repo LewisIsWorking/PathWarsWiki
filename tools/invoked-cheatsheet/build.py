@@ -2,8 +2,8 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "2.4"
-DATE = "14 Nov 2026"
+VERSION = "2.5"
+DATE = "15 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
 
@@ -263,6 +263,27 @@ FIRST = [
     _by["6"],
     _opened("6", "Opener + any card", [_OPEN, "+1 spare card"], ""),
     _by["7"], _by["8"], _by["9"],
+    dict(title="Drolled before you got Invocation", tag="Going 1st · e.g. Aiwass/Meltdown search got Drolled · UNTESTED, built from card text",
+      needs=["Aleister (on hand or field)", "Virakam, or Invocation already in hand", "Droll in her GY (it's WIND)", "Reminiscent helps (+ body)"],
+      stages=[
+       ("Droll rules", [
+        "Droll blocks **adding from Deck to hand** (draws too). It does NOT block **Setting** from Deck, or adding from GY/banishment",
+        "**TTT:** don't pick Draw 2. Pick look at her hand + shuffle 1 away"]),
+       ("Get Sorath", [
+        "Normal Summon Aleister. **SKIP** its search",
+        "**Virakam:** Special Summon → **Set Invocation** from Deck (Normal Spell: usable this turn). Skip if Invocation is in hand",
+        "Link Aleister → **Artemis**",
+        "**Invocation:** Aleister (your GY) + **Droll (her GY, WIND)** → **Sorath**",
+        "Invocation GY: add banished Aleister (from banishment: Droll can't stop it)",
+        "Discard Aleister on Sorath → Sorath revives Aleister"]),
+       ("Baronne and Mechaba", [
+        "**Reminiscent:** target Sorath → Special Summon itself. **SKIP** its search",
+        "Aleister + Artemis → **Chorozo**",
+        "Synchro: Chorozo + Sorath → **Baronne de Fleur**",
+        "Sorath GY: Sorath + Aleister → **Mechaba**"]),
+      ],
+      end="Baronne · Mechaba · Virakam · Reminiscent",
+      memo="No Virakam/Invocation/Grail/Crowley: NS Aleister (skip search), Reminiscent targets Aleister (skip search), Link Aleister → Artemis, Artemis + Reminiscent → S:P Little Knight. One interruption."),
     dict(title="No starter: pass with hand traps", tag="Going 1st · brick hand · card text",
       needs=["No Aleister, Reminiscent, Meltdown, Aiwass, Sacred Sword, Spenta, Crowley or Zoroa"],
       stages=[
@@ -506,7 +527,8 @@ INDEX1 = [
  ("Zoroa or Spenta, no Aleister", "10", False),
  ("Got Drolled after Aleister's search", "11", False),
  ("Got Drolled after Reminiscent's search", "12", False),
- ("No starter at all (brick)", "13", False),
+ ("Got Drolled before Invocation (Aiwass/Meltdown search hit)", "13", False),
+ ("No starter at all (brick)", "14", False),
 ]
 INDEX2 = [
  ("Aleister or opener + Reminiscent", "S1", True),
