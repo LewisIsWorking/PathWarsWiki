@@ -77,7 +77,7 @@ def home_section():
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
 <button type="button" id="tab-tips" role="tab" data-turn="tips" aria-selected="false">Tips</button>
 </div>
-<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 10–11 only if you get Drolled, 12 if you bricked</p><div class="picks">{picks(INDEX1)}</div></div>
+<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 11–12 only if you get Drolled, 13 if you bricked</p><div class="picks">{picks(INDEX1)}</div></div>
 <div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks">{picks(INDEX3)}</div></div>
 <div class="plist" data-turn="2nd" hidden><p class="tag">Strongest first: play the top row that fits. Hand traps on her turn: Tip T1</p><div class="picks">{picks(INDEX2)}</div></div>
 <div class="stage"><h3>Golden rules</h3><ol>{rules}</ol></div>

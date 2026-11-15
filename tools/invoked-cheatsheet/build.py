@@ -2,7 +2,7 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "2.3"
+VERSION = "2.4"
 DATE = "14 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
@@ -237,6 +237,29 @@ FIRST = [
     _by["4"], _by["3"], _by["5"],
     _opened("5", "Opener + FIRE/WIND", [_OPEN, "FIRE/WIND (an Aiwass in hand counts: WIND)", "+1 spare card"],
             "If Sacred Sword opened, an Aiwass in hand is your WIND monster."),
+    dict(title="Opener + Spenta + Crowley", tag="Going 1st · Line 6 with Spenta finding the FIRE · UNTESTED, built from card text",
+      needs=["Sacred Sword (or Meltdown / Aiwass)", "Spenta", "Crowley", "+1 spare card (Spenta #2 from Artemis covers it)"],
+      stages=[
+       ("Get Aleister and Zoroa", [
+        "**Sacred Sword:** summon **Aiwass** from Deck → banish it → add **Aleister**, Normal Summon it straight away → search **Invocation**",
+        "**Spenta:** discard → search **Zoroa** (FIRE)"]),
+       ("Get Sorath", [
+        "Link Aleister → **Artemis**",
+        "Invocation: Aleister (GY) + Zoroa (hand) → **Sorath**",
+        "Invocation GY: add the banished Aleister",
+        "Discard Aleister on Sorath → Sorath revives Aleister"]),
+       ("Crowley into Baybarron", [
+        "Link Aleister + Artemis → **Endymion**, equip Artemis",
+        "Artemis: search **Spenta #2**",
+        "**Normal Summon Crowley:** Crowley + Endymion → **Baybarron**: search **Virakam**, SKIP the banish",
+        "Special Summon Virakam → set **Invoke Sword**"]),
+       ("Finish", [
+        "Link Sorath + Baybarron → **Madness**",
+        "Sorath GY: Sorath + Aleister → **Mechaba**. Madness: discard Spenta #2 → search **Invocation**",
+        "Invocation: Madness + Crowley (GY) → **Oceanus** (Extra Monster Zone)"]),
+      ],
+      end="Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword · Nibiru/Grail etc. still in hand",
+      memo="If the game won't let you Normal Summon Crowley (Aiwass's summon may use up your Normal Summon): skip Endymion, Link Aleister + Sorath → Madness, Sorath GY: Sorath + Aleister → Baybarron (search Virakam), Madness discards Crowley → Invocation, Virakam → Invoke Sword, Invocation: Madness + Virakam → Mechaba."),
     _by["6"],
     _opened("6", "Opener + any card", [_OPEN, "+1 spare card"], ""),
     _by["7"], _by["8"], _by["9"],
@@ -477,12 +500,13 @@ INDEX1 = [
  ("Reminiscent alone", "4", False),
  ("Aleister + Ash / Droll / Fuwalos / Zoroa", "5", False),
  ("Sacred Sword / Meltdown / Aiwass + FIRE/WIND", "6", False),
- ("Aleister + any card", "7", False),
- ("Sacred Sword / Meltdown / Aiwass + any card", "8", False),
- ("Zoroa or Spenta, no Aleister", "9", False),
- ("Got Drolled after Aleister's search", "10", False),
- ("Got Drolled after Reminiscent's search", "11", False),
- ("No starter at all (brick)", "12", False),
+ ("Sacred Sword / Meltdown / Aiwass + Spenta + Crowley", "7", False),
+ ("Aleister + any card", "8", False),
+ ("Sacred Sword / Meltdown / Aiwass + any card", "9", False),
+ ("Zoroa or Spenta, no Aleister", "10", False),
+ ("Got Drolled after Aleister's search", "11", False),
+ ("Got Drolled after Reminiscent's search", "12", False),
+ ("No starter at all (brick)", "13", False),
 ]
 INDEX2 = [
  ("Aleister or opener + Reminiscent", "S1", True),
