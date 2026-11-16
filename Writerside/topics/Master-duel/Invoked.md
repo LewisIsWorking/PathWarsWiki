@@ -6,6 +6,15 @@ Invoked deck notes. Card details: [Cards-Invoked](https://github.com/LewisIsWork
 
 Starters (13 Nov 2026): 3 Aleister, 3 Magical Meltdown, 1 Aiwass, 3 Sacred Spirit Sword Aiwass, 1 Aleister the Reminiscent, 2 Spenta, the Magistus Sealer (discard → search Crowley → Crowley fuses with a hand monster). Cut: both Pots of Desires and 1 Ghost Ogre. 13 starters: about 88% to open one going first, 92% going second. 13 Nov update: Aiwass #2 (pulled) replaced Effect Veiler; 2nd Magistus slot is **Zoroa, the Magistus of Flame** (owned ×3; Dinosoar's Master I list runs 1 Zoroa + 1 Crowley + 3 Spenta), replacing a Ghost Belle. Starters: 3 Aleister, 3 Meltdown, 3 Sacred Spirit Sword, 2 Aiwass, 1 Reminiscent, 2 Spenta, 1 Crowley, 1 Zoroa = 16. Crowley only counts as Aleister when face-up. Crafting plan: Reminiscent #2–3.
 
+## Current deck (16 Nov 2026)
+
+The cheat sheet follows this list from v3.0.
+
+- **Main (40):** Droll & Lock Bird 2, Maxx "C" 1, Ghost Ogre 2, Ash 3, Virakam 1, Aleister the Invoker 3, Mulcharmy Fuwalos 3, Mulcharmy Purulia 2, Aleister the Reminiscent 3, Aiwass 3, Invocation 2, Triple Tactics Talent 1, Sacred Spirit Sword Aiwass 3, Magical Meltdown 3, Super Polymerization 2, Crossout Designator 1, Invocation "Sword" 2, Infinite Impermanence 3.
+- **Extra (15):** Borreload Savage Dragon (in for Caliga), Magistus Chorozo, Raidjin, Sorath, Baybarron, Aleister the Invoker of Madness (in for Omega, matching dyz's Master I list), De Anima, Mechaba, Oceanus, Elysium, Hyperinvoked Aeon 2, Baronne de Fleur, Artemis, S:P Little Knight.
+- **Not in it:** Crowley, Spenta, Zoroa, Grail, Nibiru, Gamma Summon, Endymion, Almiraj. The old InvokedRD lines that need them are in the cheat sheet's archive.
+- **Attributes:** Aleister and Reminiscent are DARK Spellcasters. Virakam and Baybarron are both Illusion, so they can't make Madness together.
+
 ## Zoroa research (13 Nov 2026)
 
 - Lists running Zoroa, the Magistus of Flame: Dinosoar (Master I, Nov 2026: 1 Zoroa, 1 Crowley, 3 Spenta, 3 Reminiscent; Verethragna + Ninaruru in Extra), the YGOrganization "Invoked Magistus – Tales of Aleister" CDP (1 Zoroa, 1 Crowley, 3 Spenta, 3 Reminiscent; Verethragna, Conflagrant Calamity, Chorozo in Extra), Neiroy's Magistus Bystial (Master V, Dec 2025). Smallneedle's Master V Invoked list (Oct 2026) runs no Zoroa or Spenta.

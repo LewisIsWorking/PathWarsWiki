@@ -69,7 +69,7 @@ table.attr{width:100%;border-collapse:collapse;font-size:15px}
 .at-fire{background:#5a2214;color:#ffb39a}.at-wind{background:#163f2b;color:#9ff0c0}.at-earth{background:#43361a;color:#f2d79a}
 .at-light{background:#46421c;color:#fff2a6}.at-dark{background:#2e2147;color:#d6c0ff}
 a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.seg{display:grid;grid-template-columns:1fr 1fr auto;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
+.seg{display:grid;grid-template-columns:1fr 1fr auto auto;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
 .seg button{min-height:44px;padding:0 14px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
 .seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
 .seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
@@ -84,26 +84,466 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 .foot{margin-top:18px;font-size:12px;color:var(--muted);text-align:right}
 </style>
 <div class="wrap">
-<nav class="strip" aria-label="Lines"><div class="bar"><a class="home" href="#">?</a><span class="cur" id="cur">Which line?</span><button type="button" class="tog" id="tog" aria-expanded="true" aria-controls="rows">Hide lines ▴</button></div><div class="rows" id="rows"><div class="row"><span class="lbl">1st</span><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a><a href="#line-10" data-v="line-10">10</a><a href="#line-11" data-v="line-11">11</a><a href="#line-12" data-v="line-12">12</a><a href="#line-13" data-v="line-13">13</a><a href="#line-14" data-v="line-14">14</a></div><div class="row"><span class="lbl">2nd</span><a href="#line-s1" data-v="line-s1">S1</a><a href="#line-s2" data-v="line-s2">S2</a><a href="#line-s3" data-v="line-s3">S3</a><a href="#line-s4" data-v="line-s4">S4</a><a href="#line-s5" data-v="line-s5">S5</a><a href="#line-s6" data-v="line-s6">S6</a><a href="#line-s7" data-v="line-s7">S7</a><a href="#line-s8" data-v="line-s8">S8</a><a href="#line-s9" data-v="line-s9">S9</a></div><div class="row"><span class="lbl">Tips</span><a href="#line-t1" data-v="line-t1">T1</a><a href="#line-t2" data-v="line-t2">T2</a><a href="#line-t3" data-v="line-t3">T3</a><a href="#line-t4" data-v="line-t4">T4</a><a href="#line-t5" data-v="line-t5">T5</a><span class="ver">v2.5 · 15 Nov 2026</span></div></div></nav>
+<nav class="strip" aria-label="Lines"><div class="bar"><a class="home" href="#">?</a><span class="cur" id="cur">Which line?</span><button type="button" class="tog" id="tog" aria-expanded="true" aria-controls="rows">Hide lines ▴</button></div><div class="rows" id="rows"><div class="row"><span class="lbl">1st</span><a href="#line-1" data-v="line-1">1</a><a href="#line-2" data-v="line-2">2</a><a href="#line-3" data-v="line-3">3</a><a href="#line-4" data-v="line-4">4</a><a href="#line-5" data-v="line-5">5</a><a href="#line-6" data-v="line-6">6</a><a href="#line-7" data-v="line-7">7</a><a href="#line-8" data-v="line-8">8</a><a href="#line-9" data-v="line-9">9</a></div><div class="row"><span class="lbl">2nd</span><a href="#line-s1" data-v="line-s1">S1</a><a href="#line-s2" data-v="line-s2">S2</a><a href="#line-s3" data-v="line-s3">S3</a><a href="#line-s4" data-v="line-s4">S4</a><a href="#line-s5" data-v="line-s5">S5</a><a href="#line-s6" data-v="line-s6">S6</a></div><div class="row"><span class="lbl">Tips</span><a href="#line-t1" data-v="line-t1">T1</a><a href="#line-t2" data-v="line-t2">T2</a><a href="#line-t3" data-v="line-t3">T3</a><a href="#line-t4" data-v="line-t4">T4</a><a href="#" data-v="-" class="oldlink">Old</a><span class="ver">v3.0 · 16 Nov 2026</span></div></div></nav>
 <section class="view" id="v-home" data-view="" hidden>
 <h2 class="ht">Which line? Read your hand</h2>
-<p class="tag">Ranked deck (InvokedRD). Planet Run differences: Tip T5</p>
+<p class="tag">New Invoked deck (16 Nov: Elysium, Borreload, Madness in for Omega). Old InvokedRD lines: Old tab</p>
 <div class="seg" role="tablist">
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
 <button type="button" id="tab-tips" role="tab" data-turn="tips" aria-selected="false">Tips</button>
+<button type="button" id="tab-old" role="tab" data-turn="old" aria-selected="false">Old</button>
 </div>
-<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 11–12 only if you get Drolled, 13 if you bricked</p><div class="picks"><a class="pick best" href="#line-1"><span class="hand">Aleister + Reminiscent</span><span class="go">Line 1</span></a><a class="pick best" href="#line-2"><span class="hand">Sacred Sword / Meltdown / Aiwass + Reminiscent</span><span class="go">Line 2</span></a><a class="pick" href="#line-3"><span class="hand">Crowley or Spenta + Reminiscent + FIRE/WIND</span><span class="go">Line 3</span></a><a class="pick" href="#line-4"><span class="hand">Reminiscent alone</span><span class="go">Line 4</span></a><a class="pick" href="#line-5"><span class="hand">Aleister + Ash / Droll / Fuwalos / Zoroa</span><span class="go">Line 5</span></a><a class="pick" href="#line-6"><span class="hand">Sacred Sword / Meltdown / Aiwass + FIRE/WIND</span><span class="go">Line 6</span></a><a class="pick" href="#line-7"><span class="hand">Sacred Sword / Meltdown / Aiwass + Spenta + Crowley</span><span class="go">Line 7</span></a><a class="pick" href="#line-8"><span class="hand">Aleister + any card</span><span class="go">Line 8</span></a><a class="pick" href="#line-9"><span class="hand">Sacred Sword / Meltdown / Aiwass + any card</span><span class="go">Line 9</span></a><a class="pick" href="#line-10"><span class="hand">Zoroa or Spenta, no Aleister</span><span class="go">Line 10</span></a><a class="pick" href="#line-11"><span class="hand">Got Drolled after Aleister&#x27;s search</span><span class="go">Line 11</span></a><a class="pick" href="#line-12"><span class="hand">Got Drolled after Reminiscent&#x27;s search</span><span class="go">Line 12</span></a><a class="pick" href="#line-13"><span class="hand">Got Drolled before Invocation (Aiwass/Meltdown search hit)</span><span class="go">Line 13</span></a><a class="pick" href="#line-14"><span class="hand">No starter at all (brick)</span><span class="go">Line 14</span></a></div></div>
-<div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks"><a class="pick" href="#line-t1"><span class="hand">Her turn: which hand trap, when</span><span class="go">Tip T1</span></a><a class="pick" href="#line-t2"><span class="hand">Going 2nd into Natasha&#x27;s Dragoon</span><span class="go">Tip T2</span></a><a class="pick" href="#line-t3"><span class="hand">Finish the turn: damage tricks and attack values</span><span class="go">Tip T3</span></a><a class="pick" href="#line-t4"><span class="hand">Clear her board with Aeon (no Normal Summon left)</span><span class="go">Tip T4</span></a><a class="pick" href="#line-t5"><span class="hand">Planet Run deck: what&#x27;s different</span><span class="go">Tip T5</span></a></div></div>
-<div class="plist" data-turn="2nd" hidden><p class="tag">Strongest first: play the top row that fits. Hand traps on her turn: Tip T1</p><div class="picks"><a class="pick best" href="#line-s1"><span class="hand">Aleister or opener + Reminiscent</span><span class="go">Line S1</span></a><a class="pick best" href="#line-s2"><span class="hand">Aleister&#x27;s search Imperm&#x27;d/Ash&#x27;d + Reminiscent + Invocation</span><span class="go">Line S2</span></a><a class="pick best" href="#line-s3"><span class="hand">Super Poly: she has an Extra Deck monster + a Spellcaster</span><span class="go">Line S3</span></a><a class="pick best" href="#line-s4"><span class="hand">Aleister or opener + FIRE/WIND + Grail</span><span class="go">Line S4</span></a><a class="pick best" href="#line-s5"><span class="hand">Aleister or opener + FIRE/WIND + Super Poly</span><span class="go">Line S5</span></a><a class="pick" href="#line-s6"><span class="hand">Aleister or opener + any card + Super Poly</span><span class="go">Line S6</span></a><a class="pick" href="#line-s7"><span class="hand">Spenta or Crowley + FIRE/WIND + Grail + Invocation</span><span class="go">Line S7</span></a><a class="pick" href="#line-s8"><span class="hand">Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword</span><span class="go">Line S8</span></a><a class="pick" href="#line-s9"><span class="hand">Aleister got Imperm&#x27;d + FIRE/WIND + Grail</span><span class="go">Line S9</span></a></div></div>
-<div class="stage"><h3>Golden rules</h3><ol><li><span>Baybarron: say SKIP to the banish unless you&#x27;ve picked a target</span></li><li><span>Madness needs a spare card to discard. Keep one</span></li><li><span>Oceanus goes in the Extra Monster Zone</span></li><li><span>Before any Link: is there a free zone?</span></li><li><span>Read both GYs + banishment before Invocation. Invocation can use a FIRE/WIND (or any) monster from EITHER GY: use that before spending a card from hand</span></li><li><span>Discard order: dead copies (2nd Meltdown, used Invoke Sword) <span class="arr">→</span> Fuwalos <span class="arr">→</span> Imperm <span class="arr">→</span> Crossout <span class="arr">→</span> Ghost Belle. KEEP Maxx C, Ash, Super Poly, Droll, Nibiru</span></li><li><span>Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can</span></li><li><span>Imperm on Aleister or Crowley: Aleister keeps its name (Invocation/Grail still work); Crowley does not. Aleister&#x27;s search stopped but Invocation in hand? Play the line unchanged</span></li><li><span>Main Phase 2: link 2 spare small monsters into S:P Little Knight. It&#x27;s an interruption on her turn</span></li></ol></div>
-<div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol><li><span>Dead copies: 2nd Meltdown, an Invoke Sword when another is set, Sacred Sword after you&#x27;ve used one</span></li><li><span>Mulcharmy Fuwalos (dead once you control cards)</span></li><li><span>Infinite Impermanence, unless you&#x27;ll set it</span></li><li><span>Crossout Designator</span></li><li><span>Ghost Belle</span></li></ol>
-<p class="keep"><b>Keep:</b> Maxx &quot;C&quot;, Ash, Super Poly, Droll, Nibiru, Ghost Ogre</p></div>
+<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. Drolled rows near the bottom, Line 9 if you bricked</p><div class="picks"><a class="pick best" href="#line-1"><span class="hand">Aleister + Reminiscent</span><span class="go">Line 1</span></a><a class="pick best" href="#line-1"><span class="hand">Aleister + Sacred Sword or Aiwass (they search Reminiscent)</span><span class="go">Line 1</span></a><a class="pick best" href="#line-2"><span class="hand">Sacred Sword / Meltdown / Aiwass + Reminiscent</span><span class="go">Line 2</span></a><a class="pick" href="#line-3"><span class="hand">Aleister + Ash / Droll / Fuwalos</span><span class="go">Line 3</span></a><a class="pick" href="#line-4"><span class="hand">Sacred Sword / Meltdown / Aiwass + FIRE/WIND</span><span class="go">Line 4</span></a><a class="pick" href="#line-5"><span class="hand">Reminiscent alone</span><span class="go">Line 5</span></a><a class="pick" href="#line-6"><span class="hand">Aleister + any card</span><span class="go">Line 6</span></a><a class="pick" href="#line-7"><span class="hand">Sacred Sword / Meltdown / Aiwass + any card</span><span class="go">Line 7</span></a><a class="pick" href="#line-3"><span class="hand">Got Drolled after Aleister&#x27;s search (Droll in her GY is WIND)</span><span class="go">Line 3</span></a><a class="pick" href="#line-5"><span class="hand">Got Drolled after Reminiscent&#x27;s search</span><span class="go">Line 5</span></a><a class="pick" href="#line-8"><span class="hand">Got Drolled before Invocation (opener&#x27;s search hit)</span><span class="go">Line 8</span></a><a class="pick" href="#line-9"><span class="hand">No starter at all (brick)</span><span class="go">Line 9</span></a></div></div>
+<div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks"><a class="pick" href="#line-t1"><span class="hand">Her turn: which hand trap, when</span><span class="go">Tip T1</span></a><a class="pick" href="#line-t2"><span class="hand">Going 2nd into Natasha&#x27;s Dragoon</span><span class="go">Tip T2</span></a><a class="pick" href="#line-t3"><span class="hand">Finish the turn: damage tricks and attack values</span><span class="go">Tip T3</span></a><a class="pick" href="#line-t4"><span class="hand">Borreload Savage Dragon instead of Baronne</span><span class="go">Tip T4</span></a></div></div>
+<div class="plist" data-turn="old" hidden><p class="tag">Archive: the old InvokedRD deck (Crowley, Spenta, Zoroa, Grail). Most need cards the new deck doesn't run</p><div class="picks"><a class="pick" href="#line-a1"><span class="hand">1st: Aleister + Reminiscent</span><span class="go">Line A1</span></a><a class="pick" href="#line-a2"><span class="hand">1st: Opener + Reminiscent</span><span class="go">Line A2</span></a><a class="pick" href="#line-a3"><span class="hand">1st: Crowley or Spenta + Reminiscent + FIRE/WIND</span><span class="go">Line A3</span></a><a class="pick" href="#line-a4"><span class="hand">1st: Reminiscent alone</span><span class="go">Line A4</span></a><a class="pick" href="#line-a5"><span class="hand">1st: Aleister + FIRE/WIND</span><span class="go">Line A5</span></a><a class="pick" href="#line-a6"><span class="hand">1st: Opener + FIRE/WIND</span><span class="go">Line A6</span></a><a class="pick" href="#line-a7"><span class="hand">1st: Opener + Spenta + Crowley</span><span class="go">Line A7</span></a><a class="pick" href="#line-a8"><span class="hand">1st: Aleister + any card</span><span class="go">Line A8</span></a><a class="pick" href="#line-a9"><span class="hand">1st: Opener + any card</span><span class="go">Line A9</span></a><a class="pick" href="#line-a10"><span class="hand">1st: Zoroa or Spenta, no Aleister</span><span class="go">Line A10</span></a><a class="pick" href="#line-a11"><span class="hand">1st: Aleister got Drolled</span><span class="go">Line A11</span></a><a class="pick" href="#line-a12"><span class="hand">1st: Reminiscent got Drolled</span><span class="go">Line A12</span></a><a class="pick" href="#line-a13"><span class="hand">1st: Drolled before you got Invocation</span><span class="go">Line A13</span></a><a class="pick" href="#line-a14"><span class="hand">1st: No starter: pass with hand traps</span><span class="go">Line A14</span></a><a class="pick" href="#line-a15"><span class="hand">2nd: Aleister or opener + Reminiscent</span><span class="go">Line A15</span></a><a class="pick" href="#line-a16"><span class="hand">2nd: Aleister&#x27;s search stopped + Reminiscent + Invocation</span><span class="go">Line A16</span></a><a class="pick" href="#line-a17"><span class="hand">2nd: Super Poly into Chorozo: steal 2</span><span class="go">Line A17</span></a><a class="pick" href="#line-a18"><span class="hand">2nd: Aleister or opener + FIRE/WIND + Grail</span><span class="go">Line A18</span></a><a class="pick" href="#line-a19"><span class="hand">2nd: Aleister or opener + FIRE/WIND + Super Poly</span><span class="go">Line A19</span></a><a class="pick" href="#line-a20"><span class="hand">2nd: Aleister or opener + any card + Super Poly</span><span class="go">Line A20</span></a><a class="pick" href="#line-a21"><span class="hand">2nd: Spenta or Crowley + FIRE/WIND + Grail + Invocation</span><span class="go">Line A21</span></a><a class="pick" href="#line-a22"><span class="hand">2nd: Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword</span><span class="go">Line A22</span></a><a class="pick" href="#line-a23"><span class="hand">2nd: Aleister got Imperm&#x27;d + FIRE/WIND + Grail</span><span class="go">Line A23</span></a><a class="pick" href="#line-a24"><span class="hand">Tip: Her turn: your hand traps</span><span class="go">Line A24</span></a><a class="pick" href="#line-a25"><span class="hand">Tip: Going 2nd into Natasha&#x27;s Dragoon</span><span class="go">Line A25</span></a><a class="pick" href="#line-a26"><span class="hand">Tip: Going 2nd: finishers</span><span class="go">Line A26</span></a><a class="pick" href="#line-a27"><span class="hand">Tip: Clear her board with Aeon (no Normal Summon left)</span><span class="go">Line A27</span></a><a class="pick" href="#line-a28"><span class="hand">Tip: Planet Run deck: what&#x27;s different</span><span class="go">Line A28</span></a></div></div>
+<div class="plist" data-turn="2nd" hidden><p class="tag">Strongest first: play the top row that fits. Hand traps on her turn: Tip T1</p><div class="picks"><a class="pick best" href="#line-s1"><span class="hand">Aleister or opener + Reminiscent</span><span class="go">Line S1</span></a><a class="pick best" href="#line-s2"><span class="hand">Aleister or opener + FIRE/WIND + Super Poly (her Extra Deck monster)</span><span class="go">Line S2</span></a><a class="pick best" href="#line-s3"><span class="hand">Aleister or opener + Super Poly (she has a Fusion)</span><span class="go">Line S3</span></a><a class="pick" href="#line-s4"><span class="hand">Reminiscent alone</span><span class="go">Line S4</span></a><a class="pick" href="#line-s5"><span class="hand">Aleister or opener + FIRE/WIND</span><span class="go">Line S5</span></a><a class="pick" href="#line-s6"><span class="hand">Aleister or opener + any card</span><span class="go">Line S6</span></a></div></div>
+<div class="stage"><h3>Golden rules</h3><ol><li><span>Baybarron: say SKIP to the banish unless you&#x27;ve picked a target</span></li><li><span>Madness needs a spare card to discard. Keep one</span></li><li><span>Madness needs 2 monsters with different Types AND Attributes. Baybarron + Virakam are both Illusion: no</span></li><li><span>Before any Link: is there a free zone? With Madness in the Extra Monster Zone, the next Link goes where its arrows point (down-left, down-right). Keep one of those empty</span></li><li><span>Oceanus goes in the Extra Monster Zone</span></li><li><span>Read both GYs + banishment before Invocation. Invocation can use a FIRE/WIND (or any) monster from EITHER GY: use that before spending a card from hand</span></li><li><span>Sacred Sword and Aiwass search any &quot;Aleister&quot; monster. Aleister already in hand? Take Reminiscent</span></li><li><span>Discard order: dead copies (2nd Meltdown, 2nd Sacred Sword) <span class="arr">→</span> Fuwalos/Purulia <span class="arr">→</span> Imperm <span class="arr">→</span> Crossout <span class="arr">→</span> Ghost Ogre. KEEP Maxx &quot;C&quot;, Ash, Super Poly, Droll</span></li><li><span>Mechaba: keep 1 monster + 1 Spell/Trap in hand if you can</span></li><li><span>Imperm on Aleister: it keeps its name (Invocation still works). Search stopped but Invocation in hand? Play the line unchanged</span></li><li><span>Main Phase 2: link 2 spare small monsters into S:P Little Knight. It&#x27;s an interruption on her turn</span></li></ol></div>
+<div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly)</h3><ol><li><span>Dead copies: 2nd Meltdown, Sacred Sword after you&#x27;ve used one, an Invoke Sword after you&#x27;ve activated one</span></li><li><span>Mulcharmy Fuwalos or Purulia (dead once you control cards)</span></li><li><span>Infinite Impermanence, unless you&#x27;ll set it</span></li><li><span>Crossout Designator (after you&#x27;ve combo&#x27;d)</span></li><li><span>Ghost Ogre</span></li></ol>
+<p class="keep"><b>Keep:</b> Maxx &quot;C&quot;, Ash, Super Poly, Droll, TTT</p></div>
 <div class="stage"><h3>Aleister + a hand card makes</h3>
-<div class="tw"><table class="attr"><thead><tr><th>Card</th><th>Attribute</th><th>Fusion</th></tr></thead><tbody><tr><td>Ash, Zoroa</td><td><span class='at at-fire'>FIRE</span></td><td>Sorath</td></tr><tr><td>Fuwalos, Droll, Aiwass</td><td><span class='at at-wind'>WIND</span></td><td>Sorath or Raidjin</td></tr><tr><td>Maxx &quot;C&quot;, Ghost Belle</td><td><span class='at at-earth'>EARTH</span></td><td>Baybarron</td></tr><tr><td>Ghost Ogre, Nibiru, Spenta</td><td><span class='at at-light'>LIGHT</span></td><td>Mechaba or Baybarron</td></tr><tr><td>Crowley</td><td><span class='at at-dark'>DARK</span></td><td>Caliga or Oceanus</td></tr></tbody></table></div></div>
+<div class="tw"><table class="attr"><thead><tr><th>Card</th><th>Attribute</th><th>Fusion</th></tr></thead><tbody><tr><td>Ash</td><td><span class='at at-fire'>FIRE</span></td><td>Sorath</td></tr><tr><td>Fuwalos, Droll, Aiwass</td><td><span class='at at-wind'>WIND</span></td><td>Sorath or Raidjin</td></tr><tr><td>Maxx &quot;C&quot;</td><td><span class='at at-earth'>EARTH</span></td><td>Baybarron</td></tr><tr><td>Ghost Ogre, Virakam, Artemis</td><td><span class='at at-light'>LIGHT</span></td><td>Mechaba or Baybarron</td></tr><tr><td>Purulia</td><td><span class='at at-water'>WATER</span></td><td>Oceanus</td></tr><tr><td>Reminiscent, Aleister, Chorozo</td><td><span class='at at-dark'>DARK</span></td><td>Oceanus</td></tr></tbody></table></div></div>
 </section>
 <section class="view" id="v-line-1" data-view="line-1" hidden>
-<header class="lh"><span class="badge">1</span><div><h2>Aleister + Reminiscent</h2><p class="tag">Sourced: Taffy (MDM), Baronne branch · BEST LINE</p></div></header>
+<header class="lh"><span class="badge">1</span><div><h2>Aleister + Reminiscent</h2><p class="tag warn">Taffy&#x27;s Line 1 with Reminiscent doing Crowley&#x27;s jobs · UNTESTED, built from card text · BEST LINE</p></div></header>
+<div class="needs"><span class="chip">Aleister</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>1 · Searches</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Reminiscent: target Aleister, summon itself; banish <b>Raidjin</b> <span class="arr">→</span> search <b>Invoke Sword</b></span></li>
+</ol></div>
+<div class="stage"><h3>2 · Chorozo and Baybarron</h3><ol start="3">
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Artemis + Reminiscent <span class="arr">→</span> <b>Chorozo</b> (contact fusion: send both)</span></li>
+<li><span>Invocation: Aleister (GY) + Artemis (GY, LIGHT) <span class="arr">→</span> <b>Baybarron</b>: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Invoke Sword #2</b> (for her turn)</span></li>
+</ol></div>
+<div class="stage"><h3>3 · Sorath, Madness, Baronne</h3><ol start="7">
+<li><span>Invoke Sword (hand): Aleister + Raidjin (both banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive <b>Reminiscent</b> (Defence)</span></li>
+<li><span>Link Baybarron + Reminiscent <span class="arr">→</span> <b>Madness</b> (Extra Monster Zone)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b>. Don&#x27;t put it where Madness&#x27;s arrows point</span></li>
+</ol></div>
+<div class="stage"><h3>4 · Aeon finish</h3><ol start="11">
+<li><span>Sorath GY: Sorath + Baybarron + Raidjin <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Aeon (banish 3 from her Extra Deck)</span></li>
+<li><span>Link Aeon + Virakam <span class="arr">→</span> <b>Little Knight</b> (in a zone Madness points to). SKIP its banish</span></li>
+<li><span>Invoke Sword GY: add <b>Invocation</b></span></li>
+<li><span>Invocation: Aleister (GY) + Virakam (GY, LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+<li><span>Invocation: Madness + Reminiscent (GY, DARK) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
+<li><span>Invocation GY: add the banished <b>Aleister</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba · Oceanus (EMZ) · Little Knight · set Invoke Sword · Aleister in hand · 3 of her Extra Deck banished</div>
+<div class="memo"><span class="k">Remember</span>Madness can&#x27;t be Baybarron + Virakam: both are Illusion. Raidjin is used 3 times (cost <span class="arr">→</span> Invoke Sword <span class="arr">→</span> Aeon).</div>
+<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-2">Line 2 →</a></nav>
+</section>
+<section class="view" id="v-line-2" data-view="line-2" hidden>
+<header class="lh"><span class="badge">2</span><div><h2>Opener + Reminiscent</h2><p class="tag warn">Taffy&#x27;s Line 1 with Reminiscent doing Crowley&#x27;s jobs · UNTESTED, built from card text · opener: Dawnstar (MDM)</p></div></header>
+<div class="needs"><span class="chip">Sacred Sword, Meltdown or Aiwass</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b> <span class="arr">→</span> Normal Summon it straight away. <b>Aiwass from hand:</b> banish it <span class="arr">→</span> add Aleister. <b>Meltdown:</b> add Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>1 · Searches</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Reminiscent: target Aleister, summon itself; banish <b>Raidjin</b> <span class="arr">→</span> search <b>Invoke Sword</b></span></li>
+</ol></div>
+<div class="stage"><h3>2 · Chorozo and Baybarron</h3><ol start="4">
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Artemis + Reminiscent <span class="arr">→</span> <b>Chorozo</b> (contact fusion: send both)</span></li>
+<li><span>Invocation: Aleister (GY) + Artemis (GY, LIGHT) <span class="arr">→</span> <b>Baybarron</b>: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Invoke Sword #2</b> (for her turn)</span></li>
+</ol></div>
+<div class="stage"><h3>3 · Sorath, Madness, Baronne</h3><ol start="8">
+<li><span>Invoke Sword (hand): Aleister + Raidjin (both banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive <b>Reminiscent</b> (Defence)</span></li>
+<li><span>Link Baybarron + Reminiscent <span class="arr">→</span> <b>Madness</b> (Extra Monster Zone)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b>. Don&#x27;t put it where Madness&#x27;s arrows point</span></li>
+</ol></div>
+<div class="stage"><h3>4 · Aeon finish</h3><ol start="12">
+<li><span>Sorath GY: Sorath + Baybarron + Raidjin <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Aeon (banish 3 from her Extra Deck)</span></li>
+<li><span>Link Aeon + Virakam <span class="arr">→</span> <b>Little Knight</b> (in a zone Madness points to). SKIP its banish</span></li>
+<li><span>Invoke Sword GY: add <b>Invocation</b></span></li>
+<li><span>Invocation: Aleister (GY) + Virakam (GY, LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+<li><span>Invocation: Madness + Reminiscent (GY, DARK) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
+<li><span>Invocation GY: add the banished <b>Aleister</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba · Oceanus (EMZ) · Little Knight · set Invoke Sword · Aleister in hand · 3 of her Extra Deck banished</div>
+<div class="memo"><span class="k">Remember</span>Aleister already in hand? Sacred Sword or Aiwass can search <b>Reminiscent</b> instead, then play this line. Madness can&#x27;t be Baybarron + Virakam: both are Illusion. Raidjin is used 3 times (cost <span class="arr">→</span> Invoke Sword <span class="arr">→</span> Aeon).</div>
+<nav class="pn"><a class="btn" href="#line-1">← Line 1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-3">Line 3 →</a></nav>
+</section>
+<section class="view" id="v-line-3" data-view="line-3" hidden>
+<header class="lh"><span class="badge">3</span><div><h2>Aleister + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM) Droll combo · works with this deck</p></div></header>
+<div class="needs"><span class="chip">Aleister</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos (or a WIND/FIRE in either GY)</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Sorath</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + FIRE/WIND <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Sorath <span class="arr">→</span> Sorath revives Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Mechaba</h3><ol start="6">
+<li><span>Aleister + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba · spare card for Mechaba&#x27;s cost</div>
+<div class="memo"><span class="k">Remember</span>Got Drolled after Aleister&#x27;s search? Same line: nothing here searches. Droll in her GY is WIND, so Invocation can use it instead of a hand card.</div>
+<nav class="pn"><a class="btn" href="#line-2">← Line 2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-4">Line 4 →</a></nav>
+</section>
+<section class="view" id="v-line-4" data-view="line-4" hidden>
+<header class="lh"><span class="badge">4</span><div><h2>Opener + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM) Droll combo · works with this deck · opener: Dawnstar (MDM)</p></div></header>
+<div class="needs"><span class="chip">Sacred Sword, Meltdown or Aiwass</span><span class="chip">FIRE/WIND (an Aiwass in hand counts: WIND)</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b> <span class="arr">→</span> Normal Summon it straight away. <b>Aiwass from hand:</b> banish it <span class="arr">→</span> add Aleister. <b>Meltdown:</b> add Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Sorath</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + FIRE/WIND <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Sorath <span class="arr">→</span> Sorath revives Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Mechaba</h3><ol start="7">
+<li><span>Aleister + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba · spare card for Mechaba&#x27;s cost</div>
+<div class="memo"><span class="k">Remember</span>If Sacred Sword opened, an Aiwass still in hand is your WIND monster. Got Drolled after Aleister&#x27;s search? Same line: nothing here searches. Droll in her GY is WIND, so Invocation can use it instead of a hand card.</div>
+<nav class="pn"><a class="btn" href="#line-3">← Line 3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-5">Line 5 →</a></nav>
+</section>
+<section class="view" id="v-line-5" data-view="line-5" hidden>
+<header class="lh"><span class="badge">5</span><div><h2>Reminiscent alone</h2><p class="tag">Sourced: Taffy (MDM) Reminiscent Droll combo</p></div></header>
+<div class="needs"><span class="chip">Reminiscent</span></div>
+<div class="stage"><h3>Sorath</h3><ol start="1">
+<li><span>Normal Summon Reminiscent: banish <b>Raidjin</b> <span class="arr">→</span> search <b>Invoke Sword</b></span></li>
+<li><span>Invoke Sword: Reminiscent + Raidjin (banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive Reminiscent</span></li>
+<li><span>Link Reminiscent <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invoke Sword GY: add Reminiscent to hand</span></li>
+<li><span>Reminiscent: target Sorath <span class="arr">→</span> Special Summon itself</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Aeon</h3><ol start="7">
+<li><span>Reminiscent + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Raidjin + Chorozo <span class="arr">→</span> <b>Aeon</b>: banish 3 from her Extra Deck</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Aeon · 3 of her Extra Deck banished</div>
+<div class="memo"><span class="k">Remember</span>Got Drolled after Reminiscent&#x27;s search? Same line: nothing else searches.</div>
+<nav class="pn"><a class="btn" href="#line-4">← Line 4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-6">Line 6 →</a></nav>
+</section>
+<section class="view" id="v-line-6" data-view="line-6" hidden>
+<header class="lh"><span class="badge">6</span><div><h2>Aleister + any card</h2><p class="tag warn">UNTESTED · built from card text (Artemis is the LIGHT for Baybarron)</p></div></header>
+<div class="needs"><span class="chip">Aleister</span><span class="chip">+1 spare card (Mechaba&#x27;s cost)</span></div>
+<div class="stage"><h3>Baybarron</h3><ol start="1">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + Artemis (GY, LIGHT) <span class="arr">→</span> <b>Baybarron</b>: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Baybarron (+1000) <span class="arr">→</span> it&#x27;s in your GY</span></li>
+</ol></div>
+<div class="stage"><h3>Mechaba</h3><ol start="6">
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Invocation</b> (Normal Spell: use it now)</span></li>
+<li><span>Invocation: Aleister (GY) + Virakam (LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baybarron · Mechaba</div>
+<div class="memo"><span class="k">Remember</span>Holding a WATER (Purulia) or DARK (Reminiscent) instead? Aleister + it <span class="arr">→</span> Oceanus. Reminiscent: play Line 1.</div>
+<nav class="pn"><a class="btn" href="#line-5">← Line 5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-7">Line 7 →</a></nav>
+</section>
+<section class="view" id="v-line-7" data-view="line-7" hidden>
+<header class="lh"><span class="badge">7</span><div><h2>Opener + any card</h2><p class="tag warn">UNTESTED · built from card text (Artemis is the LIGHT for Baybarron)</p></div></header>
+<div class="needs"><span class="chip">Sacred Sword, Meltdown or Aiwass</span><span class="chip">+1 spare card (Mechaba&#x27;s cost)</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b> <span class="arr">→</span> Normal Summon it straight away. <b>Aiwass from hand:</b> banish it <span class="arr">→</span> add Aleister. <b>Meltdown:</b> add Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Baybarron</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + Artemis (GY, LIGHT) <span class="arr">→</span> <b>Baybarron</b>: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Baybarron (+1000) <span class="arr">→</span> it&#x27;s in your GY</span></li>
+</ol></div>
+<div class="stage"><h3>Mechaba</h3><ol start="7">
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Invocation</b> (Normal Spell: use it now)</span></li>
+<li><span>Invocation: Aleister (GY) + Virakam (LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baybarron · Mechaba</div>
+<div class="memo"><span class="k">Remember</span>Sacred Sword or Aiwass: if Aleister&#x27;s already in hand, search Reminiscent and play Line 1.</div>
+<nav class="pn"><a class="btn" href="#line-6">← Line 6</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-8">Line 8 →</a></nav>
+</section>
+<section class="view" id="v-line-8" data-view="line-8" hidden>
+<header class="lh"><span class="badge">8</span><div><h2>Drolled before you got Invocation</h2><p class="tag warn">Going 1st · e.g. Aiwass/Meltdown search got Drolled · UNTESTED, built from card text</p></div></header>
+<div class="needs"><span class="chip">Aleister (in hand or on field)</span><span class="chip">Virakam, or Invocation already in hand</span><span class="chip">Droll in her GY (it&#x27;s WIND)</span><span class="chip">Reminiscent</span></div>
+<div class="stage"><h3>Droll rules</h3><ol start="1">
+<li><span>Droll blocks <b>adding from Deck to hand</b> (draws too). It does NOT block <b>Setting</b> from Deck, or adding from GY/banishment</span></li>
+<li><span><b>TTT:</b> don&#x27;t pick Draw 2. Pick look at her hand + shuffle 1 away</span></li>
+</ol></div>
+<div class="stage"><h3>Get Sorath</h3><ol start="3">
+<li><span>Normal Summon Aleister. <b>SKIP</b> its search</span></li>
+<li><span><b>Virakam:</b> Special Summon <span class="arr">→</span> <b>Set Invocation</b> from Deck (Normal Spell: usable this turn). Skip if Invocation is in hand</span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span><b>Invocation:</b> Aleister (your GY) + <b>Droll (her GY, WIND)</b> <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add banished Aleister (from banishment: Droll can&#x27;t stop it)</span></li>
+<li><span>Discard Aleister on Sorath <span class="arr">→</span> Sorath revives Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Mechaba</h3><ol start="9">
+<li><span><b>Reminiscent:</b> target Sorath <span class="arr">→</span> Special Summon itself. <b>SKIP</b> its search</span></li>
+<li><span>Aleister + Artemis <span class="arr">→</span> <b>Chorozo</b></span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baronne · Mechaba · Virakam · Reminiscent</div>
+<div class="memo"><span class="k">Remember</span>No Virakam or Invocation: Normal Summon Aleister (skip search), Reminiscent targets Aleister (skip search), Link Aleister <span class="arr">→</span> Artemis, Artemis + Reminiscent <span class="arr">→</span> S:P Little Knight. One interruption.</div>
+<nav class="pn"><a class="btn" href="#line-7">← Line 7</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-9">Line 9 →</a></nav>
+</section>
+<section class="view" id="v-line-9" data-view="line-9" hidden>
+<header class="lh"><span class="badge">9</span><div><h2>No starter: pass with hand traps</h2><p class="tag">Going 1st · brick hand · card text</p></div></header>
+<div class="needs"><span class="chip">No Aleister, Reminiscent, Meltdown, Aiwass or Sacred Sword</span></div>
+<div class="stage"><h3>Your turn</h3><ol start="1">
+<li><span><b>Don&#x27;t summon or set anything.</b> Fuwalos, Purulia and Imperm from hand only work while you control no cards</span></li>
+<li><span>End your turn</span></li>
+</ol></div>
+<div class="stage"><h3>Her turn</h3><ol start="3">
+<li><span><b>Fuwalos:</b> early in her Main Phase. Draws for her Deck/Extra Deck summons, to find a starter</span></li>
+<li><span><b>Maxx &quot;C&quot;:</b> her first Special Summon. <b>Ash / Droll / Imperm / Ghost Ogre:</b> see Tip T1</span></li>
+<li><span>Fuwalos and Droll don&#x27;t mix: Droll blocks your draws</span></li>
+</ol></div>
+<div class="stage"><h3>Your next turn</h3><ol start="6">
+<li><span>Play the best line your new hand fits</span></li>
+<li><span><b>TTT:</b> live if she activated a monster effect during your turn (e.g. a hand trap on you)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Nothing on board, but a full hand of interaction</div>
+<div class="memo"><span class="k">Remember</span>Don&#x27;t Normal Summon Fuwalos or Purulia: they&#x27;re worth far more in hand.</div>
+<nav class="pn"><a class="btn" href="#line-8">← Line 8</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+</section>
+<section class="view" id="v-line-s1" data-view="line-s1" hidden>
+<header class="lh"><span class="badge">S1</span><div><h2>Aleister or opener + Reminiscent</h2><p class="tag warn">Going 2nd · Line 1 with going-2nd changes (marked) · UNTESTED</p></div></header>
+<div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
+</ol></div>
+<div class="stage"><h3>1 · Searches</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Reminiscent: target Aleister, summon itself; banish <b>Raidjin</b> <span class="arr">→</span> search <b>Invoke Sword</b></span></li>
+</ol></div>
+<div class="stage"><h3>2 · Chorozo and Baybarron</h3><ol start="4">
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Artemis + Reminiscent <span class="arr">→</span> <b>Chorozo</b> (contact fusion: send both)</span></li>
+<li><span>Invocation: Aleister (GY) + Artemis (GY, LIGHT) <span class="arr">→</span> <b>Baybarron</b>: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Invoke Sword #2</b> (for her turn)</span></li>
+</ol></div>
+<div class="stage"><h3>3 · Sorath, Madness, Baronne</h3><ol start="8">
+<li><span>Invoke Sword (hand): Aleister + Raidjin (both banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive <b>Reminiscent</b> (Defence)</span></li>
+<li><span>Link Baybarron + Reminiscent <span class="arr">→</span> <b>Madness</b> (Extra Monster Zone)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b>. Don&#x27;t put it where Madness&#x27;s arrows point</span></li>
+</ol></div>
+<div class="stage"><h3>4 · Aeon finish</h3><ol start="12">
+<li><span>Sorath GY: Sorath + Baybarron + Raidjin <span class="arr">→</span> <b>Aeon</b></span></li>
+<li><span>Chain: Madness (discard spare <span class="arr">→</span> <b>Invocation</b>) + Aeon: banish her <b>3 best cards on the field</b>, then 3 from her Extra Deck</span></li>
+<li><span><b>Going-2nd change:</b> no Little Knight. Keep <b>Aeon</b> to attack</span></li>
+<li><span>Invoke Sword GY: add <b>Invocation</b></span></li>
+<li><span>Invocation: Aleister (GY) + Virakam (field, LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+<li><span>Invocation: Madness + Reminiscent (GY, DARK) <span class="arr">→</span> <b>Oceanus</b></span></li>
+<li><span><b>Baronne:</b> destroy 1 more of her cards (targets)</span></li>
+<li><span><b>Battle:</b> Aeon 3800 + Baronne 3000 + Oceanus 3000 + Mechaba 2500 = <b>12,300</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Her field cleared, 12,300 damage if nothing stops it</div>
+<div class="memo"><span class="k">Remember</span>Opened with Sacred Sword? Only Fusions can attack: Aeon + Oceanus + Mechaba = 9,300, still lethal. Aleister&#x27;s search Ash&#x27;d or Imperm&#x27;d with Invocation already in hand: play it unchanged (Imperm leaves its name).</div>
+<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s2">Line S2 →</a></nav>
+</section>
+<section class="view" id="v-line-s2" data-view="line-s2" hidden>
+<header class="lh"><span class="badge">S2</span><div><h2>Aleister or opener + FIRE/WIND + Super Poly</h2><p class="tag warn">Going 2nd · Taffy&#x27;s Droll combo + Super Poly into Elysium · UNTESTED, built from card text</p></div></header>
+<div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos</span><span class="chip">Super Poly</span><span class="chip">+1 spare card</span><span class="chip">She has an Extra Deck monster</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
+</ol></div>
+<div class="stage"><h3>Sorath</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + FIRE/WIND <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Sorath <span class="arr">→</span> Sorath revives Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Mechaba</h3><ol start="7">
+<li><span>Aleister + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="stage"><h3>Wipe her board</h3><ol start="10">
+<li><span><b>Super Poly</b> (discard spare): Mechaba + her Extra Deck monster <span class="arr">→</span> <b>Elysium</b>. She can&#x27;t respond</span></li>
+<li><span><b>Elysium:</b> target <b>Elysium itself</b> <span class="arr">→</span> banish it and <b>all her monsters</b> (it has every Attribute). Or target an Invoked in your GY to banish only that Attribute and keep Elysium</span></li>
+<li><span><b>Baronne:</b> destroy her best Spell/Trap</span></li>
+<li><span><b>Battle:</b> Baronne 3000 (+ Elysium 3200 if you kept it)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Her monsters gone, her best Spell/Trap gone · Baronne</div>
+<div class="memo"><span class="k">Remember</span>Elysium doesn&#x27;t target her monsters, so it gets round Dragoon. It does nothing to Timaeus the turn it lands.</div>
+<nav class="pn"><a class="btn" href="#line-s1">← Line S1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s3">Line S3 →</a></nav>
+</section>
+<section class="view" id="v-line-s3" data-view="line-s3" hidden>
+<header class="lh"><span class="badge">S3</span><div><h2>Aleister or opener + Super Poly (she has a Fusion)</h2><p class="tag warn">Going 2nd · built from card text · UNTESTED</p></div></header>
+<div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">Super Poly</span><span class="chip">+1 spare card</span><span class="chip">She controls a Fusion Monster (e.g. Dragoon)</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
+</ol></div>
+<div class="stage"><h3>Take her Fusion</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span><b>Super Poly</b> (discard spare): Aleister + her Fusion <span class="arr">→</span> by her Attribute: DARK/WATER <b>Oceanus</b>, LIGHT/EARTH <b>Baybarron</b>, FIRE/WIND <b>Sorath</b> (not Raidjin: Aeon needs different Attributes)</span></li>
+</ol></div>
+<div class="stage"><h3>Aeon</h3><ol start="4">
+<li><span>Invocation: her Fusion (her GY) + your Fusion <span class="arr">→</span> <b>Aeon</b> (different Attributes): banish her 2 best cards</span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span><b>Battle:</b> discard Aleister on Aeon <span class="arr">→</span> <b>4,800</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Her Fusion + 2 more of her cards gone · Aeon</div>
+<div class="memo"><span class="k">Remember</span>Made Baybarron? Search Virakam first: Virakam <span class="arr">→</span> set Invoke Sword for her turn.</div>
+<nav class="pn"><a class="btn" href="#line-s2">← Line S2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s4">Line S4 →</a></nav>
+</section>
+<section class="view" id="v-line-s4" data-view="line-s4" hidden>
+<header class="lh"><span class="badge">S4</span><div><h2>Reminiscent alone</h2><p class="tag">Going 2nd · Taffy&#x27;s Reminiscent Droll combo · going-2nd changes marked</p></div></header>
+<div class="needs"><span class="chip">Reminiscent</span></div>
+<div class="stage"><h3>Sorath</h3><ol start="1">
+<li><span>Normal Summon Reminiscent: banish <b>Raidjin</b> <span class="arr">→</span> search <b>Invoke Sword</b></span></li>
+<li><span>Invoke Sword: Reminiscent + Raidjin (banished) <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Sorath: revive Reminiscent</span></li>
+<li><span>Link Reminiscent <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invoke Sword GY: add Reminiscent to hand</span></li>
+<li><span>Reminiscent: target Sorath <span class="arr">→</span> Special Summon itself</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Aeon</h3><ol start="7">
+<li><span>Reminiscent + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Raidjin + Chorozo <span class="arr">→</span> <b>Aeon</b>: banish her <b>3 best cards on the field</b>, then 3 from her Extra Deck</span></li>
+<li><span><b>Baronne:</b> destroy 1 more of her cards</span></li>
+<li><span><b>Battle:</b> Aeon 3800 + Baronne 3000 = <b>6,800</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>4 of her cards gone · 6,800 damage</div>
+<div class="memo"><span class="k">Remember</span>Super Poly in hand too? See Tip T3.</div>
+<nav class="pn"><a class="btn" href="#line-s3">← Line S3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s5">Line S5 →</a></nav>
+</section>
+<section class="view" id="v-line-s5" data-view="line-s5" hidden>
+<header class="lh"><span class="badge">S5</span><div><h2>Aleister or opener + FIRE/WIND</h2><p class="tag">Going 2nd · Taffy&#x27;s Droll combo + attack</p></div></header>
+<div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
+</ol></div>
+<div class="stage"><h3>Sorath</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + FIRE/WIND <span class="arr">→</span> <b>Sorath</b></span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Sorath <span class="arr">→</span> Sorath revives Aleister</span></li>
+</ol></div>
+<div class="stage"><h3>Baronne and Mechaba</h3><ol start="7">
+<li><span>Aleister + Artemis <span class="arr">→</span> <b>Chorozo</b> (contact fusion)</span></li>
+<li><span>Synchro: Chorozo + Sorath <span class="arr">→</span> <b>Baronne de Fleur</b></span></li>
+<li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="stage"><h3>Attack</h3><ol start="10">
+<li><span><b>Baronne:</b> destroy her best card</span></li>
+<li><span><b>Battle:</b> Baronne 3000 + Mechaba 2500 = <b>5,500</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>1 of her cards gone · 5,500 damage · Mechaba up</div>
+<div class="memo"><span class="k">Remember</span>Sacred Sword opener: only Fusions attack, so Baronne can&#x27;t (2,500).</div>
+<nav class="pn"><a class="btn" href="#line-s4">← Line S4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s6">Line S6 →</a></nav>
+</section>
+<section class="view" id="v-line-s6" data-view="line-s6" hidden>
+<header class="lh"><span class="badge">S6</span><div><h2>Aleister or opener + any card</h2><p class="tag warn">Going 2nd · UNTESTED, built from card text</p></div></header>
+<div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">+1 spare card</span></div>
+<div class="stage"><h3>Get Aleister</h3><ol start="1">
+<li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
+</ol></div>
+<div class="stage"><h3>Baybarron</h3><ol start="2">
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span>Link Aleister <span class="arr">→</span> <b>Artemis</b></span></li>
+<li><span>Invocation: Aleister (GY) + Artemis (GY, LIGHT) <span class="arr">→</span> <b>Baybarron</b>: search <b>Virakam</b>, SKIP the banish</span></li>
+<li><span>Invocation GY: add the banished Aleister</span></li>
+<li><span>Discard Aleister on Baybarron (+1000) <span class="arr">→</span> it&#x27;s in your GY</span></li>
+</ol></div>
+<div class="stage"><h3>Mechaba</h3><ol start="7">
+<li><span>Special Summon Virakam <span class="arr">→</span> set <b>Invocation</b> (Normal Spell: use it now)</span></li>
+<li><span>Invocation: Aleister (GY) + Virakam (LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
+</ol></div>
+<div class="stage"><h3>Attack</h3><ol start="9">
+<li><span><b>Battle:</b> Baybarron 2450 + Mechaba 2500 = <b>4,950</b></span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Baybarron · Mechaba · 4,950 damage</div>
+<div class="memo"><span class="k">Remember</span>Her monster in the way? Banish Baybarron from your GY later to shrink her monsters (Tip T3).</div>
+<nav class="pn"><a class="btn" href="#line-s5">← Line S5</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+</section>
+<section class="view" id="v-line-t1" data-view="line-t1" hidden>
+<header class="lh"><span class="badge">T1</span><div><h2>Her turn: your hand traps</h2><p class="tag">Going 2nd · card text</p></div></header>
+<div class="needs"><span class="chip">Whatever hand traps you hold</span></div>
+<div class="stage"><h3>Timing</h3><ol start="1">
+<li><span><b>Maxx &quot;C&quot;:</b> on her first Special Summon. Draw 1 for every Special Summon this turn</span></li>
+<li><span><b>Ash:</b> on an effect that searches, sends from her Deck, or summons from her Deck</span></li>
+<li><span><b>Droll:</b> right after her first search, so the rest are blocked. Not in the same turn as Fuwalos</span></li>
+<li><span><b>Imperm</b> (from hand, you control no cards): her starter monster on the field</span></li>
+<li><span><b>Fuwalos / Purulia:</b> early in her Main Phase, only while you control no cards</span></li>
+<li><span><b>Ghost Ogre:</b> a card effect on the field (never Shining Sarcophagus)</span></li>
+<li><span><b>Crossout Designator:</b> your turn, before you combo: name the hand trap she&#x27;s likely to hold (Ash, Maxx &quot;C&quot;)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Keep Super Poly for your turn</div>
+<div class="memo"><span class="k">Remember</span>Her deck tells you the order: search-heavy <span class="arr">→</span> Droll; summon-heavy <span class="arr">→</span> Maxx &quot;C&quot;.</div>
+<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t2">Line T2 →</a></nav>
+</section>
+<section class="view" id="v-line-t2" data-view="line-t2" hidden>
+<header class="lh"><span class="badge">T2</span><div><h2>Going 2nd into Natasha&#x27;s Dragoon</h2><p class="tag warn">Built from card text · practise it</p></div></header>
+<div class="needs"><span class="chip">Aleister route</span><span class="chip">Super Poly</span><span class="chip">Imperm (ideal)</span></div>
+<div class="stage"><h3>Her turn</h3><ol start="1">
+<li><span><b>Imperm Imsety</b> (stops her send-to-GY punish)</span></li>
+</ol></div>
+<div class="stage"><h3>Plan A: Aleister + Super Poly</h3><ol start="2">
+<li><span>Meltdown <span class="arr">→</span> Aleister (bait Dragoon&#x27;s negate here)</span></li>
+<li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
+<li><span><b>Super Poly:</b> Aleister + Dragoon <span class="arr">→</span> <b>Oceanus</b> (she can&#x27;t respond)</span></li>
+<li><span>Invocation: Dragoon (her GY) + Oceanus <span class="arr">→</span> <b>Aeon</b>: banish <b>King&#x27;s Sarcophagus</b> + her best Horus</span></li>
+<li><span>Attack</span></li>
+</ol></div>
+<div class="stage"><h3>Plan B: an Invoked already out</h3><ol start="7">
+<li><span><b>Super Poly:</b> your Invoked (e.g. Sorath) + Dragoon <span class="arr">→</span> <b>Elysium</b></span></li>
+<li><span><b>Elysium:</b> target itself <span class="arr">→</span> banish all her monsters</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Dragoon gone · Sarcophagus or her whole field gone</div>
+<div class="memo"><span class="k">Remember</span>Can&#x27;t touch Timaeus the turn it lands or her next turn. Ghost Ogre can&#x27;t touch Shining Sarcophagus.</div>
+<nav class="pn"><a class="btn" href="#line-t1">← Line T1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t3">Line T3 →</a></nav>
+</section>
+<section class="view" id="v-line-t3" data-view="line-t3" hidden>
+<header class="lh"><span class="badge">T3</span><div><h2>Going 2nd: finishers</h2><p class="tag warn">Built from card text · add to the end of any line</p></div></header>
+<div class="needs"><span class="chip">Use whatever you have left</span></div>
+<div class="stage"><h3>Remove her blocker</h3><ol start="1">
+<li><span><b>Super Poly + an Invoked you control + her Extra Deck monster <span class="arr">→</span> Elysium.</b> Elysium targets itself <span class="arr">→</span> all her monsters banished</span></li>
+<li><span><b>Super Poly:</b> Madness or Aleister + her monster <span class="arr">→</span> by her Attribute: LIGHT/EARTH <b>Baybarron</b>, WIND <b>Raidjin</b>, FIRE <b>Sorath</b>, DARK/WATER <b>Oceanus</b></span></li>
+<li><span>Do Super Poly BEFORE Invocation uses Madness. Invocation can still use Madness from the GY</span></li>
+</ol></div>
+<div class="stage"><h3>More damage</h3><ol start="4">
+<li><span><b>Aleister in hand:</b> discard during battle <span class="arr">→</span> a Fusion gains 1000</span></li>
+<li><span><b>Oceanus in GY:</b> banish it <span class="arr">→</span> one Fusion can attack directly</span></li>
+<li><span><b>Baybarron in GY:</b> banish it, target your Fusion <span class="arr">→</span> her monsters lose that much ATK</span></li>
+<li><span><b>Little Knight:</b> SKIP its banish or you can&#x27;t attack directly</span></li>
+</ol></div>
+<div class="stage"><h3>Attack values</h3><ol start="8">
+<li><span>Aeon 3800 · Elysium 3200 · Oceanus 3000 · Baronne 3000 · Borreload 3000+ · Mechaba 2500 · Baybarron 2450</span></li>
+<li><span>Raidjin 2200 · Madness 1800 · Sorath 1600 · Little Knight 1600 · Virakam 1000 · Artemis 800</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>Count to 8000 before you start the Battle Phase</div>
+<div class="memo"><span class="k">Remember</span>Every going-2nd line already includes these where they fit.</div>
+<nav class="pn"><a class="btn" href="#line-t2">← Line T2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t4">Line T4 →</a></nav>
+</section>
+<section class="view" id="v-line-t4" data-view="line-t4" hidden>
+<header class="lh"><span class="badge">T4</span><div><h2>Borreload Savage Dragon instead of Baronne</h2><p class="tag warn">Card text · UNTESTED</p></div></header>
+<div class="needs"><span class="chip">Chorozo + a Level 4 (Aleister or Reminiscent) on your field</span><span class="chip">A Link in your GY (Madness best)</span></div>
+<div class="stage"><h3>Line</h3><ol start="1">
+<li><span>Synchro: Chorozo (Level 4 Tuner) + Aleister or Reminiscent (Level 4) <span class="arr">→</span> <b>Borreload Savage Dragon</b></span></li>
+<li><span>On summon: equip a Link from your GY. <b>Madness</b> = 2 counters, 3900 ATK. <b>Little Knight</b> = 2 counters, 3800. <b>Artemis</b> = 1 counter, 3400</span></li>
+<li><span>Her turn: remove 1 counter <span class="arr">→</span> negate her card or effect (once per turn)</span></li>
+</ol></div>
+<div class="end"><span class="k">End board</span>An omni-negate that lasts as many turns as it has counters</div>
+<div class="memo"><span class="k">Remember</span>You have 1 Chorozo: Baronne (Chorozo + Sorath, Level 6) OR Borreload (Chorozo + a Level 4). Use Borreload when Sorath is needed for something else.</div>
+<nav class="pn"><a class="btn" href="#line-t3">← Line T3</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+</section>
+<section class="view" id="v-line-a1" data-view="line-a1" hidden>
+<header class="lh"><span class="badge">A1</span><div><h2>Aleister + Reminiscent</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM), Baronne branch · BEST LINE</p></div></header>
 <div class="needs"><span class="chip">Aleister (or Meltdown / Aiwass / Sacred Sword)</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>1 · Two Links into Crowley</h3><ol start="1">
 <li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
@@ -134,10 +574,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Invoke Sword · Aleister in hand · up to 6 of hers banished</div>
 <div class="memo"><span class="k">Remember</span>Raidjin used 3× (cost <span class="arr">→</span> Invoke Sword <span class="arr">→</span> Aeon). Crowley used 3× (Madness <span class="arr">→</span> Little Knight <span class="arr">→</span> Oceanus).</div>
-<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-2">Line 2 →</a></nav>
+<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a2">Line A2 →</a></nav>
 </section>
-<section class="view" id="v-line-2" data-view="line-2" hidden>
-<header class="lh"><span class="badge">2</span><div><h2>Opener + Reminiscent</h2><p class="tag">Sourced: Taffy (MDM), Baronne branch · BEST LINE · opener: Dawnstar (MDM)</p></div></header>
+<section class="view" id="v-line-a2" data-view="line-a2" hidden>
+<header class="lh"><span class="badge">A2</span><div><h2>Opener + Reminiscent</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM), Baronne branch · BEST LINE · opener: Dawnstar (MDM)</p></div></header>
 <div class="needs"><span class="chip">Sacred Sword, Meltdown or Aiwass</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b> (Aiwass gives you an extra Normal Summon). With <b>Meltdown</b> or <b>Aiwass in hand</b>, just search Aleister</span></li>
@@ -171,10 +611,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Baronne · Mechaba · Oceanus (EMZ) · Little Knight · Virakam · set Invoke Sword · Aleister in hand · up to 6 of hers banished</div>
 <div class="memo"><span class="k">Remember</span>Raidjin used 3× (cost <span class="arr">→</span> Invoke Sword <span class="arr">→</span> Aeon). Crowley used 3× (Madness <span class="arr">→</span> Little Knight <span class="arr">→</span> Oceanus). Sacred Sword: only Fusions can attack this turn.</div>
-<nav class="pn"><a class="btn" href="#line-1">← Line 1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-3">Line 3 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a1">← Line A1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a3">Line A3 →</a></nav>
 </section>
-<section class="view" id="v-line-3" data-view="line-3" hidden>
-<header class="lh"><span class="badge">3</span><div><h2>Crowley or Spenta + Reminiscent + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM)</p></div></header>
+<section class="view" id="v-line-a3" data-view="line-a3" hidden>
+<header class="lh"><span class="badge">A3</span><div><h2>Crowley or Spenta + Reminiscent + FIRE/WIND</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM)</p></div></header>
 <div class="needs"><span class="chip">Crowley (Normal Summon) or Spenta (discard <span class="arr">→</span> Crowley)</span><span class="chip">Reminiscent</span><span class="chip">FIRE/WIND monster</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Sorath and Madness</h3><ol start="1">
 <li><span>Crowley: Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
@@ -194,10 +634,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Little Knight · Aeon · Virakam · set Invoke Sword</div>
 <div class="memo"><span class="k">Remember</span>Taffy makes Elysium after Aeon. Add that step once you own Elysium.</div>
-<nav class="pn"><a class="btn" href="#line-2">← Line 2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-4">Line 4 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a2">← Line A2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a4">Line A4 →</a></nav>
 </section>
-<section class="view" id="v-line-4" data-view="line-4" hidden>
-<header class="lh"><span class="badge">4</span><div><h2>Reminiscent alone</h2><p class="tag">Sourced: Taffy (MDM)</p></div></header>
+<section class="view" id="v-line-a4" data-view="line-a4" hidden>
+<header class="lh"><span class="badge">A4</span><div><h2>Reminiscent alone</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM)</p></div></header>
 <div class="needs"><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Raidjin loop into Sorath</h3><ol start="1">
 <li><span>Normal Summon Reminiscent: banish <b>Raidjin</b> (Extra Deck) <span class="arr">→</span> search <b>Invoke Sword</b></span></li>
@@ -222,10 +662,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Invocation: Madness + Aeon (GY) <span class="arr">→</span> <b>Oceanus</b> (Extra Monster Zone)</span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Little Knight · set Invoke Sword · up to 6 of hers banished</div>
-<nav class="pn"><a class="btn" href="#line-3">← Line 3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-5">Line 5 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a3">← Line A3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a5">Line A5 →</a></nav>
 </section>
-<section class="view" id="v-line-5" data-view="line-5" hidden>
-<header class="lh"><span class="badge">5</span><div><h2>Aleister + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM)</p></div></header>
+<section class="view" id="v-line-a5" data-view="line-a5" hidden>
+<header class="lh"><span class="badge">A5</span><div><h2>Aleister + FIRE/WIND</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM)</p></div></header>
 <div class="needs"><span class="chip">Aleister</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Get Sorath</h3><ol start="1">
 <li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
@@ -250,10 +690,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword</div>
 <div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Invoke Sword in hand? Don&#x27;t discard it at step 15: see Tip T3 for the finishers.</div>
-<nav class="pn"><a class="btn" href="#line-4">← Line 4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-6">Line 6 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a4">← Line A4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a6">Line A6 →</a></nav>
 </section>
-<section class="view" id="v-line-6" data-view="line-6" hidden>
-<header class="lh"><span class="badge">6</span><div><h2>Opener + FIRE/WIND</h2><p class="tag">Sourced: Taffy (MDM) · opener: Dawnstar (MDM)</p></div></header>
+<section class="view" id="v-line-a6" data-view="line-a6" hidden>
+<header class="lh"><span class="badge">A6</span><div><h2>Opener + FIRE/WIND</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM) · opener: Dawnstar (MDM)</p></div></header>
 <div class="needs"><span class="chip">Sacred Sword, Meltdown or Aiwass</span><span class="chip">FIRE/WIND (an Aiwass in hand counts: WIND)</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b> (Aiwass gives you an extra Normal Summon). With <b>Meltdown</b> or <b>Aiwass in hand</b>, just search Aleister</span></li>
@@ -281,10 +721,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword</div>
 <div class="memo"><span class="k">Remember</span>Going 2nd with a 2nd Invoke Sword in hand? Don&#x27;t discard it at step 15: see Tip T3 for the finishers. Sacred Sword: only Fusions can attack this turn. If Sacred Sword opened, an Aiwass in hand is your WIND monster.</div>
-<nav class="pn"><a class="btn" href="#line-5">← Line 5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-7">Line 7 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a5">← Line A5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a7">Line A7 →</a></nav>
 </section>
-<section class="view" id="v-line-7" data-view="line-7" hidden>
-<header class="lh"><span class="badge">7</span><div><h2>Opener + Spenta + Crowley</h2><p class="tag warn">Going 1st · Line 6 with Spenta finding the FIRE · UNTESTED, built from card text</p></div></header>
+<section class="view" id="v-line-a7" data-view="line-a7" hidden>
+<header class="lh"><span class="badge">A7</span><div><h2>Opener + Spenta + Crowley</h2><p class="tag warn">Old deck (InvokedRD) · Going 1st · Line 6 with Spenta finding the FIRE · UNTESTED, built from card text</p></div></header>
 <div class="needs"><span class="chip">Sacred Sword (or Meltdown / Aiwass)</span><span class="chip">Spenta</span><span class="chip">Crowley</span><span class="chip">+1 spare card (Spenta #2 from Artemis covers it)</span></div>
 <div class="stage"><h3>Get Aleister and Zoroa</h3><ol start="1">
 <li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b>, Normal Summon it straight away <span class="arr">→</span> search <b>Invocation</b></span></li>
@@ -309,10 +749,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Oceanus (EMZ) · Mechaba · Virakam · set Invoke Sword · Nibiru/Grail etc. still in hand</div>
 <div class="memo"><span class="k">Remember</span>If the game won&#x27;t let you Normal Summon Crowley (Aiwass&#x27;s summon may use up your Normal Summon): skip Endymion, Link Aleister + Sorath <span class="arr">→</span> Madness, Sorath GY: Sorath + Aleister <span class="arr">→</span> Baybarron (search Virakam), Madness discards Crowley <span class="arr">→</span> Invocation, Virakam <span class="arr">→</span> Invoke Sword, Invocation: Madness + Virakam <span class="arr">→</span> Mechaba.</div>
-<nav class="pn"><a class="btn" href="#line-6">← Line 6</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-8">Line 8 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a6">← Line A6</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a8">Line A8 →</a></nav>
 </section>
-<section class="view" id="v-line-8" data-view="line-8" hidden>
-<header class="lh"><span class="badge">8</span><div><h2>Aleister + any card</h2><p class="tag">Sourced: Taffy (MDM) · weakest line</p></div></header>
+<section class="view" id="v-line-a8" data-view="line-a8" hidden>
+<header class="lh"><span class="badge">A8</span><div><h2>Aleister + any card</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM) · weakest line</p></div></header>
 <div class="needs"><span class="chip">Aleister</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Get Sorath</h3><ol start="1">
 <li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b></span></li>
@@ -331,10 +771,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Invocation: Madness + Virakam <span class="arr">→</span> <b>Mechaba</b></span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Little Knight · Mechaba · set Invoke Sword</div>
-<nav class="pn"><a class="btn" href="#line-7">← Line 7</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-9">Line 9 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a7">← Line A7</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a9">Line A9 →</a></nav>
 </section>
-<section class="view" id="v-line-9" data-view="line-9" hidden>
-<header class="lh"><span class="badge">9</span><div><h2>Opener + any card</h2><p class="tag">Sourced: Taffy (MDM) · weakest line · opener: Dawnstar (MDM)</p></div></header>
+<section class="view" id="v-line-a9" data-view="line-a9" hidden>
+<header class="lh"><span class="badge">A9</span><div><h2>Opener + any card</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM) · weakest line · opener: Dawnstar (MDM)</p></div></header>
 <div class="needs"><span class="chip">Sacred Sword, Meltdown or Aiwass</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span><b>Sacred Sword:</b> summon <b>Aiwass</b> from Deck <span class="arr">→</span> banish it <span class="arr">→</span> add <b>Aleister</b> (Aiwass gives you an extra Normal Summon). With <b>Meltdown</b> or <b>Aiwass in hand</b>, just search Aleister</span></li>
@@ -357,10 +797,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Little Knight · Mechaba · set Invoke Sword</div>
 <div class="memo"><span class="k">Remember</span>Sacred Sword: only Fusions can attack this turn.</div>
-<nav class="pn"><a class="btn" href="#line-8">← Line 8</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-10">Line 10 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a8">← Line A8</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a10">Line A10 →</a></nav>
 </section>
-<section class="view" id="v-line-10" data-view="line-10" hidden>
-<header class="lh"><span class="badge">10</span><div><h2>Zoroa or Spenta, no Aleister</h2><p class="tag warn">UNTESTED · built from card text</p></div></header>
+<section class="view" id="v-line-a10" data-view="line-a10" hidden>
+<header class="lh"><span class="badge">A10</span><div><h2>Zoroa or Spenta, no Aleister</h2><p class="tag warn">Old deck (InvokedRD) · UNTESTED · built from card text</p></div></header>
 <div class="needs"><span class="chip">Zoroa, or Spenta (discard <span class="arr">→</span> Zoroa)</span></div>
 <div class="stage"><h3>Line</h3><ol start="1">
 <li><span>Spenta (if held): discard <span class="arr">→</span> search <b>Zoroa</b></span></li>
@@ -371,10 +811,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Crowley + Zoroa (FIRE) <span class="arr">→</span> <b>Sorath</b>, or Crowley + Spenta (LIGHT) <span class="arr">→</span> <b>Mechaba</b></span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>1 Fusion + a spare body. Turns a brick into a board.</div>
-<nav class="pn"><a class="btn" href="#line-9">← Line 9</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-11">Line 11 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a9">← Line A9</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a11">Line A11 →</a></nav>
 </section>
-<section class="view" id="v-line-11" data-view="line-11" hidden>
-<header class="lh"><span class="badge">11</span><div><h2>Aleister got Drolled</h2><p class="tag">Sourced: Taffy (MDM) · needs Chorozo</p></div></header>
+<section class="view" id="v-line-a11" data-view="line-a11" hidden>
+<header class="lh"><span class="badge">A11</span><div><h2>Aleister got Drolled</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM) · needs Chorozo</p></div></header>
 <div class="needs"><span class="chip">Aleister</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span></div>
 <div class="stage"><h3>No more searches needed</h3><ol start="1">
 <li><span>Normal Summon Aleister <span class="arr">→</span> search <b>Invocation</b> (Droll hits after this)</span></li>
@@ -387,10 +827,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Sorath GY: Sorath + Aleister <span class="arr">→</span> <b>Mechaba</b></span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Baronne · Mechaba</div>
-<nav class="pn"><a class="btn" href="#line-10">← Line 10</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-12">Line 12 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a10">← Line A10</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a12">Line A12 →</a></nav>
 </section>
-<section class="view" id="v-line-12" data-view="line-12" hidden>
-<header class="lh"><span class="badge">12</span><div><h2>Reminiscent got Drolled</h2><p class="tag">Sourced: Taffy (MDM) · needs Chorozo</p></div></header>
+<section class="view" id="v-line-a12" data-view="line-a12" hidden>
+<header class="lh"><span class="badge">A12</span><div><h2>Reminiscent got Drolled</h2><p class="tag">Old deck (InvokedRD) · Sourced: Taffy (MDM) · needs Chorozo</p></div></header>
 <div class="needs"><span class="chip">Reminiscent</span></div>
 <div class="stage"><h3>No more searches needed</h3><ol start="1">
 <li><span>Normal Summon Reminiscent: banish <b>Raidjin</b> <span class="arr">→</span> search <b>Invoke Sword</b> (Droll hits after this)</span></li>
@@ -404,10 +844,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span>Sorath GY: Sorath + Raidjin + Chorozo <span class="arr">→</span> <b>Aeon</b> (banish up to 3, pick 3 from her Extra Deck)</span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Baronne · Aeon · up to 6 of hers banished</div>
-<nav class="pn"><a class="btn" href="#line-11">← Line 11</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-13">Line 13 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a11">← Line A11</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a13">Line A13 →</a></nav>
 </section>
-<section class="view" id="v-line-13" data-view="line-13" hidden>
-<header class="lh"><span class="badge">13</span><div><h2>Drolled before you got Invocation</h2><p class="tag warn">Going 1st · e.g. Aiwass/Meltdown search got Drolled · UNTESTED, built from card text</p></div></header>
+<section class="view" id="v-line-a13" data-view="line-a13" hidden>
+<header class="lh"><span class="badge">A13</span><div><h2>Drolled before you got Invocation</h2><p class="tag warn">Old deck (InvokedRD) · Going 1st · e.g. Aiwass/Meltdown search got Drolled · UNTESTED, built from card text</p></div></header>
 <div class="needs"><span class="chip">Aleister (on hand or field)</span><span class="chip">Virakam, or Invocation already in hand</span><span class="chip">Droll in her GY (it&#x27;s WIND)</span><span class="chip">Reminiscent helps (+ body)</span></div>
 <div class="stage"><h3>Droll rules</h3><ol start="1">
 <li><span>Droll blocks <b>adding from Deck to hand</b> (draws too). It does NOT block <b>Setting</b> from Deck, or adding from GY/banishment</span></li>
@@ -429,10 +869,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Baronne · Mechaba · Virakam · Reminiscent</div>
 <div class="memo"><span class="k">Remember</span>No Virakam/Invocation/Grail/Crowley: NS Aleister (skip search), Reminiscent targets Aleister (skip search), Link Aleister <span class="arr">→</span> Artemis, Artemis + Reminiscent <span class="arr">→</span> S:P Little Knight. One interruption.</div>
-<nav class="pn"><a class="btn" href="#line-12">← Line 12</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-14">Line 14 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a12">← Line A12</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a14">Line A14 →</a></nav>
 </section>
-<section class="view" id="v-line-14" data-view="line-14" hidden>
-<header class="lh"><span class="badge">14</span><div><h2>No starter: pass with hand traps</h2><p class="tag">Going 1st · brick hand · card text</p></div></header>
+<section class="view" id="v-line-a14" data-view="line-a14" hidden>
+<header class="lh"><span class="badge">A14</span><div><h2>No starter: pass with hand traps</h2><p class="tag">Old deck (InvokedRD) · Going 1st · brick hand · card text</p></div></header>
 <div class="needs"><span class="chip">No Aleister, Reminiscent, Meltdown, Aiwass, Sacred Sword, Spenta, Crowley or Zoroa</span></div>
 <div class="stage"><h3>Your turn</h3><ol start="1">
 <li><span><b>Don&#x27;t summon or set anything.</b> Fuwalos and Imperm from hand only work while you control no cards</span></li>
@@ -450,10 +890,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Nothing on board, but a full hand of interaction</div>
 <div class="memo"><span class="k">Remember</span>Don&#x27;t Normal Summon Fuwalos or Nibiru: they&#x27;re worth far more in hand.</div>
-<nav class="pn"><a class="btn" href="#line-13">← Line 13</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+<nav class="pn"><a class="btn" href="#line-a13">← Line A13</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a15">Line A15 →</a></nav>
 </section>
-<section class="view" id="v-line-s1" data-view="line-s1" hidden>
-<header class="lh"><span class="badge">S1</span><div><h2>Aleister or opener + Reminiscent</h2><p class="tag">Going 2nd · Taffy&#x27;s Line 1 with going-2nd changes (marked)</p></div></header>
+<section class="view" id="v-line-a15" data-view="line-a15" hidden>
+<header class="lh"><span class="badge">A15</span><div><h2>Aleister or opener + Reminiscent</h2><p class="tag">Old deck (InvokedRD) · Going 2nd · Taffy&#x27;s Line 1 with going-2nd changes (marked)</p></div></header>
 <div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">Reminiscent</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
@@ -488,10 +928,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her field cleared, 13,300 damage if nothing stops it</div>
 <div class="memo"><span class="k">Remember</span>Open with Meltdown or Aiwass from hand, not Sacred Sword. After Sacred Sword only Fusions can attack, so Baronne and Virakam couldn&#x27;t. Aleister&#x27;s search Ash&#x27;d or Imperm&#x27;d? With an Invocation already in hand, play the line unchanged (Imperm leaves its name, so it still targets for Reminiscent and works as material).</div>
-<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s2">Line S2 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a14">← Line A14</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a16">Line A16 →</a></nav>
 </section>
-<section class="view" id="v-line-s2" data-view="line-s2" hidden>
-<header class="lh"><span class="badge">S2</span><div><h2>Aleister&#x27;s search stopped + Reminiscent + Invocation</h2><p class="tag">Going 2nd · S1 with Aleister Imperm&#x27;d or Ash&#x27;d · card text</p></div></header>
+<section class="view" id="v-line-a16" data-view="line-a16" hidden>
+<header class="lh"><span class="badge">A16</span><div><h2>Aleister&#x27;s search stopped + Reminiscent + Invocation</h2><p class="tag">Old deck (InvokedRD) · Going 2nd · S1 with Aleister Imperm&#x27;d or Ash&#x27;d · card text</p></div></header>
 <div class="needs"><span class="chip">Aleister on field (search negated by Imperm/Ash)</span><span class="chip">Reminiscent</span><span class="chip">Invocation already in hand</span><span class="chip">+1 spare card</span></div>
 <div class="stage"><h3>1 · Two Links into Crowley</h3><ol start="1">
 <li><span>Aleister&#x27;s search was stopped: you already hold <b>Invocation</b>, so carry on</span></li>
@@ -523,10 +963,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her field cleared, 13,300 damage if nothing stops it</div>
 <div class="memo"><span class="k">Remember</span>Imperm doesn&#x27;t change Aleister&#x27;s name: Reminiscent can still target it and it still counts as Aleister for Fusions. If Imperm was SET, it also negates Spell/Trap effects in its column this turn: put your Spells in another column.</div>
-<nav class="pn"><a class="btn" href="#line-s1">← Line S1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s3">Line S3 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a15">← Line A15</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a17">Line A17 →</a></nav>
 </section>
-<section class="view" id="v-line-s3" data-view="line-s3" hidden>
-<header class="lh"><span class="badge">S3</span><div><h2>Super Poly into Chorozo: steal 2</h2><p class="tag">Going 2nd · found by Lewis, won with it in Solo 14 Nov · order checked against card text</p></div></header>
+<section class="view" id="v-line-a17" data-view="line-a17" hidden>
+<header class="lh"><span class="badge">A17</span><div><h2>Super Poly into Chorozo: steal 2</h2><p class="tag">Old deck (InvokedRD) · Going 2nd · found by Lewis, won with it in Solo 14 Nov · order checked against card text</p></div></header>
 <div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Super Poly</span><span class="chip">+1 spare card</span><span class="chip">She controls an Extra Deck monster (Fusion/Synchro/Xyz/Link) + a Spellcaster</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span><b>Aiwass from hand:</b> banish it <span class="arr">→</span> add <b>Aleister</b> (best: banished Aiwass is WIND material for the finish). Or Meltdown <span class="arr">→</span> Aleister</span></li>
@@ -549,10 +989,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her 2 monsters gone + 3 more of her cards removed · Aeon · Baronne · Crowley or Raidjin</div>
 <div class="memo"><span class="k">Remember</span>Aeon needs no Aleister: 2 Fusions with different Attributes from your GY are enough. Exosister and Dark Magician decks are full of Spellcasters.</div>
-<nav class="pn"><a class="btn" href="#line-s2">← Line S2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s4">Line S4 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a16">← Line A16</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a18">Line A18 →</a></nav>
 </section>
-<section class="view" id="v-line-s4" data-view="line-s4" hidden>
-<header class="lh"><span class="badge">S4</span><div><h2>Aleister or opener + FIRE/WIND + Grail</h2><p class="tag warn">Going 2nd · Taffy&#x27;s Aleister line + Grail · UNTESTED, built from card text</p></div></header>
+<section class="view" id="v-line-a18" data-view="line-a18" hidden>
+<header class="lh"><span class="badge">A18</span><div><h2>Aleister or opener + FIRE/WIND + Grail</h2><p class="tag warn">Old deck (InvokedRD) · Going 2nd · Taffy&#x27;s Aleister line + Grail · UNTESTED, built from card text</p></div></header>
 <div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Grail</span><span class="chip">Invocation or a spare card</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
@@ -578,10 +1018,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her 3 cards gone · Aeon · Virakam · set Invoke Sword</div>
 <div class="memo"><span class="k">Remember</span>Grail doesn&#x27;t target, so it gets round Dragoon.</div>
-<nav class="pn"><a class="btn" href="#line-s3">← Line S3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s5">Line S5 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a17">← Line A17</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a19">Line A19 →</a></nav>
 </section>
-<section class="view" id="v-line-s5" data-view="line-s5" hidden>
-<header class="lh"><span class="badge">S5</span><div><h2>Aleister or opener + FIRE/WIND + Super Poly</h2><p class="tag">Going 2nd · Taffy&#x27;s Aleister line + Super Poly (card text)</p></div></header>
+<section class="view" id="v-line-a19" data-view="line-a19" hidden>
+<header class="lh"><span class="badge">A19</span><div><h2>Aleister or opener + FIRE/WIND + Super Poly</h2><p class="tag">Old deck (InvokedRD) · Going 2nd · Taffy&#x27;s Aleister line + Super Poly (card text)</p></div></header>
 <div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Super Poly</span><span class="chip">+2 spare cards</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
@@ -609,10 +1049,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her best monster gone, 5,500+ damage</div>
 <div class="memo"><span class="k">Remember</span>Super Poly MUST come before Invocation uses Madness. Once activated, Super Poly can&#x27;t be cancelled.</div>
-<nav class="pn"><a class="btn" href="#line-s4">← Line S4</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s6">Line S6 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a18">← Line A18</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a20">Line A20 →</a></nav>
 </section>
-<section class="view" id="v-line-s6" data-view="line-s6" hidden>
-<header class="lh"><span class="badge">S6</span><div><h2>Aleister or opener + any card + Super Poly</h2><p class="tag">Going 2nd · Taffy&#x27;s weakest line + Super Poly (card text)</p></div></header>
+<section class="view" id="v-line-a20" data-view="line-a20" hidden>
+<header class="lh"><span class="badge">A20</span><div><h2>Aleister or opener + any card + Super Poly</h2><p class="tag">Old deck (InvokedRD) · Going 2nd · Taffy&#x27;s weakest line + Super Poly (card text)</p></div></header>
 <div class="needs"><span class="chip">Aleister, Meltdown or Aiwass</span><span class="chip">Super Poly</span><span class="chip">+2 spare cards</span></div>
 <div class="stage"><h3>Get Aleister</h3><ol start="1">
 <li><span>Aleister in hand <span class="arr">→</span> Normal Summon it. Otherwise <b>Meltdown</b> or <b>Aiwass from hand</b> <span class="arr">→</span> search Aleister. (Sacred Sword also works, but then only Fusions can attack)</span></li>
@@ -633,10 +1073,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 <li><span><b>Battle:</b> Baybarron 2450 + Mechaba 2500 + Super Poly Fusion</span></li>
 </ol></div>
 <div class="end"><span class="k">End board</span>Her best monster gone, about 7,000 damage</div>
-<nav class="pn"><a class="btn" href="#line-s5">← Line S5</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s7">Line S7 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a19">← Line A19</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a21">Line A21 →</a></nav>
 </section>
-<section class="view" id="v-line-s7" data-view="line-s7" hidden>
-<header class="lh"><span class="badge">S7</span><div><h2>Spenta or Crowley + FIRE/WIND + Grail + Invocation</h2><p class="tag warn">Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
+<section class="view" id="v-line-a21" data-view="line-a21" hidden>
+<header class="lh"><span class="badge">A21</span><div><h2>Spenta or Crowley + FIRE/WIND + Grail + Invocation</h2><p class="tag warn">Old deck (InvokedRD) · Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
 <div class="needs"><span class="chip">Spenta or Crowley</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Grail</span><span class="chip">Invocation</span><span class="chip">She has a face-up monster</span></div>
 <div class="stage"><h3>Sorath into Madness</h3><ol start="1">
 <li><span><b>Crowley:</b> Normal Summon it (or Spenta: discard <span class="arr">→</span> search Crowley, it summons itself). Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
@@ -651,10 +1091,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her whole field gone (up to 3 cards) · Aeon</div>
 <div class="memo"><span class="k">Remember</span>Grail doesn&#x27;t target, so it gets round Dragoon. If her monster is FIRE, Sorath is already used: play S8 instead if you have Invoke Sword.</div>
-<nav class="pn"><a class="btn" href="#line-s6">← Line S6</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s8">Line S8 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a20">← Line A20</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a22">Line A22 →</a></nav>
 </section>
-<section class="view" id="v-line-s8" data-view="line-s8" hidden>
-<header class="lh"><span class="badge">S8</span><div><h2>Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword</h2><p class="tag warn">Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
+<section class="view" id="v-line-a22" data-view="line-a22" hidden>
+<header class="lh"><span class="badge">A22</span><div><h2>Spenta or Crowley + FIRE/WIND + Invocation + Invoke Sword</h2><p class="tag warn">Old deck (InvokedRD) · Going 2nd · no Aleister needed · UNTESTED, built from card text</p></div></header>
 <div class="needs"><span class="chip">Spenta or Crowley</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Invocation</span><span class="chip">Invoke Sword</span></div>
 <div class="stage"><h3>Sorath into Madness</h3><ol start="1">
 <li><span><b>Spenta:</b> discard <span class="arr">→</span> search <b>Crowley</b> (it summons itself). Or Normal Summon Crowley from hand. Crowley + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
@@ -669,10 +1109,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Aeon · her 2 best cards banished</div>
 <div class="memo"><span class="k">Remember</span>TTT goes live if she activates a monster effect on your turn. Crowley counts as Aleister only while face-up, so a Crowley revived by Sorath (negated) doesn&#x27;t.</div>
-<nav class="pn"><a class="btn" href="#line-s7">← Line S7</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-s9">Line S9 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a21">← Line A21</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a23">Line A23 →</a></nav>
 </section>
-<section class="view" id="v-line-s9" data-view="line-s9" hidden>
-<header class="lh"><span class="badge">S9</span><div><h2>Aleister got Imperm&#x27;d + FIRE/WIND + Grail</h2><p class="tag warn">Going 2nd · UNTESTED, built from card text</p></div></header>
+<section class="view" id="v-line-a23" data-view="line-a23" hidden>
+<header class="lh"><span class="badge">A23</span><div><h2>Aleister got Imperm&#x27;d + FIRE/WIND + Grail</h2><p class="tag warn">Old deck (InvokedRD) · Going 2nd · UNTESTED, built from card text</p></div></header>
 <div class="needs"><span class="chip">Aleister on field (search negated)</span><span class="chip">FIRE/WIND: Ash, Droll, Fuwalos, Zoroa</span><span class="chip">Invocation</span><span class="chip">Grail</span></div>
 <div class="stage"><h3>Imperm doesn&#x27;t stop its name</h3><ol start="1">
 <li><span><b>Invocation:</b> Aleister (field) + FIRE/WIND (hand) <span class="arr">→</span> <b>Sorath</b></span></li>
@@ -685,10 +1125,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her best monster gone · Sorath · Grail Fusion</div>
 <div class="memo"><span class="k">Remember</span>Imperm negates Aleister&#x27;s search, not its name, so Invocation and Grail still work.</div>
-<nav class="pn"><a class="btn" href="#line-s8">← Line S8</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+<nav class="pn"><a class="btn" href="#line-a22">← Line A22</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a24">Line A24 →</a></nav>
 </section>
-<section class="view" id="v-line-t1" data-view="line-t1" hidden>
-<header class="lh"><span class="badge">T1</span><div><h2>Her turn: your hand traps</h2><p class="tag">Going 2nd · card text</p></div></header>
+<section class="view" id="v-line-a24" data-view="line-a24" hidden>
+<header class="lh"><span class="badge">A24</span><div><h2>Her turn: your hand traps</h2><p class="tag">Old deck (InvokedRD) · Going 2nd · card text</p></div></header>
 <div class="needs"><span class="chip">Whatever hand traps you hold</span></div>
 <div class="stage"><h3>Timing</h3><ol start="1">
 <li><span><b>Maxx &quot;C&quot;:</b> on her first Special Summon. Draw 1 for every Special Summon this turn</span></li>
@@ -701,10 +1141,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Keep Super Poly for your turn</div>
 <div class="memo"><span class="k">Remember</span>Her deck tells you the order: search-heavy <span class="arr">→</span> Droll; summon-heavy <span class="arr">→</span> Maxx &quot;C&quot;.</div>
-<nav class="pn"><span></span><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t2">Line T2 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a23">← Line A23</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a25">Line A25 →</a></nav>
 </section>
-<section class="view" id="v-line-t2" data-view="line-t2" hidden>
-<header class="lh"><span class="badge">T2</span><div><h2>Going 2nd into Natasha&#x27;s Dragoon</h2><p class="tag warn">Built from card text · practise it</p></div></header>
+<section class="view" id="v-line-a25" data-view="line-a25" hidden>
+<header class="lh"><span class="badge">A25</span><div><h2>Going 2nd into Natasha&#x27;s Dragoon</h2><p class="tag warn">Old deck (InvokedRD) · Built from card text · practise it</p></div></header>
 <div class="needs"><span class="chip">Aleister route</span><span class="chip">Super Polymerization</span><span class="chip">Imperm (ideal)</span></div>
 <div class="stage"><h3>Her turn</h3><ol start="1">
 <li><span><b>Imperm Imsety</b> (stops her send-to-GY punish)</span></li>
@@ -719,10 +1159,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Dragoon gone · Sarcophagus gone · Aeon 3800 on board</div>
 <div class="memo"><span class="k">Remember</span>Can&#x27;t hit Timaeus the turn it lands. Ghost Ogre can&#x27;t touch Shining Sarcophagus. Elysium (when crafted) banishes ALL her DARK monsters.</div>
-<nav class="pn"><a class="btn" href="#line-t1">← Line T1</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t3">Line T3 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a24">← Line A24</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a26">Line A26 →</a></nav>
 </section>
-<section class="view" id="v-line-t3" data-view="line-t3" hidden>
-<header class="lh"><span class="badge">T3</span><div><h2>Going 2nd: finishers</h2><p class="tag warn">Built from card text · add to the end of any line</p></div></header>
+<section class="view" id="v-line-a26" data-view="line-a26" hidden>
+<header class="lh"><span class="badge">A26</span><div><h2>Going 2nd: finishers</h2><p class="tag warn">Old deck (InvokedRD) · Built from card text · add to the end of any line</p></div></header>
 <div class="needs"><span class="chip">Use whatever you have left</span></div>
 <div class="stage"><h3>Remove her blocker</h3><ol start="1">
 <li><span><b>Invoke Sword in hand</b> (Omega in Extra Deck): Aleister + a Fusion (both banished) <span class="arr">→</span> <b>Omega</b> <span class="arr">→</span> banish her monster</span></li>
@@ -740,10 +1180,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Count to 8000 before you start the Battle Phase</div>
 <div class="memo"><span class="k">Remember</span>Every going-2nd line already includes these where they fit.</div>
-<nav class="pn"><a class="btn" href="#line-t2">← Line T2</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t4">Line T4 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a25">← Line A25</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a27">Line A27 →</a></nav>
 </section>
-<section class="view" id="v-line-t4" data-view="line-t4" hidden>
-<header class="lh"><span class="badge">T4</span><div><h2>Clear her board with Aeon (no Normal Summon left)</h2><p class="tag warn">Tip · card text · UNTESTED</p></div></header>
+<section class="view" id="v-line-a27" data-view="line-a27" hidden>
+<header class="lh"><span class="badge">A27</span><div><h2>Clear her board with Aeon (no Normal Summon left)</h2><p class="tag warn">Old deck (InvokedRD) · Tip · card text · UNTESTED</p></div></header>
 <div class="needs"><span class="chip">A Fusion on your field</span><span class="chip">Grail</span><span class="chip">Invocation (or Reminiscent to search it)</span><span class="chip">Aleister in hand (or Meltdown)</span></div>
 <div class="stage"><h3>Line</h3><ol start="1">
 <li><span><b>Meltdown</b> (if held): search <b>Aleister</b>. Your Fusions can&#x27;t be negated</span></li>
@@ -754,10 +1194,10 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Her 2 best cards gone · Aeon 3800</div>
 <div class="memo"><span class="k">Remember</span>Aeon needs different Attributes: Sorath and Mechaba are both LIGHT.</div>
-<nav class="pn"><a class="btn" href="#line-t3">← Line T3</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-t5">Line T5 →</a></nav>
+<nav class="pn"><a class="btn" href="#line-a26">← Line A26</a><a class="btn ghost" href="#">Which line?</a><a class="btn" href="#line-a28">Line A28 →</a></nav>
 </section>
-<section class="view" id="v-line-t5" data-view="line-t5" hidden>
-<header class="lh"><span class="badge">T5</span><div><h2>Planet Run deck: what&#x27;s different</h2><p class="tag">Side deck · secondary</p></div></header>
+<section class="view" id="v-line-a28" data-view="line-a28" hidden>
+<header class="lh"><span class="badge">A28</span><div><h2>Planet Run deck: what&#x27;s different</h2><p class="tag">Old deck (InvokedRD) · Side deck · secondary</p></div></header>
 <div class="needs"><span class="chip">Planet Run event deck</span></div>
 <div class="stage"><h3>Differences from the ranked deck</h3><ol start="1">
 <li><span><b>No Zoroa:</b> FIRE/WIND material is Ash, Droll, Fuwalos or a banished Aiwass</span></li>
@@ -766,9 +1206,9 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 </ol></div>
 <div class="end"><span class="k">End board</span>Ranked lines first; check this before naming Deck monsters in Planet Run</div>
 <div class="memo"><span class="k">Remember</span>Send the Planet Run list after any change so this stays right.</div>
-<nav class="pn"><a class="btn" href="#line-t4">← Line T4</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
+<nav class="pn"><a class="btn" href="#line-a27">← Line A27</a><a class="btn ghost" href="#">Which line?</a><span></span></nav>
 </section>
-<p class="foot">Invoked cheat sheet · v2.5 · 15 Nov 2026 · source: PathWarsWiki</p>
+<p class="foot">Invoked cheat sheet · v3.0 · 16 Nov 2026 · source: PathWarsWiki</p>
 </div>
 <script>
 (function(){
@@ -805,6 +1245,7 @@ a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
     try{localStorage.setItem('turn',t)}catch(e){}
   }
   tabs.forEach(function(b){b.addEventListener('click',function(){setTurn(b.dataset.turn)})});
+  var ol=document.querySelector('.oldlink'); if(ol) ol.addEventListener('click',function(){setTurn('old')});
   var saved='1st'; try{saved=localStorage.getItem('turn')||'1st'}catch(e){}
   setTurn(saved);
   document.querySelectorAll('ol[start]').forEach(function(o){o.style.setProperty('--start',o.getAttribute('start'))});

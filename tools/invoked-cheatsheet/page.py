@@ -12,22 +12,23 @@ src = src.split("from playwright.sync_api import sync_playwright", 1)[1]
 src = src.split("\nimport os\nos.makedirs", 1)[0]
 ns = {"re": re, "html": html}
 exec("import os, re, html\n" + src.replace("__file__", repr(os.path.join(HERE, "build.py"))), ns)
-LINES, INDEX1, INDEX2, INDEX3, RULES, VERSION, DATE, fmt = (ns[k] for k in ("LINES", "INDEX1", "INDEX2", "INDEX3", "RULES", "VERSION", "DATE", "fmt"))
+LINES, INDEX1, INDEX2, INDEX3, INDEX4, RULES, VERSION, DATE, fmt = (ns[k] for k in ("LINES", "INDEX1", "INDEX2", "INDEX3", "INDEX4", "RULES", "VERSION", "DATE", "fmt"))
 
 DISCARD = [
-    "Dead copies: 2nd Meltdown, an Invoke Sword when another is set, Sacred Sword after you've used one",
-    "Mulcharmy Fuwalos (dead once you control cards)",
+    "Dead copies: 2nd Meltdown, Sacred Sword after you've used one, an Invoke Sword after you've activated one",
+    "Mulcharmy Fuwalos or Purulia (dead once you control cards)",
     "Infinite Impermanence, unless you'll set it",
-    "Crossout Designator",
-    "Ghost Belle",
+    "Crossout Designator (after you've combo'd)",
+    "Ghost Ogre",
 ]
-KEEP = "Maxx \"C\", Ash, Super Poly, Droll, Nibiru, Ghost Ogre"
+KEEP = "Maxx \"C\", Ash, Super Poly, Droll, TTT"
 ATTR = [
-    ("Ash, Zoroa", "FIRE", "Sorath"),
+    ("Ash", "FIRE", "Sorath"),
     ("Fuwalos, Droll, Aiwass", "WIND", "Sorath or Raidjin"),
-    ("Maxx \"C\", Ghost Belle", "EARTH", "Baybarron"),
-    ("Ghost Ogre, Nibiru, Spenta", "LIGHT", "Mechaba or Baybarron"),
-    ("Crowley", "DARK", "Caliga or Oceanus"),
+    ("Maxx \"C\"", "EARTH", "Baybarron"),
+    ("Ghost Ogre, Virakam, Artemis", "LIGHT", "Mechaba or Baybarron"),
+    ("Purulia", "WATER", "Oceanus"),
+    ("Reminiscent, Aleister, Chorozo", "DARK", "Oceanus"),
 ]
 
 def line_section(L, ids):
@@ -71,17 +72,19 @@ def home_section():
     disc = "".join(f"<li><span>{fmt(d)}</span></li>" for d in DISCARD)
     attr = "".join(f"<tr><td>{fmt(c)}</td><td><span class='at at-{a.lower()}'>{a}</span></td><td>{fmt(m)}</td></tr>" for c, a, m in ATTR)
     return f'''<section class="view" id="v-home" data-view="" hidden>
-<h2 class="ht">Which line? Read your hand</h2>\n<p class="tag">Ranked deck (InvokedRD). Planet Run differences: Tip T5</p>
+<h2 class="ht">Which line? Read your hand</h2>\n<p class="tag">New Invoked deck (16 Nov: Elysium, Borreload, Madness in for Omega). Old InvokedRD lines: Old tab</p>
 <div class="seg" role="tablist">
 <button type="button" id="tab-1st" role="tab" data-turn="1st" aria-selected="true">Going 1st</button>
 <button type="button" id="tab-2nd" role="tab" data-turn="2nd" aria-selected="false">Going 2nd</button>
 <button type="button" id="tab-tips" role="tab" data-turn="tips" aria-selected="false">Tips</button>
+<button type="button" id="tab-old" role="tab" data-turn="old" aria-selected="false">Old</button>
 </div>
-<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. 11–12 only if you get Drolled, 13 if you bricked</p><div class="picks">{picks(INDEX1)}</div></div>
+<div class="plist" data-turn="1st"><p class="tag">Strongest first: play the top row that fits. Drolled rows near the bottom, Line 9 if you bricked</p><div class="picks">{picks(INDEX1)}</div></div>
 <div class="plist" data-turn="tips" hidden><p class="tag">Use alongside any line</p><div class="picks">{picks(INDEX3)}</div></div>
+<div class="plist" data-turn="old" hidden><p class="tag">Archive: the old InvokedRD deck (Crowley, Spenta, Zoroa, Grail). Most need cards the new deck doesn't run</p><div class="picks">{picks(INDEX4)}</div></div>
 <div class="plist" data-turn="2nd" hidden><p class="tag">Strongest first: play the top row that fits. Hand traps on her turn: Tip T1</p><div class="picks">{picks(INDEX2)}</div></div>
 <div class="stage"><h3>Golden rules</h3><ol>{rules}</ol></div>
-<div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly, Spenta)</h3><ol>{disc}</ol>
+<div class="stage"><h3>Discard order (Madness, Mechaba, Super Poly)</h3><ol>{disc}</ol>
 <p class="keep"><b>Keep:</b> {fmt(KEEP)}</p></div>
 <div class="stage"><h3>Aleister + a hand card makes</h3>
 <div class="tw"><table class="attr"><thead><tr><th>Card</th><th>Attribute</th><th>Fusion</th></tr></thead><tbody>{attr}</tbody></table></div></div>
@@ -154,7 +157,7 @@ table.attr{width:100%;border-collapse:collapse;font-size:15px}
 .at-fire{background:#5a2214;color:#ffb39a}.at-wind{background:#163f2b;color:#9ff0c0}.at-earth{background:#43361a;color:#f2d79a}
 .at-light{background:#46421c;color:#fff2a6}.at-dark{background:#2e2147;color:#d6c0ff}
 a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.seg{display:grid;grid-template-columns:1fr 1fr auto;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
+.seg{display:grid;grid-template-columns:1fr 1fr auto auto;gap:6px;margin-top:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px}
 .seg button{min-height:44px;padding:0 14px;border:0;border-radius:9px;background:transparent;color:var(--muted);font:700 16px var(--display);cursor:pointer}
 .seg button[aria-selected="true"]{background:var(--gold);color:var(--gold-ink)}
 .seg button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
@@ -174,12 +177,14 @@ def build():
     first = [L["id"] for L in LINES if L.get("when") == "1st"]
     second = [L["id"] for L in LINES if L.get("when") == "2nd"]
     tips = [L["id"] for L in LINES if L.get("when") == "tips"]
+    old = [L["id"] for L in LINES if L.get("when") == "old"]
     strip = ('<div class="row"><span class="lbl">1st</span>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in first) + '</div>' +
              '<div class="row"><span class="lbl">2nd</span>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in second) +
              '</div><div class="row"><span class="lbl">Tips</span>' +
              "".join(f'<a href="#line-{i.lower()}" data-v="line-{i.lower()}">{i}</a>' for i in tips) +
+             f'<a href="#" data-v="-" class="oldlink">Old</a>' +
              f'<span class="ver">v{VERSION} · {DATE}</span></div>')
     body = "\n".join([home_section()] + [line_section(L, ids) for L in LINES])
     js = """
@@ -217,6 +222,7 @@ def build():
     try{localStorage.setItem('turn',t)}catch(e){}
   }
   tabs.forEach(function(b){b.addEventListener('click',function(){setTurn(b.dataset.turn)})});
+  var ol=document.querySelector('.oldlink'); if(ol) ol.addEventListener('click',function(){setTurn('old')});
   var saved='1st'; try{saved=localStorage.getItem('turn')||'1st'}catch(e){}
   setTurn(saved);
   document.querySelectorAll('ol[start]').forEach(function(o){o.style.setProperty('--start',o.getAttribute('start'))});
@@ -246,7 +252,7 @@ def sync_wiki():
     gen = []
     for L in LINES:
         kind = "Tip" if L.get("when") == "tips" else "Line"
-        when = "tips & tricks" if L.get("when") == "tips" else f"going {L.get('when')}"
+        when = "tips & tricks" if L.get("when") == "tips" else "archive" if L.get("when") == "old" else f"going {L.get('when')}"
         gen.append(f"## {kind} {L['id']}: {L['title']} ({when}; {L['tag']})\n\nNeeds: {', '.join(L['needs'])}.\n")
         n = 1
         for name, steps in L["stages"]:
@@ -261,7 +267,7 @@ def sync_wiki():
     s = s[:a] + "".join(gen) + s[b:]
     a = s.index("| Your hand has | Play |"); b = s.index("\n\n", a)
     table = "| Going | Your hand has | Play |\n| --- | --- | --- |\n" + "\n".join(
-        f"| {w} | {h} | Line {l}{' (best)' if best else ''} |" for w, idx in (("1st", INDEX1), ("2nd", INDEX2), ("tips", INDEX3)) for h, l, best in idx)
+        f"| {w} | {h} | Line {l}{' (best)' if best else ''} |" for w, idx in (("1st", INDEX1), ("2nd", INDEX2), ("tips", INDEX3), ("old deck", INDEX4)) for h, l, best in idx)
     s = s[:a] + table + s[b:]
     s = re.sub(r"!\[invoked-line-[^\]]+\]\([^)]*\)\n?", "", s)
     base = f"https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v{VERSION}/"
