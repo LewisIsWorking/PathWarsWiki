@@ -65,6 +65,7 @@ No STANDARD badge: old lists with cards that have since been Limited or Forbidde
 
 ## Notes
 
+- Archetypes saved twice: Invoked (InvokedRD + Planet Run event), Crystron (K9 Elfnote, Trains), Lunalight (Zoodiac WCS, Apr 2026), Tearlaments (TearFs Oct 2026, Jan 2025), Voiceless Voice (VVRD Apr 2026, VVFS Sep 2025). The older Tearlaments and Voiceless Voice lists are the first to delete if a slot is needed.
 - Fiendsmith ("Fs") is splashed into 5 decks: Tearlaments, Yubel, Voiceless Voice, White Forest Azamina, Snake-Eye.
 - Most Standard decks are copies of Master 1 or Ranked lists, saved with the date and the player who piloted them.
 - Example: AncientGearsM1 runs 3 Maxx "C" (now Limited 1), 2 Forbidden Main Deck cards and 3 Forbidden Extra Deck cards.
