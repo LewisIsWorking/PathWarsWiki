@@ -2,7 +2,7 @@
 
 Snapshot from Lewis's My Deck screen, 17 Nov 2026. **40 of 40 deck slots are full, plus 1 Event deck (Planet Run).** To save a new deck, one has to go first.
 
-Names are as saved in the game (cut off where the game cuts them off). "Archetype" is read from the name; **?** means a guess. "Standard" means the deck shows the game's STANDARD badge, so it's legal for Ranked right now. A deck without the badge is missing cards or breaks the current banlist, so it can't be played in Ranked until it's fixed.
+Names are as saved in the game (cut off where the game cuts them off). "Archetype" is read from the name; **?** means a guess. "Standard" means the deck shows the game's STANDARD badge, so it's legal for Ranked right now. A deck without the badge is an old list that breaks the current banlist (cards since Limited or Forbidden), so it can't be played in Ranked until it's updated.
 
 ## Main decks right now
 
@@ -11,7 +11,7 @@ Names are as saved in the game (cut off where the game cuts them off). "Archetyp
 - **DoomZ:** *DoomzM1 2026-10-08*.
 - **Yummy:** *YummyM1 2026Nov13 DeadTube*. See [Yummy Mitsurugi](Yummy-mitsurugi.md).
 
-## Standard (playable in Ranked): 34 decks
+## Standard (playable in Ranked): 30 decks
 
 | # | Saved name | Archetype | Wiki page |
 | --- | --- | --- | --- |
@@ -45,17 +45,17 @@ Names are as saved in the game (cut off where the game cuts them off). "Archetyp
 | 28 | TearlamentsM1 2025Jan30… | Tearlaments | |
 | 29 | DrytronM1 2025Jan25 time… | Drytron | |
 | 30 | M1Lab 2024Dec13 Terrence… | Labrynth | |
-| 31 | AncientGearsM1 Richardo 2… | Ancient Gear | |
-| 32 | RACE M1 2024 June 10th… | Rescue-ACE | |
-| 33 | MannadiumM1 2024 June 8… | Mannadium | |
-| 34 | UnchainedM1 2024-05-21… | Unchained | |
 
-## Not Standard right now: 6 decks
+## Not Standard right now: 10 decks
 
-No STANDARD badge, so these need cards or banlist fixes before Ranked. They're the first candidates to delete when a slot is needed.
+No STANDARD badge: old lists with cards that have since been Limited or Forbidden. They need updating to the current banlist before Ranked. They're the first candidates to delete when a slot is needed.
 
 | Saved name | Archetype |
 | --- | --- |
+| AncientGearsM1 Richardo 2… | Ancient Gear |
+| RACE M1 2024 June 10th… | Rescue-ACE |
+| MannadiumM1 2024 June 8… | Mannadium |
+| UnchainedM1 2024-05-21… | Unchained |
 | TraptrixM1 2024/03/18 Ho… | Traptrix |
 | BrandedDespiaM1 2023Mar… | Branded Despia |
 | SkyStriker M1 Jan 23 2024… | Sky Striker |
@@ -67,4 +67,5 @@ No STANDARD badge, so these need cards or banlist fixes before Ranked. They're t
 
 - Fiendsmith ("Fs") is splashed into 5 decks: Tearlaments, Yubel, Voiceless Voice, White Forest Azamina, Snake-Eye.
 - Most Standard decks are copies of Master 1 or Ranked lists, saved with the date and the player who piloted them.
-- Older lists (2024 to early 2025) may be legal but out of date against the current meta.
+- Example: AncientGearsM1 runs 3 Maxx "C" (now Limited 1), 2 Forbidden Main Deck cards and 3 Forbidden Extra Deck cards.
+- Older lists that are still Standard may be out of date against the current meta.
