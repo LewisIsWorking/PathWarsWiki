@@ -8,7 +8,7 @@ left is the first thing a new player notices.
 
 ## The Discord version
 
-Fits Discord's 2,000 character limit at **1,448**. Copy
+Fits Discord's 2,000 character limit at **1,246**. This is the text as posted on 2026-11-17. Copy
 everything between the fences.
 
 Why the platform goes first: PF2e play-by-post **on Telegram** is a narrow ask,
@@ -18,18 +18,17 @@ lines do not answer it they stop reading. The premise comes third, and earns its
 place there.
 
 ```
-# Magni Guard.
-**Play-by-post Pathfinder 2e. A fresh table, starting together at level 1.**
+# Magni Guard (Pathfinder 2e).
 
-Play-by-post, so the game comes to you: post a few lines whenever you have a minute, from your phone. No scheduled session, no four-hour block to defend in your calendar.
+It's play-by-post: you reply whenever suits you; a few times a week is plenty, and there are no set session times.
 
-Rolls happen in Foundry VTT, and the posting lives in our Telegram group. Both are free for players and I will help you get set up.
+Rolls happen in Foundry VTT, and the posting lives in our Telegram group. Both are free for players, and I will help you get set up.
 
 You are a newly recruited agent of the Magni Guard, the elite investigative force protecting Magnimar, the City of Monuments. Solve crimes. Crack conspiracies. Keep the city standing.
 
 - System: Pathfinder 2e. Level 1, running to 20.
 - Setting: Golarion. Magnimar, with homebrew changes throughout.
-- Open slots: 7. The whole party forms together, so nobody is the new person at an old table.
+- Open slots: 7.
 - Pace: constant but slow.
 - Age: 18 or older.
 - THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
@@ -39,7 +38,7 @@ Character creation:
 - Dual class and a free archetype are both available.
 - I recommend Pathbuilder.
 
-A bot tracks every player message I have not replied to yet and posts the backlog where the whole group can see it, so if I go quiet it is visible to everyone rather than just to you.
+A bot tracks every player message I haven't replied to yet and posts the backlog where the whole group can see it, so if I go quiet, everyone can see it rather than just you.
 
 How to join:
 1. Join our Discord server (link in my bio).
@@ -77,7 +76,7 @@ You already have the hard half set up.
 ```
 
 Then continue from "You are a newly recruited agent" above. Composed that way it
-stays under the limit (the base version is 1,448).
+stays under the limit (the base version is 1,246).
 
 ### Paizo Recruitment, RPG Crossing, RPGnet
 
@@ -126,6 +125,7 @@ venue ids and each venue's repost rule.
 | date | venue | link | outcome |
 |---|---|---|---|
 | 2026-08-25 | Pathfinder 2e Discord (`pf2e-discord-lfg`) | [post](https://discord.com/channels/260066959238889472/1541798442513211463) | recorded in the bot, cooling down 7d |
+| 2026-11-17 | Pathfinder 2e Discord (`pf2e-discord-lfg`) | [post](https://discord.com/channels/260066959238889472/1572339346722398249) | fresh-table ad, 7 open slots |
 
 ## Fact check
 
