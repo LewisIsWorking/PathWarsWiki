@@ -46,6 +46,15 @@ Names are as saved in the game (cut off where the game cuts them off). "Archetyp
 | 29 | DrytronM1 2025Jan25 time… | Drytron | |
 | 30 | M1Lab 2024Dec13 Terrence… | Labrynth | |
 
+## Being built (17 Nov 2026)
+
+Imported lists with cards not yet owned (dimmed in the deck editor; counts are approximate).
+
+| Saved name | Archetype | Missing |
+| --- | --- | --- |
+| WitchCrafterRd1604 2026-11-1… | Witchcrafter (new support, Dragoon variant) | about 5 UR + 4 SR |
+| RikkaRD1649 26-11-11th | Rikka | about 8 UR + 10 SR; Extra Deck has 14 of 15 |
+
 ## Not Standard right now: 10 decks
 
 No STANDARD badge: old lists with cards that have since been Limited or Forbidden. They need updating to the current banlist before Ranked. They're the first candidates to delete when a slot is needed.
