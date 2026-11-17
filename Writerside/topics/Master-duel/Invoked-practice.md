@@ -8,12 +8,13 @@ Lines to learn before the 21 Nov tournament so you can play them from memory und
 
 ## Cheat sheet images
 
-One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v3.0 (16 Nov 2026).** Version and date are printed in each image's footer.
+One image per line, for your phone during games. **Easier on a phone:** the one-page version at https://claude.ai/artifact/QN9EBixbg3USELrswv3fw3 always shows the latest lines (add it to your home screen). **Current version: v3.1 (17 Nov 2026).** Version and date are printed in each image's footer.
 
 To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERSION` and `DATE`, run `python3 tools/invoked-cheatsheet/build.py` from the repo root, point the links below at the new folder, and add a changelog entry. Older versions stay in their own folders.
 
 ### Changelog
 
+- **v3.1 (17 Nov 2026):** Tip T5, Saturday gauntlet matchups (Labrynth/starters, Natasha, Jack's Chimeratech).
 - **v3.0 (16 Nov 2026):** rebuilt for the new deck (no Crowley, Spenta, Zoroa, Grail, Nibiru; adds Elysium, Borreload Savage Dragon; Madness in for Omega). New Lines 1–9, S1–S6, Tips T1–T4. Reminiscent now does Crowley's jobs in Line 1. Every InvokedRD line kept as archive A1–A28 (Old tab).
 - **v2.5 (15 Nov 2026):** new going-1st Line 13 "Drolled before you got Invocation" (untested): Virakam Sets Invocation, Droll in her GY is the WIND for Sorath. Brick is now Line 14.
 - **v2.4 (15 Nov 2026):** new going-1st Line 7 "Opener + Spenta + Crowley" (untested). Old Lines 7–12 are now 8–13.
@@ -40,58 +41,59 @@ To update: edit the line data in `tools/invoked-cheatsheet/build.py`, bump `VERS
 - **v1.0 (14 Nov 2026):** first version. Lines 1–8 plus the "Which line?" picker. Line 1 is Taffy's Baronne branch (Chorozo crafted). Deck: 1 Reminiscent, 2 Aiwass, 2 Spenta, 1 Crowley, 1 Zoroa, Omega + 1 Aeon + De Anima in the Extra Deck.
 - **Planned:** add Elysium to Line 4 and the going-second plan once crafted; add Gamma Summon; recheck lines when Reminiscent #2–3 arrive.
 
-![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-0-which-line.png)
-![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-1.png)
-![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-2.png)
-![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-3.png)
-![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-4.png)
-![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-5.png)
-![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-6.png)
-![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-7.png)
-![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-8.png)
-![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-9.png)
-![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-S1.png)
-![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-S2.png)
-![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-S3.png)
-![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-S4.png)
-![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-S5.png)
-![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-S6.png)
-![invoked-line-T1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-T1.png)
-![invoked-line-T2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-T2.png)
-![invoked-line-T3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-T3.png)
-![invoked-line-T4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-T4.png)
-![invoked-line-A1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A1.png)
-![invoked-line-A2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A2.png)
-![invoked-line-A3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A3.png)
-![invoked-line-A4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A4.png)
-![invoked-line-A5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A5.png)
-![invoked-line-A6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A6.png)
-![invoked-line-A7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A7.png)
-![invoked-line-A8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A8.png)
-![invoked-line-A9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A9.png)
-![invoked-line-A10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A10.png)
-![invoked-line-A11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A11.png)
-![invoked-line-A12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A12.png)
-![invoked-line-A13](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A13.png)
-![invoked-line-A14](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A14.png)
-![invoked-line-A15](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A15.png)
-![invoked-line-A16](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A16.png)
-![invoked-line-A17](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A17.png)
-![invoked-line-A18](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A18.png)
-![invoked-line-A19](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A19.png)
-![invoked-line-A20](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A20.png)
-![invoked-line-A21](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A21.png)
-![invoked-line-A22](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A22.png)
-![invoked-line-A23](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A23.png)
-![invoked-line-A24](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A24.png)
-![invoked-line-A25](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A25.png)
-![invoked-line-A26](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A26.png)
-![invoked-line-A27](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A27.png)
-![invoked-line-A28](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.0/invoked-line-A28.png)
+![invoked-0-which-line](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-0-which-line.png)
+![invoked-line-1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-1.png)
+![invoked-line-2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-2.png)
+![invoked-line-3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-3.png)
+![invoked-line-4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-4.png)
+![invoked-line-5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-5.png)
+![invoked-line-6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-6.png)
+![invoked-line-7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-7.png)
+![invoked-line-8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-8.png)
+![invoked-line-9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-9.png)
+![invoked-line-S1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-S1.png)
+![invoked-line-S2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-S2.png)
+![invoked-line-S3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-S3.png)
+![invoked-line-S4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-S4.png)
+![invoked-line-S5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-S5.png)
+![invoked-line-S6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-S6.png)
+![invoked-line-T1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-T1.png)
+![invoked-line-T2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-T2.png)
+![invoked-line-T3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-T3.png)
+![invoked-line-T4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-T4.png)
+![invoked-line-T5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-T5.png)
+![invoked-line-A1](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A1.png)
+![invoked-line-A2](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A2.png)
+![invoked-line-A3](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A3.png)
+![invoked-line-A4](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A4.png)
+![invoked-line-A5](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A5.png)
+![invoked-line-A6](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A6.png)
+![invoked-line-A7](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A7.png)
+![invoked-line-A8](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A8.png)
+![invoked-line-A9](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A9.png)
+![invoked-line-A10](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A10.png)
+![invoked-line-A11](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A11.png)
+![invoked-line-A12](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A12.png)
+![invoked-line-A13](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A13.png)
+![invoked-line-A14](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A14.png)
+![invoked-line-A15](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A15.png)
+![invoked-line-A16](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A16.png)
+![invoked-line-A17](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A17.png)
+![invoked-line-A18](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A18.png)
+![invoked-line-A19](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A19.png)
+![invoked-line-A20](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A20.png)
+![invoked-line-A21](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A21.png)
+![invoked-line-A22](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A22.png)
+![invoked-line-A23](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A23.png)
+![invoked-line-A24](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A24.png)
+![invoked-line-A25](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A25.png)
+![invoked-line-A26](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A26.png)
+![invoked-line-A27](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A27.png)
+![invoked-line-A28](https://raw.githubusercontent.com/LewisIsWorking/PathWarsWiki/main/Writerside/images/invoked-cheatsheet/v3.1/invoked-line-A28.png)
 
 Which line to play:
 
-| Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
+| Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Going | Your hand has | Play |
 | --- | --- | --- |
 | 1st | Aleister + Reminiscent | Line 1 (best) |
 | 1st | Aleister + Sacred Sword or Aiwass (they search Reminiscent) | Line 1 (best) |
@@ -115,6 +117,7 @@ Which line to play:
 | tips | Going 2nd into Natasha's Dragoon | Line T2 |
 | tips | Finish the turn: damage tricks and attack values | Line T3 |
 | tips | Borreload Savage Dragon instead of Baronne | Line T4 |
+| tips | Saturday gauntlet: Labrynth, Natasha, Jack | Line T5 (best) |
 | old deck | 1st: Aleister + Reminiscent | Line A1 |
 | old deck | 1st: Opener + Reminiscent | Line A2 |
 | old deck | 1st: Crowley or Spenta + Reminiscent + FIRE/WIND | Line A3 |
@@ -600,6 +603,28 @@ Needs: Chorozo + a Level 4 (Aleister or Reminiscent) on your field, A Link in yo
 **End:** An omni-negate that lasts as many turns as it has counters
 
 **Remember:** You have 1 Chorozo: Baronne (Chorozo + Sorath, Level 6) OR Borreload (Chorozo + a Level 4). Use Borreload when Sorath is needed for something else.
+
+## Tip T5: Saturday gauntlet: who you're facing (tips & tricks; Matchup notes · card text + MDM)
+
+Needs: 10–20 games back to back.
+
+**Labrynth / Starter Decks**
+1. Play a **short line** (3 or 5). Baronne + Mechaba or Baronne + Aeon is plenty. Saves the timer and your head
+2. **Ghost Ogre** and **Droplet** are good into Labrynth's traps and Furniture
+
+**Natasha (Shining Sarcophagus · Dragoon · Horus)**
+3. Going 1st: **Line 1**. Her turn: **Imperm Imsety**, **Ash** her Sarcophagus search, Droll after her first search
+4. Going 2nd: **S2** (Elysium wipe), **Super Poly** on Dragoon (Tip T2), or **Forbidden Droplet** (doesn't target)
+5. **Ghost Ogre** can't touch Shining Sarcophagus. Nothing targets Dragoon
+
+**Jack (Cyber Dragon · Chimeratech)**
+6. **Chimeratech Fortress Dragon** sends Machines from **either** field: **Mechaba is a Machine**, so he can eat it
+7. Fortress is summoned by sending, not activated: **Baronne and Mechaba can't negate it**. Save negates for **Overload Fusion / Super Poly / Cyber Emergency**
+8. **Nibiru** and **Maxx "C"** punish his summon chains
+
+**End:** Long line only into Natasha and Jack
+
+**Remember:** Timer: if under 60 seconds, stop extending and pass. A finished small board beats an unfinished big one.
 
 ## Line A1: Aleister + Reminiscent (archive; Old deck (InvokedRD) · Sourced: Taffy (MDM), Baronne branch · BEST LINE)
 

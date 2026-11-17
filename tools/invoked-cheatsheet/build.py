@@ -2,8 +2,8 @@ import re, html
 from playwright.sync_api import sync_playwright
 
 import os, sys
-VERSION = "3.0"
-DATE = "16 Nov 2026"
+VERSION = "3.1"
+DATE = "17 Nov 2026"
 # Run from repo root: python3 tools/invoked-cheatsheet/build.py
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "Writerside", "images", "invoked-cheatsheet", "v" + VERSION)
 
@@ -797,7 +797,25 @@ P4 = dict(title="Borreload Savage Dragon instead of Baronne", tag="Card text · 
   end="An omni-negate that lasts as many turns as it has counters",
   memo="You have 1 Chorozo: Baronne (Chorozo + Sorath, Level 6) OR Borreload (Chorozo + a Level 4). Use Borreload when Sorath is needed for something else.")
 
-NEW_TIPS = [P1, P2, P3, P4]
+P5 = dict(title="Saturday gauntlet: who you're facing", tag="Matchup notes · card text + MDM",
+  needs=["10–20 games back to back"],
+  stages=[
+   ("Labrynth / Starter Decks", [
+    "Play a **short line** (3 or 5). Baronne + Mechaba or Baronne + Aeon is plenty. Saves the timer and your head",
+    "**Ghost Ogre** and **Droplet** are good into Labrynth's traps and Furniture"]),
+   ("Natasha (Shining Sarcophagus · Dragoon · Horus)", [
+    "Going 1st: **Line 1**. Her turn: **Imperm Imsety**, **Ash** her Sarcophagus search, Droll after her first search",
+    "Going 2nd: **S2** (Elysium wipe), **Super Poly** on Dragoon (Tip T2), or **Forbidden Droplet** (doesn't target)",
+    "**Ghost Ogre** can't touch Shining Sarcophagus. Nothing targets Dragoon"]),
+   ("Jack (Cyber Dragon · Chimeratech)", [
+    "**Chimeratech Fortress Dragon** sends Machines from **either** field: **Mechaba is a Machine**, so he can eat it",
+    "Fortress is summoned by sending, not activated: **Baronne and Mechaba can't negate it**. Save negates for **Overload Fusion / Super Poly / Cyber Emergency**",
+    "**Nibiru** and **Maxx \"C\"** punish his summon chains"]),
+  ],
+  end="Long line only into Natasha and Jack",
+  memo="Timer: if under 60 seconds, stop extending and pass. A finished small board beats an unfinished big one.")
+
+NEW_TIPS = [P1, P2, P3, P4, P5]
 for _i, _L in enumerate(NEW_TIPS, 1):
     _L["id"] = "T" + str(_i)
     _L["when"] = "tips"
@@ -831,6 +849,7 @@ INDEX3 = [
  ("Going 2nd into Natasha's Dragoon", "T2", False),
  ("Finish the turn: damage tricks and attack values", "T3", False),
  ("Borreload Savage Dragon instead of Baronne", "T4", False),
+ ("Saturday gauntlet: Labrynth, Natasha, Jack", "T5", True),
 ]
 INDEX4 = [((("1st: " if L["old_when"] == "1st" else "2nd: " if L["old_when"] == "2nd" else "Tip: ") + L["title"]), L["id"], False) for L in OLD]
 INDEX = INDEX1
