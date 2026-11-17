@@ -1,6 +1,6 @@
 # C04~Discord-Ad
 
-Rewritten 2026-08-25. One source for the facts, three shapes for the venues.
+Rewritten 2026-08-25, refreshed 2026-11-17. One source for the facts, three shapes for the venues.
 
 ⚠️ Read **Fact check** at the bottom before posting anywhere. The slot count and
 the party list are the two things that rot, and a party list naming people who
@@ -8,7 +8,7 @@ left is the first thing a new player notices.
 
 ## The Discord version
 
-Fits Discord's 2,000 character limit at **1,614**, leaving 386 spare. Copy
+Fits Discord's 2,000 character limit at **1,448**. Copy
 everything between the fences.
 
 Why the platform goes first: PF2e play-by-post **on Telegram** is a narrow ask,
@@ -18,42 +18,44 @@ lines do not answer it they stop reading. The premise comes third, and earns its
 place there.
 
 ```
-Magni Guard (play by post, Pathfinder 2e)
+# Magni Guard.
+**Play-by-post Pathfinder 2e. A fresh table, starting together at level 1.**
 
 Play-by-post, so the game comes to you: post a few lines whenever you have a minute, from your phone. No scheduled session, no four-hour block to defend in your calendar.
 
-Rolls happen in Foundry VTT, and the posting itself lives in our Telegram group. Both are free for players and I will help you get set up.
+Rolls happen in Foundry VTT, and the posting lives in our Telegram group. Both are free for players and I will help you get set up.
 
 You are a newly recruited agent of the Magni Guard, the elite investigative force protecting Magnimar, the City of Monuments. Solve crimes. Crack conspiracies. Keep the city standing.
 
 - System: Pathfinder 2e. Level 1, running to 20.
 - Setting: Golarion. Magnimar, with homebrew changes throughout.
-- Open slots: 4. The party right now is Bayakan Tiktik (Sprite Investigator/Psychic) and Nadya Rudean (Kitsune Sorcerer/Alchemist), so there is room and plenty of spotlight.
+- Open slots: 7. The whole party forms together, so nobody is the new person at an old table.
 - Pace: constant but slow.
 - Age: 18 or older.
 - THIS IS NOT A WEST MARCH. THIS IS NOT A PAID GAME.
 
 Character creation:
 - Any PF2e content. Any ancestry, class or background.
-- Dual class is available and entirely optional.
+- Dual class and a free archetype are both available.
 - I recommend Pathbuilder.
 
 A bot tracks every player message I have not replied to yet and posts the backlog where the whole group can see it, so if I go quiet it is visible to everyone rather than just to you.
 
-There is a lot of detail here and you do not need to read any of it. DM me and I will walk you through the whole thing. I like putting it in writing so that nobody has to guess.
-
-The vetting process happens on our Discord server, **not** in my DMs with you. Discord link is in my bio. :slight_smile:
+How to join:
+1. Join our Discord server (link in my bio).
+2. Follow the welcome steps there and pick Magni Guard.
+3. I will help you build your character from there.
 
 @PF2e LFG
 Campaign helpers: @mrnegetz @nemesiux
 ```
 
-### Two seated players is a selling point, said plainly
+### A fresh table is a selling point, said plainly
 
-The honest version of "only two left" is "four seats and a lot of spotlight",
-which is true and is what a player actually wants from a small table. Do not
-inflate the party. Someone who joins on a four-person party and finds two will
-work out the rest, and that is the impression that ends the conversation.
+Since 2026-11-17 the table is empty and starts again at level 1. Say that as
+"the whole party forms together", which is true and is what a newcomer wants:
+nobody is the new person at an old table. The open slot count is inflated by
+one on purpose, so the party can afford early drop-offs.
 
 ## Changing it per venue
 
@@ -75,7 +77,7 @@ You already have the hard half set up.
 ```
 
 Then continue from "You are a newly recruited agent" above. Composed that way it
-comes to **1,553** characters, 447 under the limit.
+stays under the limit (the base version is 1,448).
 
 ### Paizo Recruitment, RPG Crossing, RPGnet
 
@@ -85,8 +87,8 @@ most likely to work. Post the full version **plus** the links below, and drop th
 
 Thread titles the venues expect:
 
-- Paizo: `[PF2e] Magni Guard - recruiting 4 players (play-by-post, Telegram)`
-- RPG Crossing: `[PF2e] Magni Guard - play-by-post, recruiting 4`
+- Paizo: `[PF2e] Magni Guard - recruiting 7 players (play-by-post, Telegram)`
+- RPG Crossing: `[PF2e] Magni Guard - play-by-post, recruiting 7`
 - RPGnet: `[Recruitment] Pathfinder 2E - Magni Guard`
 
 ⚠️ Read each board's sticky before your first post there. Every cooldown in the
@@ -99,7 +101,7 @@ bot's catalogue except r/lfg's is a guess.
 hours, which is the only confirmed rule in the whole catalogue rather than a
 conservative guess.
 
-Title: `[Online][PF2e][Play-by-Post][Telegram] Magni Guard - recruiting 4`
+Title: `[Online][PF2e][Play-by-Post][Telegram] Magni Guard - recruiting 7`
 
 ## Links
 
@@ -129,20 +131,13 @@ venue ids and each venue's repost rule.
 
 ⚠️ The numbers above go stale silently.
 
-**Verified 2026-08-25** against the bot roster:
+**Verified 2026-11-17** against the bot roster:
 
-- Open slots 4. Two seated players, target six.
-- Party is Bayakan Tiktik (Chase) and Nadya Rudean (Cannon).
-- Removed from the advert the same day: **Akuma** (Chris Warlock, left
-  2026-06-30) and **Kitt** (Ryo, left 2026-08-25). Akuma had been wrong here for
-  eight weeks.
+- No active players: 0 of 6. Open slots in the ad: 7 (one over, on purpose).
+- Bayakan Tiktik (Chase) and Nadya Rudean (Cannon) have left; both were
+  removed from the advert the same day.
+- Earlier removals: **Akuma** (Chris Warlock, left 2026-06-30) and **Kitt**
+  (Ryo, left 2026-08-25).
 
 Re-check with `/campaign C04` before each posting rather than trusting this line;
 it is a measurement with a date on it, not a standing fact.
-
-⚠️ **The table is quiet.** Chase last posted 2026-07-31 and Cannon 2026-08-03.
-The GM queue shows the campaign as recent, but that is the GM posting into
-silence. `/recruitads` will warn about this. A new arrival landing in a table
-where nobody has posted for three weeks tends to leave inside a month, and the
-recruitment log then records it as the venue failing. Nudge both players before
-the adverts go out.

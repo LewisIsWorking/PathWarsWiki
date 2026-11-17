@@ -34,6 +34,7 @@ __04-The-Magni-Guard-The-Elite-Guards-Of-Magnimar__
 - Set in Magnimar, the party will take on the roles of agents of Magni-Guard, dealing with various threats to the city.
 - The campaign will involve investigations, combat and exploration of the city and its surroundings.
 - (This is the agents of Edge watch, but set in Magnimar instead of Absalom).
+- A fresh table: the whole party starts together.
 - Level 1 → 20.
 
 __05-The-Grand-Explorers__
