@@ -107,7 +107,7 @@ Opening from LeftOnRed's "Cupsy 1cc" (MDM), then Line 1. UNTESTED where it joins
 
 ## Line 3: Curtain + 2 Yummy monsters + 1 discard
 
-Found live on 19 Nov 2026 (hand: Curtain, Cooky, Lollipo, TTT, Imperm). Line 4's opening, with the 2nd Yummy replacing Surprise as Borreload's Level 1 so Surprise can loop Marshmao into a 2nd Cupsy★Yummy Way. UNTESTED past step 3.
+Found live on 19 Nov 2026 (hand: Curtain, Cooky, Lollipo, TTT, Imperm). Line 4's opening, with the 2nd Yummy replacing Surprise as Borreload's Level 1 so Surprise can loop Marshmao into a 2nd Cupsy★Yummy Way. **TESTED 19 Nov 2026: reached the full end board.**
 
 1. **Curtain:** Special Summon **Witch of the Black Forest** from the Deck.
 2. Link Witch → **Artemis**. **Witch (GY):** search **Maxx "C"** (you already hold your Yummies).
