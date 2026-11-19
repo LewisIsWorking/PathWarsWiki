@@ -225,6 +225,32 @@ Line 1 changed to break her board. Built from card text, UNTESTED. Marshmao summ
 
 Exact opening hands from real games, each with its full line. Newest first.
 
+### Going 1st: Cupsy, Marshmao, Maxx "C", Pharaoh's Servant, Dominus Spark (19 Nov 2026)
+
+**Line 1 with Cupsy as the Yummy.** Spark is the discard; Servant is already in hand, so Herald's search is skipped. UNTESTED.
+
+1. Normal Summon **Cupsy** → search **Yummy☆Surprise**.
+2. Link Cupsy → **Yummy★Snatchy** → place **Mignon**.
+3. **Mignon:** Special Summon Cupsy from your GY (its search is used: skip).
+4. Synchro: Snatchy + Cupsy → **Cupsy★Yummy Way**: add **Cooky** + **Lollipo**, **discard Spark**.
+5. Special Summon **Marshmao** from hand (skip its effect), then **Cooky** (skip).
+6. Synchro: Cupsy★Yummy Way + Marshmao → **Sorrowcat**.
+7. Synchro: Sorrowcat + Cooky → **Herald**.
+8. **Sorrowcat (GY):** return Cupsy★Yummy Way → Special Summon Sorrowcat.
+9. **Surprise:** Special Summon **Marshmao** from your GY → it adds Surprise back.
+10. Synchro: Sorrowcat + Herald + Marshmao → **Borreload**: equip **Snatchy**.
+11. **Herald (GY):** skip (Servant is in hand).
+12. **Servant:** reveal Surprise → summon it → **Set Gaze**.
+13. **Dark Magician of Destruction:** banish Servant → summon it → search **Curtain**.
+14. **Curtain:** Special Summon **Witch**. Link Witch → **Artemis**. **Witch (GY):** search **Droll** (Lollipo is already in hand).
+15. Special Summon **Lollipo**.
+16. Synchro: Artemis + Lollipo → **Lollipo★Yummy Way** → Special Summon **2 Yummies** from your GY.
+17. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**.
+18. Link the 2 Yummies → **S:P Little Knight**. Skip its banish.
+19. Set **Surprise**.
+
+**End:** Baronne · Borreload · Little Knight · Mignon · set Surprise, Gaze · Maxx "C" + Droll in hand. Her turn: Gaze → Dark Magician of Destruction in your GY → **Dragoon**.
+
 ### Going 2nd: Cooky, Marshmao, Dominus Spark ×2 (19 Nov 2026, after TTT drew 2)
 
 **Line S1** with Cooky as the other Yummy and a Spark as the discard. **PLAYED 19 Nov 2026: won (opponent surrendered, 2 turns).** In the game Lollipo was already in hand at step 16, so Witch searched **Maxx "C"** instead. The deck tracker showed only 1 Cooky gone from the Deck, so Cupsy★Yummy Way probably added **Lollipo** rather than a 2nd Cooky.
