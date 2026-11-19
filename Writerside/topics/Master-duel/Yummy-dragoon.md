@@ -231,6 +231,19 @@ Exact opening hands from real games, each with its full line. Newest first.
 
 **Spright Elf instead of Little Knight (against Dragoon):** at step 17, Link Lollipo★Yummy Way + 1 revived Yummy → **Spright Elf** (Extra Monster Zone). **Elf:** Special Summon Lollipo★Yummy Way from the GY. Then Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**, placed under one of Elf's arrows. Elf stops her targeting the monsters it points to (Dragoon's destroy targets), and on her turn it can revive a Level 2 Yummy Synchro. You lose Little Knight's banish. UNTESTED.
 
+**Herald instead of Borreload (against Natasha's Horus):** Herald of the Arc Light banishes any monster sent from the hand or Deck to the GY, which stops her Sons of Horus reaching the GY. You can only keep it when Servant (or Illusion) is already in hand, because otherwise Herald has to go to the GY to fetch Illusion. UNTESTED.
+
+1. Play steps 1–8 as above (Herald + Sorrowcat on the field, Surprise in hand).
+2. **Skip** steps 9–11: no Surprise loop, no Borreload.
+3. **Servant:** reveal Surprise → summon it → **Set Gaze**.
+4. **Dark Magician of Destruction:** banish Servant → summon it → search **Curtain**.
+5. **Curtain:** Special Summon **Witch**. Link Witch → **Artemis**. **Witch (GY):** search **Droll**.
+6. Special Summon **Lollipo**. Synchro: Artemis + Lollipo → **Lollipo★Yummy Way** → Special Summon **Cooky** + **Marshmao** from the GY.
+7. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**.
+8. Link Cooky + Marshmao → **S:P Little Knight**. Set **Surprise** (both its modes are still unused).
+
+**End:** Herald (her monsters sent from hand/Deck are banished; Tribute it to negate) · Baronne · Little Knight · Sorrowcat · Mignon · set Surprise, Gaze. While Herald is out, your own discards are banished too.
+
 1. Normal Summon **Cupsy** → search **Yummy☆Surprise**.
 2. Link Cupsy → **Yummy★Snatchy** → place **Mignon**.
 3. **Mignon:** Special Summon Cupsy from your GY (its search is used: skip).
