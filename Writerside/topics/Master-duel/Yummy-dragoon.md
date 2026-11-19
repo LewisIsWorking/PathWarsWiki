@@ -19,6 +19,8 @@ Strongest first: play the top row that fits.
 | Got Drolled after Cupsy★Yummy Way's search | **7** |
 | None of these | **8** (pass with hand traps) |
 
+**Going second:** Marshmao + another Yummy + 1 discard → **Line S1**. Exact hands already worked out are under [Specific hands](#specific-hands).
+
 ## Deck list
 
 Read from a screenshot.
@@ -190,6 +192,98 @@ You've already made Cupsy★Yummy Way and added Cupsy + Cooky when she Drolls.
 ## Line 8: No starter
 
 Don't summon or set anything (Mulcharmy and Imperm from hand only work while you control no cards). Pass and use hand traps on her turn.
+
+## Line S1: Going second, Marshmao + another Yummy + 1 discard
+
+Line 1 changed to break her board. Built from card text, UNTESTED. Marshmao summons itself onto your empty field (no Mignon revive needed), so Snatchy places **Acroquey** instead of Mignon.
+
+1. Special Summon **Marshmao** from hand (you control no monsters). Skip its effect.
+2. Normal Summon the other Yummy (Lollipo: shuffle a card in her GY back into her Deck; Cooky: her monster loses 1000 ATK).
+3. Link Marshmao → **Yummy★Snatchy** → place **Yummyusment★Acroquey**.
+4. Synchro: Snatchy + the Yummy → **Cupsy★Yummy Way**. **Acroquey:** destroy 1 of her cards (targets: not Dragoon). **Cupsy★Yummy Way:** add **Cupsy** + **Cooky**, discard the spare.
+5. Special Summon **Cupsy** → search **Yummy☆Surprise**.
+6. Special Summon **Cooky** → her biggest monster loses 1000 ATK.
+7. Synchro: Cupsy★Yummy Way + Cupsy → **Sorrowcat**.
+8. Synchro: Sorrowcat + Cooky → **Herald of the Arc Light**.
+9. **Sorrowcat (GY):** return Cupsy★Yummy Way → Special Summon Sorrowcat.
+10. **Surprise:** Special Summon **Marshmao** from your GY → it adds Surprise back.
+11. Synchro: Sorrowcat + Herald + Marshmao → **Borreload**: equip **Snatchy** (3300 ATK).
+12. **Herald (GY):** search **Illusion of Chaos** (skip if it's already in hand).
+13. **Illusion:** add **Pharaoh's Servant**, Illusion on top of your Deck.
+14. **Servant:** reveal Surprise → summon it → **Set Gaze** (can't be used this turn).
+15. **Dark Magician of Destruction:** banish Servant → summon it → search **Curtain**.
+16. **Curtain:** Special Summon **Witch**. Link Witch → **Artemis**. **Witch (GY):** search **Cooky**.
+17. Special Summon **Cooky**. Skip its effect.
+18. Synchro: Artemis + Cooky → **Lollipo★Yummy Way** → Special Summon **2 Yummies** from your GY.
+19. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne de Fleur**. **Baronne:** destroy 1 of her cards (targets).
+20. **Surprise (hand, a different mode):** return your 2 Yummies + **2 of her cards** to the hand.
+21. **Battle:** Borreload 3300 + Baronne 3000 = **6,300**.
+
+**Removes up to 4 of her cards** (Acroquey 1, Baronne 1, Surprise 2) + Cooky's −1000. Into **Dragoon**, attack it with Baronne (3000 vs 3000, both destroyed): nothing here can target it.
+
+## Specific hands
+
+Exact opening hands from real games, each with its full line. Newest first.
+
+### Going 2nd: Lollipo, Marshmao, Ash Blossom, Illusion of Chaos, Piri Reis Map, Imperm (19 Nov 2026)
+
+**Line S1**, with Piri as the discard (don't pay half your LP) and Illusion already in hand. UNTESTED.
+
+1. Special Summon **Marshmao** from hand (empty field). Skip its effect.
+2. Normal Summon **Lollipo** → shuffle her best GY card into her Deck (skip if nothing worth it).
+3. Link Marshmao → **Yummy★Snatchy** → place **Acroquey**.
+4. Synchro: Snatchy + Lollipo → **Cupsy★Yummy Way**. **Acroquey:** destroy 1 of her cards. Add **Cupsy** + **Cooky**, **discard Piri**.
+5. Special Summon **Cupsy** → search **Yummy☆Surprise**.
+6. Special Summon **Cooky** → her biggest monster loses 1000 ATK.
+7. Synchro: Cupsy★Yummy Way + Cupsy → **Sorrowcat**.
+8. Synchro: Sorrowcat + Cooky → **Herald**.
+9. **Sorrowcat (GY):** return Cupsy★Yummy Way → Special Summon Sorrowcat.
+10. **Surprise:** Special Summon **Marshmao** from your GY → it adds Surprise back.
+11. Synchro: Sorrowcat + Herald + Marshmao → **Borreload**: equip **Snatchy** (3300).
+12. **Herald (GY):** skip (Illusion is in hand).
+13. **Illusion:** add **Pharaoh's Servant**, Illusion on top of your Deck.
+14. **Servant:** reveal Surprise → summon it → **Set Gaze**.
+15. **Dark Magician of Destruction:** banish Servant → summon it → search **Curtain**.
+16. **Curtain:** Special Summon **Witch**. Link Witch → **Artemis**. **Witch (GY):** search **Cooky**.
+17. Special Summon **Cooky**. Skip its effect.
+18. Synchro: Artemis + Cooky → **Lollipo★Yummy Way** → Special Summon **2 Yummies** from your GY.
+19. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**. **Baronne:** destroy 1 of her cards.
+20. **Surprise (hand):** return your 2 Yummies + **2 of her cards** to the hand.
+21. **Battle:** Borreload 3300 + Baronne 3000 = **6,300**.
+
+Ash and Imperm are for her turn 1, before you get here.
+
+### Going 1st: Lollipo, Ash Blossom, Illusion of Chaos, Piri Reis Map, Imperm (19 Nov 2026)
+
+**Line 1** with Lollipo as the Yummy, Piri as the discard and Illusion already in hand. UNTESTED.
+
+1. Normal Summon **Lollipo**. Skip its effect.
+2. Link Lollipo → **Yummy★Snatchy** → place **Mignon**.
+3. **Mignon:** Special Summon Lollipo from your GY. Skip its effect.
+4. Synchro: Snatchy + Lollipo → **Cupsy★Yummy Way**: add **Cupsy** + **Marshmao** (not Cooky: Marshmao is the one that gets Surprise back), **discard Piri**.
+5. Special Summon **Cupsy** → search **Yummy☆Surprise**.
+6. Special Summon **Marshmao**. Skip its effect.
+7. Synchro: Cupsy★Yummy Way + Marshmao → **Sorrowcat**.
+8. Synchro: Sorrowcat + Cupsy → **Herald**.
+9. **Sorrowcat (GY):** return Cupsy★Yummy Way → Special Summon Sorrowcat.
+10. **Surprise:** Special Summon **Marshmao** from your GY → it adds Surprise back.
+11. Synchro: Sorrowcat + Herald + Marshmao → **Borreload**: equip **Snatchy**.
+12. **Herald (GY):** skip (Illusion is in hand).
+13. **Illusion:** add **Pharaoh's Servant**, Illusion on top of your Deck.
+14. **Servant:** reveal Surprise → summon it → **Set Gaze**.
+15. **Dark Magician of Destruction:** banish Servant → summon it → search **Curtain**.
+16. **Curtain:** Special Summon **Witch**. Link Witch → **Artemis**. **Witch (GY):** search **Cooky**.
+17. Special Summon **Cooky**. Skip its effect.
+18. Synchro: Artemis + Cooky → **Lollipo★Yummy Way** → Special Summon **2 Yummies** from your GY.
+19. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**.
+20. Link the 2 revived Yummies → **S:P Little Knight**. Skip its banish.
+21. Set **Surprise** and **Imperm**.
+
+**End:** Baronne · Borreload · Little Knight · Mignon · set Surprise, Gaze, Imperm · Ash in hand. Her turn: Gaze → Dark Magician of Destruction in your GY → **Dragoon**.
+
+### Going 1st: Dark Magical Curtain, Cooky, Lollipo, Triple Tactics Talent, Imperm (19 Nov 2026)
+
+**Line 3 exactly. TESTED: reached the full end board.** Witch searches **Maxx "C"**; discard **TTT** to Cupsy★Yummy Way. Keep the 2nd Curtain (from Dark Magician of Destruction) in hand for next turn.
 
 ## Going second: what breaks her board
 
