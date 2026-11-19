@@ -248,7 +248,7 @@ Exact opening hands from real games, each with its full line. Newest first.
 17. Special Summon **Lollipo**.
 18. Synchro: Artemis + Lollipo → **Lollipo★Yummy Way** → Special Summon **Cooky** + **Marshmao** from your GY.
 19. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne** → destroy 1 of her cards.
-20. **Battle:** Borreload 3300 + Baronne 3000 + Cooky 2000 + Marshmao 1800 = **10,100** (Mignon isn't out, so check the real numbers on screen).
+20. **Battle:** Borreload 3300 + Baronne 3000 + Cooky 1000 + Marshmao 800 = **8,100** (Acroquey, not Mignon, is the field spell here, so no Yummy ATK boost).
 
 **2nd Spark:** from hand it locks your WIND effects for the rest of the duel, and **Baronne is WIND**: use Baronne's destroy first.
 
