@@ -6,5 +6,6 @@
 
 <instance-profile id="hp-logs" name="HP and Stamina logs" start-page="HP-And-Stamina-Logs.md">
     <toc-element topic="HP-And-Stamina-Logs.md">
+        <toc-element topic="C01-HP-And-Stamina-Log.md"/>
     </toc-element>
 </instance-profile>
