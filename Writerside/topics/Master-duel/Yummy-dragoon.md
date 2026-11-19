@@ -227,7 +227,9 @@ Exact opening hands from real games, each with its full line. Newest first.
 
 ### Going 1st: Cupsy, Marshmao, Maxx "C", Pharaoh's Servant, Dominus Spark (19 Nov 2026)
 
-**Line 1 with Cupsy as the Yummy.** Spark is the discard; Servant is already in hand, so Herald's search is skipped. UNTESTED.
+**Line 1 with Cupsy as the Yummy.** Spark is the discard; Servant is already in hand, so Herald's search is optional (in the game it fetched Illusion of Chaos). **TESTED 19 Nov 2026: reached the full end board.**
+
+**Spright Elf instead of Little Knight (against Dragoon):** at step 17, Link Lollipo★Yummy Way + 1 revived Yummy → **Spright Elf** (Extra Monster Zone). **Elf:** Special Summon Lollipo★Yummy Way from the GY. Then Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**, placed under one of Elf's arrows. Elf stops her targeting the monsters it points to (Dragoon's destroy targets), and on her turn it can revive a Level 2 Yummy Synchro. You lose Little Knight's banish. UNTESTED.
 
 1. Normal Summon **Cupsy** → search **Yummy☆Surprise**.
 2. Link Cupsy → **Yummy★Snatchy** → place **Mignon**.
