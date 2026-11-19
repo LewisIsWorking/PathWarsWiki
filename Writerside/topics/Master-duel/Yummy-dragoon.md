@@ -12,11 +12,12 @@ Strongest first: play the top row that fits.
 | --- | --- |
 | Any Yummy monster + 1 card to discard | **1** |
 | Piri Reis Map + 1 card to discard | **2** |
-| Dark Magical Curtain + 1 card to discard | **3** |
-| Dark Magician, the Pharaoh's Servant (or Illusion of Chaos) + a Spell | **4** |
-| Dark Magical Curtain, nothing else | **5** |
-| Got Drolled after Cupsy★Yummy Way's search | **6** |
-| None of these | **7** (pass with hand traps) |
+| Dark Magical Curtain + 2 Yummy monsters + 1 card to discard | **3** |
+| Dark Magical Curtain + 1 card to discard | **4** |
+| Dark Magician, the Pharaoh's Servant (or Illusion of Chaos) + a Spell | **5** |
+| Dark Magical Curtain, nothing else | **6** |
+| Got Drolled after Cupsy★Yummy Way's search | **7** |
+| None of these | **8** (pass with hand traps) |
 
 ## Deck list
 
@@ -104,7 +105,34 @@ Opening from LeftOnRed's "Cupsy 1cc" (MDM), then Line 1. UNTESTED where it joins
 
 **End:** same as Line 1, but you're on half LP. Careful against Dragoon: it burns you when it destroys your monster.
 
-## Line 3: Dark Magical Curtain + 1 discard
+## Line 3: Curtain + 2 Yummy monsters + 1 discard
+
+Found live on 19 Nov 2026 (hand: Curtain, Cooky, Lollipo, TTT, Imperm). Line 4's opening, with the 2nd Yummy replacing Surprise as Borreload's Level 1 so Surprise can loop Marshmao into a 2nd Cupsy★Yummy Way. UNTESTED past step 3.
+
+1. **Curtain:** Special Summon **Witch of the Black Forest** from the Deck.
+2. Link Witch → **Artemis**. **Witch (GY):** search **Maxx "C"** (you already hold your Yummies).
+3. Special Summon **Cooky** from hand. Skip its effect.
+4. Synchro: Artemis + Cooky → **Cupsy★Yummy Way**: add **Cupsy☆Yummy** + **Marshmao☆Yummy**, discard the spare (TTT).
+5. Special Summon **Cupsy** → search **Yummy☆Surprise**.
+6. Special Summon **Marshmao** (skip its effect), then the **2nd Yummy** (Lollipo; skip its effect).
+7. Synchro: Cupsy★Yummy Way + Marshmao → **Sorrowcat**.
+8. Synchro: Sorrowcat + Cupsy → **Herald of the Arc Light**.
+9. **Sorrowcat (GY):** return Cupsy★Yummy Way → Special Summon Sorrowcat.
+10. Synchro: Sorrowcat + Herald + Lollipo → **Borreload Savage Dragon**: equip **Artemis**.
+11. **Herald (GY):** search **Illusion of Chaos**.
+12. **Illusion:** add **Pharaoh's Servant**, Illusion on top of your Deck.
+13. **Servant:** reveal Surprise → summon it → **Set Gaze**.
+14. **Dark Magician of Destruction:** banish Servant → summon it → search **Dark Magical Curtain** (next turn).
+15. **Yummy☆Surprise:** Special Summon **Marshmao** from the GY → it adds Surprise back.
+16. Link Marshmao → **Yummy★Snatchy**: place **Mignon**.
+17. **Mignon:** Special Summon **Cooky** from the GY. Skip its effect.
+18. Synchro: Snatchy + Cooky → **Cupsy★Yummy Way** (its search is used: skip).
+19. Synchro: Cupsy★Yummy Way + Dark Magician of Destruction → **Baronne de Fleur**.
+20. Set **Yummy☆Surprise**.
+
+**End:** Borreload (1 negate) · Baronne · Mignon · set Surprise · set Gaze (her turn: target Dark Magician of Destruction in your GY → **Dragoon**) · Imperm + Maxx "C" in hand.
+
+## Line 4: Dark Magical Curtain + 1 discard
 
 From No you!'s "Dark magical curtain 1 card" (MDM). Swaps: Borreload instead of Zalen; the Magicians' Souls / Baronne ending is cut. UNTESTED.
 
@@ -124,7 +152,7 @@ From No you!'s "Dark magical curtain 1 card" (MDM). Swaps: Borreload instead of 
 
 **End:** Borreload (1 negate) · Dark Magician of Destruction · set Surprise · set Gaze (her turn: target Dark Magician of Destruction → **Dragoon**).
 
-## Line 4: Pharaoh's Servant (or Illusion of Chaos) + a Spell
+## Line 5: Pharaoh's Servant (or Illusion of Chaos) + a Spell
 
 Built from card text. UNTESTED.
 
@@ -134,7 +162,7 @@ Built from card text. UNTESTED.
 
 **End:** Servant (2500; discard a Spell to destroy all her Spells/Traps) → Dragoon on her turn.
 
-## Line 5: Curtain, nothing else
+## Line 6: Curtain, nothing else
 
 Built from card text. UNTESTED.
 
@@ -144,7 +172,7 @@ Built from card text. UNTESTED.
 
 **End:** Dark Magician of Destruction (2800) → Dragoon on her turn.
 
-## Line 6: Drolled after Cupsy★Yummy Way's search
+## Line 7: Drolled after Cupsy★Yummy Way's search
 
 Droll stops cards being *added* from the Deck. Setting from the Deck (Servant), summoning from the Deck (Curtain) and getting cards back from the GY still work.
 
@@ -159,7 +187,7 @@ You've already made Cupsy★Yummy Way and added Cupsy + Cooky when she Drolls.
 
 **End:** Baronne + Little Knight, or Herald + Sorrowcat.
 
-## Line 7: No starter
+## Line 8: No starter
 
 Don't summon or set anything (Mulcharmy and Imperm from hand only work while you control no cards). Pass and use hand traps on her turn.
 
