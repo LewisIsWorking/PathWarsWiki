@@ -227,7 +227,7 @@ Exact opening hands from real games, each with its full line. Newest first.
 
 ### Going 2nd: Cooky, Marshmao, Dominus Spark ×2 (19 Nov 2026, after TTT drew 2)
 
-**Line S1** with Cooky as the other Yummy and a Spark as the discard. UNTESTED.
+**Line S1** with Cooky as the other Yummy and a Spark as the discard. **PLAYED 19 Nov 2026: won (opponent surrendered, 2 turns).** In the game Lollipo was already in hand at step 16, so Witch searched **Maxx "C"** instead. The deck tracker showed only 1 Cooky gone from the Deck, so Cupsy★Yummy Way probably added **Lollipo** rather than a 2nd Cooky.
 
 1. Special Summon **Marshmao** from hand (empty field). Skip its effect.
 2. Normal Summon **Cooky** → her biggest monster loses 1000 ATK.
