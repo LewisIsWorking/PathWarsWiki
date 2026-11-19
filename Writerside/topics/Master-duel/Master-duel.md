@@ -2,6 +2,13 @@
 
 Start typing here...
 
+## Deck guides.
+
+- [My decks](My-decks.md): every saved deck and whether it's Ranked-legal.
+- [Invoked](Invoked.md) and the [Invoked cheat sheet / practice log](Invoked-practice.md).
+- [Yummy Dragoon](Yummy-dragoon.md): basic combo guide.
+- [Yummy Mitsurugi](Yummy-mitsurugi.md).
+
 ## Fiend-smith combos.
 
 > Part #1
