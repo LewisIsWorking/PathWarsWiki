@@ -377,6 +377,19 @@ Ash and Imperm are for her turn 1, before you get here.
 - Ash Cupsy☆Yummy's or Cupsy★Yummy Way's search.
 - Imperm/Veiler Cupsy☆Yummy's search or Snatchy's Synchro effect.
 
+## Game log and lessons
+
+### 19 Nov 2026 vs Rhino (HEROs): lost
+
+- Going 2nd. Her turn-1 board: Contrast HERO Chaos, Masked HERO Dark Law, a Level 8 HERO, 1 set card.
+- Turn 3: Imperm on Dark Law, TTT stole Contrast HERO Chaos, then Curtain → Servant, Ash + Servant → Baronne, Gaze → Dragoon. The planned 9,000 lethal left her on **1400**.
+- Turn 5: down to Little Knight + Mind on Air with only Droll in hand, against 6 HERO monsters. Lost on her next turn.
+
+**Lessons**
+- **Dark Law** banishes every card going to your GY, which shuts off Mignon, Sorrowcat, Surprise and Gaze. Imperm only stops it for one turn, so that turn has to be lethal.
+- **Dark Magical Curtain lets her Special Summon a DARK Spellcaster too.** In a lethal line it can hand her a blocker. Count her possible summon before relying on Curtain for damage. (Claude's turn-3 line missed this.)
+- Going 2nd, **count damage against her LP before ending the turn**, and keep a Yummy Way Synchro in the GY so Spright Elf can revive it later.
+
 ## Sources
 
 - MDM combo database, Yummy: "Any Yummy + 1 discard" (sam95col), "Dark magical curtain 1 card" (No you!), "Cupsy 1cc" (LeftOnRed), "Yummy NS 1 Card Combo" (MorddredG) — [Yummy combos](https://www.masterduelmeta.com/api/v1/combos?deckType=695f77bc9353a286c4bcc61f)
