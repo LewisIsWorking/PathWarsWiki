@@ -23,7 +23,9 @@ Strongest first: play the top row that fits.
 
 ## Deck list
 
-Read from a screenshot.
+Read from a screenshot. Based on **Vishy's list** (Rating Duels 1559.52, 18 Nov 2026), minus its 41st card, **Magicians' Souls** (UR), which Lewis doesn't own yet. A higher-rated alternative is zibako_iru's (1703.73): it adds Dark Magician, Kuriboh - Multiply! ×3, Detonating Kuriboh, Magician's Rod ×2, Nibiru and Ghost cards, with Zalen and I:P Masquerena in the Extra Deck.
+
+- [Vishy's list](https://www.masterduelmeta.com/top-decks/rating-duels/november-2026/yummy/vishy/k3Vg-) · [zibako_iru's list](https://www.masterduelmeta.com/top-decks/rating-duels/november-2026/yummy/zibako_iru/keUob)
 
 - **Yummy (9):** Cupsy☆Yummy 1, Cooky☆Yummy 3, Lollipo☆Yummy 3, Marshmao☆Yummy 2
 - **Dark Magician (8):** Dark Magician, the Pharaoh's Servant 1, Illusion of Chaos 1, Witch of the Black Forest 1, Mind on Air 1, Dark Magical Curtain 3, The Gaze of Timaeus 1
