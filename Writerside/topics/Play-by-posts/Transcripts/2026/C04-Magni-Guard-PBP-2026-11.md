@@ -62,3 +62,41 @@ Changer (and whoever else helps) spends the 10 minutes of resting bringing the c
 
 **Path Wars** *(GM)* · 02:57 · [↗](https://t.me/Path_Wars/76799/189334)
 Rex offers to guard the kobolds outside, staying outside the temple for the remainder of this mission (and all future missions...).
+
+## Week 47 (Nov 16–Nov 22)
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 20:47 · [↗](https://t.me/Path_Wars/76799/190506)
+Changer:
+
+"I am calling in backup."
+
+### 📅 Tuesday, Nov 17
+
+**Felix Cited** · 22:17 · [↗](https://t.me/Path_Wars/76799/190515)
+We here
+*(edited)*
+
+### 📅 Tuesday, Nov 17
+
+**Felix Cited** · 23:03 · [↗](https://t.me/Path_Wars/76799/190527)
+Tekuam appears as a tall and thin human in hide armor. Their skin is tanned like they spend a lot of time outside with long dark hair they enjoy braiding into different designs. Together with their Leshy familiar Tree Twig, they protect the wilder areas in and around the city. You may find them sleeping in trees, selling the occasional trinket made of woven vines and grass, or visiting temples of various mortal born gods
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Alastair Tan** · 05:21 · [↗](https://t.me/Path_Wars/76799/190581)
+Steele nods at the newcomer. "Sergeant Steele here."
+
+Steele is an androgynous looking humanoid with white fur on her face and body, and blackish nostrils like a wolf, but otherwise a humanoid face. She's in the polished steel breast plate of a Magnimar City Guard, although there are strange black trails staining her face, like tearstains, beside the red paint surrounding her eyes.
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Ryo Yamakawa** · 14:25 · [↗](https://t.me/Path_Wars/76799/190639)
+*[image]*<!-- file:AgACAgEAAx0CYwGpWQABAuivav21U2E-r-ARcFWOJf3sCNSdYMkAAr0Naxvgl-hH3TdodeM-ZIMBAAMCAANtAAM9BA --> Kitt gently hums a cheerful tune as they look over the restrained prisoner, treating the more severe wounds as they await their backup. (Refocus)
+*(edited)*
+
+**Ryo Yamakawa** · 14:25 · [↗](https://t.me/Path_Wars/76799/190640)
+*[image]*<!-- file:AgACAgEAAx0CYwGpWQABAuiwav21VDbsU01JAthv-pa-W-Yj0psAArwNaxvgl-hHQU9FZ3ZgW8EBAAMCAANtAAM9BA -->

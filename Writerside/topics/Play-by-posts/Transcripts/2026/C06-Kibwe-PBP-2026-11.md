@@ -471,3 +471,100 @@ That was 1 action.
 You have 2 actions left.
 
 What else does Daichi do this turn?
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 00:45 · [↗](https://t.me/Path_Wars/137075/189847)
+> Round 1: Unacted Allies.
+>> 1. Fierce Leopard @RyoYamakawa.
+>> 2. Lorn @Nemesiux.
+>> 3. Tal'Lysae @PathWars.
+>> 4. Zerius @altan19931993.
+>> 5. Tarsus LongStaff @buffetraider.
+
+> Round 1: Acting.
+>> 1. Daichi Kenshin @MrNegetZ, 2 actions left.
+
+> Round 1: Acted Allies.
+>> 1. Ji Yun @Thien_Ming.
+
+**Path Wars** *(GM)* · 00:45 · [↗](https://t.me/Path_Wars/40585/189848)
+The pebbles drift higher, until they hang at knee height all across the room.
+
+Beyond the veil, Dr. Nutty's eyes stay on his calculations.
+
+The numbers he mutters come faster now.
+
+### 📅 Saturday, Nov 14
+
+**Path Wars** *(GM)* · 09:34 · [↗](https://t.me/Path_Wars/137075/190107)
+*@MrNegetZ*
+
+Daichi, you still have 2 actions this turn.
+
+What else does Daichi do?
+
+**Path Wars** *(GM)* · 09:35 · [↗](https://t.me/Path_Wars/40585/190108)
+*@MrNegetZ*
+*@RyoYamakawa*
+*@Nemesiux*
+*@altan19931993*
+*@buffetraider*
+
+The deep dark mirror room battle continues...
+
+## Week 47 (Nov 16–Nov 22)
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 03:04 · [↗](https://t.me/Path_Wars/137075/190366)
+> Round 1: Unacted Allies.
+>> 1. Fierce Leopard @RyoYamakawa.
+>> 2. Lorn @Nemesiux.
+>> 3. Tal'Lysae @PathWars.
+>> 4. Zerius @altan19931993.
+>> 5. Tarsus LongStaff @buffetraider.
+> Round 1: Acted Allies.
+>> 1. Ji Yun @Thien_Ming.
+>> 2. Daichi Kenshin @MrNegetZ.
+
+**Path Wars** *(GM)* · 03:06 · [↗](https://t.me/Path_Wars/40585/190367)
+@RyoYamakawa @Nemesiux @altan19931993 @buffetraider
+
+Daichi plants his feet in the doorway, guard raised, and waits.
+
+Inside the Reflection Room, the pebbles hang at knee height, every one of them perfectly still.
+
+In the black mirror, the stars do not twinkle.
+
+Beyond the veil, Dr. Nutty's muttering speeds up, and strange sets of ever changing numbers are spoken, constant muttering, again and again.
+
+Fierce Leopard, Lorn, Zerius, Tarsus: who moves first?
+
+### 📅 Wednesday, Nov 18
+
+**Alastair Tan** · 05:15 · [↗](https://t.me/Path_Wars/137075/190571)
+Actions:
+
+1. Raise the Walls (Exemplar class action) on Fierce Leopard (@PathWars Apply the status effect to that PC)
+2. Tandem Movement (Zerius 30 ft south, Little Dread 35 ft south)
+3. Stride (Zerius 25 ft south)
+*(edited)*
+
+**Alastair Tan** · 05:16 · [↗](https://t.me/Path_Wars/40585/190572)
+Zerius and his little bulette eidolon move forward, taking their spots near the dwarf, setting up flanking attempts from others.
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 12:57 · [↗](https://t.me/Path_Wars/137075/190630)
+Zerius raises his shield, and a wall of shimmering force springs up around Fierce Leopard. 
+
+Raise the Walls: 
++1 status bonus to AC and to Reflex saves, and to the saving throws against force, spirit, vitality and void effects, until the start of Zerius's next turn.
+
+Then Zerius and Little Dread both move together, Zerius 30 ft south and Little Dread 35 ft, before Zerius strides another 25 ft.
+*(edited)*
+
+**Path Wars** *(GM)* · 12:59 · [↗](https://t.me/Path_Wars/137075/190632)
+Could you send a screenshot of where you are now?

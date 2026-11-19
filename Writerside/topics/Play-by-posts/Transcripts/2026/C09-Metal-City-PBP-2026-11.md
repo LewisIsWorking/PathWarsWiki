@@ -178,3 +178,187 @@ What do you input?
 
 **Laetheron** · 04:39 · [↗](https://t.me/Path_Wars/107171/189713)
 Arktos scans the UI for a place to input a code. Upon finding it, they type in "incredulous static".
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 03:11 · [↗](https://t.me/Path_Wars/107171/189865)
+*@StorybookRhizome*
+
+The console beeps, in exactly the same friendly tone:
+
+"No reservation found for: INCREDULOUS STATIC.
+
+Add INCREDULOUS STATIC to the wait-list?
+Average wait: 10 minutes and 16 seconds."
+
+**Path Wars** *(GM)* · 03:11 · [↗](https://t.me/Path_Wars/107171/189866)
+The console blinks, waiting for an answer.
+
+*@RyoYamakawa*
+*@exspiravit_1*
+*@StorybookRhizome*
+
+### 📅 Friday, Nov 13
+
+**Laetheron** · 04:16 · [↗](https://t.me/Path_Wars/107171/189880)
+"Hmm, perhaps it's under his name?" Arktos tries again with that in mind.
+
+### 📅 Saturday, Nov 14
+
+**Path Wars** *(GM)* · 05:06 · [↗](https://t.me/Path_Wars/107171/190083)
+*@StorybookRhizome*
+
+The console beeps twice, brighter this time:
+
+"Reservation found for: PROFESSOR TIER-99 and guests.
+
+Your table is ready."
+
+**Path Wars** *(GM)* · 05:07 · [↗](https://t.me/Path_Wars/107171/190084)
+Green arrows light up in the floor, pulsing faintly toward the back of the café.
+
+**Path Wars** *(GM)* · 05:08 · [↗](https://t.me/Path_Wars/107171/190085)
+You walk through to another room.
+
+It is packed with mostly organic customers.
+
+Synthetic waitstaff weave between the tables, which crowd around a sculpted synthwood bar.
+
+Behind the bar, an android bartender mixes cocktails and takes orders.
+
+**Path Wars** *(GM)* · 05:08 · [↗](https://t.me/Path_Wars/107171/190086)
+The arrows then turn through a low archway, into a smaller, quieter room.
+
+Most of the guests here are anacites, sitting in silence, deep in conversation over a network nobody else can hear.
+
+Most of their tables have no food or drink on them.
+
+**Path Wars** *(GM)* · 05:08 · [↗](https://t.me/Path_Wars/107171/190087)
+The arrows stop at a table in an alcove on the back wall, private, but with a clear view of the people coming and going in the front room.
+
+The table is empty.
+
+The Professor is not here.
+
+*@RyoYamakawa*
+*@exspiravit_1*
+*@StorybookRhizome*
+
+### 📅 Saturday, Nov 14
+
+**Ryo Yamakawa** · 14:22 · [↗](https://t.me/Path_Wars/107171/190160)
+As they were guided to the table by the green lights Zels watched the various anacites they passed, shaking his head in disgust at how they fail to understand what this sort of space is meant for. As they drew closer to the their table he didn't know what he was expecting but for no one to be there, that was a surprise.
+
+"Late to his own meeting, not something I would expect from a guy like that."
+*(edited)*
+
+## Week 47 (Nov 16–Nov 22)
+
+### 📅 Monday, Nov 16
+
+**Diabla "Bella" Alzarin** · 16:49 · [↗](https://t.me/Path_Wars/107171/190344)
+Bella does not seem at all bothered by their host's apparent tardiness - Up until sitting down at their table, she looks over the entire locale without making it too noticable,
+
+"How do they even make money?"
+
+She asks quietly - just to not be in earshot of the other patrons that she's, by proxy, gossiping about,
+
+"Is the food also served in a different cyber-dimension?"
+*(edited)*
+
+### 📅 Tuesday, Nov 17
+
+**Laetheron** · 07:33 · [↗](https://t.me/Path_Wars/107171/190378)
+"It's not very like the Professor to be this late, hmm. Suppose something's holding them up?"
+*(edited)*
+
+**Laetheron** · 07:34 · [↗](https://t.me/Path_Wars/107171/190379)
+"Well, I'd guess not serving food would save on costs. Certainly an interesting choice however."
+*(edited)*
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 18:54 · [↗](https://t.me/Path_Wars/107171/190454)
+*@RyoYamakawa*
+
+At the next table, one of the anacites turns its head toward Zels.
+
+It holds the look for a long, silent moment.
+
+Then it turns back to its friends, and the silent conversation carries on without a word spoken aloud.
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 19:00 · [↗](https://t.me/Path_Wars/107171/190461)
+*@exspiravit_1*
+
+A slim synthetic waiter glides up to the alcove, a tray balanced on one flat palm.
+
+The waiter gives a small polite bow, but you get the impression that the waiter overheard your words, Bella:
+
+"Welcome to the quiet room.
+
+A deluxe, reservation-only room for our most important guests who require a touch of privacy."
+
+The waiter pauses, as if processing:
+"We serve food, of course.
+The anacites of Metal City simply do not need to eat.
+I recognise some of you, but some seem to be new amongst your group, so I shall explain..."
+
+**Path Wars** *(GM)* · 19:02 · [↗](https://t.me/Path_Wars/107171/190462)
+The waiter continues in a very formulaic and (surprise, surprise) robotic fashion:
+
+"The anacites pay by the hour, for the space away from their tasks and the network speeds.
+The organics in the front room pay for the food and the drinks.
+And everyone pays for the great staff."
+
+The waiter lets out an unconvincing "Haha" after this attempt at humour.
+
+**Path Wars** *(GM)* · 19:03 · [↗](https://t.me/Path_Wars/107171/190463)
+The waiter projects a glowing menu above the table: noodle bowls, grilled skewers, spiced dumplings, sweet buns, and a long list of drinks, some of them fizzing gently.
+
+The waiter sets down a small glass dish of glowing green mints, they look almost radioactive:
+
+"Something to process, I mean, eat while you wait?"
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 19:09 · [↗](https://t.me/Path_Wars/107171/190470)
+*@StorybookRhizome*
+
+The waiter turns to Arktos, and a soft chime sounds somewhere inside its chest:
+
+"You are not under pressure.
+Professor Tier-99 has not checked in yet.
+The reservation remains active.
+Your table is held for as long as you require it, at no extra charge."
+
+**Path Wars** *(GM)* · 19:10 · [↗](https://t.me/Path_Wars/107171/190471)
+The waiter's head tilts a few degrees, as if checking something far away:
+
+"You are correct.
+The Professor IS  usually very punctual.
+
+The professor arrives on time over 90% of the time, according to our check in / check out database.
+
+I will alert you the moment the Professor arrives."
+
+**Path Wars** *(GM)* · 19:12 · [↗](https://t.me/Path_Wars/107171/190472)
+Through the archway, the front room is loud and busy, full of clinking glasses and laughter.
+
+In here, the private booths kill all echoes of sound.
+
+Someone in a nearby booth could be making a lot of sound and it would be silenced beyond their booth.
+
+As with you all, your voices are likely being silence beyond your booth.
+
+The only sounds are a very soft hum of the local computers.
+
+The chair at the head of the Professor's table stays empty...
+
+### 📅 Wednesday, Nov 18
+
+**Ryo Yamakawa** · 12:05 · [↗](https://t.me/Path_Wars/107171/190613)
+Zels frowns as he seems lost in thought for a moment before speaking up.
+
+"What time was the reservation made for anyways? 'cause these guys sure as hell were late getting here."

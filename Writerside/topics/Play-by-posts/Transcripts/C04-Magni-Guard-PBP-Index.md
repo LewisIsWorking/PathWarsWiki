@@ -5,11 +5,11 @@
 {#generated-banner}
 
 
-**7 month(s)**, **377 messages** archived by the PathWarsNudge bot.
+**7 month(s)**, **383 messages** archived by the PathWarsNudge bot.
 
 | Month | Messages | Dates covered | Voices |
 |---|---:|---|---|
-| [Nov 2026](C04-Magni-Guard-PBP-2026-11.md) | 7 | 2026-11-03 → 2026-11-10 | Path Wars |
+| [Nov 2026](C04-Magni-Guard-PBP-2026-11.md) | 13 | 2026-11-03 → 2026-11-18 | Path Wars, Felix Cited, Alastair Tan, Ryo Yamakawa |
 | [Oct 2026](C04-Magni-Guard-PBP-2026-10.md) | 14 | 2026-10-03 → 2026-10-18 | Path Wars, Cannon McMahon, Chase Darkthorne, Alastair Tan |
 | [Sep 2026](C04-Magni-Guard-PBP-2026-09.md) | 92 | 2026-09-02 → 2026-09-30 | Chase Darkthorne, Path Wars, Alastair Tan, Ryo Yamakawa… |
 | [Aug 2026](C04-Magni-Guard-PBP-2026-08.md) | 47 | 2026-08-03 → 2026-08-27 | Cannon McMahon, Path Wars, Volf, Alastair Tan… |
