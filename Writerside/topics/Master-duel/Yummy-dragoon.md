@@ -23,12 +23,12 @@ Strongest first: play the top row that fits.
 
 ## Deck list
 
-Read from a screenshot. Based on **Vishy's list** (Rating Duels 1559.52, 18 Nov 2026), minus its 41st card, **Magicians' Souls** (UR), which Lewis doesn't own yet. A higher-rated alternative is zibako_iru's (1703.73): it adds Dark Magician, Kuriboh - Multiply! ×3, Detonating Kuriboh, Magician's Rod ×2, Nibiru and Ghost cards, with Zalen and I:P Masquerena in the Extra Deck.
+Read from a screenshot. Based on **Vishy's list** (Rating Duels 1559.52, 18 Nov 2026), now complete at 41 cards: **Magicians' Souls** added on 19 Nov 2026. A higher-rated alternative is zibako_iru's (1703.73): it adds Dark Magician, Kuriboh - Multiply! ×3, Detonating Kuriboh, Magician's Rod ×2, Nibiru and Ghost cards, with Zalen and I:P Masquerena in the Extra Deck.
 
 - [Vishy's list](https://www.masterduelmeta.com/top-decks/rating-duels/november-2026/yummy/vishy/k3Vg-) · [zibako_iru's list](https://www.masterduelmeta.com/top-decks/rating-duels/november-2026/yummy/zibako_iru/keUob)
 
 - **Yummy (9):** Cupsy☆Yummy 1, Cooky☆Yummy 3, Lollipo☆Yummy 3, Marshmao☆Yummy 2
-- **Dark Magician (8):** Dark Magician, the Pharaoh's Servant 1, Illusion of Chaos 1, Witch of the Black Forest 1, Mind on Air 1, Dark Magical Curtain 3, The Gaze of Timaeus 1
+- **Dark Magician (9):** Magicians' Souls 1, Dark Magician, the Pharaoh's Servant 1, Illusion of Chaos 1, Witch of the Black Forest 1, Mind on Air 1, Dark Magical Curtain 3, The Gaze of Timaeus 1
 - **Hand traps (14):** Ash Blossom 3, Droll & Lock Bird 2, Maxx "C" 1, Mulcharmy 2, Infinite Impermanence 3, Dominus Spark 3
 - **Other Spells (9):** Piri Reis Map 3, Triple Tactics Talent 2, Yummyusment☆Mignon 1, Yummyusment★Acroquey 1, Yummy☆Surprise 1, Crossout Designator 1
 - **Extra (15):** Red-Eyes Dark Dragoon, Dark Magician of Destruction, Cupsy★Yummy Way, Cooky★Yummy Way, Lollipo★Yummy Way, Shamisen Samsara Sorrowcat, Herald of the Arc Light, Borreload Savage Dragon, Baronne de Fleur, Linkuriboh, Artemis, Yummy★Snatchy ×2, Spright Elf, S:P Little Knight
