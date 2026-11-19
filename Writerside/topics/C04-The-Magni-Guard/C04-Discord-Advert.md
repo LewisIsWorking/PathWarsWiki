@@ -36,7 +36,7 @@ You are a newly recruited agent of the Magni Guard, the elite investigative forc
 Character creation:
 - Any PF2e content. Any ancestry, class or background.
 - Dual class and a free archetype are both available.
-- I recommend Pathbuilder.
+- Make your character in the free ComeOnOver PF2e Character Creator, with dual class and free archetype built in.
 
 A bot tracks every player message I haven't replied to yet and posts the backlog where the whole group can see it, so if I go quiet, everyone can see it rather than just you.
 

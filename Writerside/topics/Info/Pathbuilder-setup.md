@@ -1,5 +1,8 @@
 # PW~Pathbuilder-setup
 
+- You do not need Pathbuilder. Make your character in the free ComeOnOver PF2e Character Creator instead: [https://comeonover.netlify.app/tools/pf2e-character-creator](https://comeonover.netlify.app/tools/pf2e-character-creator)
+- Players have told us Pathbuilder no longer lets you switch on Dual Class for free, so this page may be out of date.
+
 - https://pathbuilder2e.com/app.html
 
 ## Example image on the mobile app.

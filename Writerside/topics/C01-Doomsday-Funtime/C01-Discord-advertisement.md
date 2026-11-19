@@ -22,7 +22,7 @@
 >> 4. What can I play regarding race, class, background, etc? Well, you can play anything.
 >> 5. Current party composition: Champion/Oracle, Barbarian/Witch, Magus/Witch and Exemplar/Gunslinger.
 >> 6. You do not need to make your character a dual class, but you can if you want to.
->> 7. House rules: we run Ancestral Paragon (a free bonus ancestry feat). I'll help you switch it on in PathBuilder.
+>> 7. House rules: we run Ancestral Paragon (a free bonus ancestry feat). I'll help you switch it on in the ComeOnOver character creator.
 >> 8. The vetting process is on our Discord server, **it is NOT in my DMs with you**.
 >> 9. New players are welcome to DM me to join. :slight_smile:
 >> 10. @PF2e LFG

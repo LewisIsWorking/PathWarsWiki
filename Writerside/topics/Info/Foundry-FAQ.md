@@ -3,23 +3,21 @@
 Frequently asked questions about playing on Foundry VTT.
 New to Foundry? Start with [Joining-foundry.md](Joining-foundry.md).
 
-## The three world invites
+## Where is Foundry?
 
-> We have three Foundry worlds hosted on the Forge.
-
-| World   | Invite link                          | Campaigns hosted                                                    |
-|---------|--------------------------------------|---------------------------------------------------------------------|
-| World 1 | https://world1.eu.forge-vtt.com/game | Campaign 01 Doomsday Funtime and Campaign 00 Riddleport.            |
-| World 2 | https://world2.eu.forge-vtt.com/game | All other Pathfinder play-by-post campaigns.                        |
-| World 3 | https://world3.eu.forge-vtt.com/game | Campaign 07 Hopeful Endtimes and Campaign 09 Metal City Stargazing. |
+> Foundry runs on our own server, and you sign in with your ComeOnOver account.
+>> - Go to [https://foundry.cooserver.duckdns.org/](https://foundry.cooserver.duckdns.org/), sign in and press Play.
+>> - Each campaign has its own link: https://foundry.cooserver.duckdns.org/play/ followed by its code, for example [https://foundry.cooserver.duckdns.org/play/C04](https://foundry.cooserver.duckdns.org/play/C04).
+>> - The old Forge links (forge-vtt.com) no longer work.
 
 > “BUT THIS LINK DOES NOT WORK!!!”
->> - If a link does not work, just ask on the telegram chat for a new one.
+>> - Ask in your Discord channel or on the telegram chat and a GM will help.
 
 ## Dual class macros
 
 > How do I set up my dual class on Foundry?
->> - Go to the macro directory and search for the "Based Dual Class" macro.
+>> - A character made in the ComeOnOver creator comes into Foundry with its dual class already set up.
+>> - Otherwise, go to the macro directory and search for the "Based Dual Class" macro.
 >> - Execute the macro, select your two classes, then drag the dual-class item from the items directory onto your character sheet.
 >> - Full step-by-step guide with pictures: [Setting-up-dual-class-FoundryVTT.md](Setting-up-dual-class-FoundryVTT.md)
 
