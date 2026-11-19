@@ -552,3 +552,308 @@ He leans back slightly, keeping his voice low.
 Max gives the glass a thoughtful look.
 
 "Tell me, friend. Has anyone else been paying particular attention to our thirsty sailor?"
+
+### 📅 Friday, Nov 13
+
+**Path Wars** *(GM)* · 03:17 · [↗](https://t.me/Path_Wars/66154/189871)
+*@RyoYamakawa*
+
+Cardigan lets go of Rax's arm and shrugs:
+
+"Suit yourself."
+
+Cardigan walks around the gambling hall with her Eldamon, not a care in the world, mostly.
+
+**Path Wars** *(GM)* · 03:19 · [↗](https://t.me/Path_Wars/66154/189872)
+*@RyoYamakawa*
+
+Rax drifts between the tables, with Marlo always in sight.
+
+Chips click across the felt: copper hearts, silver teeth, gold eyes.
+
+Every time someone cashes in for a badge and heads for the stairs, the crowd around the big chest roars in excitement.
+
+### 📅 Saturday, Nov 14
+
+**Path Wars** *(GM)* · 10:25 · [↗](https://t.me/Path_Wars/66154/190126)
+*@altan19931993*
+
+Davy saw it.
+
+When the lamp light flickered, Rin's shadow stayed where it was for a heartbeat, pointing the wrong way across the floorboards.
+
+Then it swung round into place at Rin's feet, and it was just a shadow again... 
+For now...
+
+**Path Wars** *(GM)* · 10:27 · [↗](https://t.me/Path_Wars/66154/190127)
+Old Davy's one good eye narrows, and it stays on Rin's back as Rin walks into the noise of the hall:
+
+"Not good with lights.
+Hah.
+
+Neither is anything else that lives in the dark, lad."
+
+Davy's tone is warmish but Davy's eyes betray concern.
+
+**Path Wars** *(GM)* · 10:29 · [↗](https://t.me/Path_Wars/66154/190128)
+Davy leans towards Ryder without taking that eye off Rin, and speaks low under the clatter of the roulette wheel, no one else hears:
+
+"That one.
+Watch his shadow, not him.
+
+If it ever moves before he does, you come and get me.
+
+We can disable him easy enough but I'd rather stop him before he hurts anyone else, or himself."
+
+## Week 47 (Nov 16–Nov 22)
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 19:44 · [↗](https://t.me/Path_Wars/66154/190479)
+*@Nemesiux*
+
+Itchy hangs very still from the top of the cage, tail wrapped twice around the cage's bar.
+
+Itchy's grin is gone, and Itchy's amusement and curiosity at your conversation has pretty much ceased.
+
+**Path Wars** *(GM)* · 19:48 · [↗](https://t.me/Path_Wars/66154/190480)
+*@Nemesiux*
+
+Itchy answers in Infernal, inside of Necrila's mind.
+
+Itch sounds disgusted:
+
+"Cousins?
+You would call them my kin?
+
+Those are not my cousins, little mortal.
+
+Devils make deals, and devils keep them.
+
+Daemons only want everything dead, total doom, for all, us devils are included."
+
+### 📅 Tuesday, Nov 17
+
+**Horia Constantinescu** · 20:17 · [↗](https://t.me/Path_Wars/66154/190493)
+Necrila's eyes flash for a second with a grey flame-like effect before returning to their original colour.
+
+Necrila says, "I see. I apologize for thinking you were related. My father knows more about your kind than I do. I am merely a combat void shell."
+
+Necrila looks at Cardigan from a distance while speaking to Itchy and says, "My father is offering you a choice, imp crimelord. You can remain in this cage and wait for doom, or fulfil your duty as a devil and aid my father in restoring order to this planet.
+
+This ultimate truth will either save us or doom us.
+
+Either way, it is better than being caged and waiting for oblivion.
+
+You said you are older than this harbour. Were you perhaps alive during the Runelord Era? I feel you deserve a more respectful name than 'Itchy'.
+
+My father is already aiding another imp who lived during that era and served the Runelord of Greed, if I remember correctly.
+
+He believes their artefacts might help us overcome this calamity.
+
+You have plenty of time to think about it, Mister Imp."
+
+Necrila stares into Itchy's eyes with her soulless black gaze, giving him the unsettling feeling that he is looking into the eyes of a being that is neither alive nor dead. Her gaze seems almost to reach into his very soul.
+
+"I thank you for listening to me. I wish you the best."
+*(edited)*
+
+**Path Wars** *(GM)* · 20:20 · [↗](https://t.me/Path_Wars/66154/190495)
+*@Nemesiux*
+
+Itchy presses his face to the bars, and his voice goes sweet:
+
+"Your father.
+Who is he?
+What does he want in Magnimar?
+
+And you.
+Where did you get that accent?"
+
+**Path Wars** *(GM)* · 20:20 · [↗](https://t.me/Path_Wars/66154/190496)
+*@Nemesiux*
+
+Itchy taps a claw on a little brass plate by the cage door, covered in tiny scratched writing:
+
+"Allies sign things, you know.
+Nothing big.
+Your name, and one small favour, to be named later.
+
+Sign, and I'll tell you who in this hall is lying to Marlo.
+I know them all.
+
+Hehehe..."
+
+**Path Wars** *(GM)* · 20:20 · [↗](https://t.me/Path_Wars/66154/190497)
+*@Nemesiux*
+
+Down on the floor, Grudge glances up at the cage.
+
+Itchy blows Grudge a kiss, then looks back at Necrila and winks.
+
+### 📅 Tuesday, Nov 17
+
+**Horia Constantinescu** · 20:50 · [↗](https://t.me/Path_Wars/66154/190507)
+Necrila tilts her head as if his response seems childish to her. She grabs her cloak of heads and stares at the imp.
+
+"My father spent six months in Cheliax. He has dealt with your kind before. He befriended some of your kind and devoured those who lied to him. Should you ever seek to harm his children, he will punish you by turning you into a Void Fiend They are the most malicious of our kind to the point that, the divine has made sure few know their name.
+
+If it is a contract with this void shell that you seek, I must remind you that my alignment is Neutral Evil. I will not hesitate to break our contract should you act against my directives.
+
+"Name your terms, devil. Time is ticking, Mister 'Itchy'. Are you willing to gamble with fate and risk Oblivion by continuing to delay us, or are you finally going to take what we have said seriously and tell us the truth?
+
+We are not telling you a 'so-called truth' twice."
+
+There is plenty of time to think about what I told you.
+This is not about Marlo or who lies to him Itchy. 
+It is about why you choose to rot in this cage when you could do so much more.
+
+Necrila slowly walks away from Itchy. As she speaks, her voice shifts into a refined, aristocratic Infernal dialect, the kind heard only in Cheliax. The change is so profound that Itchy gets the unsettling impression that another being is speaking through Necrila.
+
+"I am offering you a choice, devil. A privilege that no other being in this reality would grant you. Do not squander it.
+
+Unlike my daughter, I have no use for imps who willingly choose to play the role of a caged pet.
+
+I have already struck a deal with your god. Whatever bargain you could offer pales in comparison.
+
+I am a reasonable being and I only seek to offer whatever help I can as an oracle to a divine being in need of assistance."
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Alastair Tan** · 04:58 · [↗](https://t.me/Path_Wars/66154/190559)
+Rin lowers his head. "I'm sorry, I'll try to do better next time," he apologises.
+
+The shadow crosses his arms, still angled.
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 20:53 · [↗](https://t.me/Path_Wars/66154/190699)
+*@Caecgirl*
+
+Jorrik hears the little "oh" and grins, showing a single gold tooth:
+
+"Oh, is right.
+
+Now you're seeing it too."
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 21:10 · [↗](https://t.me/Path_Wars/66154/190713)
+*@Caecgirl*
+
+Jorrik taps the side of his nose:
+
+"Noticing things is the job, friend.
+You pour enough drinks in this place, you see everything.
+
+Anyone else watching him?
+Well, now.
+That's a second question, and I'm a working man.
+
+1 silver, and I'll tell you who he came in with, and who else has an eye on him."
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 21:21 · [↗](https://t.me/Path_Wars/66154/190714)
+*@Caecgirl*
+
+Jorrik's eyes drop to the red house seal on Miracle Max's wrist, then to the backpack:
+
+"New in town too, aren't you?
+I'd remember that beard.
+
+And Grudge let you keep the bag.
+Grudge doesn't let anyone keep anything.
+So what's in it, friend?
+Medicine, is it?"
+
+**Path Wars** *(GM)* · 21:22 · [↗](https://t.me/Path_Wars/66154/190721)
+*@Caecgirl*
+
+At the bar, the sailor lifts the full mug to his lips, counts to 5, and puts it down again.
+
+Jorrik's palm stays where it is, waiting for that silver.
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 22:45 · [↗](https://t.me/Path_Wars/66154/190754)
+*@Nemesiux*
+
+Itchy's eyes go wide for a blink:
+
+"What do you know of the Sin Lords, little mortal?
+
+Is your father one of those Cypher mages?
+
+Like the girl over there..."
+
+**Path Wars** *(GM)* · 22:45 · [↗](https://t.me/Path_Wars/66154/190755)
+*@Nemesiux*
+
+The grin comes back:
+
+"And how old do I look to have been around back then?
+
+Don't answer that.
+
+Hehehe..."
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 22:52 · [↗](https://t.me/Path_Wars/66154/190768)
+*@Nemesiux*
+
+Itchy tilts his head, curious and hooks one of his claws through the bars of his cage:
+
+"And this other imp...
+the one who served the Sin Lord of Greed.
+
+What is this imp's name?
+
+Where is your father keeping the imp...?
+
+I'd very much like to know who else is whispering in your father's ear... before I do..."
+
+**Path Wars** *(GM)* · 22:52 · [↗](https://t.me/Path_Wars/66154/190769)
+*@Nemesiux*
+
+Itchy giggles and taps the brass plate of his cage several times:
+
+"Keep calling me Itchy, Necrila. Hehehe."
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Path Wars** *(GM)* · 23:01 · [↗](https://t.me/Path_Wars/66154/190777)
+*@altan19931993*
+
+Davy’s single eye drops from Rin’s bowed head to the floorboards.
+
+Davy crosses the hall slowly and stops just short of the shadow, careful not to step on it:
+
+“Don’t be sorry, lad.
+Just be straight with me.
+Is that you doing that?
+Or is it doing that on its own?”
+
+Davy doesn’t reach for his club, but his hand rests near it.
+
+Over by the roulette wheel, Davy glances once towards Ryder.
+*(edited)*
+
+### 📅 Wednesday, Nov 18
+
+**Loren** · 23:56 · [↗](https://t.me/Path_Wars/66154/190791)
+Miracle Max looks down at Jorrik's outstretched palm, then fishes a silver piece from his purse and places it in the waiting hand.
+
+"Well, I can't fault a man for charging for his services. Information is a valuable commodity, after all."
+
+He gives his backpack a fond pat.
+
+"Medicine, indeed. Remedies, tonics, experimental concoctions. A little something for whatever happens to ail you. You'd be surprised what a good potion can do. Sometimes even the mostly dead can make a comeback."
+
+His eyes drift briefly toward the sailor before returning to Jorrik.
+
+He keeps his voice low, "Now, about our friend at the bar. Who did he come in with, and who's keeping an eye on him?"

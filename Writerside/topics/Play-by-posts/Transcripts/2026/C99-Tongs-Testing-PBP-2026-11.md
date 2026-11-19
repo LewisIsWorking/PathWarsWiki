@@ -26,3 +26,13 @@ I have a feeling the disk is 80% full...
 
 **Path Wars** *(GM)* · 18:40 · [↗](https://t.me/Path_Wars/75843/189675)
 Shitttt
+
+## Week 47 (Nov 16–Nov 22)
+
+### 📅 Tuesday, Nov 17
+
+**Path Wars** *(GM)* · 18:44 · [↗](https://t.me/Path_Wars/75843/190444)
+^ Changing how this channel sends messages.
+
+**Path Wars** *(GM)* · 18:44 · [↗](https://t.me/Path_Wars/75843/190445)
+From now on this topic should be a lot quieter
