@@ -1,5 +1,5 @@
 --[[message
-Natasha practice: her Horus Dragoon end board vs your Invoked deck, going 2nd. Random hand 5/10.
+Natasha practice: her Horus Dragoon end board (Dragoon + all 4 Sons, Black Flame Deity in hand) vs your Invoked deck, going 2nd. Random hand 5/10.
 Your hand: Invocation, Mulcharmy Purulia, Aleister the Reminiscent, Droll & Lock Bird, Infinite Impermanence, Mulcharmy Fuwalos.
 Win = deal 8000 this turn.
 ]]
@@ -66,23 +66,23 @@ Debug.AddCard(33166263,0,0,LOCATION_EXTRA,0,POS_FACEDOWN) --Hyperinvoked Aeon
 Debug.AddCard(84815190,0,0,LOCATION_EXTRA,0,POS_FACEDOWN) --Baronne de Fleur
 Debug.AddCard(34755994,0,0,LOCATION_EXTRA,0,POS_FACEDOWN) --Artemis, the Magistus Moon Maiden
 Debug.AddCard(29301450,0,0,LOCATION_EXTRA,0,POS_FACEDOWN) --S:P Little Knight
---Her monsters
+--Her monsters: Dragoon + all 4 Sons of Horus
 Debug.AddCard(37818794,1,1,LOCATION_MZONE,5,POS_FACEUP_ATTACK,true) --Red-Eyes Dark Dragoon
-Debug.AddCard(84941194,1,1,LOCATION_MZONE,1,POS_FACEUP_ATTACK,true) --Imsety, Glory of Horus
-Debug.AddCard(99307040,1,1,LOCATION_MZONE,2,POS_FACEUP_ATTACK,true) --Horus the Black Flame Deity
-Debug.AddCard(74725513,1,1,LOCATION_MZONE,3,POS_FACEUP_DEFENSE,true) --Qebehsenuef, Protection of Horus
-Debug.AddCard(11335209,1,1,LOCATION_MZONE,4,POS_FACEUP_ATTACK,true) --Duamutef, Blessing of Horus
+Debug.AddCard(84941194,1,1,LOCATION_MZONE,0,POS_FACEUP_ATTACK,true) --Imsety, Glory of Horus
+Debug.AddCard(11335209,1,1,LOCATION_MZONE,1,POS_FACEUP_ATTACK,true) --Duamutef, Blessing of Horus
+Debug.AddCard(74725513,1,1,LOCATION_MZONE,2,POS_FACEUP_ATTACK,true) --Qebehsenuef, Protection of Horus
+Debug.AddCard(47330808,1,1,LOCATION_MZONE,3,POS_FACEUP_ATTACK,true) --Hapi, Guidance of Horus
 --Her Spells/Traps
 Debug.AddCard(16528181,1,1,LOCATION_SZONE,0,POS_FACEUP) --King's Sarcophagus
 Debug.AddCard(79791878,1,1,LOCATION_SZONE,1,POS_FACEUP) --Shining Sarcophagus
 Debug.AddCard(78679226,1,1,LOCATION_SZONE,2,POS_FACEDOWN) --Future Silence
 Debug.AddCard(26984177,1,1,LOCATION_FZONE,0,POS_FACEUP) --Walls of the Imperial Tomb
---Her hand
+--Her hand: Horus the Black Flame Deity waits for a Son to leave the field
+Debug.AddCard(99307040,1,1,LOCATION_HAND,0,POS_FACEDOWN) --Horus the Black Flame Deity
 Debug.AddCard(14558127,1,1,LOCATION_HAND,0,POS_FACEDOWN) --Ash Blossom & Joyous Spring
 Debug.AddCard(94145021,1,1,LOCATION_HAND,0,POS_FACEDOWN) --Droll & Lock Bird
 Debug.AddCard(46986414,1,1,LOCATION_HAND,0,POS_FACEDOWN) --Dark Magician
 --Her GY
-Debug.AddCard(47330808,1,1,LOCATION_GRAVE,0,POS_FACEUP) --Hapi, Guidance of Horus
 Debug.AddCard(2501624,1,1,LOCATION_GRAVE,0,POS_FACEUP) --Dark Magician Girl the Magician's Apprentice
 Debug.AddCard(41350417,1,1,LOCATION_GRAVE,0,POS_FACEUP) --Dark Magical Curtain
 Debug.AddCard(22283204,1,1,LOCATION_GRAVE,0,POS_FACEUP) --The Gaze of Timaeus
