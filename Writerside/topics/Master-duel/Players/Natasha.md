@@ -126,6 +126,15 @@ Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows
 - Proven Horus lists use Number 90: Galaxy-Eyes Photon Lord and Number 38 (Fearnagae, WCS 2026 qualifiers, June 2026); a Horus guide also lists Dingirsu, Number 68 and Coach King Giantrainer. She owns none of these. Number 90 is the craft to aim for.
 - From what she owns: **Hieratic Sky Dragon Overlord** on turn 1 (negates a targeting effect on her field, GY or banishment, covering the gap in Sarcophagus's protection). **Hieratic Sun Dragon Overlord** when going second (tributes to destroy). **Aegaion** against Invoked: Lewis banishes his own Fusions, which Aegaion can return to destroy one of his Fusions on the field, on either turn.
 
+## Super Poly into her board (card text checked 20 Nov 2026)
+
+- **Her Attributes:** Dragoon DARK, Imsety DARK, Duamutef WATER, Qebehsenuef EARTH, Hapi WIND, Horus the Black Flame Deity FIRE. So no single Attribute covers her board, except Elysium (it's every Attribute).
+- **Best target: Dragoon.** Super Poly can't be responded to, so Dragoon can't negate it. Dragoon isn't a "Horus" monster, so it doesn't trigger Black Flame Deity.
+- **Watch Horus the Black Flame Deity in her hand:** when a face-up Horus monster or King's Sarcophagus leaves her field by your effect, it Special Summons itself and can send **all other monsters on the field** to the GY (yours too). Once per turn. So trigger it early, while your field holds nothing you need. Fusing or banishing a Son, or removing King's Sarcophagus, triggers it.
+- **Line (Invoked):** make an Invoked Fusion (e.g. Mechaba) → **Super Poly** it + Dragoon → **Invoked Elysium** → Elysium targets **itself** → banishes itself and all her monsters → Black Flame Deity lands and wipes the rest of the field → rebuild with what's left. Aleister the Invoker isn't an "Invoked" monster, so it can't be Elysium's material.
+- **No Invoked Fusion yet:** Super Poly **Aleister + Dragoon → Invoked Oceanus** in the Extra Monster Zone. While it's there, her monsters sent to the GY are banished instead, so the Sons can't revive.
+- **Aeon** (your Invoked Fusion + Dragoon, 2 materials) banishes 2 cards: both Sarcophagi switch off the Sons' revives and protection, but removing King's Sarcophagus triggers Black Flame Deity.
+
 ## Lewis's tournament plan vs Natasha (21 Nov 2026)
 
 Decks can be swapped between matches. Lewis plays his normal Invoked deck against everyone else and **InvokedVsNatasha** against her. A **YummyVsNatasha** version is possible if Yummy tests well.
