@@ -419,6 +419,16 @@ Ash and Imperm are for her turn 1, before you get here.
 - **Dark Magical Curtain lets her Special Summon a DARK Spellcaster too.** In a lethal line it can hand her a blocker. Count her possible summon before relying on Curtain for damage. (Claude's turn-3 line missed this.)
 - Going 2nd, **count damage against her LP before ending the turn**, and keep a Yummy Way Synchro in the GY so Spright Elf can revive it later.
 
+### 20 Nov 2026 vs Utopia / Zexal (going 2nd): lost
+
+- Her turn-1 board: Number F0: Utopic Future Zexal, Number F0: Utopic Draco Future, Number 99: Utopia Dragonar, Ultimate Leo Utopia Ray, Utopia Double, Onomato field spell, then Titanic Galaxy and Unbreakable Xyz Barrier.
+- Draco Future negated Marshmao's summon from hand. The rest of the turn was negated too (Titanic Galaxy, Unbreakable Xyz Barrier).
+
+**Lessons**
+- **Yummy summons from hand are activated effects**, so Draco Future and Titanic-style negates can hit them. Bait with an effect you don't need first (Lollipo's GY shuffle).
+- **Zexal stops targeting of her other cards** and steals a monster when you activate anything on the field. This deck has no non-targeting answer: concede early if there's no out.
+- With no hand traps in the opening hand, this matchup is unwinnable going 2nd. Keep hand traps when deciding what to discard.
+
 ## Sources
 
 - MDM combo database, Yummy: "Any Yummy + 1 discard" (sam95col), "Dark magical curtain 1 card" (No you!), "Cupsy 1cc" (LeftOnRed), "Yummy NS 1 Card Combo" (MorddredG) — [Yummy combos](https://www.masterduelmeta.com/api/v1/combos?deckType=695f77bc9353a286c4bcc61f)
