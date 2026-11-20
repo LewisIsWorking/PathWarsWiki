@@ -227,6 +227,35 @@ Line 1 changed to break her board. Built from card text, UNTESTED. Marshmao summ
 
 Exact opening hands from real games, each with its full line. Newest first.
 
+### Going 1st: Pharaoh's Servant, TTT ×2, Piri Reis Map, Crossout Designator (20 Nov 2026)
+
+**Line 2** with Servant already in hand. UNTESTED.
+
+1. **Piri Reis Map** (start of Main Phase 1; pay half your LP): add **Cupsy**.
+2. **Crossout:** name **Ash Blossom**.
+3. Normal Summon **Cupsy** → search **Yummy☆Surprise**.
+4. Link Cupsy → **Snatchy** → place **Mignon**.
+5. **Mignon:** Special Summon Cupsy from your GY (skip its search).
+6. Synchro: Snatchy + Cupsy → **Cupsy★Yummy Way**: add **Cooky** + **Marshmao**, **discard a TTT**.
+7. Special Summon **Cooky**, then **Marshmao** (skip both effects).
+8. Synchro: Cupsy★Yummy Way + Marshmao → **Sorrowcat**.
+9. Synchro: Sorrowcat + Cooky → **Herald**.
+10. **Sorrowcat (GY):** return Cupsy★Yummy Way → Special Summon Sorrowcat.
+11. **Surprise:** Special Summon **Marshmao** from your GY → it adds Surprise back.
+12. Synchro: Sorrowcat + Herald + Marshmao → **Borreload**: equip **Snatchy**.
+13. **Herald (GY):** search **Illusion of Chaos** (keep for next turn).
+14. **Servant:** reveal Surprise → summon it → **Set Gaze**.
+15. **Dark Magician of Destruction:** banish Servant → summon it → search **Curtain**.
+16. **Curtain:** Special Summon **Witch** (she can summon a DARK Spellcaster too).
+17. Link Witch → **Artemis**. **Witch (GY):** search **Lollipo**.
+18. Special Summon **Lollipo**.
+19. Synchro: Artemis + Lollipo → **Lollipo★Yummy Way** → Special Summon **2 Yummies** from your GY.
+20. Synchro: Lollipo★Yummy Way + Dark Magician of Destruction → **Baronne**.
+21. Link the 2 Yummies → **S:P Little Knight** (skip its banish).
+22. Set **Surprise**.
+
+**End:** Baronne · Borreload · Little Knight · Mignon · set Surprise, Gaze · TTT + Illusion in hand · 4000 LP.
+
 ### Going 1st: Cupsy, Marshmao, Maxx "C", Pharaoh's Servant, Dominus Spark (19 Nov 2026)
 
 **Line 1 with Cupsy as the Yummy.** Spark is the discard; Servant is already in hand, so Herald's search is optional (in the game it fetched Illusion of Chaos). **TESTED 19 Nov 2026: reached the full end board.**
