@@ -33,6 +33,13 @@ Source: **"The best combo (no bricks) and best endboard sequence"**, Dkayedsteps
 - **20 Nov 2026 (solo):** the turn ended with no Dragoon because Terracottan was used before Dark Magician of Destruction. Order matters: Extra Deck plays first.
 - Vice-Madame has **three** different effects, each once per turn. Chain one to each Spell or Spellcaster effect you activate.
 - **Pittore's GY effect** banishes your whole hand if you hold no Witchcrafter card. Check first.
+- **Missed chain recovery:** if you forget to chain Vice-Madame to Schmietta, chain it to Gaze (Summon Verre the Maid), then to Verre's search (Add Distortion). You still end on Dragoon + Pupils + Lacrima + Distortion.
+
+## Game log
+
+| Date | Opponent | Turn | Result | Notes |
+| --- | --- | --- | --- | --- |
+| 20 Nov 2026 | Rhino (HEROes, friendly) | 1st | **Won** | Forgot to chain Vice-Madame to Schmietta's GY effect; used the recovery line above. End board: Dragoon, Vice-Madame, Pupils, Walpurgis, Bystreet, set Celebration/Distortion/Lacrima. Plan for his turn: Distortion on Mask Change; first target Masked HERO Dark Law. |
 
 ## Sources
 
