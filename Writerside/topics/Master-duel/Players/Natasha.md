@@ -149,6 +149,17 @@ Curtain: each player can Special Summon 1 DARK Spellcaster from hand or Deck, **
 - **Invoked:** take **Aleister the Invoker** (or Reminiscent). With a set **Super Poly**: Aleister + her Dark Magician or Dragoon (both DARK) → **Invoked Oceanus** on her turn, and she can't respond. With a set **Invoke Sword**: Aleister + a banished LIGHT → **Mechaba** on her turn.
 - No new cards needed: both decks already run these.
 
+## Her hand traps (from her 9 Nov list)
+
+Ash ×2, Droll ×2, Maxx "C" ×1, Ghost Mourner ×1, Forbidden Droplet ×1, Triple Tactics Talent ×1, Triple Tactics Thrust ×1.
+
+- **Crossout Designator: name Droll against her.** Droll stops every search for the rest of the turn; Ash stops one effect.
+- **Lead with the search you can afford to lose.** If Droll lands, switch to the "Drolled" line (Invoked cheat sheet, Yummy Line 7). Droll doesn't stop Setting from the Deck, summoning from the Deck, or adding from the GY or banishment.
+- **Triple Tactics Talent** goes live as soon as she uses a monster hand trap on your turn.
+- **Maxx "C":** decide before your combo whether to keep going (she draws per Special Summon) or stop at a smaller board.
+- **Her Droplet** negates without targeting, so a Dragoon or Baronne can still be switched off on her turn.
+- **Puzzles:** her hand has Ash and Droll, but EDOPro's AI may not use them sensibly. When testing, play as if she Drolls your first search and Ashes your best effect.
+
 ## Lewis's tournament plan vs Natasha (21 Nov 2026)
 
 Decks can be swapped between matches. Lewis plays his normal Invoked deck against everyone else and **InvokedVsNatasha** against her. A **YummyVsNatasha** version is possible if Yummy tests well.
