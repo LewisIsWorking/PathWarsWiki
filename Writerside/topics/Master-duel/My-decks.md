@@ -53,8 +53,8 @@ Imported lists with cards not yet owned (dimmed in the deck editor; counts are a
 
 | Saved name | Archetype | Missing |
 | --- | --- | --- |
-| WitchCrafterRd1604 2026-11-1… | Witchcrafter (new support, Dragoon variant) | 6 UR + about 4 SR |
-| RikkaRD1649 26-11-11th | Rikka | 6 UR + about 11 SR; Extra Deck has 14 of 15 |
+| WitchCrafterRd1604 2026-11-1… | Witchcrafter (new support, Dragoon variant) | 4 UR + 2 SR (20 Nov, after a 10-pack) |
+| RikkaRD1649 26-11-11th | Rikka | 5 UR + some SR (20 Nov); Extra Deck has 14 of 15 |
 
 ## Not Standard right now: 10 decks
 
