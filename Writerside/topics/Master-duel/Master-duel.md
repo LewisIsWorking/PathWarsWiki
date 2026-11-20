@@ -8,6 +8,7 @@ Start typing here...
 - [Invoked](Invoked.md) and the [Invoked cheat sheet / practice log](Invoked-practice.md).
 - [Yummy Dragoon](Yummy-dragoon.md): basic combo guide.
 - [Yummy Mitsurugi](Yummy-mitsurugi.md).
+- [Witchcrafter](Witchcrafter.md): main line (MDM combo, adapted).
 
 ## Fiend-smith combos.
 
