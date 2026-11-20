@@ -61,6 +61,12 @@ Luke crafted **Engage! ×1, Linkage! ×1, Sky Striker Ace = Zero ×1** (Ace = Ze
 
 **Extra Deck, cut the cards he can't summon:** the two random Fusions and the Number Xyz. Keep Kagari, Ace = Zero, Amatsu, Shizuku, Zeke, Hayate ×2, Kaina ×1 and the blue/white Sky Striker SR. Fewer than 15 is fine. No recent list runs Kaina, and they run Hayate ×1.
 
+## Final build, 20 Nov 2026 (40 main / 15 extra, legal)
+
+- **Main Deck changes:** Pot of Desires ×2 and Skull Meister ×2 added; Area Zero cut to 1; Mystical Space Typhoon raised to 3.
+- **Extra Deck (15):** Number Xyz, Kagari, Shizuku, Hayate ×3, Kaina ×3, Amatsu, Zeke, Ace = Zero, Haggard Lizardose, Azalea Temperance, Knightmare Phoenix.
+- **Next crafts:** Engage! to 3, Linkage! to 3, Kagari to 3 (replacing fillers), then Azalea, Camellia, and a 3rd Widow Anchor (SR).
+
 ## Craft plan to make it legal (original) (90 UR CP = 3 UR crafts)
 
 1. **Craft Engage! ×3.** It's the core search card in every Sky Striker list.
