@@ -135,6 +135,12 @@ Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows
 - **No Invoked Fusion yet:** Super Poly **Aleister + Dragoon → Invoked Oceanus** in the Extra Monster Zone. While it's there, her monsters sent to the GY are banished instead, so the Sons can't revive.
 - **Aeon** (your Invoked Fusion + Dragoon, 2 materials) banishes 2 cards: both Sarcophagi switch off the Sons' revives and protection, but removing King's Sarcophagus triggers Black Flame Deity.
 
+## Lewis's other decks vs her (card text checked 20 Nov 2026, untested)
+
+- **Exosister: best on paper.** Her Sons revive from the GY, which "moves a card out of the GY": every Exosister main-deck monster can then Xyz Summon on her turn. **Kaspitell** (Xyz Summoned with an Exosister): neither player can Special Summon from the GY for the rest of the turn, so the Sons stop. **Asophiel**: neither player can activate effects in the GY that turn. **Magnifica**: banish 1 card she controls without targeting (gets Dragoon). Exosister Xyz can't be destroyed by effects of monsters Special Summoned from the GY.
+- **Mitsurugi:** Wousu Tributes one of her monsters as a summoning cost (no targeting, no destruction: gets Dragoon). Murakumo's destroy-all mostly misses (Dragoon immune, King's Sarcophagus protects the Sons from non-targeting destruction).
+- **Avoid decks that Special Summon from the GY a lot** (Tearlaments, Orcust, Snake-Eye): **Shining Sarcophagus** sends a monster you Special Summon from the GY back (she discards a Spell). Invoked (Sorath) and Yummy (Mignon, Sorrowcat, Surprise) do this too, so expect it once per turn.
+
 ## Lewis's tournament plan vs Natasha (21 Nov 2026)
 
 Decks can be swapped between matches. Lewis plays his normal Invoked deck against everyone else and **InvokedVsNatasha** against her. A **YummyVsNatasha** version is possible if Yummy tests well.
