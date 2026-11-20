@@ -49,7 +49,19 @@ Read from screenshots of his deck builder. Names marked **?** were too small to 
 
 **Not owned: 8 URs.** Engage! ×3, the 3 dimmed main deck URs, the 2nd Kagari, and 1 Extra Deck UR.
 
-## Craft plan to make it legal (90 UR CP = 3 UR crafts)
+## Update 20 Nov 2026, 22:08
+
+Luke crafted **Engage! ×1, Linkage! ×1, Sky Striker Ace = Zero ×1** (Ace = Zero goes in the Extra Deck in every list). Main Deck is now 36 and Extra Deck 14.
+
+**To reach 40 (UNTESTED budget fill):**
+- Craft **Pot of Desires ×2** (SR). The Master 1 reference list runs 2.
+- Add **Skull Meister ×2** (owned), as budget hand traps.
+
+**SR craft for the Extra Deck:** Prototype Sky Striker Ace - **Amatsu** (in every recent list).
+
+**Extra Deck, cut the cards he can't summon:** the two random Fusions and the Number Xyz. Keep Kagari, Ace = Zero, Amatsu, Shizuku, Zeke, Hayate ×2, Kaina ×1 and the blue/white Sky Striker SR. Fewer than 15 is fine. No recent list runs Kaina, and they run Hayate ×1.
+
+## Craft plan to make it legal (original) (90 UR CP = 3 UR crafts)
 
 1. **Craft Engage! ×3.** It's the core search card in every Sky Striker list.
 2. **Main Deck:** take out the 3 dimmed URs. Replace them with owned cards or SR crafts (100 SR CP = 3 crafts): Widow Anchor / Hornet Drones up to 3 each.
