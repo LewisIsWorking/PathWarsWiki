@@ -192,7 +192,19 @@ EDOPro puzzles in `tools/edopro-puzzles/v3`. Her end board: Red-Eyes Dark Dragoo
 | Invoked | 8 | Invocation "Sword", Ash Blossom & Joyous Spring, Virakam, the Divine Spirit of Artifice, Mulcharmy Fuwalos, Aiwass, Divine Spirit of the Law, Ash Blossom & Joyous Spring | Dragoon, Shining Sarcophagus, Hapi | |
 | Invoked | 9 | Aleister the Invoker, Aleister the Reminiscent, Mulcharmy Fuwalos, Gamma Summon, Virakam, the Divine Spirit of Artifice, Invocation | Dragoon | |
 | Invoked | 10 | Invocation "Sword", Sacred Spirit Sword Aiwass, Droll & Lock Bird, Invocation, Crossout Designator, Invocation | Dragoon | |
+| Witchcrafter | 1 | Witchcrafter Creation, Ash Blossom & Joyous Spring, Witchcrafter Madame Verre, Verre, the Maid of Endymion, The Gaze of Timaeus, Verre Magic - Lacrima of Light | Dragoon | |
+| Witchcrafter | 2 | Witchcrafter Walpurgis, The Gaze of Timaeus, Witchcrafter Marka, Super Polymerization, Witchcrafter Creation, Witchcrafter Pittore | nothing | |
+| Witchcrafter | 3 | Witchcrafter Bystreet, Witchcrafter Walpurgis, Witchcrafter Distortion, Witchcrafter Marka, Super Polymerization, The Gaze of Timaeus | nothing | |
+| Witchcrafter | 4 | Witchcrafter Terracottan, Witchcrafter Walpurgis, Witchcrafter Distortion, Super Polymerization, Witchcrafter Schmietta, Witchcrafter Haine | nothing | |
+| Witchcrafter | 5 | Witchcrafter Celebration, Verre Magic - Lacrima of Light, Witchcrafter Terracottan, Mulcharmy Fuwalos, Verre Magic - Lacrima of Light, Witchcrafter Bystreet | Dragoon | |
+| Witchcrafter | 6 | Super Polymerization, Witchcrafter Genni, Witchcrafter Walpurgis, Ash Blossom & Joyous Spring, Witchcrafter Bystreet, Verre Magic - Lacrima of Light | Dragoon | |
+| Witchcrafter | 7 | Witchcrafter Unveiling, Genni, the Maid of Endymion, Verre Magic - Lacrima of Light, Super Polymerization, Witchcrafter Walpurgis, Witchcrafter Madame Verre | nothing | |
+| Witchcrafter | 8 | Witchcrafter Unveiling, Effect Veiler, Witchcrafter Celebration, Witchcrafter Bystreet, Witchcrafter Celebration, Super Polymerization | Dragoon | |
+| Witchcrafter | 9 | Spell Power Mastery, Ash Blossom & Joyous Spring, The Gaze of Timaeus, Witchcrafter Creation, Mulcharmy Fuwalos, Witchcrafter Madame Verre | Dragoon, Shining Sarcophagus | |
+| Witchcrafter | 10 | Crowley, the Gifted Magistus, Genni, the Maid of Endymion, Verre Magic - Lacrima of Light, Witchcrafter Bystreet, Ash Blossom & Joyous Spring, The Gaze of Timaeus | Dragoon | |
 
-**Win rate:** Yummy _/10 · Invoked _/10
+**Win rate:** Yummy _/10 · Invoked _/10 · Witchcrafter _/10
+
+Witchcrafter list assumed = murabitoC0115's 1604 Rating Duels list (10 Nov 2026) minus Confusion Confession, with Lewis's Extra Deck (Mudragon, Starving Venom in place of Flame Wingman and a 2nd Vice-Madame).
 
 Earlier attempts (don't count): Yummy hand 1 on v1 (one-turn, smaller board) lost; Invoked hand 1 on v2 (old Invoked list, one turn) lost.
