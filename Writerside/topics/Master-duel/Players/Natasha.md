@@ -126,31 +126,35 @@ Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows
 - Proven Horus lists use Number 90: Galaxy-Eyes Photon Lord and Number 38 (Fearnagae, WCS 2026 qualifiers, June 2026); a Horus guide also lists Dingirsu, Number 68 and Coach King Giantrainer. She owns none of these. Number 90 is the craft to aim for.
 - From what she owns: **Hieratic Sky Dragon Overlord** on turn 1 (negates a targeting effect on her field, GY or banishment, covering the gap in Sarcophagus's protection). **Hieratic Sun Dragon Overlord** when going second (tributes to destroy). **Aegaion** against Invoked: Lewis banishes his own Fusions, which Aegaion can return to destroy one of his Fusions on the field, on either turn.
 
-## Practice tracker: which deck beats her board? (20 Nov 2026)
+## Practice tracker: which deck beats her board? (v3, 20 Nov 2026)
 
-10 random going-2nd hands per deck (6 cards), each played once in EDOPro against her Horus Dragoon end board (files in `tools/edopro-puzzles`, `Natasha_<deck>_handNN.lua`). Win = 8000 damage that turn. Hand traps in these hands can't be used (her turn has already happened), so real games will go a little better than these numbers.
+EDOPro puzzles in `tools/edopro-puzzles/v3`. Her end board: Red-Eyes Dark Dragoon, Imsety, Duamutef, Qebehsenuef, Hapi, King's Sarcophagus, Shining Sarcophagus, set Future Silence, Walls of the Imperial Tomb; Horus the Black Flame Deity, Ash, Droll, Dark Magician in hand.
 
-| Deck | Hand | Opening hand | Result |
-| --- | --- | --- | --- |
-| Yummy | 1 | Crossout Designator, Dark Magical Curtain, Marshmao☆Yummy, Mulcharmy Fuwalos, Droll & Lock Bird, The Gaze of Timaeus | |
-| Yummy | 2 | Triple Tactics Talent, Lollipo☆Yummy, Crossout Designator, Dominus Spark, Marshmao☆Yummy, Magicians' Souls | |
-| Yummy | 3 | Cooky☆Yummy, Triple Tactics Talent, Droll & Lock Bird, The Gaze of Timaeus, Dark Magical Curtain, Lollipo☆Yummy | |
-| Yummy | 4 | The Gaze of Timaeus, Infinite Impermanence, Witch of the Black Forest, Triple Tactics Talent, Marshmao☆Yummy, Ash Blossom & Joyous Spring | |
-| Yummy | 5 | Dominus Spark, Cupsy☆Yummy, Yummyusment★Acroquey, Dark Magical Curtain, Yummyusment☆Mignon, Mind on Air | |
-| Yummy | 6 | Droll & Lock Bird, Dominus Spark, Crossout Designator, Dark Magical Curtain, Ash Blossom & Joyous Spring, Piri Reis Map | |
-| Yummy | 7 | Ash Blossom & Joyous Spring, Triple Tactics Talent, Piri Reis Map, Magicians' Souls, Infinite Impermanence, Mind on Air | |
-| Yummy | 8 | Triple Tactics Talent, Witch of the Black Forest, The Gaze of Timaeus, Lollipo☆Yummy, Dominus Spark, Yummyusment★Acroquey | |
-| Yummy | 9 | Dark Magician, the Pharaoh's Servant, Infinite Impermanence, Lollipo☆Yummy, Dark Magical Curtain, Cooky☆Yummy, Dominus Spark | |
-| Yummy | 10 | Dominus Spark, Piri Reis Map, Mind on Air, Piri Reis Map, Yummyusment☆Mignon, Mulcharmy Fuwalos | |
-| Invoked | 1 | Ash Blossom & Joyous Spring, Droll & Lock Bird, Maxx "C", Aleister the Reminiscent, Aiwass, Divine Spirit of the Law, Aleister the Reminiscent | |
-| Invoked | 2 | Mulcharmy Fuwalos, Infinite Impermanence, Ash Blossom & Joyous Spring, Super Polymerization, Invocation, Magical Meltdown | |
-| Invoked | 3 | Virakam, the Divine Spirit of Artifice, Super Polymerization, Ash Blossom & Joyous Spring, Ghost Ogre & Snow Rabbit, Aleister the Invoker, Sacred Spirit Sword Aiwass | |
-| Invoked | 4 | Ash Blossom & Joyous Spring, Invocation "Sword", Invocation "Sword", Mulcharmy Purulia, Droll & Lock Bird, Aiwass, Divine Spirit of the Law | |
-| Invoked | 5 | Invocation, Mulcharmy Purulia, Aleister the Reminiscent, Droll & Lock Bird, Infinite Impermanence, Mulcharmy Fuwalos | |
-| Invoked | 6 | Mulcharmy Purulia, Magical Meltdown, Aiwass, Divine Spirit of the Law, Aleister the Invoker, Super Polymerization, Maxx "C" | |
-| Invoked | 7 | Invocation "Sword", Triple Tactics Talent, Ash Blossom & Joyous Spring, Sacred Spirit Sword Aiwass, Infinite Impermanence, Aiwass, Divine Spirit of the Law | |
-| Invoked | 8 | Infinite Impermanence, Ash Blossom & Joyous Spring, Ash Blossom & Joyous Spring, Aleister the Invoker, Aleister the Reminiscent, Ghost Ogre & Snow Rabbit | |
-| Invoked | 9 | Ash Blossom & Joyous Spring, Mulcharmy Fuwalos, Aleister the Invoker, Infinite Impermanence, Ash Blossom & Joyous Spring, Aiwass, Divine Spirit of the Law | |
-| Invoked | 10 | Infinite Impermanence, Sacred Spirit Sword Aiwass, Droll & Lock Bird, Aiwass, Divine Spirit of the Law, Invocation "Sword", Aiwass, Divine Spirit of the Law | |
+**Rules (v3):** 10 random going-2nd hands per deck. Full duel, no turn limit; her AI is weak, so a **win counts only within 2 of your turns**. Each hand trap in your opening hand (Ash, Droll, Maxx "C", Fuwalos, Imperm, Dominus Spark) is treated as used on her turn and removes one piece of her board, in this order: Dragoon → Shining Sarcophagus → Hapi → Duamutef → Qebehsenuef. That mapping is a rough rule of thumb (Claude's), not a simulation. Invoked uses the 20 Nov build (no Imperm; 3 Invocation, 3 Invoke Sword?, 2 Pot of Desires, Triple Tactics Thrust, Gamma Summon; Extra adds Magellanica?, Secure Gardna, Almiraj).
+
+| Deck | Hand | Opening hand | Her board loses | Result |
+| --- | --- | --- | --- | --- |
+| Yummy | 1 | Crossout Designator, Dark Magical Curtain, Marshmao☆Yummy, Mulcharmy Fuwalos, Droll & Lock Bird, The Gaze of Timaeus | Dragoon, Shining Sarcophagus | |
+| Yummy | 2 | Triple Tactics Talent, Lollipo☆Yummy, Crossout Designator, Dominus Spark, Marshmao☆Yummy, Magicians' Souls | Dragoon | |
+| Yummy | 3 | Cooky☆Yummy, Triple Tactics Talent, Droll & Lock Bird, The Gaze of Timaeus, Dark Magical Curtain, Lollipo☆Yummy | Dragoon | |
+| Yummy | 4 | The Gaze of Timaeus, Infinite Impermanence, Witch of the Black Forest, Triple Tactics Talent, Marshmao☆Yummy, Ash Blossom & Joyous Spring | Dragoon, Shining Sarcophagus | |
+| Yummy | 5 | Dominus Spark, Cupsy☆Yummy, Yummyusment★Acroquey, Dark Magical Curtain, Yummyusment☆Mignon, Mind on Air | Dragoon | |
+| Yummy | 6 | Droll & Lock Bird, Dominus Spark, Crossout Designator, Dark Magical Curtain, Ash Blossom & Joyous Spring, Piri Reis Map | Dragoon, Shining Sarcophagus, Hapi | |
+| Yummy | 7 | Ash Blossom & Joyous Spring, Triple Tactics Talent, Piri Reis Map, Magicians' Souls, Infinite Impermanence, Mind on Air | Dragoon, Shining Sarcophagus | |
+| Yummy | 8 | Triple Tactics Talent, Witch of the Black Forest, The Gaze of Timaeus, Lollipo☆Yummy, Dominus Spark, Yummyusment★Acroquey | Dragoon | |
+| Yummy | 9 | Dark Magician, the Pharaoh's Servant, Infinite Impermanence, Lollipo☆Yummy, Dark Magical Curtain, Cooky☆Yummy, Dominus Spark | Dragoon, Shining Sarcophagus | |
+| Yummy | 10 | Dominus Spark, Piri Reis Map, Mind on Air, Piri Reis Map, Yummyusment☆Mignon, Mulcharmy Fuwalos | Dragoon, Shining Sarcophagus | |
+| Invoked | 1 | Aleister the Invoker, Droll & Lock Bird, Maxx "C", Pot of Desires, Invocation, Aiwass, Divine Spirit of the Law | Dragoon, Shining Sarcophagus | |
+| Invoked | 2 | Mulcharmy Fuwalos, Invocation "Sword", Aleister the Invoker, Magical Meltdown, Invocation, Sacred Spirit Sword Aiwass | Dragoon | |
+| Invoked | 3 | Aleister the Invoker, Magical Meltdown, Aleister the Invoker, Ash Blossom & Joyous Spring, Aleister the Invoker, Sacred Spirit Sword Aiwass | Dragoon | |
+| Invoked | 4 | Ash Blossom & Joyous Spring, Crossout Designator, Invocation "Sword", Aiwass, Divine Spirit of the Law, Droll & Lock Bird, Pot of Desires | Dragoon, Shining Sarcophagus | |
+| Invoked | 5 | Invocation, Aiwass, Divine Spirit of the Law, Aiwass, Divine Spirit of the Law, Droll & Lock Bird, Invocation "Sword", Aleister the Reminiscent | Dragoon | |
+| Invoked | 6 | Aleister the Reminiscent, Sacred Spirit Sword Aiwass, Invocation, Aleister the Invoker, Magical Meltdown, Maxx "C" | Dragoon | |
+| Invoked | 7 | Crossout Designator, Triple Tactics Talent, Ash Blossom & Joyous Spring, Triple Tactics Thrust, Invocation "Sword", Invocation | Dragoon | |
+| Invoked | 8 | Invocation "Sword", Ash Blossom & Joyous Spring, Virakam, the Divine Spirit of Artifice, Mulcharmy Fuwalos, Aiwass, Divine Spirit of the Law, Ash Blossom & Joyous Spring | Dragoon, Shining Sarcophagus, Hapi | |
+| Invoked | 9 | Aleister the Invoker, Aleister the Reminiscent, Mulcharmy Fuwalos, Gamma Summon, Virakam, the Divine Spirit of Artifice, Invocation | Dragoon | |
+| Invoked | 10 | Invocation "Sword", Sacred Spirit Sword Aiwass, Droll & Lock Bird, Invocation, Crossout Designator, Invocation | Dragoon | |
 
 **Win rate:** Yummy _/10 · Invoked _/10
+
+Earlier attempts (don't count): Yummy hand 1 on v1 (one-turn, smaller board) lost; Invoked hand 1 on v2 (old Invoked list, one turn) lost.
