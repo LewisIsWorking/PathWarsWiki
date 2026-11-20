@@ -75,3 +75,47 @@ Luke crafted **Engage! ×1, Linkage! ×1, Sky Striker Ace = Zero ×1** (Ace = Ze
 4. **Next URs, in order:** Linkage! ×3 (only from Sky Striker Awakening, or craft), Kagari to 3, Ace = Zero, Lemnisgate!, Azalea, Camellia.
 
 Budget list and upgrade path: [Master duel](Master-duel.md). Reference list: [kasunagi's Master 1 Sky Striker](https://www.masterduelmeta.com/top-decks/master-i/november-2026/sky-striker/kasunagi/UPQfU/).
+
+## Combo lines (from Master Duel Meta, adapted to Luke's cards)
+
+Source: [MDM Sky Striker combos](https://www.masterduelmeta.com/api/v1/combos?deckType=61eb1387031c4d7977ca4f11). Luke owns Engage! ×1, Linkage! ×1, Ace = Zero ×1, Kagari ×1 and no Lemnisgate!/Camellia, so steps that need those are cut. Rule for all of them: **Sky Striker Links go to the Extra Monster Zone, so keep the Main Monster Zone empty and the spells keep working.**
+
+### A. Raye only: 2 disruptions (Dkayed, "Raye 1c 2 Disruptions")
+1. Normal Summon Raye.
+2. Raye: Tribute → Special Summon **Sky Striker Ace = Zero** to the Extra Monster Zone.
+3. Zero (on summon): add **Engage!** from Deck.
+4. Engage!: add **Widow Anchor** (draw 1 if 3+ Spells in GY).
+5. Set Widow Anchor. End.
+- **Their turn:** Zero (Quick) tributes itself → Raye + Roze from Deck/GY, then destroy 1 card. Widow Anchor negates a monster.
+
+### B. Engage! only (cc12_ "First Turn 1 Card Combo" / combatant "1 Engage", minus Lemnisgate!)
+1. Engage!: add **Hornet Drones**.
+2. Hornet Drones: summon a Sky Striker Ace Token.
+3. Token → Link Summon **Kagari**.
+4. Kagari: add **Engage!** back from GY.
+5. Engage!: add **Linkage!**.
+6. Linkage!: send Kagari → **Ace = Zero**.
+7. Zero: add **Engage!** from GY (he only has 1, so take it from GY).
+8. Engage!: add **Widow Anchor**. Set it.
+- End: Zero + set Widow Anchor. (With only 1 Engage! there's no draw at step 8; the full list draws 1 and adds Lemnisgate!.)
+
+### C. Roze only (Mochi, "Just Roze")
+1. Normal Summon Roze.
+2. Roze → Link Summon **Shizuku**.
+3. End Phase: Shizuku adds **Linkage!** from Deck.
+4. **Their turn** (Linkage! is a Quick-Play): Linkage! sending Shizuku → **Ace = Zero**.
+5. Zero: add Engage! or Widow Anchor (the guide adds Lemnisgate!).
+
+### D. Raye: 1-card OTK into an EMPTY board (cnydo, "Raye 1 card OTK")
+Only when they have no monsters and nothing to stop it.
+1. Normal Summon Raye. Attack directly (1500).
+2. Raye (Quick, still in Battle Phase): Tribute → **Ace = Zero**. Zero adds **Linkage!**.
+3. Zero attacks (2000).
+4. Linkage! sending Zero → **Kagari** (+1000 ATK if a LIGHT and a DARK Sky Striker Ace are on field/GY). Kagari adds Linkage! back.
+5. Kagari attacks (2500+).
+6. Linkage! sending Kagari → **Hayate**. Hayate attacks (2500 with the bonus).
+- Total about 8,500, enough from 8,000.
+
+### Needs cards he doesn't own yet
+- Drones 1-card OTK, Roze + Engage + Linkage 13.1k OTK: need **Lemnisgate!**.
+- Raye + Roze line, Drolled Engage + Raye: need **Camellia**.
