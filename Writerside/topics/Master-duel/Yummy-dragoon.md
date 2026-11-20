@@ -450,6 +450,17 @@ Ash and Imperm are for her turn 1, before you get here.
 - **Check zones before every Link:** make the Link-1 (Artemis, Snatchy) **before** filling the Extra Monster Zone with a Link-2, or put the Link-2 where a free zone stays pointed to.
 - Yummy☆Surprise's modes reset each turn: on her turn, summon Marshmao from the GY, and Marshmao gets Surprise back.
 
+### 20 Nov 2026 vs Witchcrafter (going 1st, Drolled): won (opponent surrendered, turn 2)
+
+- Hand: Lollipo, Maxx "C", TTT, Curtain, Imperm. She Drolled right after Cupsy★Yummy Way's search (Cupsy + Marshmao added, TTT discarded).
+- **Drolled line (Line 7 idea, worked):** Cupsy + Marshmao from hand → Curtain → Mind on Air → Dark Magician of Destruction (search fails) → Cupsy★Yummy Way + Dark Magician of Destruction = **Baronne** → Cupsy → Snatchy → Snatchy + Marshmao = Lollipo★Yummy Way (revive Lollipo + Cupsy) → Lollipo★Yummy Way + Lollipo = Sorrowcat → Sorrowcat + Lollipo = **Herald** → Sorrowcat GY (return Lollipo★Yummy Way) revives itself. Set Imperm.
+- End: Baronne, Herald, Sorrowcat, Mignon, set Imperm. Her turn: Super Poly fused her Marka + my Sorrowcat into Mudragon; **Herald negated Witchcrafter Potterie** and searched Illusion of Chaos. She surrendered.
+
+**Lessons**
+- **Under Droll, summon from the Deck instead of searching:** Curtain → Mind on Air → Dark Magician of Destruction still reaches Baronne.
+- **Make Herald on your own turn** when Sorrowcat can then revive itself from the GY: one more body than waiting for Sorrowcat's Quick Synchro.
+- **Super Poly** can use your monsters as material and can't be responded to: expect to lose a body to it.
+
 ## Sources
 
 - MDM combo database, Yummy: "Any Yummy + 1 discard" (sam95col), "Dark magical curtain 1 card" (No you!), "Cupsy 1cc" (LeftOnRed), "Yummy NS 1 Card Combo" (MorddredG) — [Yummy combos](https://www.masterduelmeta.com/api/v1/combos?deckType=695f77bc9353a286c4bcc61f)
