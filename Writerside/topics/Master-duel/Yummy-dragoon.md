@@ -440,6 +440,16 @@ Ash and Imperm are for her turn 1, before you get here.
 - **Magicians' Souls** (send Mind on Air from Deck) is a spare Level 1 for a second Yummy Way with Snatchy.
 - Against a Trap deck, bait with Lollipo's effect first.
 
+### 20 Nov 2026 vs unknown (going 2nd): won (turn 4)
+
+- Hand: Cooky, Fuwalos, Acroquey, Imperm, Dominus Spark ×2. Her turn 1: one Level 2 monster.
+- Acroquey destroyed her monster; built Sorrowcat → Herald → Little Knight → Servant → Dark Magician of Destruction → Curtain → Witch. Her Curtain summon gave her a Dark Magician.
+- **Mistake (Claude's line):** S:P Little Knight took the free Extra Monster Zone, and its arrows point sideways, so **Artemis had no zone** and the Lollipo★Yummy Way → Baronne finish was lost. Linked Witch + Little Knight → Spright Elf instead, attacked her to 4700, then Gaze → Dragoon on her turn and Surprise → Marshmao in her End Phase. Won next turn.
+
+**Lessons**
+- **Check zones before every Link:** make the Link-1 (Artemis, Snatchy) **before** filling the Extra Monster Zone with a Link-2, or put the Link-2 where a free zone stays pointed to.
+- Yummy☆Surprise's modes reset each turn: on her turn, summon Marshmao from the GY, and Marshmao gets Surprise back.
+
 ## Sources
 
 - MDM combo database, Yummy: "Any Yummy + 1 discard" (sam95col), "Dark magical curtain 1 card" (No you!), "Cupsy 1cc" (LeftOnRed), "Yummy NS 1 Card Combo" (MorddredG) — [Yummy combos](https://www.masterduelmeta.com/api/v1/combos?deckType=695f77bc9353a286c4bcc61f)
