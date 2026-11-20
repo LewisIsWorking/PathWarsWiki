@@ -141,6 +141,14 @@ Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows
 - **Mitsurugi:** Wousu Tributes one of her monsters as a summoning cost (no targeting, no destruction: gets Dragoon). Murakumo's destroy-all mostly misses (Dragoon immune, King's Sarcophagus protects the Sons from non-targeting destruction).
 - **Avoid decks that Special Summon from the GY a lot** (Tearlaments, Orcust, Snake-Eye): **Shining Sarcophagus** sends a monster you Special Summon from the GY back (she discards a Spell). Invoked (Sorath) and Yummy (Mignon, Sorrowcat, Surprise) do this too, so expect it once per turn.
 
+## Her Dark Magical Curtain gives you a summon too (card text checked 20 Nov 2026)
+
+Curtain: each player can Special Summon 1 DARK Spellcaster from hand or Deck, **but neither player can activate their effects this turn**. So pick a body you can use with a Quick-Play or as material, not one that needs its own effect.
+
+- **Yummy:** take **Dark Magician, the Pharaoh's Servant** from the Deck. It counts as "Dark Magician", so a set **Gaze of Timaeus** turns it into **Dragoon on her turn** (Dragoon itself can use its effects). Without Gaze, it's still a 2500 body and next turn's Dark Magician of Destruction material. Mind on Air is the alternative (her hand stays revealed while it's on the field).
+- **Invoked:** take **Aleister the Invoker** (or Reminiscent). With a set **Super Poly**: Aleister + her Dark Magician or Dragoon (both DARK) → **Invoked Oceanus** on her turn, and she can't respond. With a set **Invoke Sword**: Aleister + a banished LIGHT → **Mechaba** on her turn.
+- No new cards needed: both decks already run these.
+
 ## Lewis's tournament plan vs Natasha (21 Nov 2026)
 
 Decks can be swapped between matches. Lewis plays his normal Invoked deck against everyone else and **InvokedVsNatasha** against her. A **YummyVsNatasha** version is possible if Yummy tests well.
