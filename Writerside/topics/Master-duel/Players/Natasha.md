@@ -126,11 +126,15 @@ Blue-Eyes Spirit Dragon, Phantom Knights' Fog Blade, Lord of the Missing Barrows
 - Proven Horus lists use Number 90: Galaxy-Eyes Photon Lord and Number 38 (Fearnagae, WCS 2026 qualifiers, June 2026); a Horus guide also lists Dingirsu, Number 68 and Coach King Giantrainer. She owns none of these. Number 90 is the craft to aim for.
 - From what she owns: **Hieratic Sky Dragon Overlord** on turn 1 (negates a targeting effect on her field, GY or banishment, covering the gap in Sarcophagus's protection). **Hieratic Sun Dragon Overlord** when going second (tributes to destroy). **Aegaion** against Invoked: Lewis banishes his own Fusions, which Aegaion can return to destroy one of his Fusions on the field, on either turn.
 
+## Lewis's tournament plan vs Natasha (21 Nov 2026)
+
+Decks can be swapped between matches. Lewis plays his normal Invoked deck against everyone else and **InvokedVsNatasha** against her. A **YummyVsNatasha** version is possible if Yummy tests well.
+
 ## Practice tracker: which deck beats her board? (v3, 20 Nov 2026)
 
 EDOPro puzzles in `tools/edopro-puzzles/v3`. Her end board: Red-Eyes Dark Dragoon, Imsety, Duamutef, Qebehsenuef, Hapi, King's Sarcophagus, Shining Sarcophagus, set Future Silence, Walls of the Imperial Tomb; Horus the Black Flame Deity, Ash, Droll, Dark Magician in hand.
 
-**Rules (v3):** 10 random going-2nd hands per deck. Full duel, no turn limit; her AI is weak, so a **win counts only within 2 of your turns**. Each hand trap in your opening hand (Ash, Droll, Maxx "C", Fuwalos, Imperm, Dominus Spark) is treated as used on her turn and removes one piece of her board, in this order: Dragoon → Shining Sarcophagus → Hapi → Duamutef → Qebehsenuef. That mapping is a rough rule of thumb (Claude's), not a simulation. Invoked uses the 20 Nov build (no Imperm; 3 Invocation, 3 Invoke Sword?, 2 Pot of Desires, Triple Tactics Thrust, Gamma Summon; Extra adds Magellanica?, Secure Gardna, Almiraj).
+**Rules (v3):** 10 random going-2nd hands per deck. Full duel, no turn limit; her AI is weak, so a **win counts only within 2 of your turns**. Each hand trap in your opening hand (Ash, Droll, Maxx "C", Fuwalos, Imperm, Dominus Spark) is treated as used on her turn and removes one piece of her board, in this order: Dragoon → Shining Sarcophagus → Hapi → Duamutef → Qebehsenuef. That mapping is a rough rule of thumb (Claude's), not a simulation. Invoked uses **InvokedVsNatasha** (20 Nov; no Imperm; 3 Invocation, 3 Invoke Sword?, 2 Pot of Desires, Triple Tactics Thrust, Gamma Summon; Extra adds Magellanica?, Secure Gardna, Almiraj).
 
 | Deck | Hand | Opening hand | Her board loses | Result |
 | --- | --- | --- | --- | --- |
