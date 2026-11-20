@@ -429,6 +429,17 @@ Ash and Imperm are for her turn 1, before you get here.
 - **Zexal stops targeting of her other cards** and steals a monster when you activate anything on the field. This deck has no non-targeting answer: concede early if there's no out.
 - With no hand traps in the opening hand, this matchup is unwinnable going 2nd. Keep hand traps when deciding what to discard.
 
+### 20 Nov 2026 vs Altergeist (going 2nd): won (opponent surrendered, turn 2)
+
+- Hand: Lollipo, Pharaoh's Servant, Illusion of Chaos, Dark Magical Curtain ×2.
+- Silquitous bounced Snatchy to the Extra Deck in response to its effect. Snatchy still placed Mignon. Curtain → Witch → **Artemis** made a new Link-1, so Mignon could revive Lollipo and the combo carried on. Witch can't search Cupsy (DEF too high), so it took Cooky.
+- She surrendered once Servant hit the field.
+
+**Lessons**
+- If your Link-1 gets bounced or removed, Curtain → Witch → Artemis rebuilds it, and Mignon works again.
+- **Magicians' Souls** (send Mind on Air from Deck) is a spare Level 1 for a second Yummy Way with Snatchy.
+- Against a Trap deck, bait with Lollipo's effect first.
+
 ## Sources
 
 - MDM combo database, Yummy: "Any Yummy + 1 discard" (sam95col), "Dark magical curtain 1 card" (No you!), "Cupsy 1cc" (LeftOnRed), "Yummy NS 1 Card Combo" (MorddredG) — [Yummy combos](https://www.masterduelmeta.com/api/v1/combos?deckType=695f77bc9353a286c4bcc61f)
