@@ -1,6 +1,6 @@
 # Witchcrafter
 
-Lewis's *WitchCrafterRd1604* (completed 20 Nov 2026). Based on murabitoC0115's Rating Duels 1604 list; Extra Deck has Mudragon and Starving Venom instead of Flame Wingman and a 2nd Vice-Madame. Lewis owns **W:P Fancy Ball** (20 Nov): put it in the Extra Deck (suggested cut: Mudragon). See [My decks](My-decks.md) and [Natasha](Natasha.md).
+Lewis's *WitchCrafterRd1604* (completed 20 Nov 2026). Based on murabitoC0115's Rating Duels 1604 list; Extra Deck has Mudragon and Starving Venom instead of Flame Wingman and a 2nd Vice-Madame. **W:P Fancy Ball** replaced Mudragon in the Extra Deck on 20 Nov. See [My decks](My-decks.md) and [Natasha](Natasha.md).
 
 ## Main line: Walpurgis (or Marka) + any discard → Dragoon
 
