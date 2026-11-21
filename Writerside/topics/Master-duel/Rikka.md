@@ -6,6 +6,8 @@ Lewis's Rikka deck (built 21 Nov 2026). Main Deck matches **xemnas43's Master I 
 
 Droll & Lock Bird 2, Rikka Petal 3, Maxx "C" 1, Ash 3, Primula 1, Rikka Princess 2, Mulcharmy Fuwalos 3, Snowdrop 1, Mudan 2, Rikka Black Princess 3, Hellebore 1, Primrose 2, Foolish Burial 1, Rikka Glamour 3, Rikka Moonlit Waters 3, Rikka Konkon 2, Infinite Impermanence 3, Rikka Sheet 1, Dominus Impulse 3.
 
+**Extra Deck (21 Nov 2026):** Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna ×2, Orea, a Rank 4 (N), **Teardrop the Rikka Queen ×2**, Hyperyton, Teardrop the Rikka Sacred Queen, Sunavalon Dryas ×2, Sunvine, S:P Little Knight, plus one SR Link. The 2nd Teardrop lets you upgrade one into the Sacred Queen and still have a Teardrop when you make four Level 8s (22 of the last 100 MDM lists run 2).
+
 ## Line 1: Rikka Petal (or Glamour) alone
 
 Source: **"Pure Rikka: 1c Petal/Glamour"**, Yusodus, MDM combo database, first ending (Teardrop + Hyperyton + Sacred Strenna). Played 21 Nov 2026 (solo): won turn 3.
