@@ -57,10 +57,10 @@ flowchart TD
     T --> RQ{"Madame Verre in your GY?"}
     RQ -->|"No"| L1["Pupils adds Lacrima"]
     L1 --> SET["14. Set Distortion + Lacrima"]
-    RQ -->|"Yes: big boss ending"| R1["Pupils adds Celebration"]
-    R1 --> R2["Pupils reveals Celebration: Fusion<br/>shuffle Madame Verre + Verre + Terracottan from GY<br/>→ MADAME RILLIONA (3800)"]
-    R2 --> R3["Rilliona: summon Schmietta from Deck<br/>(only 1 zone left) · UNTESTED"]
-    R3 --> SETR["14. Set Distortion<br/>Celebration stays in hand (only revealed)"]
+    RQ -->|"Yes: big boss ending"| R1["Pupils adds Celebration<br/>(Pupils: ONE effect per turn, add OR reveal)"]
+    R1 --> R2["Activate Celebration from HAND: Fusion<br/>shuffle Madame Verre + Verre + Terracottan from GY<br/>→ MADAME RILLIONA (3800)"]
+    R2 --> R3["Rilliona: summon Marka from Deck<br/>Marka: tribute → add Bystreet · UNTESTED"]
+    R3 --> SETR["14. Set Distortion<br/>(Celebration was used: no End Phase return)"]
     SETR --> EP
     SET --> EP["15. End Phase: Pupils returns Celebration<br/>Celebration adds itself to hand"]
     EP --> END(["END BOARD<br/>Dragoon · Vice-Madame · Pupils · Fancy Ball<br/>set Distortion + Lacrima · Celebration in hand"])
@@ -68,7 +68,7 @@ flowchart TD
     RULE{{"Rule: Extra Deck plays BEFORE Terracottan<br/>(it locks you to Witchcrafter Extra Deck)"}}
     RULE -.-> X
 
-    EP --> ENDR(["If Rilliona: + Rilliona · Schmietta, no Lacrima<br/>Their turn: Schmietta tribute + discard a Spell<br/>→ Madame Verre from Deck"])
+    EP --> ENDR(["If Rilliona: + Rilliona · Bystreet, no Lacrima<br/>Rilliona revives herself in your End Phase if destroyed"])
     END --> OPP["THEIR TURN, in order"]
     OPP --> O1["1. Vice-Madame DESTROY<br/>on their first Spell / key card"]
     O1 --> O2["2. Pupils copies Celebration<br/>destroy 1 of theirs (Bystreet saves yours)"]
@@ -235,6 +235,7 @@ Average copies across the 30 most recent Master Duel Meta Witchcrafter lists, ag
 - **Vs Cyber Dragon:** Clockwork Night makes every monster a Machine, so Chimeratech and Super Polymerization can use yours. Destroy it first. Pupils copying Celebration plus Bystreet is a free destroy.
 - **Missed chain recovery:** if you forget to chain Vice-Madame to Schmietta, chain it to Gaze (Summon Verre the Maid), then to Verre's search (Add Distortion). You still end on Dragoon + Pupils + Lacrima + Distortion.
 - **Lead with the search you can afford to lose** (21 Nov, twice). If your hand has Spell Power Mastery or Creation, use it before Walpurgis. Rhino's Chaos and savic's Dominus Purge both hit Walpurgis first, and without Walpurgis every Genni/Schmietta/Haine/Madame Verre cost is a real Spell from hand.
+- **Pupils has ONE Quick Effect per turn: add a Spell OR reveal one, never both** (21 Nov, solo). "You can activate 1 of these effects", once per turn.
 - **Pupils copying Celebration uses up Celebration for the turn** (21 Nov vs Rhino): Master Duel greyed out the Celebration in hand afterwards. Pick one: Pupils' copy, or activating it from hand.
 - **Genni, the Maid of Endymion needs no discard:** Special Summon her while you control a Spellcaster, then banish a Spellcaster you control (herself is fine) → any Witchcrafter from the Deck. It's the engine that still works with Walpurgis gone.
 - **Vs Dark Law (Rhino):** anything sent to your GY is banished, so Terracottan's hand effect and all GY effects are dead. Route: Spell Power Mastery → Genni, the Maid → Verre → Creation → Terracottan (Normal Summon) → Fusion.
