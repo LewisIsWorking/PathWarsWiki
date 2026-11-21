@@ -124,8 +124,8 @@ Only when they have no monsters and nothing to stop it.
 
 **Deck:**
 1. Engage! and Linkage! to 3 each (UR). He bricked turn 1 with only Raye, Roze and 1 Engage! as starters.
-2. Hornet Drones to 2–3 (SR). It's a 1-card starter: token → Kagari → adds Engage! back.
-3. Cut the old N filler (Jamming Waves! ×3, Vector Blast, Eagle Booster) for Hornet Drones, the 3rd Widow Anchor and Droll.
+2. Hornet Drones: Limited 1 in Master Duel, so run 1. It's a 1-card starter: token → Kagari → adds Engage! back.
+3. Cut the old N filler (Jamming Waves! ×3, Vector Blast, Eagle Booster) for the 3rd Widow Anchor and Droll ×2 (Droll replaces Skull Meister).
 4. Droll & Lock Bird (SR). It stops Witchcrafter's chain of searches, and works against most decks.
 5. Next UR after the core: Lemnisgate!.
 
