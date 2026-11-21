@@ -27,6 +27,17 @@ Source: **"Pure Rikka: 1c Petal/Glamour"**, Yusodus, MDM combo database, first e
 
 **Their turn (UNTESTED order, from card text):** Teardrop Tributes first (Quick, it has Plant material) → Primrose's Quick Xyz turns Teardrop into **Teardrop the Rikka Sacred Queen** → Sacred Queen sends Spells/Traps (as many as materials detached) and Tributes again. Hyperyton negates by detaching a material of the same card type.
 
+## End board options to try
+
+| Ending | Strength | Weakness |
+| --- | --- | --- |
+| **Teardrop + Hyperyton + Sacred Queen Strenna** (Line 1 as written) | Most interruptions | Hyperyton's materials are all monsters, so it can't negate Spells (Dark Hole, Raigeki, Lightning Storm) |
+| Line 1 + **Glamour for a Spell material** (UNTESTED) | Hyperyton negates a monster effect **or** a Spell | Konkon sets Glamour instead of Moonlit Waters; Hyperyton's attach is spent on Glamour, not Mudan |
+| **Teardrop + Rikka Queen Strenna + Kanzashi** (Yusodus branch 2) | Kanzashi Tributes a Plant instead of your Plants being destroyed | One fewer negate |
+| **Rikka Queen Strenna + Kanzashi + Hellebore** (Yusodus branch 3) | Most protection; Hellebore negates targeting monster effects | Fewest interruptions |
+
+Record which ending you used in the game log below.
+
 ## Lessons
 
 - **Pupils-style "one effect per turn" trap:** check every "activate 1 of these effects" card before planning two uses.
