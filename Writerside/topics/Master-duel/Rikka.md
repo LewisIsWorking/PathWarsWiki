@@ -130,3 +130,19 @@ Record which ending you used in the game log below.
 | 21 Nov 2026 | Blue-Eyes (ranked) | 2nd | **Won** (turn 6) | Destined Rivals negated Black Princess, but she was still Xyz material. Konkon + Glamour Tributed Blue-Eyes Jet Dragon; built Teardrop the Rikka Sacred Queen + Sacred Queen Strenna + Primrose. True Light set Return of the Dragon Lords. Ground them down with Hyperyton and Rikka Sheet; won turn 6. |
 | 21 Nov 2026 | Charmer / Familiar-Possessed (ranked) | 2nd | **Won** (time limit) | Fuwalos on Spellbook of the Grand Circle drew a big hand. Possessed Partnerships destroyed Konkon; Mudan searched Konkon #2 and its replacement Tribute took their 4050. Ended Teardrop the Rikka Sacred Queen, Sacred Queen Strenna, Primrose, Black Princess, Primula. Foolish Burial unused (next turn: send Black Princess, revive her). They ran out the clock on turn 3. |
 | 21 Nov 2026 | Rising Pyroxene (solo) | 1st | **Won** | Line 1 from Petal. Short combo, plenty of time on the clock. Won turn 3. |
+
+## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
+
+Main Deck = **lmt's 1669-rated Rating Duel list (21 Nov 2026)**, 45 cards, card for card: Petal 1, Predaplant Byblisp 1, Longinephila 2, Princess Dracaena 3, Maxx "C" 1, Ash 3, Lilizard 1, Rikka Princess 1, Purulia 2, Fuwalos 3, Mudan 2, Black Princess 3, Hellebore 1, Primrose 1, Instant Fusion 1, Glamour 2, Triple Tactics Talent 1, Triple Tactics Thrust 1, Predaprimitive 3, Moonlit Waters 3, Predapruning 1, Konkon 1, Super Polymerization 2, Evenly Matched 1, Rikka Sheet 1, Dominus Impulse 3.
+
+lmt's Extra Deck: Ambulomelides, Garura, Daredevil, Starving Venom, Secreterion, Bal Teah, Black Rose Dragon, Bramble Rose Dragon, Crystal Wing, Rikka Queen Strenna, Kanzashi, Sacred Queen Strenna, Teardrop, Teardrop Sacred Queen, Aromaseraphy Jasmine.
+
+**How it works:** the Predaplant cards are extra starters that turn into a Rikka combo. **Aromaseraphy Jasmine** (Link-2, 2 Plants) is the bridge: Tribute a monster it points to → any Plant from the Deck (Petal or Black Princess). From there it's the normal Rikka game plan.
+
+**Starters (any one is a full combo):** Predaprimitive, Instant Fusion, Predaplant Longinephila, Princess Dracaena, plus the usual Petal / Black Princess / Moonlit Waters / Glamour.
+
+**Proven line:** MDM "Predarikka: 1c Any Predap Starter" (Yusodus). Predap engine → Lilizard ×2 → Bal Teah → Jasmine → Byblisp under Jasmine's arrow → Jasmine Tributes Byblisp → Black Princess → Petal → Mudan → Konkon → Sacred Queen Strenna → Rikka Queen Strenna (+ Rikka Princess) → Instant Fusion Ambulomelides → Ambulomelides Tributes Strenna (Hyperyton + Sheet) → Bramble Rose → Black Rose → Konkon sets Moonlit → Moonlit Tributes Ambulomelides → Primrose + Hellebore → Kanzashi → Teardrop → Teardrop Sacred Queen.
+
+End: Teardrop Sacred Queen, Hyperyton (Spell material), Kanzashi, Sacred Queen Strenna, Bramble Rose, Black Rose, Konkon, set Rikka Sheet, Rikka Princess in GY, Super Polymerization in hand.
+
+**Going second:** Predaprimitive searches **Super Polymerization** (2 copies) for no-response removal; **Black Rose Dragon** destroys every card when Synchro Summoned; **Evenly Matched** and **Triple Tactics Thrust** are extra going-second outs; **Purulia** punishes decks that summon from the hand.
