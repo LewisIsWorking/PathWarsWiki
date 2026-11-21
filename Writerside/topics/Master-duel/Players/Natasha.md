@@ -149,6 +149,12 @@ Curtain: each player can Special Summon 1 DARK Spellcaster from hand or Deck, **
 - **Invoked:** take **Aleister the Invoker** (or Reminiscent). With a set **Super Poly**: Aleister + her Dark Magician or Dragoon (both DARK) → **Invoked Oceanus** on her turn, and she can't respond. With a set **Invoke Sword**: Aleister + a banished LIGHT → **Mechaba** on her turn.
 - No new cards needed: both decks already run these.
 
+## Gaze of Timaeus Dragoon leaves on its own (card text checked 21 Nov 2026)
+
+If she makes Dragoon with **The Gaze of Timaeus** on her turn (Imsety → Dark Magician of Destruction → Gaze → Dragoon), it's **banished in the End Phase of your next turn**. Don't spend removal on it: just make it use its once-per-turn negate on bait, and it's gone before her next turn. It still blocks direct attacks while it's there.
+
+Her hand isn't fixed at Horus/Ash/Droll/Dark Magician: she opens with 5 and draws off Imsety and Walls. If she holds a Spell, **Shining Sarcophagus** can send back a monster you summon from the GY.
+
 ## Her hand traps (from her 9 Nov list)
 
 Ash ×2, Droll ×2, Maxx "C" ×1, Ghost Mourner ×1, Forbidden Droplet ×1, Triple Tactics Talent ×1, Triple Tactics Thrust ×1.
