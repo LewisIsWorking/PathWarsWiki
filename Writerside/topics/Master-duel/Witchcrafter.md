@@ -189,6 +189,11 @@ Average copies across the 30 most recent Master Duel Meta Witchcrafter lists, ag
 
 **Suggested swap (UNTESTED):** −2 Unveiling, −1 Lacrima, −1 Effect Veiler → +2 Fuwalos, +2 Droll. Keep 1 Unveiling: it's the only way to Special Summon Madame Verre or Haine from hand. On its own it's a brick.
 
+## Lewis's current list: WitchCrafterRd1701.11 (21 Nov 2026)
+
+- **Main Deck (40):** the 1701 list below, card for card. Unveiling, Effect Veiler, Pittore, Crowley and Haine are out.
+- **Extra Deck (13):** the 1701 list minus Charmer Quartet in Bloom and Favorite HERO Flame Wingman (not owned), and with 1 Vice-Madame instead of 2 (no UR CP for the second). Optional 14th card: a 2nd Pupils (R).
+
 ## 1701-rated list (9vyHwBpl5fOzPgl, Rating Duels, 21 Nov 2026)
 
 [MDM link](https://www.masterduelmeta.com/top-decks/rating-duels/november-2026/witchcrafter/9vyhwbpl5fozpgl/Ile9D). Same engine as Lewis's list; the differences are 8 Main Deck cards.
