@@ -10,6 +10,19 @@ Droll & Lock Bird 2, Rikka Petal 3, Maxx "C" 1, Ash 3, **Cactus Bouncer 1**, Pri
 
 **Extra Deck (21 Nov 2026):** Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna ×2, Orea, a Rank 4 (N), **Teardrop the Rikka Queen ×2**, Hyperyton, Teardrop the Rikka Sacred Queen, Sunavalon Dryas ×2, Sunvine, S:P Little Knight, plus one SR Link. The 2nd Teardrop lets you upgrade one into the Sacred Queen and still have a Teardrop when you make four Level 8s (22 of the last 100 MDM lists run 2).
 
+## The game plan (Rikka Discord, 21 Nov 2026)
+
+From fmproductions and BUTENUS REALUS in the MD Discord #rikka channel. Goal: **2-3 Xyz, set Rikka Sheet, Rikka Princess in the GY**.
+
+1. **Mudan → Konkon.** Every line starts by getting Mudan summoned by a Plant so it searches Konkon.
+2. **Rank 6 Sacred Queen Strenna** (two Level 6s). Detach 2 → **Rank 4 Rikka Queen Strenna**, attach **Rikka Princess** from the Deck (she lands in the GY later = free negate).
+3. **Konkon sets Moonlit Waters.** Activate it **Tributing Rank 4 Strenna** (with her material): add **Primrose**, send **Hellebore** to the GY. That one Tribute also triggers: Strenna → an Extra Deck monster (Hyperyton/Kanzashi), Sacred Queen Strenna → set **Rikka Sheet**, **Primrose** → herself + another Rikka.
+4. **Revive Hellebore** from the GY.
+5. **Primrose changes the monster she summoned to Level 8**, then Xyz it with **Hellebore** → **Teardrop**. **Keep Primrose on the field.**
+6. **On their turn, Primrose's Quick Effect** Xyz Summons **Teardrop the Rikka Sacred Queen** over Teardrop, so you get both Tributes.
+
+Mistakes to avoid: using Strenna's detach-to-add (it needs material to summon on Tribute); Xyz-ing Primrose away; improvising when a proven line fits.
+
 ## Proven lines with Cactus Bouncer (Yusodus, MDM combo database)
 
 Source: [Yusodus's Rikka guide](https://www.masterduelmeta.com/articles/guides/rikka-yusodus#pure) and the MDM combos "Pure Rikka: 1c June Moon" (Bouncer branch) and "Pure Rikka: 1.5c Black Princess (Bouncer)". "June Moon" = Rikka Moonlit Waters, "Empress Strenna" = Rikka Sacred Queen Strenna.
