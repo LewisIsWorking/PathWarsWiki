@@ -256,3 +256,18 @@ Builds tested: **Invoked** = Lewis's InvokedVsNatasha (Meowls ×2, TTT ×2, TT T
 | Orcust | 29 → 31 | 7 → 9 | 0 → 0 |
 
 Teching helps every deck a few points, but the order doesn't change: **InvokedVsNatasha stays the most reliable** (only deck above 30% even when hand traps do nothing). Witchcrafter's tech gains vanish if hand traps don't land, because its outs are Super Poly ×2 and Madame Verre, which no tech card adds to.
+
+### Adding breakers/starters (full break %, hand traps work / half / none)
+
+"+breakers" = the vs-Natasha build plus **Forbidden Droplet** (Lewis owns 3; send a monster so Dragoon or Chaos can't respond) and, for Witchcrafter, a 2nd Spell Power Mastery. Invoked: −Meowls ×2, −TT Thrust, +Droplet ×3. Witchcrafter: −Maxx, −1 Lacrima, −1 Unveiling, +Droplet ×2, +SPM.
+
+| Deck | vs Natasha | vs Rhino |
+| --- | --- | --- |
+| Witchcrafter | 34 / 21 / 18 | 46 / 32 / 12 |
+| Rikka | 35 / 20 / 15 | 63 / 44 / 17 |
+| Invoked | 36 / 35 / 33 | 64 / 42 / 20 |
+| Orcust | 26 / 6 / 0 | 37 / 25 / 4 |
+
+- Against Natasha the extra breakers barely move things: her own hand traps (Ash + Droll) are what stop you, and Dragoon is usually already gone to your hand traps. Invoked still leads.
+- Against Rhino, Droplet is a big upgrade for every deck (it answers Dark Law and a Chaos without a response).
+- **Spell Power Mastery count (Witchcrafter):** 1 → 2 → 3 copies: brick rate going first 11.0 → 10.4 → 8.5%; small gains going second. 3 is best in the model (cut Potterie and Crowley).

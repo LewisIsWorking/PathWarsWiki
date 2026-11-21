@@ -128,6 +128,8 @@ def evaluate(deck,opp,hand):
                 if "Infinite Impermanence" in keep: res["imperm_dl"]=True
                 if "Triple Tactics Talent" in keep: res["ttt"]=True
                 if deck=="Witchcrafter" and c["Unveiling"] and (c["Madame Verre"] or c["Walpurgis"] or c["Marka"]): res["mv"]=True
+                if c["Forbidden Droplet"]:   # send a monster: negate Dark Law + a Chaos, he can't respond with a monster effect
+                    res["veiler_dl"]=True; res["chaos"]=max(0,res["chaos"]-1)
             else:
                 pieces=["dragoon","sarc","hapi","duamutef","qeb"]
                 n=int(phaseA)+(1 if random.random()<phaseA-int(phaseA) else 0)
@@ -137,6 +139,7 @@ def evaluate(deck,opp,hand):
                 if "Triple Tactics Talent" in keep: res["ttt"]=True
                 if deck=="Witchcrafter" and c["Unveiling"] and (c["Madame Verre"] or c["Walpurgis"] or c["Marka"]) and res["dragoon"]:
                     res["dragoon"]=0   # Unveiling -> Madame Verre negates all her monsters incl. Dragoon
+                if c["Forbidden Droplet"] and res["dragoon"]: res["dragoon"]=0   # send a monster so Dragoon can't respond
             r=worst_case(deck,opp,cc,res)
             if best is None or r>best: best=r
     return best
