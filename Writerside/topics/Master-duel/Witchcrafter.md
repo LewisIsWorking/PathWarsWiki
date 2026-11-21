@@ -70,6 +70,75 @@ flowchart TD
     O5 --> O6["6. Fancy Ball: steal their Link-2 or lower"]
 ```
 
+### When they interrupt you (going first)
+
+Droll branch is Schwi 02 YT's MDM line "when hit by droll on field search using rilliona". The Veiler trick: Genni and Schmietta are Quick Effects, so chain them to the hand trap and the tribute cost moves them off the field first.
+
+```mermaid
+flowchart TD
+    START(["Going 1st: they interrupt you"]) --> Q{"What did they use?"}
+
+    Q -->|"Ash on Walpurgis search"| A1["Walpurgis stays on the field<br/>(its discard replacement still works)"]
+    A1 --> A2{"Second starter in hand?"}
+    A2 -->|"Creation"| A3["Creation: add Genni"]
+    A2 -->|"Spell Power Mastery"| A4["Add Verre the Maid, Special Summon her<br/>Verre adds Creation → Creation adds Genni"]
+    A2 -->|"No"| A5["Set nothing, keep Fuwalos/hand traps<br/>Play on your next turn"]
+    A3 --> MAIN["Back to main line step 2<br/>(Normal Summon Genni)"]
+    A4 --> MAIN
+
+    Q -->|"Veiler / Imperm on Genni"| V1["CHAIN Genni's Quick Effect in response<br/>(tribute is a cost, so Genni is gone)"]
+    V1 --> V2["Veiler / Imperm resolve with no target<br/>Schmietta summons as normal"]
+    V2 --> MAIN2["Continue main line step 4"]
+    V1 -.->|"Same trick"| V3["Works for Schmietta, Pittore, Potterie too"]
+
+    Q -->|"Ash on Genni's summon"| N1["Genni is in the GY (cost paid)<br/>Normal Summon already used"]
+    N1 --> N2["Creation / Spell Power Mastery → Verre the Maid<br/>Special Summon Verre (a Spell was activated)"]
+    N2 --> N3["Verre adds Celebration or Creation<br/>Rebuild toward Vice-Madame"]
+
+    Q -->|"Droll after your first search"| D1["No more adding from the Deck this turn<br/>Summons from the Deck still work"]
+    D1 --> D2["Genni: tribute, Walpurgis sends Celebration<br/>→ Schmietta"]
+    D2 --> D3["Schmietta: tribute, Walpurgis sends Distortion<br/>→ Haine"]
+    D3 --> D4["Schmietta GY: send Madame Verre"]
+    D4 --> D5["Genni GY + Celebration: Fusion<br/>Madame Verre + Schmietta + Genni<br/>→ Madame Rilliona"]
+    D5 --> D6["Rilliona: summon Pittore + Terracottan + Marka<br/>(different Attributes)"]
+    D6 --> D7["Terracottan: Fusion Rilliona + Terracottan<br/>→ Vice-Madame"]
+    D7 --> D8["Pittore: tribute, Walpurgis sends Creation<br/>→ Madame Verre<br/>⛓ Vice-Madame ADD → Distortion"]
+    D8 --> D9["End Phase: Creation adds itself from the GY<br/>⛓ Vice-Madame DESTROY your own Marka (frees a zone)<br/>Rilliona revives (reveal Creation)"]
+    D9 --> D10(["END: Haine · Vice-Madame · Madame Verre<br/>Rilliona · set Distortion"])
+```
+
+### Going second (board breaking)
+
+```mermaid
+flowchart TD
+    T1(["THEIR TURN 1"]) --> H["Hand traps on their combo<br/>Ash: first search · Veiler: key monster<br/>Fuwalos: early, before they start (you control no cards)"]
+    H --> T2(["YOUR TURN: break the board"])
+
+    T2 --> SP{"Super Polymerization in hand?"}
+    SP -->|"Yes"| SP1["Activate it FIRST, before anything else<br/>Discard 1 · nobody can respond<br/>Fuse 2 of THEIR monsters"]
+    SP1 --> SP2["Targets: Garura (same Type + Attribute)<br/>Starving Venom (2 DARK)<br/>Vice-Madame / Pupils (Witchcrafter + Spellcaster)"]
+    SP -->|"No"| U
+    SP2 --> U
+
+    U{"Unveiling + a Witchcrafter in hand?"}
+    U -->|"Yes"| U1["Unveiling: Special Summon Haine or Madame Verre<br/>From now on they can't respond to<br/>your Spellcaster effects this turn"]
+    U1 --> U2["Madame Verre: discard a Spell<br/>negate ALL their face-up monsters"]
+    U1 --> U3["Haine: discard a Spell<br/>destroy 1 face-up card<br/>(they can't target your other Spellcasters)"]
+    U -->|"No"| C
+
+    U2 --> C
+    U3 --> C
+    C["Run the main line<br/>Chain Vice-Madame DESTROY to your own Spells<br/>(Walpurgis, Creation, Gaze, Lacrima...)"]
+    C --> CE["Celebration / Pupils copy:<br/>destroy 1 of yours + 1 of theirs<br/>(Bystreet saves yours)"]
+    CE --> B["Battle<br/>Madame Verre reveal: +1000 ATK per<br/>different Spell in hand (any Spellcaster)"]
+    B --> L{"Lethal?"}
+    L -->|"Yes"| W(["Attack everything"])
+    L -->|"No"| P["Main Phase 2: set Distortion + Lacrima<br/>Keep a Spell in hand for Dragoon's negate"]
+
+    R1{{"Remember: summon in ATTACK position<br/>if you might attack this turn"}}
+    R1 -.-> B
+```
+
 ## Other starters (MDM, then join the main line)
 
 - **Marka + any discard** (Leon, 6 Sep 2026): Tribute Marka from hand → add **Walpurgis**. Then main line step 1.
