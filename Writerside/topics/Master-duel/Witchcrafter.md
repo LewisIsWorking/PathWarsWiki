@@ -172,6 +172,23 @@ Counts one-card starters **and two-card combos** (from card text):
 
 - **Empire of Endymion** (R): "add Regulus or a monster that mentions it" → **Verre, the Maid of Endymion** (mentions Regulus) → Special Summon Verre (a Spell was activated) → Verre adds **Walpurgis**. Same route as umiii's MDM line. UNTESTED in Lewis's list.
 
+## Card counts vs 30 recent top lists (MDM, 6–21 Nov 2026)
+
+Average copies across the 30 most recent Master Duel Meta Witchcrafter lists, against Lewis's list. Only rows that differ.
+
+| Card | Top lists (avg · % running it) | Lewis |
+| --- | --- | --- |
+| Witchcrafter Unveiling | 0.7 · 40% (17 of 30 run none; only murabitoC0115 runs 3) | 3 |
+| Mulcharmy Fuwalos | 2.7 · 96% | 1 |
+| Droll & Lock Bird | 1.7 · 86% | 0 |
+| Verre Magic - Lacrima of Light | 2.3 · 96% | 3 |
+| Effect Veiler | 1.2 · 50% | 2 |
+| Super Polymerization | 1.0 · 50% | 2 |
+| Witchcrafter Potterie | 0.2 · 23% | 1 |
+| Witchcrafter Pittore | 0.4 · 36% | 1 |
+
+**Suggested swap (UNTESTED):** −2 Unveiling, −1 Lacrima, −1 Effect Veiler → +2 Fuwalos, +2 Droll. Keep 1 Unveiling: it's the only way to Special Summon Madame Verre or Haine from hand. On its own it's a brick.
+
 ## Fundamentals
 
 - **The chain:** Genni (Lv1) and Schmietta (Lv4) are Quick Effects. Tribute itself + discard a Spell → Special Summon another Witchcrafter from the Deck.
