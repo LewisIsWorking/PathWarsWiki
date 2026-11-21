@@ -223,3 +223,23 @@ Earlier attempts (don't count): Yummy hand 1 on v1 (one-turn, smaller board) los
 - **Witchcraft outs:** Super Polymerization (Dragoon + a Son, no responses) and Unveiling + Madame Verre (negates all her monsters). Opening hand traps also pull Dragoon off her board.
 - **King's Sarcophagus only stops destruction that doesn't target.** Sending (Fusion material, tribute, Black Flame Deity) and negating aren't destruction, so the outs above still work. Witchcrafter's **Vice-Madame Destroy, Celebration and Pupils' copy don't target**, so they **can't destroy a Son**; use them on her Spells or Dragoon's backrow. **Haine targets**, so it can destroy a Son (until Qebehsenuef's protection is up).
 - **Rikka is better on paper** (Konkon tributes as a cost, so Dragoon can't stop it, and Rikka runs 13 hand traps), but Lewis doesn't own it (5 URs short).
+
+## Four-deck simulation v2: going second into Rhino and Natasha (21 Nov 2026)
+
+Script: `tools/deck-sim/full.py`. Decks: Witchcrafter (Lewis's 40), Rikka (xemnas43 1605), Invoked (Lewis's 16 Nov 40), Orcust (Acil16_'s Master I list, Lewis's source). 30,000 random 6-card hands per deck per opponent.
+
+**How it plays:** your hand traps are used on their turn 1 and each strips one piece of their board (Natasha: Dragoon first; Rhino: Chaos first). You can instead keep Veiler / Imperm / Dominus Impulse / Crossout / TTT for your turn (the model picks the better choice). On your turn the opponent's interruptions (Rhino: Contrast HERO Chaos negates + Dark Law; Natasha: Dragoon, Ash, Droll, Shining Sarcophagus) are assigned to whatever hurts you most. Super Polymerization can't be responded to. Card roles are from card text; it's a resource-exchange model, not a game engine.
+
+**Full break %** (board handled and your combo still runs). A = hand traps count fully on their turn; B = half; C = not at all.
+
+| Deck | Rhino A | Rhino B | Rhino C | Natasha A | Natasha B | Natasha C |
+| --- | --- | --- | --- | --- | --- | --- |
+| Witchcrafter | 22 | 14 | **6** | 24 | 16 | 16 |
+| Rikka | 51 | 28 | 1 | **31** | 15 | 12 |
+| Invoked | **72** | **35** | 4 | 30 | **29** | **24** |
+| Orcust | 27 | 15 | 0 | 29 | 7 | 0 |
+
+- **Invoked is the most consistent pick across both opponents:** 2 Super Polymerization, ~18 interaction cards, and Super Poly/Imperm answer Dark Law.
+- **Witchcrafter** is the least dependent on hand traps working (best vs Rhino if they don't), but has only 7 interaction cards.
+- **Orcust** dies to Dark Law (its engine lives in the GY) and to Shining Sarcophagus.
+- **Rikka** is great vs Rhino when its 13 hand traps land, weaker vs Natasha's Ash + Droll.
