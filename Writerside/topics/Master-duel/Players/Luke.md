@@ -143,8 +143,8 @@ Only when they have no monsters and nothing to stop it.
 
 Monsters (12): Raye ×3, Roze ×3, Droll & Lock Bird ×2 (Limited 2), Skull Meister ×2, PSY-Framegear Gamma ×1 (Limited 1), PSY-Frame Driver ×1.
 
-Spells (28): Engage! ×2 (use a 3rd Jamming Waves! until Engage! #2 is crafted), Linkage! ×1, Hornet Drones ×1 (Limited), Widow Anchor ×3, Forbidden Lance ×3, Forbidden Chalice ×3, Book of Moon ×3, Shark Cannon ×2, Mystical Space Typhoon ×3, Pot of Desires ×2, Pot of Extravagance ×1 (Limited), Gordian Slicer ×1, Afterburners! ×1, Jamming Waves! ×2.
+Spells (28): Engage! ×2 (use a 3rd Jamming Waves! until Engage! #2 is crafted), Linkage! ×1, Hornet Drones ×1 (Limited), Widow Anchor ×3, Forbidden Lance ×3, Forbidden Chalice ×3, Book of Moon ×3, Shark Cannon ×2, Mystical Space Typhoon ×3, Pot of Desires ×2, Gordian Slicer ×1, Afterburners! ×2, Jamming Waves! ×2.
 
-Out: Area Zero, Multirole, Enemy Controller, extra Afterburners!, Vector Blast, Eagle Booster.
+Out: Pot of Extravagance (Lewis: not wanted), Area Zero, Multirole, Enemy Controller, extra Afterburners!, Vector Blast, Eagle Booster.
 
 Next UR: Engage! (to 3), Linkage! (to 3), then Ash Blossom, Lemnisgate!.
