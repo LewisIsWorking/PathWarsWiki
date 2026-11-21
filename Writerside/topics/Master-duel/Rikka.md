@@ -185,3 +185,11 @@ Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell mate
 5. **Shining Sarcophagus** sends back a monster you summon from the GY if she discards a Spell: bait it with Black Princess before reviving anything important.
 6. **Super Poly**: Dragoon + a **DARK Predaplant of yours** → **Starving Venom** removes Dragoon without touching a Horus card (no Black Flame Deity trigger).
 7. **Evenly Matched** at the end of your Battle Phase banishes her extra cards face-down: no destruction, no targeting, and banished Sons can't come back.
+
+## How to learn PredaRikka (practice plan)
+
+1. **Learn the two halves separately.** Predap half: *starter → Lilizard → Bal Teah → Jasmine → Jasmine Tributes Byblisp → Petal or Black Princess*. Rikka half: *Mudan → Konkon → Sacred Queen Strenna → Rikka Queen Strenna (+Rikka Princess) → Tribute her → Hyperyton/Kanzashi + Sheet → Teardrop*. Jasmine is the bridge.
+2. **EDOPro drills in order:** Line B (shortest) → Line A → Glamour → Instant Fusion → Predaprimitive (longest). Do each until you can finish it without reading the puzzle message.
+3. **Say each step's purpose out loud** ("this Tribute triggers Primrose", "this detach puts Rikka Princess in the GY"). If you can't, that's the step to re-learn.
+4. **Self-check after every board:** 2-3 Xyz? Sheet set? Rikka Princess in the GY? Cactus last? A Plant in hand for Kanzashi?
+5. **Then going second:** the 10 random-hand puzzles. Before playing, write your order: Droplet → Tributes → Horus answer → Super Poly → Evenly Matched.
