@@ -148,3 +148,40 @@ End: Teardrop Sacred Queen, Hyperyton (Spell material), Kanzashi, Sacred Queen S
 **Going second:** Predaprimitive searches **Super Polymerization** (2 copies) for no-response removal; **Black Rose Dragon** destroys every card when Synchro Summoned; **Evenly Matched** and **Triple Tactics Thrust** are extra going-second outs; **Purulia** punishes decks that summon from the hand.
 
 **Lewis's PredaRikka Extra Deck (21 Nov 2026):** doesn't own Black Rose Dragon, Bramble Rose Dragon or Crystal Wing (all UR; Black Rose + Bramble Rose are both in the *Exquisite Jet-Black Rose* secret pack). Without them, skip the Bramble Rose → Black Rose steps of the proven line (Black Princess from the GY + Longinephila Synchro); the rest of the end board is unchanged. You lose Black Rose's going-second board wipe; Super Poly is the main breaker instead.
+
+## PredaRikka vs Natasha (21 Nov 2026, card text checked; lines below are proven unless marked)
+
+Her deck (from [Natasha](Natasha.md)): Droll 2, Ash 2, Maxx "C", Ghost Mourner, Dark Hole, Droplet, Triple Tactics Talent, Triple Tactics Thrust, Dark Magical Curtain; everything else needs Special Summons (Sons from the GY, Dark Magician of Destruction, Gaze → Dragoon, Horus the Black Flame Deity).
+
+### List changes (45 cards, all owned except where noted)
+- **Out:** Mulcharmy Purulia ×2 (she barely summons from the hand), Predapruning, 1 Fuwalos, Triple Tactics Thrust.
+- **In:** Droll ×2 (she searches with Imsety, Walls, Shining Sarcophagus, Future Silence, Dark Magician of Destruction), **Cactus Bouncer**, **Forbidden Droplet** (doesn't target, so it hits Dragoon; send a monster and Dragoon can't respond), Glamour #3 (Glamour is how you reach Cactus).
+
+### Going first: Cactus Bouncer lock (Yusodus, "Predarikka: 1c Primitive/Instant (Bouncer)")
+1. **Predaprimitive:** send **Byblisp**, add **Instant Fusion**. Byblisp (GY): add **Lilizard**. (Starting from Instant Fusion: Ambulomelides adds Predaprimitive; Predaprimitive sends Byblisp and adds **Super Poly**.)
+2. **Instant Fusion** → **Ambulomelides**; it adds **Longinephila**.
+3. Special Summon **Lilizard** from hand.
+4. **Ambulomelides:** Tribute itself → **Longinephila** from the Deck; it adds any Predap card.
+5. **Longinephila + Lilizard** → **Bal Teah**. Bal Teah: **Lilizard** from the GY (draw 1).
+6. **Longinephila (GY):** banish it, Predator Counter on anything. **Byblisp** revives from the GY (in the zone Jasmine will point to).
+7. **Bal Teah + Lilizard** → **Aromaseraphy Jasmine**, pointing at Byblisp. **Jasmine:** Tribute Byblisp → **Rikka Petal** from the Deck.
+8. **Petal:** send **Black Princess**. Black Princess from the GY. **Black Princess:** Tribute **Jasmine** → **Mudan**; Mudan adds **Konkon**. Konkon sets **Glamour**.
+9. Xyz **Mudan + Black Princess** → **Sacred Queen Strenna**. Detach 2 → **Kanzashi**, attach **Primrose**.
+10. **Glamour**, Tributing a spare Plant (the guide Tributes a Black Princess; Petal also works ?): add **Rikka Princess + Cactus Bouncer**. Chain: CL1 **Kanzashi** revives **Bal Teah**; CL2 Sacred Queen Strenna sets **Rikka Sheet**.
+11. Special Summon **Rikka Princess**. Xyz **Rikka Princess + Bal Teah** → **Rikka Queen Strenna**; detach Princess → add **Primrose** from the GY.
+12. **Normal Summon Cactus Bouncer.**
+
+End: Cactus Bouncer, Kanzashi, Rikka Queen Strenna, Sacred Queen Strenna, Konkon, set Rikka Sheet; Rikka Princess in the GY; **Primrose + Super Poly in hand**.
+
+**Her turn:** she can't Special Summon (no Sons from the GY, no Dark Magician of Destruction, no Dragoon, no Horus). Dark Hole → Kanzashi Tributes **Primrose from hand** instead. **Don't activate monster effects in her Main Phase unless you must**: that's what turns on her Triple Tactics Talent / Thrust. Use **Rikka Sheet** (a Trap) first.
+
+Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell material + Cactus) and Line B (Black Princess + Plant → Hyperyton + Cactus) above.
+
+### Going second (UNTESTED plan, from card text)
+1. **Her turn:** Droll after her first search (Imsety's search or Walls). Ash on Imsety's / Shining Sarcophagus's search. Maxx "C" on her first Special Summon. Stopping the board beats breaking it.
+2. **Your turn, first card: Forbidden Droplet**, sending a **monster** (a dead Fuwalos is ideal): she can't respond with Dragoon. Choose **Dragoon** and as many **Sons** as you can pay for; negated Sons can't use their float effects this turn.
+3. **Then remove with Tributes, not destruction:** Konkon's cost-Tribute, Teardrop the Rikka Sacred Queen (sends King's Sarcophagus and Walls, then Tributes). Tributing beats King's Sarcophagus and Dragoon's protection.
+4. **Horus the Black Flame Deity** (from her hand) triggers when a Horus card leaves by your effect: answer it with **Rikka Princess** (hand or GY, needs a Rikka monster on your field) or **Dominus Impulse**.
+5. **Shining Sarcophagus** sends back a monster you summon from the GY if she discards a Spell: bait it with Black Princess before reviving anything important.
+6. **Super Poly**: Dragoon + a **DARK Predaplant of yours** → **Starving Venom** removes Dragoon without touching a Horus card (no Black Flame Deity trigger).
+7. **Evenly Matched** at the end of your Battle Phase banishes her extra cards face-down: no destruction, no targeting, and banished Sons can't come back.
