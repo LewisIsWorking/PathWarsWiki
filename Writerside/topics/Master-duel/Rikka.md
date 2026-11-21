@@ -43,11 +43,14 @@ Record which ending you used in the game log below.
 - **Pupils-style "one effect per turn" trap:** check every "activate 1 of these effects" card before planning two uses.
 - **Konkon's replacement Tribute** (Tribute their monster instead of your Plant) is once per turn **per copy**: if they destroy Konkon, Mudan can search the second copy.
 - **Going second with Fuwalos:** activate it on their first search while you control no cards.
+- **A negated Rikka monster is still a Plant body:** after Destined Rivals / Imperm, use it as Xyz material.
+- **Vs Blue-Eyes:** Tribute Jet Dragon with Konkon (no targeting, no destruction). True Light's wipe only works if it reaches the GY and Spirit Dragon isn't up.
 - Upgrade Teardrop into the Sacred Queen on **their** turn (Primrose), not yours: you get both Tributes.
 
 ## Game log
 
 | Date | Opponent | Turn | Result | Notes |
 | --- | --- | --- | --- | --- |
+| 21 Nov 2026 | Blue-Eyes (ranked) | 2nd | **Won** (turn 6) | Destined Rivals negated Black Princess, but she was still Xyz material. Konkon + Glamour Tributed Blue-Eyes Jet Dragon; built Teardrop the Rikka Sacred Queen + Sacred Queen Strenna + Primrose. True Light set Return of the Dragon Lords. Ground them down with Hyperyton and Rikka Sheet; won turn 6. |
 | 21 Nov 2026 | Charmer / Familiar-Possessed (ranked) | 2nd | **Won** (time limit) | Fuwalos on Spellbook of the Grand Circle drew a big hand. Possessed Partnerships destroyed Konkon; Mudan searched Konkon #2 and its replacement Tribute took their 4050. Ended Teardrop the Rikka Sacred Queen, Sacred Queen Strenna, Primrose, Black Princess, Primula. Foolish Burial unused (next turn: send Black Princess, revive her). They ran out the clock on turn 3. |
 | 21 Nov 2026 | Rising Pyroxene (solo) | 1st | **Won** | Line 1 from Petal. Short combo, plenty of time on the clock. Won turn 3. |
