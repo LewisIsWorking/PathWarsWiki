@@ -194,11 +194,20 @@ Counts one-card starters **and two-card combos** (from card text):
 - **Unused Vice-Madame effects aren't wasted:** chain them later to Terracottan (Summon from hand), Pittore (Add) and Haine (Destroy).
 - **Vs Cyber Dragon:** Clockwork Night makes every monster a Machine, so Chimeratech and Super Polymerization can use yours. Destroy it first. Pupils copying Celebration plus Bystreet is a free destroy.
 - **Missed chain recovery:** if you forget to chain Vice-Madame to Schmietta, chain it to Gaze (Summon Verre the Maid), then to Verre's search (Add Distortion). You still end on Dragoon + Pupils + Lacrima + Distortion.
+- **Lead with the search you can afford to lose** (21 Nov, twice). If your hand has Spell Power Mastery or Creation, use it before Walpurgis. Rhino's Chaos and savic's Dominus Purge both hit Walpurgis first, and without Walpurgis every Genni/Schmietta/Haine/Madame Verre cost is a real Spell from hand.
+- **Pupils copying Celebration uses up Celebration for the turn** (21 Nov vs Rhino): Master Duel greyed out the Celebration in hand afterwards. Pick one: Pupils' copy, or activating it from hand.
+- **Genni, the Maid of Endymion needs no discard:** Special Summon her while you control a Spellcaster, then banish a Spellcaster you control (herself is fine) → any Witchcrafter from the Deck. It's the engine that still works with Walpurgis gone.
+- **Vs Dark Law (Rhino):** anything sent to your GY is banished, so Terracottan's hand effect and all GY effects are dead. Route: Spell Power Mastery → Genni, the Maid → Verre → Creation → Terracottan (Normal Summon) → Fusion.
+- **Mulcharmy Fuwalos needs you to control no cards.** After going first it's dead.
+- **Distortion needs a Level 5+ Witchcrafter on the field.** Vice-Madame (Level 8) counts.
+- **Vs Blue-Eyes (True Light):** if True Light goes from the field to the GY, it destroys all their monsters. Haine or Vice-Madame on True Light is a board wipe. But **Blue-Eyes Spirit Dragon** negates one GY effect activation per turn, and it negated True Light's wipe. Kill Spirit Dragon first, or hit True Light after its negate is used. Ghost Belle negated Gaze (it targets Dark Magician of Destruction in the GY).
 
 ## Game log
 
 | Date | Opponent | Turn | Result | Notes |
 | --- | --- | --- | --- | --- |
+| 21 Nov 2026 | IG:savic_r97 (Blue-Eyes, ranked) | 1st | **Lost** | Dominus Purge on Walpurgis's search, Veiler on Verre the Maid, Ghost Belle on Gaze. Still ended on Vice-Madame, Bystreet, set Distortion. Turn 3: 5900 damage (they were on 2100). Turn 5: Haine destroyed Indigo-Eyes; **Haine on True Light would have won** (it wipes their board). Turn 6: Haine hit True Light, but Spirit Dragon negated the wipe. Lost to their 4 big Dragons and the turn timer. |
+| 21 Nov 2026 | Rhino (HEROes, friendly) | 2nd | Not recorded | His board: Chaos ×2, Sunrise, Dark Law, set Neos fusion. Chaos ×2 negated Walpurgis and Lacrima; Dark Law banished Celebration from hand; Shining Neos Wingman destroyed Bystreet and Walpurgis. Rebuilt: Spell Power Mastery → Genni, the Maid (Unveiling) → Verre → Creation → Terracottan → Pupils → Vice-Madame. Pupils' Celebration copy locked the Celebration in hand. |
 | 21 Nov 2026 | KHAOTICA101 (Cyber Dragon) | 1st | **Won** | Full main line from Walpurgis + Pittore discard; end board Dragoon, Vice-Madame, Pupils, Fancy Ball, Bystreet, set Distortion/Lacrima. Their Clockwork Night turned the board into Machines (Chimeratech/Super Poly material): Pupils copied Celebration to destroy it, with Bystreet saving the Witchcrafter. |
 | 21 Nov 2026 | Luke (Sky Striker, friendly) | 2nd | **Won** | Walpurgis + Spell Power Mastery start. Banished Creation instead of Celebration with Genni, and Gazed before Cross-Sheep; recovered with Celebration → Vice-Madame, Terracottan → Pupils, Pittore → Haine. Won turn 5. |
 | 21 Nov 2026 | Luke (Sky Striker, friendly) | 2nd | **Won** | Full main line off Marka + Walpurgis. Kept Skull Meister alive until battle so his Sky Striker spells stayed off. |
