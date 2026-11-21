@@ -1,0 +1,39 @@
+# Rikka
+
+Lewis's Rikka deck (built 21 Nov 2026). Main Deck matches **xemnas43's Master I list (6 Nov 2026)** except Droll ×2 in place of Triple Tactics Talent ×2.
+
+## Main Deck (40)
+
+Droll & Lock Bird 2, Rikka Petal 3, Maxx "C" 1, Ash 3, Primula 1, Rikka Princess 2, Mulcharmy Fuwalos 3, Snowdrop 1, Mudan 2, Rikka Black Princess 3, Hellebore 1, Primrose 2, Foolish Burial 1, Rikka Glamour 3, Rikka Moonlit Waters 3, Rikka Konkon 2, Infinite Impermanence 3, Rikka Sheet 1, Dominus Impulse 3.
+
+## Line 1: Rikka Petal (or Glamour) alone
+
+Source: **"Pure Rikka: 1c Petal/Glamour"**, Yusodus, MDM combo database, first ending (Teardrop + Hyperyton + Sacred Strenna). Played 21 Nov 2026 (solo): won turn 3.
+
+1. Normal Summon **Rikka Petal**.
+2. **Petal:** send **Black Princess** from the Deck to the **GY** (Droll can't stop a send). Plant-only lock for the turn.
+3. Special Summon **Black Princess** from the GY.
+4. **Black Princess:** Tribute Petal → Special Summon **Mudan** from the Deck.
+5. **Mudan:** add **Rikka Konkon**. Activate it.
+6. **Konkon:** set **Moonlit Waters** (or Glamour if Moonlit is already in hand).
+7. Xyz **Mudan + Black Princess** (Level 6) → **Rikka Sacred Queen Strenna**.
+8. **Sacred Queen Strenna:** detach 2 → **Rikka Queen Strenna** in Defence, attach **Rikka Princess** from the Deck.
+9. **Moonlit Waters** (no Tribute): add **Primrose**, send **Hellebore** to the GY.
+10. **Hellebore (GY):** Tribute Rikka Queen Strenna → Special Summon Hellebore. Chain order: CL1 **Rikka Queen Strenna** → **Hyperyton** (attach Strenna); CL2 **Sacred Queen Strenna** → set **Rikka Sheet**; CL3 **Primrose** → Primrose + **Black Princess #2** from the Deck.
+11. **Primrose:** Black Princess Level +2 (to 8). Chain **Hyperyton**: attach **Mudan** from the GY.
+12. Xyz **Black Princess + Hellebore** (Level 8) → **Teardrop the Rikka Queen**.
+
+**End:** Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Konkon, set Rikka Sheet.
+
+**Their turn (UNTESTED order, from card text):** Teardrop Tributes first (Quick, it has Plant material) → Primrose's Quick Xyz turns Teardrop into **Teardrop the Rikka Sacred Queen** → Sacred Queen sends Spells/Traps (as many as materials detached) and Tributes again. Hyperyton negates by detaching a material of the same card type.
+
+## Lessons
+
+- **Pupils-style "one effect per turn" trap:** check every "activate 1 of these effects" card before planning two uses.
+- Upgrade Teardrop into the Sacred Queen on **their** turn (Primrose), not yours: you get both Tributes.
+
+## Game log
+
+| Date | Opponent | Turn | Result | Notes |
+| --- | --- | --- | --- | --- |
+| 21 Nov 2026 | Rising Pyroxene (solo) | 1st | **Won** | Line 1 from Petal. Short combo, plenty of time on the clock. Won turn 3. |
