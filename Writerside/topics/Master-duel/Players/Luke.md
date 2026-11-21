@@ -148,3 +148,6 @@ Spells (28): Engage! ×2 (use a 3rd Jamming Waves! until Engage! #2 is crafted),
 Out: Pot of Extravagance (Lewis: not wanted), Area Zero, Multirole, Enemy Controller, extra Afterburners!, Vector Blast, Eagle Booster.
 
 Next UR: Engage! (to 3), Linkage! (to 3), then Ash Blossom, Lemnisgate!.
+
+### Lesson (21 Nov 2026)
+- **Ace = Zero: only 1 of its effects per turn.** Taking its on-summon search locks its Quick Effect (Raye + Roze, destroy) for that turn. In an OTK, say **No** to the search (MDM combos say "say NO to trigger").
