@@ -10,6 +10,36 @@ Droll & Lock Bird 2, Rikka Petal 3, Maxx "C" 1, Ash 3, **Cactus Bouncer 1**, Pri
 
 **Extra Deck (21 Nov 2026):** Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna ×2, Orea, a Rank 4 (N), **Teardrop the Rikka Queen ×2**, Hyperyton, Teardrop the Rikka Sacred Queen, Sunavalon Dryas ×2, Sunvine, S:P Little Knight, plus one SR Link. The 2nd Teardrop lets you upgrade one into the Sacred Queen and still have a Teardrop when you make four Level 8s (22 of the last 100 MDM lists run 2).
 
+## Proven lines with Cactus Bouncer (Yusodus, MDM combo database)
+
+Source: [Yusodus's Rikka guide](https://www.masterduelmeta.com/articles/guides/rikka-yusodus#pure) and the MDM combos "Pure Rikka: 1c June Moon" (Bouncer branch) and "Pure Rikka: 1.5c Black Princess (Bouncer)". "June Moon" = Rikka Moonlit Waters, "Empress Strenna" = Rikka Sacred Queen Strenna.
+
+### A. Moonlit Waters alone → Hyperyton with a Spell material + Cactus (beats Dark Hole)
+
+1. **Moonlit Waters** (no Tribute): add **Mudan**, send **Black Princess** to the GY.
+2. Special Summon **Black Princess** from the GY.
+3. **Black Princess:** Tribute **herself** → **Rikka Petal** from the Deck.
+4. **Petal:** add **Primrose**.
+5. **Mudan** (hand): Tribute **Petal** → Mudan. Chain: CL1 **Mudan** adds **Konkon**; CL2 **Primrose** → Primrose + **Hellebore** from the Deck.
+6. **Konkon:** set **Glamour**.
+7. **Primrose:** Hellebore Level −2 (to 6).
+8. Xyz **Mudan + Hellebore** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Rikka Princess**.
+9. **Hellebore (GY):** Tribute **Rikka Queen Strenna** → Hellebore. Chain: CL1 Strenna → **Hyperyton** (attach Strenna); CL2 Sacred Queen Strenna → set **Rikka Sheet**.
+10. **Glamour**, Tributing **Sacred Queen Strenna**; **chain Hyperyton: attach Moonlit Waters** (a Spell). Glamour adds **Rikka Princess + Cactus Bouncer**.
+11. Special Summon **Rikka Princess** from hand. **Normal Summon Cactus Bouncer.**
+
+End: Hyperyton (monster + Spell material: negates a monster effect **or** a Spell like Dark Hole), Hellebore, Primrose, Rikka Princess, Cactus Bouncer, Konkon, set Rikka Sheet.
+
+### B. Black Princess + any Plant → Hyperyton + Cactus
+
+1. Special Summon **Black Princess**. Tribute the **other Plant** (hand) → **Mudan** from the Deck. **Mudan:** add **Konkon**. **Konkon:** set **Glamour**.
+2. Xyz **Mudan + Black Princess** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Rikka Princess**.
+3. **Glamour**, Tributing **Rikka Queen Strenna**: add **Rikka Princess + Cactus Bouncer**. Chain: CL1 Strenna → **Hyperyton**; CL2 Sacred Queen Strenna → set **Rikka Sheet**.
+4. Special Summon **Rikka Princess** from hand; **chain Hyperyton: attach Mudan** from the GY.
+5. **Normal Summon Cactus Bouncer.**
+
+End: Hyperyton (monster materials only: no Spell negate), Sacred Queen Strenna, Rikka Princess, Cactus Bouncer, Konkon, set Rikka Sheet.
+
 ## Line 1: Rikka Petal (or Glamour) alone
 
 Source: **"Pure Rikka: 1c Petal/Glamour"**, Yusodus, MDM combo database, first ending (Teardrop + Hyperyton + Sacred Strenna). Played 21 Nov 2026 (solo): won turn 3.
@@ -31,7 +61,7 @@ Source: **"Pure Rikka: 1c Petal/Glamour"**, Yusodus, MDM combo database, first e
 
 **Their turn (UNTESTED order, from card text):** Teardrop Tributes first (Quick, it has Plant material) → Primrose's Quick Xyz turns Teardrop into **Teardrop the Rikka Sacred Queen** → Sacred Queen sends Spells/Traps (as many as materials detached) and Tributes again. Hyperyton negates by detaching a material of the same card type.
 
-## Line 2: two Teardrops + Cactus Bouncer (UNTESTED, from card text)
+## Line 2: two Teardrops + Cactus Bouncer (UNTESTED, from card text; prefer the proven lines above)
 
 Hand: Black Princess, Rikka Princess, Mudan, Moonlit Waters (+ Droll).
 
