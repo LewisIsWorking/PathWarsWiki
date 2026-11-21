@@ -243,3 +243,16 @@ Script: `tools/deck-sim/full.py`. Decks: Witchcrafter (Lewis's 40), Rikka (xemna
 - **Witchcrafter** is the least dependent on hand traps working (best vs Rhino if they don't), but has only 7 interaction cards.
 - **Orcust** dies to Dark Law (its engine lives in the GY) and to Shining Sarcophagus.
 - **Rikka** is great vs Rhino when its 13 hand traps land, weaker vs Natasha's Ash + Droll.
+
+### "vs Natasha" builds (same model, Natasha only, full break %)
+
+Builds tested: **Invoked** = Lewis's InvokedVsNatasha (Meowls ×2, TTT ×2, TT Thrust, 3 Invocation, 3 Invoke Sword, Imperm ×1). **Witchcrafter** = −Crowley, −Bystreet, −Potterie, −1 Lacrima, +Imperm ×2, +Crossout, +Ghost Ogre (all owned). **Rikka** = −Fallen & Virtuous ×2, +Crossout, +Ghost Ogre. **Orcust** = −Maxx, −Purulia, +Ghost Ogre ×2.
+
+| Deck | Hand traps work: normal → vs-Natasha | Half | Not at all |
+| --- | --- | --- | --- |
+| Witchcrafter | 24 → 32 | 16 → 19 | 15 → 15 |
+| Rikka | 32 → 37 | 16 → 20 | 13 → 14 |
+| Invoked | 30 → 35 | 29 → 34 | 24 → **31** |
+| Orcust | 29 → 31 | 7 → 9 | 0 → 0 |
+
+Teching helps every deck a few points, but the order doesn't change: **InvokedVsNatasha stays the most reliable** (only deck above 30% even when hand traps do nothing). Witchcrafter's tech gains vanish if hand traps don't land, because its outs are Super Poly ×2 and Madame Verre, which no tech card adds to.
