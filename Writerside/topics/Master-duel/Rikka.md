@@ -31,6 +31,21 @@ Source: **"Pure Rikka: 1c Petal/Glamour"**, Yusodus, MDM combo database, first e
 
 **Their turn (UNTESTED order, from card text):** Teardrop Tributes first (Quick, it has Plant material) → Primrose's Quick Xyz turns Teardrop into **Teardrop the Rikka Sacred Queen** → Sacred Queen sends Spells/Traps (as many as materials detached) and Tributes again. Hyperyton negates by detaching a material of the same card type.
 
+## Line 2: two Teardrops + Cactus Bouncer (UNTESTED, from card text)
+
+Hand: Black Princess, Rikka Princess, Mudan, Moonlit Waters (+ Droll).
+
+1. **Moonlit Waters** (no Tribute): add **Primrose**, send **Hellebore** to the GY. Do this first so Primrose is in hand for the first Tribute.
+2. Special Summon **Black Princess**, then **Rikka Princess**, from hand.
+3. **Black Princess:** Tribute **Mudan from your hand** → **Mudan** from the Deck. Triggers: Mudan adds **Glamour**; **Primrose** → Primrose + **Primula** from the Deck. Five monsters on field.
+4. **Primula:** Black Princess and Rikka Princess +2 (8 and 6). **Primrose:** Rikka Princess +2 (8).
+5. **Hellebore (GY):** Tribute **Primula** → Hellebore (8).
+6. **Glamour**, Tributing **Mudan** (the leftover Level 6): add **Rikka Princess #2** + **Cactus Bouncer**.
+7. Xyz **Black Princess + Rikka Princess** → Teardrop; **Primrose + Hellebore** → Teardrop #2. Upgrade one into **Teardrop the Rikka Sacred Queen**.
+8. **Normal Summon Cactus Bouncer** last.
+
+End: Sacred Queen, Teardrop, Cactus Bouncer; Rikka Princess #2 + Droll in hand. Rikka Princess's hand summon is once per turn, so the second copy stays in hand as a negate.
+
 ## End board options to try
 
 | Ending | Strength | Weakness |
