@@ -53,14 +53,22 @@ flowchart TD
     CR --> X["10. Verre + Dark Magician<br/>→ Cross-Sheep"]
     X --> DR["11. Gaze → Dragoon<br/>on a Cross-Sheep arrow<br/>Cross-Sheep revives Verre"]
     DR --> FB["12. Verre + Cross-Sheep<br/>→ W:P Fancy Ball"]
-    FB --> T["13. Terracottan: add Verre, summon itself<br/>Terracottan + Verre → Pupils<br/>Pupils adds Lacrima"]
-    T --> SET["14. Set Distortion + Lacrima"]
+    FB --> T["13. Terracottan: add Verre, summon itself<br/>Terracottan + Verre → Pupils"]
+    T --> RQ{"Madame Verre in your GY?<br/>(discard her to Walpurgis in step 1)"}
+    RQ -->|"No"| L1["Pupils adds Lacrima"]
+    L1 --> SET["14. Set Distortion + Lacrima"]
+    RQ -->|"Yes: big boss ending"| R1["Pupils adds Celebration"]
+    R1 --> R2["Pupils reveals Celebration: Fusion<br/>shuffle Madame Verre + Verre + Terracottan from GY<br/>→ MADAME RILLIONA (3800)"]
+    R2 --> R3["Rilliona: summon Haine from Deck<br/>(only 1 zone left)"]
+    R3 --> SETR["14. Set Distortion<br/>Celebration stays in hand (only revealed)"]
+    SETR --> EP
     SET --> EP["15. End Phase: Pupils returns Celebration<br/>Celebration adds itself to hand"]
     EP --> END(["END BOARD<br/>Dragoon · Vice-Madame · Pupils · Fancy Ball<br/>set Distortion + Lacrima · Celebration in hand"])
 
     RULE{{"Rule: Extra Deck plays BEFORE Terracottan<br/>(it locks you to Witchcrafter Extra Deck)"}}
     RULE -.-> X
 
+    EP --> ENDR(["If Rilliona: + Rilliona · Haine, no Lacrima<br/>Rilliona revives herself in your End Phase if destroyed"])
     END --> OPP["THEIR TURN, in order"]
     OPP --> O1["1. Vice-Madame DESTROY<br/>on their first Spell / key card"]
     O1 --> O2["2. Pupils copies Celebration<br/>destroy 1 of theirs (Bystreet saves yours)"]
