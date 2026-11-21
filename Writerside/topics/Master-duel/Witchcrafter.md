@@ -153,6 +153,19 @@ flowchart TD
 - **Creation (or Spell Power Mastery) + any card** (Plushpuff, 23 Sep 2026): Creation → add **Verre, the Maid of Endymion**. Verre: Special Summon from hand (a Spell was activated this turn) → add **Walpurgis**. Then main line step 1. Creation is used up for the turn, so Plushpuff gets Terracottan through Vice-Madame / Endymion instead. If that's not available, have Walpurgis add Terracottan (UNTESTED).
 - **Walpurgis + any discard**: the main line above (Dkayedstepson; Schwi's version is similar).
 
+## Consistency (brick % going first, 5 cards, 200,000 sims, 21 Nov 2026)
+
+"Brick" = no one-card starter (Walpurgis, Marka, Creation, Spell Power Mastery, Empire of Endymion) and no Genni/Schmietta/Pittore/Potterie + Spell.
+
+| Build | Brick |
+| --- | --- |
+| Current (1 Spell Power Mastery) | 11.1% |
+| 3 Spell Power Mastery (cut Potterie, Crowley) | 8.6% |
+| + 3 **Empire of Endymion** (R; cut Maxx "C", 1 Unveiling, 1 Lacrima) | **4.4%** |
+
+- **Empire of Endymion:** "add Regulus or a monster that mentions it" → **Verre, the Maid of Endymion** mentions Regulus → Special Summon Verre (a Spell was activated) → Verre adds **Walpurgis** → main line. Matches umiii's MDM line (Regulus → Empire → Verre). UNTESTED in Lewis's list.
+- For comparison, same rule: Invoked 8.1%, Rikka ~15% (Rikka also has 2-card starters this rule doesn't count).
+
 ## Fundamentals
 
 - **The chain:** Genni (Lv1) and Schmietta (Lv4) are Quick Effects. Tribute itself + discard a Spell → Special Summon another Witchcrafter from the Deck.
