@@ -208,3 +208,17 @@ EDOPro puzzles in `tools/edopro-puzzles/v3`. Her end board: Red-Eyes Dark Dragoo
 Witchcrafter list assumed = murabitoC0115's 1604 Rating Duels list (10 Nov 2026) minus Confusion Confession, with Lewis's Extra Deck (Mudragon, Starving Venom in place of Flame Wingman and a 2nd Vice-Madame).
 
 Earlier attempts (don't count): Yummy hand 1 on v1 (one-turn, smaller board) lost; Invoked hand 1 on v2 (old Invoked list, one turn) lost.
+
+## Hand simulation: Witchcrafter vs Rikka into her board (21 Nov 2026, rough model)
+
+300,000 random going-second hands (6 cards) per deck. Witchcrafter = Lewis's WitchCrafterRd1604 (40); Rikka = xemnas43's Rating Duels list (1605). Same rule as the puzzles: each of your hand traps removes one piece of her board on her turn, Dragoon first; on your turn she still holds Ash + Droll. This is a hand-scoring model from card text, not a game engine.
+
+| | Witchcrafter | Rikka |
+| --- | --- | --- |
+| Full break (Dragoon handled + her board wiped, combo survives her Ash/Droll) | 18% | 54% |
+| Partial (Dragoon handled, combo runs) | 33% | n/a |
+| Brick | 6% | 10% |
+
+- **Her weak point is Black Flame Deity:** when a Son leaves her field by your effect, it wipes **all other monsters**, including her own Sons and Dragoon. Any non-targeting removal of a Son (Super Polymerization, Rikka Konkon's tribute) clears her side.
+- **Witchcraft outs:** Super Polymerization (Dragoon + a Son, no responses) and Unveiling + Madame Verre (negates all her monsters). Opening hand traps also pull Dragoon off her board.
+- **Rikka is better on paper** (Konkon tributes as a cost, so Dragoon can't stop it, and Rikka runs 13 hand traps), but Lewis doesn't own it (5 URs short).
