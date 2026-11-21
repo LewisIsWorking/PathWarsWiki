@@ -146,3 +146,5 @@ lmt's Extra Deck: Ambulomelides, Garura, Daredevil, Starving Venom, Secreterion,
 End: Teardrop Sacred Queen, Hyperyton (Spell material), Kanzashi, Sacred Queen Strenna, Bramble Rose, Black Rose, Konkon, set Rikka Sheet, Rikka Princess in GY, Super Polymerization in hand.
 
 **Going second:** Predaprimitive searches **Super Polymerization** (2 copies) for no-response removal; **Black Rose Dragon** destroys every card when Synchro Summoned; **Evenly Matched** and **Triple Tactics Thrust** are extra going-second outs; **Purulia** punishes decks that summon from the hand.
+
+**Lewis's PredaRikka Extra Deck (21 Nov 2026):** doesn't own Black Rose Dragon, Bramble Rose Dragon or Crystal Wing (all UR; Black Rose + Bramble Rose are both in the *Exquisite Jet-Black Rose* secret pack). Without them, skip the Bramble Rose → Black Rose steps of the proven line (Black Princess from the GY + Longinephila Synchro); the rest of the end board is unchanged. You lose Black Rose's going-second board wipe; Super Poly is the main breaker instead.
