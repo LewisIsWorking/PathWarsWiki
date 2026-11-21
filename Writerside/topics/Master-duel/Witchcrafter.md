@@ -153,18 +153,24 @@ flowchart TD
 - **Creation (or Spell Power Mastery) + any card** (Plushpuff, 23 Sep 2026): Creation → add **Verre, the Maid of Endymion**. Verre: Special Summon from hand (a Spell was activated this turn) → add **Walpurgis**. Then main line step 1. Creation is used up for the turn, so Plushpuff gets Terracottan through Vice-Madame / Endymion instead. If that's not available, have Walpurgis add Terracottan (UNTESTED).
 - **Walpurgis + any discard**: the main line above (Dkayedstepson; Schwi's version is similar).
 
-## Consistency (brick % going first, 5 cards, 200,000 sims, 21 Nov 2026)
+## Consistency (brick % going first, 5 cards, 300,000 sims, 21 Nov 2026)
 
-"Brick" = no one-card starter (Walpurgis, Marka, Creation, Spell Power Mastery, Empire of Endymion) and no Genni/Schmietta/Pittore/Potterie + Spell.
+Counts one-card starters **and two-card combos** (from card text):
+- Witchcrafter: Walpurgis, Marka, Creation, Spell Power Mastery, Empire of Endymion; or Genni/Schmietta/Pittore/Potterie + any Spell; or Verre the Maid + Unveiling.
+- Rikka: Petal, Black Princess, Glamour, Moonlit Waters, Foolish Burial; or Mudan / Konkon + Rikka Princess or Primula.
+- Invoked: Aleister, Aiwass, Magical Meltdown, Sacred Spirit Sword (Reminiscent needs a Spellcaster or Fusion on the field, so it isn't a starter going first).
+- Orcust: Girsu, Diabellstar, WANTED, Foolish Burial; or Deception + a monster.
 
-| Build | Brick |
+| Deck | Brick |
 | --- | --- |
-| Current (1 Spell Power Mastery) | 11.1% |
-| 3 Spell Power Mastery (cut Potterie, Crowley) | 8.6% |
-| + 3 **Empire of Endymion** (R; cut Maxx "C", 1 Unveiling, 1 Lacrima) | **4.4%** |
+| Witchcrafter (current, 1 SPM) | 10.2% |
+| Witchcrafter, 3 Spell Power Mastery (cut Potterie, Crowley) | 7.9% |
+| Witchcrafter, 3 SPM + 3 **Empire of Endymion** (cut Maxx "C", 1 Unveiling, 1 Lacrima) | **4.0%** |
+| Rikka (xemnas43) | 11.4% |
+| Invoked (Lewis's) | 14.9% |
+| Orcust (Acil16_) | 27.0% (20 hand traps) |
 
-- **Empire of Endymion:** "add Regulus or a monster that mentions it" → **Verre, the Maid of Endymion** mentions Regulus → Special Summon Verre (a Spell was activated) → Verre adds **Walpurgis** → main line. Matches umiii's MDM line (Regulus → Empire → Verre). UNTESTED in Lewis's list.
-- For comparison, same rule: Invoked 8.1%, Rikka ~15% (Rikka also has 2-card starters this rule doesn't count).
+- **Empire of Endymion** (R): "add Regulus or a monster that mentions it" → **Verre, the Maid of Endymion** (mentions Regulus) → Special Summon Verre (a Spell was activated) → Verre adds **Walpurgis**. Same route as umiii's MDM line. UNTESTED in Lewis's list.
 
 ## Fundamentals
 
