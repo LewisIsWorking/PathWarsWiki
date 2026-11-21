@@ -143,8 +143,8 @@ Only when they have no monsters and nothing to stop it.
 
 Monsters (10): Raye ×3, Roze ×3, Droll & Lock Bird ×2, Skull Meister ×2.
 
-Spells (30): Engage! ×2, Linkage! ×1, Hornet Drones ×1 (Limited), Widow Anchor ×3, Shark Cannon ×1, Mystical Space Typhoon ×3, Forbidden Lance ×3, Forbidden Chalice ×3 (R craft), Book of Moon ×2 (R craft), Pot of Desires ×2, Pot of Extravagance ×1 (SR craft, Limited), Gordian Slicer ×1, Area Zero ×1, Multirole ×1, Afterburners! ×1, Jamming Waves! ×1, Enemy Controller ×1 (N craft).
+Spells (30): Engage! ×2, Linkage! ×1, Hornet Drones ×1 (Limited), Widow Anchor ×3, Shark Cannon ×1, Mystical Space Typhoon ×3, Forbidden Lance ×3, Forbidden Chalice ×3 (R craft), Book of Moon ×2 (R craft), Pot of Desires ×2, Pot of Extravagance ×1 (SR craft, Limited), Gordian Slicer ×1, Afterburners! ×1, Jamming Waves! ×2, Enemy Controller ×1 (N craft), Shark Cannon #2 or Book of Moon #3 (1 flex slot).
 
-Out: Afterburners! and Jamming Waves! down to 1 each, Vector Blast, Eagle Booster.
+Out: Area Zero and Multirole (about 1% of recent lists), Afterburners! down to 1, Vector Blast, Eagle Booster.
 
 Next UR: Linkage! #2, Engage! #3, Linkage! #3, Lemnisgate!.
