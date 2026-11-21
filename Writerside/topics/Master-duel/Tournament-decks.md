@@ -9,7 +9,7 @@ Which deck to play against each player at Lewis's home tournament, and what to c
 | **Rhino** (HERO) | **Invoked** | −2 Mulcharmy Purulia, −1 Crossout Designator, **+3 Forbidden Droplet** |
 | **Natasha** (Horus · Dragoon) | **InvokedVsNatasha** | None needed. Optional: −2 Meowls, −1 Triple Tactics Thrust, +3 Forbidden Droplet |
 | **Jack** (Cyber Dragon) | **Witchcrafter** | None |
-| **Luke** (budget Sky Striker) | **Witchcrafter** | None. Keep Maxx "C" |
+| **Luke** (budget Sky Striker) | **Invoked** (practice) | None. He started Sky Striker on 21 Nov, so use the match to practise the Invoked lines you need for Rhino and Natasha |
 
 Lewis owns 3 Forbidden Droplet, and the same card can sit in several decks.
 
@@ -52,7 +52,10 @@ Same model as the [Natasha](Natasha.md) simulations: 30,000 random hands going s
 - **Keep:** Maxx "C" and Fuwalos. Cyber Dragon Special Summons a lot.
 - **Watch:** Clockwork Night (destroy it first), Infinity's negate (bait it), and your Links in the Extra Monster Zone (Megafleet material).
 
-## Luke: Witchcrafter
+## Luke: any deck (use it as Invoked practice)
+
+Luke started Sky Striker on 21 Nov and isn't a threat. Play Invoked against him to rehearse Line 1 and the going-second lines before the Rhino and Natasha matches. Witchcrafter notes below in case you play it anyway.
+
 
 - **Record:** 3–0 against him.
 - **Keep Maxx "C".** Every Sky Striker Link, token and Zero is a Special Summon, so it still draws several cards. (An earlier version of this page suggested cutting it; that was wrong.)
