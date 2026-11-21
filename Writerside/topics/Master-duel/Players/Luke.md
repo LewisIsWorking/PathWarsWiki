@@ -119,3 +119,18 @@ Only when they have no monsters and nothing to stop it.
 ### Needs cards he doesn't own yet
 - Drones 1-card OTK, Roze + Engage + Linkage 13.1k OTK: need **Lemnisgate!**.
 - Raye + Roze line, Drolled Engage + Raye: need **Camellia**.
+
+## Improvements after games vs Lewis (21 Nov 2026)
+
+**Deck:**
+1. Engage! and Linkage! to 3 each (UR). He bricked turn 1 with only Raye, Roze and 1 Engage! as starters.
+2. Hornet Drones to 2–3 (SR). It's a 1-card starter: token → Kagari → adds Engage! back.
+3. Cut the old N filler (Jamming Waves! ×3, Vector Blast, Eagle Booster) for Hornet Drones, the 3rd Widow Anchor and Droll.
+4. Droll & Lock Bird (SR). It stops Witchcrafter's chain of searches, and works against most decks.
+5. Next UR after the core: Lemnisgate!.
+
+**Play:**
+- Every Sky Striker spell needs his Main Monster Zone EMPTY. Normal Summoning Skull Meister, or Shark Cannoning a monster to his side, turned his own spells off.
+- Shark Cannon: banish mode is usually better than summoning.
+- Set Quick-Plays (Widow Anchor, Hornet Drones) to use on the opponent's turn. In hand they're dead on that turn.
+- Against Witchcrafter: MST the Walpurgis field spell, and Widow Anchor Vice-Madame (Dragoon can't be targeted).
