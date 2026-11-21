@@ -28,6 +28,48 @@ Source: **"The best combo (no bricks) and best endboard sequence"**, Dkayedsteps
 
 **Her turn (from the guide):** Pupils copies Celebration to destroy a card; Fancy Ball negates and banishes a monster; Dragoon negates by discarding Celebration; Lacrima's 2nd effect (on her activation) summons a Witchcrafter → chain Vice-Madame's destroy; Distortion negates anything.
 
+## Flowchart
+
+The main line and their-turn priorities as a diagram. ⛓ means chain Vice-Madame to that effect.
+
+```mermaid
+flowchart TD
+    subgraph S["Starters (any 1)"]
+        M["Marka in hand<br/>Tribute it"]
+        C["Creation or Spell Power Mastery"]
+        W0["Walpurgis in hand"]
+    end
+    C --> V0["Add Verre the Maid<br/>Special Summon her"] --> W0
+    M --> W0
+    W0 --> W1["1. Walpurgis<br/>add Genni, discard any card"]
+    W1 --> G["2. Normal Summon Genni"]
+    G --> G2["3. Genni: tribute<br/>Walpurgis sends Celebration<br/>→ Schmietta"]
+    G2 --> S2["4. Schmietta: tribute<br/>Walpurgis sends Distortion<br/>→ Marka"]
+    S2 --> D["5. Banish Marka<br/>→ Dark Magician of Destruction<br/>add Gaze"]
+    D --> VM["6. Genni GY + Celebration<br/>→ Vice-Madame"]
+    VM --> SG["7. Schmietta GY: send Marka #2<br/>⛓ Vice-Madame SUMMON → Verre the Maid"]
+    SG --> VR["8. Verre: add Creation<br/>⛓ Vice-Madame ADD → Distortion"]
+    VR --> CR["9. Creation: add Terracottan<br/>(keep in hand)"]
+    CR --> X["10. Verre + Dark Magician<br/>→ Cross-Sheep"]
+    X --> DR["11. Gaze → Dragoon<br/>on a Cross-Sheep arrow<br/>Cross-Sheep revives Verre"]
+    DR --> FB["12. Verre + Cross-Sheep<br/>→ W:P Fancy Ball"]
+    FB --> T["13. Terracottan: add Verre, summon itself<br/>Terracottan + Verre → Pupils<br/>Pupils adds Lacrima"]
+    T --> SET["14. Set Distortion + Lacrima"]
+    SET --> EP["15. End Phase: Pupils returns Celebration<br/>Celebration adds itself to hand"]
+    EP --> END(["END BOARD<br/>Dragoon · Vice-Madame · Pupils · Fancy Ball<br/>set Distortion + Lacrima · Celebration in hand"])
+
+    RULE{{"Rule: Extra Deck plays BEFORE Terracottan<br/>(it locks you to Witchcrafter Extra Deck)"}}
+    RULE -.-> X
+
+    END --> OPP["THEIR TURN, in order"]
+    OPP --> O1["1. Vice-Madame DESTROY<br/>on their first Spell / key card"]
+    O1 --> O2["2. Pupils copies Celebration<br/>destroy 1 of theirs (Bystreet saves yours)"]
+    O2 --> O3["3. Dragoon negate<br/>discard Celebration"]
+    O3 --> O4["4. Lacrima → Haine from Deck<br/>(also triggers Vice-Madame)"]
+    O4 --> O5["5. Distortion: negate the big play"]
+    O5 --> O6["6. Fancy Ball: steal their Link-2 or lower"]
+```
+
 ## Other starters (MDM, then join the main line)
 
 - **Marka + any discard** (Leon, 6 Sep 2026): Tribute Marka from hand → add **Walpurgis**. Then main line step 1.
