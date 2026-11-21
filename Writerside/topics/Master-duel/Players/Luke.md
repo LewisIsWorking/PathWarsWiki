@@ -141,10 +141,10 @@ Only when they have no monsters and nothing to stop it.
 
 ## Suggested 40 (21 Nov 2026, UNTESTED budget list)
 
-Monsters (10): Raye ×3, Roze ×3, Droll & Lock Bird ×2, Skull Meister ×2.
+Monsters (12): Raye ×3, Roze ×3, Droll & Lock Bird ×2 (Limited 2), Skull Meister ×2, PSY-Framegear Gamma ×1 (Limited 1), PSY-Frame Driver ×1.
 
-Spells (30): Engage! ×2, Linkage! ×1, Hornet Drones ×1 (Limited), Widow Anchor ×3, Shark Cannon ×1, Mystical Space Typhoon ×3, Forbidden Lance ×3, Forbidden Chalice ×3 (R craft), Book of Moon ×2 (R craft), Pot of Desires ×2, Pot of Extravagance ×1 (SR craft, Limited), Gordian Slicer ×1, Afterburners! ×1, Jamming Waves! ×2, Book of Moon #3 (replaces Enemy Controller), Shark Cannon #2 or PSY-Framegear Gamma + Driver (flex).
+Spells (28): Engage! ×2 (use a 3rd Jamming Waves! until Engage! #2 is crafted), Linkage! ×1, Hornet Drones ×1 (Limited), Widow Anchor ×3, Forbidden Lance ×3, Forbidden Chalice ×3, Book of Moon ×3, Shark Cannon ×2, Mystical Space Typhoon ×3, Pot of Desires ×2, Pot of Extravagance ×1 (Limited), Gordian Slicer ×1, Afterburners! ×1, Jamming Waves! ×2.
 
-Out: Area Zero and Multirole (about 1% of recent lists), Afterburners! down to 1, Vector Blast, Eagle Booster.
+Out: Area Zero, Multirole, Enemy Controller, extra Afterburners!, Vector Blast, Eagle Booster.
 
-Next UR: Linkage! #2, Engage! #3, Linkage! #3, Lemnisgate!.
+Next UR: Engage! (to 3), Linkage! (to 3), then Ash Blossom, Lemnisgate!.
