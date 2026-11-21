@@ -221,4 +221,5 @@ Earlier attempts (don't count): Yummy hand 1 on v1 (one-turn, smaller board) los
 
 - **Her weak point is Black Flame Deity:** when a Son leaves her field by your effect, it wipes **all other monsters**, including her own Sons and Dragoon. Any non-targeting removal of a Son (Super Polymerization, Rikka Konkon's tribute) clears her side.
 - **Witchcraft outs:** Super Polymerization (Dragoon + a Son, no responses) and Unveiling + Madame Verre (negates all her monsters). Opening hand traps also pull Dragoon off her board.
+- **King's Sarcophagus only stops destruction that doesn't target.** Sending (Fusion material, tribute, Black Flame Deity) and negating aren't destruction, so the outs above still work. Witchcrafter's **Vice-Madame Destroy, Celebration and Pupils' copy don't target**, so they **can't destroy a Son**; use them on her Spells or Dragoon's backrow. **Haine targets**, so it can destroy a Son (until Qebehsenuef's protection is up).
 - **Rikka is better on paper** (Konkon tributes as a cost, so Dragoon can't stop it, and Rikka runs 13 hand traps), but Lewis doesn't own it (5 URs short).
