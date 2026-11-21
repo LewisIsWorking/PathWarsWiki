@@ -189,6 +189,15 @@ Average copies across the 30 most recent Master Duel Meta Witchcrafter lists, ag
 
 **Suggested swap (UNTESTED):** −2 Unveiling, −1 Lacrima, −1 Effect Veiler → +2 Fuwalos, +2 Droll. Keep 1 Unveiling: it's the only way to Special Summon Madame Verre or Haine from hand. On its own it's a brick.
 
+## 1701-rated list (9vyHwBpl5fOzPgl, Rating Duels, 21 Nov 2026)
+
+[MDM link](https://www.masterduelmeta.com/top-decks/rating-duels/november-2026/witchcrafter/9vyhwbpl5fozpgl/Ile9D). Same engine as Lewis's list; the differences are 8 Main Deck cards.
+
+- **Lewis runs, they don't:** Unveiling ×3, Effect Veiler ×2, Pittore, Crowley, Haine.
+- **They run, Lewis doesn't:** Fuwalos +2 (3 total), Droll ×2, Spell Power Mastery +1 (2 total), PSY-Framegear Gamma + PSY-Frame Driver, Crossout Designator.
+- **No Unveiling and no Haine.** Madame Verre (1) comes from the Deck via Genni / Schmietta / Potterie instead of from hand.
+- **Extra Deck:** Mudragon, Garura, Favorite HERO Flame Wingman, Dark Magician of Destruction, Dragoon, Vice-Madame ×2, Secreterion Dragon, Madame Rilliona, Pupils, Artemis, Cross-Sheep, S:P Little Knight, Fancy Ball, Charmer Quartet in Bloom.
+
 ## Fundamentals
 
 - **The chain:** Genni (Lv1) and Schmietta (Lv4) are Quick Effects. Tribute itself + discard a Spell → Special Summon another Witchcrafter from the Deck.
