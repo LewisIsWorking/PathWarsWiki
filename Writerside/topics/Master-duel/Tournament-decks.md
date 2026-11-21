@@ -9,7 +9,7 @@ Which deck to play against each player at Lewis's home tournament, and what to c
 | **Rhino** (HERO) | **Invoked** | −2 Mulcharmy Purulia, −1 Crossout Designator, **+3 Forbidden Droplet** |
 | **Natasha** (Horus · Dragoon) | **InvokedVsNatasha** | None needed. Optional: −2 Meowls, −1 Triple Tactics Thrust, +3 Forbidden Droplet |
 | **Jack** (Cyber Dragon) | **Witchcrafter** | None |
-| **Luke** (budget Sky Striker) | **Witchcrafter** | Optional: −Maxx "C", −Mulcharmy Fuwalos, +2 Forbidden Droplet |
+| **Luke** (budget Sky Striker) | **Witchcrafter** | None. Keep Maxx "C" |
 
 Lewis owns 3 Forbidden Droplet, and the same card can sit in several decks.
 
@@ -55,7 +55,8 @@ Same model as the [Natasha](Natasha.md) simulations: 30,000 random hands going s
 ## Luke: Witchcrafter
 
 - **Record:** 3–0 against him.
-- **Optional swap:** Maxx "C" and Fuwalos draw little against him (he Special Summons only a few Links). Droplet with a monster sent stops Zero's Quick Effect from responding. **UNTESTED**
+- **Keep Maxx "C".** Every Sky Striker Link, token and Zero is a Special Summon, so it still draws several cards. (An earlier version of this page suggested cutting it; that was wrong.)
+- **If you want Droplet in:** cut Fuwalos and 1 Lacrima, not Maxx "C". Droplet with a monster sent stops Zero's Quick Effect from responding. **UNTESTED**
 - **Watch:** Widow Anchor (bait it), and keep a monster on his side when you can: his Sky Striker Spells need an empty Main Monster Zone.
 
 ## How the numbers were made
