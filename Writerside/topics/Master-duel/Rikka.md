@@ -46,6 +46,20 @@ Hand: Black Princess, Rikka Princess, Mudan, Moonlit Waters (+ Droll).
 
 End: Sacred Queen, Teardrop, Cactus Bouncer; Rikka Princess #2 + Droll in hand. Rikka Princess's hand summon is once per turn, so the second copy stays in hand as a negate.
 
+## Line 3: Kanzashi + Teardrop + Cactus Bouncer, survives Dark Hole (UNTESTED, from card text)
+
+Same hand as Line 2. Swaps the second Teardrop for **Kanzashi** (if your Plants would be destroyed by a card effect, Tribute 1 Plant from hand or field instead).
+
+1. **Moonlit Waters** (no Tribute): add **Primrose**, send **Hellebore** to the GY.
+2. Special Summon **Black Princess**, then **Rikka Princess**.
+3. **Black Princess:** Tribute **Mudan from hand** → **Mudan** from the Deck (adds **Glamour**). **Primrose** triggers → Primrose + **Primula**.
+4. **Hellebore (GY):** Tribute **Primula** → Hellebore.
+5. **Glamour**, Tributing **Rikka Princess**: add **Rikka Princess #2** + **Cactus Bouncer**.
+6. Xyz **Black Princess + Mudan** (Level 6) → **Kanzashi**. Xyz **Primrose + Hellebore** (Level 8) → **Teardrop**, then upgrade to **Teardrop the Rikka Sacred Queen** (vs Natasha: its Tribute doesn't target, so it hits Dragoon and protected Horus).
+7. **Normal Summon Cactus Bouncer.**
+
+End: Sacred Queen, Kanzashi, Cactus Bouncer; Rikka Princess #2 + Droll in hand. **Vs Dark Hole:** Kanzashi Tributes Rikka Princess from hand, nothing dies. Kanzashi's revive effect won't work while Cactus is up.
+
 ## End board options to try
 
 | Ending | Strength | Weakness |
