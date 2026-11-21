@@ -134,3 +134,7 @@ Only when they have no monsters and nothing to stop it.
 - Shark Cannon: banish mode is usually better than summoning.
 - Set Quick-Plays (Widow Anchor, Hornet Drones) to use on the opponent's turn. In hand they're dead on that turn.
 - Against Witchcrafter: MST the Walpurgis field spell, and Widow Anchor Vice-Madame (Dragoon can't be targeted).
+
+### Spell speeds (checked 21 Nov 2026)
+- **Quick-Play (set them, usable on the opponent's turn):** Widow Anchor, Hornet Drones, Linkage!, Shark Cannon, Eagle Booster.
+- **Normal Spell (your Main Phase only):** Engage!, Afterburners!, Jamming Waves!, Vector Blast. Setting these doesn't let him use them on the opponent's turn.
