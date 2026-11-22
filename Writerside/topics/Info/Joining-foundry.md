@@ -52,6 +52,10 @@
 >> - Check your class, feats, etc. came across.
 >> - If anything is missing, ask for help.
 
+> Dual class?
+>> - Playing two classes? Tongs adds your second class for you, no GM needed.
+>> - See [Setting up dual class (FoundryVTT)](Setting-up-dual-class-FoundryVTT.md).
+
 > Pick a token image.
 >> - Find an image to be the image for your character's token.
 >> - This is the image that will represent your character on the virtual tabletop.
