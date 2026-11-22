@@ -20,7 +20,7 @@
 >> 4. You can use any PF2e content for character creation as well as the StarFinder 2e.
 >> 5. What can I play regarding race, class, background, etc? Well, you can play anything. 
 >> 6. You do not need to make your character a dual class, but you can if you want to. 
->> 7. House rules: we also run Automatic Bonus Progression and Ancestral Paragon (a free bonus ancestry feat). I'll help you switch these on in PathBuilder. 
+>> 7. House rules: we also run Automatic Bonus Progression and Ancestral Paragon (a free bonus ancestry feat). I'll help you switch these on in the ComeOnOver character creator. 
 >> 8. The vetting process is on our Discord server, **it is NOT in my DMs with you**. 
 >> 9. Discord link is in my bio.
 >> 10. New players are welcome to DM me to join. :slight_smile: 

@@ -22,7 +22,7 @@
 **Building your character**
 - Play almost anything. Any ancestry, class or background is on the table.
 - Dual class is allowed but never required.
-- PathBuilder is the easy way to put a sheet together.
+- Make your character in the free ComeOnOver PF2e Character Creator, with dual class and free archetype built in.
 
 **Good to know**
 - This is one ongoing, connected story with a persistent group, not a West March.

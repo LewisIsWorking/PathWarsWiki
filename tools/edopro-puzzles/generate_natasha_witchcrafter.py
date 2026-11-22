@@ -1,0 +1,57 @@
+import json,random,zipfile,glob,os
+D='natasha_practice_wc'; os.makedirs(D,exist_ok=True)
+ID={k:v[0] for k,v in json.load(open('ids.json')).items()}
+DECKS={
+"Witchcrafter":({"Effect Veiler":2,"Witchcrafter Genni":1,"Genni, the Maid of Endymion":1,'Maxx "C"':1,"Witchcrafter Potterie":1,"Witchcrafter Terracottan":1,"Ash Blossom & Joyous Spring":3,"Witchcrafter Pittore":1,"Witchcrafter Schmietta":1,"Mulcharmy Fuwalos":1,"Crowley, the Gifted Magistus":1,"Verre, the Maid of Endymion":1,"Witchcrafter Marka":3,"Witchcrafter Haine":1,"Witchcrafter Madame Verre":1,"Witchcrafter Creation":3,"Spell Power Mastery":1,"Witchcrafter Walpurgis":3,"Witchcrafter Bystreet":1,"Verre Magic - Lacrima of Light":3,"Super Polymerization":2,"The Gaze of Timaeus":1,"Witchcrafter Unveiling":3,"Witchcrafter Celebration":2,"Witchcrafter Distortion":1},
+ ["Mudragon of the Swamp","Garura, Wings of Resonant Life","Red-Eyes Dark Dragoon","Witchcrafter Vice-Madame","Zoroa, the Magistus Verethragna","Dark Magician of Destruction","Starving Venom Fusion Dragon, Four Heavenly Dragons","Witchcrafter Madame Rilliona","Witchcrafter Pupils","Witchcrafter Pupils","Hyperinvoked Aeon","Artemis, the Magistus Moon Maiden","Cross-Sheep","S:P Little Knight","Endymion, the Crescent Magistus"]),
+"Yummy":({"Droll & Lock Bird":2,"Magicians' Souls":1,"Cooky☆Yummy":3,"Cupsy☆Yummy":1,"Lollipo☆Yummy":3,"Marshmao☆Yummy":2,'Maxx "C"':1,"Ash Blossom & Joyous Spring":3,"Witch of the Black Forest":1,"Mulcharmy Fuwalos":2,"Mind on Air":1,"Dark Magician, the Pharaoh's Servant":1,"Illusion of Chaos":1,"Triple Tactics Talent":2,"Piri Reis Map":3,"Yummyusment★Acroquey":1,"Yummyusment☆Mignon":1,"Crossout Designator":1,"The Gaze of Timaeus":1,"Yummy☆Surprise":1,"Dark Magical Curtain":3,"Infinite Impermanence":3,"Dominus Spark":3},
+ ["Red-Eyes Dark Dragoon","Dark Magician of Destruction","Cooky★Yummy Way","Cupsy★Yummy Way","Lollipo★Yummy Way","Shamisen Samsara Sorrowcat","Herald of the Arc Light","Borreload Savage Dragon","Baronne de Fleur","Yummy★Snatchy","Yummy★Snatchy","Linkuriboh","Artemis, the Magistus Moon Maiden","Spright Elf","S:P Little Knight"]),
+"Invoked":({"Droll & Lock Bird":2,'Maxx "C"':1,"Ash Blossom & Joyous Spring":3,"Virakam, the Divine Spirit of Artifice":1,"Aleister the Invoker":3,"Mulcharmy Fuwalos":3,"Aleister the Reminiscent":3,"Aiwass, Divine Spirit of the Law":3,"Pot of Desires":2,"Invocation":3,"Triple Tactics Talent":2,"Triple Tactics Thrust":1,"Sacred Spirit Sword Aiwass":3,"Magical Meltdown":3,"Super Polymerization":2,"Crossout Designator":1,'Invocation "Sword"':3,"Gamma Summon":1},
+ ["Magistus Chorozo","Invoked Raidjin","Invoked Sorath","Invoked Baybarron","Invoked Magellanica","Invoked De Anima","Invoked Mechaba","Invoked Oceanus","Invoked Elysium","Hyperinvoked Aeon","Hyperinvoked Aeon","Baronne de Fleur","Secure Gardna","Salamangreat Almiraj","S:P Little Knight"]),
+}
+def add(name,owner,loc,seq=0,pos="POS_FACEDOWN",proc=False):
+    return f'Debug.AddCard({ID[name]},{owner},{owner},{loc},{seq},{pos}{",true" if proc else ""}) --{name}'
+PIECES=[("Dragoon",add("Red-Eyes Dark Dragoon",1,"LOCATION_MZONE",5,"POS_FACEUP_ATTACK",True)),("Shining Sarcophagus",add("Shining Sarcophagus",1,"LOCATION_SZONE",1,"POS_FACEUP")),("Hapi",add("Hapi, Guidance of Horus",1,"LOCATION_MZONE",3,"POS_FACEUP_ATTACK",True)),("Duamutef",add("Duamutef, Blessing of Horus",1,"LOCATION_MZONE",1,"POS_FACEUP_ATTACK",True)),("Qebehsenuef",add("Qebehsenuef, Protection of Horus",1,"LOCATION_MZONE",2,"POS_FACEUP_ATTACK",True))]
+board=["--Her fixed cards",
+ add("Imsety, Glory of Horus",1,"LOCATION_MZONE",0,"POS_FACEUP_ATTACK",True),
+ "--Her Spells/Traps",
+ add("King's Sarcophagus",1,"LOCATION_SZONE",0,"POS_FACEUP"),
+ add("Future Silence",1,"LOCATION_SZONE",2,"POS_FACEDOWN"),
+ add("Walls of the Imperial Tomb",1,"LOCATION_FZONE",0,"POS_FACEUP"),
+ "--Her hand: Horus the Black Flame Deity waits for a Son to leave the field",
+ add("Horus the Black Flame Deity",1,"LOCATION_HAND"),
+ add("Ash Blossom & Joyous Spring",1,"LOCATION_HAND"),
+ add("Droll & Lock Bird",1,"LOCATION_HAND"),
+ add("Dark Magician",1,"LOCATION_HAND"),
+ "--Her GY"]+[add(n,1,"LOCATION_GRAVE",0,"POS_FACEUP") for n in ["Dark Magician Girl the Magician's Apprentice","Dark Magical Curtain","The Gaze of Timaeus","Planet Pathfinder"]]+["--Her Deck"]+[add(n,1,"LOCATION_DECK") for n in ["Dark Magician","Planet Pathfinder","Planet Pathfinder","Imsety, Glory of Horus","Imsety, Glory of Horus","Shining Sarcophagus","King's Sarcophagus","King's Sarcophagus","Future Silence","Future Silence"]]
+HT={"Effect Veiler","Ash Blossom & Joyous Spring","Droll & Lock Bird",'Maxx "C"',"Mulcharmy Fuwalos","Infinite Impermanence","Dominus Spark"}
+rows=[]
+for deck,(main,extra) in [(k,v) for k,v in DECKS.items() if k=='Witchcrafter']:
+    pool=[n for n,c in main.items() for _ in range(c)]
+    rng=random.Random(2026112000+len(deck))
+    for i in range(1,11):
+        p=pool[:]; rng.shuffle(p); hand0,rest=p[:6],p[6:]
+        used=[h for h in hand0 if h in HT][:len(PIECES)]
+        hand=list(hand0)
+        for u in used: hand.remove(u)
+        gone=[n for n,_ in PIECES[:len(used)]]
+        mine=[a for _,a in PIECES[len(used):]]
+        summary=f"Hand traps used on her turn: {', '.join(used) or 'none'} -> she lost: {', '.join(gone) or 'nothing'}." 
+        L=[f'''--[[message
+Natasha practice: her Horus Dragoon end board (Dragoon + all 4 Sons, Black Flame Deity in hand) vs your {deck} deck, going 2nd. Random hand {i}/10 (v3: full duel, no turn limit).
+Opening hand: {", ".join(hand0)}.
+{summary}
+Win = win the duel. Her AI is much weaker than Natasha: count it as a win only if you win within 2 of your turns.
+]]
+Debug.SetAIName("Natasha (Horus Dragoon)")
+Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
+Debug.SetPlayerInfo(0,8000,0,0)
+Debug.SetPlayerInfo(1,8000,0,0)
+''',"--Your hand"]+[add(h,0,"LOCATION_HAND") for h in hand]+["--Your Main Deck"]+[add(n,0,"LOCATION_DECK") for n in rest]+["--Your Extra Deck"]+[add(n,0,"LOCATION_EXTRA") for n in extra]+["--Your hand traps already used on her turn"]+[add(u,0,"LOCATION_GRAVE",0,"POS_FACEUP") for u in used]+["--Her board pieces your hand traps didn't stop"]+mine+board+["","Debug.ReloadFieldEnd()",'Debug.ShowHint("Win within 2 of your turns.")']
+        rows.append((deck,i,", ".join(hand0),", ".join(gone) or "nothing")); open(f"{D}/Natasha_{deck}_hand{i:02d}.lua","w").write("\n".join(L)+"\n")
+z=zipfile.ZipFile('Natasha_practice_puzzles_witchcrafter.zip','w')
+for f in sorted(glob.glob(D+'/*.lua')): z.write(f,os.path.basename(f))
+print(len(z.namelist()))
+
+json.dump(rows,open('rows_wc.json','w'))
+for r in rows: print(r)

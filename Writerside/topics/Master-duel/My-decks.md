@@ -10,7 +10,7 @@ Names are as saved in the game (cut off where the game cuts them off). "Archetyp
 - **Planet Run:** Event deck (Invoked, no Zoroa).
 - **DoomZ:** *DoomzM1 2026-10-08*.
 - **Yummy:** *YummyM1 2026Nov13 DeadTube*. See [Yummy Mitsurugi](Yummy-mitsurugi.md).
-- **Yummy Dragoon:** *YummyRD1559.52 | 2026Nov18*, fully built 18 Nov 2026. Yummy engine + Dark Magician package (3 Dark Magical Curtain, Gaze of Timaeus, Red-Eyes Dark Dragoon), 3 Imperm, 3 Dominus, 2 Droll, 3 Ash, 2 Purulia, Maxx "C".
+- **Yummy Dragoon:** *YummyRD1559.52 | 2026Nov18*, fully built 18 Nov 2026. Combo guide: [Yummy Dragoon](Yummy-dragoon.md).
 
 ## Standard (playable in Ranked): 30 decks
 
@@ -53,8 +53,9 @@ Imported lists with cards not yet owned (dimmed in the deck editor; counts are a
 
 | Saved name | Archetype | Missing |
 | --- | --- | --- |
-| WitchCrafterRd1604 2026-11-1… | Witchcrafter (new support, Dragoon variant) | 6 UR + about 4 SR |
-| RikkaRD1649 26-11-11th | Rikka | 6 UR + about 11 SR; Extra Deck has 14 of 15 |
+| RikkaRD1649 26-11-11th | Rikka | 5 UR + some SR (20 Nov); Extra Deck has 14 of 15 |
+
+**Witchcrafter (WitchCrafterRd1604) completed 20 Nov 2026:** crafted Marka ×2, Walpurgis, Celebration ×2, Vice-Madame. Includes the Red-Eyes Dark Dragoon package.
 
 ## Not Standard right now: 10 decks
 

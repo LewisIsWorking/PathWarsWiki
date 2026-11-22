@@ -19,10 +19,10 @@
 > To join the campaign, please read the following steps:
 >> - Meet the requirements (above this text).
 >> - Read the [content warning](Content-warning.md) guide.
->> - Make a Pathfinder 2nd edition level 1 (or higher) character. I would recommend Path builder 2e.
+>> - Make your Pathfinder 2nd edition character in the ComeOnOver PF2e Character Creator (free, with dual class and free archetype built in): [https://comeonover.netlify.app/tools/pf2e-character-creator](https://comeonover.netlify.app/tools/pf2e-character-creator)
 >> - Join the telegram group.
 >> - Play with us! :3
->> - Get ready to play on Foundry (optional): [Joining-foundry.md](https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Info/Joining-foundry.md)
+>> - Get ready to play on Foundry: [Joining-foundry.md](Joining-foundry.md)
 
 - If you need any help, ask on the discord server / telegram group!
 
@@ -46,21 +46,15 @@
 >> - Step 4 = How to Build Your Character’s Life.
 >> - Step 5 = Paizo Variant Rules.
 >> - Step 6 = Talk to the Game Master, me!
->> - Step 7 = Path Builder 2e + Character Creation.
+>> - Step 7 = Character Creation (the ComeOnOver PF2e Character Creator).
 >> - Step 8 = Foundry.
->> - Step 9 = What is the Forge?
->> - Step 10 = Join The Forge Campaign.
->> - Step 11 = Request a Foundry User.
->> - Step 12 = Log into the Foundry.
->> - Step 13 = Desktop-ing Foundry.
->> - Step 14 = Pick your player colour.
->> - Step 15 = Request a Character sheet.
->> - Step 16 = Open your character sheet.
->> - Step 17 = Set up your character sheet on the Forge VTT.
->> - Step 18 = Pick a token image.
->> - Step 19 = Request Vision Setup + Token Placement.
->> - Step 20 = Talk to the Game Master.
->> - Step 21 = Everything might be ready.
+>> - Step 9 = Sign in to Foundry with your ComeOnOver account.
+>> - Step 10 = Pick your player colour.
+>> - Step 11 = Open your character sheet.
+>> - Step 12 = Pick a token image.
+>> - Step 13 = Request Vision Setup + Token Placement.
+>> - Step 14 = Talk to the Game Master.
+>> - Step 15 = Everything might be ready.
 
 ## Welcome!
 
@@ -113,37 +107,31 @@
 >> - Please read the following page: [Official-paizo-variant-rules.md](Official-paizo-variant-rules.md)
 >> - You can find out what Paizo Variant rules are used on the page linked above!
 >> - The campaigns ran in the Path War community have some homebrew rule changes. 
->> - You can find a mostly complete list of the rule changes here: [](../Extra-rules/Homebrew-rules.md)https://github.com/LewisIsWorking/PathWarsWiki/blob/main/Writerside/topics/Extra-rules/Homebrew-rules.md.
+>> - You can find a mostly complete list of the rule changes here: [Homebrew-rules.md](../Extra-rules/Homebrew-rules.md)
 
-## Path Builder 2e + Character Creation.
+## Character Creation.
 >> - Time to actually make your character's stats and abilities.
 
-> Buying the Full Version of Path-Builder 2e. 
->> - Should you buy the full version? You do NOT need to!
->> - Buying the full version of Path-builder 2e is, however, very worth it. 
->> - All the campaigns on this server are multi-year 100+ session campaigns, you will get your value for money. 
->> - Using Path-Builder 2e ensures that you build your character correctly without missing out important steps.
-
-> Pathbuilder setup. 
->> - Here is how to set up Path Builder 2e = [Pathbuilder-setup.md.](Pathbuilder-setup.md)
->> - The link to Path-Builder is here: [https://pathbuilder2e.com/app.html](https://pathbuilder2e.com/app.html)
-
-> Go on Path-Builder. 
->> - Go to Path-Builder's character builder web application.
+> The ComeOnOver PF2e Character Creator.
+>> - Make your character here: [https://comeonover.netlify.app/tools/pf2e-character-creator](https://comeonover.netlify.app/tools/pf2e-character-creator)
+>> - It is free. You do NOT need to buy anything.
+>> - Dual class, free archetype and our other variant rules are built in: switch them on in its Optional Rules step.
+>> - The Discord bot sends you this link in your channel too, and walks you through the rest.
+>> - When your character is done, press "My character is finished" in your Discord channel. A GM checks it and it goes into Foundry for you.
 
 > Enable the variant rules.
 >> - Enable the variant rules that are applicable to your campaign.
 >> - To find out what variant rules you need to enable, check here: [Official-paizo-variant-rules.md.](Official-paizo-variant-rules.md)
 
-> How to enable the variant rules.
->> - To enable variant rules on Path-Builder 2e, do the following: [Pathbuilder-setup.md.](Pathbuilder-setup.md)
->> - Options -> Then Tick the Box next to the rule. 
->> - For dual-class it would be: Options -> Tick the Dual Class box.
+> What about Pathbuilder 2e?
+>> - You do not need Pathbuilder. It is fine for planning, but your Foundry sheet is what counts.
+>> - Players have told us Pathbuilder no longer lets you switch on Dual Class for free. The ComeOnOver creator does it for free.
+>> - If you still want to use it, the old setup is here: [Pathbuilder-setup.md](Pathbuilder-setup.md)
 
-> NOTE ABOUT = Selecting 3rd party content on Pathbuilder:
+> NOTE ABOUT = Selecting 3rd party content:
 >> - **3rd Party Content.**
 >> - Check the 3rd party page to find out what is available: [3rd-party-content-and-options.md.](../Extra-rules/3rd-party-content-and-options.md)
->> - 3rd Party content will not be selectable in Path-Builder 2e due to it not being official Paizo content.
+>> - 3rd Party content may not be selectable in the character creator due to it not being official Paizo content.
 >> - To use 3rd party content, you will need to add it in Foundry manually.
 >> - Ask me about this! 
 >> - Some 3rd party content may already be available in Foundry thanks to community modules.
@@ -153,9 +141,9 @@
 >> - You can play ANY background, class and/or race, regardless of their rarity.
 
 > Create your character.
->> - To create your character, on pathbuilder set your character's level to the level they will be playing at.
+>> - To create your character, set your character's level in the creator to the level they will be playing at.
 >> - To find out what level your character should be set to, ask the discord.
->> - Now fill out your character on Pathbuilder 2e.
+>> - Now fill out your character in the creator.
 >> - Pick your class, pick your race and pick your subrace. 
 >> - Go through each level and apply all your ability score boosts, make your feat selections, etc.
 
