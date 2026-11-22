@@ -132,3 +132,10 @@
 >> 7. Cardigan prays him away -> 33 -> success -> 10 damage.
 >> 8. 
 
+## Session 289.
+
+> Encounter name: The Warden Tobias Greaves, trapped within the Iron Maiden.
+>> 1. Encounter started = 2026-November-19th at 01:01am.
+>> 2. Round 1.
+>> 3. Who won initial initiative: [ALLIES].
+>> 4. 
