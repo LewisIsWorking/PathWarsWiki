@@ -193,3 +193,6 @@ Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell mate
 3. **Say each step's purpose out loud** ("this Tribute triggers Primrose", "this detach puts Rikka Princess in the GY"). If you can't, that's the step to re-learn.
 4. **Self-check after every board:** 2-3 Xyz? Sheet set? Rikka Princess in the GY? Cactus last? A Plant in hand for Kanzashi?
 5. **Then going second:** the 10 random-hand puzzles. Before playing, write your order: Droplet → Tributes → Horus answer → Super Poly → Evenly Matched.
+
+**Final vs-Natasha PredaRikka (45, 22 Nov 2026):** Droll 2, Petal 1, Byblisp 1, Longinephila 2, Dracaena 3, Maxx "C" 1, Ash 3, Lilizard 1, Cactus Bouncer 1, Rikka Princess 1, Fuwalos 1, Meowls 2, Mudan 2, Black Princess 3, Hellebore 1, Primrose 1, Instant Fusion 1, Glamour 2, Triple Tactics Talent 1 (was Thrust), Predaprimitive 3, Moonlit Waters 3, Konkon 1, Super Poly 2, Forbidden Droplet 1, Evenly Matched 1, Rikka Sheet 1, Dominus Impulse 3.
+Monte Carlo (200k hands): brick going 1st 5.1%; going 2nd 2.5%; going 2nd with a Super Poly / Droplet route 86.6%; at least one hand trap for her turn 80.7%.
