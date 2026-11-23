@@ -1,4 +1,4 @@
-# Fierce Leopard Cyrus
+# C06 Fierce Leopard Cyrus
 
 **Player:** Ryo (@RyoYamakawa)
 **Campaign:** #6 Kibwe

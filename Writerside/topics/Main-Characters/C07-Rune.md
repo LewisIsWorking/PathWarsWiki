@@ -1,4 +1,4 @@
-# C07: Rune
+# C07 Rune
 
 Core.
 

@@ -1,4 +1,4 @@
-# C05-Aekold Black-steel
+# C05 Aekold Black-steel
 
 > Backstory
 >> - Aekold Blacksteel was born in Haldun to Ilda Greyrite and Voltak Blacksteel, his mother (Ilda Greyrite a healer in Haldun) married into the Blacksteel family which has for nearly every generation joined Rahadoums military. 

@@ -1,4 +1,4 @@
-# C09-Cyclops.md.
+# C09 Cyclops
 
 ### Campaign: C09 Metal City Stargazers
   Discord: @Lybrarie

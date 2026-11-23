@@ -1,4 +1,4 @@
-# Kae-Vo (The Kaepra-Voliax Symposium)
+# C09 Kae-Vo (The Kaepra-Voliax Symposium)
 
 > Campaign: C09 Metal City Stargazers.
 >> - Player: Cobalt Quail.

@@ -1,4 +1,4 @@
-# Arctus
+# C09-Arctus
 
 > Campaign: C09 Metal City Stargazers.
 >> - Player: @StorybookRhizome.

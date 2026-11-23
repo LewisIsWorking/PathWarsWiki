@@ -1,4 +1,4 @@
-# PW~Character-Lore-Builder
+# Character-Lore-Builder
 
 - Starting Guide Link: [Getting-started-guide.md](Getting-started-guide.md)
 

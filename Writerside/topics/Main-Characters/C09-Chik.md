@@ -1,4 +1,4 @@
-# Chik
+# C09 Chik
 
 > Campaign: C09 Metal City Stargazers.
 >> - Player: CzarChasm23 "Lowda Medina".
