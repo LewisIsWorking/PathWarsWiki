@@ -274,3 +274,10 @@ Backstory.
 
 Question: Finally, what is your character's backstory?
 Answer:In the immediate, campaign relevant sense, the mana poisoning incident is fascinating, from a magical studies perspective. While he was already studying the local constables from within their organization, the sheer number of people affected by the recent poisoning caused a transfer request. Clearly the affected officers are best studied up close.
+
+## Known facts
+
+Collected from his Foundry sheet and from play, so the GM can check them quickly. Added to as the campaign goes.
+
+- **Languages:** Aklo, Diabolic, Draconic, Dwarven, Elven, Gnomish, Goblin, Halfling, Necril, Orcish and Ysoki (Foundry sheet, 2026-11-23). His Multilingual feat accounts for some of them.
+- **Also on his sheet:** Sign Language, and he can read lips.
