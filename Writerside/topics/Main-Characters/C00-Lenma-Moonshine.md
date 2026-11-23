@@ -1,4 +1,4 @@
-# C01-Lenma-Moonshine
+# C00-Lenma-Moonshine
 
 Campaign: Riddleport.
 
