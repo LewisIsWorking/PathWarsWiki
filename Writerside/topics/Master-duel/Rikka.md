@@ -122,6 +122,9 @@ Record which ending you used in the game log below.
 - **A negated Rikka monster is still a Plant body:** after Destined Rivals / Imperm, use it as Xyz material.
 - **Vs Blue-Eyes:** Tribute Jet Dragon with Konkon (no targeting, no destruction). True Light's wipe only works if it reaches the GY and Spirit Dragon isn't up.
 - Upgrade Teardrop into the Sacred Queen on **their** turn (Primrose), not yours: you get both Tributes.
+- **Vs Horus:** Walls of the Imperial Tomb counts as King's Sarcophagus. Teardrop the Rikka Sacred Queen sends **one Spell/Trap per material detached**, so detach 2 to clear both, or Sons keep reviving.
+- **Attack after the break.** King's Sarcophagus only stops destruction by card effects, not by battle.
+- **Teardrop Queen and Sacred Queen reset on their turn.** Holding both Quick Effects for her Main Phase won the Horus game.
 
 ## Game log
 
@@ -130,6 +133,7 @@ Record which ending you used in the game log below.
 | 21 Nov 2026 | Blue-Eyes (ranked) | 2nd | **Won** (turn 6) | Destined Rivals negated Black Princess, but she was still Xyz material. Konkon + Glamour Tributed Blue-Eyes Jet Dragon; built Teardrop the Rikka Sacred Queen + Sacred Queen Strenna + Primrose. True Light set Return of the Dragon Lords. Ground them down with Hyperyton and Rikka Sheet; won turn 6. |
 | 21 Nov 2026 | Charmer / Familiar-Possessed (ranked) | 2nd | **Won** (time limit) | Fuwalos on Spellbook of the Grand Circle drew a big hand. Possessed Partnerships destroyed Konkon; Mudan searched Konkon #2 and its replacement Tribute took their 4050. Ended Teardrop the Rikka Sacred Queen, Sacred Queen Strenna, Primrose, Black Princess, Primula. Foolish Burial unused (next turn: send Black Princess, revive her). They ran out the clock on turn 3. |
 | 21 Nov 2026 | Rising Pyroxene (solo) | 1st | **Won** | Line 1 from Petal. Short combo, plenty of time on the clock. Won turn 3. |
+| 24 Nov 2026 | Horus (MDPro4, UnknoDaemon) | 2nd | **Won** (surrender, turn 3) | Into 4 Sons + King's Sarcophagus + Walls of the Imperial Tomb. Black Princess / Mudan / Primrose → Sacred Queen Strenna, Teardrop the Rikka Queen ×2 → Teardrop the Rikka Sacred Queen, Konkon, set Sheet + Dominus Impulse. Removed Imsety and Duamutef and King's Sarcophagus, but **Walls stayed** and he **didn't attack** (3100 damage missed). On her turn, chained Teardrop Queen and Sacred Queen Quick Effects in Main 1, cleared her field; she surrendered. |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
