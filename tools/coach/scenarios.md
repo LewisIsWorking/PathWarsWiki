@@ -76,7 +76,7 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 ## S15. Sky Striker, going 2nd, Zero + 4 sets (25 Nov 2026)
 - **Hand:** Black Princess, Hellebore, Instant Fusion, Glamour, Predaprimitive, Moonlit Waters.
 - **Right answer:** "Sky Striker: Zero + 4 sets" (`lines_handfit.cue`): Predaprimitive (Super Poly) → Instant Fusion → Lilizard makes Zero DARK → **Super Poly before any Rikka lock**: Zero + Ambulomelides → Starving Venom → then the Rikka half, Venom + Hellebore → Teardrop. One full plan up front.
-- **What went wrong:** Moonlit and Black Princess first, so Super Poly was dead (`KNOWN BAD: Sky Striker, Super Poly after the Rikka locks`). Advice told him to change Mudan's position (can't on the turn it was summoned) and implied Glamour/Moonlit Tributes are required (they're optional). Widow Anchor stole Petal; Forbidden Crown stopped Mudan.
+- **What went wrong:** Moonlit and Black Princess first, so Super Poly was dead (`KNOWN BAD: Sky Striker, Super Poly after the Rikka locks`). Advice told him to change Mudan's position (can't on the turn it was summoned) and implied Glamour/Moonlit Tributes are required (they're optional). Widow Anchor stole Petal; Forbidden Crown stopped Mudan. Turn 4: Widow Anchor stole Petal and Mudan, and he **lost on the duel clock** (10:14 used): waiting on coaching each step burns the whole-duel time.
 
 ## More
 Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.
