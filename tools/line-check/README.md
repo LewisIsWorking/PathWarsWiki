@@ -17,13 +17,13 @@ Checks Master Duel combo lines as data before you try them in a game. It can't p
 
 ## Run it
 
-Needs [CUE](https://cuelang.org) v0.11.1 (`go install cuelang.org/go/cmd/cue@v0.11.1`, or the release binary).
+Needs [CUE](https://cuelang.org) v0.11.1. `../coach/install-cue.sh` installs the release binary in about a second (`go install cuelang.org/go/cmd/cue@v0.11.1` also works but is slow).
 
 ```
 ./check.sh
 ```
 
-Each line prints PASS or FAIL with its problems. `known_bad` lines are mistakes from real games: they **pass** when the checker finds a problem, which proves the check works.
+Each line prints PASS or FAIL with its problems. During a match use `../coach/quick` instead (finds the line for a hand, checks one pasted line in under a second; see `../coach/README.md`). `known_bad` lines are mistakes from real games: they **pass** when the checker finds a problem, which proves the check works.
 
 ## Files
 

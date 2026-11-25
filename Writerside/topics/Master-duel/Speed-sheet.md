@@ -167,7 +167,7 @@ Result: **lost** (turn 9). Their Quick Effects all fire on **your** turn: Baronn
 
 ## Rikka / PredaRikka: which line
 
-Every line here passes the line checker (`tools/line-check`). Full steps on the [Rikka](Rikka.md) page.
+Every line here passes the line checker (`tools/line-check`). Full steps on the [Rikka](Rikka.md) page. Live: `tools/coach/quick find <hand>` picks the line and prints its steps (see `tools/coach/README.md`).
 
 | Situation | Line | Status |
 | --- | --- | --- |

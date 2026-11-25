@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Live-match helper. See ./quick --help and the "Live mode" section of README.md.
+set -euo pipefail
+HERE="$(cd "$(dirname "$0")" && pwd)"
+export PATH="$HOME/.local/bin:$HOME/go/bin:$PATH"
+if [ "${1:-}" = "setup" ]; then
+  SECONDS=0
+  "$HERE/install-cue.sh"
+  echo "cue: $(cue version 2>/dev/null | head -1)"
+  "$HERE/../line-check/check.sh" | grep -c '^PASS' | sed 's/^/checker: /;s/$/ lines pass/'
+  python3 "$HERE/quick.py" find predap >/dev/null   # warms the line cache
+  n=$(ls "$HERE/cache" | wc -l); echo "card text cached: $n cards (./quick precache to fill gaps)"
+  echo "ready in ${SECONDS}s"
+  exit 0
+fi
+command -v cue >/dev/null 2>&1 || "$HERE/install-cue.sh"
+exec python3 "$HERE/quick.py" "$@"

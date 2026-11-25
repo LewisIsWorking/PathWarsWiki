@@ -304,7 +304,7 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	])
 }
 
-lines: [string]: #Line
+lines: [N=string]: #Line & {name: *N | string}
 
 // What check.sh prints.
 report: {for k, l in lines {(k): {status: l.status, violations: l.violations}}}

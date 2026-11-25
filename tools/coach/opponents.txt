@@ -1,0 +1,85 @@
+# Opponent cards to keep in the card-text cache (quick precache).
+# One name per line, Master Duel / TCG spelling. Add a card the first time it shows up in a game.
+
+# Rhino (HERO)
+Contrast HERO Chaos
+Masked HERO Dark Law
+Elemental HERO Shining Neos Wingman
+Elemental HERO Sunrise
+Neos Fusion
+Masked HERO Vapor
+Masked HERO Furnace
+Xtra HERO Cross Crusader
+Vision HERO Increase
+
+# Natasha (Horus / Dragoon / Shining Sarcophagus)
+Red-Eyes Dark Dragoon
+King's Sarcophagus
+Walls of the Imperial Tomb
+Imsety, Glory of Horus
+Duamutef, Blessing of Horus
+Qebehsenuef, Protection of Horus
+Hapi, Guidance of Horus
+Horus the Black Flame Deity
+Shining Sarcophagus
+Dark Magician Girl the Magician's Apprentice
+Dark Magician of Destruction
+Ghost Mourner & Moonlit Chill
+Triple Tactics Thrust
+
+# Jack (Cyber Dragon)
+Cyber Dragon Infinity
+Chimeratech Fortress Dragon
+Chimeratech Megafleet Dragon
+Clockwork Night
+Cyber Eternity Dragon
+Cyber Emergency
+Cyber Dragon Core
+
+# Sky Striker (Luke, ranked)
+Sky Striker Ace = Zero
+Sky Striker Ace - Raye
+Sky Striker Ace - Roze
+Sky Striker Ace - Kagari
+Sky Striker Mecha - Widow Anchor
+Sky Striker Mobilize - Engage!
+Book of Moon
+Forbidden Lance
+Forbidden Chalice
+Forbidden Crown
+PSY-Framegear Gamma
+
+# Blue-Eyes
+True Light
+Blue-Eyes Spirit Dragon
+Blue-Eyes Tyrant Dragon
+Indigo-Eyes Silver Dragon
+Dominus Purge
+
+# Machina
+Machina Fortress
+Ghost Belle & Haunted Mansion
+
+# Elfnote / Power Patron
+Elfnote Power Patron
+Elfnote Seraphim Strelitzia
+Elfnote Fortuna
+Elfnote Tinia
+Elfnote Regina
+Elfnotes: Aristeia of Trust
+Elfnotes: A Plea for Help
+Baronne de Fleur
+S:P Little Knight
+
+# Labrynth
+Lady Labrynth of the Silver Castle
+
+# Common hand traps and tech you will be hit by
+Effect Veiler
+Ghost Ogre & Snow Rabbit
+Nibiru, the Primal Being
+Called by the Grave
+Infinite Impermanence
+Dark Ruler No More
+Lightning Storm
+Interrupted Kaiju Slumber
