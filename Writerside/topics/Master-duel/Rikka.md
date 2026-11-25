@@ -398,7 +398,7 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 **Positions, checked against card text (25 Nov):**
 - **Sacred Queen Strenna's detach** summons the Plant Xyz **in Defence** (so Rikka Queen Strenna can't attack). Attaching the Rikka monster afterwards is **optional ("you can")**: always attach one, or Rikka Queen Strenna has no material.
 - **Rikka Queen Strenna's float** ("if this card **with Xyz Material** is Tributed") has **no position lock**: Hyperyton / Kanzashi can come out in **Attack**. No material = no float.
-- **Hellebore's revive, Primrose's summon, Black Princess's summon from the Deck** (Jasmine too) are **Defence**.
+- **Hellebore's revive, Primrose's summon and Jasmine's summon** are **Defence**. Black Princess's summon from the Deck has no position lock.
 - Xyz Summons (Teardrop, Sacred Queen Strenna) and Synchro/Link/Fusion Summons choose position freely.
 
 **Rule we nearly broke:** **only 1 Rikka Glamour per turn** (and only 1 Moonlit Waters, 1 Predaprimitive). With 2 in hand, the second is a discard, not a second search.
