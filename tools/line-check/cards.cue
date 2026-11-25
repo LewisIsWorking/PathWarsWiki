@@ -20,7 +20,7 @@ cards: {
 	"Teardrop the Rikka Queen": {frame: "xyz", kind: "monster", race: "Plant", attr: "WATER", level: 8, effects: ["tribute"], atk: 2800}
 	"Teardrop the Rikka Sacred Queen": {frame: "xyz", kind: "monster", race: "Plant", attr: "WATER", level: 10, effects: ["send_tribute"], atk: 3200}
 	"Sacred Tree Beast, Hyperyton": {frame: "xyz", kind: "monster", race: "Plant", attr: "EARTH", level: 9, effects: ["attach", "negate"], atk: 2600}
-	"Orea, the Sylvan High Arbiter": {frame: "xyz", kind: "monster", race: "Plant", attr: "WATER", level: 7, effects: ["look", "excavate"]}
+	"Orea, the Sylvan High Arbiter": {frame: "xyz", kind: "monster", race: "Plant", attr: "DARK", level: 7, effects: ["look", "excavate"]}
 
 	"Primula the Rikka Fairy": {kind: "monster", race: "Plant", attr: "WATER", level: 4, effects: ["summon_self", "search"], addEffects: ["search"], atk: 800}
 	"Foolish Burial": {kind: "spell", effects: ["activate"], gyEffects: ["activate"]}
@@ -43,6 +43,8 @@ cards: {
 	"Predaplant Daredevil": {frame: "fusion", kind: "monster", race: "Plant", attr: "DARK", level: 6, atk: 2200}
 	"Starving Venom Fusion Dragon": {frame: "fusion", kind: "monster", race: "Dragon", attr: "DARK", level: 8, effects: ["atk", "copy", "destroyed"], atk: 2800}
 	"Garura, Wings of Resonant Life": {frame: "fusion", kind: "monster", race: "Winged Beast", attr: "DARK", level: 6, effects: ["draw"], atk: 1500} // battle damage involving it is doubled; draws 1 when sent to the GY (e.g. as Xyz material)
+	"Predaplant Dragostapelia": {frame: "fusion", kind: "monster", race: "Plant", attr: "DARK", level: 8, effects: ["counter"], atk: 2700} // 1 Fusion Monster + 1 DARK monster. counter: Quick Effect, target 1 of theirs, Predator Counter (it becomes Level 1); their activated monster effects with a counter are negated on resolution
+	"Mudragon of the Swamp": {frame: "fusion", kind: "monster", race: "Wyrm", attr: "WATER", level: 4, effects: ["attr"], atk: 1900} // 2 monsters with the same Attribute, different Types. They can't target it or your monsters with its Attribute; attr: Quick Effect, declare an Attribute until end of turn
 	"Crystal Wing Synchro Dragon": {frame: "synchro", kind: "monster", race: "Dragon", attr: "WIND", level: 8, effects: ["negate"], atk: 3000}
 	"Cactus Bouncer": {kind: "monster", race: "Plant", attr: "EARTH", level: 4, atk: 1800} // can't be Special Summoned: use lock "no_special" on its Normal Summon
 
@@ -88,6 +90,8 @@ cards: {
 	"Cyber Dragon Nova": {frame: "xyz", kind: "monster", race: "Machine", attr: "LIGHT", level: 5, atk: 2100}
 	"Chimeratech Fortress Dragon": {frame: "fusion", kind: "monster", race: "Machine", attr: "DARK", level: 8, atk: 0} // 1000 per material
 	"Cyber Eternity Dragon": {frame: "fusion", kind: "monster", race: "Machine", attr: "LIGHT", level: 10, atk: 2800}
+	// Natasha (Dragoon)
+	"Red-Eyes Dark Dragoon": {frame: "fusion", kind: "monster", race: "Spellcaster", attr: "DARK", level: 8, atk: 3000} // can't be targeted or destroyed by card effects
 	// HERO (Rhino)
 	"Masked HERO Dark Law": {frame: "fusion", kind: "monster", race: "Warrior", attr: "DARK", level: 6, atk: 2400}
 	"Contrast HERO Chaos": {frame: "fusion", kind: "monster", race: "Warrior", attr: "DARK", level: 9, atk: 3000} // also LIGHT while face-up

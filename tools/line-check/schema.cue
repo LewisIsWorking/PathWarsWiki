@@ -24,12 +24,12 @@ import (
 #Frame: "main" | "fusion" | "synchro" | "xyz" | "link"
 
 #Card: {
-	frame: #Frame | *"main"
-	kind:  "monster" | "spell" | "trap"
-	race: string | *""
-	attr: string | *"" // Attribute (DARK, LIGHT, ...): Fusion material checks
-	level?: int // Level, Rank or Link rating
-	tuner: bool | *false
+	frame:  #Frame | *"main"
+	kind:   "monster" | "spell" | "trap"
+	race:   string | *""
+	attr:   string | *"" // Attribute (DARK, LIGHT, ...): Fusion material checks
+	level?: int          // Level, Rank or Link rating
+	tuner:  bool | *false
 	// Names of the card's effects. Each one is once per turn unless listed in notOpt.
 	effects: [...string] | *[]
 	notOpt: [...string] | *[]
@@ -302,7 +302,7 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 			if cards[n] != _|_
 			let mats = [for m in t.consumes if cards[strings.Split(m, "#")[0]] != _|_ {
 				let changed = [for i, s in steps if i < j if s.setLevel[m] != _|_ {s.setLevel[m]}]
-				lv:    [if len(changed) > 0 {changed[len(changed)-1]}, cards[strings.Split(m, "#")[0]].level][0]
+				lv: [if len(changed) > 0 {changed[len(changed)-1]}, cards[strings.Split(m, "#")[0]].level][0]
 				tuner: cards[strings.Split(m, "#")[0]].tuner
 			}]
 			let total = list.Sum([for x in mats {x.lv}])
@@ -344,13 +344,14 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 				if cards[nm] != _|_ {
 					let dk = len([for i, s in steps if i < j && s.makesDark == m {1}]) > 0
 					let ct = len([for i, s in steps if i < j && s.counter == m {1}]) > 0
-					name:  nm
-					opp:   strings.HasPrefix(m, "opp:")
-					attr:  [if dk {"DARK"}, cards[nm].attr][0]
+					name: nm
+					opp:  strings.HasPrefix(m, "opp:")
+					attr: [if dk {"DARK"}, cards[nm].attr][0]
 					race:  cards[nm].race
 					lv1:   ct || (*cards[nm].level | 0) == 1
 					ctr:   ct
 					preda: strings.HasPrefix(nm, "Predaplant")
+					fus:   (*cards[nm].frame | "main") == "fusion"
 				}]
 			let rule = _fusionRule[fn]
 			let contact = t.card == fn && t.action == "special_summon"
@@ -358,6 +359,8 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 			if (len(mats) != 2) ||
 				(rule == "dark2" && (mats[0].attr != "DARK" || mats[1].attr != "DARK")) ||
 				(rule == "garura" && (mats[0].race != mats[1].race || mats[0].attr != mats[1].attr || mats[0].name == mats[1].name)) ||
+				(rule == "mudragon" && (mats[0].attr != mats[1].attr || mats[0].race == mats[1].race)) ||
+				(rule == "dragostapelia" && !((mats[0].fus && mats[1].attr == "DARK") || (mats[1].fus && mats[0].attr == "DARK"))) ||
 				(rule == "daredevil" && !contact && !((mats[0].preda && mats[1].lv1) || (mats[1].preda && mats[0].lv1))) ||
 				(rule == "daredevil" && contact && !((mats[0].preda && !mats[0].opp && mats[1].ctr) || (mats[1].preda && !mats[1].opp && mats[0].ctr))) {
 				"step \(j+1): \(fn) can't use \(strings.Join([for x in mats {"\(x.name) (\(x.attr) \(x.race))"}], " + ")) (\(_fusionText[rule]))"
@@ -402,11 +405,15 @@ _fusionRule: {
 	"Starving Venom Fusion Dragon":   "dark2"
 	"Garura, Wings of Resonant Life": "garura"
 	"Predaplant Daredevil":           "daredevil"
+	"Mudragon of the Swamp":          "mudragon"
+	"Predaplant Dragostapelia":       "dragostapelia"
 }
 _fusionText: {
-	dark2:     "needs 2 DARK monsters: use Lilizard's makesDark on the other one"
-	garura:    "needs 2 monsters with the same Type and Attribute, different names"
-	daredevil: "needs a Predaplant + a Level 1 monster; its Tribute summon needs a Predaplant you control + a monster with a Predator Counter"
+	dark2:         "needs 2 DARK monsters: use Lilizard's makesDark on the other one"
+	garura:        "needs 2 monsters with the same Type and Attribute, different names"
+	mudragon:      "needs 2 monsters with the same Attribute but different Types"
+	dragostapelia: "needs 1 Fusion Monster + 1 DARK monster"
+	daredevil:     "needs a Predaplant + a Level 1 monster; its Tribute summon needs a Predaplant you control + a monster with a Predator Counter"
 }
 // Rikka cards whose cost Tributes a Plant you control, so Konkon can Tribute their monster instead.
 _konkonUsers: ["Rikka Black Princess", "Mudan the Rikka Fairy", "Rikka Glamour", "Rikka Moonlit Waters", "Hellebore the Rikka Fairy", "Rikka Princess", "Rikka Sheet"]

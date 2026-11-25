@@ -162,7 +162,7 @@ Errors in live advice this session; check these before sending a line:
 - **Moonlit Waters locks the Extra Deck to Plant Xyz.** In PredaRikka, do Instant Fusion, Bal Teah and Jasmine **before** it (only vs a known Droll player is Moonlit-first worth losing them).
 - **Position changes:** once per turn per monster, and never on the turn it was summoned (Mudan summoned in Defence stays in Defence). Don't plan a switch.
 - **Glamour and Moonlit Waters Tributes are optional.** Without one, Glamour adds only the Rikka monster and Moonlit gives no targeting protection.
-- **Super Poly before any Rikka lock.** Petal, Black Princess, Konkon, Primrose and Rikka Princess lock you to Plants; Moonlit to Plant Xyz; Predaprimitive to Plant/Dragon. So the only Super Poly target that fits a PredaRikka turn is **Starving Venom** (Dragon, 2 DARK), played right after Predaprimitive. **Lilizard** makes any face-up monster DARK for it.
+- **Super Poly before any Rikka lock.** Petal, Black Princess, Konkon, Primrose and Rikka Princess lock you to Plants; Moonlit to Plant Xyz; Predaprimitive to Plant/Dragon. Super Poly targets that still fit after a lock: **Starving Venom** (Dragon, 2 DARK) after Predaprimitive, and since 25 Nov **Predaplant Dragostapelia** (Plant: 1 Fusion Monster + 1 DARK) after Predaprimitive **or** any Plant lock. **Lilizard** makes any face-up monster DARK for either. Garura and **Mudragon** go first, before any lock. Only Moonlit Waters stops all of them.
 - **Don't Tribute Summon Mudan.** It summons itself by Tributing a Plant you control; the Normal Summon is worth more (Cactus, Longinephila, Petal).
 - **Dead monster in hand? Tribute it from the hand** with Black Princess (or Rikka Princess's cost). Hellebore from the hand goes to the GY, where it revives itself.
 - **Dracaena sends Rikka Princess** (Level 4) to the GY when the line has no other way to get her there: her negate works from the GY.
@@ -250,7 +250,7 @@ All lines pass the line checker (`tools/line-check/lines_going2nd.cue`). All **U
 | Tool | Targets? | Card effect? | Notes |
 | --- | --- | --- | --- |
 | **Daredevil's own summon** (Longinephila's Predator Counter + Tribute it with a Predaplant you control) | No (the counter is placed, not targeted) | **No, it's a summon procedure** (rules reading: check in game) | Can't be negated by "negate the activation" cards. Beats Obelisk (can't be targeted), Wingman / Vapor (can't be destroyed), Machina Fortress (target and battle punish). Daredevil is a Plant, so it fits Petal / Black Princess locks, but **not after Moonlit Waters** (Plant Xyz only). |
-| **Super Polymerization** | No | Yes | Nobody can respond. Starving Venom (2 DARK), Garura (same Type + Attribute), Daredevil (Predaplant + Level 1). Starving Venom and Daredevil fit Predaprimitive's Plant/Dragon lock; Garura doesn't. |
+| **Super Polymerization** | No | Yes | Nobody can respond. Starving Venom (2 DARK), Garura (same Type + Attribute), **Mudragon** (same Attribute, different Types), **Dragostapelia** (Fusion + DARK), Daredevil (Predaplant + Level 1). Starving Venom, Dragostapelia and Daredevil fit Predaprimitive's Plant/Dragon lock; Dragostapelia and Daredevil also fit the Rikka Plant locks; Garura and Mudragon fit none. |
 | **Konkon's replacement Tribute** | No | Yes (a cost) | Once per turn, needs Konkon face-up and a Rikka cost (Black Princess, Mudan, Glamour, Moonlit, Hellebore, Rikka Princess, Sheet). |
 | **Teardrop the Rikka Queen** | **Yes** | Yes | Quick only with Plant material. Obelisk can't be targeted. |
 | **Teardrop the Rikka Sacred Queen** | No | Yes | Detach up to 6: send that many Spells/Traps, then Tribute 1 monster. |
@@ -352,9 +352,9 @@ Monte Carlo (200k hands): brick going 1st 5.1%; going 2nd 2.5%; going 2nd with a
 - **Spells (14):** Instant Fusion 1, Rikka Glamour 2, Triple Tactics Talent 1, Predaprimitive 3, Rikka Moonlit Waters 3, Rikka Konkon 1, Super Polymerization 2, Forbidden Droplet 1.
 - **Traps (5):** Evenly Matched 1, Rikka Sheet 1, Dominus Impulse 3.
 
-**Extra Deck (15):** Predaplant Ambulomelides, Garura, Predaplant Daredevil, Starving Venom, Predaplant Bal Teah, Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna, Orea the Sylvan High Arbiter, Teardrop the Rikka Queen ×2, Sacred Tree Beast Hyperyton, Teardrop the Rikka Sacred Queen, Aromaseraphy Jasmine, **Sylvan Dancepione**.
+**Extra Deck (15):** Predaplant Ambulomelides, Garura, Predaplant Daredevil, Starving Venom, Predaplant Bal Teah, Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna, **Predaplant Dragostapelia**, Teardrop the Rikka Queen ×2, Sacred Tree Beast Hyperyton, Teardrop the Rikka Sacred Queen, Aromaseraphy Jasmine, **Mudragon of the Swamp**.
 
-Differences from the 22 Nov vs-Natasha list: Purulia ×2 back in for Mulcharmy Meowls ×2. **Extra Deck corrected 25 Nov 2026 from the deck-edit screenshot: Sylvan Dancepione, not Crystal Wing** (Crystal Wing is owned but not in the deck; still no Black Rose / Bramble Rose). Every Extra Deck route: see **Extra Deck routes** below.
+Differences from the 22 Nov vs-Natasha list: Purulia ×2 back in for Mulcharmy Meowls ×2. **Extra Deck corrected 25 Nov 2026 from the deck-edit screenshot: Sylvan Dancepione, not Crystal Wing** (Crystal Wing is owned but not in the deck; still no Black Rose / Bramble Rose). **25 Nov 2026 (evening): Predaplant Dragostapelia in for Orea, Mudragon of the Swamp in for Sylvan Dancepione** (Lewis already owned both; confirm in game which slots changed). Why: see **Super Poly targets** under Extra Deck routes. Every Extra Deck route: see **Extra Deck routes** below.
 
 ## Going first: lookup table (PredaRikka, 25 Nov 2026)
 
@@ -461,17 +461,17 @@ Black Princess from hand, Tributes **herself** → **Mudan** (adds Konkon; Konko
 
 ## Extra Deck routes (PredaRikka, 25 Nov 2026)
 
-Lewis's 15 (checked against the deck-edit screenshot): Ambulomelides, Garura, Daredevil, Starving Venom, Bal Teah, Rikka Queen Strenna, Kanzashi, Sacred Queen Strenna, Orea, Teardrop ×2, Hyperyton, Teardrop Sacred Queen, **Aromaseraphy Jasmine**, **Sylvan Dancepione**. **No Crystal Wing** (owned, not in the deck). Card text checked on ProjectIgnis BabelCDB. Lines below pass the checker (`tools/line-check/lines_extra.cue`), all **UNTESTED**.
+Lewis's 15 (checked against the deck-edit screenshot): Ambulomelides, Garura, Daredevil, Starving Venom, Bal Teah, Rikka Queen Strenna, Kanzashi, Sacred Queen Strenna, **Dragostapelia**, Teardrop ×2, Hyperyton, Teardrop Sacred Queen, **Aromaseraphy Jasmine**, **Mudragon**. **No Crystal Wing** (owned, not in the deck). Updated 25 Nov evening: Dragostapelia replaced Orea, Mudragon replaced Sylvan Dancepione (old Dancepione notes are kept at the end of this section in case you swap back). Card text checked on ProjectIgnis BabelCDB. Lines below pass the checker (`tools/line-check/lines_extra.cue`), all **UNTESTED**.
 
 ### Rules of thumb (live coach: read these first)
 1. **Count Plant bodies before Moonlit Waters.** Any **3 Plant monsters** (any Level) = the **Jasmine bridge**: Link 2 of them into Jasmine with the 3rd under an arrow; Jasmine Tributes the 3rd → **Black Princess**; Black Princess Tributes Jasmine (or a spare Plant in hand) → **Mudan** (search Konkon) → **R**. Full board: Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, set Sheet. Needs Mudan's search unused and the R cards still in the Deck.
 2. **Moonlit Waters stops every Fusion, Synchro and Link** (Plant Xyz only). All Predaplant and Link steps come first.
-3. **One Extra Monster Zone.** Jasmine and Dancepione need it (their arrows point down into your Main Monster Zones; from a Main Monster Zone they point at nothing). Put Fusion, Synchro and Xyz Monsters in Main Monster Zones when a Link is coming. A second Link can only go in a zone the first one points to.
-4. **Two of their monsters share Type and Attribute (different names) and Super Poly is in your opening hand → Garura FIRST**, before Predaprimitive or any Rikka card (Garura is a Winged Beast: every lock in the deck stops it). Then Predaprimitive adds Super Poly #2 to hold.
+3. **One Extra Monster Zone.** Jasmine needs it (their arrows point down into your Main Monster Zones; from a Main Monster Zone they point at nothing). Put Fusion, Synchro and Xyz Monsters in Main Monster Zones when a Link is coming. A second Link can only go in a zone the first one points to.
+4. **Super Poly in your opening hand, two of their monsters share an Attribute → Garura or Mudragon FIRST**, before Predaprimitive or any Rikka card. Same Type too (different names) → **Garura**; different Types → **Mudragon**. Both are non-Plants, so every lock in the deck stops them. Then Predaprimitive adds Super Poly #2 to hold.
 5. **Instant Fusion reaches only Ambulomelides** (Level 5 or lower). Starving Venom, Garura and Daredevil-by-Fusion need Super Poly.
 6. **Dead text in this deck:** Lilizard's Polymerization add, Bal Teah's Polymerization Fusion, Longinephila's "Set Polymerization" (no Polymerization in the deck).
 7. **Cactus + any other Plant on either field: no Fusion, Synchro, Xyz or Link at all.** Cactus is always the last card.
-8. **Don't use Dancepione's excavation before Moonlit's pair (Primrose + Hellebore) and Rikka Princess have left the Deck**: it can send them to the GY and break R. It's a late-game tool.
+8. **Super Poly after a lock → Dragostapelia or Starving Venom.** Dragostapelia needs a **Fusion Monster** (theirs: Dragoon, Dark Law, Chaos, Chimeratech Fortress, Apophis; yours: Ambulomelides, Daredevil, Starving Venom) **+ a DARK monster**. It is a Plant, so it works after Petal, Black Princess, Konkon and Primrose, not after Moonlit. Do it before Moonlit Waters.
 
 ### Every Extra Deck monster
 
@@ -485,28 +485,46 @@ Lewis's 15 (checked against the deck-edit screenshot): Ambulomelides, Garura, Da
 | **Rikka Queen Strenna** (Rank 4) | Usually from Sacred Queen Strenna's detach. Natural: 2 Level 4 (Bal Teah, Rikka Princess, Dracaena that sent a Level 4) | none (Plant Xyz) | Detach: add a Plant or Rikka card from the GY. Tributed with material → **Hyperyton** |
 | **Sacred Queen Strenna** (Rank 6, Plants) | Mudan + Black Princess; Daredevil counts | none | Detach 2 → Rikka Queen Strenna or Kanzashi (+ a Rikka monster from the Deck). Each Tribute: set Sheet |
 | **Kanzashi** (Rank 6, any) | As Sacred Queen, or any Level 6 (Garura too) | none | Revives any monster from either GY when something is Tributed. Protects Plants |
-| **Orea** (Rank 7) | No natural Level 7 in the deck | none | Practically unreachable; ignore it |
+| **Dragostapelia** (Fusion, Level 8 Plant DARK, 2700) | Super Poly: **1 Fusion Monster + 1 DARK monster**. Theirs: Dragoon + Imsety, Dark Law + Chaos (both DARK Fusions), Chimeratech Fortress + any DARK. Yours as the Fusion: Ambulomelides, Daredevil or Starving Venom + one of their DARK monsters (Lilizard makes it DARK) | Moonlit only (it's a Plant) | Removes 2 of theirs when both materials are theirs. Quick Effect once per turn: target 1 of theirs, Predator Counter (it becomes Level 1); its activated monster effects are negated. A countered monster lets **Daredevil summon itself by Tributing it** (before Moonlit). Level 8: **Teardrop** with Hellebore or Primrose. Obelisk can't be targeted |
 | **Teardrop** (Rank 8, any) | Hellebore, Primrose, Starving Venom, Mudan / Black Princess +2 (Primrose) | none | Quick-Effect Tribute with Plant material; +200 ATK per Tribute |
 | **Hyperyton** (Rank 9) | Only Rikka Queen Strenna's float (no Level 9s) | none | Negates one card of a type it has as material |
 | **Teardrop Sacred Queen** (Rank 10) | On top of Teardrop (keeps the materials) | none | Send up to 6 Spells/Traps, then Tribute 1 monster |
 | **Aromaseraphy Jasmine** (Link-2, LIGHT Plant, 1800) | Any 2 Plants | Moonlit, Cactus | Tribute a monster it points to → **any Plant from the Deck** in Defence: Black Princess, Petal, Mudan (searches if unused: Jasmine is a Plant), Longinephila (Predap search if unused), Primrose, Hellebore, Rikka Princess. The Tribute also triggers Primrose in hand, Sacred Queen's Sheet set, Kanzashi, Teardrop +200 |
-| **Sylvan Dancepione** (Link-2, WIND Plant, 1200) | Any 2 Plants | Moonlit, Cactus | On Link Summon: excavate 1 to 3, Special Summon up to 2 Plants (they can't be Link Material), the rest go to the GY. Mid-game about 7 in 10 of 3-card excavations hit a Plant: a gamble, not a plan. Then: the monsters it points to become the Level of a Plant in your GY: **8** with Hellebore / Primrose there (Teardrop), **6** with Mudan / Black Princess (Sacred Queen Strenna, Kanzashi), **4** with Rikka Princess / Bal Teah (Rikka Queen Strenna) |
+| **Mudragon of the Swamp** (Fusion, Level 4 Wyrm WATER, 1900) | Super Poly: **2 monsters with the same Attribute but different Types**. Elfnote: Power Patron + Strelitzia (FIRE). Sky Striker: Zero + Roze (LIGHT). Cyber Dragon: a LIGHT Machine + your Jasmine (LIGHT Plant). Horus: Duamutef + a WATER Rikka of yours, Qebehsenuef + Cactus or Hyperyton (EARTH). HERO: Wingman + Jasmine (LIGHT) | **Every lock in the deck** (it's a Wyrm): first card of the turn, like Garura | Removes 2 of theirs. They can't target it or your monsters with its Attribute; Quick Effect: declare **WATER** to protect your Rikka monsters for the turn. Level 4: Rikka Queen Strenna material in theory (2 Level 4s) |
 
 ### Going first re-check (F1 to F9)
-No row changes. F1 to F4 already use Jasmine and end on Teardrop, Hyperyton, Sacred Queen Strenna and Primrose; F5 to F8 have no spare Plant bodies before Moonlit; F9 (Black Princess alone) has one body, and Jasmine needs three. Garura and Starving Venom are dead going first. Dancepione would risk the Moonlit pair (rule 8). **New row: F10, Instant Fusion + Mudan** (above).
+No row changes. F1 to F4 already use Jasmine and end on Teardrop, Hyperyton, Sacred Queen Strenna and Primrose; F5 to F8 have no spare Plant bodies before Moonlit; F9 (Black Princess alone) has one body, and Jasmine needs three. Garura and Starving Venom are dead going first. **New row: F10, Instant Fusion + Mudan** (above).
 
 ### Going second re-check
 - **The core stays** (Daredevil on A, Starving Venom on B, Teardrop + Teardrop Sacred Queen).
 - **New, with Super Poly in the opening hand: Garura first.** Super Poly (discard) on their two same-Type/Attribute monsters → Garura. Predaprimitive (add Super Poly #2, hold it) → Byblisp → Normal Summon Longinephila → Lilizard → Bal Teah → Lilizard back (draw) → Moonlit (Primrose, send Hellebore) → Hellebore Tributes **Lilizard** → Primrose + Black Princess → Black Princess to Level 8 → Teardrop → Teardrop Sacred Queen on top. Attack: Sacred Queen 3200 + Garura 1500 (doubled: 3000) + Bal Teah 1900 = **8100**. Machina: Fortress + Air Raider. Cyber Dragon: Infinity + Cyber Dragon (**not Nova**: sent to the GY by your effect, it summons a Machine Fusion). Lines: "Machina going 2nd, drawn Super Poly", "Cyber Dragon going 2nd, drawn Super Poly".
 
+### Super Poly targets (added 25 Nov 2026, evening)
+
+Lines in `tools/line-check/lines_superpoly.cue`, all pass the checker, all **UNTESTED**.
+
+- **Elfnote, drawn Super Poly: Mudragon first.** Super Poly (discard) on **Power Patron + Strelitzia** (FIRE Fiend + FIRE Plant) → Mudragon. Then the Garura-first turn: Predaprimitive (add Super Poly #2) → Byblisp → Normal Summon Longinephila → Lilizard → Bal Teah → Lilizard back (draw) → Moonlit (Primrose, send Hellebore) → Hellebore Tributes Lilizard → Primrose + Black Princess → Black Princess to Level 8 → Teardrop → Teardrop Sacred Queen on top. End: Mudragon, Teardrop Sacred Queen, Primrose, Bal Teah. 7000 damage into an empty field (not lethal). Line: "Elfnote going 2nd, drawn Super Poly: Mudragon ...".
+- **Sky Striker, drawn Super Poly: Mudragon first on Zero + Roze** (LIGHT Machine + LIGHT Warrior). Zero can't Tribute itself in response. Same turn after it. With **Zero alone**, Mudragon has no partner: use the Daredevil line ("Sky Striker going 2nd: Daredevil on Zero ...").
+- **After the Plant lock: Dragostapelia.** Example vs Natasha (Dragoon, Imsety, Duamutef): Petal (send Black Princess) → Black Princess from the GY → Tribute Petal → Mudan; **Super Poly: Dragoon + Imsety → Dragostapelia** (before Moonlit); Dragostapelia counters Duamutef; then Line 1's Rikka finish (Konkon → Moonlit → Teardrop, Hyperyton, Sacred Queen Strenna, Primrose). Dragoon can't negate Super Poly. Line: "Natasha going 2nd: Petal line, then Super Poly on Dragoon + Imsety ...".
+- **HERO:** Dark Law + Chaos are both DARK Fusions, so Super Poly can make Dragostapelia (stays useful after Rikka locks) as well as Starving Venom.
+- **Jasmine and your Extra Deck as materials:** Jasmine (LIGHT Plant) is Mudragon's partner for one LIGHT monster of theirs; Bal Teah, Daredevil, Ambulomelides and Starving Venom are DARK (Dragostapelia's DARK side, and the last three are its Fusion side); Hyperyton and Cactus are EARTH (Mudragon with Machina or Qebehsenuef).
+
 ### Low-resource turns (empty field, 2-3 cards)
 - **3 Plant bodies, Mudan's search unused → Jasmine bridge** (rule 1). Line: "Jasmine bridge: any 3 Plants on the field".
 - **Instant Fusion + Mudan, no Predaplant left in the Deck:** F10 still works if **Lilizard is in the GY** (Ambulomelides adds it from there). Line: "Instant Fusion + Mudan (Jasmine bridge ...)"; `quick find ... --late` for lines that assume cards gone from the Deck.
-- **Exactly 2 Plants and nothing else:** Dancepione is the only Extra Deck play that can add bodies (random). Excavate 3. If it hits, put the hits under its arrows and use its Level effect toward Teardrop or Sacred Queen Strenna.
+- **Exactly 2 Plants and nothing else:** no Extra Deck play adds bodies now (Dancepione is out). Jasmine needs a 3rd Plant to Tribute; with only 2, play Black Princess / Mudan from hand first.
 - **No Predap card left in the Deck:** Predaprimitive can't be activated; Ambulomelides' Tribute effect does nothing.
 
 ### Known-bad Extra Deck plays (the checker catches these)
-Jasmine after Moonlit Waters; Jasmine or Dancepione with a non-Plant (Starving Venom); Dancepione's excavated Plant as Link Material; two monsters in Extra Monster Zones; Garura after Predaprimitive.
+Jasmine after Moonlit Waters; Jasmine with a non-Plant (Starving Venom); Mudragon after Predaprimitive (Wyrm); Dragostapelia without a Fusion Monster (Raye + Lilizard); two monsters in Extra Monster Zones; Garura after Predaprimitive.
+
+### If Sylvan Dancepione goes back in (old notes)
+
+Dancepione: don't excavate before Moonlit's pair (Primrose + Hellebore) and Rikka Princess have left the Deck (it can send them to the GY and break R). With exactly 2 Plants and nothing else, excavate 3 (about 7 in 10 hit a Plant). Table row:
+
+| Monster | Make it from this deck | Locks that stop it | What it gives you |
+| --- | --- | --- | --- |
+| **Sylvan Dancepione** (Link-2, WIND Plant, 1200) | Any 2 Plants | Moonlit, Cactus | On Link Summon: excavate 1 to 3, Special Summon up to 2 Plants (they can't be Link Material), the rest go to the GY. Mid-game about 7 in 10 of 3-card excavations hit a Plant: a gamble, not a plan. Then: the monsters it points to become the Level of a Plant in your GY: **8** with Hellebore / Primrose there (Teardrop), **6** with Mudan / Black Princess (Sacred Queen Strenna, Kanzashi), **4** with Rikka Princess / Bal Teah (Rikka Queen Strenna) |
 
 ## PredaRikka sample hands
 
@@ -670,7 +688,7 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 
 **Key idea: Evenly Matched on YOUR turn.** It works at the end of your Battle Phase, from the hand if you control no cards. Their Quick Effects above are Main Phase only, so go to the Battle Phase with an empty field, Evenly Matched them down to 1 card (face-down banish ignores their protection), then combo in Main Phase 2.
 
-**Super Poly** has no target here: none of their monsters share a Type + Attribute (Fortuna LIGHT Spellcaster, Power Patron FIRE Fiend, Strelitzia FIRE Plant), and Daredevil needs your own Predaplant. Set it for later.
+**Super Poly** has no target here: none of their monsters share a Type + Attribute (Fortuna LIGHT Spellcaster, Power Patron FIRE Fiend, Strelitzia FIRE Plant), and Daredevil needs your own Predaplant. Set it for later. **Update 25 Nov evening:** with **Mudragon** in the Extra Deck, Power Patron + Strelitzia (both FIRE, different Types) **is** a Super Poly target. Play it first, before any lock.
 
 **Line (UNTESTED, from card text):**
 1. Main Phase 1: do nothing. Enter the Battle Phase with 0 cards.

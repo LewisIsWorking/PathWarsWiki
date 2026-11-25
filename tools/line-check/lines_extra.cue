@@ -87,7 +87,7 @@ lines: "KNOWN BAD: Jasmine with a non-Plant": {
 lines: "KNOWN BAD: Dancepione's excavated Plant as Link Material": {
 	source: "Extra Deck audit, 25 Nov 2026: Dancepione's summons can't be Link Material"
 	status: "known_bad"
-	deck:   "PredaRikka"
+	deck:   "PredaRikka (Dancepione)"
 	hand: []
 	startField: ["Predaplant Lilizard", "Predaplant Byblisp", "Predaplant Longinephila"]
 	steps: [
@@ -101,7 +101,7 @@ lines: "KNOWN BAD: Dancepione's excavated Plant as Link Material": {
 lines: "KNOWN BAD: Jasmine and Dancepione both in Extra Monster Zones": {
 	source: "Extra Deck audit, 25 Nov 2026: one Extra Monster Zone per player"
 	status: "known_bad"
-	deck:   "PredaRikka"
+	deck:   "PredaRikka (Dancepione)"
 	hand: []
 	startField: ["Predaplant Lilizard", "Predaplant Byblisp", "Predaplant Longinephila", "Princess Dracaena, the Thirsting Tree"]
 	steps: [

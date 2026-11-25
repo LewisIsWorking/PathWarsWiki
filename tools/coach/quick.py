@@ -132,7 +132,7 @@ def known_names():
         names = set()
         for f in ("cards.cue", "decks.cue"):
             names |= set(re.findall(r'^\s*"((?:[^"\\]|\\.)+)":\s*[{0-9]', open(os.path.join(LC, f)).read(), re.M))
-        names = {n.replace('\\"', '"') for n in names} - {"PredaRikka", "RikkaM1"}
+        names = {n.replace('\\"', '"') for n in names} - {"PredaRikka", "PredaRikka (Dancepione)", "RikkaM1"}
         opp = os.path.join(HERE, "opponents.txt")
         if os.path.exists(opp):
             names |= {l.strip() for l in open(opp) if l.strip() and not l.startswith("#")}
@@ -489,7 +489,7 @@ def cmd_card(argv):
 
 def all_card_names():
     names = set(re.findall(r'^\s*"((?:[^"\\]|\\.)+)":\s*[{0-9]', open(os.path.join(LC, "cards.cue")).read() + open(os.path.join(LC, "decks.cue")).read(), re.M))
-    names = {n.replace('\\"', '"') for n in names} - {"PredaRikka", "RikkaM1"}
+    names = {n.replace('\\"', '"') for n in names} - {"PredaRikka", "PredaRikka (Dancepione)", "RikkaM1"}
     opp = os.path.join(HERE, "opponents.txt")
     names |= {l.strip() for l in open(opp) if l.strip() and not l.startswith("#")}
     return sorted(names)

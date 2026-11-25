@@ -260,7 +260,8 @@ Byblisp, Lilizard, Konkon, Rikka Princess, Hellebore, Primrose, Cactus and Super
 - **3 Plants on the field before Moonlit = Jasmine bridge** (Jasmine Tributes the 3rd → Black Princess → Tributes Jasmine → Mudan → full Rikka finish).
 - **Moonlit Waters stops every Fusion, Synchro and Link.** One Extra Monster Zone: Links need it.
 - **Super Poly in the opening hand + two of theirs with the same Type and Attribute → Garura first** (before Predaprimitive). Machina Fortress + Air Raider; Infinity + Cyber Dragon (not Nova).
-- **Extra Deck has Sylvan Dancepione, not Crystal Wing.** Dancepione = late-game gamble (excavate 3), never before Moonlit's Primrose + Hellebore leave the Deck.
+- **Super Poly targets (25 Nov):** same Attribute + same Type → **Garura**; same Attribute, different Types → **Mudragon** (Elfnote: Power Patron + Strelitzia; Sky Striker: Zero + Roze). Both FIRST, before any lock. After a Plant lock (Petal, Black Princess, Konkon, Primrose): **Dragostapelia** = their Fusion + a DARK (Dragoon + Imsety, Dark Law + Chaos), before Moonlit.
+- **Extra Deck: Dragostapelia + Mudragon replaced Orea + Sylvan Dancepione** (25 Nov). No Crystal Wing.
 
 **Ash Blossom: one per turn.** Glamour and Mudan Tribute from the field only; Black Princess can Tribute from the hand.
 
