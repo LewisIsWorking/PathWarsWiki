@@ -431,4 +431,6 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 
 **Live (25 Nov):** Evenly Matched resolved; they kept **Strelitzia** (Defence). Then they **Ashed Moonlit Waters**. Ended on Cactus Bouncer + set Super Poly, Hellebore in hand. Silver lining: Strelitzia is a **Plant**, so Cactus + Strelitzia means **neither player can Special Summon** (Super Poly included) until one leaves. Result: pending.
 
+**Turn 4 (UNTESTED):** they Normal Summoned **Medius the Pure** (added Junoldo), Strelitzia still up. Hand: Hellebore, Predaprimitive. Super Poly is locked too (Fusion Summon = Special Summon), so keep the lock: Predaprimitive (send Byblisp, add Super Poly #2) → Byblisp adds **Longinephila** → **Normal Summon it in Defence** as a second Plant so the lock survives if Strelitzia leaves. Don't attack. Junoldo's Junora summon, Pendulum Summons and Medius's GY revive are all Special Summons.
+
 **Takeaway:** Ash would have hit Moonlit Waters in Main Phase 1 too, so Evenly Matched first was still right: it removed 3 of their 4 cards for free. With one starter in hand, expect a hand-trapped combo and make sure Cactus still lands.
