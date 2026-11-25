@@ -63,6 +63,7 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	// (e.g. Black Princess's effect summoning Mudan from the Deck).
 	summons: string | *""
 	// Field monsters that leave the field in this step: Tributes, materials, costs.
+	// Prefix the opponent's cards with "opp:" (e.g. Konkon Tributing "opp:Masked HERO Dark Law").
 	consumes: [...string] | *[]
 	// Cards Tributed or discarded from the hand (not checked).
 	fromHand: [...string] | *[]
@@ -131,7 +132,7 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 		// A field card must be on the field: it entered before, and nothing removed it since.
 		[for j, t in steps
 			let uses = list.Concat([[if t.zone == "field" && !list.Contains(_enterActions, t.action) {t.card}], t.consumes])
-			for x in uses
+			for x in uses if !strings.HasPrefix(x, "opp:")
 			let enters = list.Concat([
 				[if list.Contains(startField, x) {-1}],
 				[for i, s in steps if i < j && ((s.summons != "" && s.summons == x) || (s.card == x && list.Contains(_enterActions, s.action))) {i}],
@@ -175,7 +176,7 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 		[for j, t in steps if t.action == "xyz" && !t.rankUp
 			let n = strings.Split(t.card, "#")[0]
 			if cards[n] != _|_
-			for m in t.consumes
+			for m in t.consumes if !strings.HasPrefix(m, "opp:")
 			let mn = strings.Split(m, "#")[0]
 			if cards[mn] != _|_
 			let changed = [for i, s in steps if i < j if s.setLevel[m] != _|_ {s.setLevel[m]}]

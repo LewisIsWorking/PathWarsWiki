@@ -153,3 +153,21 @@ Result: **lost** (turn 9). Their Quick Effects all fire on **your** turn: Baronn
 | Going 2nd, any starter + Super Poly | **S2 / S3**, finishers in **Tip T3** |
 | Going 2nd into Natasha | **Tip T2** |
 | Hand traps on their turn | **Tip T1** |
+
+## Rikka / PredaRikka: which line
+
+Every line here passes the line checker (`tools/line-check`). Full steps on the [Rikka](Rikka.md) page.
+
+| Situation | Line | Status |
+| --- | --- | --- |
+| Going 1st, Rikka Petal (or Glamour) | **Line 1** (Teardrop + Hyperyton) | Proven |
+| Going 1st, Moonlit Waters | **Line A** (Hyperyton with a Spell material + Cactus) | Proven |
+| Going 1st, Black Princess + any Plant | **Line B** (Hyperyton + Cactus). PredaRikka has 1 Rikka Princess: Strenna attaches Petal or Black Princess, not her | Proven (pure Rikka) |
+| Going 1st, Predaprimitive or Instant Fusion (PredaRikka) | **Predaprimitive → Cactus** | Proven |
+| Going 1st, Predaprimitive + Konkon + spare Longinephila | **Line C** | UNTESTED |
+| Going 1st, Rikka Princess already out + Mudan | **Rikka Princess + Mudan + Sheet** | UNTESTED |
+| Going 2nd into Horus (Sons + both Sarcophagi) | **Horus break**: Teardrop the Rikka Sacred Queen detaches **2**, then attack | UNTESTED |
+| Going 2nd into Dark Law | Answer Dark Law **before** searching. Predaprimitive, Dracaena, Moonlit Waters and Droplet are blocked; Black Princess, Mudan, Konkon and Glamour still work. Against Rhino, play Invoked | Lesson |
+
+**Ash Blossom: one per turn.** Glamour and Mudan Tribute from the field only; Black Princess can Tribute from the hand.
+

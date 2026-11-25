@@ -67,7 +67,7 @@ lines: "Horus break: Petal + Mudan + Black Princess hand": {
 		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", summons: "Kanzashi the Rikka Queen"},
 		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]},
 		{card: "Teardrop the Rikka Sacred Queen", action: "xyz", zone: "extra", rankUp: true, consumes: ["Teardrop the Rikka Queen"]},
-		{card: "Teardrop the Rikka Sacred Queen", action: "effect", effect: "send_tribute", note: "detach 2: send King's Sarcophagus + Walls, then Tribute Imsety"},
+		{card: "Teardrop the Rikka Sacred Queen", action: "effect", effect: "send_tribute", consumes: ["opp:Imsety, Glory of Horus"], note: "detach 2: send King's Sarcophagus + Walls, then Tribute Imsety"},
 	]
 	end: mmz: ["Rikka Sacred Queen Strenna", "Kanzashi the Rikka Queen", "Teardrop the Rikka Sacred Queen"]
 }

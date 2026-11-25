@@ -36,7 +36,7 @@ One step per action, in order. The fields that matter:
 - `action`: `normal_summon`, `special_summon`, `activate`, `effect`, `xyz`, `synchro`, `link`, `fusion`, `set`.
 - `effect`: which of the card's effects (names in `cards.cue`).
 - `zone`: where the card is (`field` by default; `hand`, `gy`, `deck`, `extra`).
-- `consumes`: field monsters that leave in this step (Tributes, materials).
+- `consumes`: field monsters that leave in this step (Tributes, materials). Opponent's cards start with `opp:` (e.g. Konkon Tributing `opp:Masked HERO Dark Law`).
 - `summons`: a monster this step summons when it isn't the step's own card.
 - `fromDeck`: cards taken from the Deck (adds, sends, attaches, summons).
 - `lock`: the summon lock the step applies (`plant`, `plant_or_dragon`, `extra_plant_xyz`, `no_special`).
