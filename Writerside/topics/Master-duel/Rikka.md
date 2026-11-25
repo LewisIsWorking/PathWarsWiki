@@ -351,9 +351,13 @@ If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus ne
 
 **What actually happened (25 Nov, vs Sloth):** Dracaena first, then Predaprimitive (Super Poly added) → **Droll** on Byblisp's search. Post-Droll line (UNTESTED, from card text):
 1. **Triple Tactics Talent** is live (Droll is a monster effect in your Main Phase). Draw 2 is blocked by Droll, so **look at their hand and shuffle away the best card** (hand trap or starter).
-2. **Moonlit Waters** (no Tribute): choose Mudan + Black Princess, **send Black Princess**. The add fails under Droll; the send should still happen (check in game).
+2. ~~Moonlit Waters~~ **Master Duel won't let you activate Moonlit Waters under Droll** (it has to add a card). Tested 25 Nov.
 3. **Black Princess** from the GY. Tribute **Dracaena** → **Mudan** from the Deck (Special Summons from the Deck still work under Droll; Mudan's search fails).
 4. Xyz **Black Princess + Mudan** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach Rikka Princess (or Petal if she's already in the GY).
 5. **Set Super Poly** (discard Dracaena #2 on their turn).
+
+**What Lewis did instead:** Normal Summoned Dracaena #2 and linked both into **Sylvan Dancepione** (its excavate Special Summons, so Droll doesn't stop it), but they **Ash Blossom'd** it. Ended on Dancepione + set Super Poly, Moonlit Waters in hand as the discard. Right call: nothing else was live.
+
+**Super Poly vs a Rikka opponent:** their Rikka monsters are all **WATER Plants**, so any two with different names → **Garura, Wings of Resonant Life** (2 monsters, same Type and Attribute, different names). Two of their monsters gone, no response, and you draw 1 when Garura hits the GY.
 
 **Lesson:** vs a Droll player, do the **Moonlit Waters** combo first (Black Princess / Mudan are Special Summons from the GY/Deck) and save Predaprimitive's search for after Droll is gone. Every add in this deck (Byblisp, Petal, Mudan, Glamour) is a Droll target; Black Princess, Primrose, Hellebore, Strenna and Konkon's Set are not.
