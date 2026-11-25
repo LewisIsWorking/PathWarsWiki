@@ -10,6 +10,21 @@ Droll & Lock Bird 2, Rikka Petal 3, Maxx "C" 1, Ash 3, **Cactus Bouncer 1**, Pri
 
 **Extra Deck (21 Nov 2026):** Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna ×2, Orea, a Rank 4 (N), **Teardrop the Rikka Queen ×2**, Hyperyton, Teardrop the Rikka Sacred Queen, Sunavalon Dryas ×2, Sunvine, S:P Little Knight, plus one SR Link. The 2nd Teardrop lets you upgrade one into the Sacred Queen and still have a Teardrop when you make four Level 8s (22 of the last 100 MDM lists run 2).
 
+## How we build lines (standing approach, 25 Nov 2026)
+
+- **Fit every line to the exact hand.** Start from the closest proven line, then change it to use the cards actually in hand (dead cards become Tribute fodder, spare searches get a job). Say what changed and why.
+- **Always improve.** When a game shows a better step, add it here as a new line or an upgrade, marked **UNTESTED** until it's been played.
+- **Check the line before you start:** Normal Summon used once, each once-per-turn effect used once, summon locks match the Extra Deck monsters, no more than 5 Main Monster Zones.
+- **Plan for their negates first.** Count them, decide what baits each one, and put the cards they can't stop first (see "Playing through negates" below).
+
+## Playing through negates
+
+- **Know what their negate can touch.** Contrast HERO Chaos only targets **face-up** cards. A monster effect activated **from the hand** (Black Princess, Mudan, Dracaena, Lilizard summoning themselves) can't be targeted until the monster is on the field.
+- **Get a Rikka monster on the field first.** Rikka Princess (hand or GY) and Hellebore (hand) only negate while you control a Rikka monster. Black Princess from the hand is the safest first play: Chaos can't stop the summon.
+- **Bait in order of value.** Spend their negate on your least important card (Konkon's activation, a spare search), and keep the line that wins for after their negates are gone.
+- **Use cards they can't respond to:** Super Polymerization (no responses), Dark Ruler No More (no monster effects in response; negates all their monsters), Forbidden Droplet sending a monster.
+- **Dark Law shuts off the Predap engine.** With Masked HERO Dark Law up, the client won't activate Predaprimitive (it sends to the GY), and Dracaena, Moonlit Waters and Droplet send to the GY too. Answer Dark Law before you search, or play Invoked against Rhino ([Tournament decks](Tournament-decks.md)).
+
 ## The game plan (Rikka Discord, 21 Nov 2026)
 
 From fmproductions and BUTENUS REALUS in the MD Discord #rikka channel. Goal: **2-3 Xyz, set Rikka Sheet, Rikka Princess in the GY**.
