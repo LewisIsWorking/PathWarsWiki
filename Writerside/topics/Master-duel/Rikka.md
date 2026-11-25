@@ -287,6 +287,100 @@ Monte Carlo (200k hands): brick going 1st 5.1%; going 2nd 2.5%; going 2nd with a
 
 Differences from the 22 Nov vs-Natasha list: Purulia ×2 back in for Mulcharmy Meowls ×2. Extra Deck now has Crystal Wing (still no Black Rose / Bramble Rose).
 
+## Going first: lookup table (PredaRikka, 25 Nov 2026)
+
+Every line here passes the line checker (`tools/line-check/lines_first.cue`) for Lewis's current 45-card list, and `tools/coach/quick find <hand>` prints them as numbered steps. All are **UNTESTED** (built from card text and the proven lines) except where marked. Card text checked on the Project Ignis database.
+
+**Pick the row for the best starter in your hand.** Other cards are extras: hand traps stay in hand, Cactus goes last if the line has a free Normal Summon, Super Poly / Evenly Matched / Triple Tactics Talent are dead going first (discard or hold).
+
+| Hand has | Line | End board |
+| --- | --- | --- |
+| Predaprimitive or Instant Fusion **+ Moonlit Waters or Glamour** | **F1** | Teardrop, Hyperyton (Spell material), Sacred Queen Strenna, Primrose, Cactus, Konkon, set Sheet; Rikka Princess in hand |
+| Predaprimitive alone | **Proven Predaprimitive line** (Going first: Cactus Bouncer lock, above) | Kanzashi, Rikka Queen Strenna, Sacred Queen Strenna, Cactus, set Sheet; Rikka Princess in GY |
+| Instant Fusion alone | Same proven line, entered from **F2** | Same as above |
+| Dracaena or Longinephila **+ Moonlit Waters or Glamour** | **F3** | Teardrop, Hyperyton (Spell material), Sacred Queen Strenna, Primrose, Konkon, set Sheet; Rikka Princess + Cactus in hand |
+| Dracaena alone / Longinephila alone | **F4** | Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Jasmine, Konkon, set Sheet; Rikka Princess in GY |
+| Rikka Petal (any other cards) | **Line 1** (proven) | Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Konkon, set Sheet; Rikka Princess in GY |
+| Glamour alone | **F5**: Glamour (no Tribute) adds Petal, then Line 1 | As Line 1 |
+| Black Princess + a spare Plant (Longinephila, Dracaena, Byblisp, Lilizard or Mudan) | **F6** | As Line 1, Normal Summon unused |
+| Moonlit Waters alone | **F7** (Line A for PredaRikka) | Hyperyton (Spell material), Hellebore, Primrose, Cactus, Konkon, set Sheet; Rikka Princess in hand |
+| Mudan alone | **F8** | Teardrop, Hyperyton, Sacred Queen Strenna, Konkon, set Sheet; Rikka Princess in GY |
+| Black Princess alone (or + Cactus) | **F9** (weak) | Teardrop, Primrose (+ Cactus), Konkon |
+| Predaprimitive + Konkon + spare Longinephila | **Line C** | See Line C |
+| Predaprimitive + Dracaena + Mudan + Hellebore | **Hand 8** | See Sample Hand 8 |
+
+**Not starters on their own:** Byblisp, Lilizard (needs a Predaplant on the field), Konkon (needs a Rikka monster), Rikka Princess, Hellebore, Primrose, Cactus, Super Poly. Don't use Hellebore or Primrose as Black Princess's spare Tribute: Moonlit Waters needs both in the Deck.
+
+**Cactus warning:** with Cactus and another Plant on the field, nobody can Special Summon, **including your own Primrose Quick Xyz and Hellebore revive** on their turn. Against decks that don't Special Summon much, skip Cactus and keep Primrose's upgrade.
+
+### R: the Rikka finish (used by Line 1, F4, F5, F6)
+Start: **Mudan** (search unused) and **Black Princess** on the field.
+1. **Mudan:** add **Konkon**. Activate Konkon; **Konkon sets Moonlit Waters**.
+2. Xyz **Mudan + Black Princess** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Rikka Princess** from the Deck.
+3. **Moonlit Waters**, no Tribute: add **Primrose**, send **Hellebore**.
+4. **Hellebore (GY):** Tribute **Rikka Queen Strenna** → Hellebore. Chain: CL1 Strenna → **Hyperyton**; CL2 Sacred Queen Strenna → set **Rikka Sheet**; CL3 **Primrose** → Primrose + **Black Princess #2**.
+5. **Primrose:** Black Princess #2 Level +2 (to 8). Chain **Hyperyton**: attach Mudan from the GY.
+6. Xyz **Black Princess #2 + Hellebore** → **Teardrop the Rikka Queen**.
+
+### F1: Predaprimitive (or Instant Fusion) + Moonlit Waters (or Glamour)
+1. **Predaprimitive:** send **Byblisp**, add **Instant Fusion**. Byblisp (GY): add **Lilizard**. *(From Instant Fusion instead: Instant Fusion → Ambulomelides, which adds Predaprimitive; Predaprimitive sends Byblisp and adds Super Poly.)*
+2. **Instant Fusion** → **Ambulomelides** (it adds a spare Longinephila / Predap card). Special Summon **Lilizard** from hand.
+3. **Ambulomelides:** Tribute itself → **Longinephila** from the Deck; it adds a spare Predap card.
+4. Synchro **Longinephila + Lilizard** → **Bal Teah** (Extra Monster Zone). Bal Teah: **Lilizard** from the GY, draw 1.
+5. **Longinephila (GY):** banish, Predator Counter on Bal Teah. **Byblisp** revives from the GY into a zone Jasmine will point to.
+6. Link **Bal Teah + Lilizard** → **Jasmine** (Extra Monster Zone). **Jasmine:** Tribute Byblisp → **Rikka Petal**.
+7. **Petal:** send **Black Princess**. Black Princess from the GY. **Black Princess:** Tribute **Petal** → **Mudan**. Mudan adds **Konkon**; activate it.
+8. **Konkon sets the Rikka Spell you don't hold** (Glamour if you hold Moonlit; Moonlit if you hold Glamour).
+9. **Moonlit Waters** (only now, after Jasmine), no Tribute: add **Primrose**, send **Hellebore**.
+10. Xyz **Mudan + Black Princess** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Black Princess** (not Rikka Princess: Glamour needs her).
+11. **Hellebore (GY):** Tribute Rikka Queen Strenna. CL1 → **Hyperyton**; CL2 → set **Sheet**; CL3 **Primrose** + **Black Princess #3**.
+12. **Primrose:** Black Princess #3 to Level 8 (don't attach with Hyperyton yet). Xyz **Black Princess #3 + Hellebore** → **Teardrop**.
+13. **Glamour**, Tributing **Jasmine**: add **Rikka Princess + Cactus**. Chain **Hyperyton**: attach **Moonlit Waters** (Spell).
+14. **Normal Summon Cactus.** Keep Rikka Princess in hand.
+
+### F2: Instant Fusion alone
+Instant Fusion → **Ambulomelides** adds **Predaprimitive**; Predaprimitive sends **Byblisp**, adds **Super Poly**; Byblisp adds **Lilizard**. Then the proven Predaprimitive line from step 3 (Lilizard, Ambulomelides Tributes itself for Longinephila, ...). Super Poly stays in hand.
+
+### F3: Dracaena or Longinephila + Moonlit Waters (or Glamour)
+F4's Predap half, then R with three changes: **Konkon sets the Spell you don't hold**; Strenna attaches **Black Princess**, not Rikka Princess; **don't attach with Hyperyton at R5**. Last: **Glamour, Tributing Jasmine**: add **Rikka Princess + Cactus** (both stay in hand: the Normal Summon went on Longinephila); chain Hyperyton, attach **Moonlit Waters**.
+
+### F4: Dracaena alone / Longinephila alone
+**Dracaena:**
+1. **Dracaena** from hand, sending **Byblisp** (Dracaena becomes Level 1). Byblisp: add **Longinephila**.
+2. **Normal Summon Longinephila:** add **Predaprimitive**. Predaprimitive: send **Lilizard**, add **Instant Fusion**.
+3. **Instant Fusion** → **Ambulomelides**: add **Lilizard from the GY**. Special Summon Lilizard (you control Longinephila).
+4. **Ambulomelides:** Tribute itself → **Longinephila #2** (no search: once per turn).
+5. Synchro **Longinephila #2 + Lilizard** → **Bal Teah** (Extra Monster Zone). Bal Teah: Lilizard from the GY, draw 1.
+6. Link **Bal Teah + Lilizard** → **Jasmine** in the Extra Monster Zone (arrows down-left and down-right: Longinephila #1 must sit under one).
+7. **Jasmine:** Tribute **Longinephila** → **Black Princess** from the Deck. **Black Princess:** Tribute **Dracaena** → **Mudan**. Then **R**.
+
+**Longinephila:**
+1. **Normal Summon Longinephila:** add **Predaprimitive**. Predaprimitive: send **Byblisp**, add **Instant Fusion**. Byblisp: add **Lilizard**; Special Summon it.
+2. **Instant Fusion** → **Ambulomelides** (adds a spare). Ambulomelides Tributes itself → **Longinephila #2** (no search).
+3. Synchro **Longinephila #2 + Lilizard** → **Bal Teah**; Lilizard back, draw 1. **Longinephila #2 (GY):** Predator Counter on Bal Teah; **Byblisp** revives under Jasmine's arrow.
+4. Link **Bal Teah + Lilizard** → **Jasmine**. Jasmine: Tribute **Byblisp** → **Black Princess**. Black Princess: Tribute **Longinephila** → **Mudan**. Then **R**.
+
+### F5: Glamour alone
+**Glamour**, no Tribute: add **Petal**. Then **Line 1** (Normal Summon Petal, send Black Princess, ...).
+
+### F6: Black Princess + a spare Plant
+1. **Black Princess** from hand. **Black Princess:** Tribute the **spare Plant from your hand** → **Mudan** from the Deck.
+2. **R.** The Normal Summon is free (a Byblisp spare also searches a Predaplant from the GY).
+
+### F7: Moonlit Waters alone (Line A for PredaRikka)
+Line A as written, except step 8: Strenna attaches **Black Princess**, and at the end **keep Rikka Princess in hand** (only Cactus is summoned).
+
+### F8: Mudan alone
+1. **Normal Summon Mudan** (Attack): add **Konkon**. Konkon sets **Moonlit Waters**.
+2. **Moonlit**, no Tribute: add **Primrose**, send **Hellebore**.
+3. **Hellebore (GY):** Tribute Mudan → Hellebore. **Primrose** → Primrose + **Rikka Petal**.
+4. **Petal:** add **Black Princess**; Special Summon her. **Black Princess:** Tribute Petal → **Mudan #2** (no search).
+5. Xyz **Mudan #2 + Black Princess** → **Sacred Queen Strenna** → detach 2 → **Rikka Queen Strenna**, attach **Rikka Princess**.
+6. Xyz **Hellebore + Primrose** → **Teardrop**. **Teardrop:** detach 1, Tribute **Rikka Queen Strenna** → **Hyperyton** + set **Sheet**.
+
+### F9: Black Princess alone (weak)
+Black Princess from hand, Tributes **herself** → **Mudan** (adds Konkon; Konkon sets Moonlit). Moonlit, no Tribute: Primrose + send Hellebore. Hellebore Tributes Mudan → Primrose + **Black Princess #2**. Primrose: Black Princess #2 to Level 8; Xyz with Hellebore → **Teardrop**. Normal Summon **Cactus** last if you hold it.
+
 ## PredaRikka sample hands
 
 Card text checked against the Project Ignis card database (25 Nov 2026). The database uses the TCG names: **Rikka Sacred Queen Strenna = Rikka Empress Strenna**, **Moonlit Waters = Rikka June Moon**, **Teardrop the Rikka Sacred Queen = Teardrop the Rikka Empress**, **Primrose = Primrose the Twin Rikka Fairy**.

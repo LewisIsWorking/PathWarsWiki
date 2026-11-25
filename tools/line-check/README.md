@@ -52,6 +52,6 @@ One step per action, in order. The fields that matter:
 - `startLocks`: locks already on when the line starts, e.g. `["no_special"]` for Cactus Bouncer with any other Plant on either field.
 - `lethal: {lp, attackers, bonus}`: optional damage check. Attackers must be on the end board and not summoned in Defence (Hellebore's revive, Primrose, Jasmine and Sacred Queen Strenna's summons are Defence; see `defEffects` in `cards.cue`). `bonus` adds ATK, e.g. `{"Teardrop: 1 Tribute": 200}`.
 
-Hand-fitted lines from real games go in `lines_handfit.cue`.
+Hand-fitted lines from real games go in `lines_handfit.cue`. The going-first lookup table (one line per PredaRikka starter and the common 2-card pairs) is `lines_first.cue`.
 
 Mark new lines `status: "untested"` until they've been played.

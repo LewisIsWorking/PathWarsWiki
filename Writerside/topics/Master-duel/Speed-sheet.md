@@ -169,12 +169,26 @@ Result: **lost** (turn 9). Their Quick Effects all fire on **your** turn: Baronn
 
 Every line here passes the line checker (`tools/line-check`). Full steps on the [Rikka](Rikka.md) page. Live: `tools/coach/quick find <hand>` picks the line and prints its steps (see `tools/coach/README.md`).
 
+**Going 1st with PredaRikka: use this block first** (full steps: [Rikka: Going first lookup table](Rikka.md); or run `quick find <hand>`). Top row that matches wins.
+
+| Going 1st, hand has | Line | End board | Status |
+| --- | --- | --- | --- |
+| Predaprimitive or Instant Fusion + Moonlit Waters or Glamour | **F1** | Teardrop, Hyperyton (Spell), Sacred Queen Strenna, Primrose, Cactus, Sheet | UNTESTED |
+| Predaprimitive alone | **Predaprimitive → Cactus** | Kanzashi, both Strennas, Cactus, Sheet | Proven |
+| Instant Fusion alone | **F2** (same line, IF first) | Kanzashi, both Strennas, Cactus, Sheet | UNTESTED |
+| Dracaena or Longinephila + Moonlit Waters or Glamour | **F3** | Teardrop, Hyperyton (Spell), Sacred Queen Strenna, Primrose, Sheet | UNTESTED |
+| Dracaena alone / Longinephila alone | **F4** | Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Jasmine, Sheet | UNTESTED |
+| Rikka Petal | **Line 1** | Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet | Proven |
+| Glamour alone | **F5** (add Petal → Line 1) | As Line 1 | UNTESTED |
+| Black Princess + spare Plant (not Hellebore, Primrose, Cactus) | **F6** | As Line 1 | UNTESTED |
+| Moonlit Waters alone | **F7** (Line A, Strenna attaches Black Princess) | Hyperyton (Spell), Hellebore, Primrose, Cactus, Sheet | UNTESTED in PredaRikka |
+| Mudan alone | **F8** | Teardrop, Hyperyton, Sacred Queen Strenna, Sheet | UNTESTED |
+| Black Princess alone (+ Cactus) | **F9** (weak) | Teardrop, Primrose (+ Cactus) | UNTESTED |
+
+Byblisp, Lilizard, Konkon, Rikka Princess, Hellebore, Primrose, Cactus and Super Poly are not starters alone. **Moonlit Waters only after Instant Fusion, Bal Teah and Jasmine.** **Pure-Rikka Line A and Line B fail in PredaRikka as written** (one Rikka Princess): use F7 / F6.
+
 | Situation | Line | Status |
 | --- | --- | --- |
-| Going 1st, Rikka Petal (or Glamour) | **Line 1** (Teardrop + Hyperyton) | Proven |
-| Going 1st, Moonlit Waters | **Line A** (Hyperyton with a Spell material + Cactus) | Proven |
-| Going 1st, Black Princess + any Plant | **Line B** (Hyperyton + Cactus). PredaRikka has 1 Rikka Princess: Strenna attaches Petal or Black Princess, not her | Proven (pure Rikka) |
-| Going 1st, Predaprimitive or Instant Fusion (PredaRikka) | **Predaprimitive → Cactus** | Proven |
 | Going 1st, Predaprimitive + Konkon + spare Longinephila | **Line C** | UNTESTED |
 | Going 1st, Predaprimitive + Instant Fusion + Moonlit Waters + Mudan | **Hand 6**: Predap half to Jasmine first, then Moonlit (Primrose + Hellebore) → Teardrop, Hyperyton, Kanzashi, Cactus | UNTESTED |
 | Going 2nd into Sky Striker = Zero + backrow, Super Poly reachable | **Super Poly first**, before any Rikka lock: Lilizard makes Zero DARK → Starving Venom. Then Venom + Hellebore → Teardrop | UNTESTED |
