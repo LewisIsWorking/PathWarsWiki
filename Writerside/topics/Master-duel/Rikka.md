@@ -166,7 +166,7 @@ End: Teardrop Sacred Queen, Hyperyton (Spell material), Kanzashi, Sacred Queen S
 
 **Going second:** Predaprimitive searches **Super Polymerization** (2 copies) for no-response removal; **Black Rose Dragon** destroys every card when Synchro Summoned; **Evenly Matched** and **Triple Tactics Thrust** are extra going-second outs; **Purulia** punishes decks that summon from the hand.
 
-**Lewis's PredaRikka Extra Deck (21 Nov 2026):** doesn't own Black Rose Dragon, Bramble Rose Dragon or Crystal Wing (all UR; Black Rose + Bramble Rose are both in the *Exquisite Jet-Black Rose* secret pack). Without them, skip the Bramble Rose → Black Rose steps of the proven line (Black Princess from the GY + Longinephila Synchro); the rest of the end board is unchanged. You lose Black Rose's going-second board wipe; Super Poly is the main breaker instead.
+**Lewis's PredaRikka Extra Deck (21 Nov 2026):** doesn't own Black Rose Dragon or Bramble Rose Dragon (both UR; Black Rose + Bramble Rose are both in the *Exquisite Jet-Black Rose* secret pack). Without them, skip the Bramble Rose → Black Rose steps of the proven line (Black Princess from the GY + Longinephila Synchro); the rest of the end board is unchanged. You lose Black Rose's going-second board wipe; Super Poly is the main breaker instead. (Crystal Wing was missing on 21 Nov too; it is in the 25 Nov list below.)
 
 ## PredaRikka vs Natasha (21 Nov 2026, card text checked; lines below are proven unless marked)
 
@@ -216,7 +216,16 @@ Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell mate
 **Final vs-Natasha PredaRikka (45, 22 Nov 2026):** Droll 2, Petal 1, Byblisp 1, Longinephila 2, Dracaena 3, Maxx "C" 1, Ash 3, Lilizard 1, Cactus Bouncer 1, Rikka Princess 1, Fuwalos 1, Meowls 2, Mudan 2, Black Princess 3, Hellebore 1, Primrose 1, Instant Fusion 1, Glamour 2, Triple Tactics Talent 1 (was Thrust), Predaprimitive 3, Moonlit Waters 3, Konkon 1, Super Poly 2, Forbidden Droplet 1, Evenly Matched 1, Rikka Sheet 1, Dominus Impulse 3.
 Monte Carlo (200k hands): brick going 1st 5.1%; going 2nd 2.5%; going 2nd with a Super Poly / Droplet route 86.6%; at least one hand trap for her turn 80.7%.
 
-**Lewis's PredaRikka list (25 Nov 2026, top 18 rows from a Master Duel screenshot, rest not visible):** Droll 2, Petal 1, Byblisp 1, Longinephila 1, Dracaena 2, Maxx "C" 1, Ash 3, Lilizard 1, Cactus Bouncer 1, Rikka Princess 1, Purulia 2, Fuwalos 1, Mudan 2, Black Princess 3, Hellebore 1, Primrose 1, Instant Fusion 1, ... (also seen in hand: Predaprimitive ×2+, Konkon).
+## Lewis's current PredaRikka list (deck "PredaRikka | 2026-11-21", screenshot 25 Nov 2026)
+
+**Main Deck (45):**
+- **Monsters (26):** Droll & Lock Bird 2, Rikka Petal 1, Predaplant Byblisp 1, Predaplant Longinephila 2, Princess Dracaena 3, Maxx "C" 1, Ash Blossom 3, Predaplant Lilizard 1, Cactus Bouncer 1, Rikka Princess 1, Mulcharmy Purulia 2, Mulcharmy Fuwalos 1, Mudan 2, Rikka Black Princess 3, Hellebore 1, Primrose 1.
+- **Spells (14):** Instant Fusion 1, Rikka Glamour 2, Triple Tactics Talent 1, Predaprimitive 3, Rikka Moonlit Waters 3, Rikka Konkon 1, Super Polymerization 2, Forbidden Droplet 1.
+- **Traps (5):** Evenly Matched 1, Rikka Sheet 1, Dominus Impulse 3.
+
+**Extra Deck (15):** Predaplant Ambulomelides, Garura, Predaplant Daredevil, Starving Venom, Predaplant Bal Teah, **Crystal Wing Synchro Dragon**, Rikka Queen Strenna, Kanzashi, Rikka Sacred Queen Strenna, Orea the Sylvan High Arbiter, Teardrop the Rikka Queen ×2, Sacred Tree Beast Hyperyton, Teardrop the Rikka Sacred Queen, Aromaseraphy Jasmine.
+
+Differences from the 22 Nov vs-Natasha list: Purulia ×2 back in for Mulcharmy Meowls ×2. Extra Deck now has Crystal Wing (still no Black Rose / Bramble Rose).
 
 ## PredaRikka sample hands
 
