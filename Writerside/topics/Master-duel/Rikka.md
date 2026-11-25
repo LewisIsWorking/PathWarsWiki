@@ -152,6 +152,7 @@ Record which ending you used in the game log below.
 | 21 Nov 2026 | Charmer / Familiar-Possessed (ranked) | 2nd | **Won** (time limit) | Fuwalos on Spellbook of the Grand Circle drew a big hand. Possessed Partnerships destroyed Konkon; Mudan searched Konkon #2 and its replacement Tribute took their 4050. Ended Teardrop the Rikka Sacred Queen, Sacred Queen Strenna, Primrose, Black Princess, Primula. Foolish Burial unused (next turn: send Black Princess, revive her). They ran out the clock on turn 3. |
 | 21 Nov 2026 | Rising Pyroxene (solo) | 1st | **Won** | Line 1 from Petal. Short combo, plenty of time on the clock. Won turn 3. |
 | 24 Nov 2026 | Horus (MDPro4, UnknoDaemon) | 2nd | **Won** (surrender, turn 3) | Into 4 Sons + King's Sarcophagus + Walls of the Imperial Tomb. Black Princess / Mudan / Primrose → Sacred Queen Strenna, Teardrop the Rikka Queen ×2 → Teardrop the Rikka Sacred Queen, Konkon, set Sheet + Dominus Impulse. Removed Imsety and Duamutef and King's Sarcophagus, but **Walls stayed** and he **didn't attack** (3100 damage missed). On her turn, chained Teardrop Queen and Sacred Queen Quick Effects in Main 1, cleared her field; she surrendered. |
+| 25 Nov 2026 | Rikka (ranked, Sloth) | 1st | **Lost** | Sample Hand 3 (Dracaena ×2, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Dracaena, then Predaprimitive (Super Poly) → **Droll** on Byblisp's search. Moonlit Waters couldn't be activated under Droll. Talent took a card from their hand; Dracaena ×2 → Sylvan Dancepione got **Ashed**. Ended on Dancepione + set Super Poly. Lesson: Moonlit Waters first, searches after. See [Speed sheet: Sloth](Speed-sheet.md). |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
@@ -325,6 +326,8 @@ Monster Zones check: after step 14 you have Sacred Queen Strenna, Hyperyton, Hel
 If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus next to it for the lock, set Dominus Impulse, and hold Droll.
 
 ### Hand 3: Dracaena ×2, Triple Tactics Talent, Predaprimitive, Moonlit Waters (going 1st, vs "Sloth")
+
+**Status: KNOWN-BAD order vs Droll (lost 25 Nov).** Leading with Predaprimitive gave Droll a target before Moonlit Waters had started. Corrected order: **Moonlit Waters first** (steps 2-7 below), then Predaprimitive. The rest of the line is still UNTESTED.
 
 **Key ideas:**
 - **Moonlit Waters is the engine** (Line A, proven). Dracaena is a spare Plant for Glamour's Tribute; Predaprimitive just banks Super Poly for later.

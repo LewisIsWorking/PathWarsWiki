@@ -83,6 +83,16 @@ See also: [Tournament decks](Tournament-decks.md), [Witchcrafter](Witchcrafter.m
 | **Dominus Purge** | Negates a search (also from hand). | Lead with the search you can lose. |
 | **Ghost Belle** | Stops Gaze of Timaeus (it targets a GY card). | — |
 
+### Sloth (Rikka, ranked, 25 Nov)
+
+Seen in one game (Lewis lost, PredaRikka going first). Their hand traps hit the **first search** and then the **first extender**.
+
+| Card | What it does | Answer |
+| --- | --- | --- |
+| **Droll & Lock Bird** | Used on Byblisp's search (after Predaprimitive added Super Poly). Locks every add from the Deck for the turn: **Master Duel won't let you activate Moonlit Waters, Glamour, Petal's add or Mudan's search under it.** | **Open with Moonlit Waters** (or Black Princess from hand) before any Predap search, so the combo is running before Droll lands. Triple Tactics Talent turns on (Droll is a monster effect in your Main Phase): take a card from their hand, not Draw 2. |
+| **Ash Blossom** | Used on Sylvan Dancepione's Link Summon trigger. | Lead with the effect you can afford to lose. |
+| **Their Rikka monsters** | All **WATER Plants**. | **Super Poly: any 2 with different names → Garura** (no response, draw 1). Konkon / Teardrop Tribute them. |
+
 ## Witchcrafter: which card first
 
 **Lead order:** Spell Power Mastery → Creation → Marka → Walpurgis. Full lines on the [Witchcrafter](Witchcrafter.md) page.
