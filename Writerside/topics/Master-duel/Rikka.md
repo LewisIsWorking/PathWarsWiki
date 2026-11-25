@@ -348,3 +348,12 @@ If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus ne
 **End board:** Teardrop, Hyperyton (monster + Spell material), Sacred Queen Strenna, Cactus Bouncer, Konkon, set Rikka Sheet, set Triple Tactics Talent. Hand: **Rikka Princess** (negate), Dracaena #2, Lilizard, Super Poly. They can't Special Summon while Cactus and another Plant are up.
 
 **Mistake I made live (25 Nov):** first version attached Rikka Princess in step 6 (then Glamour can't find her: 1 copy) and had Dracaena send Lilizard (already searched). Corrected within a minute; check copy counts before planning a search.
+
+**What actually happened (25 Nov, vs Sloth):** Dracaena first, then Predaprimitive (Super Poly added) → **Droll** on Byblisp's search. Post-Droll line (UNTESTED, from card text):
+1. **Triple Tactics Talent** is live (Droll is a monster effect in your Main Phase). Draw 2 is blocked by Droll, so **look at their hand and shuffle away the best card** (hand trap or starter).
+2. **Moonlit Waters** (no Tribute): choose Mudan + Black Princess, **send Black Princess**. The add fails under Droll; the send should still happen (check in game).
+3. **Black Princess** from the GY. Tribute **Dracaena** → **Mudan** from the Deck (Special Summons from the Deck still work under Droll; Mudan's search fails).
+4. Xyz **Black Princess + Mudan** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach Rikka Princess (or Petal if she's already in the GY).
+5. **Set Super Poly** (discard Dracaena #2 on their turn).
+
+**Lesson:** vs a Droll player, do the **Moonlit Waters** combo first (Black Princess / Mudan are Special Summons from the GY/Deck) and save Predaprimitive's search for after Droll is gone. Every add in this deck (Byblisp, Petal, Mudan, Glamour) is a Droll target; Black Princess, Primrose, Hellebore, Strenna and Konkon's Set are not.
