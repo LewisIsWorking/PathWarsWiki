@@ -78,5 +78,10 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **Right answer:** "Sky Striker: Zero + 4 sets" (`lines_handfit.cue`): Predaprimitive (Super Poly) → Instant Fusion → Lilizard makes Zero DARK → **Super Poly before any Rikka lock**: Zero + Ambulomelides → Starving Venom → then the Rikka half, Venom + Hellebore → Teardrop. One full plan up front.
 - **What went wrong:** Moonlit and Black Princess first, so Super Poly was dead (`KNOWN BAD: Sky Striker, Super Poly after the Rikka locks`). Advice told him to change Mudan's position (can't on the turn it was summoned) and implied Glamour/Moonlit Tributes are required (they're optional). Widow Anchor stole Petal; Forbidden Crown stopped Mudan. Turn 4: Widow Anchor stole Petal and Mudan, and he **lost on the duel clock** (10:14 used): waiting on coaching each step burns the whole-duel time.
 
+## S16. Ryuuku, going 1st (25 Nov 2026)
+- **Hand:** Princess Dracaena, Mudan, Hellebore, Predaprimitive, Forbidden Droplet.
+- **Right answer:** "Hand 8" (`lines_handfit.cue`): Predaprimitive takes Instant Fusion and runs the Predap half to Jasmine; Dracaena sends Rikka Princess; Mudan summons itself; Black Princess Tributes Hellebore from the hand; Strenna attaches Black Princess → Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet, Rikka Princess in the GY.
+- **What went wrong:** Mudan was Tribute Summoned (Normal Summon spent), Moonlit was spent on Mudan #2, and Rikka Queen Strenna had no material (`KNOWN BAD: Hand 8, Rikka Queen Strenna with no material`). Predaprimitive came last. Weak board: no Teardrop, no Sheet, no Hyperyton.
+
 ## More
 Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.

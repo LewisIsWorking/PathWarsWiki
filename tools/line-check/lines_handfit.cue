@@ -372,3 +372,65 @@ lines: "KNOWN BAD: Sky Striker, Super Poly after the Rikka locks": {
 	]
 	end: mmz: []
 }
+
+// 25 Nov 2026 (~12:30), ranked, going 1st vs Ryuuku. Hand: Dracaena, Mudan, Hellebore, Predaprimitive, Forbidden Droplet.
+// Live line spent the Normal Summon on Mudan and gave Rikka Queen Strenna no material: weak board, no Teardrop, no Sheet.
+// Fix: the Predap half first (Predaprimitive takes Instant Fusion), Dracaena sends Rikka Princess to the GY,
+// Black Princess Tributes Hellebore FROM THE HAND (into the GY for its revive), Strenna attaches a Rikka monster.
+lines: "Hand 8: Dracaena + Mudan + Hellebore + Predaprimitive + Droplet": {
+	source: "Claude, 25 Nov 2026 (review of the Ryuuku game)"
+	status: "untested"
+	deck:   "PredaRikka"
+	hand: ["Princess Dracaena, the Thirsting Tree", "Mudan the Rikka Fairy", "Hellebore the Rikka Fairy", "Predaprimitive", "Forbidden Droplet"]
+	steps: [
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Instant Fusion"]},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Lilizard"]},
+		{card: "Instant Fusion", action: "activate", zone: "hand", effect: "activate", summons: "Predaplant Ambulomelides"},
+		{card: "Predaplant Ambulomelides", action: "effect", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Predaplant Lilizard", action: "special_summon", zone: "hand", effect: "summon_self"},
+		{card: "Princess Dracaena, the Thirsting Tree", action: "special_summon", zone: "hand", effect: "summon_self", sendsToGY: true, fromDeck: ["Rikka Princess"], setLevel: {"Princess Dracaena, the Thirsting Tree": 4}, note: "send Rikka Princess: her negate works from the GY"},
+		{card: "Predaplant Ambulomelides", action: "effect", effect: "tribute", consumes: ["Predaplant Ambulomelides"], summons: "Predaplant Longinephila#2", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Predaplant Longinephila#2", action: "effect", effect: "search", fromDeck: ["Predaprimitive"]},
+		{card: "Predaplant Bal Teah", action: "synchro", zone: "extra", consumes: ["Predaplant Longinephila#2", "Predaplant Lilizard"]},
+		{card: "Predaplant Bal Teah", action: "effect", effect: "revive", summons: "Predaplant Lilizard"},
+		{card: "Predaplant Lilizard", action: "effect", effect: "draw"},
+		{card: "Predaplant Longinephila#2", action: "effect", zone: "gy", effect: "gy"},
+		{card: "Predaplant Byblisp", action: "special_summon", zone: "gy", effect: "revive"},
+		{card: "Aromaseraphy Jasmine", action: "link", zone: "extra", consumes: ["Predaplant Bal Teah", "Predaplant Lilizard"]},
+		{card: "Aromaseraphy Jasmine", action: "effect", effect: "tribute", consumes: ["Predaplant Byblisp"], summons: "Rikka Petal", fromDeck: ["Rikka Petal"]},
+		{card: "Rikka Petal", action: "effect", effect: "take", lock: "plant", fromDeck: ["Primrose the Rikka Fairy Duo"], note: "add Primrose"},
+		{card: "Mudan the Rikka Fairy", action: "special_summon", zone: "hand", effect: "summon_self", consumes: ["Rikka Petal"]},
+		{card: "Mudan the Rikka Fairy", action: "effect", effect: "search", fromDeck: ["Rikka Konkon"]},
+		{card: "Primrose the Rikka Fairy Duo", action: "special_summon", zone: "hand", effect: "tribute_trigger", summons: "Rikka Black Princess", fromDeck: ["Rikka Black Princess"]},
+		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
+		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Glamour"]},
+		{card: "Rikka Black Princess", action: "effect", effect: "tribute_summon", fromHand: ["Hellebore the Rikka Fairy"], summons: "Mudan the Rikka Fairy#2", fromDeck: ["Mudan the Rikka Fairy"], note: "Hellebore from HAND to the GY"},
+		{card: "Hellebore the Rikka Fairy", action: "special_summon", zone: "gy", effect: "revive", consumes: ["Princess Dracaena, the Thirsting Tree"]},
+		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Mudan the Rikka Fairy#2"]},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna", attach: ["Rikka Black Princess"], fromDeck: ["Rikka Black Princess"], note: "ATTACH a Rikka monster or no Hyperyton"},
+		{card: "Primrose the Rikka Fairy Duo", action: "effect", effect: "level", setLevel: {"Rikka Black Princess": 8}},
+		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Rikka Black Princess", "Hellebore the Rikka Fairy"]},
+		{card: "Rikka Glamour", action: "activate", zone: "field", effect: "activate", consumes: ["Rikka Queen Strenna"], fromDeck: ["Rikka Black Princess"], note: "add Black Princess #3 (no Level 6 Plant left for the 2nd add)"},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "set_trap", fromDeck: ["Rikka Sheet"]},
+		{card: "Sacred Tree Beast, Hyperyton", action: "effect", effect: "attach", note: "chain to Glamour: attach Instant Fusion or Predaprimitive"},
+	]
+	end: {
+		mmz: ["Rikka Sacred Queen Strenna", "Primrose the Rikka Fairy Duo", "Teardrop the Rikka Queen", "Sacred Tree Beast, Hyperyton"]
+		emz: ["Aromaseraphy Jasmine"]
+	}
+}
+
+// The live line: Rikka Queen Strenna summoned with no material, so Glamour/Moonlit's Tribute gave no Hyperyton.
+lines: "KNOWN BAD: Hand 8, Rikka Queen Strenna with no material": {
+	source: "Live game, 25 Nov 2026 (~12:30)"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: ["Mudan the Rikka Fairy"]
+	startField: ["Rikka Sacred Queen Strenna"]
+	steps: [
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna"},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton"},
+	]
+	end: mmz: []
+}

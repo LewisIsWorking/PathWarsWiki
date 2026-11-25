@@ -163,6 +163,9 @@ Errors in live advice this session; check these before sending a line:
 - **Position changes:** once per turn per monster, and never on the turn it was summoned (Mudan summoned in Defence stays in Defence). Don't plan a switch.
 - **Glamour and Moonlit Waters Tributes are optional.** Without one, Glamour adds only the Rikka monster and Moonlit gives no targeting protection.
 - **Super Poly before any Rikka lock.** Petal, Black Princess, Konkon, Primrose and Rikka Princess lock you to Plants; Moonlit to Plant Xyz; Predaprimitive to Plant/Dragon. So the only Super Poly target that fits a PredaRikka turn is **Starving Venom** (Dragon, 2 DARK), played right after Predaprimitive. **Lilizard** makes any face-up monster DARK for it.
+- **Don't Tribute Summon Mudan.** It summons itself by Tributing a Plant you control; the Normal Summon is worth more (Cactus, Longinephila, Petal).
+- **Dead monster in hand? Tribute it from the hand** with Black Princess (or Rikka Princess's cost). Hellebore from the hand goes to the GY, where it revives itself.
+- **Dracaena sends Rikka Princess** (Level 4) to the GY when the line has no other way to get her there: her negate works from the GY.
 - **The whole duel has a clock, not just each turn.** Every wait for advice comes out of it (Sky Striker: time-limit loss on turn 4). One full plan per turn, then FAST one-liners.
 - **Send the whole combo on the first screenshot**, start to end board, with sets and what to hold. Lewis shouldn't have to wait for the next step mid-combo.
 
@@ -179,6 +182,7 @@ Errors in live advice this session; check these before sending a line:
 | 25 Nov 2026 | Elfnote / Power Patron (ranked, trampaslocas) | 2nd | **Lost** (turn 9) | Sample Hand 5. **Evenly Matched** on our turn took them to 1 card (kept Strelitzia), then **Ash on Moonlit Waters**. Cactus + their Strelitzia (a Plant) locked both players' Special Summons. Built Longinephila; they removed Cactus. **Baronne** negated the Dracaena bait, **Tinia** banished Lilizard from hand. Hellebore went in Defence and died. Turn 8: **Little Knight** went for Mudan, Rikka Princess (Tributing Primrose) negated it, which cost the Teardrop lethal line. Lost on turn 9. |
 | 25 Nov 2026 | Unknown (ranked) | 1st | **Won** (surrender, turn 1) | Sample Hand 6 (Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Coached without the skill. Advice said "Moonlit: add Black Princess, send Black Princess #2", which is illegal (the two must have different names), so Mudan #2 went to the GY. Lewis improvised to Konkon, Primrose, Sacred Queen Strenna, Rikka Queen Strenna, Longinephila, set Glamour; hand Lilizard, Instant Fusion, TTT, Super Poly. They surrendered. Full line for the hand is under Sample Hand 6. |
 | 25 Nov 2026 | Sky Striker (ranked, ニノマエ) | 2nd | **Lost** (time limit, turn 4) | Sample Hand 7 into Zero + 4 sets. Moonlit (Mudan), Black Princess → Petal; **Widow Anchor** negated and stole Petal. Predaprimitive (Super Poly), Byblisp → Longinephila, Normal Summoned; Zero Tributed for Raye + Roze and destroyed it. Lilizard Tributed for Mudan; **Forbidden Crown** negated Mudan's search. Glamour (Tributing Byblisp) → Rikka Princess + Cactus. Ended Rikka Princess + Mudan, Super Poly set but **dead** (the Rikka locks were already on). Coaching mistakes: no full plan up front, told him to change a position he couldn't, implied Glamour/Moonlit must Tribute. Survived their turn 3; turn 4 **Widow Anchor** stole Petal, then Mudan, and the **duel clock ran out** (Lewis 10:14 used, them 9:13). Waiting on step-by-step coaching cost the time. |
+| 25 Nov 2026 | Ryuuku (ranked) | 1st | (in progress) | Sample Hand 8 (Dracaena, Mudan, Hellebore, Predaprimitive, Forbidden Droplet). Live line Tribute Summoned Mudan with Dracaena (spent the Normal Summon), Moonlit added Mudan #2, and **Rikka Queen Strenna got no material**. Ended Sacred Queen Strenna (0), Rikka Queen Strenna (0, can't float), Primrose, Rikka Princess, Byblisp, Konkon; hand Longinephila, Mudan, Hellebore, Super Poly, Droplet. No Teardrop, no Sheet, no Hyperyton. Better line under Sample Hand 8. |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
@@ -540,3 +544,32 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 13. **Attack** with what's left on an open field: Teardrop 3000, Hyperyton 2600, Sacred Queen Strenna 2000.
 
 **End:** Teardrop, Hyperyton, Sacred Queen Strenna, Konkon, set Sheet; Rikka Princess + Cactus + Mudan #2 in hand. Every step after step 4 is a target for their 4 sets: expect to re-plan after each negate, but **step 4 is the one that must happen early**.
+
+### Hand 8: Dracaena, Mudan, Hellebore, Predaprimitive, Forbidden Droplet (going 1st, vs Ryuuku)
+
+**Status: UNTESTED** (passes the checker: `Hand 8` in `tools/line-check/lines_handfit.cue`). The live line ended weak: Normal Summon spent on Mudan, Rikka Queen Strenna with no material, no Teardrop, no Sheet.
+
+**Key ideas:**
+- **Predaprimitive takes Instant Fusion**, so the whole Predap half runs to Jasmine (the proven Predaprimitive line).
+- **Dracaena sends Rikka Princess** to the GY: a negate from the GY on their turn, and Dracaena is a spare Plant for Hellebore's revive.
+- **Mudan summons itself** (Tribute Petal); **Black Princess Tributes Hellebore from the hand**, which puts it in the GY to revive.
+- **Strenna attaches Black Princess**, so Rikka Queen Strenna floats into Hyperyton.
+- **The Normal Summon stays free.**
+
+**Line:**
+1. **Predaprimitive:** send Byblisp, add **Instant Fusion**. **Byblisp:** add **Lilizard**.
+2. **Instant Fusion** → Ambulomelides; it adds **Longinephila**. Special Summon **Lilizard**.
+3. **Dracaena:** send **Rikka Princess**, Special Summon Dracaena (Level 4).
+4. **Ambulomelides:** Tribute itself → **Longinephila #2**; it adds Predaprimitive.
+5. Synchro **Longinephila #2 + Lilizard** → Bal Teah; Lilizard back, draw 1. **Longinephila (GY):** Predator Counter. **Byblisp** from the GY.
+6. Link **Bal Teah + Lilizard** → **Jasmine**. **Jasmine:** Tribute Byblisp → **Petal**. **Petal:** add **Primrose**.
+7. **Mudan (hand):** Tribute Petal → Mudan; it adds **Konkon**. **Primrose** → Primrose + **Black Princess** from the Deck.
+8. **Konkon:** set **Glamour**.
+9. **Black Princess:** Tribute **Hellebore from your hand** → **Mudan #2** from the Deck.
+10. **Hellebore (GY):** Tribute **Dracaena** → Hellebore.
+11. Xyz **Mudan + Mudan #2** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, **attach Black Princess #2**.
+12. **Primrose:** Black Princess Level +2 (to 8). Xyz **Black Princess + Hellebore** → **Teardrop**.
+13. **Glamour**, Tributing **Rikka Queen Strenna**: add Black Princess #3. Strenna → **Hyperyton**; Sacred Queen → set **Rikka Sheet**; chain Hyperyton: attach Instant Fusion (a Spell).
+14. Set **Forbidden Droplet**.
+
+**End:** Teardrop (+200, Quick Tribute), Hyperyton (monster + Spell material), Sacred Queen Strenna, **Primrose** (Quick Xyz on their turn: Teardrop → **Teardrop the Rikka Sacred Queen**), Jasmine, Konkon, set Sheet + Droplet. **Rikka Princess in the GY.** Hand: Longinephila, Predaprimitive, Black Princess, the draw. Normal Summon unused.

@@ -178,6 +178,7 @@ Every line here passes the line checker (`tools/line-check`). Full steps on the 
 | Going 1st, Predaprimitive + Konkon + spare Longinephila | **Line C** | UNTESTED |
 | Going 1st, Predaprimitive + Instant Fusion + Moonlit Waters + Mudan | **Hand 6**: Predap half to Jasmine first, then Moonlit (Primrose + Hellebore) → Teardrop, Hyperyton, Kanzashi, Cactus | UNTESTED |
 | Going 2nd into Sky Striker = Zero + backrow, Super Poly reachable | **Super Poly first**, before any Rikka lock: Lilizard makes Zero DARK → Starving Venom. Then Venom + Hellebore → Teardrop | UNTESTED |
+| Going 1st, Predaprimitive + Dracaena + Mudan + Hellebore | **Hand 8**: Predaprimitive takes Instant Fusion, Dracaena sends Rikka Princess, Black Princess Tributes Hellebore from hand → Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet | UNTESTED |
 | Going 1st, Rikka Princess already out + Mudan | **Rikka Princess + Mudan + Sheet** | UNTESTED |
 | Going 2nd into Horus (Sons + both Sarcophagi) | **Horus break**: Teardrop the Rikka Sacred Queen detaches **2**, then attack | UNTESTED |
 | Going 2nd into Machina Fortress, Predaprimitive + Glamour + Dracaena + Lilizard | **Machina: Hand 4 lethal**: Glamour Tributes Fortress through Konkon; Rikka Queen Strenna gets a material | UNTESTED |
