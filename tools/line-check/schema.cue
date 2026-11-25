@@ -23,6 +23,7 @@ import (
 	kind:  "monster" | "spell" | "trap"
 	race: string | *""
 	level?: int // Level, Rank or Link rating
+	tuner: bool | *false
 	// Names of the card's effects. Each one is once per turn unless listed in notOpt.
 	effects: [...string] | *[]
 	notOpt: [...string] | *[]
@@ -72,6 +73,10 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	lock: #Lock | *""
 	// This step sends a card to your GY (e.g. Petal sending instead of adding).
 	sendsToGY: bool | *false
+	// Level changes this step makes, e.g. Primrose: {"Hellebore the Rikka Fairy": 6}.
+	setLevel: [string]: int
+	// Xyz Summon on top of another Xyz (Teardrop the Rikka Sacred Queen over Teardrop): skip the material Level check.
+	rankUp: bool | *false
 	note?: string
 }
 
@@ -165,6 +170,37 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 			let used = len([for y in _taken if y == n {y}]) + len([for h in hand if strings.Split(h, "#")[0] == n {h}])
 			let have = *_deck.main[n] | 0
 			if used > have {"takes \(used) \(n) (hand + Deck) but \(deck) runs \(have)"}],
+
+		// Xyz materials: every material's current Level equals the Rank.
+		[for j, t in steps if t.action == "xyz" && !t.rankUp
+			let n = strings.Split(t.card, "#")[0]
+			if cards[n] != _|_
+			for m in t.consumes
+			let mn = strings.Split(m, "#")[0]
+			if cards[mn] != _|_
+			let changed = [for i, s in steps if i < j if s.setLevel[m] != _|_ {s.setLevel[m]}]
+			let lv = [if len(changed) > 0 {changed[len(changed)-1]}, cards[mn].level][0]
+			if lv != cards[n].level {"step \(j+1): \(mn) is Level \(lv), \(n) needs Rank \(cards[n].level) materials"}],
+		[for j, t in steps if t.action == "xyz" && !t.rankUp && len(t.consumes) < 2 {"step \(j+1): Xyz Summon needs 2+ materials"}],
+
+		// Synchro: exactly 1 Tuner, and the Levels add up.
+		[for j, t in steps if t.action == "synchro"
+			let n = strings.Split(t.card, "#")[0]
+			if cards[n] != _|_
+			let mats = [for m in t.consumes if cards[strings.Split(m, "#")[0]] != _|_ {
+				let changed = [for i, s in steps if i < j if s.setLevel[m] != _|_ {s.setLevel[m]}]
+				lv:    [if len(changed) > 0 {changed[len(changed)-1]}, cards[strings.Split(m, "#")[0]].level][0]
+				tuner: cards[strings.Split(m, "#")[0]].tuner
+			}]
+			let total = list.Sum([for x in mats {x.lv}])
+			let tuners = len([for x in mats if x.tuner {x}])
+			if total != cards[n].level || tuners != 1 {"step \(j+1): \(n) (Level \(cards[n].level)) needs 1 Tuner + non-Tuners adding up; got Level \(total) with \(tuners) Tuner(s)"}],
+
+		// Link: number of materials equals the Link rating (every Link we use takes 1-rating materials).
+		[for j, t in steps if t.action == "link"
+			let n = strings.Split(t.card, "#")[0]
+			if cards[n] != _|_
+			if len(t.consumes) != cards[n].level {"step \(j+1): \(n) is Link-\(cards[n].level) but uses \(len(t.consumes)) materials"}],
 
 		// Zones.
 		[if len(end.mmz) > 5 {"end board uses \(len(end.mmz)) Main Monster Zones (max 5)"}],

@@ -28,16 +28,16 @@ cards: {
 	"Infinite Impermanence": {kind: "trap", effects: ["activate"], notOpt: ["activate"]}
 
 	// --- Predaplant ---
-	"Predaplant Longinephila": {kind: "monster", race: "Plant", level: 1, effects: ["search", "gy"]}
+	"Predaplant Longinephila": {kind: "monster", race: "Plant", level: 1, tuner: true, effects: ["search", "gy"]}
 	"Predaplant Byblisp": {kind: "monster", race: "Plant", level: 1, effects: ["search", "revive"]}
 	"Predaplant Lilizard": {kind: "monster", race: "Plant", level: 3, effects: ["summon_self", "dark", "draw"]}
-	"Princess Dracaena, the Thirsting Tree": {kind: "monster", race: "Plant", level: 1, effects: ["summon_self", "gy"], gyEffects: ["summon_self"]}
+	"Princess Dracaena, the Thirsting Tree": {kind: "monster", race: "Plant", level: 1, tuner: true, effects: ["summon_self", "gy"], gyEffects: ["summon_self"]}
 	"Predaprimitive": {kind: "spell", effects: ["activate", "destroy"], gyEffects: ["activate"]}
 	"Instant Fusion": {kind: "spell", effects: ["activate"]}
 	"Super Polymerization": {kind: "spell", effects: ["activate"], notOpt: ["activate"]}
 	"Polymerization": {kind: "spell", effects: ["activate"], notOpt: ["activate"]}
 	"Predaplant Ambulomelides": {frame: "fusion", kind: "monster", race: "Plant", level: 5, effects: ["search", "tribute"]}
-	"Predaplant Bal Teah": {frame: "synchro", kind: "monster", race: "Plant", level: 4, effects: ["revive", "fusion"]}
+	"Predaplant Bal Teah": {frame: "synchro", kind: "monster", race: "Plant", level: 4, tuner: true, effects: ["revive", "fusion"]}
 	"Aromaseraphy Jasmine": {frame: "link", kind: "monster", race: "Plant", level: 2, effects: ["tribute", "search"]}
 	"Predaplant Daredevil": {frame: "fusion", kind: "monster", race: "Plant", level: 6}
 	"Starving Venom Fusion Dragon": {frame: "fusion", kind: "monster", race: "Dragon", level: 8, effects: ["atk", "copy", "destroyed"]}
@@ -46,7 +46,7 @@ cards: {
 	"Cactus Bouncer": {kind: "monster", race: "Plant", level: 4} // can't be Special Summoned: use lock "no_special" on its Normal Summon
 
 	// --- Hand traps and tech ---
-	"Ash Blossom & Joyous Spring": {kind: "monster", race: "Zombie", level: 3, effects: ["negate"]}
+	"Ash Blossom & Joyous Spring": {kind: "monster", race: "Zombie", level: 3, tuner: true, effects: ["negate"]}
 	"Droll & Lock Bird": {kind: "monster", race: "Spellcaster", level: 1, effects: ["activate"]}
 	"Maxx \"C\"": {kind: "monster", race: "Insect", level: 2, effects: ["activate"]}
 	"Mulcharmy Purulia": {kind: "monster", race: "Aqua", level: 4, effects: ["activate"]}

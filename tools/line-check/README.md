@@ -9,6 +9,7 @@ Checks Master Duel combo lines as data before you try them in a game. It can't p
 | Dark Law: nothing sent to your GY | Rhino game 3 (25 Nov): Predaprimitive can't be activated under Dark Law |
 | Card is in the deck | Rhino game 3: Lilizard searches Polymerization; PredaRikka runs none |
 | One Normal Summon, once-per-turn effects, summon locks, 5 Main Monster Zones | Cactus vs Longinephila, Predaprimitive's Plant/Dragon lock, Moonlit's Plant Xyz lock |
+| Xyz materials match the Rank (after Primrose's Level change), Synchro has 1 Tuner and the Levels add up, Link material count | A forgotten Primrose Level change; a Synchro without a Tuner |
 
 ## Run it
 
@@ -39,5 +40,10 @@ One step per action, in order. The fields that matter:
 - `summons`: a monster this step summons when it isn't the step's own card.
 - `fromDeck`: cards taken from the Deck (adds, sends, attaches, summons).
 - `lock`: the summon lock the step applies (`plant`, `plant_or_dragon`, `extra_plant_xyz`, `no_special`).
+- `setLevel`: Level changes, e.g. Primrose `{"Hellebore the Rikka Fairy": 6}`.
+- `rankUp: true`: Xyz on top of another Xyz (Teardrop the Rikka Sacred Queen over Teardrop).
+- `startField`: cards already on the field when the line starts (mid-turn positions).
+
+Hand-fitted lines from real games go in `lines_handfit.cue`.
 
 Mark new lines `status: "untested"` until they've been played.

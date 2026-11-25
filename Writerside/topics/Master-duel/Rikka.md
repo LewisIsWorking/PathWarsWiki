@@ -206,6 +206,24 @@ Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell mate
 6. **Super Poly**: Dragoon + a **DARK Predaplant of yours** → **Starving Venom** removes Dragoon without touching a Horus card (no Black Flame Deity trigger).
 7. **Evenly Matched** at the end of your Battle Phase banishes her extra cards face-down: no destruction, no targeting, and banished Sons can't come back.
 
+## Hand-fitted lines (UNTESTED, pass the line checker)
+
+Fitted to exact hands from real games. Full steps in `tools/line-check/lines_handfit.cue`.
+
+### Line C: Predaprimitive + Konkon + Longinephila (going first)
+The proven Predaprimitive line above, with two upgrades:
+1. **Black Princess Tributes Longinephila from the hand**, not Jasmine. Longinephila is dead in hand (the Normal Summon is for Cactus), and Jasmine stays on the field.
+2. **Mudan adds Glamour** (Konkon is already in hand); **Konkon sets Moonlit Waters**.
+3. **Before Cactus: Moonlit Waters, Tributing Rikka Queen Strenna** → add Black Princess, send Mudan. Strenna → **Hyperyton**. Decline Primrose's trigger (keep her for their turn).
+
+End: Cactus, Kanzashi, Sacred Queen Strenna, **Hyperyton**, **Jasmine**, Konkon, set Sheet; Rikka Princess in the GY; Primrose + Black Princess in hand.
+
+### Horus break: Petal + Mudan + Black Princess (going second)
+Petal (add Primrose) → Black Princess → Mudan Tributes Petal (Konkon; Primrose + Hellebore) → Konkon sets Sheet → Mudan + Black Princess → Sacred Queen Strenna → Kanzashi → Primrose + Hellebore → Teardrop → Teardrop the Rikka Sacred Queen → **detach 2: send King's Sarcophagus + Walls**, Tribute Imsety. Then attack.
+
+### Rikka Princess on field + Mudan + Sheet (going first)
+Mudan Tributes Rikka Princess (Konkon) → Konkon sets Moonlit → Moonlit: Primrose, send Hellebore → Hellebore Tributes Mudan (Primrose + Black Princess) → Black Princess to Level 8 → Teardrop with Hellebore → set Sheet. Keep Primrose and both Ash.
+
 ## How to learn PredaRikka (practice plan)
 
 1. **Learn the two halves separately.** Predap half: *starter → Lilizard → Bal Teah → Jasmine → Jasmine Tributes Byblisp → Petal or Black Princess*. Rikka half: *Mudan → Konkon → Sacred Queen Strenna → Rikka Queen Strenna (+Rikka Princess) → Tribute her → Hyperyton/Kanzashi + Sheet → Teardrop*. Jasmine is the bridge.
