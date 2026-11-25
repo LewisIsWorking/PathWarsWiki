@@ -105,6 +105,8 @@ Result: **won** 25 Nov (they surrendered turn 3). They held 3 cards going first 
 
 ### trampaslocas (Elfnote / Power Patron, ranked, 25 Nov)
 
+Result: **lost** (turn 9). Their Quick Effects all fire on **your** turn: Baronne, Tinia (random hand banish), Little Knight, Power Patron, Strelitzia. Evenly Matched at the end of your Battle Phase dodges the Main Phase ones.
+
 | Card | What it does | Answer |
 | --- | --- | --- |
 | **Elfnote Power Patron** (Level 1) | Main Phase Quick: centre monster +3 Levels, then Synchro (e.g. **Junora**: negates all your face-up cards). Searches an Elfnote when used as Synchro material. | Play around it in the **Battle Phase** (Evenly Matched), or bait it. |
@@ -114,6 +116,7 @@ Result: **won** 25 Nov (they surrendered turn 3). They held 3 cards going first 
 | **Elfnote Tinia** | Your turn, Quick: swaps into the centre, then banishes a **random card from your hand** until the End Phase (took Lilizard). | Play your key hand card before passing priority; expect one random hand card to vanish. |
 | **Baronne de Fleur** | Once while face-up: negate + destroy any activation. Also destroys 1 card (target) per turn. | **Bait it first** (Dracaena worked). |
 | **Types / Attributes** | Fortuna LIGHT Spellcaster, Lucina FIRE Spellcaster, Tinia WATER Spellcaster, Regina WIND Spellcaster, Power Patron FIRE Fiend, Strelitzia FIRE Plant, Baronne WIND Warrior. | **Super Poly → Garura** needs two with the same Type + Attribute (e.g. Regina + another WIND Spellcaster). |
+| **S:P Little Knight** | Quick, when you activate something: banishes 2 face-up monsters (one of theirs) until the End Phase. Went for Mudan. | Answer with Rikka Princess (hand/GY) or bait it with a cheap effect. |
 | **Elfnotes: A Plea for Help** | Centre monster can't be targeted. | Tribute (Konkon) or face-down banish (Evenly Matched). |
 
 ## Witchcrafter: which card first

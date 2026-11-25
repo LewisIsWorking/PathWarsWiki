@@ -144,6 +144,17 @@ Record which ending you used in the game log below.
 - **Attack after the break.** King's Sarcophagus only stops destruction by card effects, not by battle.
 - **Teardrop Queen and Sacred Queen reset on their turn.** Holding both Quick Effects for her Main Phase won the Horus game.
 
+## Coaching mistakes to avoid (25 Nov 2026)
+
+Errors in live advice this session; check these before sending a line:
+- **A Normal Summon is always in Attack.** Defence means a face-down Set, which doesn't trigger "if Normal Summoned" searches.
+- **Once-per-turn cards:** only 1 Rikka Glamour, 1 Moonlit Waters, 1 Predaprimitive, 1 Rikka Sheet per turn. A second copy in hand is a discard.
+- **Copy counts:** PredaRikka runs 1 Rikka Princess, 1 Lilizard, 1 Hellebore, 1 Primrose, 1 Petal. Don't plan to attach a card and then search it.
+- **Positions:** Sacred Queen Strenna's detach, Hellebore's revive, Primrose's and Jasmine's summons are **Defence**. Rikka Queen Strenna's float and Black Princess's Deck summon can be Attack. Count lethal only with Attack-position monsters.
+- **Cactus Bouncer locks you too**, including Super Poly and Instant Fusion.
+- **Under Droll, Master Duel won't let you activate a card that must add** (Moonlit Waters).
+- **Read the opponent's monsters' text before counting damage** (Machina Fortress, Elfnote Quick Effects).
+
 ## Game log
 
 | Date | Opponent | Turn | Result | Notes |
@@ -154,6 +165,7 @@ Record which ending you used in the game log below.
 | 24 Nov 2026 | Horus (MDPro4, UnknoDaemon) | 2nd | **Won** (surrender, turn 3) | Into 4 Sons + King's Sarcophagus + Walls of the Imperial Tomb. Black Princess / Mudan / Primrose → Sacred Queen Strenna, Teardrop the Rikka Queen ×2 → Teardrop the Rikka Sacred Queen, Konkon, set Sheet + Dominus Impulse. Removed Imsety and Duamutef and King's Sarcophagus, but **Walls stayed** and he **didn't attack** (3100 damage missed). On her turn, chained Teardrop Queen and Sacred Queen Quick Effects in Main 1, cleared her field; she surrendered. |
 | 25 Nov 2026 | Rikka (ranked, Sloth) | 1st | **Lost** | Sample Hand 3 (Dracaena ×2, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Dracaena, then Predaprimitive (Super Poly) → **Droll** on Byblisp's search. Moonlit Waters couldn't be activated under Droll. Talent took a card from their hand; Dracaena ×2 → Sylvan Dancepione got **Ashed**. Ended on Dancepione + set Super Poly. Lesson: Moonlit Waters first, searches after. See [Speed sheet: Sloth](Speed-sheet.md). |
 | 25 Nov 2026 | Machina (ranked, bilotahn) | 2nd | **Won** (surrender, turn 3) | Sample Hand 4 into Machina Fortress. **Ash** on Predaprimitive (Byblisp still found Longinephila), **Ghost Belle** on Bal Teah's Lilizard revive. Improvised Byblisp + Fortress (Predator Counter) into **Predaplant Daredevil**, Konkon/Glamour, Sacred Queen Strenna, Hellebore, set Sheet. **Hyperyton never came out** (most likely Rikka Queen Strenna had no material). Attacks left them on 1900; they surrendered on turn 3. |
+| 25 Nov 2026 | Elfnote / Power Patron (ranked, trampaslocas) | 2nd | **Lost** (turn 9) | Sample Hand 5. **Evenly Matched** on our turn took them to 1 card (kept Strelitzia), then **Ash on Moonlit Waters**. Cactus + their Strelitzia (a Plant) locked both players' Special Summons. Built Longinephila; they removed Cactus. **Baronne** negated the Dracaena bait, **Tinia** banished Lilizard from hand. Hellebore went in Defence and died. Turn 8: **Little Knight** went for Mudan, Rikka Princess (Tributing Primrose) negated it; out of time on the clock before the lethal line. |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
