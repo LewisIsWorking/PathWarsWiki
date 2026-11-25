@@ -98,6 +98,10 @@ Seen in one game (Lewis lost, PredaRikka going first). Their hand traps hit the 
 | Card | What it does | Answer |
 | --- | --- | --- |
 | **Machina Fortress** (Level 7, 2500) | If your **monster effect targets** it: they look at your hand and discard 1. If it's **destroyed by battle**: destroys 1 of your cards. Comes back from the hand/GY by discarding Machines (Levels 8+). | **Tribute it, don't target or battle it.** Konkon's Tribute (via Glamour or Black Princess) or Super Poly as Fusion material. Teardrop's Tribute targets (costs you a card from hand). Longinephila's Predator Counter doesn't target. See Rikka Sample Hand 4. |
+| **Ash Blossom** | Used on **Predaprimitive** (your first search). | Byblisp still searches (it's sent as a cost). Lead with the search you can lose. |
+| **Ghost Belle & Haunted Mansion** | Negated Bal Teah's revive of Lilizard from the GY. | Expect it on your first GY effect. Bal Teah / Byblisp / Hellebore / Black Princess all use the GY. |
+
+Result: **won** 25 Nov (they surrendered turn 3). They held 3 cards going first and only set up Fortress: their hand was hand traps.
 
 ## Witchcrafter: which card first
 
