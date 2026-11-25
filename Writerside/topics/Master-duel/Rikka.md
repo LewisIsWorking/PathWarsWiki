@@ -405,3 +405,26 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 **Rule we nearly broke:** **only 1 Rikka Glamour per turn** (and only 1 Moonlit Waters, 1 Predaprimitive). With 2 in hand, the second is a discard, not a second search.
 
 **Fallback if you have no Longinephila (UNTESTED):** Dracaena (send Rikka Princess) → **Glamour** (no Tribute) adds Black Princess → Black Princess from hand, Tribute Dracaena → Mudan → Konkon → set Moonlit → Xyz Sacred Queen Strenna → Rikka Queen Strenna → **Moonlit Waters Tributing Fortress via Konkon** (Primrose + Hellebore; Sacred Queen sets Sheet) → **Normal Summon Lilizard**, Hellebore Tributes it → Primrose + Black Princess → Teardrop. Not lethal (Teardrop 2800 + Strenna 2000), but Fortress is gone.
+
+### Hand 5: Cactus Bouncer, Hellebore, Moonlit Waters, Super Poly, Evenly Matched (going 2nd into Elfnote, vs trampaslocas)
+
+**Their board:** Elfnote Fortuna (centre), Elfnote Power Patron (Level 1), Elfnote Seraphim Strelitzia (Level 7 Synchro, Defence), a face-up Elfnote Continuous Trap; 4 in hand.
+
+**Their interruptions on your turn (card text):** Power Patron (Main Phase, Quick): centre monster +3 Levels, then Synchro (Junora negates all your face-up cards). Strelitzia (Main Phase, Quick): Special Summons a Level 6 Elfnote and drops every Level 4+ monster by 3 (breaks your Xyz Levels). Fortuna (your turn, Quick): bounces a face-up Spell/Trap (Konkon). Aristeia of Trust (if that's the Trap, with 3+ Elfnotes): negates your Spell/Trap.
+
+**Key idea: Evenly Matched on YOUR turn.** It works at the end of your Battle Phase, from the hand if you control no cards. Their Quick Effects above are Main Phase only, so go to the Battle Phase with an empty field, Evenly Matched them down to 1 card (face-down banish ignores their protection), then combo in Main Phase 2.
+
+**Super Poly** has no target here: none of their monsters share a Type + Attribute (Fortuna LIGHT Spellcaster, Power Patron FIRE Fiend, Strelitzia FIRE Plant), and Daredevil needs your own Predaplant. Set it for later.
+
+**Line (UNTESTED, from card text):**
+1. Main Phase 1: do nothing. Enter the Battle Phase with 0 cards.
+2. End of Battle Phase: **Evenly Matched** from hand. They keep 1 card.
+3. Main Phase 2: **Moonlit Waters** (no Tribute): add Mudan, send Black Princess.
+4. **Black Princess** from the GY; Tribute herself → **Petal**. **Petal:** add **Primrose**.
+5. **Mudan:** Tribute Petal → Mudan (adds **Konkon**); **Primrose** → Primrose + **Black Princess #2** (Hellebore is in your hand, not the Deck).
+6. **Konkon:** set **Glamour**.
+7. Xyz **Mudan + Black Princess #2** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Mudan #2** (keep Rikka Princess in the Deck).
+8. **Glamour**, Tributing Rikka Queen Strenna: add **Rikka Princess**. Strenna → **Hyperyton**; Sacred Queen → set **Rikka Sheet**.
+9. **Normal Summon Cactus Bouncer.** Set Super Poly.
+
+**End:** Sacred Queen Strenna, Primrose, Hyperyton, Cactus Bouncer, Konkon, set Sheet + Super Poly. Hand: **Hellebore + Rikka Princess** (both negates while you control a Rikka monster). Cactus stops their Special Summons while any other Plant is on the field (Strelitzia counts too).

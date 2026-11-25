@@ -103,6 +103,16 @@ Seen in one game (Lewis lost, PredaRikka going first). Their hand traps hit the 
 
 Result: **won** 25 Nov (they surrendered turn 3). They held 3 cards going first and only set up Fortress: their hand was hand traps.
 
+### trampaslocas (Elfnote / Power Patron, ranked, 25 Nov)
+
+| Card | What it does | Answer |
+| --- | --- | --- |
+| **Elfnote Power Patron** (Level 1) | Main Phase Quick: centre monster +3 Levels, then Synchro (e.g. **Junora**: negates all your face-up cards). Searches an Elfnote when used as Synchro material. | Play around it in the **Battle Phase** (Evenly Matched), or bait it. |
+| **Elfnote Seraphim Strelitzia** (Level 7 Synchro) | Main Phase Quick: Special Summon a Level 6 Elfnote from hand/GY, then every Level 4+ monster loses 3 Levels (ruins your Xyz). 3000 ATK only in the centre zone. | Xyz before it can respond, or remove it first. It's a **Plant**: it keeps Cactus Bouncer's lock on. |
+| **Elfnote Fortuna** (centre) | Your turn, Quick: swaps into the centre and bounces a face-up Spell/Trap (Konkon). Places an Elfnote Continuous Trap. | Expect Konkon to bounce. |
+| **Elfnotes: Aristeia of Trust** | With 3+ Elfnotes: negates your Spell/Trap. | Super Poly can't be responded to. |
+| **Elfnotes: A Plea for Help** | Centre monster can't be targeted. | Tribute (Konkon) or face-down banish (Evenly Matched). |
+
 ## Witchcrafter: which card first
 
 **Lead order:** Spell Power Mastery → Creation → Marka → Walpurgis. Full lines on the [Witchcrafter](Witchcrafter.md) page.
