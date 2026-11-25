@@ -431,4 +431,4 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 
 **Live (25 Nov):** Evenly Matched resolved; they kept **Strelitzia** (Defence). Then they **Ashed Moonlit Waters**. Ended on Cactus Bouncer + set Super Poly, Hellebore in hand. Silver lining: Strelitzia is a **Plant**, so Cactus + Strelitzia means **neither player can Special Summon** (Super Poly included) until one leaves. Result: pending.
 
-**Lesson:** after Evenly Matched, your Main Phase 2 opener eats their hand trap. With only one starter (Moonlit Waters), there's no backup: count your starters before choosing Evenly Matched over comboing in Main 1.
+**Takeaway:** Ash would have hit Moonlit Waters in Main Phase 1 too, so Evenly Matched first was still right: it removed 3 of their 4 cards for free. With one starter in hand, expect a hand-trapped combo and make sure Cactus still lands.
