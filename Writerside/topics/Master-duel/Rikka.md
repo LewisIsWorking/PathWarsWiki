@@ -386,3 +386,9 @@ If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus ne
 14. **Attack:** Teardrop 2800 + Hyperyton 2600 + Sacred Queen Strenna 2000 + Jasmine 1800 = **9200, lethal.**
 
 Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebore, Primrose, Byblisp, Lilizard (all 1/1), Longinephila 1/2.
+
+**Predaprimitive's choice:** it adds **any "Polymerization" or "Fusion" Spell**: Super Poly or **Instant Fusion** (Lewis, 25 Nov). This line doesn't need either; pick Instant Fusion when you want Ambulomelides as an extra body/search, Super Poly for a no-response removal next turn.
+
+**Live (25 Nov):** they **Ashed Predaprimitive**. The cost already sent Byblisp, so Byblisp's search (Longinephila) still happens and the rest of the line is unchanged: you only lose the Spell it would have added.
+
+**Fallback if you have no Longinephila (UNTESTED):** Dracaena (send Rikka Princess) → **Glamour** (no Tribute) adds Black Princess → Black Princess from hand, Tribute Dracaena → Mudan → Konkon → set Moonlit → Xyz Sacred Queen Strenna → Rikka Queen Strenna → **Moonlit Waters Tributing Fortress via Konkon** (Primrose + Hellebore; Sacred Queen sets Sheet) → **Normal Summon Lilizard**, Hellebore Tributes it → Primrose + Black Princess → Teardrop. Not lethal (Teardrop 2800 + Strenna 2000), but Fortress is gone.
