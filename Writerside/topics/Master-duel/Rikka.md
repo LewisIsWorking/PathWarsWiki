@@ -391,4 +391,8 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 
 **Live (25 Nov):** they **Ashed Predaprimitive**. The cost already sent Byblisp, so Byblisp's search (Longinephila) still happens and the rest of the line is unchanged: you only lose the Spell it would have added.
 
+**Live, part 2:** **Ghost Belle** negated Bal Teah's Lilizard revive (no Lilizard, no draw). Fix (UNTESTED): **Byblisp** from the GY (Fortress has the counter) → Link **Bal Teah + Dracaena** → Jasmine; Jasmine Tributes Byblisp → Black Princess → Tribute herself → Mudan → Konkon → set Moonlit → **Glamour Tributes Fortress via Konkon** (Black Princess + Mudan) → Sacred Queen Strenna → Rikka Queen Strenna → Moonlit Tributes her (Hyperyton + Sheet, Primrose + Hellebore) → Hellebore Tributes Jasmine → Primrose + Black Princess → Teardrop. Attack for 7400 (not lethal).
+
+**Rule we nearly broke:** **only 1 Rikka Glamour per turn** (and only 1 Moonlit Waters, 1 Predaprimitive). With 2 in hand, the second is a discard, not a second search.
+
 **Fallback if you have no Longinephila (UNTESTED):** Dracaena (send Rikka Princess) → **Glamour** (no Tribute) adds Black Princess → Black Princess from hand, Tribute Dracaena → Mudan → Konkon → set Moonlit → Xyz Sacred Queen Strenna → Rikka Queen Strenna → **Moonlit Waters Tributing Fortress via Konkon** (Primrose + Hellebore; Sacred Queen sets Sheet) → **Normal Summon Lilizard**, Hellebore Tributes it → Primrose + Black Princess → Teardrop. Not lethal (Teardrop 2800 + Strenna 2000), but Fortress is gone.
