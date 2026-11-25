@@ -38,10 +38,11 @@ cards: {
 	"Polymerization": {kind: "spell", effects: ["activate"], notOpt: ["activate"]}
 	"Predaplant Ambulomelides": {frame: "fusion", kind: "monster", race: "Plant", attr: "DARK", level: 5, effects: ["search", "tribute"], addEffects: ["search"], atk: 1000}
 	"Predaplant Bal Teah": {frame: "synchro", kind: "monster", race: "Plant", attr: "DARK", level: 4, tuner: true, effects: ["revive", "fusion"], atk: 1900}
-	"Aromaseraphy Jasmine": {frame: "link", kind: "monster", race: "Plant", attr: "LIGHT", level: 2, effects: ["tribute", "search"], atk: 1800, defEffects: ["tribute"]}
+	"Aromaseraphy Jasmine": {frame: "link", kind: "monster", race: "Plant", attr: "LIGHT", level: 2, effects: ["tribute", "search"], atk: 1800, defEffects: ["tribute"]} // 2 Plants; arrows down-left + down-right
+	"Sylvan Dancepione": {frame: "link", kind: "monster", race: "Plant", attr: "WIND", level: 2, effects: ["excavate", "level"], atk: 1200} // 2 Plants; arrows down-left + down-right. excavate: on Link Summon, 1-3 cards, Special Summon up to 2 Plants (not Link material: list them in noLink), rest to GY. level: monsters it points to become a GY Plant's Level (setLevel)
 	"Predaplant Daredevil": {frame: "fusion", kind: "monster", race: "Plant", attr: "DARK", level: 6, atk: 2200}
 	"Starving Venom Fusion Dragon": {frame: "fusion", kind: "monster", race: "Dragon", attr: "DARK", level: 8, effects: ["atk", "copy", "destroyed"], atk: 2800}
-	"Garura, Wings of Resonant Life": {frame: "fusion", kind: "monster", race: "Winged Beast", attr: "DARK", level: 6, effects: ["draw"]}
+	"Garura, Wings of Resonant Life": {frame: "fusion", kind: "monster", race: "Winged Beast", attr: "DARK", level: 6, effects: ["draw"], atk: 1500} // battle damage involving it is doubled; draws 1 when sent to the GY (e.g. as Xyz material)
 	"Crystal Wing Synchro Dragon": {frame: "synchro", kind: "monster", race: "Dragon", attr: "WIND", level: 8, effects: ["negate"], atk: 3000}
 	"Cactus Bouncer": {kind: "monster", race: "Plant", attr: "EARTH", level: 4, atk: 1800} // can't be Special Summoned: use lock "no_special" on its Normal Summon
 

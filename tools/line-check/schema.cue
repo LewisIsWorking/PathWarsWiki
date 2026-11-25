@@ -103,6 +103,8 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	makesDark: string | *""
 	// Longinephila (GY): the monster this step puts a Predator Counter on (it becomes Level 1).
 	counter: string | *""
+	// Monsters this step summons that can't be Link Material (Sylvan Dancepione's excavated Plants).
+	noLink: [...string] | *[]
 	note?: string
 }
 
@@ -313,6 +315,19 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 			if cards[n] != _|_
 			if len(t.consumes) != cards[n].level {"step \(j+1): \(n) is Link-\(cards[n].level) but uses \(len(t.consumes)) materials"}],
 
+		// Link materials: Jasmine and Dancepione take 2 Plant monsters; Dancepione's excavated Plants can't be used.
+		[for j, t in steps if t.action == "link"
+			let n = strings.Split(t.card, "#")[0]
+			if _linkRace[n] != _|_
+			for m in t.consumes
+			let mn = strings.Split(strings.TrimPrefix(m, "opp:"), "#")[0]
+			if cards[mn] != _|_ && cards[mn].race != _linkRace[n] {"step \(j+1): \(n) needs 2 \(_linkRace[n]) monsters; \(mn) is a \(cards[mn].race)"}],
+		[for j, t in steps if t.action == "link"
+			for m in t.consumes
+			if len([for i, s in steps if i < j && list.Contains(s.noLink, m) {1}]) > 0 {"step \(j+1): \(m) was summoned by Sylvan Dancepione and can't be Link Material"}],
+		// One Extra Monster Zone per player (a second one only through an Extra Link).
+		[if len([for x in end.emz if cards[strings.Split(x, "#")[0]] != _|_ {x}]) > 1 {"end board has \(len(end.emz)) monsters in Extra Monster Zones; you can use only 1 (put Fusion/Synchro/Xyz in Main Monster Zones; a second Link goes in a zone the first one points to)"}],
+
 		// Fusion materials (Super Poly, Daredevil's Tribute summon). Lilizard's makesDark and
 		// Longinephila's counter (Level 1) count from the step they happen.
 		[for j, t in steps
@@ -374,6 +389,12 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 		[if len(end.mmz) > 5 {"end board uses \(len(end.mmz)) Main Monster Zones (max 5)"}],
 		[if len(end.emz) > 2 {"end board uses \(len(end.emz)) Extra Monster Zones (max 2)"}],
 	])
+}
+
+// Link Monsters whose materials must be one Type.
+_linkRace: {
+	"Aromaseraphy Jasmine": "Plant"
+	"Sylvan Dancepione":    "Plant"
 }
 
 // Fusion Monsters whose materials are checked, and what they need.

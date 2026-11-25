@@ -1,7 +1,7 @@
 package lines
 
 decks: {
-	// PredaRikka | 2026-11-21, as saved in MDPro4 on 25 Nov 2026 (45 Main / 15 Extra).
+	// PredaRikka | 2026-11-21, as saved in MDPro4 on 25 Nov 2026 (45 Main / 15 Extra). Extra Deck re-checked against the deck-edit screenshot, 25 Nov 2026 13:00.
 	"PredaRikka": {
 		main: {
 			"Droll & Lock Bird": 2
@@ -39,7 +39,6 @@ decks: {
 			"Garura, Wings of Resonant Life": 1
 			"Predaplant Ambulomelides": 1
 			"Predaplant Bal Teah": 1
-			"Crystal Wing Synchro Dragon": 1
 			"Rikka Queen Strenna": 1
 			"Kanzashi the Rikka Queen": 1
 			"Rikka Sacred Queen Strenna": 1
@@ -48,6 +47,8 @@ decks: {
 			"Sacred Tree Beast, Hyperyton": 1
 			"Teardrop the Rikka Sacred Queen": 1
 			"Aromaseraphy Jasmine": 1
+			"Sylvan Dancepione": 1
+			// Crystal Wing Synchro Dragon is NOT in the Extra Deck (screenshot 25 Nov 2026, 13:00): Sylvan Dancepione took its slot.
 		}
 	}
 

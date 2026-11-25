@@ -87,11 +87,17 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **My board:** empty. **Hand:** Cactus Bouncer, Mudan, Instant Fusion, Predaprimitive. Byblisp, both Longinephila and Lilizard gone from the Deck.
 - **Their board:** Imsety, Hapi, Duamutef, Obelisk the Tormentor, a 4300 Serpent/Scorpion, King's Sarcophagus, Shining Sarcophagus, Apophis traps, Canopic Protector.
 - **Right answer:** say plainly that no line survives (five attackers of 2400+, Obelisk's untargetable wipe), unless their LP is low enough to win now; ask for their LP. Predaprimitive can't be activated (nothing to send: `KNOWN BAD: Ryuuku turn 5, ...`, uses `deckGone`).
+- **Extra Deck re-check (25 Nov):** if Lilizard was in the GY, the best try was **F10** (Instant Fusion + Mudan through Jasmine: Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet). Still most likely lost, but four interactions instead of none.
 - **What went wrong:** advice was Instant Fusion → Ambulomelides → Mudan → **Cactus lock**. Cactus stops Special Summons, not attacks. The game was lost on earlier turns (weak turn-1 board, no stop on their turn).
 
 ## S18. Going second into any 2-3 monster board with Predaprimitive + Moonlit Waters (25 Nov 2026)
 - **Right answer:** the going-second core (`lines_going2nd.cue`): Predap engine → **Daredevil's own summon Tributes monster A** (Predator Counter, no target, not an activation) → **Lilizard makes B DARK → Super Poly: B + Lilizard → Starving Venom** → Moonlit → Teardrop + Teardrop the Rikka Sacred Queen (send 3, Tribute C). 8200/8400. Pick A/B/C per matchup from the Speed sheet table.
 - **Trap to avoid:** Super Poly on Starving Venom with a non-DARK monster (`KNOWN BAD: Starving Venom with a LIGHT monster`), Daredevil's summon with no counter (`KNOWN BAD: Daredevil's Tribute summon with no Predator Counter`), any Rikka step before Super Poly.
+
+## S19. Extra Deck audit: Links missed (25 Nov 2026)
+- **Lewis's point:** the coaching kept missing Extra Deck routes, especially Links like Jasmine. The coach also had the wrong Extra Deck (Crystal Wing instead of **Sylvan Dancepione**).
+- **Right answer:** before sending any PredaRikka line, run the Extra Deck checks (Rikka.md "Extra Deck routes", rules of thumb): 3 Plant bodies before Moonlit = Jasmine bridge; Moonlit stops every non-Xyz Extra Deck summon; one Extra Monster Zone; Super Poly in the opening hand + two of theirs sharing Type and Attribute = Garura first; Dancepione only late game.
+- **Lines:** `tools/line-check/lines_extra.cue` (Jasmine bridge, F10 Instant Fusion + Mudan, Garura-first going second, 5 known-bad Extra Deck plays).
 
 ## More
 Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.

@@ -236,6 +236,7 @@ Every line here passes the line checker (`tools/line-check`). Full steps on the 
 | Moonlit Waters alone | **F7** (Line A, Strenna attaches Black Princess) | Hyperyton (Spell), Hellebore, Primrose, Cactus, Sheet | UNTESTED in PredaRikka |
 | Mudan alone | **F8** | Teardrop, Hyperyton, Sacred Queen Strenna, Sheet | UNTESTED |
 | Black Princess alone (+ Cactus) | **F9** (weak) | Teardrop, Primrose (+ Cactus) | UNTESTED |
+| Instant Fusion + Mudan | **F10** (Jasmine bridge) | Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet | UNTESTED |
 
 Byblisp, Lilizard, Konkon, Rikka Princess, Hellebore, Primrose, Cactus and Super Poly are not starters alone. **Moonlit Waters only after Instant Fusion, Bal Teah and Jasmine.** **Pure-Rikka Line A and Line B fail in PredaRikka as written** (one Rikka Princess): use F7 / F6.
 
@@ -254,6 +255,12 @@ Byblisp, Lilizard, Konkon, Rikka Princess, Hellebore, Primrose, Cactus and Super
 | Cactus + any other Plant on either field (their Strelitzia) | **Normal Summon only**: Predaprimitive → Byblisp → Normal Summon Longinephila. No Instant Fusion or Super Poly | Proven |
 | Going 2nd, Moonlit Waters + Lilizard, Hellebore in the GY | **Elfnote turn 8 lethal** (8800): Teardrop, Hyperyton, Sacred Queen Strenna, Lilizard attack | UNTESTED |
 | Going 2nd into Dark Law | Answer Dark Law **before** searching. Predaprimitive, Dracaena, Moonlit Waters and Droplet are blocked; Black Princess, Mudan, Konkon and Glamour still work. Against Rhino, play Invoked | Lesson |
+
+**Extra Deck checks before sending any PredaRikka line** (full table: [Rikka: Extra Deck routes](Rikka.md)):
+- **3 Plants on the field before Moonlit = Jasmine bridge** (Jasmine Tributes the 3rd → Black Princess → Tributes Jasmine → Mudan → full Rikka finish).
+- **Moonlit Waters stops every Fusion, Synchro and Link.** One Extra Monster Zone: Links need it.
+- **Super Poly in the opening hand + two of theirs with the same Type and Attribute → Garura first** (before Predaprimitive). Machina Fortress + Air Raider; Infinity + Cyber Dragon (not Nova).
+- **Extra Deck has Sylvan Dancepione, not Crystal Wing.** Dancepione = late-game gamble (excavate 3), never before Moonlit's Primrose + Hellebore leave the Deck.
 
 **Ash Blossom: one per turn.** Glamour and Mudan Tribute from the field only; Black Princess can Tribute from the hand.
 

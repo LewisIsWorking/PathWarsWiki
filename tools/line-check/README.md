@@ -16,6 +16,7 @@ Checks Master Duel combo lines as data before you try them in a game. It can't p
 | Fusion materials: Starving Venom (2 DARK, Lilizard's `makesDark` counts), Garura (same Type + Attribute, different names), Daredevil (Predaplant + Level 1; its own Tribute summon needs a Predator Counter) | Sky Striker (25 Nov): Super Poly on Zero only works after Lilizard makes it DARK |
 | Opponent's field (`oppField`): their monsters leave once, lethal needs them all gone; Konkon's replacement Tribute once per turn and only with Konkon face-up | Going-second lines (25 Nov) |
 | Cards already gone from the Deck (`deckGone`) | Ryuuku turn 5 (25 Nov): Predaprimitive with no Predap card left |
+| Link materials: Jasmine and Dancepione need 2 Plants; Dancepione's excavated Plants (`noLink`) can't be Link Material; only 1 Extra Monster Zone on the end board | Extra Deck audit (25 Nov): Links missed or misplayed |
 | Xyz materials match the Rank (after Primrose's Level change), Synchro has 1 Tuner and the Levels add up, Link material count | A forgotten Primrose Level change; a Synchro without a Tuner |
 
 ## Run it
@@ -52,12 +53,13 @@ One step per action, in order. The fields that matter:
 - `startField`: cards already on the field when the line starts (mid-turn positions).
 - `darkLaw: true` / `drollFrom: <step>`: the opponent's Dark Law is up / Droll resolved before that step.
 - `attach` / `detach`: materials attached to the step's `summons` (Sacred Queen Strenna's optional attach) / detached from the step's card. Rikka Queen Strenna's float fails with no material.
+- `noLink`: monsters this step summons that can't be Link Material (Sylvan Dancepione's excavated Plants).
 - `makesDark` / `counter`: Lilizard's DARK change and Longinephila's Predator Counter (e.g. `"opp:Sky Striker Ace = Zero"`), used by the Fusion material check.
 - `oppField`: their face-up monsters at the start (names as in `cards.cue`, `#2` for a second copy). `lethal.ignore` lists ones that stay but don't block.
 - `deckGone`: cards already out of the Deck, e.g. `{"Predaplant Byblisp": 1}`.
 - `startLocks`: locks already on when the line starts, e.g. `["no_special"]` for Cactus Bouncer with any other Plant on either field.
 - `lethal: {lp, attackers, bonus}`: optional damage check. Attackers must be on the end board and not summoned in Defence (Hellebore's revive, Primrose, Jasmine and Sacred Queen Strenna's summons are Defence; see `defEffects` in `cards.cue`). `bonus` adds ATK, e.g. `{"Teardrop: 1 Tribute": 200}`.
 
-Hand-fitted lines from real games go in `lines_handfit.cue`. The going-first lookup table (one line per PredaRikka starter and the common 2-card pairs) is `lines_first.cue`. Going-second breaks per matchup are in `lines_going2nd.cue` (`#Core` is the shared Predaprimitive + Moonlit line; fill in their monsters A, B, C).
+Hand-fitted lines from real games go in `lines_handfit.cue`. The going-first lookup table (one line per PredaRikka starter and the common 2-card pairs) is `lines_first.cue`. Extra Deck routes (Jasmine bridge, F10, Garura first, known-bad Link plays) are in `lines_extra.cue`. Going-second breaks per matchup are in `lines_going2nd.cue` (`#Core` is the shared Predaprimitive + Moonlit line; fill in their monsters A, B, C).
 
 Mark new lines `status: "untested"` until they've been played.

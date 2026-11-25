@@ -6,6 +6,7 @@ Built to answer in seconds while the Master Duel timer runs. Run through ./quick
   ./quick find mudan moonlit predap   best checked lines for this hand (short names work)
        --field "Rikka Princess"         cards already on your field
        --droll / --darklaw / --cactus   situation flags (shown against each line's conditions)
+       --late   late game: allow lines that assume cards already gone from the Deck (deckGone)
        --deck RikkaM1                   default PredaRikka
   ./quick check my_line.cue           check one pasted line (file, or - for stdin); prints it ready to send
   ./quick show "Line C"               print a saved line's steps (any part of its name)
@@ -44,6 +45,7 @@ ALIASES = {
     "jasmine": "Aromaseraphy Jasmine", "daredevil": "Predaplant Daredevil",
     "venom": "Starving Venom Fusion Dragon", "svfd": "Starving Venom Fusion Dragon",
     "garura": "Garura, Wings of Resonant Life", "crystal wing": "Crystal Wing Synchro Dragon",
+    "dancepione": "Sylvan Dancepione", "sylvan": "Sylvan Dancepione",
     "cactus": "Cactus Bouncer",
     "ash": "Ash Blossom & Joyous Spring", "droll": "Droll & Lock Bird", "maxx": "Maxx \"C\"",
     "maxx c": "Maxx \"C\"", "purulia": "Mulcharmy Purulia", "fuwalos": "Mulcharmy Fuwalos",
@@ -200,6 +202,8 @@ def conditions(line):
         c.append(f"Droll lands at step {line['drollFrom']}")
     for l in line.get("startLocks", []):
         c.append("lock already on: " + LOCKS.get(l, l))
+    if line.get("deckGone"):
+        c.append("already gone from your Deck: " + ", ".join(f"{k}" + (f" x{v}" if v > 1 else "") for k, v in line["deckGone"].items()))
     if line.get("lethal"):
         c.append(f"lethal vs {line['lethal']['lp']} LP: " + ", ".join(line["lethal"]["attackers"]))
     return c
@@ -319,7 +323,7 @@ def recheck(lines_by_name, deck):
 
 
 def cmd_find(argv):
-    rest, flags, opts = parse_flags(argv, {"--droll", "--darklaw", "--cactus", "--all"}, {"--field", "--deck"})
+    rest, flags, opts = parse_flags(argv, {"--droll", "--darklaw", "--cactus", "--late", "--all"}, {"--field", "--deck"})
     deck = opts.get("--deck", ["PredaRikka"])[0]
     hand, errs = {}, []
     for a in split_cards(rest):
@@ -357,6 +361,8 @@ def cmd_find(argv):
             situation.append("Droll " + ("assumed" if l.get("drollFrom") else "NOT checked"))
         if ("no_special" in l.get("startLocks", [])) != ("--cactus" in flags):
             situation.append("Cactus lock " + ("assumed" if l.get("startLocks") else "NOT checked"))
+        if bool(l.get("deckGone")) and "--late" not in flags:
+            situation.append("late game only: assumes " + ", ".join(l["deckGone"]) + " gone from the Deck (use --late)")
         rank = (len(situation), -sum(need.values()), 0 if l["status"] == "proven" else 1)
         entry = (rank, name, l, need, miss, situation, l.get("violations", []))
         if l["deck"] != deck:

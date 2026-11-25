@@ -22,6 +22,8 @@ The sparse clone skips the rest of the wiki (a full clone takes about 15 s). `se
 | Best pre-checked line for this hand | `quick find mudan moonlit predap if ttt` |
 | ...with cards already on your field | `quick find mudan sheet "2x ash" --field rp` |
 | ...under Droll / Dark Law / Cactus lock | add `--droll`, `--darklaw`, `--cactus` |
+| ...late game, cards already gone from the Deck | add `--late` (lines with `deckGone` only show without a CHECK SITUATION warning then) |
+| Extra Deck routes (Links, Garura, locks) | Rikka.md "Extra Deck routes" rules of thumb, `quick find` includes `lines_extra.cue` |
 | Card text (offline) | `quick card bp "dark law" zero` |
 | A saved line's steps | `quick show "Line C"` |
 | Check a line you just wrote | `quick check my.cue` or `quick check - <<'EOF' ... EOF` |
