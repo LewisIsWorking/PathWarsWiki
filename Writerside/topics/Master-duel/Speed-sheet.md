@@ -167,6 +167,10 @@ Every line here passes the line checker (`tools/line-check`). Full steps on the 
 | Going 1st, Predaprimitive + Konkon + spare Longinephila | **Line C** | UNTESTED |
 | Going 1st, Rikka Princess already out + Mudan | **Rikka Princess + Mudan + Sheet** | UNTESTED |
 | Going 2nd into Horus (Sons + both Sarcophagi) | **Horus break**: Teardrop the Rikka Sacred Queen detaches **2**, then attack | UNTESTED |
+| Going 2nd into Machina Fortress, Predaprimitive + Glamour + Dracaena + Lilizard | **Machina: Hand 4 lethal**: Glamour Tributes Fortress through Konkon; Rikka Queen Strenna gets a material | UNTESTED |
+| Going 2nd into Elfnote (Main Phase Quick Effects), Evenly Matched in hand | **Evenly Matched on your own turn**: empty field, Battle Phase, then combo in Main Phase 2 | Played (worked, then Ash on Moonlit) |
+| Cactus + any other Plant on either field (their Strelitzia) | **Normal Summon only**: Predaprimitive → Byblisp → Normal Summon Longinephila. No Instant Fusion or Super Poly | Proven |
+| Going 2nd, Moonlit Waters + Lilizard, Hellebore in the GY | **Elfnote turn 8 lethal** (8800): Teardrop, Hyperyton, Sacred Queen Strenna, Lilizard attack | UNTESTED |
 | Going 2nd into Dark Law | Answer Dark Law **before** searching. Predaprimitive, Dracaena, Moonlit Waters and Droplet are blocked; Black Princess, Mudan, Konkon and Glamour still work. Against Rhino, play Invoked | Lesson |
 
 **Ash Blossom: one per turn.** Glamour and Mudan Tribute from the field only; Black Princess can Tribute from the hand.

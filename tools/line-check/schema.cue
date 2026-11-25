@@ -7,6 +7,10 @@
 //     unless something brought it back
 //   - summon locks (Plant only, Plant or Dragon, Moonlit's Plant Xyz only, Cactus) allow every later summon
 //   - Dark Law: no step that sends a card to your GY
+//   - Droll: no step that must add from the Deck once Droll resolved
+//   - an Xyz effect that needs material (Rikka Queen Strenna's float) still has some
+//   - lethal: only Attack-position monsters on the end board count, and the ATK adds up
+//   - locks already on from an earlier turn (Cactus Bouncer + any Plant on either field)
 //   - the end board fits: 5 Main Monster Zones, 2 Extra Monster Zones
 // Run ./check.sh from this folder.
 package lines
@@ -32,6 +36,11 @@ import (
 	// Effects that must add a card from the Deck to the hand. Under Droll & Lock Bird,
 	// Master Duel won't let you activate them (tested with Moonlit Waters, 25 Nov 2026).
 	addEffects: [...string] | *[]
+	// Effects that Special Summon in Defence Position (the card itself, or the monster in the step's `summons`).
+	defEffects: [...string] | *[]
+	// Effects that only work while this Xyz Monster has material (Rikka Queen Strenna's "if Tributed with material").
+	needsMaterial: [...string] | *[]
+	atk?: int
 }
 
 cards: [string]: #Card
@@ -81,6 +90,10 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	setLevel: [string]: int
 	// Xyz Summon on top of another Xyz (Teardrop the Rikka Sacred Queen over Teardrop): skip the material Level check.
 	rankUp: bool | *false
+	// Materials this step attaches to the monster in `summons` (Sacred Queen Strenna's optional attach).
+	attach: [...string] | *[]
+	// Materials this step detaches from the step's own card.
+	detach: int | *0
 	note?: string
 }
 
@@ -95,6 +108,16 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	darkLaw: bool | *false
 	// Droll & Lock Bird resolved before this step (1-based); 0 = no Droll.
 	drollFrom: int | *0
+	// Summon locks already on when the line starts, e.g. "no_special" for Cactus Bouncer
+	// with any other Plant on either field (their Elfnote Strelitzia counts).
+	startLocks: [...#Lock] | *[]
+	// Optional damage check. attackers: monsters that attack (must be on the end board and
+	// not summoned in Defence). bonus: extra ATK (e.g. Teardrop +200 per Tribute).
+	lethal?: {
+		lp: int
+		attackers: [...string]
+		bonus: [string]: int
+	}
 	steps: [...#Step]
 	end: {
 		mmz: [...string]
@@ -163,6 +186,52 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 				(s.lock == "extra_plant_xyz" && c.frame != "main" && (c.frame != "xyz" || c.race != "Plant")) {
 				"step \(j+1): \(n) breaks the '\(s.lock)' lock from step \(i+1)"
 			}],
+
+		// Locks already on from an earlier turn.
+		[for j, t in steps
+			let summoned = list.Concat([[if t.summons != "" {t.summons}], [if list.Contains(_specialActions, t.action) {t.card}]])
+			for x in summoned
+			let n = strings.Split(x, "#")[0]
+			if cards[n] != _|_
+			let c = cards[n]
+			for l in startLocks
+			if (l == "no_special") ||
+				(l == "plant" && c.race != "Plant") ||
+				(l == "plant_or_dragon" && c.race != "Plant" && c.race != "Dragon") ||
+				(l == "extra_plant_xyz" && c.frame != "main" && (c.frame != "xyz" || c.race != "Plant")) {
+				"step \(j+1): \(n) breaks the '\(l)' lock already on at the start"
+			}],
+
+		// Xyz material: effects that need material (Rikka Queen Strenna's float) fail at 0.
+		[for j, t in steps if t.effect != ""
+			let n = strings.Split(t.card, "#")[0]
+			if cards[n] != _|_
+			if list.Contains(cards[n].needsMaterial, t.effect)
+			let enter = list.Max(list.Concat([[-1], [for i, s in steps if i < j && (s.summons == t.card || (s.card == t.card && list.Contains(_specialActions, s.action))) {i}]]))
+			let got = list.Sum(list.Concat([
+				[for i, s in steps if i >= enter && i < j && s.card == t.card && s.action == "xyz" {len(s.consumes)}],
+				[for i, s in steps if i >= enter && i < j && s.summons == t.card {len(s.attach)}],
+				[for i, s in steps if i >= enter && i < j && s.card == t.card {-s.detach}],
+			]))
+			if got <= 0 {"step \(j+1): \(n) has no material left, so '\(t.effect)' does nothing (attach a Rikka monster when you summon it)"}],
+
+		// Lethal: attackers are on the end board, in Attack Position, and the ATK adds up.
+		[if lethal != _|_ for a in lethal.attackers if !list.Contains(list.Concat([end.mmz, end.emz]), a) {"lethal: \(a) isn't on the end board"}],
+		[if lethal != _|_ for a in lethal.attackers
+			let ins = [for i, s in steps if s.summons == a || (s.card == a && list.Contains(_enterActions, s.action)) {i}]
+			if len(ins) > 0
+			let s = steps[ins[len(ins)-1]]
+			let sn = strings.Split(s.card, "#")[0]
+			if cards[sn] != _|_ && s.effect != "" && list.Contains(cards[sn].defEffects, s.effect) {
+				"lethal: \(a) was summoned in Defence Position (step \(ins[len(ins)-1]+1)) and can't attack"
+			}],
+		[if lethal != _|_ for a in lethal.attackers if cards[strings.Split(a, "#")[0]].atk == _|_ {"lethal: no ATK for \(a) in cards.cue"}],
+		[if lethal != _|_
+			let total = list.Sum(list.Concat([
+				[for a in lethal.attackers if cards[strings.Split(a, "#")[0]].atk != _|_ {cards[strings.Split(a, "#")[0]].atk}],
+				[for _, v in lethal.bonus {v}],
+			]))
+			if total < lethal.lp {"lethal: attacks total \(total), they have \(lethal.lp) LP"}],
 
 		// Dark Law: nothing can be sent to your GY.
 		[if darkLaw for i, s in steps

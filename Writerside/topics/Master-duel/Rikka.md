@@ -154,6 +154,10 @@ Errors in live advice this session; check these before sending a line:
 - **Cactus Bouncer locks you too**, including Super Poly and Instant Fusion.
 - **Under Droll, Master Duel won't let you activate a card that must add** (Moonlit Waters).
 - **Read the opponent's monsters' text before counting damage** (Machina Fortress, Elfnote Quick Effects).
+- **Rikka Queen Strenna needs a material to float.** Sacred Queen Strenna's attach is optional: always attach a Rikka monster, or no Hyperyton (Machina game). Her float can be in Attack.
+- **Cactus Bouncer counts any other Plant on either field**, theirs too (Elfnote Seraphim Strelitzia is a Plant).
+- **Evenly Matched works at the end of your own Battle Phase** when going second: enter the Battle Phase with 0 cards, then combo in Main Phase 2.
+- **Rikka Princess / Hellebore negates: Tribute a Plant the line doesn't need any more**, then recount lethal (Elfnote turn 8: Tributing Primrose cost the Teardrop).
 
 ## Game log
 
@@ -238,6 +242,12 @@ End: Cactus, Kanzashi, Sacred Queen Strenna, **Hyperyton**, **Jasmine**, Konkon,
 
 ### Horus break: Petal + Mudan + Black Princess (going second)
 Petal (add Primrose) → Black Princess → Mudan Tributes Petal (Konkon; Primrose + Hellebore) → Konkon sets Sheet → Mudan + Black Princess → Sacred Queen Strenna → Kanzashi → Primrose + Hellebore → Teardrop → Teardrop the Rikka Sacred Queen → **detach 2: send King's Sarcophagus + Walls**, Tribute Imsety. Then attack.
+
+### Machina: Hand 4 lethal (going second)
+The Sample Hand 4 line, checked: Glamour Tributes Fortress through Konkon, Rikka Queen Strenna gets Petal as material, 9200 with Attack-position monsters only. Full steps under Sample Hand 4.
+
+### Elfnote turn 8 lethal (going second)
+The Sample Hand 5 turn 8 line, checked: 8800 with Teardrop (+200 for Little Knight), Hyperyton, Sacred Queen Strenna, Lilizard.
 
 ### Rikka Princess on field + Mudan + Sheet (going first)
 Mudan Tributes Rikka Princess (Konkon) → Konkon sets Moonlit → Moonlit: Primrose, send Hellebore → Hellebore Tributes Mudan (Primrose + Black Princess) → Black Princess to Level 8 → Teardrop with Hellebore → set Sheet. Keep Primrose and both Ash.

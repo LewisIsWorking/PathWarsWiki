@@ -30,13 +30,13 @@ lines: "Line C: Predaprimitive + Konkon + Longinephila hand": {
 		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
 		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Moonlit Waters"]},
 		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
-		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", summons: "Kanzashi the Rikka Queen", fromDeck: ["Primrose the Rikka Fairy Duo"]},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Kanzashi the Rikka Queen", fromDeck: ["Primrose the Rikka Fairy Duo"]},
 		{card: "Rikka Glamour", action: "activate", zone: "hand", effect: "activate", consumes: ["Rikka Petal"], fromDeck: ["Rikka Princess", "Cactus Bouncer"]},
 		{card: "Kanzashi the Rikka Queen", action: "effect", effect: "revive", summons: "Predaplant Bal Teah"},
 		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "set_trap", fromDeck: ["Rikka Sheet"]},
 		{card: "Rikka Princess", action: "special_summon", zone: "hand", effect: "summon_self", lock: "plant"},
 		{card: "Rikka Queen Strenna", action: "xyz", zone: "extra", consumes: ["Rikka Princess", "Predaplant Bal Teah"]},
-		{card: "Rikka Queen Strenna", action: "effect", effect: "add", note: "detach Rikka Princess, add Primrose from the GY"},
+		{card: "Rikka Queen Strenna", action: "effect", effect: "add", detach: 1, note: "detach Rikka Princess, add Primrose from the GY"},
 		{card: "Rikka Moonlit Waters", action: "activate", zone: "field", effect: "activate", consumes: ["Rikka Queen Strenna"], lock: "extra_plant_xyz", fromDeck: ["Rikka Black Princess", "Mudan the Rikka Fairy"], note: "UPGRADE: add Black Princess, send Mudan; decline Primrose's trigger"},
 		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton"},
 		{card: "Cactus Bouncer", action: "normal_summon", zone: "hand", lock: "no_special"},
@@ -64,7 +64,7 @@ lines: "Horus break: Petal + Mudan + Black Princess hand": {
 		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
 		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Sheet"]},
 		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
-		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", summons: "Kanzashi the Rikka Queen"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Kanzashi the Rikka Queen"},
 		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]},
 		{card: "Teardrop the Rikka Sacred Queen", action: "xyz", zone: "extra", rankUp: true, consumes: ["Teardrop the Rikka Queen"]},
 		{card: "Teardrop the Rikka Sacred Queen", action: "effect", effect: "send_tribute", consumes: ["opp:Imsety, Glory of Horus"], note: "detach 2: send King's Sarcophagus + Walls, then Tribute Imsety"},
@@ -92,4 +92,161 @@ lines: "Rikka Princess on field + Mudan + Sheet": {
 		{card: "Rikka Sheet", action: "set", zone: "hand"},
 	]
 	end: mmz: ["Teardrop the Rikka Queen", "Primrose the Rikka Fairy Duo"]
+}
+
+// 25 Nov 2026, ranked vs bilotahn (Machina), going 2nd into Machina Fortress (2500), 3 cards in hand.
+// Rikka page Sample Hand 4. Fortress punishes targeting and battle, so Glamour Tributes it through Konkon.
+lines: "Machina: Hand 4 lethal (Dracaena, Lilizard, Glamour x2, Predaprimitive x2)": {
+	source: "Rikka page Sample Hand 4, 25 Nov 2026 (Ash and Ghost Belle stopped it live)"
+	status: "untested"
+	deck:   "PredaRikka"
+	hand: ["Princess Dracaena, the Thirsting Tree", "Predaplant Lilizard", "Rikka Glamour", "Rikka Glamour#2", "Predaprimitive", "Predaprimitive#2"]
+	steps: [
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Super Polymerization"]},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Princess Dracaena, the Thirsting Tree", action: "special_summon", zone: "hand", effect: "summon_self", fromDeck: ["Rikka Princess"], note: "send Rikka Princess"},
+		{card: "Predaplant Longinephila", action: "normal_summon", zone: "hand"},
+		{card: "Predaplant Longinephila", action: "effect", effect: "search", fromDeck: ["Predaprimitive"]},
+		{card: "Predaplant Lilizard", action: "special_summon", zone: "hand", effect: "summon_self"},
+		{card: "Predaplant Bal Teah", action: "synchro", zone: "extra", consumes: ["Predaplant Longinephila", "Predaplant Lilizard"]},
+		{card: "Predaplant Bal Teah", action: "effect", effect: "revive", summons: "Predaplant Lilizard", note: "Ghost Belle negated this live"},
+		{card: "Predaplant Lilizard", action: "effect", effect: "draw"},
+		{card: "Predaplant Longinephila", action: "effect", zone: "gy", effect: "gy", note: "Predator Counter on Fortress (no target on Fortress's own text: it isn't targeted)"},
+		{card: "Aromaseraphy Jasmine", action: "link", zone: "extra", consumes: ["Predaplant Bal Teah", "Predaplant Lilizard"]},
+		{card: "Predaplant Byblisp", action: "special_summon", zone: "gy", effect: "revive"},
+		{card: "Aromaseraphy Jasmine", action: "effect", effect: "tribute", consumes: ["Predaplant Byblisp"], summons: "Rikka Black Princess", fromDeck: ["Rikka Black Princess"]},
+		{card: "Rikka Black Princess", action: "effect", effect: "tribute_summon", consumes: ["Princess Dracaena, the Thirsting Tree"], summons: "Mudan the Rikka Fairy", fromDeck: ["Mudan the Rikka Fairy"]},
+		{card: "Mudan the Rikka Fairy", action: "effect", effect: "search", fromDeck: ["Rikka Konkon"]},
+		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
+		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Moonlit Waters"]},
+		{card: "Rikka Glamour", action: "activate", zone: "hand", effect: "activate", consumes: ["opp:Machina Fortress"], fromDeck: ["Rikka Black Princess", "Mudan the Rikka Fairy"], note: "Konkon: Tribute Fortress instead of a Plant"},
+		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna", fromDeck: ["Rikka Petal"], attach: ["Rikka Petal"], note: "ATTACH Petal, or Strenna has no material and no Hyperyton"},
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "field", effect: "activate", consumes: ["Rikka Queen Strenna"], lock: "extra_plant_xyz", fromDeck: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"], note: "Primrose to hand, Hellebore to GY"},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton", note: "Attack Position"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "set_trap", fromDeck: ["Rikka Sheet"]},
+		{card: "Rikka Black Princess#2", action: "special_summon", zone: "hand", effect: "summon_self", lock: "plant"},
+		{card: "Hellebore the Rikka Fairy", action: "special_summon", zone: "gy", effect: "revive", consumes: ["Rikka Black Princess#2"]},
+		{card: "Primrose the Rikka Fairy Duo", action: "special_summon", zone: "hand", effect: "tribute_trigger", summons: "Rikka Black Princess#3", fromDeck: ["Rikka Black Princess"]},
+		{card: "Primrose the Rikka Fairy Duo", action: "effect", effect: "level", setLevel: {"Rikka Black Princess#3": 8}},
+		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Rikka Black Princess#3", "Hellebore the Rikka Fairy"]},
+	]
+	end: {
+		mmz: ["Rikka Sacred Queen Strenna", "Sacred Tree Beast, Hyperyton", "Primrose the Rikka Fairy Duo", "Teardrop the Rikka Queen"]
+		emz: ["Aromaseraphy Jasmine"]
+	}
+	lethal: {lp: 8000, attackers: ["Teardrop the Rikka Queen", "Sacred Tree Beast, Hyperyton", "Rikka Sacred Queen Strenna", "Aromaseraphy Jasmine"]}
+}
+
+// What went wrong live vs Machina: Sacred Queen Strenna's detach summoned Rikka Queen Strenna without
+// attaching a Rikka monster (the attach is optional), so her float had no material: no Hyperyton.
+lines: "KNOWN BAD: Machina, Rikka Queen Strenna Tributed with no material": {
+	source: "Rikka page game log, 25 Nov 2026 (most likely cause of the missing Hyperyton)"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: []
+	startField: ["Rikka Sacred Queen Strenna"]
+	steps: [
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna", note: "no attach"},
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", consumes: ["Rikka Queen Strenna"], lock: "extra_plant_xyz", fromDeck: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"], note: "set by Konkon"},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton"},
+	]
+	end: mmz: ["Rikka Sacred Queen Strenna", "Sacred Tree Beast, Hyperyton"]
+}
+
+// The counting mistake behind several live lines: Hellebore's revive (and Primrose's, Jasmine's and
+// Sacred Queen Strenna's summons) are in Defence, so they can't attack. Same board as the Machina fix.
+lines: "KNOWN BAD: lethal counted with Defence-position Hellebore and Primrose": {
+	source: "Coaching mistakes to avoid, 25 Nov 2026"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: ["Rikka Black Princess", "Primrose the Rikka Fairy Duo"]
+	startField: ["Rikka Sacred Queen Strenna"]
+	steps: [
+		{card: "Rikka Black Princess", action: "special_summon", zone: "hand", effect: "summon_self", lock: "plant"},
+		{card: "Hellebore the Rikka Fairy", action: "special_summon", zone: "gy", effect: "revive", consumes: ["Rikka Black Princess"]},
+		{card: "Primrose the Rikka Fairy Duo", action: "special_summon", zone: "hand", effect: "tribute_trigger", summons: "Rikka Black Princess#2", fromDeck: ["Rikka Black Princess"]},
+	]
+	end: mmz: ["Rikka Sacred Queen Strenna", "Hellebore the Rikka Fairy", "Primrose the Rikka Fairy Duo", "Rikka Black Princess#2"]
+	lethal: {lp: 7000, attackers: ["Rikka Sacred Queen Strenna", "Hellebore the Rikka Fairy", "Primrose the Rikka Fairy Duo"]}
+}
+
+// 25 Nov 2026, ranked vs trampaslocas (Elfnote), turn 4: their Elfnote Seraphim Strelitzia (a Plant) and
+// our Cactus Bouncer are both up, so NEITHER player can Special Summon. Instant Fusion is a Special Summon
+// (the trap the turn 4 notes warn about; Super Poly is locked the same way).
+lines: "KNOWN BAD: Elfnote turn 4, Instant Fusion under Cactus + Strelitzia": {
+	source: "Rikka page Sample Hand 5, turn 4 notes"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: ["Hellebore the Rikka Fairy", "Predaprimitive"]
+	startField: ["Cactus Bouncer"]
+	startLocks: ["no_special"]
+	steps: [
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Instant Fusion"]},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Instant Fusion", action: "activate", zone: "hand", effect: "activate", summons: "Predaplant Ambulomelides"},
+	]
+	end: mmz: ["Cactus Bouncer", "Predaplant Ambulomelides"]
+}
+
+lines: "Elfnote turn 4: Predaprimitive under Cactus + Strelitzia (Normal Summon only)": {
+	source: "Claude, 25 Nov 2026; Lewis played it with Super Poly #2 instead of Instant Fusion"
+	status: "proven"
+	deck:   "PredaRikka"
+	hand: ["Hellebore the Rikka Fairy", "Predaprimitive"]
+	startField: ["Cactus Bouncer"]
+	startLocks: ["no_special"]
+	steps: [
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Super Polymerization"]},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Predaplant Longinephila", action: "normal_summon", zone: "hand", note: "Attack Position: a face-down Set doesn't trigger the search"},
+		{card: "Predaplant Longinephila", action: "effect", effect: "search", fromDeck: ["Predaplant Lilizard"]},
+	]
+	end: mmz: ["Cactus Bouncer", "Predaplant Longinephila"]
+}
+
+// 25 Nov 2026, Elfnote turn 8. LP 5400 vs 8000. Their field: Elfnote Lucina + S:P Little Knight (EMZ).
+// Hand: Lilizard, Moonlit Waters; Hellebore in the GY; field empty.
+lines: "Elfnote turn 8 lethal: Moonlit Waters + Lilizard, Hellebore in GY": {
+	source: "Rikka page Sample Hand 5, turn 8 (Little Knight + Rikka Princess stopped it live)"
+	status: "untested"
+	deck:   "PredaRikka"
+	hand: ["Predaplant Lilizard", "Rikka Moonlit Waters"]
+	steps: [
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", lock: "extra_plant_xyz", fromDeck: ["Mudan the Rikka Fairy", "Rikka Black Princess"], note: "add Mudan, send Black Princess"},
+		{card: "Rikka Black Princess", action: "special_summon", zone: "gy", effect: "summon_self", lock: "plant"},
+		{card: "Rikka Black Princess", action: "effect", effect: "tribute_summon", consumes: ["Rikka Black Princess"], summons: "Rikka Petal", fromDeck: ["Rikka Petal"]},
+		{card: "Rikka Petal", action: "effect", effect: "take", lock: "plant", fromDeck: ["Primrose the Rikka Fairy Duo"]},
+		{card: "Mudan the Rikka Fairy", action: "special_summon", zone: "hand", effect: "summon_self", consumes: ["Rikka Petal"]},
+		{card: "Mudan the Rikka Fairy", action: "effect", effect: "search", fromDeck: ["Rikka Konkon"]},
+		{card: "Primrose the Rikka Fairy Duo", action: "special_summon", zone: "hand", effect: "tribute_trigger", summons: "Rikka Black Princess#2", fromDeck: ["Rikka Black Princess"]},
+		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
+		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Glamour"]},
+		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess#2"], note: "Attack Position"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna", fromDeck: ["Mudan the Rikka Fairy"], attach: ["Mudan the Rikka Fairy"]},
+		{card: "Rikka Glamour", action: "activate", zone: "field", effect: "activate", consumes: ["opp:Elfnote Lucina"], fromDeck: ["Rikka Princess", "Cactus Bouncer"], note: "Konkon Tributes Lucina; the Level 4 Plant can be any one left"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "set_trap", fromDeck: ["Rikka Sheet"]},
+		{card: "Hellebore the Rikka Fairy", action: "special_summon", zone: "gy", effect: "revive", consumes: ["Rikka Queen Strenna"]},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton", note: "Attack Position"},
+		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]},
+		{card: "Teardrop the Rikka Queen", action: "effect", effect: "tribute", detach: 1, consumes: ["opp:S:P Little Knight"]},
+		{card: "Predaplant Lilizard", action: "normal_summon", zone: "hand"},
+	]
+	end: mmz: ["Rikka Sacred Queen Strenna", "Sacred Tree Beast, Hyperyton", "Teardrop the Rikka Queen", "Predaplant Lilizard"]
+	lethal: {lp: 8000, attackers: ["Teardrop the Rikka Queen", "Sacred Tree Beast, Hyperyton", "Rikka Sacred Queen Strenna", "Predaplant Lilizard"], bonus: {"Teardrop: Little Knight Tributed": 200}}
+}
+
+// What happened live: Little Knight went for Mudan; Rikka Princess negated it by Tributing PRIMROSE,
+// which the Teardrop Xyz still needed. Rule: Tribute a Plant the rest of the line doesn't need.
+lines: "KNOWN BAD: Elfnote turn 8, Rikka Princess Tributes Primrose": {
+	source: "Rikka page game log, 25 Nov 2026"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: ["Rikka Princess", "Predaplant Lilizard"]
+	startField: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]
+	steps: [
+		{card: "Rikka Princess", action: "effect", zone: "hand", effect: "negate", consumes: ["Primrose the Rikka Fairy Duo"], note: "negate Little Knight"},
+		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]},
+	]
+	end: mmz: ["Teardrop the Rikka Queen"]
 }

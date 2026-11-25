@@ -28,13 +28,13 @@ lines: "Predaprimitive alone (Cactus lock)": {
 		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
 		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Glamour"]},
 		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
-		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", summons: "Kanzashi the Rikka Queen", fromDeck: ["Primrose the Rikka Fairy Duo"]},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Kanzashi the Rikka Queen", fromDeck: ["Primrose the Rikka Fairy Duo"]},
 		{card: "Rikka Glamour", action: "activate", zone: "field", effect: "activate", consumes: ["Rikka Petal"], fromDeck: ["Rikka Princess", "Cactus Bouncer"]},
 		{card: "Kanzashi the Rikka Queen", action: "effect", effect: "revive", summons: "Predaplant Bal Teah"},
 		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "set_trap", fromDeck: ["Rikka Sheet"]},
 		{card: "Rikka Princess", action: "special_summon", zone: "hand", effect: "summon_self", lock: "plant"},
 		{card: "Rikka Queen Strenna", action: "xyz", zone: "extra", consumes: ["Rikka Princess", "Predaplant Bal Teah"]},
-		{card: "Rikka Queen Strenna", action: "effect", effect: "add", note: "detach Rikka Princess, add Primrose from the GY"},
+		{card: "Rikka Queen Strenna", action: "effect", effect: "add", detach: 1, note: "detach Rikka Princess, add Primrose from the GY"},
 		{card: "Cactus Bouncer", action: "normal_summon", zone: "hand", lock: "no_special"},
 	]
 	end: mmz: ["Cactus Bouncer", "Kanzashi the Rikka Queen", "Rikka Queen Strenna", "Rikka Sacred Queen Strenna"]
@@ -56,7 +56,7 @@ lines: "KNOWN BAD: Horus plan, Black Princess used after Xyz": {
 		{card: "Primrose the Rikka Fairy Duo", action: "special_summon", zone: "hand", effect: "tribute_trigger", summons: "Hellebore the Rikka Fairy", fromDeck: ["Hellebore the Rikka Fairy"]},
 		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
 		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
-		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", summons: "Kanzashi the Rikka Queen"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Kanzashi the Rikka Queen"},
 		{card: "Rikka Black Princess", action: "effect", effect: "tribute_summon", note: "Konkon Tributes Imsety"},
 	]
 	end: mmz: ["Kanzashi the Rikka Queen", "Rikka Sacred Queen Strenna", "Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]

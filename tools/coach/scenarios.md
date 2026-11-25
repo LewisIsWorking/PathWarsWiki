@@ -42,5 +42,31 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **Right answer:** **Moonlit Waters first**, searches after: Droll stops every add once it resolves, and Master Duel then won't activate Moonlit Waters at all.
 - **What went wrong:** Dracaena, then Predaprimitive; Droll on the add; Moonlit stuck in hand (`KNOWN BAD` in `lines_predarikka.cue`).
 
+## S9. Machina (bilotahn), going 2nd into Machina Fortress (25 Nov 2026)
+- **Their board:** Machina Fortress (2500) only, no backrow, 3 in hand. 8000 / 8000.
+- **Hand:** Princess Dracaena, Lilizard, Rikka Glamour x2, Predaprimitive x2.
+- **Right answer:** "Machina: Hand 4 lethal" (`lines_handfit.cue`, UNTESTED as a whole). Fortress punishes targeting (discard from your hand) and battle (destroys a card), so **Glamour Tributes it through Konkon**. When Sacred Queen Strenna's detach summons Rikka Queen Strenna, **attach a Rikka monster** (optional, but she needs material for her Hyperyton float). Only 1 Glamour per turn: the second is a discard. Count lethal with Attack-position monsters only: Teardrop 2800 + Hyperyton 2600 + Sacred Queen Strenna 2000 + Jasmine 1800 = 9200.
+- **What went wrong:** Ash on Predaprimitive (fine: Byblisp was already sent and still searched), then Ghost Belle on Bal Teah's revive. In the improvised line **Hyperyton never came out**, most likely because Rikka Queen Strenna had no material (`KNOWN BAD: Machina, Rikka Queen Strenna Tributed with no material`). Won anyway (they surrendered on 1900).
+
+## S10. Elfnote (trampaslocas), going 2nd, turn 2 (25 Nov 2026)
+- **Their board:** Elfnote Fortuna (centre), Elfnote Power Patron, Elfnote Seraphim Strelitzia (Synchro, Defence), a face-up Elfnote Continuous Trap; 4 in hand.
+- **Hand:** Cactus Bouncer, Hellebore, Moonlit Waters, Super Polymerization, Evenly Matched.
+- **Right answer:** read their text first: Power Patron, Strelitzia and Fortuna all have Main Phase Quick Effects. So **do nothing in Main Phase 1, go to the Battle Phase with 0 cards, Evenly Matched from the hand at the end of your own Battle Phase**, then combo in Main Phase 2 (Moonlit Waters line, Cactus last). Super Poly has no pair (no shared Type + Attribute): set it.
+- **What happened:** Evenly Matched left them on Strelitzia; then **Ash on Moonlit Waters**. Ended on Cactus + set Super Poly. Note: Strelitzia is a **Plant**, so Cactus + Strelitzia means neither player can Special Summon.
+
+## S11. Elfnote, turn 4: Cactus + their Strelitzia (25 Nov 2026)
+- **My board:** Cactus Bouncer, set Super Poly. **Their board:** Strelitzia, Medius the Pure. **Hand:** Hellebore, Predaprimitive.
+- **Right answer:** **no Special Summons at all** (Cactus counts any other Plant on either field), including Instant Fusion and Super Poly. Predaprimitive → Byblisp → Longinephila; **Normal Summon Longinephila** (always Attack; a Set doesn't trigger the search). Pass. Proven (`Elfnote turn 4: Predaprimitive under Cactus + Strelitzia`); `KNOWN BAD: Elfnote turn 4, Instant Fusion under Cactus + Strelitzia` is the trap.
+
+## S12. Elfnote, turn 6: Baronne + Lucina (25 Nov 2026)
+- **Their board:** Elfnote Lucina (2500), Baronne de Fleur. **Hand:** Dracaena, Lilizard, Hellebore; field Longinephila + set Super Poly.
+- **Right answer:** **Dracaena first as Baronne bait** (worked). Expect **Elfnote Tinia** from their hand: on your turn it banishes a **random card from your hand** until the End Phase. Play the key hand card (Lilizard) early instead of holding it.
+- **What went wrong:** Tinia banished Lilizard and the line stopped. Hellebore later went in **Defence** (its revive always is) and died.
+
+## S13. Elfnote, turn 8: Little Knight (25 Nov 2026)
+- **LP** 5400 vs 8000. **Their board:** Elfnote Lucina, S:P Little Knight (EMZ); 2 in hand. **Hand:** Lilizard, Moonlit Waters; Hellebore in the GY; my field empty.
+- **Right answer:** "Elfnote turn 8 lethal" (`lines_handfit.cue`, UNTESTED): Moonlit → Black Princess → Petal → Mudan + Primrose → Konkon sets Glamour → Sacred Queen Strenna (Attack) → Rikka Queen Strenna (attach Mudan) → Glamour Tributes Lucina via Konkon → Hellebore Tributes Rikka Queen Strenna → Hyperyton (Attack) → Primrose + Hellebore → Teardrop → Teardrop Tributes Little Knight → Normal Summon Lilizard: 3000 + 2600 + 2000 + 1200 = 8800. **Little Knight's Quick Effect answers any activation**: when Rikka Princess negates it, **Tribute a Plant the rest of the line doesn't need**, then recount the lethal.
+- **What went wrong:** Rikka Princess Tributed **Primrose**, which the Teardrop Xyz needed (`KNOWN BAD: Elfnote turn 8, Rikka Princess Tributes Primrose`). Lost on turn 9.
+
 ## More
-Games coached in other sessions (Machina Fortress, Elfnote / Power Patron) are in the Rikka page's game log and "Coaching mistakes to avoid". Add them here as scenarios when their positions are written down.
+Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.

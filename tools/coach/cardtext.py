@@ -6,8 +6,11 @@
     ./cardtext.py --refresh "Card Name"    # ignore the cache
 
 Cache: tools/coach/cache/<name>.json (card text rarely changes; use --refresh after errata).
+
+If YGOPRODeck can't be reached (it is blocked from the cloud container), it falls back to
+ProjectIgnis BabelCDB (raw.githubusercontent.com), downloaded once to ~/.cache/babelcdb.
 """
-import json, os, sys, urllib.parse, urllib.request
+import json, os, sqlite3, sys, urllib.parse, urllib.request
 
 API = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
@@ -24,13 +27,62 @@ def fetch(params):
         raise
 
 
+BABEL = "https://raw.githubusercontent.com/ProjectIgnis/BabelCDB/master/"
+BABEL_DIR = os.path.expanduser("~/.cache/babelcdb")
+# Master Duel names that BabelCDB spells differently (it uses TCG/OCG names).
+ALIASES = {
+    "Rikka Sacred Queen Strenna": "Rikka Empress Strenna",
+    "Rikka Moonlit Waters": "Rikka June Moon",
+    "Teardrop the Rikka Sacred Queen": "Teardrop the Rikka Empress",
+}
+RACES = ["Warrior", "Spellcaster", "Fairy", "Fiend", "Zombie", "Machine", "Aqua", "Pyro", "Rock", "Winged Beast",
+         "Plant", "Insect", "Thunder", "Dragon", "Beast", "Beast-Warrior", "Dinosaur", "Fish", "Sea Serpent", "Reptile",
+         "Psychic", "Divine-Beast", "Creator God", "Wyrm", "Cyberse", "Illusion"]
+ATTRS = ["EARTH", "WATER", "FIRE", "WIND", "LIGHT", "DARK", "DIVINE"]
+
+
+def babel(name, fuzzy=False):
+    os.makedirs(BABEL_DIR, exist_ok=True)
+    out = []
+    for f in ("cards.cdb", "prerelease-imph.cdb"):
+        path = os.path.join(BABEL_DIR, f)
+        if not os.path.exists(path):
+            urllib.request.urlretrieve(BABEL + f, path)
+        db = sqlite3.connect(path)
+        q = "select t.name, t.desc, d.type, d.atk, d.def, d.level, d.race, d.attribute from texts t join datas d on t.id = d.id where "
+        n = ALIASES.get(name, name)
+        rows = db.execute(q + ("t.name like ?" if fuzzy else "t.name = ? collate nocase"), (f"%{n}%" if fuzzy else n,)).fetchall()
+        for nm, desc, typ, atk, df, lv, race, attr in rows:
+            kind = "Spell Card" if typ & 2 else "Trap Card" if typ & 4 else "Monster"
+            for bit, word in ((0x40, "Fusion"), (0x2000, "Synchro"), (0x800000, "XYZ"), (0x4000000, "Link")):
+                if typ & bit:
+                    kind = word + " Monster"
+            c = {"name": name if nm == n else nm, "type": kind, "desc": desc}
+            if typ & 1:
+                c["race"] = next((r for i, r in enumerate(RACES) if race >> i & 1), "")
+                c["attribute"] = next((a for i, a in enumerate(ATTRS) if attr >> i & 1), "")
+                c["atk"] = atk
+                if typ & 0x4000000:
+                    c["linkval"] = lv & 0xFF
+                else:
+                    c["level"], c["def"] = lv & 0xFF, df
+            out.append(c)
+    return out
+
+
 def lookup(name, fuzzy=False, refresh=False):
     if fuzzy:
-        return fetch({"fname": name})
+        try:
+            return fetch({"fname": name})
+        except OSError:
+            return babel(name, fuzzy=True)
     path = os.path.join(CACHE, "".join(c if c.isalnum() else "_" for c in name) + ".json")
     if not refresh and os.path.exists(path):
         return json.load(open(path))
-    data = fetch({"name": name}) or fetch({"fname": name})[:1]
+    try:
+        data = fetch({"name": name}) or fetch({"fname": name})[:1]
+    except OSError:
+        data = babel(name)[:1]
     if data:
         os.makedirs(CACHE, exist_ok=True)
         json.dump(data, open(path, "w"))
@@ -47,7 +99,8 @@ def show(c):
     if c.get("linkval"):
         stats.append(f"Link-{c['linkval']} " + "/".join(c.get("linkmarkers", [])))
     if c.get("atk") is not None:
-        stats.append(f"ATK {c['atk']}" + (f" / DEF {c['def']}" if c.get("def") is not None else ""))
+        q = lambda v: "?" if v == -2 else v
+        stats.append(f"ATK {q(c['atk'])}" + (f" / DEF {q(c['def'])}" if c.get("def") is not None else ""))
     print(f"## {c['name']}\n{' | '.join(stats)}\n{c['desc']}\n")
 
 
