@@ -367,7 +367,7 @@ If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus ne
 
 ### Hand 4: Dracaena, Lilizard, Glamour ×2, Predaprimitive ×2 (going 2nd into Machina Fortress, vs bilotahn)
 
-**Their board:** Machina Fortress (2500) only, no backrow, 3 cards in hand. Fortress punishes **targeting** (destroys one of your cards), so remove it without a target: **Glamour's Tribute through Konkon**. Longinephila's Predator Counter doesn't target either.
+**Their board:** Machina Fortress (2500) only, no backrow, 3 cards in hand. Fortress punishes monster effects that **target** it (they discard a card from your hand) and **battle** (destroys one of your cards), so Tribute it without a target: **Glamour's Tribute through Konkon**. Longinephila's Predator Counter doesn't target either.
 
 **Line (UNTESTED, from card text; same skeleton as Hand 1):**
 1. **Predaprimitive:** send **Byblisp**, add **Super Poly**. Byblisp adds **Longinephila** (Lilizard is already in hand).

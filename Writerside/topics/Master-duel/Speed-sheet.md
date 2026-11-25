@@ -97,7 +97,7 @@ Seen in one game (Lewis lost, PredaRikka going first). Their hand traps hit the 
 
 | Card | What it does | Answer |
 | --- | --- | --- |
-| **Machina Fortress** (Level 7, 2500) | When targeted by your card effect: destroys one of your cards. Comes back from the hand/GY by discarding Machines. | **Don't target it.** Konkon's Tribute (via Glamour or Black Princess), Teardrop's Tribute is a target (avoid), Super Poly as Fusion material. Longinephila's Predator Counter doesn't target. See Rikka Sample Hand 4. |
+| **Machina Fortress** (Level 7, 2500) | If your **monster effect targets** it: they look at your hand and discard 1. If it's **destroyed by battle**: destroys 1 of your cards. Comes back from the hand/GY by discarding Machines (Levels 8+). | **Tribute it, don't target or battle it.** Konkon's Tribute (via Glamour or Black Princess) or Super Poly as Fusion material. Teardrop's Tribute targets (costs you a card from hand). Longinephila's Predator Counter doesn't target. See Rikka Sample Hand 4. |
 
 ## Witchcrafter: which card first
 
