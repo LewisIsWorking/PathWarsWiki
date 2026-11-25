@@ -266,3 +266,37 @@ Monster Zones check: after step 14 you have Sacred Queen Strenna, Hyperyton, Hel
 **If the game goes on:** Primrose (Def) stays for her Quick Effect on their turn (Teardrop → Teardrop the Rikka Sacred Queen), Rikka Princess negates from the GY, Hyperyton negates a monster effect, Rikka Sheet is set, Glamour + Super Poly + Predaprimitive in hand. Petal revives in their End Phase.
 
 **If they extended past Faris:** same line to step 11 (Konkon takes their best face-up monster instead of Faris), then use Teardrop's Tribute and keep the attack for whatever is left.
+
+### Hand 2: Droll, Dracaena, Cactus Bouncer, Moonlit Waters, Dominus Impulse (going 1st)
+
+**Key ideas:**
+- **Moonlit Waters alone is a full combo** (Line A above, proven). Cactus is already in hand, so you don't need Glamour to find it, and **Dracaena** is a spare Plant to Tribute.
+- **Cactus Bouncer stops your own Special Summons too** (while any other Plant is on the field). So on their turn Primrose's Quick Xyz, Rikka Queen Strenna's float and Hellebore's revive are all off. Spend Primrose now: **Primrose + Hellebore → Teardrop**. Teardrop's Tribute doesn't summon, so it still works under Cactus.
+- **Set Dominus Impulse** rather than holding it: from the hand it locks your LIGHT/EARTH/WIND effects for the rest of the Duel (Cactus is EARTH).
+
+**Line (Line A steps are proven; the Dracaena / Teardrop changes are UNTESTED, from card text):**
+1. **Dracaena:** send **Rikka Princess** from the Deck, Special Summon Dracaena (Level 4). Rikka Princess is now your GY negate.
+2. **Moonlit Waters** (no Tribute): add **Mudan**, send **Black Princess** to the GY.
+3. Special Summon **Black Princess** from the GY. **Black Princess:** Tribute herself → **Rikka Petal** from the Deck.
+4. **Petal:** add **Primrose**.
+5. **Mudan** (hand): Tribute **Petal** → Mudan. Chain: CL1 Mudan adds **Konkon**; CL2 **Primrose** → Primrose + **Hellebore** from the Deck.
+6. **Konkon:** set **Glamour**.
+7. **Primrose:** Hellebore Level -2 (to 6).
+8. Xyz **Mudan + Hellebore** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Black Princess** from the Deck (Rikka Princess is already in the GY).
+9. **Hellebore (GY):** Tribute **Rikka Queen Strenna** → Hellebore. Chain: CL1 Strenna → **Hyperyton** (attach Strenna); CL2 Sacred Queen Strenna → set **Rikka Sheet**.
+10. **Glamour**, Tributing **Dracaena** (keep Sacred Queen Strenna on the field); **chain Hyperyton: attach Moonlit Waters** (a Spell). Glamour adds **Black Princess + Mudan #2** (both Level 6) for next turn.
+11. Xyz **Primrose + Hellebore** (both Level 8) → **Teardrop the Rikka Queen**.
+12. **Normal Summon Cactus Bouncer.** Set **Dominus Impulse**. Keep **Droll** in hand.
+
+**End board:** Teardrop (Quick Tribute, Plant material), Hyperyton (monster + Spell material: negates a monster effect or a Spell), Sacred Queen Strenna, Cactus Bouncer, Konkon, set Rikka Sheet, set Dominus Impulse. Hand: Droll, Black Princess, Mudan. GY: Rikka Princess.
+
+**Their turn, in order of what to use:**
+- **Cactus means they can't Special Summon at all.** Their outs are: removing Cactus or all your other Plants, Normal Summons, and Spell/Trap effects.
+- **Droll** after their first search.
+- **Rikka Princess (GY)** negates a monster effect. Her Tribute can be **their** monster via Konkon.
+- **Hyperyton** negates a monster effect or a Spell (e.g. Dark Hole, Raigeki, a field spell).
+- **Teardrop** Tributes something (Quick). Each Tribute triggers **Sacred Queen Strenna** to set Rikka Sheet again from the GY.
+- **Rikka Sheet** (Tribute a Plant): their monster can't use effects and you take it.
+- **Dominus Impulse** for anything that Special Summons (backup if Cactus leaves).
+
+If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus next to it for the lock, set Dominus Impulse, and hold Droll.
