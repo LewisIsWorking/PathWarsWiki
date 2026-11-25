@@ -33,8 +33,8 @@ decks: {
 			"Dominus Impulse": 3
 			// No Polymerization: Lilizard's "add 1 Polymerization" finds nothing in this deck.
 		}
-		// One Level 6 Fusion in the Extra Deck isn't identified yet: add it here.
 		extra: {
+			"Predaplant Daredevil": 1
 			"Starving Venom Fusion Dragon": 1
 			"Garura, Wings of Resonant Life": 1
 			"Predaplant Ambulomelides": 1

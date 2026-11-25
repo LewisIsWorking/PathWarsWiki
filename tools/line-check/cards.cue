@@ -39,6 +39,7 @@ cards: {
 	"Predaplant Ambulomelides": {frame: "fusion", kind: "monster", race: "Plant", level: 5, effects: ["search", "tribute"]}
 	"Predaplant Bal Teah": {frame: "synchro", kind: "monster", race: "Plant", level: 4, effects: ["revive", "fusion"]}
 	"Aromaseraphy Jasmine": {frame: "link", kind: "monster", race: "Plant", level: 2, effects: ["tribute", "search"]}
+	"Predaplant Daredevil": {frame: "fusion", kind: "monster", race: "Plant", level: 6}
 	"Starving Venom Fusion Dragon": {frame: "fusion", kind: "monster", race: "Dragon", level: 8, effects: ["atk", "copy", "destroyed"]}
 	"Garura, Wings of Resonant Life": {frame: "fusion", kind: "monster", race: "Winged Beast", level: 6, effects: ["draw"]}
 	"Crystal Wing Synchro Dragon": {frame: "synchro", kind: "monster", race: "Dragon", level: 8, effects: ["negate"]}
