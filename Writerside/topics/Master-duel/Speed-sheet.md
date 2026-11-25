@@ -111,6 +111,9 @@ Result: **won** 25 Nov (they surrendered turn 3). They held 3 cards going first 
 | **Elfnote Seraphim Strelitzia** (Level 7 Synchro) | Main Phase Quick: Special Summon a Level 6 Elfnote from hand/GY, then every Level 4+ monster loses 3 Levels (ruins your Xyz). 3000 ATK only in the centre zone. | Xyz before it can respond, or remove it first. It's a **Plant**: it keeps Cactus Bouncer's lock on. |
 | **Elfnote Fortuna** (centre) | Your turn, Quick: swaps into the centre and bounces a face-up Spell/Trap (Konkon). Places an Elfnote Continuous Trap. | Expect Konkon to bounce. |
 | **Elfnotes: Aristeia of Trust** | With 3+ Elfnotes: negates your Spell/Trap. | Super Poly can't be responded to. |
+| **Elfnote Tinia** | Your turn, Quick: swaps into the centre, then banishes a **random card from your hand** until the End Phase (took Lilizard). | Play your key hand card before passing priority; expect one random hand card to vanish. |
+| **Baronne de Fleur** | Once while face-up: negate + destroy any activation. Also destroys 1 card (target) per turn. | **Bait it first** (Dracaena worked). |
+| **Types / Attributes** | Fortuna LIGHT Spellcaster, Lucina FIRE Spellcaster, Tinia WATER Spellcaster, Regina WIND Spellcaster, Power Patron FIRE Fiend, Strelitzia FIRE Plant, Baronne WIND Warrior. | **Super Poly → Garura** needs two with the same Type + Attribute (e.g. Regina + another WIND Spellcaster). |
 | **Elfnotes: A Plea for Help** | Centre monster can't be targeted. | Tribute (Konkon) or face-down banish (Evenly Matched). |
 
 ## Witchcrafter: which card first
