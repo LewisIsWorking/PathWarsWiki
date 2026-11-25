@@ -325,13 +325,14 @@ lines: "Sky Striker: Zero + 4 sets, Super Poly first (Starving Venom)": {
 	status: "untested"
 	deck:   "PredaRikka"
 	hand: ["Rikka Black Princess", "Hellebore the Rikka Fairy", "Instant Fusion", "Rikka Glamour", "Predaprimitive", "Rikka Moonlit Waters"]
+	oppField: ["Sky Striker Ace = Zero"]
 	steps: [
 		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Super Polymerization"], note: "cheap bait for Zero"},
 		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Lilizard"]},
 		{card: "Instant Fusion", action: "activate", zone: "hand", effect: "activate", summons: "Predaplant Ambulomelides"},
 		{card: "Predaplant Ambulomelides", action: "effect", effect: "search", fromDeck: ["Predaplant Longinephila"]},
 		{card: "Predaplant Lilizard", action: "special_summon", zone: "hand", effect: "summon_self"},
-		{card: "Predaplant Lilizard", action: "effect", effect: "dark", note: "Zero becomes DARK"},
+		{card: "Predaplant Lilizard", action: "effect", effect: "dark", makesDark: "opp:Sky Striker Ace = Zero", note: "Zero becomes DARK"},
 		{card: "Super Polymerization", action: "activate", zone: "hand", effect: "activate", fromHand: ["Hellebore the Rikka Fairy"], consumes: ["opp:Sky Striker Ace = Zero", "Predaplant Ambulomelides"], summons: "Starving Venom Fusion Dragon", note: "discard Hellebore; no responses"},
 		{card: "Predaplant Longinephila", action: "normal_summon", zone: "hand"},
 		{card: "Predaplant Longinephila", action: "effect", effect: "search", fromDeck: ["Predaprimitive"]},

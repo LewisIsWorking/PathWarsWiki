@@ -83,5 +83,15 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **Right answer:** "Hand 8" (`lines_handfit.cue`): Predaprimitive takes Instant Fusion and runs the Predap half to Jasmine; Dracaena sends Rikka Princess; Mudan summons itself; Black Princess Tributes Hellebore from the hand; Strenna attaches Black Princess → Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet, Rikka Princess in the GY.
 - **What went wrong:** Mudan was Tribute Summoned (Normal Summon spent), Moonlit was spent on Mudan #2, and Rikka Queen Strenna had no material (`KNOWN BAD: Hand 8, Rikka Queen Strenna with no material`). Predaprimitive came last. Weak board: no Teardrop, no Sheet, no Hyperyton.
 
+## S17. Ryuuku (Horus), turn 5, 2500 LP (25 Nov 2026)
+- **My board:** empty. **Hand:** Cactus Bouncer, Mudan, Instant Fusion, Predaprimitive. Byblisp, both Longinephila and Lilizard gone from the Deck.
+- **Their board:** Imsety, Hapi, Duamutef, Obelisk the Tormentor, a 4300 Serpent/Scorpion, King's Sarcophagus, Shining Sarcophagus, Apophis traps, Canopic Protector.
+- **Right answer:** say plainly that no line survives (five attackers of 2400+, Obelisk's untargetable wipe), unless their LP is low enough to win now; ask for their LP. Predaprimitive can't be activated (nothing to send: `KNOWN BAD: Ryuuku turn 5, ...`, uses `deckGone`).
+- **What went wrong:** advice was Instant Fusion → Ambulomelides → Mudan → **Cactus lock**. Cactus stops Special Summons, not attacks. The game was lost on earlier turns (weak turn-1 board, no stop on their turn).
+
+## S18. Going second into any 2-3 monster board with Predaprimitive + Moonlit Waters (25 Nov 2026)
+- **Right answer:** the going-second core (`lines_going2nd.cue`): Predap engine → **Daredevil's own summon Tributes monster A** (Predator Counter, no target, not an activation) → **Lilizard makes B DARK → Super Poly: B + Lilizard → Starving Venom** → Moonlit → Teardrop + Teardrop the Rikka Sacred Queen (send 3, Tribute C). 8200/8400. Pick A/B/C per matchup from the Speed sheet table.
+- **Trap to avoid:** Super Poly on Starving Venom with a non-DARK monster (`KNOWN BAD: Starving Venom with a LIGHT monster`), Daredevil's summon with no counter (`KNOWN BAD: Daredevil's Tribute summon with no Predator Counter`), any Rikka step before Super Poly.
+
 ## More
 Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.

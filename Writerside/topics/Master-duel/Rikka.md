@@ -182,7 +182,7 @@ Errors in live advice this session; check these before sending a line:
 | 25 Nov 2026 | Elfnote / Power Patron (ranked, trampaslocas) | 2nd | **Lost** (turn 9) | Sample Hand 5. **Evenly Matched** on our turn took them to 1 card (kept Strelitzia), then **Ash on Moonlit Waters**. Cactus + their Strelitzia (a Plant) locked both players' Special Summons. Built Longinephila; they removed Cactus. **Baronne** negated the Dracaena bait, **Tinia** banished Lilizard from hand. Hellebore went in Defence and died. Turn 8: **Little Knight** went for Mudan, Rikka Princess (Tributing Primrose) negated it, which cost the Teardrop lethal line. Lost on turn 9. |
 | 25 Nov 2026 | Unknown (ranked) | 1st | **Won** (surrender, turn 1) | Sample Hand 6 (Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Coached without the skill. Advice said "Moonlit: add Black Princess, send Black Princess #2", which is illegal (the two must have different names), so Mudan #2 went to the GY. Lewis improvised to Konkon, Primrose, Sacred Queen Strenna, Rikka Queen Strenna, Longinephila, set Glamour; hand Lilizard, Instant Fusion, TTT, Super Poly. They surrendered. Full line for the hand is under Sample Hand 6. |
 | 25 Nov 2026 | Sky Striker (ranked, ニノマエ) | 2nd | **Lost** (time limit, turn 4) | Sample Hand 7 into Zero + 4 sets. Moonlit (Mudan), Black Princess → Petal; **Widow Anchor** negated and stole Petal. Predaprimitive (Super Poly), Byblisp → Longinephila, Normal Summoned; Zero Tributed for Raye + Roze and destroyed it. Lilizard Tributed for Mudan; **Forbidden Crown** negated Mudan's search. Glamour (Tributing Byblisp) → Rikka Princess + Cactus. Ended Rikka Princess + Mudan, Super Poly set but **dead** (the Rikka locks were already on). Coaching mistakes: no full plan up front, told him to change a position he couldn't, implied Glamour/Moonlit must Tribute. Survived their turn 3; turn 4 **Widow Anchor** stole Petal, then Mudan, and the **duel clock ran out** (Lewis 10:14 used, them 9:13). Waiting on step-by-step coaching cost the time. |
-| 25 Nov 2026 | Ryuuku (ranked) | 1st | (in progress) | Sample Hand 8 (Dracaena, Mudan, Hellebore, Predaprimitive, Forbidden Droplet). Live line Tribute Summoned Mudan with Dracaena (spent the Normal Summon), Moonlit added Mudan #2, and **Rikka Queen Strenna got no material**. Ended Sacred Queen Strenna (0), Rikka Queen Strenna (0, can't float), Primrose, Rikka Princess, Byblisp, Konkon; hand Longinephila, Mudan, Hellebore, Super Poly, Droplet. No Teardrop, no Sheet, no Hyperyton. Better line under Sample Hand 8. |
+| 25 Nov 2026 | Ryuuku (ranked, Horus) | 1st | **Lost** | Sample Hand 8 (Dracaena, Mudan, Hellebore, Predaprimitive, Forbidden Droplet). Live line Tribute Summoned Mudan with Dracaena (spent the Normal Summon), Moonlit added Mudan #2, and **Rikka Queen Strenna got no material**. Ended Sacred Queen Strenna (0), Rikka Queen Strenna (0, can't float), Primrose, Rikka Princess, Byblisp, Konkon; hand Longinephila, Mudan, Hellebore, Super Poly, Droplet. No Teardrop, no Sheet, no Hyperyton. Better line under Sample Hand 8. Turn 5: 2500 LP, empty field into Imsety, Hapi, Duamutef, Obelisk, a 4300 Serpent/Scorpion, both Sarcophagi, Apophis + Canopic. Advice was Instant Fusion → Ambulomelides → Mudan → Cactus; Cactus doesn't stop attacks. No line survived (see "Turn 5 vs Ryuuku"). |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
@@ -240,6 +240,74 @@ Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell mate
 5. **Shining Sarcophagus** sends back a monster you summon from the GY if she discards a Spell: bait it with Black Princess before reviving anything important.
 6. **Super Poly**: Dragoon + a **DARK Predaplant of yours** → **Starving Venom** removes Dragoon without touching a Horus card (no Black Flame Deity trigger).
 7. **Evenly Matched** at the end of your Battle Phase banishes her extra cards face-down: no destruction, no targeting, and banished Sons can't come back.
+
+## Going second breaks (checked, 25 Nov 2026)
+
+All lines pass the line checker (`tools/line-check/lines_going2nd.cue`). All **UNTESTED**. Card text checked against ProjectIgnis BabelCDB on 25 Nov 2026. Quick table: [Speed sheet: Going second](Speed-sheet.md).
+
+### What removes their monsters
+
+| Tool | Targets? | Card effect? | Notes |
+| --- | --- | --- | --- |
+| **Daredevil's own summon** (Longinephila's Predator Counter + Tribute it with a Predaplant you control) | No (the counter is placed, not targeted) | **No, it's a summon procedure** (rules reading: check in game) | Can't be negated by "negate the activation" cards. Beats Obelisk (can't be targeted), Wingman / Vapor (can't be destroyed), Machina Fortress (target and battle punish). Daredevil is a Plant, so it fits Petal / Black Princess locks, but **not after Moonlit Waters** (Plant Xyz only). |
+| **Super Polymerization** | No | Yes | Nobody can respond. Starving Venom (2 DARK), Garura (same Type + Attribute), Daredevil (Predaplant + Level 1). Starving Venom and Daredevil fit Predaprimitive's Plant/Dragon lock; Garura doesn't. |
+| **Konkon's replacement Tribute** | No | Yes (a cost) | Once per turn, needs Konkon face-up and a Rikka cost (Black Princess, Mudan, Glamour, Moonlit, Hellebore, Rikka Princess, Sheet). |
+| **Teardrop the Rikka Queen** | **Yes** | Yes | Quick only with Plant material. Obelisk can't be targeted. |
+| **Teardrop the Rikka Sacred Queen** | No | Yes | Detach up to 6: send that many Spells/Traps, then Tribute 1 monster. |
+| **Forbidden Droplet** | No | Yes | Negates, doesn't remove. They can't respond with the card type you sent. |
+| **Evenly Matched** | No | Yes | End of your Battle Phase, from hand with 0 cards. Face-down banish. |
+
+### The core: Predaprimitive + Moonlit Waters + a discard
+
+Two removals **before any Rikka lock**, then the Rikka half. A, B and C are their monsters.
+
+1. **Predaprimitive:** send **Byblisp** (the cost: if it's negated, Byblisp still searches), add **Super Polymerization**. Plant/Dragon lock.
+2. **Byblisp (GY):** add **Longinephila**. **Normal Summon Longinephila:** add **Lilizard**.
+3. Special Summon **Lilizard** (skip the Polymerization add).
+4. Synchro **Longinephila + Lilizard** → **Bal Teah** (Main Monster Zone). **Bal Teah:** Lilizard from the GY; **Lilizard:** draw 1.
+5. **Longinephila (GY):** banish it, **Predator Counter on A** (A is now Level 1).
+6. **Byblisp** from the GY. **Daredevil**: Tribute **A + Byblisp** (Extra Monster Zone).
+7. **Lilizard:** target **B**, it becomes DARK (skip if B is DARK).
+8. **Super Poly**, discard your spare card: **B + Lilizard → Starving Venom**.
+9. **Moonlit Waters** (no Tribute): add **Primrose**, send **Hellebore**. Plant Xyz only from here.
+10. **Hellebore (GY):** Tribute **Bal Teah** → Hellebore. **Primrose** triggers → Primrose + **Black Princess** (Defence).
+11. **Primrose:** Black Princess Level +2 (to 8).
+12. Xyz **Starving Venom + Hellebore** → **Teardrop** (Attack). Xyz **Primrose + Black Princess** → **Teardrop #2**, then **Teardrop the Rikka Sacred Queen** on top (3 materials).
+13. **Sacred Queen:** detach up to 3, send their Spells/Traps, then **Tribute C** (Teardrop +200).
+14. **Attack:** Sacred Queen 3200 + Teardrop 2800 (3000 with C) + Daredevil 2200 = **8200 / 8400**.
+
+**If something is negated:**
+- **Predaprimitive negated** (Ash, Infinity, Baronne): Byblisp is already in the GY and still searches; you only lose Super Poly. Do Daredevil, skip step 7-8, and Teardrop needs a second Level 8 (no Venom): make one Teardrop from Hellebore + Black Princess and keep Primrose.
+- **Bal Teah's Lilizard revive sent back** (Shining Sarcophagus) or negated (Ghost Belle): Super Poly uses **B + Bal Teah** (DARK), and Hellebore Tributes Daredevil instead. Not lethal (Sacred Queen + Teardrop).
+- **The counter negated:** Super Poly can make Daredevil instead: **Byblisp + any Level 1** (not their monster without a counter), or use Super Poly on A and B is left for Sacred Queen's Tribute.
+
+### Per matchup
+
+**Horus (Ryuuku: Sons, both Sarcophagi, Apophis, Canopic, Dominus, Obelisk):** A = Hapi or **Obelisk** (it can't be targeted, the counter doesn't target), B = **Imsety** (DARK already), C = Duamutef. Super Poly, Teardrop and Sacred Queen are card effects, so they **trigger the other Sons and Horus the Black Flame Deity** (from the hand: summons itself and sends all other monsters to the GY). Do Super Poly while your field is small, keep Rikka Princess (needs a Rikka monster on your field) for Black Flame, and send Canopic / Apophis with Sacred Queen rather than King's Sarcophagus (sending King's Sarcophagus also triggers Black Flame). Canopic adds a Horus body on each chain: count again before attacking. Line: "Horus going 2nd".
+
+**Sky Striker (Zero + 4 sets):** A = **Zero**. No B: **set Super Poly** for their turn (Raye is DARK: Raye + Bal Teah or Daredevil → Starving Venom). If Zero answers the counter with its own Tribute, **leave Raye and Roze in their Main zones**: every Sky Striker Spell (Widow Anchor, Engage, Hornet Drones) needs that zone empty. **Forbidden Crown doesn't target**, so Moonlit's protection won't stop it; expect it on your first key monster. Hellebore Tributes Lilizard so Bal Teah stays: 3200 + 2200 + 1900 = **7300** (not lethal from 8000). Line: "Sky Striker going 2nd".
+
+**Machina (Fortress + Air Raider / Citadel):** A = **Fortress** (no target, no battle: no discard, no destroy). B = Air Raider (Lilizard), or Unclaspare / Ruinforce (DARK). **Never destroy their EARTH Machines** (battle included): Machina Citadel revives from the GY and wipes every monster of yours with ATK ≤ one of theirs. 8200. Line: "Machina going 2nd".
+
+**Cyber Dragon (Infinity + Chimeratech Fortress / Nova):** A = **Infinity** (its negate stops activations, not Daredevil's summon). B = **Chimeratech Fortress** (DARK). **Lead with Predaprimitive as the bait for Infinity.** **Clockwork Night** makes your face-up monsters Machines: Black Princess can't summon herself, Mudan / Hellebore / Glamour / Moonlit can't Tribute a field Plant, Primrose can't target, Jasmine and Sacred Queen Strenna can't be made. Stop after step 8 (Daredevil 1700 + Venom 2300 under Clockwork) unless Sacred Queen or Evenly Matched can clear it. 8200 without Clockwork. Line: "Cyber Dragon going 2nd".
+
+**HERO (Rhino: Dark Law, Chaos ×2, Wingman):** Dark Law blocks Predaprimitive, Dracaena, Moonlit and Droplet. **Needs a drawn Super Poly, played first:** Dark Law + Chaos (both DARK) → Starving Venom. Then the core with A = Chaos #2; Sacred Queen Tributes **Wingman** (can't be destroyed, can be Tributed). Lilizard stays on the field: 3200 + 3000 + 2200 + 1200 = **9600**. Line: "HERO going 2nd". Without a drawn Super Poly: Black Princess / Mudan / Konkon / Glamour only, or side to Invoked.
+
+**Elfnote (Baronne + Lucina, Main Phase Quick Effects):** with Evenly Matched in hand, use it on your own turn first (Hand 5). Otherwise A = **Baronne** (bait its negate with Predaprimitive), B = **Lucina** (Lilizard). Tinia banishes a random card from your hand on your turn: play Lilizard as soon as it lands. 8200. Line: "Elfnote going 2nd".
+
+### Turn 5 vs Ryuuku (25 Nov 2026, lost)
+
+**Position:** LP 2500, empty field. Hand: Cactus Bouncer, Mudan, Instant Fusion, Predaprimitive. Their field: Imsety 3000, Hapi 2400, Duamutef 3600, **Obelisk the Tormentor** 4000, a 4300 Serpent/Scorpion, King's Sarcophagus, Shining Sarcophagus, Apophis traps, Canopic Protector. Byblisp, both Longinephila and Lilizard were out of the Deck.
+
+**Advice given:** Instant Fusion → Ambulomelides → Mudan → Cactus lock. **Wrong:** Cactus stops Special Summons, not attacks; five attackers were already on the field.
+
+**Checked answer:** no line survives.
+- **Predaprimitive can't be activated** (no Predap card left to send). `KNOWN BAD: Ryuuku turn 5, Predaprimitive with no Predap card left in the Deck`.
+- **Extra Deck options checked:** Instant Fusion only reaches **Ambulomelides** (Level 5 or lower: Daredevil and Garura are Level 6). Ambulomelides can add Lilizard back from the GY (if it's there), giving **Jasmine** (Ambulomelides + Lilizard, or Mudan + Cactus) or Mudan → Glamour → Sacred Queen Strenna → Kanzashi. **Daredevil** needs a Predator Counter (no Longinephila). **Starving Venom / Garura** need Super Poly. **Bal Teah / Crystal Wing** need a Tuner. At most 3 or 4 blockers.
+- **Their damage:** five attackers of 2400 or more, plus Obelisk's Tribute-2 wipe (can't be targeted, so no Teardrop or Sheet). Instant Fusion's 1000 LP puts you at 1500. Rikka Princess in hand could negate the wipe; one unblocked attack still kills.
+- **The only out:** their LP low enough to win that turn.
+
+**What to do earlier so it doesn't get here:** see "Rules for Horus" on the [Speed sheet](Speed-sheet.md). In short: Cactus on turn 1 (before the board exists), hand traps on their searches, Super Poly on Imsety + a DARK Predaplant as soon as it's live, Daredevil for Obelisk, and count the Predap cards left in the Deck.
 
 ## Hand-fitted lines (UNTESTED, pass the line checker)
 

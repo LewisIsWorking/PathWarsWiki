@@ -27,6 +27,7 @@ import (
 	frame: #Frame | *"main"
 	kind:  "monster" | "spell" | "trap"
 	race: string | *""
+	attr: string | *"" // Attribute (DARK, LIGHT, ...): Fusion material checks
 	level?: int // Level, Rank or Link rating
 	tuner: bool | *false
 	// Names of the card's effects. Each one is once per turn unless listed in notOpt.
@@ -98,6 +99,10 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	attach: [...string] | *[]
 	// Materials this step detaches from the step's own card.
 	detach: int | *0
+	// Lilizard: the monster this step makes DARK until the end of the turn (e.g. "opp:Sky Striker Ace = Zero").
+	makesDark: string | *""
+	// Longinephila (GY): the monster this step puts a Predator Counter on (it becomes Level 1).
+	counter: string | *""
 	note?: string
 }
 
@@ -115,12 +120,19 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	// Summon locks already on when the line starts, e.g. "no_special" for Cactus Bouncer
 	// with any other Plant on either field (their Elfnote Strelitzia counts).
 	startLocks: [...#Lock] | *[]
+	// The opponent's face-up monsters at the start. When given: every "opp:" card the line
+	// Tributes or uses must be here, each can leave only once, and lethal needs them all gone.
+	oppField: [...string] | *[]
+	// Cards no longer in your Deck (drawn, used or sent earlier in the Duel), e.g. {"Predaplant Byblisp": 1}.
+	deckGone: [string]: int
 	// Optional damage check. attackers: monsters that attack (must be on the end board and
 	// not summoned in Defence). bonus: extra ATK (e.g. Teardrop +200 per Tribute).
 	lethal?: {
 		lp: int
 		attackers: [...string]
 		bonus: [string]: int
+		// Their monsters that stay but don't stop lethal (explain in a note).
+		ignore: [...string] | *[]
 	}
 	steps: [...#Step]
 	end: {
@@ -129,6 +141,9 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	}
 
 	let _deck = decks[deck]
+	_konkonSteps: [for i, s in steps
+		if list.Contains(_konkonUsers, strings.Split(s.card, "#")[0])
+		if len([for c in s.consumes if strings.HasPrefix(c, "opp:") {c}]) > 0 {i}]
 	_taken: list.Concat([for s in steps {[for x in s.fromDeck {strings.Split(x, "#")[0]}]}])
 
 	violations: list.Concat([
@@ -264,7 +279,7 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 		// Deck counts: no more copies taken from the Deck than the deck runs (minus copies in the starting hand).
 		[for n, _ in {for y in _taken {(y): true}}
 			let used = len([for y in _taken if y == n {y}]) + len([for h in hand if strings.Split(h, "#")[0] == n {h}])
-			let have = *_deck.main[n] | 0
+			let have = (*_deck.main[n] | 0) - (*deckGone[n] | 0)
 			if used > have {"takes \(used) \(n) (hand + Deck) but \(deck) runs \(have)"}],
 
 		// Xyz materials: every material's current Level equals the Rank.
@@ -298,11 +313,82 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 			if cards[n] != _|_
 			if len(t.consumes) != cards[n].level {"step \(j+1): \(n) is Link-\(cards[n].level) but uses \(len(t.consumes)) materials"}],
 
+		// Fusion materials (Super Poly, Daredevil's Tribute summon). Lilizard's makesDark and
+		// Longinephila's counter (Level 1) count from the step they happen.
+		[for j, t in steps
+			let fn = strings.Split([if t.summons != "" {t.summons}, t.card][0], "#")[0]
+			if _fusionRule[fn] != _|_ && len(t.consumes) > 0
+			for m in t.consumes
+			let nm = strings.Split(strings.TrimPrefix(m, "opp:"), "#")[0]
+			if cards[nm] == _|_ {"step \(j+1): \(nm) (Fusion material) is not in cards.cue"}],
+		[for j, t in steps
+			let fn = strings.Split([if t.summons != "" {t.summons}, t.card][0], "#")[0]
+			if _fusionRule[fn] != _|_ && len(t.consumes) > 0
+			let mats = [for m in t.consumes
+				let nm = strings.Split(strings.TrimPrefix(m, "opp:"), "#")[0]
+				if cards[nm] != _|_ {
+					let dk = len([for i, s in steps if i < j && s.makesDark == m {1}]) > 0
+					let ct = len([for i, s in steps if i < j && s.counter == m {1}]) > 0
+					name:  nm
+					opp:   strings.HasPrefix(m, "opp:")
+					attr:  [if dk {"DARK"}, cards[nm].attr][0]
+					race:  cards[nm].race
+					lv1:   ct || (*cards[nm].level | 0) == 1
+					ctr:   ct
+					preda: strings.HasPrefix(nm, "Predaplant")
+				}]
+			let rule = _fusionRule[fn]
+			let contact = t.card == fn && t.action == "special_summon"
+			if len(mats) == len(t.consumes)
+			if (len(mats) != 2) ||
+				(rule == "dark2" && (mats[0].attr != "DARK" || mats[1].attr != "DARK")) ||
+				(rule == "garura" && (mats[0].race != mats[1].race || mats[0].attr != mats[1].attr || mats[0].name == mats[1].name)) ||
+				(rule == "daredevil" && !contact && !((mats[0].preda && mats[1].lv1) || (mats[1].preda && mats[0].lv1))) ||
+				(rule == "daredevil" && contact && !((mats[0].preda && !mats[0].opp && mats[1].ctr) || (mats[1].preda && !mats[1].opp && mats[0].ctr))) {
+				"step \(j+1): \(fn) can't use \(strings.Join([for x in mats {"\(x.name) (\(x.attr) \(x.race))"}], " + ")) (\(_fusionText[rule]))"
+			}],
+
+		// Opponent's field.
+		[if len(oppField) > 0 for j, t in steps for x in list.Concat([t.consumes, [t.makesDark, t.counter]])
+			if strings.HasPrefix(x, "opp:") && !list.Contains(oppField, strings.TrimPrefix(x, "opp:")) {
+				"step \(j+1): \(strings.TrimPrefix(x, "opp:")) isn't on their field (oppField)"
+			}],
+		[for x in oppField
+			let n = len([for s in steps for c in s.consumes if c == "opp:\(x)" {1}])
+			if n > 1 {"\(x) leaves their field \(n) times"}],
+		[for j, t in steps for x in [t.makesDark, t.counter] if strings.HasPrefix(x, "opp:")
+			if len([for i, s in steps if i < j for c in s.consumes if c == x {1}]) > 0 {"step \(j+1): \(strings.TrimPrefix(x, "opp:")) already left their field"}],
+		[if lethal != _|_ for x in oppField
+			if !list.Contains(lethal.ignore, x)
+			if len([for s in steps for c in s.consumes if c == "opp:\(x)" {1}]) == 0 {"lethal: \(x) is still on their field"}],
+
+		// Konkon: Tributing their monster for a Rikka cost needs Konkon face-up, once per turn.
+		[if len(_konkonSteps) > 1 {"Konkon's replacement Tribute is once per turn (steps \(strings.Join([for i in _konkonSteps {"\(i+1)"}], ", ")))"}],
+		[for i in _konkonSteps
+			if !list.Contains(startField, "Rikka Konkon")
+			if len([for k, s in steps if k < i && s.card == "Rikka Konkon" && s.action == "activate" {1}]) == 0 {
+				"step \(i+1): Tributes their monster, but Rikka Konkon isn't face-up yet"
+			}],
+
 		// Zones.
 		[if len(end.mmz) > 5 {"end board uses \(len(end.mmz)) Main Monster Zones (max 5)"}],
 		[if len(end.emz) > 2 {"end board uses \(len(end.emz)) Extra Monster Zones (max 2)"}],
 	])
 }
+
+// Fusion Monsters whose materials are checked, and what they need.
+_fusionRule: {
+	"Starving Venom Fusion Dragon":   "dark2"
+	"Garura, Wings of Resonant Life": "garura"
+	"Predaplant Daredevil":           "daredevil"
+}
+_fusionText: {
+	dark2:     "needs 2 DARK monsters: use Lilizard's makesDark on the other one"
+	garura:    "needs 2 monsters with the same Type and Attribute, different names"
+	daredevil: "needs a Predaplant + a Level 1 monster; its Tribute summon needs a Predaplant you control + a monster with a Predator Counter"
+}
+// Rikka cards whose cost Tributes a Plant you control, so Konkon can Tribute their monster instead.
+_konkonUsers: ["Rikka Black Princess", "Mudan the Rikka Fairy", "Rikka Glamour", "Rikka Moonlit Waters", "Hellebore the Rikka Fairy", "Rikka Princess", "Rikka Sheet"]
 
 lines: [N=string]: #Line & {name: *N | string}
 

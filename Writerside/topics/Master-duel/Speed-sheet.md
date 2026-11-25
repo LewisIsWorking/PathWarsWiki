@@ -32,7 +32,7 @@ See also: [Tournament decks](Tournament-decks.md), [Witchcrafter](Witchcrafter.m
 | **Neos Fusion** (set) | Fusion Summons a Neos Fusion (e.g. Wingman) from hand/Deck/field. Its GY copy protects Neos Fusions from destruction. | Expect a Wingman on your turn. |
 | **Masked HERO Vapor** | Can't be destroyed by card effects. | Same as Wingman. |
 
-**Default move:** Super Poly on Dark Law + Chaos. Deck: Invoked with 3 Droplet ([Tournament decks](Tournament-decks.md)).
+**Default move:** Super Poly on Dark Law + Chaos. Deck: Invoked with 3 Droplet ([Tournament decks](Tournament-decks.md)). **With PredaRikka:** a drawn Super Poly first (Dark Law + Chaos are both DARK → Starving Venom), then the Predap engine; line "HERO going 2nd" below. Without a drawn Super Poly the Predap engine is off (Dark Law).
 
 ### Natasha (Horus · Dragoon · Shining Sarcophagus)
 
@@ -46,6 +46,30 @@ See also: [Tournament decks](Tournament-decks.md), [Witchcrafter](Witchcrafter.m
 
 **Her hand traps:** Ash ×2, Droll ×2, Maxx "C", Ghost Mourner, Droplet, Triple Tactics Talent, Triple Tactics Thrust. **Default move:** InvokedVsNatasha, Tip T2 in the [Invoked practice sheet](Invoked-practice.md).
 
+### Ryuuku (Horus · Apophis · Obelisk, ranked, 25 Nov)
+
+Lewis lost (going first, weak turn-1 board). By his turn 5 he was on 2500 LP with an empty field against Imsety, Hapi, Duamutef, **Obelisk the Tormentor**, a 4300 Serpent/Scorpion, King's Sarcophagus, Shining Sarcophagus, Apophis traps and Canopic Protector. Nothing in hand could survive five attackers (see "Turn 5 vs Ryuuku" on the [Rikka](Rikka.md) page). Text checked 25 Nov 2026.
+
+| Card | What it does | Answer |
+| --- | --- | --- |
+| **Canopic Protector** (Continuous Trap) | **Once per Chain**, when you activate anything: they Special Summon a Horus monster from hand or GY (each name once per turn this way). Sets itself again when sent to the GY. | It adds bodies, it doesn't negate. **Super Poly can't be responded to**, so Canopic can't fire on it. Recount their monsters before you attack. |
+| **Apophis the Swamp Deity** (Continuous Trap) | Main Phase: summons itself, then negates your face-up cards, **one per other Continuous Trap** they control (Canopic counts). | It hits face-up cards only: summon from the hand and use effects in the same chain. Cactus Bouncer stops it summoning itself. |
+| **Divine Serpent Apophis** | Once per turn, when a Trap is activated: destroys one of your cards. Re-sets 3 Apophis Traps. | Every Apophis trap costs you a card too. Daredevil / Super Poly it. |
+| **Dominus Impulse** | Negates an effect that Special Summons (Lilizard, Bal Teah's revive, Byblisp, Primrose, Hellebore). | **Doesn't touch Synchro / Xyz Summons, Super Poly (no responses) or Daredevil's own Tribute summon.** Bait it with Dracaena if you have one. |
+| **Shining Sarcophagus** | Once per turn: when you Special Summon **from the GY**, they discard a Spell and send that monster back. | The core line's first GY summon is Bal Teah reviving Lilizard: that's the bait. Fallback in the Rikka page. |
+| **Obelisk the Tormentor** (4000) | **Can't be targeted.** Tribute 2: destroys all your monsters. | **Daredevil:** Longinephila's Predator Counter doesn't target. Then Daredevil Tributes it. Rikka Princess negates the wipe. |
+| **Merciless Scorpion of Serket** | At the start of the Damage Step: destroys the monster it battles. | Don't attack into it or block with something you need. |
+| **Silhouhatte Rabbit** | Link-2. Sets an Apophis trap from the Deck; destroys your Spell/Trap when one of their Traps becomes a monster. | Set Super Poly only if you'll use it this turn. |
+| **Sons + Horus the Black Flame Deity** | See Natasha's table. Super Poly, Teardrop and Sacred Queen are **card effects**, so they trigger the Sons and Black Flame. | Do the effect removals **early, while your field is small**, and keep Rikka Princess for Black Flame. |
+
+**Rules for Horus (Ryuuku and Natasha):**
+1. **Cactus Bouncer is a going-first card here.** On turn 1 it stops the Sons reviving, Canopic, Black Flame and the Apophis traps (they all Special Summon). Into a board that's already built, it stops nothing: they just attack.
+2. **On their turn:** Ash the first search (Imsety, Walls, Shining Sarcophagus, Serket), Droll after it, Maxx "C" on the first Special Summon. A Horus board you didn't stop on turn 1 or 3 is the game.
+3. **Your turn:** Daredevil and Super Poly come before any Rikka lock. Super Poly: **Imsety (DARK) + any DARK Predaplant** → Starving Venom.
+4. **Track your Deck.** Once Byblisp, both Longinephila and Lilizard are gone, Predaprimitive can't be activated (it must send a Predap card): it's a discard.
+
+**Default move:** "Horus going 2nd" in the break table below.
+
 ### Jack (Cyber Dragon)
 
 | Card | What it does | Answer |
@@ -54,6 +78,7 @@ See also: [Tournament decks](Tournament-decks.md), [Witchcrafter](Witchcrafter.m
 | **Chimeratech Fortress Dragon** | Summoned by sending a Cyber Dragon + **Machines from either field**. Not an activation, so it can't be negated. | **Invoked Mechaba is a Machine.** Don't leave it as your only blocker. |
 | **Chimeratech Megafleet Dragon** | Summoned by sending a Cyber Dragon + monsters in **either Extra Monster Zone**. | Your Link in the Extra Monster Zone is food. |
 | **Clockwork Night** | **All** monsters become Machines; yours lose 500 ATK/DEF. | **Destroy it first** (Pupils copying Celebration). Otherwise Fortress eats your whole board. |
+| **Clockwork Night vs PredaRikka** | Your face-up Plants become **Machines**. Black Princess can't summon herself, Mudan / Hellebore / Glamour / Moonlit can't Tribute a Plant on the field, Jasmine and Sacred Queen Strenna lose their materials, Primrose can't target. | **The Predap half still works** (Lilizard, Bal Teah, Daredevil and Super Poly check names, Levels and Attributes, not Types). Get rid of it with Teardrop the Rikka Sacred Queen's send or Evenly Matched, or stop after Super Poly. Count lethal with −500 per attacker. |
 | **Cyber Eternity Dragon** | Can't be targeted or destroyed by your effects while he has a Machine Fusion in his GY. | Negate it or use it as Fusion material. |
 | **Cyber Emergency, Cyber Dragon Core** | Searches. | **Ash** or **Droll**. |
 
@@ -111,6 +136,9 @@ Seen in one game (Lewis lost, PredaRikka going first). Their hand traps hit the 
 | **Machina Fortress** (Level 7, 2500) | If your **monster effect targets** it: they look at your hand and discard 1. If it's **destroyed by battle**: destroys 1 of your cards. Comes back from the hand/GY by discarding Machines (Levels 8+). | **Tribute it, don't target or battle it.** Konkon's Tribute (via Glamour or Black Princess) or Super Poly as Fusion material. Teardrop's Tribute targets (costs you a card from hand). Longinephila's Predator Counter doesn't target. See Rikka Sample Hand 4. |
 | **Ash Blossom** | Used on **Predaprimitive** (your first search). | Byblisp still searches (it's sent as a cost). Lead with the search you can lose. |
 | **Ghost Belle & Haunted Mansion** | Negated Bal Teah's revive of Lilizard from the GY. | Expect it on your first GY effect. Bal Teah / Byblisp / Hellebore / Black Princess all use the GY. |
+| **Machina Citadel** (Level 10) | Quick, either turn: destroys one of their Machines and **all your monsters with ATK ≤ it**. Revives from the GY when their EARTH Machine is **destroyed**. | Tribute and fuse their Machinas, don't destroy them (battle included). Make Citadel use its effect early if it's on the field. |
+| **Machina Air Raider** | Your turn, Quick: destroys their own Machine to summon a lower-Level Machina from the Deck. | Expect it in response to Lilizard's target. It also revives Citadel. |
+| **Super Poly targets** | Machinas are **EARTH Machines**: two with different names → **Garura** (only with no Predaprimitive lock, it's a Winged Beast). Unclaspare / Ruinforce are DARK → **Starving Venom** with a DARK Predaplant. | |
 
 Result: **won** 25 Nov (they surrendered turn 3). They held 3 cards going first and only set up Fortress: their hand was hand traps.
 
@@ -129,6 +157,30 @@ Result: **lost** (turn 9). Their Quick Effects all fire on **your** turn: Baronn
 | **Types / Attributes** | Fortuna LIGHT Spellcaster, Lucina FIRE Spellcaster, Tinia WATER Spellcaster, Regina WIND Spellcaster, Power Patron FIRE Fiend, Strelitzia FIRE Plant, Baronne WIND Warrior. | **Super Poly → Garura** needs two with the same Type + Attribute (e.g. Regina + another WIND Spellcaster). |
 | **S:P Little Knight** | Quick, when you activate something: banishes 2 face-up monsters (one of theirs) until the End Phase. Went for Mudan. | Answer with Rikka Princess (hand/GY) or bait it with a cheap effect. |
 | **Elfnotes: A Plea for Help** | Centre monster can't be targeted. | Tribute (Konkon) or face-down banish (Evenly Matched). |
+
+## Going second: break plan per matchup (PredaRikka)
+
+Every line here passes the line checker (`tools/line-check/lines_going2nd.cue`). All **UNTESTED**. Full steps under "Going second breaks" on the [Rikka](Rikka.md) page.
+
+**The core (needs Predaprimitive + Moonlit Waters + one card to discard):** two removals **before any Rikka lock**, then Teardrop + Teardrop the Rikka Sacred Queen.
+1. **Predaprimitive** (Super Poly) → Byblisp → Normal Summon **Longinephila** (Lilizard) → **Lilizard** → **Bal Teah** → Lilizard back, draw 1.
+2. **Longinephila (GY): Predator Counter on monster A** (no target; it becomes Level 1). **Byblisp** revives. **Daredevil's own summon Tributes A + Byblisp.** It's a summon, not an activation: Infinity, Baronne, Chaos and Dominus Impulse can't stop it.
+3. **Lilizard makes monster B DARK** (skip if it's DARK). **Super Poly: B + Lilizard → Starving Venom.** No responses.
+4. **Moonlit Waters** (Primrose, send Hellebore) → Hellebore Tributes Bal Teah → Primrose + Black Princess → Teardrop (Venom + Hellebore), Teardrop #2 (Primrose + Black Princess at 8) → **Teardrop the Rikka Sacred Queen**: send 3 Spells/Traps, Tribute monster C.
+5. **Attack:** 3200 + 2800 (+200 if C was Tributed) + Daredevil 2200 = **8200 / 8400**.
+
+| Matchup | A (Daredevil) | B (Venom) | C (Sacred Queen) | Bait first | Lethal |
+| --- | --- | --- | --- | --- | --- |
+| **Horus** (Imsety, Hapi, Duamutef) | Hapi (or **Obelisk**: the counter doesn't target) | **Imsety** (already DARK) | Duamutef | Canopic fires on your first activation (bodies, not a negate). Bal Teah's Lilizard revive baits Shining Sarcophagus. | 8400 if those 3 are all |
+| **Sky Striker** (Zero + 4 sets) | **Zero** | none: **set Super Poly** for Raye + your DARK Predaplant on their turn | none | Predaprimitive (Byblisp is the cost, still searches). If Zero Tributes itself, Raye + Roze sit in their Main zones and **their Sky Striker Spells stop**: leave them there | 7300, not lethal from 8000 |
+| **Machina** (Fortress + Air Raider) | **Fortress** (the counter doesn't target, the Tribute isn't battle) | Air Raider (Lilizard; Unclaspare/Ruinforce are DARK) | any | Air Raider may destroy itself in response to Lilizard: then fuse what it summoned | 8200 |
+| **Cyber Dragon** (Infinity + Chimeratech Fortress) | **Infinity** | **Chimeratech Fortress** (DARK) | Nova | **Predaprimitive is the bait for Infinity's negate.** With **Clockwork Night** up, stop after Super Poly (see Jack's table) | 8200 (no Clockwork) |
+| **HERO** (Dark Law, Chaos ×2, Wingman) | Chaos #2 | **Dark Law + Chaos with a drawn Super Poly, FIRST** | **Wingman** (Tribute, not destroy) | Super Poly first means Chaos #1 is gone before it can negate | 9600 (Lilizard attacks too) |
+| **Elfnote** (Baronne + Lucina) | **Baronne** | Lucina (Lilizard) | any | Predaprimitive baits Baronne's negate. Their Main Phase Quick Effects: or **Evenly Matched on your turn** first (S10) | 8200 |
+
+**Super Poly pairs to look for** (no responses): **Starving Venom** = any 2 DARK monsters on the field (Lilizard makes 1 DARK; all Predaplants are DARK; Imsety, Dark Law, Chaos, Raye, Unclaspare, Ruinforce, Chimeratech Fortress, Little Knight are DARK). **Garura** = 2 with the same Type and Attribute, different names (two EARTH Machinas, two Cyber Dragon LIGHT Machines, two of their Rikka); a Winged Beast, so **not** after Predaprimitive / Rikka locks. **Daredevil** = a Predaplant + a Level 1 monster (a Predator Counter makes it Level 1).
+
+**Cards they can't respond to:** Super Poly (nobody), Daredevil's own Tribute summon (not an activation), Forbidden Droplet (not with the type you sent), Evenly Matched at the end of your Battle Phase (after their Main Phase Quick Effects).
 
 ## Witchcrafter: which card first
 
@@ -195,6 +247,8 @@ Byblisp, Lilizard, Konkon, Rikka Princess, Hellebore, Primrose, Cactus and Super
 | Going 1st, Predaprimitive + Dracaena + Mudan + Hellebore | **Hand 8**: Predaprimitive takes Instant Fusion, Dracaena sends Rikka Princess, Black Princess Tributes Hellebore from hand → Teardrop, Hyperyton, Sacred Queen Strenna, Primrose, Sheet | UNTESTED |
 | Going 1st, Rikka Princess already out + Mudan | **Rikka Princess + Mudan + Sheet** | UNTESTED |
 | Going 2nd into Horus (Sons + both Sarcophagi) | **Horus break**: Teardrop the Rikka Sacred Queen detaches **2**, then attack | UNTESTED |
+| Going 2nd, Predaprimitive + Moonlit Waters + a discard, into any 2-3 monster board | **Going-second core**: Daredevil on A, Super Poly Venom on B, Teardrop + Sacred Queen (table above) | UNTESTED |
+| Going 2nd into Horus at the Ryuuku turn-5 spot (5 big monsters, 2500 LP, no Predap left in Deck) | **No line survives.** Cactus doesn't stop attacks. Stop the board earlier (Horus rules above) | Lesson |
 | Going 2nd into Machina Fortress, Predaprimitive + Glamour + Dracaena + Lilizard | **Machina: Hand 4 lethal**: Glamour Tributes Fortress through Konkon; Rikka Queen Strenna gets a material | UNTESTED |
 | Going 2nd into Elfnote (Main Phase Quick Effects), Evenly Matched in hand | **Evenly Matched on your own turn**: empty field, Battle Phase, then combo in Main Phase 2 | Played (worked, then Ash on Moonlit) |
 | Cactus + any other Plant on either field (their Strelitzia) | **Normal Summon only**: Predaprimitive → Byblisp → Normal Summon Longinephila. No Instant Fusion or Super Poly | Proven |
