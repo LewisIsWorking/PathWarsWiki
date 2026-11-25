@@ -364,3 +364,25 @@ If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus ne
 **Super Poly vs a Rikka opponent:** their Rikka monsters are all **WATER Plants**, so any two with different names → **Garura, Wings of Resonant Life** (2 monsters, same Type and Attribute, different names). Two of their monsters gone, no response, and you draw 1 when Garura hits the GY.
 
 **Lesson:** vs a Droll player, do the **Moonlit Waters** combo first (Black Princess / Mudan are Special Summons from the GY/Deck) and save Predaprimitive's search for after Droll is gone. Every add in this deck (Byblisp, Petal, Mudan, Glamour) is a Droll target; Black Princess, Primrose, Hellebore, Strenna and Konkon's Set are not.
+
+### Hand 4: Dracaena, Lilizard, Glamour ×2, Predaprimitive ×2 (going 2nd into Machina Fortress, vs bilotahn)
+
+**Their board:** Machina Fortress (2500) only, no backrow, 3 cards in hand. Fortress punishes **targeting** (destroys one of your cards), so remove it without a target: **Glamour's Tribute through Konkon**. Longinephila's Predator Counter doesn't target either.
+
+**Line (UNTESTED, from card text; same skeleton as Hand 1):**
+1. **Predaprimitive:** send **Byblisp**, add **Super Poly**. Byblisp adds **Longinephila** (Lilizard is already in hand).
+2. **Dracaena:** send **Rikka Princess**, Special Summon Dracaena.
+3. **Normal Summon Longinephila** (search anything). Special Summon **Lilizard**.
+4. Synchro **Longinephila + Lilizard** → **Bal Teah** (Main Monster Zone). Bal Teah: Lilizard from the GY, draw 1.
+5. **Longinephila (GY):** Predator Counter on Fortress.
+6. Link **Bal Teah + Lilizard** → **Jasmine** (Extra Monster Zone). **Byblisp** from the GY under Jasmine's arrow.
+7. **Jasmine:** Tribute Byblisp → **Black Princess**. **Black Princess:** Tribute **Dracaena** → **Mudan**; Mudan adds **Konkon**.
+8. **Konkon:** set **Moonlit Waters**.
+9. **Glamour**, Tributing **Machina Fortress** via Konkon: add **Black Princess + Mudan** (both Level 6).
+10. Xyz **Mudan + Black Princess** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Petal**.
+11. **Moonlit Waters**, Tributing Rikka Queen Strenna: **Primrose** to hand, **Hellebore** to the GY. Strenna → **Hyperyton**; Sacred Queen → set **Rikka Sheet**.
+12. Special Summon **Black Princess** from hand. **Hellebore (GY):** Tribute her → Hellebore. **Primrose** → Primrose + **Black Princess #3**.
+13. **Primrose:** Black Princess #3 +2 (to 8). Xyz **Black Princess #3 + Hellebore** → **Teardrop**.
+14. **Attack:** Teardrop 2800 + Hyperyton 2600 + Sacred Queen Strenna 2000 + Jasmine 1800 = **9200, lethal.**
+
+Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebore, Primrose, Byblisp, Lilizard (all 1/1), Longinephila 1/2.

@@ -93,6 +93,12 @@ Seen in one game (Lewis lost, PredaRikka going first). Their hand traps hit the 
 | **Ash Blossom** | Used on Sylvan Dancepione's Link Summon trigger. | Lead with the effect you can afford to lose. |
 | **Their Rikka monsters** | All **WATER Plants**. | **Super Poly: any 2 with different names → Garura** (no response, draw 1). Konkon / Teardrop Tribute them. |
 
+### bilotahn (Machina, ranked, 25 Nov)
+
+| Card | What it does | Answer |
+| --- | --- | --- |
+| **Machina Fortress** (Level 7, 2500) | When targeted by your card effect: destroys one of your cards. Comes back from the hand/GY by discarding Machines. | **Don't target it.** Konkon's Tribute (via Glamour or Black Princess), Teardrop's Tribute is a target (avoid), Super Poly as Fusion material. Longinephila's Predator Counter doesn't target. See Rikka Sample Hand 4. |
+
 ## Witchcrafter: which card first
 
 **Lead order:** Spell Power Mastery → Creation → Marka → Walpurgis. Full lines on the [Witchcrafter](Witchcrafter.md) page.
