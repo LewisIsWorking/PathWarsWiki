@@ -428,3 +428,7 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 9. **Normal Summon Cactus Bouncer.** Set Super Poly.
 
 **End:** Sacred Queen Strenna, Primrose, Hyperyton, Cactus Bouncer, Konkon, set Sheet + Super Poly. Hand: **Hellebore + Rikka Princess** (both negates while you control a Rikka monster). Cactus stops their Special Summons while any other Plant is on the field (Strelitzia counts too).
+
+**Live (25 Nov):** Evenly Matched resolved; they kept **Strelitzia** (Defence). Then they **Ashed Moonlit Waters**. Ended on Cactus Bouncer + set Super Poly, Hellebore in hand. Silver lining: Strelitzia is a **Plant**, so Cactus + Strelitzia means **neither player can Special Summon** (Super Poly included) until one leaves. Result: pending.
+
+**Lesson:** after Evenly Matched, your Main Phase 2 opener eats their hand trap. With only one starter (Moonlit Waters), there's no backup: count your starters before choosing Evenly Matched over comboing in Main 1.
