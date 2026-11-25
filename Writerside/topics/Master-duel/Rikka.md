@@ -200,3 +200,45 @@ Backup going-first lines: Line A (Moonlit Waters → Hyperyton with a Spell mate
 
 **Final vs-Natasha PredaRikka (45, 22 Nov 2026):** Droll 2, Petal 1, Byblisp 1, Longinephila 2, Dracaena 3, Maxx "C" 1, Ash 3, Lilizard 1, Cactus Bouncer 1, Rikka Princess 1, Fuwalos 1, Meowls 2, Mudan 2, Black Princess 3, Hellebore 1, Primrose 1, Instant Fusion 1, Glamour 2, Triple Tactics Talent 1 (was Thrust), Predaprimitive 3, Moonlit Waters 3, Konkon 1, Super Poly 2, Forbidden Droplet 1, Evenly Matched 1, Rikka Sheet 1, Dominus Impulse 3.
 Monte Carlo (200k hands): brick going 1st 5.1%; going 2nd 2.5%; going 2nd with a Super Poly / Droplet route 86.6%; at least one hand trap for her turn 80.7%.
+
+**Lewis's PredaRikka list (25 Nov 2026, top 18 rows from a Master Duel screenshot, rest not visible):** Droll 2, Petal 1, Byblisp 1, Longinephila 1, Dracaena 2, Maxx "C" 1, Ash 3, Lilizard 1, Cactus Bouncer 1, Rikka Princess 1, Purulia 2, Fuwalos 1, Mudan 2, Black Princess 3, Hellebore 1, Primrose 1, Instant Fusion 1, ... (also seen in hand: Predaprimitive ×2+, Konkon).
+
+## PredaRikka sample hands
+
+Card text checked against the Project Ignis card database (25 Nov 2026). The database uses the TCG names: **Rikka Sacred Queen Strenna = Rikka Empress Strenna**, **Moonlit Waters = Rikka June Moon**, **Teardrop the Rikka Sacred Queen = Teardrop the Rikka Empress**, **Primrose = Primrose the Twin Rikka Fairy**.
+
+### Hand 1: Longinephila, Dracaena, Predaprimitive ×2, Konkon (going 2nd into Vision HERO Faris, no hand traps)
+
+**Their board:** Vision HERO Faris (Level 5 DARK Warrior, 1600 ATK) only. Faris has no interruption: it only Special Summons itself and places a Vision HERO as a Continuous Trap. They were still in Main Phase 1 in the screenshot, so check what else they add.
+
+**Key ideas:**
+- **Konkon removes Faris for free.** Black Princess's cost Tributes a Plant you control; with Konkon up you Tribute Faris instead. No targeting, no destruction.
+- **Longinephila's Predator Counter on Faris** is what lets **Byblisp** come back from the GY to be Jasmine's Tribute.
+- **Only one Predaprimitive per turn.** The second copy is dead this turn (Super Poly discard later).
+- **Dracaena sends Rikka Princess** so she's already in the GY as your negate on their turn.
+- Do every Extra Deck summon that isn't a Plant Xyz **before** Moonlit Waters resolves (it locks you to Plant Xyz).
+
+**Line (UNTESTED, from card text):**
+1. **Predaprimitive:** send **Byblisp** from the Deck, add **Super Polymerization** (to set for later; you don't need it this turn). Plant/Dragon lock. **Byblisp (GY):** add **Lilizard**.
+2. **Dracaena:** send **Rikka Princess** from the Deck, Special Summon Dracaena (now Level 4).
+3. **Normal Summon Longinephila:** add a Predap card (Predaprimitive #3 is the only one left: Super Poly discard).
+4. Special Summon **Lilizard** from hand (you control a Predaplant).
+5. Synchro **Longinephila (Tuner, 1) + Lilizard (3)** → **Bal Teah** in a **Main Monster Zone** (keep the Extra Monster Zone free). **Bal Teah:** Lilizard from the GY, **draw 1**.
+6. **Longinephila (GY):** banish it, put a **Predator Counter on Faris**.
+7. Link **Bal Teah + Lilizard** → **Aromaseraphy Jasmine** in the **Extra Monster Zone** (its arrows point down-left and down-right).
+8. **Byblisp (GY):** Special Summon it into a zone Jasmine points at.
+9. **Jasmine:** Tribute Byblisp → **Rikka Black Princess** from the Deck.
+10. **Konkon:** set **Moonlit Waters**.
+11. **Black Princess:** Tribute **Faris** (Konkon's replacement) → **Mudan** from the Deck. **Mudan:** add **Glamour**. Their field is now empty.
+12. Xyz **Mudan + Black Princess** → **Rikka Sacred Queen Strenna** (attack position). Detach 2 → **Rikka Queen Strenna** in Defence, attach **Petal** from the Deck.
+13. **Moonlit Waters**, Tributing **Rikka Queen Strenna**: **Primrose** to hand, **Hellebore** to the GY. Chain: CL1 Rikka Queen Strenna → **Hyperyton** in attack position (attach Strenna); CL2 Sacred Queen Strenna → set **Rikka Sheet**.
+14. **Hellebore (GY):** Tribute **Dracaena** → Hellebore. **Primrose** triggers → Primrose + **Black Princess #2** from the Deck.
+15. **Primrose:** Black Princess #2 +2 (to 8). Chain **Hyperyton**: attach **Mudan** from the GY (monster material = negate a hand trap/monster effect).
+16. Xyz **Black Princess #2 + Hellebore** → **Teardrop the Rikka Queen**.
+17. **Battle:** Teardrop 2800 + Hyperyton 2600 + Sacred Queen Strenna 2000 + Jasmine 1800 = **9200 into an empty board: lethal.** If they keep a blocker, Teardrop detaches 1 to Tribute it (Quick, she has Plant material).
+
+Monster Zones check: after step 14 you have Sacred Queen Strenna, Hyperyton, Hellebore, Primrose, Black Princess #2 (all 5) + Jasmine in the Extra Monster Zone. That's why Instant Fusion isn't in this line: Ambulomelides would take the 5th zone.
+
+**If the game goes on:** Primrose (Def) stays for her Quick Effect on their turn (Teardrop → Teardrop the Rikka Sacred Queen), Rikka Princess negates from the GY, Hyperyton negates a monster effect, Rikka Sheet is set, Glamour + Super Poly + Predaprimitive in hand. Petal revives in their End Phase.
+
+**If they extended past Faris:** same line to step 11 (Konkon takes their best face-up monster instead of Faris), then use Teardrop's Tribute and keep the attack for whatever is left.
