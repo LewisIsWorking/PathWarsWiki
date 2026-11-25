@@ -159,6 +159,8 @@ lmt's Extra Deck: Ambulomelides, Garura, Daredevil, Starving Venom, Secreterion,
 
 **How it works:** the Predaplant cards are extra starters that turn into a Rikka combo. **Aromaseraphy Jasmine** (Link-2, 2 Plants) is the bridge: Tribute a monster it points to → any Plant from the Deck (Petal or Black Princess). From there it's the normal Rikka game plan.
 
+**No Polymerization (checked 25 Nov 2026):** none of the 21 PredaRikka lists on MDM (Nov 2026: Master I, Rating Duels, tournaments) runs Polymerization; 19 run Lilizard anyway. Lilizard is a **body**: it summons itself (the Polymerization add is optional), is Synchro material for Bal Teah, and draws a card when Bal Teah revives it.
+
 **Starters (any one is a full combo):** Predaprimitive, Instant Fusion, Predaplant Longinephila, Princess Dracaena, plus the usual Petal / Black Princess / Moonlit Waters / Glamour.
 
 **Proven line:** MDM "Predarikka: 1c Any Predap Starter" (Yusodus). Predap engine → Lilizard ×2 → Bal Teah → Jasmine → Byblisp under Jasmine's arrow → Jasmine Tributes Byblisp → Black Princess → Petal → Mudan → Konkon → Sacred Queen Strenna → Rikka Queen Strenna (+ Rikka Princess) → Instant Fusion Ambulomelides → Ambulomelides Tributes Strenna (Hyperyton + Sheet) → Bramble Rose → Black Rose → Konkon sets Moonlit → Moonlit Tributes Ambulomelides → Primrose + Hellebore → Kanzashi → Teardrop → Teardrop Sacred Queen.
