@@ -6,13 +6,14 @@ Used by the **master-duel-match-coach** skill.
 
 Every second counts: Master Duel's turn timer **and** the whole-duel clock. One tool does the checking: `./quick`.
 
-**Once per container (5 seconds):**
+**Once per container (about 6 seconds):**
 
 ```
-git clone -q --depth 1 https://github.com/lewisisworking/pathwarswiki /tmp/pww && /tmp/pww/tools/coach/quick setup
+git clone -q --depth 1 --filter=blob:none --sparse https://github.com/lewisisworking/pathwarswiki /tmp/pww \
+  && git -C /tmp/pww sparse-checkout set tools Writerside/topics/Master-duel && /tmp/pww/tools/coach/quick setup
 ```
 
-`setup` installs CUE v0.11.1 as a release binary (about 1 s; `go install` is only the fallback), runs the full checker and warms the cache. Card text for the whole PredaRikka Main + Extra Deck and every opponent card in `opponents.txt` is already committed in `cache/`, so nothing needs the network during a game.
+The sparse clone skips the rest of the wiki (a full clone takes about 15 s). `setup` installs CUE v0.11.1 as a release binary (about 1 s; `go install` is only the fallback), runs the full checker and warms the cache. Card text for the whole PredaRikka Main + Extra Deck and every opponent card in `opponents.txt` is already committed in `cache/`, so nothing needs the network during a game.
 
 **On every screenshot (well under a second):**
 
