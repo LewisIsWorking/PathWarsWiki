@@ -29,6 +29,9 @@ import (
 	notOpt: [...string] | *[]
 	// Effects that send a card to your GY. Dark Law (and Macro-style cards) block these.
 	gyEffects: [...string] | *[]
+	// Effects that must add a card from the Deck to the hand. Under Droll & Lock Bird,
+	// Master Duel won't let you activate them (tested with Moonlit Waters, 25 Nov 2026).
+	addEffects: [...string] | *[]
 }
 
 cards: [string]: #Card
@@ -90,6 +93,8 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 	// Cards already on your field before the line starts.
 	startField: [...string] | *[]
 	darkLaw: bool | *false
+	// Droll & Lock Bird resolved before this step (1-based); 0 = no Droll.
+	drollFrom: int | *0
 	steps: [...#Step]
 	end: {
 		mmz: [...string]
@@ -164,6 +169,13 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 			let n = strings.Split(s.card, "#")[0]
 			if s.sendsToGY || (s.effect != "" && cards[n] != _|_ && list.Contains(cards[n].gyEffects, s.effect)) {
 				"step \(i+1): \(n) sends a card to the GY, blocked by Dark Law"
+			}],
+
+		// Droll: no more adds from the Deck.
+		[if drollFrom > 0 for i, s in steps if i+1 >= drollFrom
+			let n = strings.Split(s.card, "#")[0]
+			if s.effect != "" && cards[n] != _|_ && list.Contains(cards[n].addEffects, s.effect) {
+				"step \(i+1): \(n) '\(s.effect)' must add from the Deck, blocked by Droll (from step \(drollFrom))"
 			}],
 
 		// Deck counts: no more copies taken from the Deck than the deck runs (minus copies in the starting hand).

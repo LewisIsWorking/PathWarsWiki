@@ -43,6 +43,7 @@ One step per action, in order. The fields that matter:
 - `setLevel`: Level changes, e.g. Primrose `{"Hellebore the Rikka Fairy": 6}`.
 - `rankUp: true`: Xyz on top of another Xyz (Teardrop the Rikka Sacred Queen over Teardrop).
 - `startField`: cards already on the field when the line starts (mid-turn positions).
+- `darkLaw: true` / `drollFrom: <step>`: the opponent's Dark Law is up / Droll resolved before that step.
 
 Hand-fitted lines from real games go in `lines_handfit.cue`.
 

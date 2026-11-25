@@ -6,13 +6,13 @@ cards: {
 	// --- Rikka (all WATER Plants) ---
 	"Rikka Petal": {kind: "monster", race: "Plant", level: 1, effects: ["take", "revive"]} // take: add OR send a Rikka monster (set sendsToGY on the step when sending)
 	"Rikka Black Princess": {kind: "monster", race: "Plant", level: 6, effects: ["summon_self", "tribute_summon"]} // summon_self (hand or GY) locks to Plants
-	"Mudan the Rikka Fairy": {kind: "monster", race: "Plant", level: 6, effects: ["summon_self", "search"]}
+	"Mudan the Rikka Fairy": {kind: "monster", race: "Plant", level: 6, effects: ["summon_self", "search"], addEffects: ["search"]}
 	"Hellebore the Rikka Fairy": {kind: "monster", race: "Plant", level: 8, effects: ["negate", "revive"]}
 	"Primrose the Rikka Fairy Duo": {kind: "monster", race: "Plant", level: 8, effects: ["tribute_trigger", "level", "quick_xyz"]}
 	"Rikka Princess": {kind: "monster", race: "Plant", level: 4, effects: ["summon_self", "negate"]}
 	"Rikka Konkon": {kind: "spell", effects: ["activate", "set", "replace_tribute"], notOpt: ["activate"]}
-	"Rikka Glamour": {kind: "spell", effects: ["activate"]}
-	"Rikka Moonlit Waters": {kind: "spell", effects: ["activate"], gyEffects: ["activate"]}
+	"Rikka Glamour": {kind: "spell", effects: ["activate"], addEffects: ["activate"]}
+	"Rikka Moonlit Waters": {kind: "spell", effects: ["activate"], gyEffects: ["activate"], addEffects: ["activate"]}
 	"Rikka Sheet": {kind: "trap", effects: ["activate"]}
 	"Rikka Queen Strenna": {frame: "xyz", kind: "monster", race: "Plant", level: 4, effects: ["add", "tributed"]}
 	"Rikka Sacred Queen Strenna": {frame: "xyz", kind: "monster", race: "Plant", level: 6, effects: ["summon_xyz", "set_trap"]}
@@ -22,21 +22,21 @@ cards: {
 	"Sacred Tree Beast, Hyperyton": {frame: "xyz", kind: "monster", race: "Plant", level: 9, effects: ["attach", "negate"]}
 	"Orea, the Sylvan High Arbiter": {frame: "xyz", kind: "monster", race: "Plant", level: 7, effects: ["look", "excavate"]}
 
-	"Primula the Rikka Fairy": {kind: "monster", race: "Plant", level: 4, effects: ["summon_self", "search"]}
+	"Primula the Rikka Fairy": {kind: "monster", race: "Plant", level: 4, effects: ["summon_self", "search"], addEffects: ["search"]}
 	"Foolish Burial": {kind: "spell", effects: ["activate"], gyEffects: ["activate"]}
 	"Crossout Designator": {kind: "spell", effects: ["activate"]}
 	"Infinite Impermanence": {kind: "trap", effects: ["activate"], notOpt: ["activate"]}
 
 	// --- Predaplant ---
-	"Predaplant Longinephila": {kind: "monster", race: "Plant", level: 1, tuner: true, effects: ["search", "gy"]}
-	"Predaplant Byblisp": {kind: "monster", race: "Plant", level: 1, effects: ["search", "revive"]}
+	"Predaplant Longinephila": {kind: "monster", race: "Plant", level: 1, tuner: true, effects: ["search", "gy"], addEffects: ["search"]}
+	"Predaplant Byblisp": {kind: "monster", race: "Plant", level: 1, effects: ["search", "revive"], addEffects: ["search"]}
 	"Predaplant Lilizard": {kind: "monster", race: "Plant", level: 3, effects: ["summon_self", "dark", "draw"]}
 	"Princess Dracaena, the Thirsting Tree": {kind: "monster", race: "Plant", level: 1, tuner: true, effects: ["summon_self", "gy"], gyEffects: ["summon_self"]}
-	"Predaprimitive": {kind: "spell", effects: ["activate", "destroy"], gyEffects: ["activate"]}
+	"Predaprimitive": {kind: "spell", effects: ["activate", "destroy"], gyEffects: ["activate"], addEffects: ["activate"]}
 	"Instant Fusion": {kind: "spell", effects: ["activate"]}
 	"Super Polymerization": {kind: "spell", effects: ["activate"], notOpt: ["activate"]}
 	"Polymerization": {kind: "spell", effects: ["activate"], notOpt: ["activate"]}
-	"Predaplant Ambulomelides": {frame: "fusion", kind: "monster", race: "Plant", level: 5, effects: ["search", "tribute"]}
+	"Predaplant Ambulomelides": {frame: "fusion", kind: "monster", race: "Plant", level: 5, effects: ["search", "tribute"], addEffects: ["search"]}
 	"Predaplant Bal Teah": {frame: "synchro", kind: "monster", race: "Plant", level: 4, tuner: true, effects: ["revive", "fusion"]}
 	"Aromaseraphy Jasmine": {frame: "link", kind: "monster", race: "Plant", level: 2, effects: ["tribute", "search"]}
 	"Predaplant Daredevil": {frame: "fusion", kind: "monster", race: "Plant", level: 6}

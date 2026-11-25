@@ -36,3 +36,11 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **Hand:** Ash, Instant Fusion, Super Polymerization, Forbidden Droplet (Moonlit Waters negated).
 - **Right answer:** Instant Fusion needs **no materials**: Ambulomelides → add Predaprimitive → the proven Predaprimitive → Cactus line.
 - **What went wrong:** said Instant Fusion needed a monster in hand. Lewis corrected it.
+
+## S8. Sloth (Rikka mirror), going 1st (25 Nov 2026)
+- **Hand:** Princess Dracaena ×2, Triple Tactics Talent, Predaprimitive, Moonlit Waters.
+- **Right answer:** **Moonlit Waters first**, searches after: Droll stops every add once it resolves, and Master Duel then won't activate Moonlit Waters at all.
+- **What went wrong:** Dracaena, then Predaprimitive; Droll on the add; Moonlit stuck in hand (`KNOWN BAD` in `lines_predarikka.cue`).
+
+## More
+Games coached in other sessions (Machina Fortress, Elfnote / Power Patron) are in the Rikka page's game log and "Coaching mistakes to avoid". Add them here as scenarios when their positions are written down.

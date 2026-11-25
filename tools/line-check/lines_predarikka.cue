@@ -79,3 +79,20 @@ lines: "KNOWN BAD: Rhino G3, Predap engine under Dark Law": {
 	]
 	end: mmz: ["Predaplant Longinephila", "Predaplant Lilizard"]
 }
+
+// 25 Nov 2026, ranked vs Sloth (Rikka mirror), going 1st. Searches before Moonlit Waters gave Droll a target;
+// Moonlit Waters then couldn't be activated. Lesson: Moonlit Waters first, searches after.
+lines: "KNOWN BAD: Sloth, Predaprimitive before Moonlit into Droll": {
+	source: "Rikka page game log, 25 Nov 2026"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	drollFrom: 3
+	hand: ["Princess Dracaena, the Thirsting Tree", "Princess Dracaena, the Thirsting Tree#2", "Triple Tactics Talent", "Predaprimitive", "Rikka Moonlit Waters"]
+	steps: [
+		{card: "Princess Dracaena, the Thirsting Tree", action: "special_summon", zone: "hand", effect: "summon_self", lock: "plant_or_dragon", fromDeck: ["Predaplant Lilizard"]},
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Super Polymerization"], note: "Droll responds to this add"},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", fromDeck: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]},
+	]
+	end: mmz: ["Princess Dracaena, the Thirsting Tree"]
+}
