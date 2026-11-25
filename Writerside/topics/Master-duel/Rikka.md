@@ -45,6 +45,8 @@ Source: [Yusodus's Rikka guide](https://www.masterduelmeta.com/articles/guides/r
 
 ### A. Moonlit Waters alone → Hyperyton with a Spell material + Cactus (beats Dark Hole)
 
+**In PredaRikka (1 Rikka Princess):** in step 8 attach Black Princess instead, so Glamour can still add Rikka Princess in step 10, and keep her in hand (her negate works from hand/GY, not the field). See Sample Hand 3.
+
 1. **Moonlit Waters** (no Tribute): add **Mudan**, send **Black Princess** to the GY.
 2. Special Summon **Black Princess** from the GY.
 3. **Black Princess:** Tribute **herself** → **Rikka Petal** from the Deck.
@@ -321,3 +323,28 @@ Monster Zones check: after step 14 you have Sacred Queen Strenna, Hyperyton, Hel
 - **Dominus Impulse** for anything that Special Summons (backup if Cactus leaves).
 
 If they **Ash Moonlit Waters**, you still have Dracaena: Normal Summon Cactus next to it for the lock, set Dominus Impulse, and hold Droll.
+
+### Hand 3: Dracaena ×2, Triple Tactics Talent, Predaprimitive, Moonlit Waters (going 1st, vs "Sloth")
+
+**Key ideas:**
+- **Moonlit Waters is the engine** (Line A, proven). Dracaena is a spare Plant for Glamour's Tribute; Predaprimitive just banks Super Poly for later.
+- **PredaRikka runs 1 Rikka Princess and 1 Lilizard** (the pure Rikka list ran 2 Princess). So when Sacred Queen Strenna attaches a Rikka monster, attach **Black Princess**, and leave Rikka Princess in the Deck for Glamour. Dracaena can't send Lilizard after Byblisp has searched it: send **Longinephila**.
+- **Don't Special Summon Rikka Princess.** Her negate only works from the hand or GY; keep her in hand.
+- **Triple Tactics Talent is dead on turn 1** (it needs them to activate a monster effect in *your* Main Phase). Keep it for turn 3.
+
+**Line (UNTESTED as a whole; Line A steps are proven):**
+1. **Predaprimitive:** send **Byblisp**, add **Super Polymerization**. Byblisp adds **Lilizard**.
+2. **Moonlit Waters** (no Tribute): add **Mudan**, send **Black Princess** to the GY.
+3. **Black Princess** from the GY; Tribute herself → **Petal**. **Petal:** add **Primrose**.
+4. **Mudan:** Tribute Petal → Mudan. Chain: CL1 Mudan adds **Konkon**; CL2 **Primrose** → Primrose + **Hellebore**.
+5. **Konkon:** set **Glamour**. **Primrose:** Hellebore -2 (to 6).
+6. Xyz **Mudan + Hellebore** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, attach **Black Princess** from the Deck.
+7. **Hellebore (GY):** Tribute Rikka Queen Strenna → Hellebore. Chain: Strenna → **Hyperyton**; Sacred Queen Strenna → set **Rikka Sheet**.
+8. **Dracaena:** send **Longinephila**, Special Summon Dracaena.
+9. **Glamour**, Tributing **Dracaena**; chain **Hyperyton: attach Moonlit Waters**. Add **Rikka Princess + Cactus Bouncer**.
+10. Xyz **Primrose + Hellebore** → **Teardrop the Rikka Queen** (Cactus would stop Primrose's Quick Xyz on their turn anyway).
+11. **Normal Summon Cactus Bouncer.** Set Triple Tactics Talent.
+
+**End board:** Teardrop, Hyperyton (monster + Spell material), Sacred Queen Strenna, Cactus Bouncer, Konkon, set Rikka Sheet, set Triple Tactics Talent. Hand: **Rikka Princess** (negate), Dracaena #2, Lilizard, Super Poly. They can't Special Summon while Cactus and another Plant are up.
+
+**Mistake I made live (25 Nov):** first version attached Rikka Princess in step 6 (then Glamour can't find her: 1 copy) and had Dracaena send Lilizard (already searched). Corrected within a minute; check copy counts before planning a search.
