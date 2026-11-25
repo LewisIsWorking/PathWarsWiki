@@ -73,5 +73,10 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **Right answer:** the whole "Hand 6" line in **one** numbered message, start to end board (sets and what to hold included): Predap half to Jasmine first (Moonlit's Plant-Xyz lock comes after), then Moonlit adds **Primrose** and sends **Hellebore** → Teardrop, Hyperyton, Kanzashi, Cactus.
 - **What went wrong:** coached without the skill (no card text, no checker). The first message was a partial plan with "Moonlit: add Black Princess, send Black Princess #2" (illegal: different names), so Mudan #2 went to the GY; then it was mis-explained as "Moonlit sends from the hand". Lewis had to wait for each next step mid-combo. `KNOWN BAD: Hand 6, Moonlit Waters takes two Black Princess`.
 
+## S15. Sky Striker, going 2nd, Zero + 4 sets (25 Nov 2026)
+- **Hand:** Black Princess, Hellebore, Instant Fusion, Glamour, Predaprimitive, Moonlit Waters.
+- **Right answer:** "Sky Striker: Zero + 4 sets" (`lines_handfit.cue`): Predaprimitive (Super Poly) → Instant Fusion → Lilizard makes Zero DARK → **Super Poly before any Rikka lock**: Zero + Ambulomelides → Starving Venom → then the Rikka half, Venom + Hellebore → Teardrop. One full plan up front.
+- **What went wrong:** Moonlit and Black Princess first, so Super Poly was dead (`KNOWN BAD: Sky Striker, Super Poly after the Rikka locks`). Advice told him to change Mudan's position (can't on the turn it was summoned) and implied Glamour/Moonlit Tributes are required (they're optional). Widow Anchor stole Petal; Forbidden Crown stopped Mudan.
+
 ## More
 Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.

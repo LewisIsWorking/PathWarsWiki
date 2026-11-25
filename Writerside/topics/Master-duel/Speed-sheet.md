@@ -72,6 +72,17 @@ See also: [Tournament decks](Tournament-decks.md), [Witchcrafter](Witchcrafter.m
 
 **Default move:** Witchcrafter main line.
 
+### Sky Striker vs PredaRikka (ranked, ニノマエ, 25 Nov)
+
+| Card | What it does | Answer |
+| --- | --- | --- |
+| **Sky Striker Ace = Zero** (Link-2, **LIGHT Machine**, EMZ) | Quick: Tribute it → **Raye** (DARK Warrior) + **Roze** (LIGHT Warrior) from Deck/GY, then destroy 1 card. One Zero effect per turn. | Bait it with **Predaprimitive** (cheap Spell). Then **Super Poly** it: **Lilizard makes Zero DARK**, then Zero + a DARK Predaplant → **Starving Venom** (a Dragon, so Predaprimitive's lock allows it). If it already Tributed: Raye + DARK Predaplant → Starving Venom. |
+| **Widow Anchor** (set) | Negate a face-up monster; take it if 3+ Spells in their GY. Needs **their Main Monster Zone empty**. | Bait with Petal / Ambulomelides. Leaving Raye or Roze in their Main zone turns it (and Engage, Hornet Drones) off. Moonlit Waters **with a Tribute** stops them targeting your Rikka monsters that turn. |
+| **Forbidden Crown** (set) | One face-up monster this turn: effects negated, can't be Tributed or used as material, unaffected by activated effects. No monster responses. | Expect it on your key searcher (it hit Mudan). That monster is dead for the turn, so keep a second Level 6 / Plant body in the plan. |
+| **Kagari** (Link-1, FIRE Machine) | Adds a Sky Striker Spell back on summon. | Konkon Tribute, Teardrop Tribute. |
+
+**Rule for this match: Super Poly first.** Every Rikka step locks you to Plants (Petal, Black Princess, Konkon, Primrose, Rikka Princess) or Plant Xyz (Moonlit), and Starving Venom / Garura aren't Plants. Full line: "Sky Striker: Zero + 4 sets" on the [Rikka](Rikka.md) page.
+
 ### Blue-Eyes (ranked: IG:savic_r97, 21 Nov)
 
 | Card | What it does | Answer |
@@ -166,6 +177,7 @@ Every line here passes the line checker (`tools/line-check`). Full steps on the 
 | Going 1st, Predaprimitive or Instant Fusion (PredaRikka) | **Predaprimitive → Cactus** | Proven |
 | Going 1st, Predaprimitive + Konkon + spare Longinephila | **Line C** | UNTESTED |
 | Going 1st, Predaprimitive + Instant Fusion + Moonlit Waters + Mudan | **Hand 6**: Predap half to Jasmine first, then Moonlit (Primrose + Hellebore) → Teardrop, Hyperyton, Kanzashi, Cactus | UNTESTED |
+| Going 2nd into Sky Striker = Zero + backrow, Super Poly reachable | **Super Poly first**, before any Rikka lock: Lilizard makes Zero DARK → Starving Venom. Then Venom + Hellebore → Teardrop | UNTESTED |
 | Going 1st, Rikka Princess already out + Mudan | **Rikka Princess + Mudan + Sheet** | UNTESTED |
 | Going 2nd into Horus (Sons + both Sarcophagi) | **Horus break**: Teardrop the Rikka Sacred Queen detaches **2**, then attack | UNTESTED |
 | Going 2nd into Machina Fortress, Predaprimitive + Glamour + Dracaena + Lilizard | **Machina: Hand 4 lethal**: Glamour Tributes Fortress through Konkon; Rikka Queen Strenna gets a material | UNTESTED |

@@ -160,6 +160,9 @@ Errors in live advice this session; check these before sending a line:
 - **Rikka Princess / Hellebore negates: Tribute a Plant the line doesn't need any more**, then recount lethal (Elfnote turn 8: Tributing Primrose cost the Teardrop).
 - **Moonlit Waters takes both monsters from the Deck: same Level, different names.** Add one, send the other. Two Black Princess is illegal; with Mudan #1 in hand, the Level 6 pair is Mudan #2 + Black Princess. (Hand 6: the advice was wrong, and it was then mis-explained as "Moonlit sends from the hand". It doesn't.)
 - **Moonlit Waters locks the Extra Deck to Plant Xyz.** In PredaRikka, do Instant Fusion, Bal Teah and Jasmine **before** it (only vs a known Droll player is Moonlit-first worth losing them).
+- **Position changes:** once per turn per monster, and never on the turn it was summoned (Mudan summoned in Defence stays in Defence). Don't plan a switch.
+- **Glamour and Moonlit Waters Tributes are optional.** Without one, Glamour adds only the Rikka monster and Moonlit gives no targeting protection.
+- **Super Poly before any Rikka lock.** Petal, Black Princess, Konkon, Primrose and Rikka Princess lock you to Plants; Moonlit to Plant Xyz; Predaprimitive to Plant/Dragon. So the only Super Poly target that fits a PredaRikka turn is **Starving Venom** (Dragon, 2 DARK), played right after Predaprimitive. **Lilizard** makes any face-up monster DARK for it.
 - **Send the whole combo on the first screenshot**, start to end board, with sets and what to hold. Lewis shouldn't have to wait for the next step mid-combo.
 
 ## Game log
@@ -174,6 +177,7 @@ Errors in live advice this session; check these before sending a line:
 | 25 Nov 2026 | Machina (ranked, bilotahn) | 2nd | **Won** (surrender, turn 3) | Sample Hand 4 into Machina Fortress. **Ash** on Predaprimitive (Byblisp still found Longinephila), **Ghost Belle** on Bal Teah's Lilizard revive. Improvised Byblisp + Fortress (Predator Counter) into **Predaplant Daredevil**, Konkon/Glamour, Sacred Queen Strenna, Hellebore, set Sheet. **Hyperyton never came out** (most likely Rikka Queen Strenna had no material). Attacks left them on 1900; they surrendered on turn 3. |
 | 25 Nov 2026 | Elfnote / Power Patron (ranked, trampaslocas) | 2nd | **Lost** (turn 9) | Sample Hand 5. **Evenly Matched** on our turn took them to 1 card (kept Strelitzia), then **Ash on Moonlit Waters**. Cactus + their Strelitzia (a Plant) locked both players' Special Summons. Built Longinephila; they removed Cactus. **Baronne** negated the Dracaena bait, **Tinia** banished Lilizard from hand. Hellebore went in Defence and died. Turn 8: **Little Knight** went for Mudan, Rikka Princess (Tributing Primrose) negated it, which cost the Teardrop lethal line. Lost on turn 9. |
 | 25 Nov 2026 | Unknown (ranked) | 1st | **Won** (surrender, turn 1) | Sample Hand 6 (Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Coached without the skill. Advice said "Moonlit: add Black Princess, send Black Princess #2", which is illegal (the two must have different names), so Mudan #2 went to the GY. Lewis improvised to Konkon, Primrose, Sacred Queen Strenna, Rikka Queen Strenna, Longinephila, set Glamour; hand Lilizard, Instant Fusion, TTT, Super Poly. They surrendered. Full line for the hand is under Sample Hand 6. |
+| 25 Nov 2026 | Sky Striker (ranked, ニノマエ) | 2nd | **Likely lost** | Sample Hand 7 into Zero + 4 sets. Moonlit (Mudan), Black Princess → Petal; **Widow Anchor** negated and stole Petal. Predaprimitive (Super Poly), Byblisp → Longinephila, Normal Summoned; Zero Tributed for Raye + Roze and destroyed it. Lilizard Tributed for Mudan; **Forbidden Crown** negated Mudan's search. Glamour (Tributing Byblisp) → Rikka Princess + Cactus. Ended Rikka Princess + Mudan, Super Poly set but **dead** (the Rikka locks were already on). Coaching mistakes: no full plan up front, told him to change a position he couldn't, implied Glamour/Moonlit must Tribute. |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
@@ -510,3 +514,28 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 **Their turn:** Cactus + any other Plant: nobody can Special Summon (your Super Poly too). Order: Rikka Princess / Hyperyton on their first monster effect, Sheet on a face-up threat, Teardrop's Tribute last (Quick). Kanzashi Tributes a Plant instead of your Plants being destroyed.
 
 **If something is negated:** Droll on step 1 or 2 stops every add (Ambulomelides, Longinephila, Moonlit, Mudan, Glamour): Triple Tactics Talent is now live, take a card from their hand, then send a screenshot. Ash on Predaprimitive: skip step 1, Instant Fusion still starts the line (Ambulomelides adds Lilizard instead).
+
+### Hand 7: Black Princess, Hellebore, Instant Fusion, Glamour, Predaprimitive, Moonlit Waters (going 2nd into Sky Striker)
+
+**Their board:** Sky Striker Ace = Zero (Link-2, LIGHT Machine, EMZ) + 4 set cards (Widow Anchor and Forbidden Crown among them). Text checked 25 Nov 2026.
+
+**What went wrong:** Moonlit Waters and Black Princess went first, which locked the turn to Plants / Plant Xyz, so the Super Poly that Predaprimitive found later could never be used. Widow Anchor stole Petal, Zero destroyed Longinephila, Forbidden Crown stopped Mudan.
+
+**Do I need a new Extra Deck card?** No. **Starving Venom** (2 DARK monsters on the field) is already in the Extra Deck, it's a Dragon so Predaprimitive's lock allows it, and **Lilizard** turns Zero DARK. Raye is DARK already. **Mudragon of the Swamp** (2 of the same Attribute, different Types) fuses Zero + Roze (both LIGHT) with no help, but it's a Wyrm: Predaprimitive's lock blocks it, so it only works with a naturally drawn Super Poly. Not worth an Extra Deck slot yet.
+
+**Line (UNTESTED, passes the checker: "Sky Striker: Zero + 4 sets"):**
+1. **Predaprimitive:** send Byblisp, add **Super Poly** (cheap bait for Zero and the backrow). **Byblisp:** add **Lilizard**.
+2. **Instant Fusion** → Ambulomelides; it adds **Longinephila**.
+3. Special Summon **Lilizard**. **Lilizard:** target **Zero**, it becomes DARK. (If they answer with Zero's Tribute, Raye is the DARK target instead and Roze stays in their Main zone, which turns off Widow Anchor.)
+4. **Super Poly**, discard **Hellebore**: Zero (or Raye) + Ambulomelides → **Starving Venom**. Nobody can respond.
+5. **Normal Summon Longinephila:** add Predaprimitive. Synchro **Longinephila + Lilizard** → Bal Teah; Lilizard back, draw 1.
+6. **Longinephila (GY):** Predator Counter on anything. **Byblisp** from the GY. Link **Bal Teah + Lilizard** → **Jasmine**.
+7. **Jasmine:** Tribute Byblisp → **Mudan** from the Deck; it adds **Konkon**. **Konkon:** set Rikka Sheet.
+8. **Hellebore (GY):** Tribute **Jasmine** → Hellebore. Xyz **Starving Venom + Hellebore** (two Level 8s) → **Teardrop**.
+9. Special Summon **Black Princess** from hand (all your monsters are Plants again).
+10. **Moonlit Waters**: add Mudan #2, send Black Princess #2. Tribute is optional: Tribute (through Konkon, their monster) if you need the no-targeting protection against Widow Anchor.
+11. Xyz **Mudan + Black Princess** → Sacred Queen Strenna. Detach 2 → Rikka Queen Strenna, attach Black Princess #3.
+12. **Glamour**, Tributing Rikka Queen Strenna: add Rikka Princess + Cactus. Strenna → **Hyperyton**; chain Hyperyton to attach Moonlit.
+13. **Attack** with what's left on an open field: Teardrop 3000, Hyperyton 2600, Sacred Queen Strenna 2000.
+
+**End:** Teardrop, Hyperyton, Sacred Queen Strenna, Konkon, set Sheet; Rikka Princess + Cactus + Mudan #2 in hand. Every step after step 4 is a target for their 4 sets: expect to re-plan after each negate, but **step 4 is the one that must happen early**.

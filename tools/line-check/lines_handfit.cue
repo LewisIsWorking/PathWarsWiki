@@ -315,3 +315,60 @@ lines: "KNOWN BAD: Hand 6, Moonlit Waters takes two Black Princess": {
 	]
 	end: mmz: []
 }
+
+// 25 Nov 2026 (~12:15), ranked, going 2nd into Sky Striker: Sky Striker Ace = Zero (Link-2, LIGHT Machine, EMZ) + 4 set cards
+// (Widow Anchor and Forbidden Crown among them). Hand: Black Princess, Hellebore, Instant Fusion, Glamour, Predaprimitive, Moonlit Waters.
+// Key: Super Poly BEFORE any Rikka lock (Petal, Black Princess, Konkon, Primrose, Rikka Princess: Plant only; Moonlit: Plant Xyz only).
+// Under Predaprimitive's Plant/Dragon lock the target is Starving Venom (Dragon): Lilizard makes Zero DARK, then Zero + a DARK Predaplant.
+lines: "Sky Striker: Zero + 4 sets, Super Poly first (Starving Venom)": {
+	source: "Claude, 25 Nov 2026 (review of the loss)"
+	status: "untested"
+	deck:   "PredaRikka"
+	hand: ["Rikka Black Princess", "Hellebore the Rikka Fairy", "Instant Fusion", "Rikka Glamour", "Predaprimitive", "Rikka Moonlit Waters"]
+	steps: [
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Super Polymerization"], note: "cheap bait for Zero"},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Lilizard"]},
+		{card: "Instant Fusion", action: "activate", zone: "hand", effect: "activate", summons: "Predaplant Ambulomelides"},
+		{card: "Predaplant Ambulomelides", action: "effect", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Predaplant Lilizard", action: "special_summon", zone: "hand", effect: "summon_self"},
+		{card: "Predaplant Lilizard", action: "effect", effect: "dark", note: "Zero becomes DARK"},
+		{card: "Super Polymerization", action: "activate", zone: "hand", effect: "activate", fromHand: ["Hellebore the Rikka Fairy"], consumes: ["opp:Sky Striker Ace = Zero", "Predaplant Ambulomelides"], summons: "Starving Venom Fusion Dragon", note: "discard Hellebore; no responses"},
+		{card: "Predaplant Longinephila", action: "normal_summon", zone: "hand"},
+		{card: "Predaplant Longinephila", action: "effect", effect: "search", fromDeck: ["Predaprimitive"]},
+		{card: "Predaplant Bal Teah", action: "synchro", zone: "extra", consumes: ["Predaplant Longinephila", "Predaplant Lilizard"]},
+		{card: "Predaplant Bal Teah", action: "effect", effect: "revive", summons: "Predaplant Lilizard"},
+		{card: "Predaplant Lilizard", action: "effect", effect: "draw"},
+		{card: "Predaplant Longinephila", action: "effect", zone: "gy", effect: "gy"},
+		{card: "Predaplant Byblisp", action: "special_summon", zone: "gy", effect: "revive"},
+		{card: "Aromaseraphy Jasmine", action: "link", zone: "extra", consumes: ["Predaplant Bal Teah", "Predaplant Lilizard"]},
+		{card: "Aromaseraphy Jasmine", action: "effect", effect: "tribute", consumes: ["Predaplant Byblisp"], summons: "Mudan the Rikka Fairy", fromDeck: ["Mudan the Rikka Fairy"]},
+		{card: "Mudan the Rikka Fairy", action: "effect", effect: "search", fromDeck: ["Rikka Konkon"]},
+		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
+		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Sheet"]},
+		{card: "Hellebore the Rikka Fairy", action: "special_summon", zone: "gy", effect: "revive", consumes: ["Aromaseraphy Jasmine"]},
+		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Starving Venom Fusion Dragon", "Hellebore the Rikka Fairy"], note: "2 Level 8 monsters: Venom counts"},
+		{card: "Rikka Black Princess", action: "special_summon", zone: "hand", effect: "summon_self", lock: "plant"},
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", lock: "extra_plant_xyz", fromDeck: ["Mudan the Rikka Fairy", "Rikka Black Princess"], note: "no Tribute (optional): add Mudan #2, send Black Princess #2"},
+		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna", attach: ["Rikka Black Princess"], fromDeck: ["Rikka Black Princess"]},
+		{card: "Rikka Glamour", action: "activate", zone: "hand", effect: "activate", consumes: ["Rikka Queen Strenna"], fromDeck: ["Rikka Princess", "Cactus Bouncer"]},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton"},
+		{card: "Sacred Tree Beast, Hyperyton", action: "effect", effect: "attach", note: "chain to Glamour: attach Moonlit Waters"},
+	]
+	end: mmz: ["Teardrop the Rikka Queen", "Rikka Sacred Queen Strenna", "Sacred Tree Beast, Hyperyton"]
+}
+
+// What happened: Super Poly searched AFTER Moonlit Waters and Black Princess locked the turn to Plants, so it could never resolve.
+lines: "KNOWN BAD: Sky Striker, Super Poly after the Rikka locks": {
+	source: "Live game, 25 Nov 2026 (~12:15)"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: ["Rikka Black Princess", "Hellebore the Rikka Fairy", "Instant Fusion", "Rikka Glamour", "Predaprimitive", "Rikka Moonlit Waters"]
+	startField: ["Predaplant Lilizard"]
+	steps: [
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", lock: "extra_plant_xyz", fromDeck: ["Mudan the Rikka Fairy", "Rikka Black Princess"]},
+		{card: "Rikka Black Princess", action: "special_summon", zone: "gy", effect: "summon_self", lock: "plant"},
+		{card: "Super Polymerization", action: "activate", zone: "hand", effect: "activate", fromHand: ["Hellebore the Rikka Fairy"], consumes: ["opp:Sky Striker Ace - Raye", "Predaplant Lilizard"], summons: "Starving Venom Fusion Dragon"},
+	]
+	end: mmz: []
+}
