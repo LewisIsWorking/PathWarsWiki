@@ -12,7 +12,7 @@ cards: {
 	"Rikka Princess": {kind: "monster", race: "Plant", level: 4, effects: ["summon_self", "negate"], atk: 0}
 	"Rikka Konkon": {kind: "spell", effects: ["activate", "set", "replace_tribute"], notOpt: ["activate"]}
 	"Rikka Glamour": {kind: "spell", effects: ["activate"], addEffects: ["activate"]}
-	"Rikka Moonlit Waters": {kind: "spell", effects: ["activate"], gyEffects: ["activate"], addEffects: ["activate"]}
+	"Rikka Moonlit Waters": {kind: "spell", effects: ["activate"], gyEffects: ["activate"], addEffects: ["activate"], pairEffects: ["activate"]} // 2 Rikka monsters from the DECK, same Level, different names: add 1, send 1
 	"Rikka Sheet": {kind: "trap", effects: ["activate"]}
 	"Rikka Queen Strenna": {frame: "xyz", kind: "monster", race: "Plant", level: 4, effects: ["add", "tributed"], atk: 2000, needsMaterial: ["add", "tributed"]}
 	"Rikka Sacred Queen Strenna": {frame: "xyz", kind: "monster", race: "Plant", level: 6, effects: ["summon_xyz", "set_trap"], atk: 2000, defEffects: ["summon_xyz"]}

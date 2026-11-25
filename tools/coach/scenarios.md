@@ -68,5 +68,10 @@ Real positions from Lewis's games, with the answer we now know is right and the 
 - **Right answer:** "Elfnote turn 8 lethal" (`lines_handfit.cue`, UNTESTED): Moonlit → Black Princess → Petal → Mudan + Primrose → Konkon sets Glamour → Sacred Queen Strenna (Attack) → Rikka Queen Strenna (attach Mudan) → Glamour Tributes Lucina via Konkon → Hellebore Tributes Rikka Queen Strenna → Hyperyton (Attack) → Primrose + Hellebore → Teardrop → Teardrop Tributes Little Knight → Normal Summon Lilizard: 3000 + 2600 + 2000 + 1200 = 8800. **Little Knight's Quick Effect answers any activation**: when Rikka Princess negates it, **Tribute a Plant the rest of the line doesn't need**, then recount the lethal.
 - **What went wrong:** Rikka Princess Tributed **Primrose**, which the Teardrop Xyz needed (`KNOWN BAD: Elfnote turn 8, Rikka Princess Tributes Primrose`). Lost on turn 9.
 
+## S14. Unknown deck, going 1st, first screenshot (25 Nov 2026)
+- **Hand:** Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters. Timer ~4:45.
+- **Right answer:** the whole "Hand 6" line in **one** numbered message, start to end board (sets and what to hold included): Predap half to Jasmine first (Moonlit's Plant-Xyz lock comes after), then Moonlit adds **Primrose** and sends **Hellebore** → Teardrop, Hyperyton, Kanzashi, Cactus.
+- **What went wrong:** coached without the skill (no card text, no checker). The first message was a partial plan with "Moonlit: add Black Princess, send Black Princess #2" (illegal: different names), so Mudan #2 went to the GY; then it was mis-explained as "Moonlit sends from the hand". Lewis had to wait for each next step mid-combo. `KNOWN BAD: Hand 6, Moonlit Waters takes two Black Princess`.
+
 ## More
 Add each new position here after every game (board, hand, right answer, what went wrong), plus a checker line where the mistake was a line.

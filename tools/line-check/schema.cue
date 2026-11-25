@@ -8,6 +8,7 @@
 //   - summon locks (Plant only, Plant or Dragon, Moonlit's Plant Xyz only, Cactus) allow every later summon
 //   - Dark Law: no step that sends a card to your GY
 //   - Droll: no step that must add from the Deck once Droll resolved
+//   - Moonlit Waters takes 2 Deck monsters with the same Level and different names
 //   - an Xyz effect that needs material (Rikka Queen Strenna's float) still has some
 //   - lethal: only Attack-position monsters on the end board count, and the ATK adds up
 //   - locks already on from an earlier turn (Cactus Bouncer + any Plant on either field)
@@ -40,6 +41,9 @@ import (
 	defEffects: [...string] | *[]
 	// Effects that only work while this Xyz Monster has material (Rikka Queen Strenna's "if Tributed with material").
 	needsMaterial: [...string] | *[]
+	// Effects that take 2 monsters from the Deck with the same Level but different names
+	// (Moonlit Waters: add 1, send the other). Both come from the Deck, never the hand.
+	pairEffects: [...string] | *[]
 	atk?: int
 }
 
@@ -232,6 +236,16 @@ _specialActions: ["special_summon", "xyz", "synchro", "link", "fusion"]
 				[for _, v in lethal.bonus {v}],
 			]))
 			if total < lethal.lp {"lethal: attacks total \(total), they have \(lethal.lp) LP"}],
+
+		// Pair takes (Moonlit Waters): exactly 2 cards from the Deck, same Level, different names.
+		[for i, s in steps if s.effect != ""
+			let n = strings.Split(s.card, "#")[0]
+			if cards[n] != _|_
+			if list.Contains(cards[n].pairEffects, s.effect)
+			let ps = [for x in s.fromDeck {strings.Split(x, "#")[0]}]
+			if len(ps) != 2 || ps[0] == ps[len(ps)-1] || (cards[ps[0]] != _|_ && cards[ps[len(ps)-1]] != _|_ && cards[ps[0]].level != cards[ps[len(ps)-1]].level) {
+				"step \(i+1): \(n) takes 2 Rikka monsters from the Deck with the same Level and different names (got \(strings.Join(ps, " + ")))"
+			}],
 
 		// Dark Law: nothing can be sent to your GY.
 		[if darkLaw for i, s in steps

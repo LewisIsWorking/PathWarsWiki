@@ -165,6 +165,7 @@ Every line here passes the line checker (`tools/line-check`). Full steps on the 
 | Going 1st, Black Princess + any Plant | **Line B** (Hyperyton + Cactus). PredaRikka has 1 Rikka Princess: Strenna attaches Petal or Black Princess, not her | Proven (pure Rikka) |
 | Going 1st, Predaprimitive or Instant Fusion (PredaRikka) | **Predaprimitive → Cactus** | Proven |
 | Going 1st, Predaprimitive + Konkon + spare Longinephila | **Line C** | UNTESTED |
+| Going 1st, Predaprimitive + Instant Fusion + Moonlit Waters + Mudan | **Hand 6**: Predap half to Jasmine first, then Moonlit (Primrose + Hellebore) → Teardrop, Hyperyton, Kanzashi, Cactus | UNTESTED |
 | Going 1st, Rikka Princess already out + Mudan | **Rikka Princess + Mudan + Sheet** | UNTESTED |
 | Going 2nd into Horus (Sons + both Sarcophagi) | **Horus break**: Teardrop the Rikka Sacred Queen detaches **2**, then attack | UNTESTED |
 | Going 2nd into Machina Fortress, Predaprimitive + Glamour + Dracaena + Lilizard | **Machina: Hand 4 lethal**: Glamour Tributes Fortress through Konkon; Rikka Queen Strenna gets a material | UNTESTED |

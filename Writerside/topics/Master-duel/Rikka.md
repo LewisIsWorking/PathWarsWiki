@@ -158,6 +158,9 @@ Errors in live advice this session; check these before sending a line:
 - **Cactus Bouncer counts any other Plant on either field**, theirs too (Elfnote Seraphim Strelitzia is a Plant).
 - **Evenly Matched works at the end of your own Battle Phase** when going second: enter the Battle Phase with 0 cards, then combo in Main Phase 2.
 - **Rikka Princess / Hellebore negates: Tribute a Plant the line doesn't need any more**, then recount lethal (Elfnote turn 8: Tributing Primrose cost the Teardrop).
+- **Moonlit Waters takes both monsters from the Deck: same Level, different names.** Add one, send the other. Two Black Princess is illegal; with Mudan #1 in hand, the Level 6 pair is Mudan #2 + Black Princess. (Hand 6: the advice was wrong, and it was then mis-explained as "Moonlit sends from the hand". It doesn't.)
+- **Moonlit Waters locks the Extra Deck to Plant Xyz.** In PredaRikka, do Instant Fusion, Bal Teah and Jasmine **before** it (only vs a known Droll player is Moonlit-first worth losing them).
+- **Send the whole combo on the first screenshot**, start to end board, with sets and what to hold. Lewis shouldn't have to wait for the next step mid-combo.
 
 ## Game log
 
@@ -170,6 +173,7 @@ Errors in live advice this session; check these before sending a line:
 | 25 Nov 2026 | Rikka (ranked, Sloth) | 1st | **Lost** | Sample Hand 3 (Dracaena ×2, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Dracaena, then Predaprimitive (Super Poly) → **Droll** on Byblisp's search. Moonlit Waters couldn't be activated under Droll. Talent took a card from their hand; Dracaena ×2 → Sylvan Dancepione got **Ashed**. Ended on Dancepione + set Super Poly. Lesson: Moonlit Waters first, searches after. See [Speed sheet: Sloth](Speed-sheet.md). |
 | 25 Nov 2026 | Machina (ranked, bilotahn) | 2nd | **Won** (surrender, turn 3) | Sample Hand 4 into Machina Fortress. **Ash** on Predaprimitive (Byblisp still found Longinephila), **Ghost Belle** on Bal Teah's Lilizard revive. Improvised Byblisp + Fortress (Predator Counter) into **Predaplant Daredevil**, Konkon/Glamour, Sacred Queen Strenna, Hellebore, set Sheet. **Hyperyton never came out** (most likely Rikka Queen Strenna had no material). Attacks left them on 1900; they surrendered on turn 3. |
 | 25 Nov 2026 | Elfnote / Power Patron (ranked, trampaslocas) | 2nd | **Lost** (turn 9) | Sample Hand 5. **Evenly Matched** on our turn took them to 1 card (kept Strelitzia), then **Ash on Moonlit Waters**. Cactus + their Strelitzia (a Plant) locked both players' Special Summons. Built Longinephila; they removed Cactus. **Baronne** negated the Dracaena bait, **Tinia** banished Lilizard from hand. Hellebore went in Defence and died. Turn 8: **Little Knight** went for Mudan, Rikka Princess (Tributing Primrose) negated it, which cost the Teardrop lethal line. Lost on turn 9. |
+| 25 Nov 2026 | Unknown (ranked) | 1st | **Won** (surrender, turn 1) | Sample Hand 6 (Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters). Coached without the skill. Advice said "Moonlit: add Black Princess, send Black Princess #2", which is illegal (the two must have different names), so Mudan #2 went to the GY. Lewis improvised to Konkon, Primrose, Sacred Queen Strenna, Rikka Queen Strenna, Longinephila, set Glamour; hand Lilizard, Instant Fusion, TTT, Super Poly. They surrendered. Full line for the hand is under Sample Hand 6. |
 
 ## PredaRikka (Lewis's second Rikka deck, 21 Nov 2026)
 
@@ -466,3 +470,43 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 **Turn 8 (UNTESTED):** LP 5400 vs 8000. Their field: Lucina (2500) + **S:P Little Knight** (Extra Monster Zone); 2 in hand. Your hand: Lilizard, Moonlit Waters; field empty. Line sent (needs Hellebore in the GY): Moonlit (Mudan, Black Princess to GY) → Black Princess → Petal → Primrose → Mudan (Konkon) + Primrose (Black Princess #2) → Konkon sets **Glamour** → Sacred Queen Strenna (Attack) → Rikka Queen Strenna (attach Mudan #2) → **Glamour Tributes Lucina via Konkon** (Sheet set) → Hellebore Tributes Rikka Queen Strenna → **Hyperyton (Attack)** → Primrose + Hellebore → **Teardrop** → Teardrop Tributes Little Knight (+200 ATK) → Normal Summon Lilizard → Teardrop 3000 + Hyperyton 2600 + Strenna 2000 + Lilizard 1200 = **8800**.
 
 **Takeaway:** Ash would have hit Moonlit Waters in Main Phase 1 too, so Evenly Matched first was still right: it removed 3 of their 4 cards for free. With one starter in hand, expect a hand-trapped combo and make sure Cactus still lands.
+
+### Hand 6: Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters (going 1st, unknown deck)
+
+**Status: UNTESTED** (passes the line checker: `Hand 6` in `tools/line-check/lines_handfit.cue`). Live game 25 Nov: won by surrender on turn 1 with an improvised board (see the Game log).
+
+**Key ideas (card text checked 25 Nov 2026):**
+- **Two engines.** Instant Fusion + Predaprimitive run the Predap half to Jasmine; Moonlit Waters + Mudan run the Rikka half.
+- **Moonlit Waters locks the Extra Deck to Plant Xyz** once it resolves, so Ambulomelides, Bal Teah and Jasmine come first.
+- **Moonlit takes 2 from the Deck, same Level, different names.** Here: **Primrose + Hellebore** (Level 8). Do it before Petal or Primrose leave the Deck.
+- **Black Princess Tributes Longinephila from the hand** (Line C upgrade) for Mudan #2; Mudan #1 in hand then summons itself as an extra Level 6 for Kanzashi.
+- **Triple Tactics Talent is dead going first** unless they activate a monster effect in your Main Phase (Droll, Ash, Maxx "C"): then take a card from their hand (draw 2 is blocked under Droll).
+
+**Line (UNTESTED):**
+1. **Predaprimitive:** send **Byblisp**, add **Super Poly**. (Plant/Dragon lock.) **Byblisp (GY):** add **Lilizard**.
+2. **Instant Fusion** (pay 1000) → **Ambulomelides**. It adds **Longinephila**.
+3. Special Summon **Lilizard** from hand (skip its Polymerization add; the deck has none).
+4. **Ambulomelides:** Tribute itself → **Longinephila #2** from the Deck. It adds **Predaprimitive** (spare, a Super Poly discard).
+5. Synchro **Longinephila #2 + Lilizard** → **Bal Teah** in a **Main** Monster Zone. **Bal Teah:** Lilizard from the GY; **Lilizard:** draw 1.
+6. **Longinephila #2 (GY):** banish it, Predator Counter on **Lilizard**.
+7. **Byblisp (GY):** Special Summon it into a zone Jasmine will point at (diagonally below the Extra Monster Zone).
+8. Link **Bal Teah + Lilizard** → **Aromaseraphy Jasmine** in the Extra Monster Zone.
+9. **Jasmine:** Tribute Byblisp → **Rikka Petal** from the Deck.
+10. **Moonlit Waters** (no Tribute): add **Primrose**, send **Hellebore** to the GY. (Plant Xyz only from now on.)
+11. **Petal:** send **Black Princess** to the GY. **Black Princess:** Special Summon her from the GY.
+12. **Black Princess:** Tribute **Longinephila from your hand** → **Mudan #2** from the Deck. Chain: **Mudan #2** adds **Konkon**; **Primrose** → Primrose + **Black Princess #2** from the Deck (Defence). Five Main zones full.
+13. **Konkon:** activate, set **Glamour**.
+14. **Mudan #1** (hand): Tribute **Petal** → Mudan #1 (no search: Mudan's search is used).
+15. Xyz **Mudan #2 + Black Princess** → **Sacred Queen Strenna**. Detach 2 → **Rikka Queen Strenna**, **attach Black Princess #3** from the Deck (keep Rikka Princess there for Glamour).
+16. Xyz **Mudan #1 + Black Princess #2** → **Kanzashi**.
+17. **Hellebore (GY):** Tribute **Rikka Queen Strenna** → Hellebore. Chain: Strenna → **Hyperyton** (attach Strenna); Sacred Queen Strenna → set **Rikka Sheet**. (Decline Kanzashi: no zone.)
+18. Xyz **Primrose + Hellebore** → **Teardrop the Rikka Queen**.
+19. **Glamour**, Tributing **Sacred Queen Strenna** (0 materials left): add **Rikka Princess + Cactus Bouncer**. Chain **Hyperyton: attach Moonlit Waters** (a Spell). Then **Kanzashi:** detach 1, revive **Sacred Queen Strenna** (negated, a spare Plant).
+20. **Normal Summon Cactus Bouncer** last.
+21. Set **Super Poly** and **Triple Tactics Talent**.
+
+**End:** Teardrop (Quick Tribute: it has Plant material), Hyperyton (monster + Spell material), Kanzashi (Plant protection), Sacred Queen Strenna, Cactus Bouncer, Jasmine, Konkon, set Rikka Sheet + Super Poly + TTT. Hand: **Rikka Princess** (negate; Konkon lets her Tribute their monster), Predaprimitive, the Lilizard draw. LP 7000.
+
+**Their turn:** Cactus + any other Plant: nobody can Special Summon (your Super Poly too). Order: Rikka Princess / Hyperyton on their first monster effect, Sheet on a face-up threat, Teardrop's Tribute last (Quick). Kanzashi Tributes a Plant instead of your Plants being destroyed.
+
+**If something is negated:** Droll on step 1 or 2 stops every add (Ambulomelides, Longinephila, Moonlit, Mudan, Glamour): Triple Tactics Talent is now live, take a card from their hand, then send a screenshot. Ash on Predaprimitive: skip step 1, Instant Fusion still starts the line (Ambulomelides adds Lilizard instead).

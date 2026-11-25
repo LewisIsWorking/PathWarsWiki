@@ -250,3 +250,68 @@ lines: "KNOWN BAD: Elfnote turn 8, Rikka Princess Tributes Primrose": {
 	]
 	end: mmz: ["Teardrop the Rikka Queen"]
 }
+
+// 25 Nov 2026 (~12:00), ranked, going 1st vs unknown deck (they surrendered turn 1).
+// Hand: Mudan, Instant Fusion, Triple Tactics Talent, Predaprimitive, Moonlit Waters.
+// The full line we should have sent on the first screenshot. Predap Extra Deck summons
+// (Fusion, Synchro, Link) all happen BEFORE Moonlit Waters (its lock: Plant Xyz only).
+lines: "Hand 6: Mudan + Instant Fusion + Predaprimitive + Moonlit Waters + TTT": {
+	source: "Claude, 25 Nov 2026 (from the proven Predaprimitive line + Line 1)"
+	status: "untested"
+	deck:   "PredaRikka"
+	hand: ["Mudan the Rikka Fairy", "Instant Fusion", "Triple Tactics Talent", "Predaprimitive", "Rikka Moonlit Waters"]
+	steps: [
+		{card: "Predaprimitive", action: "activate", zone: "hand", effect: "activate", lock: "plant_or_dragon", fromDeck: ["Predaplant Byblisp", "Super Polymerization"]},
+		{card: "Predaplant Byblisp", action: "effect", zone: "gy", effect: "search", fromDeck: ["Predaplant Lilizard"]},
+		{card: "Instant Fusion", action: "activate", zone: "hand", effect: "activate", summons: "Predaplant Ambulomelides", note: "pay 1000 LP"},
+		{card: "Predaplant Ambulomelides", action: "effect", effect: "search", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Predaplant Lilizard", action: "special_summon", zone: "hand", effect: "summon_self"},
+		{card: "Predaplant Ambulomelides", action: "effect", effect: "tribute", consumes: ["Predaplant Ambulomelides"], summons: "Predaplant Longinephila#2", fromDeck: ["Predaplant Longinephila"]},
+		{card: "Predaplant Longinephila#2", action: "effect", effect: "search", fromDeck: ["Predaprimitive"], note: "spare: Super Poly discard"},
+		{card: "Predaplant Bal Teah", action: "synchro", zone: "extra", consumes: ["Predaplant Longinephila#2", "Predaplant Lilizard"], note: "Main Monster Zone"},
+		{card: "Predaplant Bal Teah", action: "effect", effect: "revive", summons: "Predaplant Lilizard"},
+		{card: "Predaplant Lilizard", action: "effect", effect: "draw"},
+		{card: "Predaplant Longinephila#2", action: "effect", zone: "gy", effect: "gy", note: "banish: Predator Counter on Lilizard"},
+		{card: "Predaplant Byblisp", action: "special_summon", zone: "gy", effect: "revive", note: "into the zone Jasmine will point to"},
+		{card: "Aromaseraphy Jasmine", action: "link", zone: "extra", consumes: ["Predaplant Bal Teah", "Predaplant Lilizard"]},
+		{card: "Aromaseraphy Jasmine", action: "effect", effect: "tribute", consumes: ["Predaplant Byblisp"], summons: "Rikka Petal", fromDeck: ["Rikka Petal"]},
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", lock: "extra_plant_xyz", fromDeck: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"], note: "no Tribute: add Primrose, send Hellebore"},
+		{card: "Rikka Petal", action: "effect", effect: "take", sendsToGY: true, lock: "plant", fromDeck: ["Rikka Black Princess"]},
+		{card: "Rikka Black Princess", action: "special_summon", zone: "gy", effect: "summon_self", lock: "plant"},
+		{card: "Rikka Black Princess", action: "effect", effect: "tribute_summon", fromHand: ["Predaplant Longinephila"], summons: "Mudan the Rikka Fairy#2", fromDeck: ["Mudan the Rikka Fairy"]},
+		{card: "Mudan the Rikka Fairy#2", action: "effect", effect: "search", fromDeck: ["Rikka Konkon"]},
+		{card: "Primrose the Rikka Fairy Duo", action: "special_summon", zone: "hand", effect: "tribute_trigger", summons: "Rikka Black Princess#2", fromDeck: ["Rikka Black Princess"]},
+		{card: "Rikka Konkon", action: "activate", zone: "hand", effect: "activate"},
+		{card: "Rikka Konkon", action: "effect", effect: "set", lock: "plant", fromDeck: ["Rikka Glamour"]},
+		{card: "Mudan the Rikka Fairy", action: "special_summon", zone: "hand", effect: "summon_self", consumes: ["Rikka Petal"], note: "no search (Mudan's search is used)"},
+		{card: "Rikka Sacred Queen Strenna", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy#2", "Rikka Black Princess"]},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "summon_xyz", detach: 2, summons: "Rikka Queen Strenna", attach: ["Rikka Black Princess"], fromDeck: ["Rikka Black Princess"], note: "attach Black Princess #3, keep Rikka Princess for Glamour"},
+		{card: "Kanzashi the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Mudan the Rikka Fairy", "Rikka Black Princess#2"]},
+		{card: "Hellebore the Rikka Fairy", action: "special_summon", zone: "gy", effect: "revive", consumes: ["Rikka Queen Strenna"]},
+		{card: "Rikka Queen Strenna", action: "effect", zone: "gy", effect: "tributed", summons: "Sacred Tree Beast, Hyperyton"},
+		{card: "Rikka Sacred Queen Strenna", action: "effect", effect: "set_trap", fromDeck: ["Rikka Sheet"]},
+		{card: "Teardrop the Rikka Queen", action: "xyz", zone: "extra", consumes: ["Primrose the Rikka Fairy Duo", "Hellebore the Rikka Fairy"]},
+		{card: "Rikka Glamour", action: "activate", zone: "field", effect: "activate", consumes: ["Rikka Sacred Queen Strenna"], fromDeck: ["Rikka Princess", "Cactus Bouncer"]},
+		{card: "Sacred Tree Beast, Hyperyton", action: "effect", effect: "attach", note: "chain to Glamour: attach Moonlit Waters (a Spell)"},
+		{card: "Kanzashi the Rikka Queen", action: "effect", effect: "revive", summons: "Rikka Sacred Queen Strenna", note: "detach 1: Sacred Queen Strenna back from the GY, effects negated"},
+		{card: "Cactus Bouncer", action: "normal_summon", zone: "hand", lock: "no_special"},
+	]
+	end: {
+		mmz: ["Teardrop the Rikka Queen", "Sacred Tree Beast, Hyperyton", "Kanzashi the Rikka Queen", "Rikka Sacred Queen Strenna", "Cactus Bouncer"]
+		emz: ["Aromaseraphy Jasmine"]
+	}
+}
+
+// The live advice on the first screenshot: "Moonlit Waters: add Black Princess, send Black Princess #2".
+// Moonlit takes 2 Rikka monsters from the DECK with the same Level and DIFFERENT names.
+// With Mudan #1 in hand, the only other Level 6 was Mudan #2, so Mudan went to the GY.
+lines: "KNOWN BAD: Hand 6, Moonlit Waters takes two Black Princess": {
+	source: "Live advice, 25 Nov 2026 (~12:00)"
+	status: "known_bad"
+	deck:   "PredaRikka"
+	hand: ["Mudan the Rikka Fairy", "Instant Fusion", "Triple Tactics Talent", "Predaprimitive", "Rikka Moonlit Waters"]
+	steps: [
+		{card: "Rikka Moonlit Waters", action: "activate", zone: "hand", effect: "activate", lock: "extra_plant_xyz", fromDeck: ["Rikka Black Princess", "Rikka Black Princess"]},
+	]
+	end: mmz: []
+}
