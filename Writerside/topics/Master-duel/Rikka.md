@@ -393,6 +393,14 @@ Copy counts used: Black Princess 3/3, Mudan 2/2, Petal, Rikka Princess, Hellebor
 
 **Live, part 2:** **Ghost Belle** negated Bal Teah's Lilizard revive (no Lilizard, no draw). Fix (UNTESTED): **Byblisp** from the GY (Fortress has the counter) → Link **Bal Teah + Dracaena** → Jasmine; Jasmine Tributes Byblisp → Black Princess → Tribute herself → Mudan → Konkon → set Moonlit → **Glamour Tributes Fortress via Konkon** (Black Princess + Mudan) → Sacred Queen Strenna → Rikka Queen Strenna → Moonlit Tributes her (Hyperyton + Sheet, Primrose + Hellebore) → Hellebore Tributes Jasmine → Primrose + Black Princess → Teardrop. Attack for 7400 (not lethal).
 
+**Live, part 3 (UNTESTED as played):** Lewis Tributed Byblisp + Fortress into **Predaplant Daredevil**, then Xyz'd Sacred Queen Strenna. Ended the Battle Phase with Sacred Queen Strenna, Hellebore (Defence), Bal Teah, Daredevil, Konkon, set Sheet; attacks took them to **1900**. **No Hyperyton came out.**
+
+**Positions, checked against card text (25 Nov):**
+- **Sacred Queen Strenna's detach** summons the Plant Xyz **in Defence** (so Rikka Queen Strenna can't attack). Attaching the Rikka monster afterwards is **optional ("you can")**: always attach one, or Rikka Queen Strenna has no material.
+- **Rikka Queen Strenna's float** ("if this card **with Xyz Material** is Tributed") has **no position lock**: Hyperyton / Kanzashi can come out in **Attack**. No material = no float.
+- **Hellebore's revive, Primrose's summon, Black Princess's summon from the Deck** (Jasmine too) are **Defence**.
+- Xyz Summons (Teardrop, Sacred Queen Strenna) and Synchro/Link/Fusion Summons choose position freely.
+
 **Rule we nearly broke:** **only 1 Rikka Glamour per turn** (and only 1 Moonlit Waters, 1 Predaprimitive). With 2 in hand, the second is a discard, not a second search.
 
 **Fallback if you have no Longinephila (UNTESTED):** Dracaena (send Rikka Princess) → **Glamour** (no Tribute) adds Black Princess → Black Princess from hand, Tribute Dracaena → Mudan → Konkon → set Moonlit → Xyz Sacred Queen Strenna → Rikka Queen Strenna → **Moonlit Waters Tributing Fortress via Konkon** (Primrose + Hellebore; Sacred Queen sets Sheet) → **Normal Summon Lilizard**, Hellebore Tributes it → Primrose + Black Princess → Teardrop. Not lethal (Teardrop 2800 + Strenna 2000), but Fortress is gone.
