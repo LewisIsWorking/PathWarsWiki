@@ -1,0 +1,43 @@
+# Line checker (CUE)
+
+Checks Master Duel combo lines as data before you try them in a game. It can't play the game; it checks the bookkeeping that went wrong in real games:
+
+| Check | Real mistake it catches |
+| --- | --- |
+| A monster is used after it left the field | Horus game (24 Nov): Black Princess was Xyz material, then her effect was used |
+| Deck counts | Rhino game 2 (25 Nov): Line B takes 2 Rikka Princess; PredaRikka runs 1 |
+| Dark Law: nothing sent to your GY | Rhino game 3 (25 Nov): Predaprimitive can't be activated under Dark Law |
+| Card is in the deck | Rhino game 3: Lilizard searches Polymerization; PredaRikka runs none |
+| One Normal Summon, once-per-turn effects, summon locks, 5 Main Monster Zones | Cactus vs Longinephila, Predaprimitive's Plant/Dragon lock, Moonlit's Plant Xyz lock |
+
+## Run it
+
+Needs [CUE](https://cuelang.org) v0.11.1 (`go install cuelang.org/go/cmd/cue@v0.11.1`, or the release binary).
+
+```
+./check.sh
+```
+
+Each line prints PASS or FAIL with its problems. `known_bad` lines are mistakes from real games: they **pass** when the checker finds a problem, which proves the check works.
+
+## Files
+
+- `schema.cue`: what a line looks like and every check.
+- `cards.cue`: card facts (Type, Level, effect names, which effects send to the GY). Effect names are short labels; every effect is once per turn unless listed in `notOpt`.
+- `decks.cue`: deck lists (PredaRikka as saved 25 Nov 2026, RikkaM1).
+- `lines_*.cue`: the lines. Same steps as the wiki pages.
+
+## Adding a line
+
+One step per action, in order. The fields that matter:
+
+- `card`: the card (add `#2` for a second copy on the field at once).
+- `action`: `normal_summon`, `special_summon`, `activate`, `effect`, `xyz`, `synchro`, `link`, `fusion`, `set`.
+- `effect`: which of the card's effects (names in `cards.cue`).
+- `zone`: where the card is (`field` by default; `hand`, `gy`, `deck`, `extra`).
+- `consumes`: field monsters that leave in this step (Tributes, materials).
+- `summons`: a monster this step summons when it isn't the step's own card.
+- `fromDeck`: cards taken from the Deck (adds, sends, attaches, summons).
+- `lock`: the summon lock the step applies (`plant`, `plant_or_dragon`, `extra_plant_xyz`, `no_special`).
+
+Mark new lines `status: "untested"` until they've been played.

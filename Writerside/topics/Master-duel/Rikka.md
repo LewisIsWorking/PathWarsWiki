@@ -15,6 +15,7 @@ Droll & Lock Bird 2, Rikka Petal 3, Maxx "C" 1, Ash 3, **Cactus Bouncer 1**, Pri
 - **Fit every line to the exact hand.** Start from the closest proven line, then change it to use the cards actually in hand (dead cards become Tribute fodder, spare searches get a job). Say what changed and why.
 - **Always improve.** When a game shows a better step, add it here as a new line or an upgrade, marked **UNTESTED** until it's been played.
 - **Check the line before you start:** Normal Summon used once, each once-per-turn effect used once, summon locks match the Extra Deck monsters, no more than 5 Main Monster Zones.
+- **Run the line checker** (`tools/line-check`, CUE): it checks deck counts, once-per-turn effects, summon locks, zones, Dark Law, and monsters used after they left the field. It caught all three mistakes from the 24–25 Nov games.
 - **Plan for their negates first.** Count them, decide what baits each one, and put the cards they can't stop first (see "Playing through negates" below).
 
 ## Playing through negates
